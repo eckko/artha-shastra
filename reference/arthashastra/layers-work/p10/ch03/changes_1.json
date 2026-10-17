@@ -1,0 +1,403 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जो बल में श्रेष्ठ हो, जिसने शत्रु-पक्ष में उपजाप कर लिया हो और जिसने ऋतु के विरुद्ध प्रतिविधान कर लिया हो, वह अपनी भूमि पर प्रकाश-युद्ध करे।",
+  "new": "जो बल में श्रेष्ठ हो, जिसने उपजाप कर लिया हो और जिसने ऋतु के विरुद्ध प्रतिविधान कर लिया हो, वह अपनी भूमि पर प्रकाश-युद्ध करे।",
+  "why": "reviewer (minor): 'शत्रु-पक्ष में' is not in the Sanskrit (kṛta-upajāpaḥ only); the English keeps this gloss in brackets, the Hindi adds it as text. Nothing added."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "kūṭa-yuddham",
+  "old": "deceptive battle",
+  "new": "treacherous warfare",
+  "why": "reviewer (error): Glossary (12.1) fixes kūṭa-yuddha = treacherous warfare (कूटयुद्ध); the draft has 'deceptive battle'."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "In the opposite case, (he should resort to) deceptive battle.",
+  "new": "In the opposite case, (he should resort to) treacherous warfare.",
+  "why": "reviewer (error): Glossary (12.1) fixes kūṭa-yuddha = treacherous warfare (कूटयुद्ध); the draft has 'deceptive battle'."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "विपरीत स्थिति में कूट-युद्ध करे।",
+  "new": "विपरीत स्थिति में कूटयुद्ध करे।",
+  "why": "reviewer (error): Glossary (12.1) fixes kūṭa-yuddha = treacherous warfare (कूटयुद्ध); the draft has 'deceptive battle'."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "He should strike the enemy at times of calamity to the (enemy's) troops or of a surprise attack; or, himself standing on his own ground, (strike) the enemy standing on unfavourable ground; or, having a hold over the (enemy's) constituent elements, (strike) the enemy even when standing on his own ground.",
+  "new": "He should strike the enemy at times of calamity to the (enemy's) troops or of a surprise attack; or, himself standing on his own ground, (strike) the enemy standing on unfavourable ground; or, having a hold over the (enemy's) constituent elements, (strike) the enemy standing on his own ground.",
+  "why": "reviewer (minor): 'even' is not in the Sanskrit (sva-bhūmiṣṭham only); it is an inference about the sense."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "सेना पर विपत्ति आने या आकस्मिक आक्रमण के अवसरों पर शत्रु पर प्रहार करे; अथवा स्वयं अपनी भूमि पर स्थित होकर प्रतिकूल भूमि पर स्थित शत्रु पर; अथवा शत्रु की प्रकृतियों पर पकड़ रखते हुए अपनी भूमि पर स्थित शत्रु पर भी प्रहार करे।",
+  "new": "सेना पर विपत्ति आने या आकस्मिक आक्रमण के अवसरों पर शत्रु पर प्रहार करे; अथवा स्वयं अपनी भूमि पर स्थित होकर प्रतिकूल भूमि पर स्थित शत्रु पर; अथवा शत्रु की प्रकृतियों पर पकड़ रखते हुए अपनी भूमि पर स्थित शत्रु पर प्रहार करे।",
+  "why": "reviewer (minor): 'भी' (even) is not in the Sanskrit."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "bala-vyasana-avaskanda-kāleṣu",
+  "old": "at times of calamity to the (enemy's) troops or of a surprise attack",
+  "new": "at times of calamity to the (enemy's) troops or of an assault",
+  "why": "reviewer (error): Glossary (12.4) fixes avaskanda = assault (आक्रमण); the draft has 'surprise attack' / 'आकस्मिक आक्रमण'."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "He should strike the enemy at times of calamity to the (enemy's) troops or of a surprise attack; or, himself standing on his own ground, (strike) the enemy standing on unfavourable ground; or, having a hold over the (enemy's) constituent elements, (strike) the enemy standing on his own ground.",
+  "new": "He should strike the enemy at times of calamity to the (enemy's) troops or of an assault; or, himself standing on his own ground, (strike) the enemy standing on unfavourable ground; or, having a hold over the (enemy's) constituent elements, (strike) the enemy standing on his own ground.",
+  "why": "reviewer (error): Glossary (12.4) fixes avaskanda = assault (आक्रमण); the draft has 'surprise attack' / 'आकस्मिक आक्रमण'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "सेना पर विपत्ति आने या आकस्मिक आक्रमण के अवसरों पर शत्रु पर प्रहार करे; अथवा स्वयं अपनी भूमि पर स्थित होकर प्रतिकूल भूमि पर स्थित शत्रु पर; अथवा शत्रु की प्रकृतियों पर पकड़ रखते हुए अपनी भूमि पर स्थित शत्रु पर प्रहार करे।",
+  "new": "सेना पर विपत्ति आने या आक्रमण के अवसरों पर शत्रु पर प्रहार करे; अथवा स्वयं अपनी भूमि पर स्थित होकर प्रतिकूल भूमि पर स्थित शत्रु पर; अथवा शत्रु की प्रकृतियों पर पकड़ रखते हुए अपनी भूमि पर स्थित शत्रु पर प्रहार करे।",
+  "why": "reviewer (error): Glossary (12.4) fixes avaskanda = assault (आक्रमण); the draft has 'surprise attack' / 'आकस्मिक आक्रमण'."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "इन दोनों से पार्श्वों पर के दोनों प्रहार समझ लेने चाहिए।",
+  "new": "इन दोनों से पार्श्वों पर के दोनों प्रहारों की व्याख्या हो जाती है।",
+  "why": "reviewer (minor): vyākhyātau is a statement ('are explained'), not an injunction; the Hindi makes it modal ('should be understood'). The English is right."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "sattra-apāśrayaḥ",
+  "old": "having an ambush as his resort",
+  "new": "having an ambush position as his resort",
+  "why": "reviewer (error): Glossary (8.5) fixes sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi keeps 'सत्र' untranslated."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Or, having himself given a (feigned) rout with the treasonable troops, he, himself not over-confident and with an ambush as his resort, should strike (the enemy) who has become confident, thinking \"it is won\".",
+  "new": "Or, having himself given a (feigned) rout with the treasonable troops, he, himself not over-confident and with an ambush position as his resort, should strike (the enemy) who has become confident, thinking \"it is won\".",
+  "why": "reviewer (error): Glossary (8.5) fixes sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi keeps 'सत्र' untranslated."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "अथवा दूष्य सेना के द्वारा स्वयं भंग दिखाकर, \"जीत गए\" ऐसा मानकर विश्वस्त हुए शत्रु पर, स्वयं अविश्वस्त रहकर और सत्र का आश्रय लेकर, प्रहार करे।",
+  "new": "अथवा दूष्य सेना के द्वारा स्वयं भंग दिखाकर, \"जीत गए\" ऐसा मानकर विश्वस्त हुए शत्रु पर, स्वयं अविश्वस्त रहकर और गुप्त स्थान का आश्रय लेकर, प्रहार करे।",
+  "why": "reviewer (error): Glossary (8.5) fixes sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi keeps 'सत्र' untranslated."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "sattra here = a concealed position / ambush (listed in unit 24).",
+  "new": "sattra = hiding-place, ambush position (the list is in unit 24).",
+  "why": "reviewer (error): Glossary (8.5) fixes sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi keeps 'सत्र' untranslated."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "aviśvastaḥ",
+  "old": "himself not over-confident",
+  "new": "himself not trusting (wary)",
+  "why": "reviewer (minor): viśvasta = 'trusting, confident'; a-viśvasta = 'not trusting, wary'. 'over-confident' adds a degree that is not in the word (the enemy is viśvasta = confident; the king is simply not so)."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Or, having himself given a (feigned) rout with the treasonable troops, he, himself not over-confident and with an ambush position as his resort, should strike (the enemy) who has become confident, thinking \"it is won\".",
+  "new": "Or, having himself given a (feigned) rout with the treasonable troops, he, himself wary and with an ambush position as his resort, should strike (the enemy) who has become confident, thinking \"it is won\".",
+  "why": "reviewer (minor): viśvasta = 'trusting, confident'; a-viśvasta = 'not trusting, wary'. 'over-confident' adds a degree that is not in the word (the enemy is viśvasta = confident; the king is simply not so)."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "sattra-channaḥ",
+  "old": "hidden in an ambush",
+  "new": "hidden in an ambush position",
+  "why": "reviewer (error): Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); Hindi 'सत्र' is untranslated."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "Having drawn out the enemy's warriors by a seizure of cattle or by the killing of wild beasts (a hunt), he, hidden in an ambush, should strike.",
+  "new": "Having drawn out the enemy's warriors by a seizure of cattle or by the killing of wild beasts (a hunt), he, hidden in an ambush position, should strike.",
+  "why": "reviewer (error): Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); Hindi 'सत्र' is untranslated."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "गौओं को पकड़ने या वन्य पशुओं के वध के बहाने शत्रु के वीरों को खींचकर, सत्र में छिपे हुए रहकर प्रहार करे।",
+  "new": "गौओं को पकड़ने या वन्य पशुओं के वध के बहाने शत्रु के वीरों को खींचकर, गुप्त स्थान में छिपे हुए रहकर प्रहार करे।",
+  "why": "reviewer (error): Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); Hindi 'सत्र' is untranslated."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "गौओं को पकड़ने या वन्य पशुओं के वध के बहाने शत्रु के वीरों को खींचकर, गुप्त स्थान में छिपे हुए रहकर प्रहार करे।",
+  "new": "गौओं को पकड़कर या वन्य पशुओं का वध करके शत्रु के वीरों को खींचकर, गुप्त स्थान में छिपे हुए रहकर प्रहार करे।",
+  "why": "reviewer (minor): 'के बहाने' (under the pretext of) is interpretation; the Sanskrit has plain instrumentals go-grahaṇena / śvāpada-vadhena ('by seizing cattle or by killing wild beasts')."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "avaskandena",
+  "old": "by a surprise attack",
+  "new": "by an assault",
+  "why": "reviewer (error): Glossary (12.4) fixes avaskanda = assault (आक्रमण)."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Having kept (them) awake at night by a surprise attack, he should strike by day those exhausted with drowsiness or fallen asleep.",
+  "new": "Having kept (them) awake at night by an assault, he should strike by day those exhausted with drowsiness or fallen asleep.",
+  "why": "reviewer (error): Glossary (12.4) fixes avaskanda = assault (आक्रमण)."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "रात में आकस्मिक आक्रमण से जगाए रखकर, नींद से थके हुए या सोए हुए शत्रुओं पर दिन में प्रहार करे।",
+  "new": "रात में आक्रमण से जगाए रखकर, नींद से थके हुए या सोए हुए शत्रुओं पर दिन में प्रहार करे।",
+  "why": "reviewer (error): Glossary (12.4) fixes avaskanda = assault (आक्रमण)."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "sapāda-carma-kośaiḥ",
+  "old": "with leather sheaths on their feet",
+  "new": "whose leather coverings extend to the feet",
+  "why": "reviewer (minor): sa-pāda means 'together with the feet'; the bahuvrīhi says the elephants' leather coverings (carma-kośa) include/extend to the feet, not that sheaths are 'on their feet' only. The Hindi adds 'बँधे' (tied), which is not in the text, and the note states a purpose (silence) as if it were the reading."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Or he should deliver an attack on the sleeping (enemy) with elephants that have leather sheaths on their feet.",
+  "new": "Or he should deliver an attack on the sleeping (enemy) with elephants whose leather coverings extend to their feet.",
+  "why": "reviewer (minor): sa-pāda means 'together with the feet'; the bahuvrīhi says the elephants' leather coverings (carma-kośa) include/extend to the feet, not that sheaths are 'on their feet' only. The Hindi adds 'बँधे' (tied), which is not in the text, and the note states a purpose (silence) as if it were the reading."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अथवा जिनके पैरों पर चमड़े के कोश बँधे हों ऐसे हाथियों से सोए हुए शत्रु पर रात्रि-आक्रमण करे।",
+  "new": "अथवा जिनके पैरों तक चमड़े का आवरण हो ऐसे हाथियों से सोए हुए शत्रु पर रात्रि-आक्रमण करे।",
+  "why": "reviewer (minor): sa-pāda means 'together with the feet'; the bahuvrīhi says the elephants' leather coverings (carma-kośa) include/extend to the feet, not that sheaths are 'on their feet' only. The Hindi adds 'बँधे' (tied), which is not in the text, and the note states a purpose (silence) as if it were the reading."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "sapāda-carma-kośaiḥ taken as a bahuvrīhi qualifying hastibhiḥ (feet muffled with leather so as to be silent).",
+  "new": "sapāda-carma-kośaiḥ taken as a bahuvrīhi qualifying hastibhiḥ: sa-pāda 'including the feet' + carma-kośa 'leather covering', i.e. elephants cased in leather down to the feet. The purpose is not stated (silence, or protection of the feet).",
+  "why": "reviewer (minor): sa-pāda means 'together with the feet'; the bahuvrīhi says the elephants' leather coverings (carma-kośa) include/extend to the feet, not that sheaths are 'on their feet' only. The Hindi adds 'बँधे' (tied), which is not in the text, and the note states a purpose (silence) as if it were the reading."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "सूखे चमड़े के गोल कंकड़ भरे थैलों से, अथवा भड़कने वाले गाय, भैंस और ऊँटों के झुंडों से, जिसके हाथी और घोड़े अप्रशिक्षित हैं ऐसे शत्रु को तोड़कर, उसके पीछे हटने पर स्वयं अटूट रहकर प्रहार करे।",
+  "new": "सूखे चमड़े के, गोल कंकड़ भरे थैलों से, अथवा भड़कने वाले गाय, भैंस और ऊँटों के झुंडों से, जिसके हाथी और घोड़े अप्रशिक्षित हैं ऐसे टूटे हुए और पीछे हटे हुए शत्रु पर स्वयं अटूट रहकर प्रहार करे।",
+  "why": "reviewer (minor): bhinnam and pratinivṛttam are accusatives describing the enemy's state ('broken', 'turned back'); the Hindi turns bhinnam into the king's action ('तोड़कर') and pratinivṛttam into a condition. The English is right. Reading of ākośaka ('bag') and trasnubhiḥ with yūthaiḥ is the usual one; medium confidence is honest."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "",
+  "new": "sarvam may instead be adverbial, 'in every case': 'or in every case he should strike (the enemy) facing the sun and the wind'; the object reading ('the whole force') is given.",
+  "why": "reviewer (minor): sarvam can also be adverbial ('in every case'), giving 'or in every case he should strike (the enemy) facing the sun and the wind'; the draft takes it as the object without saying so."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "sattrāṇi",
+  "old": "ambushes (concealments)",
+  "new": "ambush positions (hiding-places)",
+  "why": "reviewer (error): Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi 'ये सत्र हैं' leaves the term untranslated."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "Desert, forest, a narrow pass, mud, a hill, low ground, uneven ground, boats, cattle, a cart array, fog and night: these are the ambushes.",
+  "new": "Desert, forest, a narrow pass, mud, a hill, low ground, uneven ground, boats, cattle, a cart array, fog and night: these are the ambush positions.",
+  "why": "reviewer (error): Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi 'ये सत्र हैं' leaves the term untranslated."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "मरुभूमि, वन, सँकरा मार्ग, कीचड़, पर्वत, निचली भूमि, विषम भूमि, नावें, गौएँ, शकट-व्यूह, कुहरा और रात्रि — ये सत्र हैं।",
+  "new": "मरुभूमि, वन, सँकरा मार्ग, कीचड़, पर्वत, निचली भूमि, विषम भूमि, नावें, गौएँ, शकट-व्यूह, कुहरा और रात्रि — ये गुप्त स्थान हैं।",
+  "why": "reviewer (error): Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi 'ये सत्र हैं' leaves the term untranslated."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "sattra = a place or means of concealment for a surprise attack. The edition prints śakaṭavyūho without a member mark.",
+  "new": "sattra = hiding-place, ambush position; here a place or means of concealment for an attack. The edition prints śakaṭavyūho without a member mark.",
+  "why": "reviewer (error): Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi 'ये सत्र हैं' leaves the term untranslated."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus (end of quotation)",
+  "new": "thus (closing the list)",
+  "why": "reviewer (minor): iti here closes the enumeration, not a quotation."
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "kūṭa-yuddha-hetavaḥ",
+  "old": "occasions for deceptive battle",
+  "new": "grounds for treacherous warfare",
+  "why": "reviewer (error): Glossary (12.1): kūṭa-yuddha = treacherous warfare (कूटयुद्ध). hetu = 'grounds' rather than 'occasions'."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "And the earlier mentioned times for striking are occasions for deceptive battle.",
+  "new": "And the earlier mentioned times for striking are grounds for treacherous warfare.",
+  "why": "reviewer (error): Glossary (12.1): kūṭa-yuddha = treacherous warfare (कूटयुद्ध). hetu = 'grounds' rather than 'occasions'."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "और पहले कहे गए प्रहार के काल कूट-युद्ध के कारण हैं।",
+  "new": "और पहले कहे गए प्रहार के काल कूटयुद्ध के कारण हैं।",
+  "why": "reviewer (error): Glossary (12.1): kūṭa-yuddha = treacherous warfare (कूटयुद्ध). hetu = 'grounds' rather than 'occasions'."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "मन्त्री और पुरोहित के द्वारा व्यूह की सम्पत् दिखाकर योद्धाओं को उत्साहित करे।",
+  "new": "मन्त्री और पुरोहित के द्वारा व्यूह की सम्पत् से योद्धाओं को उत्साहित करे।",
+  "why": "reviewer (minor): 'दिखाकर' (by showing) is added; the Sanskrit is a plain instrumental vyūha-sampadā."
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "kārtāntika-ādiḥ",
+  "old": "astrologers and the rest",
+  "new": "fortune-tellers and the rest",
+  "why": "reviewer (error): Glossary (12.2) fixes kārtāntika = fortune-teller (ज्योतिषी) and (10.1) mauhūrtika = astrologer; the draft renders kārtāntika 'astrologer', which merges the two offices (unit 44 has mauhūrtika), and the Hindi keeps 'कार्तान्तिक'."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "And his group of astrologers and the rest should, by proclaiming (his) omniscience and his association with divinities, make his own side exultant and the enemy's side alarmed.",
+  "new": "And his group of fortune-tellers and the rest should, by proclaiming (his) omniscience and his association with divinities, make his own side exultant and the enemy's side alarmed.",
+  "why": "reviewer (error): Glossary (12.2) fixes kārtāntika = fortune-teller (ज्योतिषी) and (10.1) mauhūrtika = astrologer; the draft renders kārtāntika 'astrologer', which merges the two offices (unit 44 has mauhūrtika), and the Hindi keeps 'कार्तान्तिक'."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "और उसका कार्तान्तिक आदि का वर्ग उसकी सर्वज्ञता और देवताओं के साथ उसके सम्बन्ध का प्रचार करके अपने पक्ष को उत्साहित करे और शत्रु-पक्ष को उद्विग्न करे।",
+  "new": "और उसका ज्योतिषी आदि का वर्ग उसकी सर्वज्ञता और देवताओं के साथ उसके सम्बन्ध का प्रचार करके अपने पक्ष को उत्साहित करे और शत्रु-पक्ष को उद्विग्न करे।",
+  "why": "reviewer (error): Glossary (12.2) fixes kārtāntika = fortune-teller (ज्योतिषी) and (10.1) mauhūrtika = astrologer; the draft renders kārtāntika 'astrologer', which merges the two offices (unit 44 has mauhūrtika), and the Hindi keeps 'कार्तान्तिक'."
+ },
+ {
+  "n": "33",
+  "field": "notes",
+  "old": "kārtāntika = astrologer (one who reads fate). Edition writes samyoga with m; saṃyoga in words is the same word.",
+  "new": "kārtāntika = fortune-teller (one who reads fate, kṛtānta); 'astrologer' is kept for mauhūrtika. Edition writes samyoga with m; saṃyoga in words is the same word.",
+  "why": "reviewer (error): Glossary (12.2) fixes kārtāntika = fortune-teller (ज्योतिषी) and (10.1) mauhūrtika = astrologer; the draft renders kārtāntika 'astrologer', which merges the two offices (unit 44 has mauhūrtika), and the Hindi keeps 'कार्तान्तिक'."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "शौर्य, शिल्प, कुलीनता और अनुराग से युक्त, तथा धन और सम्मान के विषय में जिसके साथ कभी विश्वासघात न हुआ हो, ऐसे सैनिकों को सेना का गर्भ बनाए।",
+  "new": "शौर्य, शिल्प, कुलीनता और अनुराग से युक्त, तथा धन और सम्मान के विषय में जिन्हें निराश न किया गया हो, ऐसे सैनिकों को सेना का गर्भ बनाए।",
+  "why": "reviewer (minor): visaṃvādita = 'disappointed, let down (in a promise)'; 'विश्वासघात' (betrayal) is stronger and 'कभी' (ever) is added. The English 'not let down' is right."
+ },
+ {
+  "n": "39",
+  "field": "word.gram",
+  "word": "pitṛ-putra-bhrātṛkāṇām",
+  "old": "m. gen. pl., dvandva",
+  "new": "m. gen. pl., bahuvrīhi (samāsānta -ka)",
+  "why": "reviewer (error): The samāsānta -ka (bhrātṛ-ka-) marks a bahuvrīhi: 'having fathers, sons and brothers' (qualifying āyudhīyānām), not a dvandva 'fathers, sons and brothers'. The draft's own note ('men serving together with their fathers, sons and brothers') already assumes the bahuvrīhi, so gloss, gram and the translations contradict the note."
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "pitṛ-putra-bhrātṛkāṇām",
+  "old": "of (men who are) fathers, sons and brothers",
+  "new": "who have fathers, sons and brothers (serving with them)",
+  "why": "reviewer (error): The samāsānta -ka (bhrātṛ-ka-) marks a bahuvrīhi: 'having fathers, sons and brothers' (qualifying āyudhīyānām), not a dvandva 'fathers, sons and brothers'. The draft's own note ('men serving together with their fathers, sons and brothers') already assumes the bahuvrīhi, so gloss, gram and the translations contradict the note."
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "A bare army without banners, of soldiers who are fathers, sons and brothers, is the king's station.",
+  "new": "A bare army without banners, of soldiers who have their fathers, sons and brothers (with them), is the king's station.",
+  "why": "reviewer (error): The samāsānta -ka (bhrātṛ-ka-) marks a bahuvrīhi: 'having fathers, sons and brothers' (qualifying āyudhīyānām), not a dvandva 'fathers, sons and brothers'. The draft's own note ('men serving together with their fathers, sons and brothers') already assumes the bahuvrīhi, so gloss, gram and the translations contradict the note."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "पिता, पुत्र और भाइयों से बने सैनिकों की, ध्वजा-रहित, मुण्ड सेना राजा का स्थान है।",
+  "new": "जिनके पिता, पुत्र और भाई साथ हों ऐसे सैनिकों की, ध्वजा-रहित, मुण्ड सेना राजा का स्थान है।",
+  "why": "reviewer (error): The samāsānta -ka (bhrātṛ-ka-) marks a bahuvrīhi: 'having fathers, sons and brothers' (qualifying āyudhīyānām), not a dvandva 'fathers, sons and brothers'. The draft's own note ('men serving together with their fathers, sons and brothers') already assumes the bahuvrīhi, so gloss, gram and the translations contradict the note."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "The e-text prints 't (tad?)': the word is damaged in the edition and 'tad' is the editors' conjecture; the translation follows it.",
+  "new": "The e-text prints 't (tad?)': the word is damaged in the edition and 'tad' is the editors' conjecture; the translation follows it. adhirohayet is causative in form; it is taken in the simple sense 'should mount' (or 'should have (the king) mounted', if the officers are the subject).",
+  "why": "reviewer (minor): The form is causative ('should cause to mount'); the draft translates it as simple 'should mount' without saying so."
+ },
+ {
+  "n": "43",
+  "field": "word.gram",
+  "word": "varṇayeyuḥ",
+  "old": "3 pl. opt. √varṇ",
+  "new": "3 pl. opt. varṇaya- (denom. of varṇa)",
+  "why": "reviewer (minor): varṇayati is a denominative (from varṇa), not a root √varṇ."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "पुरोहित के पुरुष कृत्या और अभिचार की बात कहें; यन्त्रिक, बढ़ई और मुहूर्त-शास्त्री अपने कर्म की सिद्धि और शत्रुओं की असिद्धि की बात कहें।",
+  "new": "पुरोहित के पुरुष कृत्या और अभिचार की बात कहें; यन्त्रिक, वर्धकि और मौहूर्तिक अपने कर्म की सिद्धि और शत्रुओं की असिद्धि की बात कहें।",
+  "why": "reviewer (error): Glossary fixes vardhaki = वर्धकि and mauhūrtika = मौहूर्तिक (10.1); the Hindi uses बढ़ई and मुहूर्त-शास्त्री."
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "kṛtya.abhicāra: kṛtyā (witchcraft) + abhicāra (sorcery); the compound form kṛtya- is regular. 'performed against the enemy' is implied, not stated.",
+  "new": "kṛtya.abhicāra: kṛtyā (witchcraft) + abhicāra (sorcery); the edition's split kṛtya.abhicāraṃ is only an artefact of the sandhi (kṛtyā + abhicāra = kṛtyābhicāra), not a typo. 'performed against the enemy' is implied, not stated.",
+  "why": "reviewer (minor): Misleading: the first member is kṛtyā (f.), whose final ā simply merges with a- of abhicāra (kṛtyā + abhicāra = kṛtyābhicāra); the edition's split kṛtya.abhicāraṃ is only an artefact of that sandhi. The word form kṛtyā-abhicāram is right; the note should say why it differs from the printed split."
+ },
+ {
+  "n": "47",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): The note itself calls the form unusual and the construction with puruṣāṇām is open: as a gerundive with a genitive agent it would mean 'to be delighted in by the men' (women whose presence cheers the men), while the draft gives the active sense 'serving to encourage'. Either way the point is the same, but 'high' confidence is not honest."
+ },
+ {
+  "n": "47",
+  "field": "notes",
+  "old": "uddharṣaṇīyāḥ is a gerundive form used here in the sense 'meant for encouraging (the men)'; the form is unusual.",
+  "new": "uddharṣaṇīyāḥ is a gerundive form used here in the sense 'meant for encouraging (the men)'; the form is unusual. Alternatively puruṣāṇām is the genitive agent of the gerundive: '(women) to be delighted in by the men', i.e. whose presence cheers them; the sense is the same.",
+  "why": "reviewer (minor): The note itself calls the form unusual and the construction with puruṣāṇām is open: as a gerundive with a genitive agent it would mean 'to be delighted in by the men' (women whose presence cheers the men), while the draft gives the active sense 'serving to encourage'. Either way the point is the same, but 'high' confidence is not honest."
+ },
+ {
+  "n": "50",
+  "field": "word.gram",
+  "word": "prajavitaḥ",
+  "old": "m. nom. sg., ppp pra-√ju",
+  "new": "m. nom. sg., ppp caus. pra-√ju",
+  "why": "reviewer (minor): prajavita is the ppp of the causative (pra-javayati), 'sped forward'; the label omits caus."
+ },
+ {
+  "n": "52",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus (end of quotation)",
+  "new": "thus (marking the classification)",
+  "why": "reviewer (minor): iti here marks the classification ('as even, uneven or mixed'), not the end of a quotation."
+ }
+]
