@@ -1,0 +1,138 @@
+[
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "इसलिए राजा कोश और दण्ड की शक्ति को अपने ही अधीन रखे।",
+  "new": "इसलिए कोश और दण्ड की शक्ति को अपने ही अधीन रखे।",
+  "why": "reviewer (minor): Subject 'राजा' is supplied; the Sanskrit has no subject (kurvīta, 3 sg. opt.) and the English leaves it as 'he'. Drop the addition."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Not so, says Kautilya.",
+  "new": "\"No,\" says Kautilya.",
+  "why": "reviewer (minor): GLOSSARY fixes the formula 'na iti kauṭilyaḥ' = \"No,\" says Kautilya (12.1 and the 'Teachers quoted' entry); other Book 8 chunks use it. Hindi already matches the glossary."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "The object (the kingdom) is understood from vairājyam. apavāhayati 'causes to be carried off' = drains its wealth; viraktam 'disaffected' agrees with the understood kingdom (its people).",
+  "new": "The object (the kingdom) is understood from vairājyam. apavāhayati 'causes to be carried off' = drains its wealth; viraktam 'disaffected' agrees with the understood kingdom (its people). Hindi 'धन' after apavāhayati is supplied (the Sanskrit has no object).",
+  "why": "reviewer (minor): apavāhayati has no expressed object; 'धन' is supplied (the English brackets it). Acceptable in Hindi, where brackets are not allowed; note it."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "\"अन्धा राजा अथवा शास्त्र से विचलित राजा\" — इस विषय में \"शास्त्ररूपी नेत्र से रहित अन्धा राजा, जो मन में जो आए वही करने वाला, हठी अथवा दूसरों के द्वारा चलाया जाने वाला होता है, अन्याय से राज्य का नाश कर देता है; किन्तु शास्त्र से विचलित राजा जिस विषय में उसकी बुद्धि शास्त्र से हट जाती है, उसमें समझाया जा सकता है\" — ऐसा आचार्य कहते हैं।",
+  "new": "\"अन्धा राजा अथवा शास्त्र से विचलित राजा\" — इस विषय में \"शास्त्ररूपी नेत्र से रहित अन्धा राजा, मन में जो आए वही करने वाला, हठी अथवा दूसरों के द्वारा चलाया जाने वाला होकर अन्याय से राज्य का नाश कर देता है; किन्तु शास्त्र से विचलित राजा जिस विषय में उसकी बुद्धि शास्त्र से हट जाती है, उसमें समझाया जा सकता है\" — ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): Doubled 'जो' and a relative clause ('जो ... होता है') with no correlative; the main clause 'अन्याय से राज्य का नाश कर देता है' is left hanging."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Not so, says Kautilya.",
+  "new": "\"No,\" says Kautilya.",
+  "why": "reviewer (minor): GLOSSARY fixes the formula 'na iti kauṭilyaḥ' = \"No,\" says Kautilya (12.1 and the 'Teachers quoted' entry); other Book 8 chunks use it. Hindi already matches the glossary."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Not so, says Kautilya.",
+  "new": "\"No,\" says Kautilya.",
+  "why": "reviewer (minor): GLOSSARY fixes the formula 'na iti kauṭilyaḥ' = \"No,\" says Kautilya (12.1 and the 'Teachers quoted' entry); other Book 8 chunks use it. Hindi already matches the glossary."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "bala-āvarjitam 'won over by force' agrees with the understood kingdom (object of carati, 'deals with').",
+  "new": "bala-āvarjitam 'won over by force' agrees with the understood kingdom (object of carati, 'deals with'). bala-āvarjitam could also belong inside the quoted thought ('this kingdom won by force is mine'); the translation follows the edition's quotation marks.",
+  "why": "reviewer (minor): The edition's quote marks exclude bala-āvarjitam from the king's thought; it could equally be inside it ('this kingdom won by force is mine'). Worth a note; translation follows the printed punctuation, which is correct practice."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "\"A weak king of high birth or a strong king of low birth\": \"The constituent elements, having regard to weakness, go along with the instigation (upajāpa) of a weak king of high birth only with difficulty, but easily with that of a strong king of low birth, having regard to strength,\" say the teachers.",
+  "new": "\"A weak king of high birth or a strong king of low birth\": \"The constituent elements, having regard to weakness, go along with the secret instigation (upajāpa) of a weak king of high birth only with difficulty, but easily with that of a strong king of low birth, having regard to strength,\" say the teachers.",
+  "why": "reviewer (minor): GLOSSARY (8.1): upajāpa = secret instigation (उपजाप)."
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "upajāpam",
+  "old": "instigation",
+  "new": "secret instigation",
+  "why": "reviewer (minor): Same: glossary rendering."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Not so, says Kautilya.",
+  "new": "\"No,\" says Kautilya.",
+  "why": "reviewer (minor): GLOSSARY fixes the formula 'na iti kauṭilyaḥ' = \"No,\" says Kautilya (12.1 and the 'Teachers quoted' entry); other Book 8 chunks use it. Hindi already matches the glossary."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "The constituent elements of their own accord submit to a weak king of high birth; the constituent element of sovereignty follows the well-born one.",
+  "new": "The constituent elements of their own accord submit to a weak king of high birth; sovereignty by its nature follows the well-born one.",
+  "why": "reviewer (error): aiśvarya is not one of the prakṛtis, and a singular 'constituent element of sovereignty' has no referent in the system; here prakṛti is used in its ordinary sense 'nature' (svabhāva): 'sovereignty by its nature attaches to the well-born'. The glossary rendering applies to prakṛti = the seven constituents, not to this sense. The Hindi 'ऐश्वर्य की प्रकृति' is fine, since प्रकृति also means nature."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "aiśvarya-prakṛtiḥ",
+  "old": "the constituent element of sovereignty",
+  "new": "the nature of sovereignty",
+  "why": "reviewer (error): Same: gloss as 'the nature of sovereignty'."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "aiśvarya-prakṛti: either 'the constituents (subjects) of the realm' or 'the nature of sovereignty', i.e. sovereignty by its nature attaches to high birth; glossary rendering kept.",
+  "new": "aiśvarya-prakṛti taken as 'the nature (svabhāva) of sovereignty', i.e. sovereignty by its nature attaches to high birth; the alternative 'the constituents (subjects) of the realm' is possible but aiśvarya is not one of the seven prakṛtis. Hindi प्रकृति covers both senses.",
+  "why": "reviewer (minor): Note should record the alternative the other way round (nature chosen, constituents as alternative)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "और बलवान् अकुलीन राजा के उपजाप को वे विफल कर देती हैं; अनुराग में ही सब गुणों की पूर्णता है।",
+  "new": "और बलवान् अकुलीन राजा के उपजाप को वे विफल कर देती हैं; अनुराग में सब गुणों की पूर्णता है।",
+  "why": "reviewer (minor): 'ही' adds an emphasis the Sanskrit (anurāge sārvaguṇyam) does not have."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "And they frustrate the instigation of a strong king of low birth; in affection lies the totality of all qualities.",
+  "new": "And they frustrate the secret instigation of a strong king of low birth; in affection lies the totality of all qualities.",
+  "why": "reviewer (minor): GLOSSARY (8.1): upajāpa = secret instigation."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "upajāpam",
+  "old": "instigation",
+  "new": "secret instigation",
+  "why": "reviewer (minor): Same: glossary rendering."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "Because it destroys the effort (spent on it), destruction of the standing crop is worse than destruction of the handful (the reaped grain); because it leaves no livelihood, drought is worse than excessive rain.",
+  "new": "Because it destroys the effort (spent on it), destruction of the crop is worse than destruction of the handful; because it leaves no livelihood, drought is worse than excessive rain.",
+  "why": "reviewer (minor): 'standing' and '(the reaped grain)' put one contested interpretation of muṣṭi into the translation. The causal reading of prayāsa-vadhāt is right (parallel to nirājīvatvāt), but the 'loss of effort' argument fits muṣṭi = the handful of seed sown (little effort lost) at least as well as reaped grain. Keep the translation literal and leave the interpretation in notes."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "परिश्रम के नष्ट हो जाने के कारण खड़ी फसल का नाश कटी हुई मुट्ठी-भर फसल के नाश से अधिक अनिष्टकारी है; जीविका न रह जाने के कारण अनावृष्टि अतिवृष्टि से अधिक अनिष्टकारी है।",
+  "new": "परिश्रम के नष्ट हो जाने के कारण फसल का नाश मुट्ठी-भर अन्न के नाश से अधिक अनिष्टकारी है; जीविका न रह जाने के कारण अनावृष्टि अतिवृष्टि से अधिक अनिष्टकारी है।",
+  "why": "reviewer (minor): Same interpretive additions ('खड़ी', 'कटी हुई') in the Hindi."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "Construed on the pattern of the second half: causal ablative + ablative of comparison. Alternative: 'destruction of the crop is worse than destruction of effort (sowing) and than destruction of the handful'. muṣṭi 'handful' is taken as the reaped grain in hand; it could also mean the seed sown. The two halves are two separate comparisons (crops vs. rain).",
+  "new": "Construed on the pattern of the second half: causal ablative + ablative of comparison. Alternative: 'destruction of the crop is worse than destruction of effort (sowing) and than destruction of the handful'. muṣṭi 'handful' is taken as the reaped grain in hand; it could also mean the seed sown. The two halves are two separate comparisons (crops vs. rain). Reviewer: muṣṭi may rather be the handful of seed-grain sown, which suits the 'loss of effort' reason better than reaped grain; translation kept literal ('the handful').",
+  "why": "reviewer (minor): Record that the seed-handful reading fits the effort argument."
+ }
+]

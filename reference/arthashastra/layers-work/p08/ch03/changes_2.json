@@ -1,0 +1,152 @@
+[
+ {
+  "n": "35",
+  "field": "word.gloss",
+  "word": "su-mahatā",
+  "old": "even very great",
+  "new": "very great",
+  "why": "reviewer (minor): 'even' belongs to api, not to su-mahatā."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "उसमें, \"मृगया और द्यूत में मृगया अधिक भारी है\" — ऐसा पिशुन कहते हैं।",
+  "new": "उसमें, \"मृगया और द्यूत में मृगया अधिक गम्भीर है\" — ऐसा पिशुन कहते हैं।",
+  "why": "reviewer (minor): Chunk 1 of this chapter renders garīyas as 'अधिक गम्भीर' throughout (units 5, 16, 18, 20, 22, 24, 30); keep one rendering."
+ },
+ {
+  "n": "40",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "din.mohāḥ",
+    "suggest": "diṅ.mohāḥ",
+    "why": "diś before m gives diṅ (or dig); the e-text's dental n is anomalous (it writes dig.vibhāgam at 2.30.6 and dig.devatāḥ at 2.4.20). Read diṅ-moha, 'confusion of directions'."
+   }
+  ],
+  "why": "reviewer (minor): The e-text's 'din' (दिन्, dental n) for diś before m is an e-text anomaly, not a spelling convention: elsewhere the same e-text writes dig. (दिग्.विभागं 2.30.6, दिग्.देवताः 2.4.20). The draft rightly reads diṅ in `words` but says in notes 'not a typo' and gives no text_flag; the brief requires a flag whenever `words` differ from `src`."
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "'din' is the e-text's spelling of diś before m (diṅ-moha, 'confusion of directions'); not a typo. The long compound can also be read as a plain dvandva with 'bhaya' as a separate item ('fear'); the reading here takes the first five members as the objects of 'bhaya'. 'prāṇa-ābādhaḥ' singular predicate with plural subjects.",
+  "new": "'din' is the e-text's spelling of diṅ (diś before m, 'diṅ-moha', confusion of directions); flagged. The long compound can also be read as a plain dvandva with 'bhaya' as a separate item ('fear'); the reading here takes the first five members as the objects of 'bhaya'. 'prāṇa-ābādhaḥ' singular predicate with plural subjects.",
+  "why": "reviewer (minor): Contradicts the flag above."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "उन दोनों में भी किसी एक की पराजय होती ही है — यह नल और युधिष्ठिर से समझाया जा चुका है।",
+  "new": "उन दोनों में भी किसी एक की पराजय होती है — यह नल और युधिष्ठिर से समझाया जा चुका है।",
+  "why": "reviewer (minor): 'ही' (eva) is not in the line; the Sanskrit has only 'asti'."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Loss of wealth one has, acquisition of wealth that is not real, loss of wealth before it is enjoyed, and contracting disease through holding urine and faeces, hunger and the like: these are the evils of gambling.",
+  "new": "Loss of wealth one has, acquisition of wealth that does not exist, loss of wealth before it is enjoyed, and contracting disease through holding urine and faeces, hunger and the like: these are the evils of gambling.",
+  "why": "reviewer (minor): 'asataḥ' is literally 'of what does not exist'; the Hindi has the literal 'अविद्यमान'. 'not real' is one interpretation; keep the English as literal as the Hindi and leave the sense to notes (already there)."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "मृगया में तो व्यायाम होता है, कफ, पित्त, मेद और पसीने का नाश होता है, चलते और स्थिर शरीर पर लक्ष्य-भेद का अभ्यास होता है, क्रोध और भय की स्थितियों में पशुओं के चित्त का ज्ञान होता है, और यात्रा सदा नहीं करनी पड़ती — ऐसा।",
+  "new": "मृगया में तो व्यायाम होता है, कफ, पित्त, मेद और पसीने का नाश होता है, चलते और स्थिर शरीर पर लक्ष्य-भेद का अभ्यास होता है, क्रोध और भय की स्थितियों में पशुओं के चित्त का ज्ञान होता है, और अनित्य गमन — इस प्रकार यह मत है।",
+  "why": "reviewer (minor): 'यात्रा सदा नहीं करनी पड़ती' picks the 'only occasional marching' interpretation that the English and the note deliberately leave open; and the closing '— ऐसा।' is a dangling fragment. Render anitya-yāna literally and close the view as chunk 1 of 8.1 does ('— इस प्रकार यह मत है।')."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "'anitya-yānam' is ambiguous: 'marching only occasionally' (hunting takes one out only now and then) or 'movement that is not fixed, irregular'; rendered literally. 'cale sthite ca kāye' = on a moving and on a still body (of the quarry).",
+  "new": "'anitya-yānam' is ambiguous: 'marching only occasionally' (hunting takes one out only now and then) or 'movement that is not fixed, irregular'; rendered literally. 'cale sthite ca kāye' = on a moving and on a still body (of the quarry). 'vyāyāma' here = bodily exercise, not the 6.2 sense 'activity' (śama/vyāyāma pair).",
+  "why": "reviewer (minor): Add that vyāyāma here is bodily exercise, a different sense from the glossary's 6.2 'activity' (śama/vyāyāma pair)."
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "\"द्यूत और स्त्री के व्यसनों में द्यूत का व्यसन अधिक भारी है\" — ऐसा कौणपदन्त कहते हैं।",
+  "new": "\"द्यूत और स्त्री के व्यसनों में द्यूत का व्यसन अधिक गम्भीर है\" — ऐसा कौणपदन्त कहते हैं।",
+  "why": "reviewer (minor): Consistency with chunk 1 ('अधिक गम्भीर'). The supplied predicate is acceptable (parallel to chunk 1 units 24, 30 which also supply it in Hindi without brackets)."
+ },
+ {
+  "n": "51",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "rājahite.niyoktum,",
+    "suggest": "rājahite niyoktum,",
+    "why": "the e-text's '.' joins a locative and an infinitive, not compound members; two separate words."
+   }
+  ],
+  "why": "reviewer (minor): The e-text's '.' marks compound boundaries; here it joins a locative (rājahite) and an infinitive (niyoktum), which cannot form a compound. The draft explains this in notes only; record it as a text_flag so the editor sees it. Reading (two words) is right; 'avasrāvayitum' (caus. ava-√sru, make flow off = get rid of) is acceptable with medium confidence."
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "Not appearing (in public), aversion to work, loss and loss of dharma through letting time pass, weakness of the administration, and addiction to drink: these (are the evils of the vice of women).",
+  "new": "Not appearing (in public), aversion to work, harm and loss of dharma through letting time pass, weakness of the administration, and addiction to drink: these (are the evils of the vice of women).",
+  "why": "reviewer (minor): 'anartha' and 'dharma-lopa' both rendered 'loss' reads as a slip; anartha = harm (the word gloss itself says 'loss, harm')."
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "\"स्त्री और पान के व्यसनों में स्त्री-व्यसन अधिक भारी है\" — ऐसा वातव्याधि कहते हैं।",
+  "new": "\"स्त्री और पान के व्यसनों में स्त्री-व्यसन अधिक गम्भीर है\" — ऐसा वातव्याधि कहते हैं।",
+  "why": "reviewer (minor): Consistency with chunk 1 ('अधिक गम्भीर')."
+ },
+ {
+  "n": "59",
+  "field": "word.gram",
+  "word": "bāhyeṣu",
+  "old": "m./f. loc. pl.",
+  "new": "m. loc. pl. (agreeing with dāreṣu understood)",
+  "why": "reviewer (error): '-eṣu' is masculine/neuter, never feminine (f. would be bāhyāsu); it agrees with dāreṣu (m.) understood."
+ },
+ {
+  "n": "59",
+  "field": "word.gram",
+  "word": "agamyeṣu",
+  "old": "loc. pl. gerundive √gam",
+  "new": "m. loc. pl. gerundive √gam (agreeing with dāreṣu understood)",
+  "why": "reviewer (minor): Gender missing; same agreement as bāhyeṣu."
+ },
+ {
+  "n": "62",
+  "field": "hindi",
+  "old": "द्यूत और मद्य में द्यूत अधिक भारी है।",
+  "new": "द्यूत और मद्य में द्यूत अधिक गम्भीर है।",
+  "why": "reviewer (minor): Consistency with chunk 1 ('अधिक गम्भीर')."
+ },
+ {
+  "n": "63",
+  "field": "word.gloss",
+  "word": "ekeṣām",
+  "old": "of one side",
+  "new": "of some (i.e. of one of the two parties)",
+  "why": "reviewer (minor): 'of one side' is already the interpretation; the literal value is 'of some' (eka pl.). Put the literal in the gloss and keep the interpretation in notes (already there). The English 'of one side' may stand."
+ },
+ {
+  "n": "64",
+  "field": "english",
+  "old": "And especially among confederacies and among royal families that have the nature of a confederacy, there is division caused by gambling, and destruction caused by that; therefore indulgence of the bad is the most sinful of vices, because of (its causing) weakness of the administration. So (ends the argument).",
+  "new": "And especially among confederacies and among royal families that have the nature of a confederacy, there is division caused by gambling, and destruction caused by that; therefore favouring of the bad is the most sinful of vices, because of (its causing) weakness of the administration. So (ends the argument).",
+  "why": "reviewer (minor): Verse 65 renders the same expression (asatāṃ pragrahaḥ) 'favouring of the bad'; the Hindi uses 'असत् का प्रग्रह' in both. Use one English rendering."
+ },
+ {
+  "n": "64",
+  "field": "word.gloss",
+  "word": "asat-pragrahaḥ",
+  "old": "indulgence of the bad",
+  "new": "favouring of the bad",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "और विशेष रूप से संघों में तथा संघ-धर्म वाले राजकुलों में द्यूत के कारण भेद और उसके कारण विनाश होता है; इसलिए असत् का प्रग्रह, शासन की दुर्बलता के कारण, व्यसनों में सबसे पापपूर्ण है — ऐसा।",
+  "new": "और विशेष रूप से संघों में तथा संघ-धर्म वाले राजकुलों में द्यूत के कारण भेद और उसके कारण विनाश होता है; इसलिए असत् का प्रग्रह, शासन की दुर्बलता के कारण, व्यसनों में सबसे पापपूर्ण है — इस प्रकार यह मत है।",
+  "why": "reviewer (minor): Dangling fragment for the closing 'iti'; close as in 46 / chunk 1 of 8.1."
+ }
+]

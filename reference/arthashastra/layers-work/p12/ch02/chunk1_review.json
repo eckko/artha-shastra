@@ -1,0 +1,346 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शत्रु-रूप छह वर्गों के वश में होकर",
+     "problem": "ṣaḍ-varga is 'the group of six (enemies)', not 'six groups'; 'होकर' also turns the attribute into a cause.",
+     "fix": "शत्रुरूप षड्वर्ग के वश में पड़े ये राजा नष्ट हो गए",
+     "severity": "error",
+     "patch": {"n": "1", "op": "set", "field": "hindi", "value": "यदि वह सन्धि पर स्थिर न रहे, तो उससे कहे — \"शत्रुरूप षड्वर्ग के वश में पड़े ये राजा नष्ट हो गए; उन अनात्मवानों के मार्ग पर चलना तुम्हें उचित नहीं।"}
+    },
+    {
+     "field": "gram",
+     "where": "śatru-ṣaḍ-varga-vaśagāḥ",
+     "problem": "X-vaśa-ga ('gone into the power of X') is an upapada tat-puruṣa, not a bahuvrīhi.",
+     "fix": "m. nom. pl., upapada tat-puruṣa",
+     "severity": "minor",
+     "patch": {"n": "1", "op": "word", "match_w": "śatru-ṣaḍ-varga-vaśagāḥ", "field": "gram", "value": "m. nom. pl., upapada tat-puruṣa"}
+    }
+   ]
+  },
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "with this very wealth",
+     "problem": "'very' is not in the Sanskrit (no eva); etena arthena = 'with this wealth'.",
+     "fix": "with this wealth",
+     "severity": "minor",
+     "patch": {"n": "5", "op": "replace", "field": "english", "old": "with this very wealth", "new": "with this wealth"}
+    },
+    {
+     "field": "hindi",
+     "where": "इसी धन से",
+     "problem": "Same added emphasis ('इसी' = this very).",
+     "fix": "इस धन से",
+     "severity": "minor",
+     "patch": {"n": "5", "op": "replace", "field": "hindi", "old": "इसी धन से", "new": "इस धन से"}
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "upaprekṣante",
+     "problem": "upa-pra-√īkṣ in this sense is 'overlook, look on indifferently at', which is what makes bhavān 'abandoned'; plain 'look on at' loses the point.",
+     "fix": "look on indifferently at",
+     "severity": "minor",
+     "patch": {"n": "6", "op": "word", "match_w": "upaprekṣante", "field": "gloss", "value": "look on indifferently at"}
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "saḥ",
+     "problem": "Gloss 'so' does not match the gram (m. nom. sg. pronoun agreeing with bhavān); it is 'such (being the case), you'.",
+     "fix": "such (being the case)",
+     "severity": "minor",
+     "patch": {"n": "7", "op": "word", "match_w": "saḥ", "field": "gloss", "value": "such (being the case)"}
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "disaffection of his constituent elements against him",
+     "problem": "'against him' is an addition; prakṛti-kopam asya is just 'disaffection of his constituents'.",
+     "fix": "disaffection of his constituent elements",
+     "severity": "minor",
+     "patch": {"n": "8", "op": "replace", "field": "english", "old": "disaffection of his constituent elements against him", "new": "disaffection of his constituent elements"}
+    },
+    {
+     "field": "hindi",
+     "where": "तो उसके विरुद्ध उसकी प्रकृतियों का कोप करवाए",
+     "problem": "Same addition ('उसके विरुद्ध').",
+     "fix": "तो उसकी प्रकृतियों का कोप करवाए",
+     "severity": "minor",
+     "patch": {"n": "8", "op": "replace", "field": "hindi", "old": "तो उसके विरुद्ध उसकी प्रकृतियों का कोप करवाए", "new": "तो उसकी प्रकृतियों का कोप करवाए"}
+    },
+    {
+     "field": "english",
+     "where": "the Yoga-vāmana",
+     "problem": "Glossary: names in English are written in plain letters without diacritics; this section name is kept as a name.",
+     "fix": "the Yogavamana",
+     "severity": "minor",
+     "patch": {"n": "8", "op": "replace", "field": "english", "old": "the Yoga-vāmana", "new": "the Yogavamana"}
+    }
+   ]
+  },
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "ok", "issues": []},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वशीकरण की औषधियों के बहाने ... रस (विष) दिलवा दें",
+     "problem": "'के बहाने' (on the pretext of) is an addition; the Sanskrit is a plain instrumental. 'रस (विष)' is a bracketed gloss inside the Hindi, which the brief forbids.",
+     "fix": "वशीकरण की औषधियों के द्वारा ... विष दिलवा दें",
+     "severity": "error",
+     "patch": {"n": "14", "op": "set", "field": "hindi", "value": "अथवा सिद्ध के वेश वाले गुप्तचर, काम के वश में पड़े हुओं से, वशीकरण की औषधियों के द्वारा, धोखा देने के लिए मुख्य पुरुषों को विष दिलवा दें।"}
+    },
+    {
+     "field": "gram",
+     "where": "kāma-vaśān",
+     "problem": "As an adjective 'under the sway of love' (whose control is love) the compound is a bahuvrīhi, not a tat-puruṣa.",
+     "fix": "m. acc. pl., bahuvrīhi",
+     "severity": "minor",
+     "patch": {"n": "14", "op": "word", "match_w": "kāma-vaśān", "field": "gram", "value": "m. acc. pl., bahuvrīhi"}
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वैदेहक (व्यापारी) के वेश वाला",
+     "problem": "Bracketed gloss inside the Hindi.",
+     "fix": "व्यापारी के वेश वाला",
+     "severity": "error",
+     "patch": {"n": "15", "op": "replace", "field": "hindi", "old": "वैदेहक (व्यापारी) के वेश वाला", "new": "व्यापारी के वेश वाला"}
+    }
+   ]
+  },
+  {"n": "16", "verdict": "ok", "issues": []},
+  {"n": "17", "verdict": "ok", "issues": []},
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रस (विष) के द्वारा",
+     "problem": "Bracketed gloss inside the Hindi.",
+     "fix": "विष के द्वारा",
+     "severity": "error",
+     "patch": {"n": "18", "op": "replace", "field": "hindi", "old": "रस (विष) के द्वारा", "new": "विष के द्वारा"}
+    }
+   ]
+  },
+  {"n": "19", "verdict": "ok", "issues": []},
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "And a female mendicant",
+     "problem": "No connective (ca) in the Sanskrit.",
+     "fix": "A female mendicant",
+     "severity": "minor",
+     "patch": {"n": "20", "op": "replace", "field": "english", "old": "And a female mendicant", "new": "A female mendicant"}
+    },
+    {
+     "field": "hindi",
+     "where": "और एक भिक्षुकी",
+     "problem": "Same added connective.",
+     "fix": "एक भिक्षुकी",
+     "severity": "minor",
+     "patch": {"n": "20", "op": "replace", "field": "hindi", "old": "और एक भिक्षुकी", "new": "एक भिक्षुकी"}
+    }
+   ]
+  },
+  {"n": "21", "verdict": "ok", "issues": []},
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सूद या आरालिक (रसोइया) के वेश वाला",
+     "problem": "Bracketed gloss inside the Hindi; also the two terms should both be rendered, as in the English.",
+     "fix": "रसोइये या रसोई-सेवक के वेश वाला",
+     "severity": "error",
+     "patch": {"n": "22", "op": "replace", "field": "hindi", "old": "सूद या आरालिक (रसोइया) के वेश वाला", "new": "रसोइये या रसोई-सेवक के वेश वाला"}
+    },
+    {
+     "field": "notes",
+     "where": "the agent pretends the (enemy) king has ordered the official to poison the weaker king",
+     "problem": "The text does not say whose message it is or who is to be poisoned; this is imported interpretation stated as fact.",
+     "fix": "rāja-vacana: the text does not say which king's message is meant nor who is to be poisoned; the agent brings the official a king's message proposing the use of poison, backed by a bribe. abhinayet (abhi-√nī): 'act out, bring before'.",
+     "severity": "minor",
+     "patch": {"n": "22", "op": "set", "field": "notes", "value": "rāja-vacana: the text does not say which king's message is meant nor who is to be poisoned; the agent brings the official a king's message proposing the use of poison, backed by a bribe. abhinayet (abhi-√nī): 'act out, bring before'."}
+    }
+   ]
+  },
+  {"n": "23", "verdict": "ok", "issues": []},
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विद्रोह करने",
+     "problem": "vikrama = attack (valorous action), not 'rebellion'; the English has 'attack'.",
+     "fix": "आक्रमण करने",
+     "severity": "minor",
+     "patch": {"n": "24", "op": "replace", "field": "hindi", "old": "विद्रोह करने", "new": "आक्रमण करने"}
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शून्यपाल (राजा की अनुपस्थिति में रक्षक) के निकट रहने वाले सत्री (गुप्तचर)",
+     "problem": "Two bracketed glosses inside the Hindi; the explanation of śūnya-pāla is already in notes.",
+     "fix": "शून्यपाल के निकट रहने वाले सत्री",
+     "severity": "error",
+     "patch": {"n": "25", "op": "replace", "field": "hindi", "old": "शून्यपाल (राजा की अनुपस्थिति में रक्षक) के निकट रहने वाले सत्री (गुप्तचर)", "new": "शून्यपाल के निकट रहने वाले सत्री"}
+    },
+    {
+     "field": "gram",
+     "where": "ārjayadhvam",
+     "problem": "arjayati 'procure' is the class-10 root √arj, not a causative of √ṛj.",
+     "fix": "2 pl. impv. √arj (cl. 10)",
+     "severity": "minor",
+     "patch": {"n": "25", "op": "word", "match_w": "ārjayadhvam", "field": "gram", "value": "2 pl. impv. √arj (cl. 10)"}
+    },
+    {
+     "field": "notes",
+     "where": "ārjayadhvam: 2 pl. impv. of the causative of √ṛj (arjayati), 'procure'.",
+     "problem": "Same root error in the note.",
+     "fix": "ārjayadhvam: 2 pl. impv. of √arj (cl. 10, arjayati), 'procure'.",
+     "severity": "minor",
+     "patch": {"n": "25", "op": "replace", "field": "notes", "old": "ārjayadhvam: 2 pl. impv. of the causative of √ṛj (arjayati), 'procure'.", "new": "ārjayadhvam: 2 pl. impv. of √arj (cl. 10, arjayati), 'procure'."}
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should have the citizens robbed at night (āhārayeyuḥ)",
+     "problem": "The object of āhārayeyuḥ is paurān (the citizens themselves), and ā-√hṛ caus. is 'have (someone) brought / carried off, seize'; 'robbed' needs an object of property that is not there. The note already lists 'seized' as the alternative; a person should decide between 'have the citizens carried off (seized)' and 'robbed'.",
+     "fix": "should have the citizens carried off at night (Hindi: पौरों को पकड़वाएँ)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {"n": "27", "verdict": "ok", "issues": []},
+  {"n": "28", "verdict": "ok", "issues": []},
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समाहर्ता (कर-संग्राहक)",
+     "problem": "Bracketed gloss inside the Hindi.",
+     "fix": "समाहर्ता",
+     "severity": "error",
+     "patch": {"n": "29", "op": "replace", "field": "hindi", "old": "समाहर्ता (कर-संग्राहक)", "new": "समाहर्ता"}
+    }
+   ]
+  },
+  {"n": "30", "verdict": "ok", "issues": []},
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोष (असन्तोष)",
+     "problem": "Bracketed gloss inside the Hindi (the explanation is in notes).",
+     "fix": "दोष",
+     "severity": "error",
+     "patch": {"n": "31", "op": "replace", "field": "hindi", "old": "दोष (असन्तोष)", "new": "दोष"}
+    },
+    {
+     "field": "gloss",
+     "where": "doṣe",
+     "problem": "The gloss carries 'when', which belongs to the locative absolute, not the noun.",
+     "fix": "fault (grievance)",
+     "severity": "minor",
+     "patch": {"n": "31", "op": "word", "match_w": "doṣe", "field": "gloss", "value": "fault (grievance)"}
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और वे ... अपरुद्ध (राजा के कोप से दूर किए गए राजकुमार)",
+     "problem": "vā = 'or', not 'और' (the English has 'Or'); long bracketed gloss inside the Hindi (explanation is in notes).",
+     "fix": "अथवा वे उसके कुल के किसी व्यक्ति को या किसी अपरुद्ध को (उसके स्थान पर) स्थापित करें।",
+     "severity": "error",
+     "patch": {"n": "32", "op": "set", "field": "hindi", "value": "अथवा वे उसके कुल के किसी व्यक्ति को या किसी अपरुद्ध को (उसके स्थान पर) स्थापित करें।"}
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and men speaking as if in distress should tell him (of it)",
+     "problem": "ārta-vādinaḥ (nom. pl.) is most naturally a predicate of the same subject that burns and kills (daheyuḥ ... hanyuḥ ... brūyuḥ share one subject); the draft makes it a separate group of men, which is not in the text.",
+     "fix": "and, speaking as men in distress, should tell him (of it)",
+     "severity": "minor",
+     "patch": {"n": "33", "op": "replace", "field": "english", "old": "and men speaking as if in distress should tell him (of it)", "new": "and, speaking as men in distress, should tell him (of it)"}
+    },
+    {
+     "field": "hindi",
+     "where": "आर्त (पीड़ित) बनकर बोलने वाले लोग उसे (यह सब) बताएँ",
+     "problem": "Bracketed gloss inside the Hindi; same separate-subject reading as above.",
+     "fix": "वे आर्त बनकर बोलते हुए उसे (यह सब) बताएँ",
+     "severity": "error",
+     "patch": {"n": "33", "op": "replace", "field": "hindi", "old": "आर्त (पीड़ित) बनकर बोलने वाले लोग उसे (यह सब) बताएँ", "new": "वे आर्त बनकर बोलते हुए उसे (यह सब) बताएँ"}
+    }
+   ]
+  }
+ ],
+ "summary": "33 units reviewed, 33 issues: 11 error (one mistranslation of ṣaḍ-varga as 'six groups' in unit 1 Hindi; ten bracketed glosses inside the Hindi in units 14, 15, 18, 22, 25, 29, 31, 32, 33, plus 'और' for vā in 32), 22 minor (added words 'very', 'against him', 'And', 'के बहाने'; gram labels for vaśaga, kāma-vaśa, ārjayadhvam, saḥ, doṣe, upaprekṣante; a speculative note in 22; vikrama as 'विद्रोह' in 24; subject reading of ārta-vādinaḥ in 33; Yoga-vāmana spelling per glossary). Token split, sandhi and text_flags (15 vyañjane, 16 'vaghātavyā) are sound; confidence levels are honest. One item for a person: unit 26 āhārayeyuḥ ('robbed' vs 'carried off/seized'), no patch given. No regrouping suggested. Glossary extended with the agent and officer terms used consistently in this chunk."
+}

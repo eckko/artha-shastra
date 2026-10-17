@@ -1,0 +1,943 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसने शत्रु-पक्ष में उपजाप कर लिया हो",
+     "problem": "'शत्रु-पक्ष में' is not in the Sanskrit (kṛta-upajāpaḥ only); the English keeps this gloss in brackets, the Hindi adds it as text. Nothing added.",
+     "fix": "जिसने उपजाप कर लिया हो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसने शत्रु-पक्ष में उपजाप कर लिया हो",
+      "new": "जिसने उपजाप कर लिया हो",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kūṭa-yuddham",
+     "problem": "Glossary (12.1) fixes kūṭa-yuddha = treacherous warfare (कूटयुद्ध); the draft has 'deceptive battle'.",
+     "fix": "treacherous warfare",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "kūṭa-yuddham",
+       "field": "gloss",
+       "value": "treacherous warfare",
+       "n": "2"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "deceptive battle",
+       "new": "treacherous warfare",
+       "n": "2"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "कूट-युद्ध",
+       "new": "कूटयुद्ध",
+       "n": "2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "even when standing on his own ground",
+     "problem": "'even' is not in the Sanskrit (sva-bhūmiṣṭham only); it is an inference about the sense.",
+     "fix": "(strike) the enemy standing on his own ground",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(strike) the enemy even when standing on his own ground",
+      "new": "(strike) the enemy standing on his own ground",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपनी भूमि पर स्थित शत्रु पर भी प्रहार करे",
+     "problem": "'भी' (even) is not in the Sanskrit.",
+     "fix": "अपनी भूमि पर स्थित शत्रु पर प्रहार करे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपनी भूमि पर स्थित शत्रु पर भी प्रहार करे",
+      "new": "अपनी भूमि पर स्थित शत्रु पर प्रहार करे",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bala-vyasana-avaskanda-kāleṣu",
+     "problem": "Glossary (12.4) fixes avaskanda = assault (आक्रमण); the draft has 'surprise attack' / 'आकस्मिक आक्रमण'.",
+     "fix": "at times of calamity to the (enemy's) troops or of an assault",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "bala-vyasana-avaskanda-kāleṣu",
+       "field": "gloss",
+       "value": "at times of calamity to the (enemy's) troops or of an assault",
+       "n": "3"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "or of a surprise attack",
+       "new": "or of an assault",
+       "n": "3"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "आकस्मिक आक्रमण के अवसरों पर",
+       "new": "आक्रमण के अवसरों पर",
+       "n": "3"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "prakṛti-pragraha",
+     "problem": "The note gives both readings; the glossary fixes prakṛti = constituent element, so the chosen gloss is consistent. Confidence 'medium' is right. No change beyond the two above.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समझ लेने चाहिए",
+     "problem": "vyākhyātau is a statement ('are explained'), not an injunction; the Hindi makes it modal ('should be understood'). The English is right.",
+     "fix": "इन दोनों से पार्श्वों पर के दोनों प्रहारों की व्याख्या हो जाती है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इन दोनों से पार्श्वों पर के दोनों प्रहारों की व्याख्या हो जाती है।",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sattra-apāśrayaḥ",
+     "problem": "Glossary (8.5) fixes sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi keeps 'सत्र' untranslated.",
+     "fix": "having an ambush position as his resort",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "sattra-apāśrayaḥ",
+       "field": "gloss",
+       "value": "having an ambush position as his resort",
+       "n": "15"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "with an ambush as his resort",
+       "new": "with an ambush position as his resort",
+       "n": "15"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "सत्र का आश्रय लेकर",
+       "new": "गुप्त स्थान का आश्रय लेकर",
+       "n": "15"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "sattra here = a concealed position / ambush (listed in unit 24).",
+       "new": "sattra = hiding-place, ambush position (the list is in unit 24).",
+       "n": "15"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "aviśvastaḥ",
+     "problem": "viśvasta = 'trusting, confident'; a-viśvasta = 'not trusting, wary'. 'over-confident' adds a degree that is not in the word (the enemy is viśvasta = confident; the king is simply not so).",
+     "fix": "himself not trusting (wary)",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "aviśvastaḥ",
+       "field": "gloss",
+       "value": "himself not trusting (wary)",
+       "n": "15"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "himself not over-confident",
+       "new": "himself wary",
+       "n": "15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sattra-channaḥ",
+     "problem": "Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); Hindi 'सत्र' is untranslated.",
+     "fix": "hidden in an ambush position",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "sattra-channaḥ",
+       "field": "gloss",
+       "value": "hidden in an ambush position",
+       "n": "18"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "hidden in an ambush",
+       "new": "hidden in an ambush position",
+       "n": "18"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "सत्र में छिपे हुए रहकर",
+       "new": "गुप्त स्थान में छिपे हुए रहकर",
+       "n": "18"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "के बहाने",
+     "problem": "'के बहाने' (under the pretext of) is interpretation; the Sanskrit has plain instrumentals go-grahaṇena / śvāpada-vadhena ('by seizing cattle or by killing wild beasts').",
+     "fix": "गौओं को पकड़कर या वन्य पशुओं का वध करके शत्रु के वीरों को खींचकर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गौओं को पकड़ने या वन्य पशुओं के वध के बहाने शत्रु के वीरों को खींचकर",
+      "new": "गौओं को पकड़कर या वन्य पशुओं का वध करके शत्रु के वीरों को खींचकर",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "avaskandena",
+     "problem": "Glossary (12.4) fixes avaskanda = assault (आक्रमण).",
+     "fix": "by an assault",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "avaskandena",
+       "field": "gloss",
+       "value": "by an assault",
+       "n": "19"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "by a surprise attack",
+       "new": "by an assault",
+       "n": "19"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "आकस्मिक आक्रमण से",
+       "new": "आक्रमण से",
+       "n": "19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sapāda-carma-kośaiḥ",
+     "problem": "sa-pāda means 'together with the feet'; the bahuvrīhi says the elephants' leather coverings (carma-kośa) include/extend to the feet, not that sheaths are 'on their feet' only. The Hindi adds 'बँधे' (tied), which is not in the text, and the note states a purpose (silence) as if it were the reading.",
+     "fix": "whose leather coverings extend to the feet",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "sapāda-carma-kośaiḥ",
+       "field": "gloss",
+       "value": "whose leather coverings extend to the feet",
+       "n": "20"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "with elephants that have leather sheaths on their feet",
+       "new": "with elephants whose leather coverings extend to their feet",
+       "n": "20"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "जिनके पैरों पर चमड़े के कोश बँधे हों ऐसे हाथियों से",
+       "new": "जिनके पैरों तक चमड़े का आवरण हो ऐसे हाथियों से",
+       "n": "20"
+      },
+      {
+       "op": "set",
+       "field": "notes",
+       "value": "sapāda-carma-kośaiḥ taken as a bahuvrīhi qualifying hastibhiḥ: sa-pāda 'including the feet' + carma-kośa 'leather covering', i.e. elephants cased in leather down to the feet. The purpose is not stated (silence, or protection of the feet).",
+       "n": "20"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऐसे शत्रु को तोड़कर, उसके पीछे हटने पर",
+     "problem": "bhinnam and pratinivṛttam are accusatives describing the enemy's state ('broken', 'turned back'); the Hindi turns bhinnam into the king's action ('तोड़कर') and pratinivṛttam into a condition. The English is right. Reading of ākośaka ('bag') and trasnubhiḥ with yūthaiḥ is the usual one; medium confidence is honest.",
+     "fix": "सूखे चमड़े के, गोल कंकड़ भरे थैलों से, अथवा भड़कने वाले गाय, भैंस और ऊँटों के झुंडों से, जिसके हाथी और घोड़े अप्रशिक्षित हैं ऐसे टूटे हुए और पीछे हटे हुए शत्रु पर स्वयं अटूट रहकर प्रहार करे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "सूखे चमड़े के, गोल कंकड़ भरे थैलों से, अथवा भड़कने वाले गाय, भैंस और ऊँटों के झुंडों से, जिसके हाथी और घोड़े अप्रशिक्षित हैं ऐसे टूटे हुए और पीछे हटे हुए शत्रु पर स्वयं अटूट रहकर प्रहार करे।",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sarvam",
+     "problem": "sarvam can also be adverbial ('in every case'), giving 'or in every case he should strike (the enemy) facing the sun and the wind'; the draft takes it as the object without saying so.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "sarvam may instead be adverbial, 'in every case': 'or in every case he should strike (the enemy) facing the sun and the wind'; the object reading ('the whole force') is given.",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sattrāṇi",
+     "problem": "Glossary (8.5): sattra = hiding-place, ambush position (गुप्त स्थान); the Hindi 'ये सत्र हैं' leaves the term untranslated.",
+     "fix": "ambush positions (hiding-places)",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "sattrāṇi",
+       "field": "gloss",
+       "value": "ambush positions (hiding-places)",
+       "n": "24"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "these are the ambushes",
+       "new": "these are the ambush positions",
+       "n": "24"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "ये सत्र हैं",
+       "new": "ये गुप्त स्थान हैं",
+       "n": "24"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "sattra = a place or means of concealment for a surprise attack.",
+       "new": "sattra = hiding-place, ambush position; here a place or means of concealment for an attack.",
+       "n": "24"
+      }
+     ]
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "iti here closes the enumeration, not a quotation.",
+     "fix": "thus (closing the list)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "thus (closing the list)",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kūṭa-yuddha-hetavaḥ",
+     "problem": "Glossary (12.1): kūṭa-yuddha = treacherous warfare (कूटयुद्ध). hetu = 'grounds' rather than 'occasions'.",
+     "fix": "grounds for treacherous warfare",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "kūṭa-yuddha-hetavaḥ",
+       "field": "gloss",
+       "value": "grounds for treacherous warfare",
+       "n": "25"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "occasions for deceptive battle",
+       "new": "grounds for treacherous warfare",
+       "n": "25"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "कूट-युद्ध के कारण",
+       "new": "कूटयुद्ध के कारण",
+       "n": "25"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "|| 31 ||",
+     "problem": "The verse number and double daṇḍa printed inside the line before the closing quote are an e-text artefact, not text; the note records it but text_flags is empty. A person should decide whether such an artefact gets a text_flags entry in this project (the checker requires the tokens to stay).",
+     "fix": "add a text_flags entry {src: '|| 31 ||', suggest: '(delete)', why: 'verse number printed inside the line'} if the project flags such artefacts",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "funeral water-offering",
+     "problem": "The reading (new water-pot with darbha covering = the libation for the dead, denied to the man who will not fight for his master's food) is the standard one and the note hedges with 'presumably'; medium confidence is right. No change.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्यूह की सम्पत् दिखाकर",
+     "problem": "'दिखाकर' (by showing) is added; the Sanskrit is a plain instrumental vyūha-sampadā.",
+     "fix": "व्यूह की सम्पत् से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्यूह की सम्पत् दिखाकर",
+      "new": "व्यूह की सम्पत् से",
+      "n": "32"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kārtāntika-ādiḥ",
+     "problem": "Glossary (12.2) fixes kārtāntika = fortune-teller (ज्योतिषी) and (10.1) mauhūrtika = astrologer; the draft renders kārtāntika 'astrologer', which merges the two offices (unit 44 has mauhūrtika), and the Hindi keeps 'कार्तान्तिक'.",
+     "fix": "fortune-tellers and the rest",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "kārtāntika-ādiḥ",
+       "field": "gloss",
+       "value": "fortune-tellers and the rest",
+       "n": "33"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "astrologers and the rest",
+       "new": "fortune-tellers and the rest",
+       "n": "33"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "कार्तान्तिक आदि का वर्ग",
+       "new": "ज्योतिषी आदि का वर्ग",
+       "n": "33"
+      },
+      {
+       "op": "replace",
+       "field": "notes",
+       "old": "kārtāntika = astrologer (one who reads fate)",
+       "new": "kārtāntika = fortune-teller (one who reads fate, kṛtānta); 'astrologer' is kept for mauhūrtika",
+       "n": "33"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसके साथ कभी विश्वासघात न हुआ हो",
+     "problem": "visaṃvādita = 'disappointed, let down (in a promise)'; 'विश्वासघात' (betrayal) is stronger and 'कभी' (ever) is added. The English 'not let down' is right.",
+     "fix": "तथा धन और सम्मान के विषय में जिन्हें निराश न किया गया हो",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तथा धन और सम्मान के विषय में जिसके साथ कभी विश्वासघात न हुआ हो",
+      "new": "तथा धन और सम्मान के विषय में जिन्हें निराश न किया गया हो",
+      "n": "38"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pitṛ-putra-bhrātṛkāṇām",
+     "problem": "The samāsānta -ka (bhrātṛ-ka-) marks a bahuvrīhi: 'having fathers, sons and brothers' (qualifying āyudhīyānām), not a dvandva 'fathers, sons and brothers'. The draft's own note ('men serving together with their fathers, sons and brothers') already assumes the bahuvrīhi, so gloss, gram and the translations contradict the note.",
+     "fix": "m. gen. pl., bahuvrīhi (samāsānta -ka)",
+     "severity": "error",
+     "patch": [
+      {
+       "op": "word",
+       "match_w": "pitṛ-putra-bhrātṛkāṇām",
+       "field": "gram",
+       "value": "m. gen. pl., bahuvrīhi (samāsānta -ka)",
+       "n": "39"
+      },
+      {
+       "op": "word",
+       "match_w": "pitṛ-putra-bhrātṛkāṇām",
+       "field": "gloss",
+       "value": "who have fathers, sons and brothers (serving with them)",
+       "n": "39"
+      },
+      {
+       "op": "replace",
+       "field": "english",
+       "old": "of soldiers who are fathers, sons and brothers",
+       "new": "of soldiers who have their fathers, sons and brothers (with them)",
+       "n": "39"
+      },
+      {
+       "op": "replace",
+       "field": "hindi",
+       "old": "पिता, पुत्र और भाइयों से बने सैनिकों की",
+       "new": "जिनके पिता, पुत्र और भाई साथ हों ऐसे सैनिकों की",
+       "n": "39"
+      }
+     ]
+    },
+    {
+     "field": "notes",
+     "where": "muṇḍa-anīka",
+     "problem": "muṇḍa ('shaven, bare', i.e. without crests or marks) is uncertain; the Hindi keeps 'मुण्ड' untranslated, which is acceptable with the note. Medium confidence is right.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "adhirohayet",
+     "problem": "The form is causative ('should cause to mount'); the draft translates it as simple 'should mount' without saying so.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "adhirohayet is causative in form; it is taken in the simple sense 'should mount' (or 'should have (the king) mounted', if the officers are the subject).",
+      "n": "41"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "t (tad?)",
+     "problem": "The damaged token and the editors' conjecture are handled correctly: src kept, flag given, 'tad' followed, confidence medium. No change.",
+     "fix": "(no change)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "varṇayeyuḥ",
+     "problem": "varṇayati is a denominative (from varṇa), not a root √varṇ.",
+     "fix": "3 pl. opt. varṇaya- (denom. of varṇa)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "varṇayeyuḥ",
+      "field": "gram",
+      "value": "3 pl. opt. varṇaya- (denom. of varṇa)",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यन्त्रिक, बढ़ई और मुहूर्त-शास्त्री",
+     "problem": "Glossary fixes vardhaki = वर्धकि and mauhūrtika = मौहूर्तिक (10.1); the Hindi uses बढ़ई and मुहूर्त-शास्त्री.",
+     "fix": "यन्त्रिक, वर्धकि और मौहूर्तिक",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यन्त्रिक, बढ़ई और मुहूर्त-शास्त्री",
+      "new": "यन्त्रिक, वर्धकि और मौहूर्तिक",
+      "n": "44"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "the compound form kṛtya- is regular",
+     "problem": "Misleading: the first member is kṛtyā (f.), whose final ā simply merges with a- of abhicāra (kṛtyā + abhicāra = kṛtyābhicāra); the edition's split kṛtya.abhicāraṃ is only an artefact of that sandhi. The word form kṛtyā-abhicāram is right; the note should say why it differs from the printed split.",
+     "fix": "the edition's split kṛtya.abhicāraṃ is only an artefact of the sandhi (kṛtyā + abhicāra = kṛtyābhicāra); not a typo",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "the compound form kṛtya- is regular",
+      "new": "the edition's split kṛtya.abhicāraṃ is only an artefact of the sandhi (kṛtyā + abhicāra = kṛtyābhicāra), not a typo",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "uddharṣaṇīyāḥ",
+     "problem": "The note itself calls the form unusual and the construction with puruṣāṇām is open: as a gerundive with a genitive agent it would mean 'to be delighted in by the men' (women whose presence cheers the men), while the draft gives the active sense 'serving to encourage'. Either way the point is the same, but 'high' confidence is not honest.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": [
+      {
+       "op": "set",
+       "field": "confidence",
+       "value": "medium",
+       "n": "47"
+      },
+      {
+       "op": "append_note",
+       "text": "Alternatively puruṣāṇām is the genitive agent of the gerundive: '(women) to be delighted in by the men', i.e. whose presence cheers them; the sense is the same.",
+       "n": "47"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "prajavitaḥ",
+     "problem": "prajavita is the ppp of the causative (pra-javayati), 'sped forward'; the label omits caus.",
+     "fix": "m. nom. sg., ppp caus. pra-√ju",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "prajavitaḥ",
+      "field": "gram",
+      "value": "m. nom. sg., ppp caus. pra-√ju",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "iti here marks the classification ('as even, uneven or mixed'), not the end of a quotation.",
+     "fix": "thus (marking the classification)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "thus (marking the classification)",
+      "n": "52"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "57 units reviewed against the Sanskrit; 23 units marked fix. Issues: 10 error, 23 minor (several 'minor' entries are no-change confirmations of the drafter's doubts: units 3, 31, 39, 41). Errors: unit 39 pitṛ-putra-bhrātṛkāṇām is a bahuvrīhi (-ka), not a dvandva, and the gloss/translations must follow the draft's own note; glossary consistency: kūṭa-yuddha = treacherous warfare (2, 25), avaskanda = assault (3, 19), sattra = ambush position / गुप्त स्थान (15, 18, 24), kārtāntika = fortune-teller (33), vardhaki/mauhūrtika in Hindi (44). Minor: Hindi additions not in the Sanskrit (units 1, 3, 18, 32, 38), Hindi recasting the enemy's state as the king's action (22), modal Hindi for a statement (9), gloss precision (15 aviśvasta, 20 sa-pāda, 24/52 iti), gram labels (43 denominative, 50 causative ppp), notes to record alternatives (23 sarvam, 41 causative, 44 kṛtyā sandhi, 47 genitive agent) and confidence of 47 lowered to medium. The drafter's text_flags (8, 41) are right. No regrouping suggested. Needs a person: unit 31, whether the '|| 31 ||' printed inside the line should get a text_flags entry (the tokens must stay for the checker); unit 39 muṇḍa-anīka stays uncertain. Glossary extended (10.3) with prakāśa-yuddha, bhaṅgaṃ dā-, sauptika, sāra-/phalgu-bala, sūta-māgadha and the four basic array names; existing entries for kūṭa-yuddha, sattra, avaskanda, kārtāntika, senāpati, vyūha were followed."
+}

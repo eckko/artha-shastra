@@ -1,0 +1,79 @@
+{
+ "units": [
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "ok", "issues": []},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "ok", "issues": []},
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "ok", "issues": []},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "fix", "issues": [
+   {"field": "english", "where": "the divine is beyond thought", "problem": "acintyam is the negated gerundive 'not to be thought about / not to be deliberated on' (the gloss says so); 'beyond thought' adds a metaphysical sense the line does not have and breaks the parallel with cintyam.", "fix": "the divine is not to be thought about", "severity": "minor",
+    "patch": {"n": "12", "op": "replace", "field": "english", "old": "the divine is beyond thought", "new": "the divine is not to be thought about"}}
+  ]},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "ok", "issues": []},
+  {"n": "15", "verdict": "ok", "issues": []},
+  {"n": "16", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "karśanīyaḥ", "problem": "karśanīya is the gerundive of the causative karśayati ('make lean'), not of the simple root.", "fix": "m. nom. sg. gerundive caus. √kṛś", "severity": "minor",
+    "patch": {"n": "16", "op": "word", "match_w": "karśanīyaḥ", "field": "gram", "value": "m. nom. sg. gerundive caus. √kṛś"}}
+  ]},
+  {"n": "17", "verdict": "ok", "issues": []},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {"n": "19", "verdict": "ok", "issues": []},
+  {"n": "20", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "dhana-jīvita-hetoḥ", "problem": "hetoḥ in the sense 'for the sake of' is the genitive of hetu (Pāṇini 2.3.26 ṣaṣṭhī hetuprayoge), not the ablative.", "fix": "m. gen. sg. (tat-puruṣa)", "severity": "minor",
+    "patch": {"n": "20", "op": "word", "match_w": "dhana-jīvita-hetoḥ", "field": "gram", "value": "m. gen. sg. (tat-puruṣa)"}}
+  ]},
+  {"n": "21", "verdict": "ok", "issues": []},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {"n": "23", "verdict": "ok", "issues": []},
+  {"n": "24", "verdict": "ok", "issues": []},
+  {"n": "25", "verdict": "ok", "issues": []},
+  {"n": "26", "verdict": "fix", "issues": [
+   {"field": "english", "where": "the separate circle of each of the enemy", "problem": "'of each of' is not in the Sanskrit (maṇḍala-pṛthaktvam ari-madhyama-udāsīnānām = the separateness of circle of the enemy, the middle and the neutral); the Hindi keeps it plain.", "fix": "the separate circles of the enemy, the middle king and the neutral king", "severity": "minor",
+    "patch": {"n": "26", "op": "replace", "field": "english", "old": "the separate circle of each of the enemy", "new": "the separate circles of the enemy"}}
+  ]},
+  {"n": "27", "verdict": "ok", "issues": []},
+  {"n": "28", "verdict": "ok", "issues": []},
+  {"n": "29", "verdict": "ok", "issues": []},
+  {"n": "30", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "भी", "problem": "'भी' (also) is an addition; the line is only 'śaktiḥ siddhiś ca'.", "fix": "और शक्ति तथा सिद्धि।", "severity": "minor",
+    "patch": {"n": "30", "op": "set", "field": "hindi", "value": "और शक्ति तथा सिद्धि।"}}
+  ]},
+  {"n": "31", "verdict": "ok", "issues": []},
+  {"n": "32", "verdict": "ok", "issues": []},
+  {"n": "33", "verdict": "ok", "issues": []},
+  {"n": "34", "verdict": "ok", "issues": []},
+  {"n": "35", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "राजा ज्यायान्", "problem": "'राजा' is added (the English has 'one'), and 'ज्यायान्' is untranslated Sanskrit, not Hindi; the gloss is 'superior'.", "fix": "इनसे बढ़ा हुआ श्रेष्ठ होता है, घटा हुआ हीन, और समान शक्ति वाला सम।", "severity": "minor",
+    "patch": {"n": "35", "op": "set", "field": "hindi", "value": "इनसे बढ़ा हुआ श्रेष्ठ होता है, घटा हुआ हीन, और समान शक्ति वाला सम।"}}
+  ]},
+  {"n": "36", "verdict": "ok", "issues": []},
+  {"n": "37", "verdict": "fix", "issues": [
+   {"field": "english", "where": "from the treacherous and the enemies", "problem": "dūṣya-amitrābhyām is a dual dvandva: one member each, 'the treasonable (party) and the enemy', not plural 'enemies'; and the note itself uses the technical rendering 'treasonable' for dūṣya while the text says 'treacherous'.", "fix": "from the treasonable and the enemy", "severity": "minor",
+    "patch": {"n": "37", "op": "replace", "field": "english", "old": "from the treacherous and the enemies", "new": "from the treasonable and the enemy"}},
+   {"field": "gloss", "where": "dūṣya-amitrābhyām", "problem": "same: dual, and 'treasonable' for dūṣya.", "fix": "from the treasonable and the enemy", "severity": "minor",
+    "patch": {"n": "37", "op": "word", "match_w": "dūṣya-amitrābhyām", "field": "gloss", "value": "from the treasonable and the enemy"}},
+   {"field": "hindi", "where": "दूष्यों और शत्रुओं से", "problem": "plural for a dual dvandva.", "fix": "दूष्य और शत्रु से", "severity": "minor",
+    "patch": {"n": "37", "op": "replace", "field": "hindi", "old": "दूष्यों और शत्रुओं से", "new": "दूष्य और शत्रु से"}}
+  ]},
+  {"n": "38", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "धन के अपहरण से", "problem": "artha-dūṣaṇa is 'spoiling/misuse of wealth' (so the English); 'अपहरण' (seizure, theft) says more than dūṣaṇa.", "fix": "धन के दुरुपयोग से", "severity": "minor",
+    "patch": {"n": "38", "op": "replace", "field": "hindi", "old": "धन के अपहरण से", "new": "धन के दुरुपयोग से"}},
+   {"field": "hindi", "where": "नष्ट करेगा", "problem": "upa-han = injure, harm (English 'will injure'); 'नष्ट करेगा' (will destroy) is stronger than the verb.", "fix": "हानि पहुँचाएगा", "severity": "minor",
+    "patch": {"n": "38", "op": "replace", "field": "hindi", "old": "नष्ट करेगा", "new": "हानि पहुँचाएगा"}},
+   {"field": "hindi", "where": "दूर का कोई बलवान राजा", "problem": "'कोई' is an addition (balavān vā rājā parataḥ).", "fix": "दूर का बलवान राजा", "severity": "minor",
+    "patch": {"n": "38", "op": "replace", "field": "hindi", "old": "दूर का कोई बलवान राजा", "new": "दूर का बलवान राजा"}},
+   {"field": "hindi", "where": "मेरा भी उच्छेद", "problem": "'भी' is an addition (mām ucchindyāt has no api).", "fix": "मेरा उच्छेद", "severity": "minor",
+    "patch": {"n": "38", "op": "replace", "field": "hindi", "old": "मेरा भी उच्छेद", "new": "मेरा उच्छेद"}}
+  ]},
+  {"n": "39", "verdict": "ok", "issues": []},
+  {"n": "40", "verdict": "ok", "issues": []}
+ ],
+ "summary": "0 error, 13 minor, all with machine patches; no regrouping suggested. Unit 19 checked as asked: src keeps the printed 'prakṛti.mitraḥ,', the corrected 'prakṛti-amitraḥ' appears only in words, with a text_flags entry (suggest 'prakṛty.amitraḥ,' in the e-text's own convention) and an honest 'medium' confidence; the correction is right (the unit lists kinds of enemy; units 14 and 20 make the adjacent king the enemy constituent and the one-removed king the natural ally). Unit 36: split, optative ghaṭeta + infinitive, the 'tasmāt-' unsandhied join noted, and the ambiguous sādhāraṇaḥ flagged in notes with medium confidence — acceptable. Unit 38: all tokens present including the avagraha ('durgastho = adurgasthaḥ) and the nested quotation; enclitic me correctly labelled gen. (agent with gerundive sādhyaḥ), the quotation structure (enemy's own reasoning) and 'prārthitasya' (attacked) are read correctly; only small Hindi additions patched. Hindi contains no Latin letters or bracketed glosses. The standalone '-' in units 33-34 is carried as a punctuation token, which the token checker needs. Glossary extended with the chapter's fixed terms."
+}

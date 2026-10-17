@@ -1,0 +1,173 @@
+[
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "avidyāvinayaḥ read as a-(vidyā-vinaya), 'absence of the discipline that comes from learning'; the e-text dot (avidyā.vinayaḥ) could also suggest avidyā + (a)vinaya, 'ignorance and want of discipline'. vyasana here = the king's vices/addictions (anger, desire), the 'calamities' of Book 8 applied to the person.",
+  "new": "avidyāvinayaḥ read as a-(vidyā-vinaya), 'absence of the discipline that comes from learning'; the e-text dot (avidyā.vinayaḥ) could also suggest avidyā + (a)vinaya, 'ignorance and want of discipline'. vyasana here = the king's vices/addictions (anger, desire), the 'calamities' of Book 8 applied to the person. Review: avidyā + avinaya would need the printed form to hide an elided a- (avidyā-'vinayaḥ); the e-text shows none, so the nañ reading a-(vidyā-vinaya) stands. vyasana = 'vice' here as the king's personal vyasana (see GLOSSARY).",
+  "why": "reviewer (minor): The alternative avidyā + avinaya would need an elided a- (avidyā-'vinayaḥ) that the printed line does not show; the note leaves both open."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "क्रोध से उत्पन्न व्यसनों का वर्ग तीन का है, काम से उत्पन्न व्यसनों का वर्ग चार का है।",
+  "new": "क्रोध से उत्पन्न वर्ग तीन का है, काम से उत्पन्न वर्ग चार का है।",
+  "why": "reviewer (minor): 'व्यसनों का' is added twice; the Sanskrit has only kopa-ja tri-varga / kāma-ja catur-varga (English does not add it)."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "avajñā-vadhaḥ",
+  "old": "slaying of the contemptuous",
+  "new": "destruction of contempt",
+  "why": "reviewer (minor): vadha with avajñā as its object is the direct tatpuruṣa reading ('destruction of contempt': anger stops people despising the king; the counterpart of paribhava under kāma in 8.3.15). 'Slaying of the contemptuous' needs avajñā to stand for persons."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "bhīta-manuṣyatā",
+  "old": "f. nom. sg.",
+  "new": "f. nom. sg., abstract (-tā) of karmadhāraya bhīta-manuṣya",
+  "why": "reviewer (minor): Compound type missing."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "\"Anger is the conduct of good men; it is the requital of enmity, the slaying of those who show contempt, and the keeping of men in fear.",
+  "new": "\"Anger is the conduct of good men; it is the requital of enmity, the destruction of contempt, and a state in which men are afraid.",
+  "why": "reviewer (minor): Follows the less direct reading of avajñā-vadha; 'keeping' adds a causative not in manuṣyatā."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "“क्रोध सत्पुरुषों का आचार है; उससे वैर का बदला लिया जाता है, अवज्ञा करने वालों का वध होता है, और लोग भयभीत रहते हैं।",
+  "new": "“क्रोध सत्पुरुषों का आचार है, वैर का प्रतीकार है, अवज्ञा का नाश है, और मनुष्यों का भयभीत रहना है।",
+  "why": "reviewer (minor): The four nominatives are predicates of kopaḥ; the Hindi turns them into results ('उससे ... होता है') and follows the less direct reading of avajñā-vadha."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Bharadvaja's view begins (opening quote). avajñā-vadhaḥ: literally 'killing (on account) of contempt', i.e. putting to death those who are disrespectful; alternatively 'the destruction of contempt'. bhīta-manuṣyatā: literally 'the state of men being afraid'.",
+  "new": "Bharadvaja's view begins (opening quote). avajñā-vadhaḥ read as 'destruction of contempt' (anger stops people despising the king; the counterpart of paribhava in 8.3.15); the alternative 'putting to death those who show contempt' is less direct. bhīta-manuṣyatā: literally 'the state of men being afraid'. The four nominatives are predicates of kopaḥ.",
+  "why": "reviewer (minor): Note should match the chosen reading."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "काम से सिद्धि की प्राप्ति, सान्त्वना, त्यागशीलता और सबका प्रिय होना प्राप्त होते हैं।",
+  "new": "काम सिद्धि की प्राप्ति, सान्त्व, त्यागशीलता और प्रियभाव है।",
+  "why": "reviewer (error): 'सान्त्वना' means consolation, not sāntva (conciliation); 'से ... प्राप्त होते हैं' and 'सबका' are added — the Sanskrit equates kāma with the four nominatives."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Desire is the winning of success, conciliation, a disposition to generosity, and being dear to all.",
+  "new": "Desire is the winning of success, conciliation, a disposition to generosity, and being well-loved.",
+  "why": "reviewer (minor): 'to all' is added."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "One who is held in contempt is held in check by his own people and by others, but one who is hated is destroyed.",
+  "new": "One who is held in contempt is held in check by his own people and by others; one who is hated is destroyed.",
+  "why": "reviewer (minor): 'but' is added; the Sanskrit simply juxtaposes."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "तिरस्कृत व्यक्ति अपनों और परायों द्वारा दबाया जाता है, किन्तु द्वेष का पात्र पूरी तरह नष्ट कर दिया जाता है।",
+  "new": "तिरस्कृत व्यक्ति अपनों और परायों द्वारा दबाया जाता है; द्वेष का पात्र पूरी तरह नष्ट कर दिया जाता है।",
+  "why": "reviewer (minor): 'किन्तु' is added."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Loss of wealth harms the treasury; acquiring enemies harms life itself.",
+  "new": "Loss of wealth harms the treasury; acquiring enemies harms life.",
+  "why": "reviewer (minor): 'itself' is added emphasis."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Attachment to sorrow is more serious than association with the worthless.",
+  "new": "Association with sorrow is more serious than association with the worthless.",
+  "why": "reviewer (error): duḥkha-saṃyoga is 'association with sorrow' (so the gloss); 'attachment' is āsaṅga of 8.3.21, a different word."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अनर्थकारी लोगों की संगति की अपेक्षा दुःख से जुड़े रहना अधिक गम्भीर है।",
+  "new": "अनर्थकारी लोगों की संगति की अपेक्षा दुःख की संगति अधिक गम्भीर है।",
+  "why": "reviewer (minor): Same: saṃyoga here, not āsaṅga; keep the two words apart as the English does."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "वाणी की कठोरता, धन की क्षति करना और दण्ड की कठोरता — ये हैं।",
+  "new": "वाणी की कठोरता, धन की क्षति और दण्ड की कठोरता — ये हैं।",
+  "why": "reviewer (minor): artha-dūṣaṇa is a noun; fixed Hindi rendering 'धन की क्षति' (GLOSSARY)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "“वाणी की कठोरता और धन की क्षति करने में वाणी की कठोरता अधिक गम्भीर है,” ऐसा विशालाक्ष कहते हैं।",
+  "new": "“वाणी की कठोरता और धन की क्षति में वाणी की कठोरता अधिक गम्भीर है,” ऐसा विशालाक्ष कहते हैं।",
+  "why": "reviewer (minor): Fixed rendering 'धन की क्षति'."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "Name viśālākṣa written 'Vishalaksha' in English (plain letters, with sh for ś/kṣ for readability); the reviewer may prefer 'Visalaksa'.",
+  "new": "Name viśālākṣa written 'Vishalaksha' in English (plain letters, with sh for ś/kṣ for readability) (fixed spelling, see GLOSSARY).",
+  "why": "reviewer (minor): Settled: 'Vishalaksha' (as in 8.1); remove the open question."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "\"For a spirited man at whom harsh words have been hurled rises up in retaliation with his spirit.",
+  "new": "\"For a spirited man at whom harsh words have been hurled rises up in return with his spirit.",
+  "why": "reviewer (minor): 'in retaliation' interprets prati-ā-√ruh; 'in return' keeps it literal."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "धन से किया गया सम्मान वाणी के शल्य को दूर कर देता है, किन्तु धन की क्षति करना तो जीविका का लोप है।",
+  "new": "धन से किया गया सम्मान वाणी के शल्य को दूर कर देता है, किन्तु धन की क्षति तो जीविका का लोप है।",
+  "why": "reviewer (minor): Fixed rendering 'धन की क्षति'."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "धन का न देना, छीन लेना, नष्ट करना या त्याग देना — यह धन की क्षति करना है।",
+  "new": "धन का न देना, छीन लेना, नष्ट करना या त्याग देना — यह धन की क्षति है।",
+  "why": "reviewer (minor): Fixed rendering 'धन की क्षति'."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "\"Of injury to property and harshness of punishment, injury to property is the more serious,\" say the followers of Parashara.",
+  "new": "\"Of injury to property and harshness of punishment, injury to property is the more serious,\" say the Parasharas.",
+  "why": "reviewer (minor): 8.1 renders pārāśarāḥ 'the Parasharas'; keep one rendering."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "“धन की क्षति करने और दण्ड की कठोरता में धन की क्षति करना अधिक गम्भीर है,” ऐसा पाराशर-मतावलम्बी कहते हैं।",
+  "new": "“धन की क्षति और दण्ड की कठोरता में धन की क्षति अधिक गम्भीर है,” ऐसा पाराशर कहते हैं।",
+  "why": "reviewer (minor): 8.1 Hindi: 'ऐसा पाराशर कहते हैं'; also 'धन की क्षति'."
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "pārāśarāḥ",
+  "old": "the followers of Parashara",
+  "new": "name (the Parasharas)",
+  "why": "reviewer (minor): Match 8.1 gloss."
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "Opening of the Parasharas' reasoning (quote continues to 33).",
+  "new": "Opening of the Parasharas' reasoning (quote continues to 33). kāma here is the trivarga member (artha, dharma, kāma); 'desire' kept for consistency with the chapter, where kāma is the king's vice.",
+  "why": "reviewer (minor): kāma here is the trivarga member; say why 'desire' is kept."
+ }
+]

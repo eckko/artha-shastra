@@ -1,0 +1,76 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "A calamity of a constituent element, divine or human, arises from misfortune or from bad policy.",
+  "new": "A calamity of a constituent element, divine or human, arises from misfortune and from bad policy.",
+  "why": "reviewer (minor): anaya-apanayābhyām is a dvandva in the dual with no vā: both causes are named together (the divine calamity from misfortune, the human from bad policy), not as alternatives. The Hindi already has 'और'."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "और उनके व्यसनों में शत्रु द्वारा फूट डालना निकट आ जाता है।",
+  "new": "और उनके व्यसनों में शत्रु का उपजाप निकट आ जाता है।",
+  "why": "reviewer (minor): upajāpa is a technical term of the book; keep it as उपजाप in the Hindi (glossary entry added) so later chunks agree. 'उनके' (their) is supplied from context, as in the English; acceptable, the note says so."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "And when they become defective (disloyal), there is danger to the king's life, because they move close to his life (person).'",
+  "new": "And when they become defective, there is danger to the king's life, because they move close to his life (person).'",
+  "why": "reviewer (minor): '(disloyal)' is an interpretation inserted into the translation; the gloss and Hindi say 'defective'. Keep the literal rendering in the translation and put the alternative (hostile/disloyal) in notes."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "और उनके विकार में राजा के प्राणों को बाधा होती है, क्योंकि वे राजा के प्राणों के समीप विचरण करते हैं।” ",
+  "new": "और उनके विगुण हो जाने पर राजा के प्राणों को बाधा होती है, क्योंकि वे राजा के प्राणों के समीप विचरण करते हैं।”",
+  "why": "reviewer (minor): विकार is a loose rendering of vaiguṇya (defectiveness, turning adverse); the string also ends with a stray space after the closing quote."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "vaiguṇya = defect/turning bad of the ministers. prāṇa-antika-cara = one who moves near the (king's) life, i.e. in close bodily proximity to him. Closing quote ends Bharadvaja's view (units 7-11).",
+  "new": "vaiguṇya = defect/turning bad of the ministers. prāṇa-antika-cara = one who moves near the (king's) life, i.e. in close bodily proximity to him. Closing quote ends Bharadvaja's view (units 7-11). vaiguṇya: 'defectiveness' kept literal; it is often understood as the ministers turning hostile or disloyal. rājñaḥ occurs once and goes with prāṇa-antika-caratvāt; 'the king's' before 'life' in the first clause is understood.",
+  "why": "reviewer (minor): Record the alternatives: vaiguṇya may mean the ministers turning hostile or disloyal (commentators), not only incompetence; rājñaḥ stands once in the Sanskrit and is construed with prāṇa-antika-caratvāt ('moving near the king's life'), the king's life in prāṇa-ābādhaḥ being understood."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "amātyeṣu",
+  "old": "when the ministers are",
+  "new": "the ministers (loc. absolute)",
+  "why": "reviewer (minor): Gloss 'when the ministers are' is a translation of the locative absolute, not the meaning of the word."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "'The treasury, the army, forest produce (kupya), forced labour, conveyances and stores arise from the country.",
+  "new": "'The treasury, the army, raw materials (kupya), forced labour, conveyances and stores arise from the country.",
+  "why": "reviewer (minor): GLOSSARY already fixes kupya = raw materials (10.1, 12.1); keep one rendering across the book."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "kupyam",
+  "old": "forest produce (raw materials)",
+  "new": "raw materials (kupya)",
+  "why": "reviewer (minor): Same: glossary rendering is raw materials."
+ },
+ {
+  "n": "26",
+  "field": "word.w",
+  "word": "śaktimat-tarāḥ",
+  "old": "śaktimat-tarāḥ",
+  "new": "śaktimattarāḥ",
+  "why": "reviewer (minor): -tara is the comparative suffix, not a compound member; the hyphen suggests a compound."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "parvata-antar-dvīpāḥ",
+  "old": "m. nom. pl. (dvandva)",
+  "new": "m. nom. pl. (dvandva, as adj. to durgāḥ)",
+  "why": "reviewer (minor): The compound qualifies durgāḥ ('forts that are mountain- and island-(forts)', cf. the fort types pārvata and antardvīpa); label it as used adjectivally, as the note already says."
+ }
+]

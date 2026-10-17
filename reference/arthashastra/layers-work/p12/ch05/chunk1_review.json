@@ -1,0 +1,173 @@
+{
+ "units": [
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "युक्ति (जाल)", "problem": "bracketed gloss inside the Hindi (glossary rule)", "fix": "वहाँ उसके विरुद्ध युक्ति रचे।", "severity": "minor",
+    "patch": {"n": "2", "op": "set", "field": "hindi", "value": "वहाँ उसके विरुद्ध युक्ति रचे।"}}
+  ]},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "परिघ (लोहदण्ड)", "problem": "bracketed gloss inside the Hindi", "fix": "परिघ", "severity": "minor",
+    "patch": {"n": "4", "op": "replace", "field": "hindi", "old": "परिघ (लोहदण्ड)", "new": "परिघ"}}
+  ]},
+  {"n": "5", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "देवता की मूर्ति का शरीर", "problem": "'की मूर्ति' is added; the text has only devatā-deha (the note already explains the image)", "fix": "अथवा देवता का शरीर, ध्वज या आयुध ऊपर से उस पर गिरवाए।", "severity": "minor",
+    "patch": {"n": "5", "op": "set", "field": "hindi", "value": "अथवा देवता का शरीर, ध्वज या आयुध ऊपर से उस पर गिरवाए।"}}
+  ]},
+  {"n": "6", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "aticārayet", "problem": "prefix ati dropped from the root label (other units give prefixes)", "fix": "3 sg. opt. caus. ati-√car", "severity": "minor",
+    "patch": {"n": "6", "op": "word", "match_w": "aticārayet", "field": "gram", "value": "3 sg. opt. caus. ati-√car"}}
+  ]},
+  {"n": "7", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "atinayet", "problem": "prefix ati dropped from the root label", "fix": "3 sg. opt. ati-√nī", "severity": "minor",
+    "patch": {"n": "7", "op": "word", "match_w": "atinayet", "field": "gram", "value": "3 sg. opt. ati-√nī"}}
+  ]},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "english", "where": "he should make him, whose floor is held by a machine, fall into it", "problem": "yantra-baddha-talam is attached to enam in the English but to the pit in the Hindi; a person has no 'floor' (tala), the covering of the pit does. Make the English match the Hindi and the natural sense", "fix": "Or, with a pit of stakes or a pitfall below the bed or seat, its floor held by a machine, he should make him fall in by releasing a pin.", "severity": "error",
+    "patch": {"n": "8", "op": "set", "field": "english", "value": "Or, with a pit of stakes or a pitfall below the bed or seat, its floor held by a machine, he should make him fall in by releasing a pin."}},
+   {"field": "hindi", "where": "बनाकर", "problem": "'बनाकर' (having made) is added; nothing in the Sanskrit", "fix": "अथवा शय्या या आसन के नीचे, जिसका तल यन्त्र से बँधा हो ऐसे शूलों के कूप या गड्ढे में, कील छोड़कर उसे गिरा दे।", "severity": "minor",
+    "patch": {"n": "8", "op": "set", "field": "hindi", "value": "अथवा शय्या या आसन के नीचे, जिसका तल यन्त्र से बँधा हो ऐसे शूलों के कूप या गड्ढे में, कील छोड़कर उसे गिरा दे।"}},
+   {"field": "notes", "where": "qualifying enam", "problem": "note states the reading the review reverses", "fix": "yantra-baddha-tala taken as a bahuvrīhi qualifying the pit (its floor held by a mechanism), as in the Hindi; the accusative also allows it to qualify enam.", "severity": "minor",
+    "patch": {"n": "8", "op": "replace", "field": "notes", "old": "yantra-baddha-tala taken as a bahuvrīhi qualifying enam (him standing on a floor held by a mechanism); it could also qualify the pit.", "new": "yantra-baddha-tala taken as a bahuvrīhi qualifying the pit (its floor held by a mechanism), as in the Hindi; the accusative also allows it to qualify enam."}}
+  ]},
+  {"n": "9", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "(दुर्ग में)", "problem": "bracketed addition inside the Hindi", "fix": "लोगों को ले आए", "severity": "minor",
+    "patch": {"n": "9", "op": "replace", "field": "hindi", "old": "लोगों को (दुर्ग में) ले आए", "new": "लोगों को ले आए"}},
+   {"field": "gram", "where": "atinayet", "problem": "prefix ati dropped from the root label", "fix": "3 sg. opt. ati-√nī", "severity": "minor",
+    "patch": {"n": "9", "op": "word", "match_w": "atinayet", "field": "gram", "value": "3 sg. opt. ati-√nī"}}
+  ]},
+  {"n": "10", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "apanayet", "problem": "prefix apa dropped from the root label", "fix": "3 sg. opt. apa-√nī", "severity": "minor",
+    "patch": {"n": "10", "op": "word", "match_w": "apanayet", "field": "gram", "value": "3 sg. opt. apa-√nī"}}
+  ]},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "daṇḍa-upanata-vṛtte", "problem": "daṇḍa-upanata is 'one who has submitted with his army' (daṇḍa = army, glossary; the title of 7.15), not 'submitting to force'", "fix": "in (the section on) the conduct of one submitting with his army", "severity": "error",
+    "patch": {"n": "12", "op": "word", "match_w": "daṇḍa-upanata-vṛtte", "field": "gloss", "value": "in (the section on) the conduct of one submitting with his army"}},
+   {"field": "english", "where": "submitting to force", "problem": "same: daṇḍa = army", "fix": "The causes of a siege have been explained in the section on the conduct of one submitting with his army.", "severity": "error",
+    "patch": {"n": "12", "op": "set", "field": "english", "value": "The causes of a siege have been explained in the section on the conduct of one submitting with his army."}},
+   {"field": "hindi", "where": "दण्ड से नत हुए राजा", "problem": "'दण्ड से नत' reads as 'bowed by punishment'; daṇḍa = सेना here", "fix": "घेरे के कारण सेना सहित समर्पण करने वाले राजा के आचरण के प्रकरण में समझाए जा चुके हैं।", "severity": "error",
+    "patch": {"n": "12", "op": "set", "field": "hindi", "value": "घेरे के कारण सेना सहित समर्पण करने वाले राजा के आचरण के प्रकरण में समझाए जा चुके हैं।"}}
+  ]},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "ok", "issues": []},
+  {"n": "15", "verdict": "ok", "issues": []},
+  {"n": "16", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "nicaya-mukhyān", "problem": "the compound can equally mean 'the principal stores' (mukhya as adjective on nicaya); the draft gives one reading without saying so", "fix": "append note", "severity": "minor",
+    "patch": {"n": "16", "op": "append_note", "text": "nicaya-mukhyān could also be 'the principal stores' (mukhya adjectival); 'chiefs in charge of stores' is one reading."}}
+  ]},
+  {"n": "17", "verdict": "ok", "issues": []},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {"n": "19", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "उसके विरुद्ध एक", "problem": "'उसके विरुद्ध एक' is added; prati- is already in प्रतिसुरंग", "fix": "सुरंग का मार्ग ज्ञात हो जाने पर प्रतिसुरंग बनवाए।", "severity": "minor",
+    "patch": {"n": "19", "op": "set", "field": "hindi", "value": "सुरंग का मार्ग ज्ञात हो जाने पर प्रतिसुरंग बनवाए।"}}
+  ]},
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "पार्ष्णि (पीछे का भाग)", "problem": "bracketed gloss inside the Hindi", "fix": "उसका पिछला भाग पकड़ सके", "severity": "minor",
+    "patch": {"n": "21", "op": "replace", "field": "hindi", "old": "उसका पार्ष्णि (पीछे का भाग) पकड़ सके", "new": "उसका पिछला भाग पकड़ सके"}},
+   {"field": "english", "where": "with one throw", "problem": "'one' is added; apakṣepeṇa is just 'with a throw' (the image is uncertain, as the note says)", "fix": "with a throw", "severity": "minor",
+    "patch": {"n": "21", "op": "replace", "field": "english", "old": "with one throw", "new": "with a throw"}},
+   {"field": "hindi", "where": "एक ही दाँव से", "problem": "'ही' adds emphasis not in the Sanskrit", "fix": "एक दाँव से", "severity": "minor",
+    "patch": {"n": "21", "op": "replace", "field": "hindi", "old": "एक ही दाँव से", "new": "एक दाँव से"}}
+  ]},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {"n": "23", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "asya", "problem": "asya most naturally completes saha-prasthāyinaḥ ('those who set out with him'); preṣayeyuḥ has no expressed recipient, the addressee is known only from 'te' in the message", "fix": "his (those who set out with him)", "severity": "minor",
+    "patch": {"n": "23", "op": "word", "match_w": "asya", "field": "gloss", "value": "his (with him)"}},
+   {"field": "english", "where": "send word to the enemy", "problem": "'to the enemy' is supplied (the note already says who the addressee is)", "fix": "should send word: ", "severity": "minor",
+    "patch": {"n": "23", "op": "replace", "field": "english", "old": "should send word to the enemy: ", "new": "should send word: "}},
+   {"field": "hindi", "where": "शत्रु को सन्देश भेजें", "problem": "same supplied addressee", "fix": "सन्देश भेजें", "severity": "minor",
+    "patch": {"n": "23", "op": "replace", "field": "hindi", "old": "शत्रु को सन्देश भेजें", "new": "सन्देश भेजें"}}
+  ]},
+  {"n": "24", "verdict": "ok", "issues": []},
+  {"n": "25", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "अन्तपाल (सीमा-रक्षक)", "problem": "bracketed gloss inside the Hindi", "fix": "अन्तपाल", "severity": "minor",
+    "patch": {"n": "25", "op": "replace", "field": "hindi", "old": "अन्तपाल (सीमा-रक्षक)", "new": "अन्तपाल"}}
+  ]},
+  {"n": "26", "verdict": "ok", "issues": []},
+  {"n": "27", "verdict": "ok", "issues": []},
+  {"n": "28", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "kṣāraḥ", "problem": "in the Arthashastra's supply lists (dhānya, sneha, kṣāra, lavaṇa) kṣāra is sugar (kṣāra-varga of 2.15 = phāṇita, guḍa, śarkarā etc.), not alkali", "fix": "sugar", "severity": "error",
+    "patch": {"n": "28", "op": "word", "match_w": "kṣāraḥ", "field": "gloss", "value": "sugar"}},
+   {"field": "english", "where": "alkali", "problem": "same", "fix": "sugar", "severity": "error",
+    "patch": {"n": "28", "op": "replace", "field": "english", "old": "alkali", "new": "sugar"}},
+   {"field": "english", "where": "it will be brought in", "problem": "pravekṣyati is active 'will enter/come in'; no need to turn it passive", "fix": "it will come in", "severity": "minor",
+    "patch": {"n": "28", "op": "replace", "field": "english", "old": "it will be brought in", "new": "it will come in"}},
+   {"field": "notes", "where": "kṣāra", "problem": "record the rendering", "fix": "append note", "severity": "minor",
+    "patch": {"n": "28", "op": "append_note", "text": "kṣāra = sugar (the kṣāra-varga of 2.15), the usual sense in the text's supply lists; Hindi keeps क्षार."}}
+  ]},
+  {"n": "29", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "kṣāram", "problem": "kṣāra = sugar in supply lists (see u28)", "fix": "sugar", "severity": "error",
+    "patch": {"n": "29", "op": "word", "match_w": "kṣāram", "field": "gloss", "value": "sugar"}},
+   {"field": "gloss", "where": "rasa-viddham", "problem": "'pierced with poison' is over-literal; viddha here = infused, mixed (Hindi has विष-मिला)", "fix": "mixed with poison", "severity": "minor",
+    "patch": {"n": "29", "op": "word", "match_w": "rasa-viddham", "field": "gloss", "value": "mixed with poison"}},
+   {"field": "english", "where": "grain, oil, alkali or salt pierced with poison", "problem": "both points above", "fix": "grain, oil, sugar or salt mixed with poison", "severity": "error",
+    "patch": {"n": "29", "op": "replace", "field": "english", "old": "grain, oil, alkali or salt pierced with poison", "new": "grain, oil, sugar or salt mixed with poison"}}
+  ]},
+  {"n": "30", "verdict": "ok", "issues": []},
+  {"n": "31", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "(दे)", "problem": "bracketed supplied verb inside the Hindi", "fix": "अथवा सन्धि करके उसे सोने का एक भाग दे और शेष में विलम्ब करता रहे।", "severity": "minor",
+    "patch": {"n": "31", "op": "set", "field": "hindi", "value": "अथवा सन्धि करके उसे सोने का एक भाग दे और शेष में विलम्ब करता रहे।"}}
+  ]},
+  {"n": "32", "verdict": "fix", "issues": [
+   {"field": "english", "where": "Then (the enemy) would let his protective arrangements slacken.", "problem": "the optative is prescriptive and its subject stays the weak king, as in 31 (dadyāt) and 33 (praharet): by delaying the rest of the gold he gets the enemy's guard relaxed. The draft switches subject and turns 'should' into 'would'; the causative avasrāvayet ('cause to drain away, get slackened') fits the king as subject", "fix": "Then he should get the protective arrangements slackened.", "severity": "error",
+    "patch": {"n": "32", "op": "set", "field": "english", "value": "Then he should get the protective arrangements slackened."}},
+   {"field": "hindi", "where": "(शत्रु) ... ढीला कर देगा", "problem": "same subject and mood problem, plus a bracketed subject", "fix": "तब वह रक्षा की व्यवस्थाओं को ढीला करवा दे।", "severity": "error",
+    "patch": {"n": "32", "op": "set", "field": "hindi", "value": "तब वह रक्षा की व्यवस्थाओं को ढीला करवा दे।"}},
+   {"field": "notes", "where": "Subject ambiguous", "problem": "note should record the reading adopted", "fix": "set note", "severity": "minor",
+    "patch": {"n": "32", "op": "set", "field": "notes", "value": "Subject is the weak king, as in 31 and 33 (all prescriptive optatives): while he delays the rest of the gold he gets the enemy's protective arrangements relaxed. avasrāvayet literally 'cause to drain away'; reading the enemy as subject ('would relax his guard') is possible but breaks the mood of the series."}}
+  ]},
+  {"n": "33", "verdict": "ok", "issues": []},
+  {"n": "34", "verdict": "ok", "issues": []},
+  {"n": "35", "verdict": "ok", "issues": []},
+  {"n": "36", "verdict": "ok", "issues": []},
+  {"n": "37", "verdict": "ok", "issues": []},
+  {"n": "38", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "पाषण्ड (विधर्मी साधु)", "problem": "bracketed gloss inside the Hindi", "fix": "पाषण्ड", "severity": "minor",
+    "patch": {"n": "38", "op": "replace", "field": "hindi", "old": "पाषण्ड (विधर्मी साधु)", "new": "पाषण्ड"}}
+  ]},
+  {"n": "39", "verdict": "ok", "issues": []},
+  {"n": "40", "verdict": "ok", "issues": []},
+  {"n": "41", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "rasa-viddham", "problem": "'pierced with poison' over-literal (see u29)", "fix": "mixed with poison", "severity": "minor",
+    "patch": {"n": "41", "op": "word", "match_w": "rasa-viddham", "field": "gloss", "value": "mixed with poison"}},
+   {"field": "english", "where": "pierced with poison", "problem": "same", "fix": "mixed with poison", "severity": "minor",
+    "patch": {"n": "41", "op": "replace", "field": "english", "old": "pierced with poison", "new": "mixed with poison"}}
+  ]},
+  {"n": "42", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "(शत्रु पर)", "problem": "bracketed supplied object inside the Hindi", "fix": "प्रहार करे", "severity": "minor",
+    "patch": {"n": "42", "op": "replace", "field": "hindi", "old": "(शत्रु पर) प्रहार करे", "new": "प्रहार करे"}},
+   {"field": "notes", "where": "dūṣya-vyañjanaiḥ", "problem": "the instrumental can go with kṛta-upajāpaḥ (instigation made through agents disguised as traitors) rather than with niṣpatya; the draft chooses one without saying so", "fix": "append note", "severity": "minor",
+    "patch": {"n": "42", "op": "append_note", "text": "dūṣya-vyañjanaiḥ may instead belong to kṛta-upajāpaḥ: 'having made secret instigation through agents in the guise of treasonable men, he should sally out and strike with his hidden army'."}}
+  ]},
+  {"n": "43", "verdict": "ok", "issues": [
+   {"field": "gloss", "where": "prāśya-prāśam", "problem": "obscure compound; the draft's loose rendering and medium confidence are honest, but a person should settle the reading (no patch)", "fix": "", "severity": "minor"}
+  ]},
+  {"n": "44", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "(उसकी बात)", "problem": "bracketed supplied subject inside the Hindi", "fix": "जब बात भुला दी जाए", "severity": "minor",
+    "patch": {"n": "44", "op": "replace", "field": "hindi", "old": "जब (उसकी बात) भुला दी जाए", "new": "जब बात भुला दी जाए"}}
+  ]},
+  {"n": "45", "verdict": "ok", "issues": []},
+  {"n": "46", "verdict": "ok", "issues": []},
+  {"n": "47", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "तीक्ष्ण (घातक)", "problem": "bracketed gloss inside the Hindi (the note explains tīkṣṇa)", "fix": "तीक्ष्ण", "severity": "minor",
+    "patch": {"n": "47", "op": "replace", "field": "hindi", "old": "तीक्ष्ण (घातक)", "new": "तीक्ष्ण"}}
+  ]},
+  {"n": "48", "verdict": "ok", "issues": []},
+  {"n": "49", "verdict": "ok", "issues": []},
+  {"n": "50", "verdict": "fix", "issues": [
+   {"field": "english", "where": "go away only in secret", "problem": "gūḍham eva is emphatic 'quite secretly', not restrictive 'only'", "fix": "go away quite secretly", "severity": "minor",
+    "patch": {"n": "50", "op": "replace", "field": "english", "old": "go away only in secret", "new": "go away quite secretly"}},
+   {"field": "gloss", "where": "eva", "problem": "same", "fix": "indeed (emphatic)", "severity": "minor",
+    "patch": {"n": "50", "op": "word", "match_w": "eva", "field": "gloss", "value": "indeed (emphatic)"}},
+   {"field": "gram", "where": "prarūpayet", "problem": "rūpayati is a class 10 verb, not a causative", "fix": "3 sg. opt. pra-√rūp (cl. 10)", "severity": "minor",
+    "patch": {"n": "50", "op": "word", "match_w": "prarūpayet", "field": "gram", "value": "3 sg. opt. pra-√rūp (cl. 10)"}}
+  ]},
+  {"n": "51", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "वर्षधरों (अन्तःपुर के सेवकों)", "problem": "bracketed gloss inside the Hindi", "fix": "वर्षधरों", "severity": "minor",
+    "patch": {"n": "51", "op": "replace", "field": "hindi", "old": "वर्षधरों (अन्तःपुर के सेवकों)", "new": "वर्षधरों"}}
+  ]}
+ ],
+ "summary": "51 units reviewed, 25 marked fix (all with machine patches) plus one human-only remark on u43. Severity: 10 error issues (u8 English/Hindi disagree on what yantra-baddha-talam qualifies; u12 daṇḍa-upanata = submitting with his army, not 'to force'; u28/u29 kṣāra = sugar in supply lists, not alkali; u32 subject and mood: the weak king gets the enemy's guard relaxed, not 'the enemy would'), 36 minor (bracketed glosses inside the Hindi in 12 units against the glossary rule; small additions 'one', 'की मूर्ति', 'बनाकर', 'उसके विरुद्ध', supplied 'to the enemy'; missing prefixes in gram labels; prarūpayet not causative; alternative construals noted for u16, u42). Both text_flags (u1 daivata.ijyāyāṃ, u51 dvāḥsthān) are right. u1 corrupt compound is handled well (medium confidence, editors' doubt mark kept as a separate token). u43 prāśya-prāśa stays obscure and needs a person; u21 ākṣikavad apakṣepeṇa is honestly marked uncertain. u23 pravāsita 'put to death' agrees with the text's usage. No regrouping suggested (41-42 are one sentence but keep the edition's numbering). Glossary extended with the chapter's recurring terms."
+}

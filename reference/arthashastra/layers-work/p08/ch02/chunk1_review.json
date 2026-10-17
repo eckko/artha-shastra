@@ -1,0 +1,441 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "against the king / this is the topic",
+     "problem": "rājñaḥ is a plain genitive ('the king's revolt'); 'against the king' and 'this is the topic' are interpretive but match the chapter's heading pattern (iti = topic marker) and are already explained in notes. No change required.",
+     "fix": "(none)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "ahi-bhayāt",
+     "problem": "Simile reading ('like fear of a snake') is the usual one and the note gives the causal alternative; medium confidence is honest. Keep.",
+     "fix": "(none)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इसलिए राजा कोश",
+     "problem": "Subject 'राजा' is supplied; the Sanskrit has no subject (kurvīta, 3 sg. opt.) and the English leaves it as 'he'. Drop the addition.",
+     "fix": "इसलिए कोश और दण्ड की शक्ति को अपने ही अधीन रखे।",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इसलिए राजा कोश",
+      "new": "इसलिए कोश"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Not so, says Kautilya.",
+     "problem": "GLOSSARY fixes the formula 'na iti kauṭilyaḥ' = \"No,\" says Kautilya (12.1 and the 'Teachers quoted' entry); other Book 8 chunks use it. Hindi already matches the glossary.",
+     "fix": "\"No,\" says Kautilya.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "set",
+      "field": "english",
+      "value": "\"No,\" says Kautilya."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसका धन ले जाता है",
+     "problem": "apavāhayati has no expressed object; 'धन' is supplied (the English brackets it). Acceptable in Hindi, where brackets are not allowed; note it.",
+     "fix": "(note)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "append_note",
+      "text": "Hindi 'धन' after apavāhayati is supplied (the Sanskrit has no object)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो मन में जो आए ... होता है, अन्याय से",
+     "problem": "Doubled 'जो' and a relative clause ('जो ... होता है') with no correlative; the main clause 'अन्याय से राज्य का नाश कर देता है' is left hanging.",
+     "fix": "शास्त्ररूपी नेत्र से रहित अन्धा राजा, मन में जो आए वही करने वाला, हठी अथवा दूसरों के द्वारा चलाया जाने वाला होकर अन्याय से राज्य का नाश कर देता है",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो मन में जो आए वही करने वाला, हठी अथवा दूसरों के द्वारा चलाया जाने वाला होता है, अन्याय से",
+      "new": "मन में जो आए वही करने वाला, हठी अथवा दूसरों के द्वारा चलाया जाने वाला होकर अन्याय से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Not so, says Kautilya.",
+     "problem": "GLOSSARY fixes the formula 'na iti kauṭilyaḥ' = \"No,\" says Kautilya (12.1 and the 'Teachers quoted' entry); other Book 8 chunks use it. Hindi already matches the glossary.",
+     "fix": "\"No,\" says Kautilya.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "english",
+      "value": "\"No,\" says Kautilya."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "amātya-mūlam / rājya-mūlam",
+     "problem": "Bahuvrīhi reading (adjectives of upaghātam and ābādham, 'having the ministers / the kingdom as root') is right; -mūla bahuvrīhis are standard. The two-fold parallel vā ... vā confirms it. Keep; medium confidence is fine because of sva-dharma-.",
+     "fix": "(none)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Not so, says Kautilya.",
+     "problem": "GLOSSARY fixes the formula 'na iti kauṭilyaḥ' = \"No,\" says Kautilya (12.1 and the 'Teachers quoted' entry); other Book 8 chunks use it. Hindi already matches the glossary.",
+     "fix": "\"No,\" says Kautilya.",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "set",
+      "field": "english",
+      "value": "\"No,\" says Kautilya."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "bala-āvarjitam",
+     "problem": "The edition's quote marks exclude bala-āvarjitam from the king's thought; it could equally be inside it ('this kingdom won by force is mine'). Worth a note; translation follows the printed punctuation, which is correct practice.",
+     "fix": "(note)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "append_note",
+      "text": "bala-āvarjitam could also belong inside the quoted thought ('this kingdom won by force is mine'); the translation follows the edition's quotation marks."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pāpa.rogya.pāpa.rogī",
+     "problem": "Split pāpa-rogī + apāpa-rogī (ī + a > ya) is correct; the e-text dots are editorial compound markers, not letters, so no text_flag is needed. Agree with the draft; confidence could be high.",
+     "fix": "(none)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "upajāpa",
+     "problem": "Literal genitive 'instigation of' is the safe rendering; the context (which rival's calamity is worse for the conqueror) favours the king's own instigation (overtures to win over subjects), as unit 24 shows. Draft already says so. Keep.",
+     "fix": "(none)",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "the instigation (upajāpa)",
+     "problem": "GLOSSARY (8.1): upajāpa = secret instigation (उपजाप).",
+     "fix": "the secret instigation (upajāpa)",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "the instigation (upajāpa)",
+      "new": "the secret instigation (upajāpa)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upajāpam",
+     "problem": "Same: glossary rendering.",
+     "fix": "secret instigation",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "upajāpam",
+      "field": "gloss",
+      "value": "secret instigation"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Not so, says Kautilya.",
+     "problem": "GLOSSARY fixes the formula 'na iti kauṭilyaḥ' = \"No,\" says Kautilya (12.1 and the 'Teachers quoted' entry); other Book 8 chunks use it. Hindi already matches the glossary.",
+     "fix": "\"No,\" says Kautilya.",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "english",
+      "value": "\"No,\" says Kautilya."
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the constituent element of sovereignty follows the well-born one",
+     "problem": "aiśvarya is not one of the prakṛtis, and a singular 'constituent element of sovereignty' has no referent in the system; here prakṛti is used in its ordinary sense 'nature' (svabhāva): 'sovereignty by its nature attaches to the well-born'. The glossary rendering applies to prakṛti = the seven constituents, not to this sense. The Hindi 'ऐश्वर्य की प्रकृति' is fine, since प्रकृति also means nature.",
+     "fix": "The constituent elements of their own accord submit to a weak king of high birth; sovereignty by its nature follows the well-born one.",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "the constituent element of sovereignty follows the well-born one",
+      "new": "sovereignty by its nature follows the well-born one"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aiśvarya-prakṛtiḥ",
+     "problem": "Same: gloss as 'the nature of sovereignty'.",
+     "fix": "the nature of sovereignty",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "aiśvarya-prakṛtiḥ",
+      "field": "gloss",
+      "value": "the nature of sovereignty"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "aiśvarya-prakṛti note",
+     "problem": "Note should record the alternative the other way round (nature chosen, constituents as alternative).",
+     "fix": "replace note",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "notes",
+      "value": "aiśvarya-prakṛti taken as 'the nature (svabhāva) of sovereignty', i.e. sovereignty by its nature attaches to high birth; the alternative 'the constituents (subjects) of the realm' is possible but aiśvarya is not one of the seven prakṛtis. Hindi प्रकृति covers both senses."
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनुराग में ही",
+     "problem": "'ही' adds an emphasis the Sanskrit (anurāge sārvaguṇyam) does not have.",
+     "fix": "अनुराग में सब गुणों की पूर्णता है",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनुराग में ही सब",
+      "new": "अनुराग में सब"
+     }
+    },
+    {
+     "field": "english",
+     "where": "frustrate the instigation of",
+     "problem": "GLOSSARY (8.1): upajāpa = secret instigation.",
+     "fix": "frustrate the secret instigation of",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "frustrate the instigation of",
+      "new": "frustrate the secret instigation of"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upajāpam",
+     "problem": "Same: glossary rendering.",
+     "fix": "secret instigation",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "upajāpam",
+      "field": "gloss",
+      "value": "secret instigation"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "destruction of the standing crop is worse than destruction of the handful (the reaped grain)",
+     "problem": "'standing' and '(the reaped grain)' put one contested interpretation of muṣṭi into the translation. The causal reading of prayāsa-vadhāt is right (parallel to nirājīvatvāt), but the 'loss of effort' argument fits muṣṭi = the handful of seed sown (little effort lost) at least as well as reaped grain. Keep the translation literal and leave the interpretation in notes.",
+     "fix": "Because it destroys the effort (spent on it), destruction of the crop is worse than destruction of the handful; because it leaves no livelihood, drought is worse than excessive rain.",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "english",
+      "old": "destruction of the standing crop is worse than destruction of the handful (the reaped grain)",
+      "new": "destruction of the crop is worse than destruction of the handful"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "खड़ी फसल का नाश कटी हुई मुट्ठी-भर फसल के नाश से",
+     "problem": "Same interpretive additions ('खड़ी', 'कटी हुई') in the Hindi.",
+     "fix": "परिश्रम के नष्ट हो जाने के कारण फसल का नाश मुट्ठी-भर अन्न के नाश से अधिक अनिष्टकारी है",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "खड़ी फसल का नाश कटी हुई मुट्ठी-भर फसल के नाश से",
+      "new": "फसल का नाश मुट्ठी-भर अन्न के नाश से"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "muṣṭi",
+     "problem": "Record that the seed-handful reading fits the effort argument.",
+     "fix": "(note)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "append_note",
+      "text": "Reviewer: muṣṭi may rather be the handful of seed-grain sown, which suits the 'loss of effort' reason better than reaped grain; translation kept literal ('the handful')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "26 units reviewed (8.2.1-26). Issues: 2 error (unit 23: aiśvarya-prakṛti rendered as 'constituent element of sovereignty'; fixed to 'sovereignty by its nature', gloss and note updated), 20 minor (6/10/14/22: 'Not so, says Kautilya' changed to the glossary formula '\"No,\" says Kautilya'; 21, 24: upajāpa = 'secret instigation' per the 8.1 glossary entry, in English and gloss; 4: supplied subject in Hindi; 9: clumsy Hindi relative clause; 24: added emphasis 'ही'; 25: interpretive 'standing crop'/'reaped grain' made literal in both languages with a note; notes appended on 8, 16; the rest are confirmations with no change). Splits, sandhi and grammar labels checked against the Sanskrit for every unit: all correct, including 19 (pāpa-rogī + apāpa-rogī, no text_flag needed), 13 (-mūla bahuvrīhis), 3 (simile reading, medium confidence honest), 21 (genitive kept literal), 25 (causal ablative parallel to nirājīvatvāt). No regrouping suggested. For a person: unit 23 (prakṛti as 'nature' against the glossary's fixed 'constituent element') and unit 25 (whether muṣṭi is seed-grain or reaped grain) are interpretive calls to confirm against Kangle. GLOSSARY.md extended with two 8.2 lines (kopa = revolt in this sense, dvairājya/vairājya, abhijāta/anabhijāta, prakṛti = nature in aiśvarya-prakṛti, sāmutthāyika, ativṛṣṭi/avṛṣṭi)."
+}

@@ -1,0 +1,602 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pañca-dhanuḥ-śata-apakṛṣṭam",
+     "problem": "'removed five hundred bows away' is not English; apakṛṣṭa = drawn back, withdrawn (by that distance).",
+     "fix": "drawn back five hundred bows",
+     "severity": "minor",
+     "patch": {"n": "1", "op": "word", "match_w": "pañca-dhanuḥ-śata-apakṛṣṭam", "field": "gloss", "value": "drawn back five hundred bows"}
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "The commander-in-chief and the leader",
+     "problem": "Glossary (10.2): senā-pati = the commander of the army; nāyaka = the leader. Keep the fixed rendering.",
+     "fix": "The commander of the army and the leader",
+     "severity": "minor",
+     "patch": {"n": "2", "op": "replace", "field": "english", "old": "The commander-in-chief and the leader", "new": "The commander of the army and the leader"}
+    },
+    {
+     "field": "gloss",
+     "where": "senā-pati-nāyakau",
+     "problem": "Same glossary rendering in the gloss.",
+     "fix": "the commander of the army and the leader",
+     "severity": "minor",
+     "patch": {"n": "2", "op": "word", "match_w": "senā-pati-nāyakau", "field": "gloss", "value": "the commander of the army and the leader"}
+    },
+    {
+     "field": "hindi",
+     "where": "शत्रु की दृष्टि से ओझल स्थान में",
+     "problem": "'शत्रु की' is not in acakṣur-viṣaye; the English brackets '(of the enemy)' and the note already says the enemy is implied.",
+     "fix": "दृष्टि से ओझल स्थान में",
+     "severity": "minor",
+     "patch": {"n": "2", "op": "replace", "field": "hindi", "old": "शत्रु की दृष्टि से ओझल स्थान में", "new": "दृष्टि से ओझल स्थान में"}
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "युद्ध कर सकेगी",
+     "problem": "yudhyeta is a plain optative 'one would/should fight'; 'कर सकेगी' adds ability and a future tense, and the feminine subject (the army) is not in the Sanskrit. The English has 'one would fight'.",
+     "fix": "इस प्रकार सुखपूर्वक, बिना भीड़-भाड़ के युद्ध करे।",
+     "severity": "minor",
+     "patch": {"n": "5", "op": "set", "field": "hindi", "value": "इस प्रकार सुखपूर्वक, बिना भीड़-भाड़ के युद्ध करे।"}
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tri-dhanuṣi",
+     "problem": "A numeral-first compound (tri + dhanus, 'a space of three bows') is a dvigu, not a plain tat-puruṣa (same convention as the p10 ch01 review).",
+     "fix": "n. loc. sg., dvigu",
+     "severity": "minor",
+     "patch": {"n": "7", "op": "word", "match_w": "tri-dhanuṣi", "field": "gram", "value": "n. loc. sg., dvigu"}
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pakṣa-kakṣa-urasyānām",
+     "problem": "Gender missing; a dvandva takes the gender of its last member, and urasya is neuter in this chapter (urasyam, 10.5.12, 32).",
+     "fix": "n. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {"n": "8", "op": "word", "match_w": "pakṣa-kakṣa-urasyānām", "field": "gram", "value": "n. gen. pl., dvandva"}
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pratiyodhāraḥ -> pratiyoddhāraḥ",
+     "problem": "Checked: the flag is right; 10.5.9 has pratiyoddhāraḥ and the counts 45 / 225 / 675 follow 10.5.9-12. No change.",
+     "fix": "keep flag",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ojāḥ",
+     "problem": "ojāḥ agrees with prakṛtayaḥ (f.), so it is f. nom. pl., not m.",
+     "fix": "f. nom. pl.",
+     "severity": "minor",
+     "patch": {"n": "16", "op": "word", "match_w": "ojāḥ", "field": "gram", "value": "f. nom. pl."}
+    },
+    {
+     "field": "hindi",
+     "where": "दस ओज अर्थात् विषम संख्या वाली प्रकृतियाँ",
+     "problem": "'ओज अर्थात् ...' puts an explanatory gloss inside the Hindi (the glossary rule puts explanations in notes, where this one already is). Translate ojāḥ once, as the English does ('odd-numbered').",
+     "fix": "इस प्रकार सम-व्यूह की विषम संख्या वाली दस प्रकृतियाँ होती हैं।",
+     "severity": "minor",
+     "patch": {"n": "16", "op": "set", "field": "hindi", "value": "इस प्रकार सम-व्यूह की विषम संख्या वाली दस प्रकृतियाँ होती हैं।"}
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pakṣa-kakṣa-urasyānām",
+     "problem": "Gender missing (see unit 8).",
+     "fix": "n. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {"n": "17", "op": "word", "match_w": "pakṣa-kakṣa-urasyānām", "field": "gram", "value": "n. gen. pl., dvandva"}
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ojāḥ",
+     "problem": "Agrees with prakṛtayaḥ (f.); see unit 16.",
+     "fix": "f. nom. pl.",
+     "severity": "minor",
+     "patch": {"n": "19", "op": "word", "match_w": "ojāḥ", "field": "gram", "value": "f. nom. pl."}
+    },
+    {
+     "field": "hindi",
+     "where": "दस ओज अर्थात् विषम संख्या वाली प्रकृतियाँ",
+     "problem": "Explanatory 'अर्थात्' gloss inside the Hindi; see unit 16.",
+     "fix": "इस प्रकार विषम-व्यूह की विषम संख्या वाली दस प्रकृतियाँ होती हैं।",
+     "severity": "minor",
+     "patch": {"n": "19", "op": "set", "field": "hindi", "value": "इस प्रकार विषम-व्यूह की विषम संख्या वाली दस प्रकृतियाँ होती हैं।"}
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "a third less (in the centre than in the limbs)",
+     "problem": "The note's arithmetic does not match 10.5.21: with two thirds in the limbs and one third in the centre, the centre is half of the limbs, not 'a third less'. The simplest reading of tri-bhāga-ūna is that the āvāpa placed (in the limbs) is the total short by the third kept for the centre. The translation itself is literal and fine; medium confidence is honest.",
+     "fix": "tri-bhāga-ūna 'short by a third': most simply, the āvāpa placed in the limbs is the whole less the third stationed in the centre (10.5.21). The exact arithmetic is not certain.",
+     "severity": "minor",
+     "patch": {"n": "22", "op": "set", "field": "notes", "value": "tri-bhāga-ūna 'short by a third': most simply, the āvāpa placed in the limbs is the whole less the third stationed in the centre (10.5.21). The exact arithmetic is not certain."}
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "sambādhanm -> sambādhaṃ",
+     "problem": "The flag is right that sambādhanm is no form, but the typed 'nm' is at least as easily a dropped a in sambādhanam (n., 'crowding', also a real word) as a mistyped anusvāra. Both give the same sense and the same translation; record the alternative in the note so the flag is not treated as certain.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {"n": "24", "op": "append_note", "text": "The typo could equally be sambādhanam (n. acc. sg. of sambādhana 'crowding') with a dropped a; the sense is the same either way."}
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pratyāpāvaḥ -> pratyāvāpaḥ",
+     "problem": "Checked: correct; 10.5.29 pratyāvāpāc confirms the term. No change.",
+     "fix": "keep flag",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "high",
+     "problem": "The construction of the four ablatives (para-āvāpāt pratyāvāpāt ca as standard of comparison for catur-guṇāt ... ā aṣṭa-guṇāt) is the draft's own reading and the note says so; 'should be' is also supplied. Honest confidence is medium.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {"n": "29", "op": "set", "field": "confidence", "value": "medium"}
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कवचधारी युद्ध-हाथियों का",
+     "problem": "'युद्ध-' is not in sāmnāhyānām (armoured ones); the English has only 'armoured elephants'.",
+     "fix": "कवचधारी हाथियों का",
+     "severity": "minor",
+     "patch": {"n": "34", "op": "replace", "field": "hindi", "old": "कवचधारी युद्ध-हाथियों का", "new": "कवचधारी हाथियों का"}
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "arrays combining two of the four arms, as in 10.5.31-38 taken pairwise",
+     "problem": "'taken pairwise' is invented: 31-33 are arrays of three arms, 34-37 of one arm each, 38 of all four; nothing in the text pairs them. The note should say the reference of dvi-aṅga is unclear rather than supply one. The literal translation and medium confidence are right. A person should check Kangle's note on 10.5.39-40.",
+     "fix": "dvi-aṅga 'two-armed': what the two arms refer to is unclear, since 10.5.31-33 describe arrays of three arms, 34-37 of one arm each and 38 of all four; literal rendering kept, cf. tri-aṅga in 10.5.40.",
+     "severity": "minor",
+     "patch": {"n": "39", "op": "set", "field": "notes", "value": "dvi-aṅga 'two-armed': what the two arms refer to is unclear, since 10.5.31-33 describe arrays of three arms, 34-37 of one arm each and 38 of all four; literal rendering kept, cf. tri-aṅga in 10.5.40."}
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "stairyam -> sthairyam",
+     "problem": "Checked: correct (sthairya from sthira; stairya does not exist). No change.",
+     "fix": "keep flag",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "... शुभ लक्षण तथा अच्छा आचरण — ये हैं।",
+     "problem": "The dangling '— ये हैं' after a thirteen-item list is not readable Hindi; put the copula before the list (same thirteen items, same order).",
+     "fix": "हाथियों और घोड़ों की विशेषता ये हैं: कुल, जाति, सत्त्व, पूर्ण आयु में होना, प्राण-शक्ति, डील-डौल, वेग, तेज, प्रशिक्षण, स्थिरता, ऊँचा कद, आज्ञाकारिता, और शुभ लक्षण तथा अच्छा आचरण।",
+     "severity": "minor",
+     "patch": {"n": "42", "op": "set", "field": "hindi", "value": "हाथियों और घोड़ों की विशेषता ये हैं: कुल, जाति, सत्त्व, पूर्ण आयु में होना, प्राण-शक्ति, डील-डौल, वेग, तेज, प्रशिक्षण, स्थिरता, ऊँचा कद, आज्ञाकारिता, और शुभ लक्षण तथा अच्छा आचरण।"}
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "anuloma/pratiloma",
+     "problem": "Checked: the split, the three grades (sāra, anusāra, tṛtīya-sāra) plus phalgu, and the anuloma/pratiloma reading are defensible and the note states the interpretation; medium confidence is honest. No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vega-abhihūlikaḥ",
+     "problem": "abhihūlika is not a dictionary word and the draft rightly gives low confidence; but the note should also record that the parallel 10.5.47 (evam etat sahiṣṇu bhavati, the result of the opposite placement) suggests the result here may be the array's capacity to deliver or to meet a charge (vega), so 'making a swift assault' is one guess among two. Needs a person with Kangle's text and note.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {"n": "45", "op": "append_note", "text": "The parallel result-clause in 10.5.47 (sahiṣṇu, 'able to endure') leaves open whether vega here is the array's own charge or the enemy's shock that it meets; the e-text's reading needs checking against the printed edition."}
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "tṛtiyiya -> tṛtīya",
+     "problem": "Checked: correct, cf. tṛtīya.sāram in 10.5.43. No change.",
+     "fix": "keep flag",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pakṣa-kakṣa-urasyānām",
+     "problem": "Gender missing (see unit 8).",
+     "fix": "n. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {"n": "48", "op": "word", "match_w": "pakṣa-kakṣa-urasyānām", "field": "gram", "value": "n. gen. pl., dvandva"}
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tat-prabhūta-sāreṇa",
+     "problem": "sāra is masculine (sāraḥ); the compound ending in it is m. inst. sg.",
+     "fix": "m. inst. sg., tat-puruṣa",
+     "severity": "minor",
+     "patch": {"n": "49", "op": "word", "match_w": "tat-prabhūta-sāreṇa", "field": "gram", "value": "m. inst. sg., tat-puruṣa"}
+    },
+    {
+     "field": "split",
+     "where": "tat-prabhūta-sāreṇa",
+     "problem": "Checked: keeping tat inside the compound follows the e-text's dot and gives good sense ('with strong troops more abundant than that'); the alternative tat as correlative of yat gives the same translation and the note records it (10.5.51 has tad separate). No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tad-dvi-guṇa-sāreṇa",
+     "problem": "sāra is masculine; see unit 49.",
+     "fix": "m. inst. sg., tat-puruṣa",
+     "severity": "minor",
+     "patch": {"n": "50", "op": "word", "match_w": "tad-dvi-guṇa-sāreṇa", "field": "gram", "value": "m. inst. sg., tat-puruṣa"}
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yatot -> yato",
+     "problem": "Checked: correct; yato vā (yataḥ before vā) parallels yataḥ at the start of the line. No change.",
+     "fix": "keep flag",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(attack) from the front, from the two sides and from behind, protection of the broken troops",
+     "problem": "The draft makes agrataḥ pārśvābhyām pṛṣṭhataḥ a separate manoeuvre by supplying 'attack', which the text does not name, so the list gets one invented item. The three adverbs stand directly before bhagna-rakṣā and are best taken with it: protection of the broken troops from the front, the sides and the rear (every other item in the list is a noun, not a bare adverb). The Hindi even writes 'आक्रमण' without brackets.",
+     "fix": "following in column, protection of the broken troops from the front, from the two sides and from behind, pursuit of the broken troops",
+     "severity": "error",
+     "patch": {"n": "53", "op": "replace", "field": "english", "old": "following in column, (attack) from the front, from the two sides and from behind, protection of the broken troops, pursuit of the broken troops", "new": "following in column, protection of the broken troops from the front, from the two sides and from behind, pursuit of the broken troops"}
+    },
+    {
+     "field": "hindi",
+     "where": "आगे से, दोनों पार्श्वों से और पीछे से आक्रमण, टूटी हुई सेना की रक्षा",
+     "problem": "Same as the English: 'आक्रमण' is an added item.",
+     "fix": "आगे से, दोनों पार्श्वों से और पीछे से टूटी हुई सेना की रक्षा",
+     "severity": "error",
+     "patch": {"n": "53", "op": "replace", "field": "hindi", "old": "आगे से, दोनों पार्श्वों से और पीछे से आक्रमण, टूटी हुई सेना की रक्षा", "new": "आगे से, दोनों पार्श्वों से और पीछे से टूटी हुई सेना की रक्षा"}
+    },
+    {
+     "field": "notes",
+     "where": "agrataḥ, pārśvābhyām, pṛṣṭhataḥ are directions of attack",
+     "problem": "The note must match the corrected reading and admit the alternative.",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {"n": "53", "op": "replace", "field": "notes", "old": "agrataḥ, pārśvābhyām, pṛṣṭhataḥ are directions of attack;", "new": "agrataḥ, pārśvābhyām, pṛṣṭhataḥ are taken with bhagna-rakṣā (protecting the broken troops from the front, the sides and the rear); reading them as a separate manoeuvre would require supplying 'attack', which the text does not name;"}
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hasit -> hasti",
+     "problem": "Checked: correct, cf. aśva.yuddhāni (53) and ratha.yuddhāni (55). The split prakīrṇikā-varjāni across the e-text's misplaced dot is also right (cf. unmathya.avadhāna.varjāny in 55). No change.",
+     "fix": "keep flag",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "pakṣa-kakṣa-urasyānām",
+     "problem": "Gender missing (see unit 8).",
+     "fix": "n. gen. pl., dvandva",
+     "severity": "minor",
+     "patch": {"n": "54", "op": "word", "match_w": "pakṣa-kakṣa-urasyānām", "field": "gram", "value": "n. gen. pl., dvandva"}
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ओज और युग्म व्यूह",
+     "problem": "ojān / yugmān are translated in the English ('odd and even') and in units 16/19 Hindi ('विषम संख्या वाली'); leaving the Sanskrit words untranslated here is inconsistent and 'ओज' is not Hindi for 'odd'.",
+     "fix": "विषम और सम संख्या वाले व्यूह",
+     "severity": "minor",
+     "patch": {"n": "57", "op": "replace", "field": "hindi", "old": "ओज और युग्म व्यूह", "new": "विषम और सम संख्या वाले व्यूह"}
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दो सौ धनुष पीछे जाकर",
+     "problem": "'पीछे' is interpretation (the English brackets '(to the rear)'); the Sanskrit has only 'having gone two hundred bows'.",
+     "fix": "दो सौ धनुष की दूरी पर जाकर",
+     "severity": "minor",
+     "patch": {"n": "58", "op": "replace", "field": "hindi", "old": "दो सौ धनुष पीछे जाकर", "new": "दो सौ धनुष की दूरी पर जाकर"}
+    }
+   ]
+  }
+ ],
+ "summary": "58 units reviewed against the Sanskrit (10.5.1-58, Kangle e-text). 2 errors (both unit 53: the cavalry list given an invented item 'attack from the front, sides and rear' instead of taking the three adverbs with bhagna-rakṣā; English and Hindi patched, note corrected). 34 minor (gender labels: ojāḥ f., pakṣa-kakṣa-urasyānām n., sāreṇa m., tri-dhanuṣi dvigu; glossary rendering of senā-pati in unit 2; Hindi additions or explanatory glosses in units 2, 5, 16, 19, 34, 57, 58 and an unreadable list ending in 42; notes corrected in 22 and 39; confidence of 29 lowered to medium; alternatives recorded for 24 and 45; plus confirmations of all seven text_flags, all correct). All word splits and sandhi check out, including yāvat split off the compound in 24, dvi-/tri-aṅga in 39-40, prakīrṇikā-varjāni in 54 and tat/tad kept in the compounds of 49-50 (equivalent sense, noted). No regrouping suggested. Needs a person: unit 39 (what dvi-aṅga refers to; check Kangle's note), unit 45 (vega-abhihūlika, unknown word, low confidence stays), and unit 53 (the unmathya-avadhāna manoeuvre and the attachment of agrataḥ pārśvābhyām pṛṣṭhataḥ, which should be confirmed against Kangle's translation)."
+}

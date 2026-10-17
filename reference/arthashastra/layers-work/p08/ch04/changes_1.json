@@ -1,0 +1,504 @@
+[
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "ajīvanāya",
+  "old": "for the loss of livelihood",
+  "new": "for the loss of life (non-living)",
+  "why": "reviewer (minor): a-jīvana is 'non-living, loss of life' (famine kills), not 'loss of livelihood'."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Disease afflicts one region and can be remedied; famine afflicts the whole country and leaves living beings without livelihood.",
+  "new": "Disease afflicts one region and can be remedied; famine afflicts the whole country and leads to the loss of life of living beings.",
+  "why": "reviewer (minor): ajīvanāya = leads to the death of living beings; 'livelihood' softens it."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "व्याधि एक ही प्रदेश को पीड़ित करती है और उसका प्रतीकार किया जा सकता है, किन्तु दुर्भिक्ष समस्त देश को पीड़ित करता है और प्राणियों के जीवन-निर्वाह का नाश कर देता है।",
+  "new": "व्याधि एक ही प्रदेश को पीड़ित करती है और उसका प्रतीकार किया जा सकता है, किन्तु दुर्भिक्ष समस्त देश को पीड़ित करता है और प्राणियों के जीवन का नाश कर देता है।",
+  "why": "reviewer (minor): ajīvana = जीवन का नाश, not जीवन-निर्वाह (livelihood)."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "daṇḍa-karābhyām",
+  "old": "by punishments and taxes",
+  "new": "by fines and taxes",
+  "why": "reviewer (error): Glossary (8.1): daṇḍa in daṇḍa-kara = fines, kara = taxes."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "'Of one's own troops and the enemy's troops, one's own troops oppress with excessive punishments and taxes and cannot be warded off; but the enemy's troops can be fought against, or got rid of by withdrawal or by a peace treaty,' say the teachers.",
+  "new": "'Of one's own troops and the enemy's troops, one's own troops oppress with excessive fines and taxes and cannot be warded off; but the enemy's troops can be fought against, or got rid of by withdrawal or by a peace treaty,' say the teachers.",
+  "why": "reviewer (error): Glossary rendering of daṇḍa-kara is 'fines and taxes'."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "prakṛti-rāja-vivādayoḥ",
+  "old": "of a dispute among the constituents and a dispute between kings",
+  "new": "of a dispute among the constituents and a dispute with the king",
+  "why": "reviewer (error): rāja-vivāda here is the constituents' dispute WITH the king (the king then has to buy them back with double rations, wages and exemptions, 16; Kautilya: it ends in their oppression or extirpation, 20). A war between two kings is the para-cakra case already handled in 13-15. 'Between kings' is the less likely reading."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "rāja-vivādaḥ",
+  "old": "a dispute between kings",
+  "new": "a dispute with the king",
+  "why": "reviewer (error): Same as above."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "'Of a dispute among the constituents and a dispute between kings, a dispute among the constituents divides the constituents and brings on attacks by enemies, whereas a dispute between kings brings the constituents double rations, wages and exemptions,' say the teachers.",
+  "new": "'Of a dispute among the constituents and a dispute with the king, a dispute among the constituents divides the constituents and brings on attacks by enemies, whereas a dispute between kings brings the constituents double rations, wages and exemptions,' say the teachers.",
+  "why": "reviewer (error): rāja-vivāda = dispute with the king."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "'Of a dispute among the constituents and a dispute with the king, a dispute among the constituents divides the constituents and brings on attacks by enemies, whereas a dispute between kings brings the constituents double rations, wages and exemptions,' say the teachers.",
+  "new": "'Of a dispute among the constituents and a dispute with the king, a dispute among the constituents divides the constituents and brings on attacks by enemies, whereas a dispute with the king brings the constituents double rations, wages and exemptions,' say the teachers.",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "\"प्रकृतियों के विवाद और राजाओं के विवाद में से प्रकृतियों का विवाद प्रकृतियों में भेद डालने वाला है और शत्रुओं के आक्रमण लाता है, जबकि राजाओं का विवाद प्रकृतियों को दुगुना भोजन-भत्ता, वेतन और कर-छूट दिलाने वाला होता है\" — ऐसा आचार्य कहते हैं।",
+  "new": "\"प्रकृतियों के विवाद और राजा के साथ विवाद में से प्रकृतियों का विवाद प्रकृतियों में भेद डालने वाला है और शत्रुओं के आक्रमण लाता है, जबकि राजाओं का विवाद प्रकृतियों को दुगुना भोजन-भत्ता, वेतन और कर-छूट दिलाने वाला होता है\" — ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (error): rāja-vivāda = राजा के साथ विवाद."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "\"प्रकृतियों के विवाद और राजा के साथ विवाद में से प्रकृतियों का विवाद प्रकृतियों में भेद डालने वाला है और शत्रुओं के आक्रमण लाता है, जबकि राजाओं का विवाद प्रकृतियों को दुगुना भोजन-भत्ता, वेतन और कर-छूट दिलाने वाला होता है\" — ऐसा आचार्य कहते हैं।",
+  "new": "\"प्रकृतियों के विवाद और राजा के साथ विवाद में से प्रकृतियों का विवाद प्रकृतियों में भेद डालने वाला है और शत्रुओं के आक्रमण लाता है, जबकि राजा के साथ विवाद प्रकृतियों को दुगुना भोजन-भत्ता, वेतन और कर-छूट दिलाने वाला होता है\" — ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "rāja-vivāda rendered 'a dispute between kings' (two kings contending, each courting the constituents); 'a dispute with the king' is the alternative. bhakta = food rations.",
+  "new": "rāja-vivāda = a dispute of the constituents with the king (who must then win them back with double rations, wages and exemptions); 'a dispute between kings' is the alternative, less likely since war between kings is the para-cakra case of 13-15. bhakta = food rations.",
+  "why": "reviewer (minor): Note should record the chosen reading and the alternative the other way round."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "और विवाद करती हुई प्रकृतियाँ परस्पर स्पर्धा के कारण उपकार ही करती हैं।",
+  "new": "और विवाद करती हुई प्रकृतियाँ परस्पर स्पर्धा के कारण उपकार करती हैं।",
+  "why": "reviewer (minor): 'ही' is an added emphasis not in the Sanskrit."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "rāja-vivādaḥ",
+  "old": "a dispute between kings",
+  "new": "a dispute with the king",
+  "why": "reviewer (error): As in 16: dispute with the king."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "But a dispute between kings leads to the oppression and extirpation of the constituents and is to be settled by double exertion on their part.",
+  "new": "But a dispute with the king leads to the oppression and extirpation of the constituents and is to be settled by double exertion.",
+  "why": "reviewer (error): rāja-vivāda = dispute with the king; 'on their part' is an unmarked interpretive addition (the Sanskrit does not say whose exertion; prakṛtīnām goes most naturally with pīḍana-ucchedanāya)."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "किन्तु राजाओं का विवाद प्रकृतियों के पीड़न और उच्छेद के लिए होता है और उनके दुगुने व्यायाम से ही सिद्ध होता है।",
+  "new": "किन्तु राजा के साथ विवाद प्रकृतियों के पीड़न और उच्छेद के लिए होता है और दुगुने व्यायाम से सिद्ध होता है।",
+  "why": "reviewer (error): Same two points: राजा के साथ विवाद; 'उनके' and 'ही' are additions."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "prakṛtīnām construed with both pīḍana-ucchedanāya and dvi-guṇa-vyāyāma-sādhyaḥ.",
+  "new": "prakṛtīnām goes with pīḍana-ucchedanāya; whose double exertion settles the dispute (the king's, most likely) is not stated, so it is left open in both languages.",
+  "why": "reviewer (minor): Record that the agent of the exertion is unexpressed."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Amusement by the country consumes a little of the toil of works for the sake of rest, and having consumed it, turns again to application to works; whereas amusement by the king oppresses, both by himself and through his favourites, with forcible seizures, demands for presents, and appropriation of goods, houses and labour.",
+  "new": "Amusement by the country consumes a little, in order to lay aside the toil of works, and having consumed it, turns again to application to works; whereas amusement by the king oppresses, both by himself and through his favourites, with forcible seizures, demands for presents, and appropriation of goods, houses and labour.",
+  "why": "reviewer (error): Syntax: karma-śramam is the object of avadhā (laying aside), avadhā-artham 'in order to lay aside the toil of work'; alpam alone is the object of bhakṣayati. 'Consumes a little of the toil' mis-construes the accusative."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "देश का विहार विश्राम के लिए कर्मों के श्रम का थोड़ा-सा भाग खा लेता है और खाकर फिर कर्मों में लग जाता है; किन्तु राजा का विहार स्वयं और वल्लभों के द्वारा बलपूर्वक छीनने, उपहार की माँग तथा पण्य, घर और कार्य के हड़पने से पीड़ित करता है।",
+  "new": "देश का विहार कर्मों के श्रम को दूर करने के लिए थोड़ा-सा खा लेता है और खाकर फिर कर्मों में लग जाता है; किन्तु राजा का विहार स्वयं और वल्लभों के द्वारा बलपूर्वक छीनने, उपहार की माँग तथा पण्य, घर और कार्य के हड़पने से पीड़ित करता है।",
+  "why": "reviewer (error): Same syntax point."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "avadhā-artham",
+  "old": "for the sake of rest",
+  "new": "for the sake of laying aside (the toil)",
+  "why": "reviewer (minor): avadhā = laying aside (ava-√dhā), with karma-śramam as its object."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "karma-śramam",
+  "old": "the toil of works",
+  "new": "the toil of works (object of avadhā)",
+  "why": "reviewer (minor): Object of avadhā, not of bhakṣayati."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "avadhā taken as 'rest, relaxation'. svayaṃ-grāha = taking by one's own hand (forcible seizure); praṇaya = demand for a present; paṇya-agāra-kārya-upagraha = seizure of goods, houses and labour. Segmentation of this long compound is uncertain.",
+  "new": "avadhā = laying aside (ava-√dhā): karma-śramam avadhā-artham 'in order to lay aside the toil of work'; alpam is the object of bhakṣayati. svayaṃ-grāha = taking by one's own hand (forcible seizure); praṇaya = demand for a present; paṇya-agāra-kārya-upagraha = seizure of goods, houses and labour. Alternative segmentation: paṇya-agāra = shop, warehouse (paṇyāgāra, cf. 2.4), giving 'appropriation of shops and (their) business'. Segmentation of this long compound is uncertain.",
+  "why": "reviewer (minor): Update the note; also record the alternative segmentation paṇya-agāra = shop/warehouse (paṇyāgāra is a word in 2.4), i.e. 'appropriation of shops and (their) business'."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "The prince can be restrained by the minister and the chaplain; not the favourite queen, because of her foolishness and her association with worthless people.",
+  "new": "The prince can be restrained by the minister and the chaplain; not the favourite queen, because of foolishness and association with worthless people.",
+  "why": "reviewer (minor): 'her' (twice) is an unmarked addition; the Sanskrit gives bare ablatives, and whose foolishness is not stated."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "कुमार को मन्त्री और पुरोहित के द्वारा रोका जा सकता है, किन्तु सुभगा को नहीं, क्योंकि वह मूर्खता और अनर्थकारी लोगों की संगति में रहती है।",
+  "new": "कुमार को मन्त्री और पुरोहित के द्वारा रोका जा सकता है, किन्तु सुभगा को नहीं, मूर्खता और निरर्थक लोगों की संगति के कारण।",
+  "why": "reviewer (minor): 'मूर्खता में रहती है' is not Hindi; also adds a subject. anarthya = worthless/useless, not अनर्थकारी (harmful)."
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "",
+  "new": "vyasana in samāna-śīla-vyasanatvāt = the habits/vices of the guild members (not the Book 8 sense 'calamity of a constituent'), hence 'vices' / व्यसन.",
+  "why": "reviewer (minor): Record why vyasana is 'vices' here (glossary: calamity for the vyasana of a constituent)."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "'Of the treasurer and the collector, the treasurer oppresses by spoiling what has been done and by penalties; the collector, being supervised by the office staff, enjoys only the fruit assigned to him,' say the teachers.",
+  "new": "'Of the Treasurer and the Collector, the Treasurer oppresses by spoiling what has been done and by penalties; the Collector, being supervised by the office staff, enjoys the fruit assigned to him,' say the teachers.",
+  "why": "reviewer (minor): 'only' (and Hindi केवल ... ही) is an unmarked addition; glossary (12.2) samāhartṛ = the Collector, capitalised, so saṃnidhātṛ = the Treasurer to match."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "\"सन्निधाता और समाहर्ता में से सन्निधाता किए हुए काम में दोष निकालकर और दण्ड लगाकर पीड़ित करता है, जबकि समाहर्ता कार्यालय के कर्मचारियों की देखरेख में रहकर केवल निर्दिष्ट फल का ही उपभोग करने वाला होता है\" — ऐसा आचार्य कहते हैं।",
+  "new": "\"सन्निधाता और समाहर्ता में से सन्निधाता किए हुए काम में दोष निकालकर और दण्ड लगाकर पीड़ित करता है, जबकि समाहर्ता कार्यालय के कर्मचारियों की देखरेख में रहकर निर्दिष्ट फल का उपभोग करने वाला होता है\" — ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): Added emphasis."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "pradiṣṭa-phala-upabhogī",
+  "old": "enjoying only the fruit assigned to him",
+  "new": "enjoying the fruit assigned to him",
+  "why": "reviewer (minor): Drop 'only'."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "saṃnidhātṛ-samāhartroḥ",
+  "old": "of the treasurer and the collector",
+  "new": "of the Treasurer and the Collector",
+  "why": "reviewer (minor): Capitalise the office titles per glossary."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "saṃnidhātā",
+  "old": "the treasurer",
+  "new": "the Treasurer",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "samāhartā",
+  "old": "the collector",
+  "new": "the Collector",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "The treasurer receives what is to be put into the treasury after it has been settled by others; the collector, however, first makes wealth for himself and afterwards makes the king's wealth or destroys it, and in taking the property of others he acts on his own authority.",
+  "new": "The Treasurer receives what is to be put into the treasury after it has been settled by others; the Collector, however, first makes wealth for himself and afterwards makes the king's wealth or destroys it, and in taking the property of others he acts on his own authority.",
+  "why": "reviewer (minor): Capitalise per glossary."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "सन्निधाता तो दूसरों के द्वारा व्यवस्थित किए हुए, कोश में डालने योग्य धन को ही ग्रहण करता है; किन्तु समाहर्ता पहले अपने लिए अर्थ बनाकर पीछे राजा का अर्थ बनाता है या उसे नष्ट कर देता है, और दूसरों का धन लेने में अपनी ही मर्ज़ी से चलता है।",
+  "new": "सन्निधाता दूसरों के द्वारा व्यवस्थित किए हुए, कोश में डालने योग्य धन को ग्रहण करता है; किन्तु समाहर्ता पहले अपने लिए अर्थ बनाकर पीछे राजा का अर्थ बनाता है या उसे नष्ट कर देता है, और दूसरों का धन लेने में अपने ही निश्चय से चलता है।",
+  "why": "reviewer (minor): 'तो ... धन को ही' adds emphasis; 'मर्ज़ी' is colloquial for sva-pratyaya."
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "saṃnidhātā",
+  "old": "the treasurer",
+  "new": "the Treasurer",
+  "why": "reviewer (minor): Capitalise."
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "samāhartā",
+  "old": "the collector",
+  "new": "the Collector",
+  "why": "reviewer (minor): Capitalise."
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "cora-prasarga-deya-atyādānābhyām",
+  "old": "m. inst. du. (dvandva of tat-puruṣas)",
+  "new": "n. inst. du. (dvandva of tat-puruṣas)",
+  "why": "reviewer (minor): Dvandva takes the gender of the last member; atyādāna is neuter."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "The frontier officer keeps the trade route going by favouring the inflow of goods; the traders, however, combining together and raising and lowering the prices of goods, make their living by taking a hundred paṇas on a paṇa and a hundred kumbhas on a kumbha.",
+  "new": "The frontier officer subsists by favouring the inflow of goods; the traders, however, combining together and raising and lowering the prices of goods, make their living at a hundred paṇas on a paṇa and a hundred kumbhas on a kumbha.",
+  "why": "reviewer (error): vartayati (caus. √vṛt) here = 'subsists, makes his living', parallel to ājīvanti at the end; 'the trade route' is an unmarked addition with no object in the Sanskrit. 'by taking' is also supplied."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "अन्तपाल पण्यों के आगमन को अनुग्रह देकर वणिक्-पथ को चलाता रहता है; किन्तु वैदेहक मिलकर पण्यों के भाव घटाते-बढ़ाते हुए एक पण पर सौ पण और एक कुम्भ पर सौ कुम्भ कमाकर जीविका चलाते हैं।",
+  "new": "अन्तपाल पण्यों के आगमन को अनुग्रह देकर जीविका चलाता है; किन्तु वैदेहक मिलकर पण्यों के भाव घटाते-बढ़ाते हुए एक पण पर सौ पण और एक कुम्भ पर सौ कुम्भ के हिसाब से जीविका चलाते हैं।",
+  "why": "reviewer (error): Same addition."
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "vartayati",
+  "old": "keeps it going",
+  "new": "subsists, makes his living",
+  "why": "reviewer (error): See above."
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "paṇa = a coin; kumbha = a measure of grain. 'the trade route' as object of vartayati is understood from unit 34.",
+  "new": "paṇa = a coin; kumbha = a measure of grain. vartayati (caus. √vṛt) = subsists, makes a living, parallel to ājīvanti; no object is expressed.",
+  "why": "reviewer (minor): Replace with the parallel."
+ },
+ {
+  "n": "36",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): The rendering changed; mark medium."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "भूमि अभिजातों के द्वारा अधिकृत हो या पशुओं के झुण्डों के द्वारा अधिकृत — इस विषय में \"अभिजातों के द्वारा अधिकृत भूमि बहुत फल देने वाली होने पर भी, सैनिकों की आपूर्ति में उपकारी होने से, विपत्ति में बाधा के भय से छुड़ाने योग्य नहीं है; किन्तु पशुओं के झुण्डों के द्वारा अधिकृत भूमि कृषि के योग्य होने से छुड़ाने योग्य है,",
+  "new": "भूमि कुलीनों के द्वारा अधिकृत हो या पशुओं के झुण्डों के द्वारा अधिकृत — \"कुलीनों के द्वारा अधिकृत भूमि बहुत फल देने वाली होने पर भी, सैनिकों की आपूर्ति में उपकारी होने से, विपत्ति में बाधा के भय से छुड़ाने योग्य नहीं है; किन्तु पशुओं के झुण्डों के द्वारा अधिकृत भूमि कृषि के योग्य होने से छुड़ाने योग्य है,",
+  "why": "reviewer (minor): Glossary (8.2): abhijāta = कुलीन; 'इस विषय में' is an added connective."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "Land occupied by the high-born, or land occupied by cattle herds? 'Land occupied by the high-born, even though yielding great produce, is not fit to be freed, since it serves as a source of soldiers, for fear of harm in a calamity; land occupied by cattle herds, on the other hand, being fit for cultivation, is fit to be freed,",
+  "new": "Land occupied by the well-born, or land occupied by cattle herds? 'Land occupied by the well-born, even though yielding great produce, is not fit to be freed, since it serves as a source of soldiers, for fear of harm in a calamity; land occupied by cattle herds, on the other hand, being fit for cultivation, is fit to be freed,",
+  "why": "reviewer (minor): Glossary: abhijāta = well-born."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "abhijāta-uparuddhā",
+  "old": "occupied by the high-born",
+  "new": "occupied by the well-born",
+  "why": "reviewer (minor): Glossary: well-born."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "abhijāta-uparuddhā",
+  "old": "occupied by the high-born",
+  "new": "occupied by the well-born",
+  "why": "reviewer (minor): Glossary: well-born."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "Land occupied by the high-born, even though of exceedingly great benefit, is fit to be freed, precisely for fear of harm in a calamity; land occupied by cattle herds, on the other hand, being useful for the treasury and for draught animals, is not fit to be freed, except where it obstructs the sowing of crops.",
+  "new": "Land occupied by the well-born, even though of exceedingly great benefit, is fit to be freed, for fear of harm in a calamity; land occupied by cattle herds, on the other hand, being useful for the treasury and for draught animals, is not fit to be freed, except where it obstructs the sowing of crops.",
+  "why": "reviewer (minor): Glossary: well-born; 'precisely' is an added emphasis (Hindi 'ही' likewise)."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "अभिजातों के द्वारा अधिकृत भूमि अत्यन्त महान् उपकार करने वाली होने पर भी विपत्ति में बाधा के भय से ही छुड़ाने योग्य है; किन्तु पशुओं के झुण्डों के द्वारा अधिकृत भूमि कोश और वाहनों के लिए उपकारी होने से छुड़ाने योग्य नहीं है, सिवाय उस दशा के जब वह अन्न की बुवाई में बाधा डालती हो।",
+  "new": "कुलीनों के द्वारा अधिकृत भूमि अत्यन्त महान् उपकार करने वाली होने पर भी विपत्ति में बाधा के भय से छुड़ाने योग्य है; किन्तु पशुओं के झुण्डों के द्वारा अधिकृत भूमि कोश और वाहनों के लिए उपकारी होने से छुड़ाने योग्य नहीं है, सिवाय उस दशा के जब वह अन्न की बुवाई में बाधा डालती हो।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "abhijāta-uparuddhā",
+  "old": "occupied by the high-born",
+  "new": "occupied by the well-born",
+  "why": "reviewer (minor): Glossary: well-born."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "'Of robbers and forest tribes, robbers move in ambush by night, attack persons, are constant, carry off hundreds and thousands, provoke the principal men, and remain concealed; forest tribes, on the other hand, move in the frontier forests, go about openly and in plain sight, and harm only one region,' say the teachers.",
+  "new": "'Of robbers and forest chiefs, robbers move in ambush by night, attack persons, are constant, carry off hundreds and thousands, provoke the principal men, and remain concealed; forest chiefs, on the other hand, move in the frontier forests, go about openly and in plain sight, and harm only one region,' say the teachers.",
+  "why": "reviewer (minor): Glossary (8.1, 12.3): āṭavika = forest chief(tain); aṭavī = forest tribes. 41-43 speak of the āṭavikas (numerous, settled, 'of the same nature as kings')."
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "pratirodhaka-āṭavikayoḥ",
+  "old": "of robbers and forest tribes",
+  "new": "of robbers and forest chiefs",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "āṭavikāḥ",
+  "old": "forest tribes",
+  "new": "forest chiefs",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "\"प्रतिरोधक लुटेरों और आटविकों में से प्रतिरोधक रात में घात लगाकर चलते हैं, शरीर पर आक्रमण करते हैं, नित्य सक्रिय रहते हैं, सैकड़ों-हज़ारों का अपहरण करते हैं, प्रधान पुरुषों को कुपित करते हैं और छिपे रहते हैं; जबकि आटविक सीमान्त के वनों में विचरण करते हैं, प्रकट और दृश्य होकर चलते हैं, और एक ही प्रदेश को हानि पहुँचाते हैं\" — ऐसा आचार्य कहते हैं।",
+  "new": "\"प्रतिरोधकों और आटविकों में से प्रतिरोधक रात में घात लगाकर चलते हैं, शरीर पर आक्रमण करते हैं, नित्य सक्रिय रहते हैं, सैकड़ों-हज़ारों का अपहरण करते हैं, प्रधान पुरुषों को कुपित करते हैं और छिपे रहते हैं; जबकि आटविक सीमान्त के वनों में विचरण करते हैं, प्रकट और दृश्य होकर चलते हैं, और एक ही प्रदेश को हानि पहुँचाते हैं\" — ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): 'लुटेरों' is an in-text gloss of pratirodhaka; keep the term only (explanation belongs in notes)."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "sattra here = ambush, hiding place. vyavahitāḥ taken as 'concealed, screened off' (contrasted with prakāśāḥ dṛśyāḥ of the forest tribes). pradhāna-kopakāḥ: 'causing the principal men to be angry', i.e. troubling the leading people.",
+  "new": "sattra here = ambush, hiding place. vyavahitāḥ taken as 'concealed, screened off' (contrasted with prakāśāḥ dṛśyāḥ of the forest tribes). pradhāna-kopakāḥ: 'causing the principal men to be angry', i.e. troubling the leading people. pratirodhaka = robber, highwayman (one who waylays).",
+  "why": "reviewer (minor): Add the gloss to notes."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Robbers rob only the careless; they are few, feeble, and easy to find out and to catch; forest tribes, on the other hand, are settled in their own territory, numerous and valiant, fighting openly, plunderers and slayers of countries, and of the same nature as kings.",
+  "new": "Robbers rob the careless; they are few, dull, and easy to find out and to catch; forest chiefs, on the other hand, are settled in their own territory, numerous and valiant, fighting openly, plunderers and slayers of countries, and of the same nature as kings.",
+  "why": "reviewer (minor): 'only' is an added emphasis (Hindi 'ही' likewise); kuṇṭha = blunt, dull rather than 'feeble'; āṭavika = forest chiefs per glossary."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "प्रतिरोधक लुटेरे असावधान का ही हरण करते हैं; वे थोड़े, निर्बल, और सरलता से जाने और पकड़े जा सकने वाले होते हैं; किन्तु आटविक अपने ही प्रदेश में स्थित, बहुसंख्यक और पराक्रमी होते हैं, प्रकट रूप से युद्ध करने वाले, देशों के अपहरणकर्ता और हन्ता, तथा राजा के समान धर्म वाले होते हैं।",
+  "new": "प्रतिरोधक असावधान का हरण करते हैं; वे थोड़े, मन्द, और सरलता से जाने और पकड़े जा सकने वाले होते हैं; किन्तु आटविक अपने ही प्रदेश में स्थित, बहुसंख्यक और पराक्रमी होते हैं, प्रकट रूप से युद्ध करने वाले, देशों के अपहरणकर्ता और हन्ता, तथा राजा के समान धर्म वाले होते हैं।",
+  "why": "reviewer (minor): Same three points."
+ },
+ {
+  "n": "43",
+  "field": "word.gloss",
+  "word": "kuṇṭhāḥ",
+  "old": "feeble",
+  "new": "dull, blunt",
+  "why": "reviewer (minor): kuṇṭha = blunt, dull."
+ },
+ {
+  "n": "43",
+  "field": "word.gloss",
+  "word": "āṭavikāḥ",
+  "old": "forest tribes",
+  "new": "forest chiefs",
+  "why": "reviewer (minor): Glossary."
+ },
+ {
+  "n": "46",
+  "field": "english",
+  "old": "Of benefit from one's own sthānīya (provincial town) and from that of the enemy, benefit from one's own sthānīya provides grain, cattle, gold and forest produce and sustains the life of the country people in a calamity;",
+  "new": "Of benefit from one's own sthānīya (provincial town) and from that of the enemy, benefit from one's own sthānīya provides grain, cattle, gold and raw materials and sustains the life of the country people in a calamity;",
+  "why": "reviewer (minor): Glossary: kupya = raw materials (8.1, 10.1, 12.1); āpad = adversity (8.1)."
+ },
+ {
+  "n": "46",
+  "field": "english",
+  "old": "Of benefit from one's own sthānīya (provincial town) and from that of the enemy, benefit from one's own sthānīya provides grain, cattle, gold and raw materials and sustains the life of the country people in a calamity;",
+  "new": "Of benefit from one's own sthānīya (provincial town) and from that of the enemy, benefit from one's own sthānīya provides grain, cattle, gold and raw materials and sustains the life of the country people in adversity;",
+  "why": "reviewer (minor): Glossary: āpad = adversity."
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "dhānya-paśu-hiraṇya-kupya-upakāraḥ",
+  "old": "providing grain, cattle, gold and forest produce",
+  "new": "providing grain, cattle, gold and raw materials",
+  "why": "reviewer (minor): kupya = raw materials."
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "āpadi",
+  "old": "in a calamity",
+  "new": "in adversity",
+  "why": "reviewer (minor): āpad = adversity."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "sthānīya = a fortified provincial town (the head of a group of villages); upakāra = benefit, help rendered. kupya = forest produce, base metals. Sentence continues in unit 47.",
+  "new": "sthānīya = a fortified provincial town (the head of a group of villages); upakāra = benefit, help rendered. kupya = raw materials (forest produce, base metals), per glossary. Sentence continues in unit 47.",
+  "why": "reviewer (minor): Align with glossary."
+ },
+ {
+  "n": "48",
+  "field": "english",
+  "old": "Thus the afflictions. Internal obstruction is obstruction by chiefs; external is obstruction by an ally or a forest tribe. 48. This is the group of obstructions.",
+  "new": "These are the afflictions. Internal obstruction is obstruction by chiefs; external is obstruction by an ally or forest tribes. 48. This is the group of obstructions.",
+  "why": "reviewer (minor): 'iti pīḍanāni' closes the list: 'These are the afflictions.' aṭavī = forest tribes (glossary 8.1)."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "ये पीड़न हैं। आभ्यन्तर स्तम्भ मुख्यों का स्तम्भ है, बाह्य स्तम्भ मित्र और अटवी का स्तम्भ है। ४८। यह स्तम्भ-वर्ग है।",
+  "new": "ये पीड़न हैं। आभ्यन्तर स्तम्भ मुख्यों का स्तम्भ है, बाह्य स्तम्भ मित्र और आटवी का स्तम्भ है। ४८। यह स्तम्भ-वर्ग है।",
+  "why": "reviewer (minor): Glossary (8.1): aṭavī = आटवी."
+ },
+ {
+  "n": "48",
+  "field": "word.gloss",
+  "word": "mitra-aṭavī-stambhaḥ",
+  "old": "obstruction by an ally or a forest tribe",
+  "new": "obstruction by an ally or forest tribes",
+  "why": "reviewer (minor): aṭavī = forest tribes."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "उन दोनों स्तम्भों से और यथोक्त पीड़नों से पीड़ित, मुख्यों के पास अटका हुआ, परिहारों से क्षीण, बिखरा हुआ, गलत ढंग से संगृहीत, सामन्त या अटवी के द्वारा हरण किया हुआ — यह कोश-सङ्ग-वर्ग है।",
+  "new": "उन दोनों से और यथोक्त पीड़नों से पीड़ित, मुख्यों के पास अटका हुआ, परिहारों से क्षीण, बिखरा हुआ, गलत ढंग से संगृहीत, सामन्त या आटवी के द्वारा हरण किया हुआ — यह कोश-सङ्ग-वर्ग है।",
+  "why": "reviewer (minor): 'स्तम्भों' is supplied (tābhyām = 'by those two'; the identification belongs in notes, where it already is); aṭavī = आटवी per glossary."
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "Afflicted by those two and by the afflictions as stated, held up with the chiefs, impaired by exemptions, scattered, wrongly collected, carried off by a neighbouring king or a forest tribe: this is the group of impediments to the treasury.",
+  "new": "Afflicted by those two and by the afflictions as stated, held up with the chiefs, impaired by exemptions, scattered, wrongly collected, carried off by a neighbouring king or forest tribes: this is the group of impediments to the treasury.",
+  "why": "reviewer (minor): aṭavī = forest tribes (glossary)."
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "sāmanta-aṭavī-hṛtaḥ",
+  "old": "carried off by a neighbouring king or a forest tribe",
+  "new": "carried off by a neighbouring king or forest tribes",
+  "why": "reviewer (minor): Same."
+ }
+]

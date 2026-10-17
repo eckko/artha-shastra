@@ -1,0 +1,457 @@
+{
+ "units": [
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "su-mahatā",
+     "problem": "'even' belongs to api, not to su-mahatā.",
+     "fix": "very great",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "su-mahatā",
+      "field": "gloss",
+      "value": "very great"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अधिक भारी",
+     "problem": "Chunk 1 of this chapter renders garīyas as 'अधिक गम्भीर' throughout (units 5, 16, 18, 20, 22, 24, 30); keep one rendering.",
+     "fix": "अधिक गम्भीर",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अधिक भारी",
+      "new": "अधिक गम्भीर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "din.mohāḥ",
+     "problem": "The e-text's 'din' (दिन्, dental n) for diś before m is an e-text anomaly, not a spelling convention: elsewhere the same e-text writes dig. (दिग्.विभागं 2.30.6, दिग्.देवताः 2.4.20). The draft rightly reads diṅ in `words` but says in notes 'not a typo' and gives no text_flag; the brief requires a flag whenever `words` differ from `src`.",
+     "fix": "add text_flag src 'din.mohāḥ' suggest 'diṅ.mohāḥ'",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "din.mohāḥ",
+        "suggest": "diṅ.mohāḥ",
+        "why": "diś before m gives diṅ (or dig); the e-text's dental n is anomalous (it writes dig.vibhāgam at 2.30.6 and dig.devatāḥ at 2.4.20). Read diṅ-moha, 'confusion of directions'."
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'din' ... not a typo",
+     "problem": "Contradicts the flag above.",
+     "fix": "'din' is the e-text's spelling of diṅ (diś before m, 'diṅ-moha', confusion of directions); flagged. The long compound can also be read as a plain dvandva with 'bhaya' as a separate item ('fear'); the reading here takes the first five members as the objects of 'bhaya'. 'prāṇa-ābādhaḥ' singular predicate with plural subjects.",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "set",
+      "field": "notes",
+      "value": "'din' is the e-text's spelling of diṅ (diś before m, 'diṅ-moha', confusion of directions); flagged. The long compound can also be read as a plain dvandva with 'bhaya' as a separate item ('fear'); the reading here takes the first five members as the objects of 'bhaya'. 'prāṇa-ābādhaḥ' singular predicate with plural subjects."
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "होती ही है",
+     "problem": "'ही' (eva) is not in the line; the Sanskrit has only 'asti'.",
+     "fix": "होती है",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "होती ही है",
+      "new": "होती है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "wealth that is not real",
+     "problem": "'asataḥ' is literally 'of what does not exist'; the Hindi has the literal 'अविद्यमान'. 'not real' is one interpretation; keep the English as literal as the Hindi and leave the sense to notes (already there).",
+     "fix": "wealth that does not exist",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "english",
+      "old": "wealth that is not real",
+      "new": "wealth that does not exist"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और यात्रा सदा नहीं करनी पड़ती — ऐसा।",
+     "problem": "'यात्रा सदा नहीं करनी पड़ती' picks the 'only occasional marching' interpretation that the English and the note deliberately leave open; and the closing '— ऐसा।' is a dangling fragment. Render anitya-yāna literally and close the view as chunk 1 of 8.1 does ('— इस प्रकार यह मत है।').",
+     "fix": "और अनित्य गमन — इस प्रकार यह मत है।",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और यात्रा सदा नहीं करनी पड़ती — ऐसा।",
+      "new": "और अनित्य गमन — इस प्रकार यह मत है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "anitya-yānam",
+     "problem": "Add that vyāyāma here is bodily exercise, a different sense from the glossary's 6.2 'activity' (śama/vyāyāma pair).",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "append_note",
+      "text": "'vyāyāma' here = bodily exercise, not the 6.2 sense 'activity' (śama/vyāyāma pair)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अधिक भारी",
+     "problem": "Consistency with chunk 1 ('अधिक गम्भीर'). The supplied predicate is acceptable (parallel to chunk 1 units 24, 30 which also supply it in Hindi without brackets).",
+     "fix": "अधिक गम्भीर",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अधिक भारी",
+      "new": "अधिक गम्भीर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "rājahite.niyoktum,",
+     "problem": "The e-text's '.' marks compound boundaries; here it joins a locative (rājahite) and an infinitive (niyoktum), which cannot form a compound. The draft explains this in notes only; record it as a text_flag so the editor sees it. Reading (two words) is right; 'avasrāvayitum' (caus. ava-√sru, make flow off = get rid of) is acceptable with medium confidence.",
+     "fix": "add text_flag src 'rājahite.niyoktum,' suggest 'rājahite niyoktum,'",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "rājahite.niyoktum,",
+        "suggest": "rājahite niyoktum,",
+        "why": "the e-text's '.' joins a locative and an infinitive, not compound members; two separate words."
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "loss and loss of dharma",
+     "problem": "'anartha' and 'dharma-lopa' both rendered 'loss' reads as a slip; anartha = harm (the word gloss itself says 'loss, harm').",
+     "fix": "harm and loss of dharma",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "english",
+      "old": "loss and loss of dharma",
+      "new": "harm and loss of dharma"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अधिक भारी",
+     "problem": "Consistency with chunk 1 ('अधिक गम्भीर').",
+     "fix": "अधिक गम्भीर",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अधिक भारी",
+      "new": "अधिक गम्भीर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bāhyeṣu",
+     "problem": "'-eṣu' is masculine/neuter, never feminine (f. would be bāhyāsu); it agrees with dāreṣu (m.) understood.",
+     "fix": "m. loc. pl.",
+     "severity": "error",
+     "patch": {
+      "n": "59",
+      "op": "word",
+      "match_w": "bāhyeṣu",
+      "field": "gram",
+      "value": "m. loc. pl. (agreeing with dāreṣu understood)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "agamyeṣu",
+     "problem": "Gender missing; same agreement as bāhyeṣu.",
+     "fix": "m. loc. pl. gerundive √gam",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "word",
+      "match_w": "agamyeṣu",
+      "field": "gram",
+      "value": "m. loc. pl. gerundive √gam (agreeing with dāreṣu understood)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अधिक भारी",
+     "problem": "Consistency with chunk 1 ('अधिक गम्भीर').",
+     "fix": "अधिक गम्भीर",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अधिक भारी",
+      "new": "अधिक गम्भीर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ekeṣām",
+     "problem": "'of one side' is already the interpretation; the literal value is 'of some' (eka pl.). Put the literal in the gloss and keep the interpretation in notes (already there). The English 'of one side' may stand.",
+     "fix": "of some (one of the two parties)",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "word",
+      "match_w": "ekeṣām",
+      "field": "gloss",
+      "value": "of some (i.e. of one of the two parties)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "indulgence of the bad",
+     "problem": "Verse 65 renders the same expression (asatāṃ pragrahaḥ) 'favouring of the bad'; the Hindi uses 'असत् का प्रग्रह' in both. Use one English rendering.",
+     "fix": "favouring of the bad",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "english",
+      "old": "indulgence of the bad",
+      "new": "favouring of the bad"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "asat-pragrahaḥ",
+     "problem": "Same as above.",
+     "fix": "favouring of the bad",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "word",
+      "match_w": "asat-pragrahaḥ",
+      "field": "gloss",
+      "value": "favouring of the bad"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "— ऐसा।",
+     "problem": "Dangling fragment for the closing 'iti'; close as in 46 / chunk 1 of 8.1.",
+     "fix": "— इस प्रकार यह मत है।",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "— ऐसा।",
+      "new": "— इस प्रकार यह मत है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Units 34-66 (33 units) reviewed against the Sanskrit. 1 error, 18 minor; all patched. The draft is sound: splits, sandhi and compound analysis are right throughout; the text_flag at 42 (na-ity -> na-iti) is confirmed (ity cannot stand before k-; 34/52/58 read na-iti). The draft author's doubts: 40 'bhaya' governing the five preceding members is the better reading and the alternative is honestly noted; 'din' = diṅ is right but is an e-text anomaly (it writes dig. elsewhere), so it now gets a text_flag; 45 'asataś cārjanam' literal reading kept, English aligned to the literal Hindi; 46 'anitya-yānam' left open in English but the Hindi had silently chosen one sense, now literal; 51 the dot in rājahite.niyoktum is a markup slip, now a text_flag, 'avasrāvayitum' acceptable; 63 'ekeṣām' gloss made literal; 64 'asat-pragraha' aligned with 65. The supplied predicate '(is the more serious)' in 47/55/62 is correct and bracketed in English, as in chunk 1 units 24/30; it is unmarked in Hindi, as chunk 1 also does. One real grammar error (59 bāhyeṣu labelled f.). Consistency: this chunk used 'अधिक भारी' for garīyas where chunk 1 of this chapter uses 'अधिक गम्भीर' (fixed in 39/47/55/62). Not patched, for a person: the Hindi quoting style (straight quotes + em dash here, curly quotes + comma in chunk 1) and 'So it is said.' for a closing iti (41/51/57; chunk 1 of 8.3 just closes the quote, chunk 1 of 8.1 writes 'so ends the view') are cosmetic and could be unified chapter-wide. No regrouping suggested. Glossary extended with the 8.3 terms (vyasana = vice in 8.3 vs calamity in 8.1, garīyas, tantra, the four kāmaja vices, asat-pragraha, saṅgha)."
+}

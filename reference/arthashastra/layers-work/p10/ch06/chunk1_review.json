@@ -1,0 +1,115 @@
+{
+ "units": [
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "prapakṣa", "problem": "The note treats pra- as a possible slip of the typed text. prapakṣa is an attested word (the outer end / fore-part of a wing; MW cites it from this very text), so the draft must not hint at a typo. The referent of ubhayoḥ is also not discussed although the translation commits to 'both (schools)'.", "fix": "prapakṣa = fore-wing (the outer end of a wing), an attested term of this text; not a slip. ubhayoḥ 'of both': the referent is not stated (the two schools of units 1-2, the two sides, or the two wings) and is left open. 'prakṛti' here = basic/primary form, not the 'constituent element' of the state. Array names kept in both languages: daṇḍa = staff (दण्ड), bhoga = snake (भोग), maṇḍala = circle (मण्डल), asaṃhata = loose array (असंहत).", "severity": "error",
+    "patch": {"n": "3", "op": "set", "field": "notes", "value": "prapakṣa = fore-wing (the outer end of a wing), an attested term of this text; not a slip. ubhayoḥ 'of both': the referent is not stated (the two schools of units 1-2, the two sides, or the two wings) and is left open. 'prakṛti' here = basic/primary form, not the 'constituent element' of the state. Array names kept in both languages: daṇḍa = staff (दण्ड), bhoga = snake (भोग), maṇḍala = circle (मण्डल), asaṃhata = loose array (असंहत)."}},
+   {"field": "gloss", "where": "prapakṣa-kakṣa-urasyāḥ", "problem": "Gloss '(fore-)wings' hedges on a real word; prapakṣa should be glossed as it stands.", "fix": "the fore-wings, flanks and centre", "severity": "error",
+    "patch": {"n": "3", "op": "word", "match_w": "prapakṣa-kakṣa-urasyāḥ", "field": "gloss", "value": "the fore-wings, flanks and centre"}},
+   {"field": "english", "where": "Wings, flanks and centre are (common) to both (schools)", "problem": "Drops 'pra-' (fore-wings) and adds an interpretation '(common) ... (schools)' that the line does not state.", "fix": "The fore-wings, flanks and centre (are) of both; the staff (danda), the snake (bhoga), the circle (mandala) and the loose array (asamhata) are the basic arrays.", "severity": "error",
+    "patch": {"n": "3", "op": "set", "field": "english", "value": "The fore-wings, flanks and centre (are) of both; the staff (danda), the snake (bhoga), the circle (mandala) and the loose array (asamhata) are the basic arrays."}},
+   {"field": "hindi", "where": "पक्ष, कक्ष और उरस्य दोनों (मतों) में समान हैं", "problem": "Same as English: 'प्रपक्ष' rendered as पक्ष, and 'दोनों (मतों) में समान' is an added interpretation.", "fix": "प्रपक्ष, कक्ष और उरस्य दोनों के हैं; दण्ड, भोग, मण्डल और असंहत — ये मूल व्यूह हैं।", "severity": "error",
+    "patch": {"n": "3", "op": "set", "field": "hindi", "value": "प्रपक्ष, कक्ष और उरस्य दोनों के हैं; दण्ड, भोग, मण्डल और असंहत — ये मूल व्यूह हैं।"}}
+  ]},
+  {"n": "4", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "(तिरछी एक पंक्ति में)", "problem": "Bracketed explanation inside the Hindi; the glossary rule puts explanations in notes (the note already has it).", "fix": "उनमें जिसकी स्थिति आड़ी हो, वह दण्ड है।", "severity": "minor",
+    "patch": {"n": "4", "op": "set", "field": "hindi", "value": "उनमें जिसकी स्थिति आड़ी हो, वह दण्ड है।"}},
+   {"field": "english", "where": "(in a line across the front)", "problem": "Added explanation not in the Sanskrit; it is already in notes.", "fix": "Among these, the one whose disposition is transverse is the staff.", "severity": "minor",
+    "patch": {"n": "4", "op": "replace", "field": "english", "old": " (in a line across the front)", "new": ""}}
+  ]},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "ok", "issues": []},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "(एक पंक्ति में)", "problem": "Bracketed explanation inside the Hindi.", "fix": "remove it", "severity": "minor",
+    "patch": {"n": "8", "op": "replace", "field": "hindi", "old": " (एक पंक्ति में)", "new": ""}},
+   {"field": "english", "where": "(in one line)", "problem": "Added explanation not in the Sanskrit.", "fix": "remove it", "severity": "minor",
+    "patch": {"n": "8", "op": "replace", "field": "english", "old": " (in one line)", "new": ""}}
+  ]},
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "ok", "issues": []},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "चाप (धनुष)", "problem": "Bracketed gloss inside the Hindi.", "fix": "चाप के", "severity": "minor",
+    "patch": {"n": "14", "op": "replace", "field": "hindi", "old": "चाप (धनुष) के", "new": "चाप के"}}
+  ]},
+  {"n": "15", "verdict": "ok", "issues": []},
+  {"n": "16", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "कर्ण (किनारे)", "problem": "Bracketed gloss inside the Hindi; the sense of karṇa is in notes.", "fix": "कर्ण", "severity": "minor",
+    "patch": {"n": "16", "op": "replace", "field": "hindi", "old": "कर्ण (किनारे)", "new": "कर्ण"}}
+  ]},
+  {"n": "17", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "स्थूणाएँ (स्तम्भ)", "problem": "Bracketed gloss inside the Hindi; the sense is in notes.", "fix": "स्थूणाएँ", "severity": "minor",
+    "patch": {"n": "17", "op": "replace", "field": "hindi", "old": "स्थूणाएँ (स्तम्भ)", "new": "स्थूणाएँ"}}
+  ]},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {"n": "19", "verdict": "ok", "issues": []},
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "ok", "issues": []},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {"n": "23", "verdict": "ok", "issues": []},
+  {"n": "24", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "(असमान पंक्ति में)", "problem": "Bracketed explanation inside the Hindi.", "fix": "remove it", "severity": "minor",
+    "patch": {"n": "24", "op": "replace", "field": "hindi", "old": " (असमान पंक्ति में)", "new": ""}}
+  ]},
+  {"n": "25", "verdict": "ok", "issues": []},
+  {"n": "26", "verdict": "ok", "issues": []},
+  {"n": "27", "verdict": "ok", "issues": []},
+  {"n": "28", "verdict": "ok", "issues": []},
+  {"n": "29", "verdict": "ok", "issues": []},
+  {"n": "30", "verdict": "ok", "issues": []},
+  {"n": "31", "verdict": "ok", "issues": []},
+  {"n": "32", "verdict": "ok", "issues": []},
+  {"n": "33", "verdict": "ok", "issues": []},
+  {"n": "34", "verdict": "ok", "issues": []},
+  {"n": "35", "verdict": "ok", "issues": []},
+  {"n": "36", "verdict": "fix", "issues": [
+   {"field": "notes", "where": "uddhānakaḥ", "problem": "The name is kept unexplained, which is right, but a person should check it against the printed edition: an older translation is recalled as reading udyānaka ('garden') here; this could not be verified in this review and must not be entered as a variant without that check.", "fix": "append a note asking for the check", "severity": "minor",
+    "patch": {"n": "36", "op": "append_note", "text": "Reviewer: a reading udyānaka ('garden') for this name is recalled from an older translation but could not be verified; the typed uddhānakaḥ is kept as given and should be checked against the printed edition by a person."}}
+  ]},
+  {"n": "37", "verdict": "ok", "issues": []},
+  {"n": "38", "verdict": "ok", "issues": []},
+  {"n": "39", "verdict": "ok", "issues": []},
+  {"n": "40", "verdict": "ok", "issues": []},
+  {"n": "41", "verdict": "ok", "issues": []},
+  {"n": "42", "verdict": "ok", "issues": []},
+  {"n": "43", "verdict": "ok", "issues": []},
+  {"n": "44", "verdict": "fix", "issues": [
+   {"field": "english", "where": "having that limb in excess", "problem": "'that limb' narrows adhika-aṅga ('having a limb in excess / a superior limb') beyond the Sanskrit.", "fix": "with (one) having a limb in excess", "severity": "minor",
+    "patch": {"n": "44", "op": "replace", "field": "english", "old": "with (one) having that limb in excess", "new": "with (one) having a limb in excess"}}
+  ]},
+  {"n": "45", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "अंगों (इकाइयों)", "problem": "Bracketed gloss inside the Hindi; the sense of aṅga is in notes.", "fix": "दस अंगों का", "severity": "minor",
+    "patch": {"n": "45", "op": "replace", "field": "hindi", "old": "दस अंगों (इकाइयों) का", "new": "दस अंगों का"}},
+   {"field": "english", "where": "Thus (is the chain of command).", "problem": "'(is the chain of command)' is an added explanation; iti only closes the statement.", "fix": "... one is the nayaka (leader) — thus.", "severity": "minor",
+    "patch": {"n": "45", "op": "replace", "field": "english", "old": ". Thus (is the chain of command).", "new": " — thus."}}
+  ]},
+  {"n": "46", "verdict": "ok", "issues": []},
+  {"n": "47", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "सार (बल)", "problem": "Bracketed gloss inside the Hindi; the sense of sāra is in notes.", "fix": "सार के", "severity": "minor",
+    "patch": {"n": "47", "op": "replace", "field": "hindi", "old": "सार (बल) के", "new": "सार के"}}
+  ]},
+  {"n": "48", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "उपनिषद् (गुप्त) प्रयोगों; असावधान (व्यस्त) लोगों", "problem": "Two bracketed glosses inside the Hindi.", "fix": "यन्त्रों से, गुप्त प्रयोगों से, असावधान लोगों पर प्रहार करने वाले तीक्ष्णों से, मायाओं से, देवताओं से सम्बद्ध प्रयोगों से, हाथियों को डराने वाले शकटों से —", "severity": "minor",
+    "patch": {"n": "48", "op": "set", "field": "hindi", "value": "यन्त्रों से, गुप्त प्रयोगों से, असावधान लोगों पर प्रहार करने वाले तीक्ष्णों से, मायाओं से, देवताओं से सम्बद्ध प्रयोगों से, हाथियों को डराने वाले शकटों से —"}},
+   {"field": "text_flags", "where": "samyogaiḥ", "problem": "The words form saṃyogaiḥ differs from src samyogaiḥ with no text_flags entry; the brief requires a flag whenever words corrects src, even for an orthographic variant (म् written for anusvāra before य). Add {src: 'deva.samyogaiḥ', suggest: 'deva.saṃyogaiḥ', why: 'orthographic: m written for anusvāra before y; same word'}. Not patched here because the patch ops do not cover adding a flag; a person or the drafter should add it.", "fix": "add the text_flags entry as described", "severity": "minor"}
+  ]},
+  {"n": "49", "verdict": "fix", "issues": [
+   {"field": "english", "where": "with revolts stirred up among the treasonable", "problem": "'stirred up among' is added; dūṣya-prakopa is 'revolt(s) of the treasonable'.", "fix": "with revolts of the treasonable", "severity": "minor",
+    "patch": {"n": "49", "op": "replace", "field": "english", "old": "with revolts stirred up among the treasonable", "new": "with revolts of the treasonable"}},
+   {"field": "hindi", "where": "विद्रोह कराने से; (छावनी); (पार्श्वों के सिरों); (गुप्तचरों)", "problem": "'कराने' (causing) is added, and three bracketed glosses stand inside the Hindi.", "fix": "दूष्यों के विद्रोहों से, गायों के झुण्डों से, स्कन्धावार में आग लगाने से, कोटि और पिछले भाग पर प्रहार से, अथवा दूत के वेष वालों द्वारा फूट डालने से —", "severity": "minor",
+    "patch": {"n": "49", "op": "set", "field": "hindi", "value": "दूष्यों के विद्रोहों से, गायों के झुण्डों से, स्कन्धावार में आग लगाने से, कोटि और पिछले भाग पर प्रहार से, अथवा दूत के वेष वालों द्वारा फूट डालने से —"}},
+   {"field": "notes", "where": "skandhāvāra", "problem": "The sense moved out of the Hindi brackets should be in notes.", "fix": "append", "severity": "minor",
+    "patch": {"n": "49", "op": "append_note", "text": "skandhāvāra = camp (छावनी); koṭī = tip of the wings (पार्श्वों के सिरे)."}}
+  ]},
+  {"n": "50", "verdict": "ok", "issues": []},
+  {"n": "51", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "बुद्धि (युक्ति); गर्भ में स्थित (अजन्मे)", "problem": "Two bracketed glosses inside the Hindi; the sense of mati is in notes.", "fix": "धनुर्धारी के द्वारा छोड़ा हुआ बाण एक को मारे या न मारे; परन्तु प्रज्ञावान् के द्वारा छोड़ी हुई बुद्धि गर्भ में स्थित लोगों को भी मार देती है।", "severity": "minor",
+    "patch": {"n": "51", "op": "set", "field": "hindi", "value": "धनुर्धारी के द्वारा छोड़ा हुआ बाण एक को मारे या न मारे; परन्तु प्रज्ञावान् के द्वारा छोड़ी हुई बुद्धि गर्भ में स्थित लोगों को भी मार देती है।"}}
+  ]}
+ ],
+ "summary": "51 units reviewed; 14 units marked fix. Issues: 4 error (all in unit 3: prapakṣa is an attested word, 'fore-wing', wrongly suspected as a slip, and the translations add 'common to both schools'), 19 minor (mostly bracketed glosses inside the Hindi, a few small additions in English, one missing text_flags entry for samyogaiḥ/saṃyogaiḥ in unit 48, one check request in unit 36). Draft text_flags in units 2 (urasyaṃ, bārhaspatyaḥ) and 13 (cāpa.kukṣiḥ) are confirmed as correct. sthūṇākarṇa (units 16/42): the e-text's dot splits differ but the surface form is identical; the draft's uniform sthūṇā-karṇa is right and needs no flag. Unit 48 hasti-bhīṣaṇaiḥ taken with śakaṭaiḥ is acceptable (parallel to tīkṣṇaiḥ vyāsakta-ghātibhiḥ), alternative recorded in notes; medium confidence is honest. No regrouping suggested. Needs a person: unit 36 uddhānaka vs possible udyānaka (check the printed edition); unit 48 text_flags entry to add by hand; unit 3 referent of ubhayoḥ left open."
+}

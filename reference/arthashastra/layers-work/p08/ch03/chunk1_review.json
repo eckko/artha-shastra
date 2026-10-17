@@ -1,0 +1,508 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "avidyā.vinayaḥ",
+     "problem": "The alternative avidyā + avinaya would need an elided a- (avidyā-'vinayaḥ) that the printed line does not show; the note leaves both open.",
+     "fix": "Append: Review: avidyā + avinaya would need the printed form to hide an elided a- (avidyā-'vinayaḥ); the e-text shows none, so the nañ reading a-(vidyā-vinaya) stands. vyasana = 'vice' here as the king's personal vyasana (GLOSSARY).",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "append_note",
+      "text": "Review: avidyā + avinaya would need the printed form to hide an elided a- (avidyā-'vinayaḥ); the e-text shows none, so the nañ reading a-(vidyā-vinaya) stands. vyasana = 'vice' here as the king's personal vyasana (see GLOSSARY)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्यसनों का",
+     "problem": "'व्यसनों का' is added twice; the Sanskrit has only kopa-ja tri-varga / kāma-ja catur-varga (English does not add it).",
+     "fix": "क्रोध से उत्पन्न वर्ग तीन का है, काम से उत्पन्न वर्ग चार का है।",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "hindi",
+      "value": "क्रोध से उत्पन्न वर्ग तीन का है, काम से उत्पन्न वर्ग चार का है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "avajñā-vadhaḥ",
+     "problem": "vadha with avajñā as its object is the direct tatpuruṣa reading ('destruction of contempt': anger stops people despising the king; the counterpart of paribhava under kāma in 8.3.15). 'Slaying of the contemptuous' needs avajñā to stand for persons.",
+     "fix": "destruction of contempt",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "avajñā-vadhaḥ",
+      "field": "gloss",
+      "value": "destruction of contempt"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhīta-manuṣyatā",
+     "problem": "Compound type missing.",
+     "fix": "f. nom. sg., abstract (-tā) of karmadhāraya bhīta-manuṣya",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "bhīta-manuṣyatā",
+      "field": "gram",
+      "value": "f. nom. sg., abstract (-tā) of karmadhāraya bhīta-manuṣya"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the slaying of those who show contempt, and the keeping of men in fear",
+     "problem": "Follows the less direct reading of avajñā-vadha; 'keeping' adds a causative not in manuṣyatā.",
+     "fix": "\"Anger is the conduct of good men; it is the requital of enmity, the destruction of contempt, and a state in which men are afraid.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "english",
+      "value": "\"Anger is the conduct of good men; it is the requital of enmity, the destruction of contempt, and a state in which men are afraid."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उससे वैर का बदला लिया जाता है, अवज्ञा करने वालों का वध होता है",
+     "problem": "The four nominatives are predicates of kopaḥ; the Hindi turns them into results ('उससे ... होता है') and follows the less direct reading of avajñā-vadha.",
+     "fix": "“क्रोध सत्पुरुषों का आचार है, वैर का प्रतीकार है, अवज्ञा का नाश है, और मनुष्यों का भयभीत रहना है।",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "hindi",
+      "value": "“क्रोध सत्पुरुषों का आचार है, वैर का प्रतीकार है, अवज्ञा का नाश है, और मनुष्यों का भयभीत रहना है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "avajñā-vadhaḥ",
+     "problem": "Note should match the chosen reading.",
+     "fix": "Bharadvaja's view begins (opening quote). avajñā-vadhaḥ read as 'destruction of contempt' (anger stops people despising the king; the counterpart of paribhava in 8.3.15); the alternative 'putting to death those who show contempt' is less direct. bhīta-manuṣyatā: literally 'the state of men being afraid'. The four nominatives are predicates of kopaḥ.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "notes",
+      "value": "Bharadvaja's view begins (opening quote). avajñā-vadhaḥ read as 'destruction of contempt' (anger stops people despising the king; the counterpart of paribhava in 8.3.15); the alternative 'putting to death those who show contempt' is less direct. bhīta-manuṣyatā: literally 'the state of men being afraid'. The four nominatives are predicates of kopaḥ."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सान्त्वना, ... सबका प्रिय होना प्राप्त होते हैं",
+     "problem": "'सान्त्वना' means consolation, not sāntva (conciliation); 'से ... प्राप्त होते हैं' and 'सबका' are added — the Sanskrit equates kāma with the four nominatives.",
+     "fix": "काम सिद्धि की प्राप्ति, सान्त्व, त्यागशीलता और प्रियभाव है।",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "set",
+      "field": "hindi",
+      "value": "काम सिद्धि की प्राप्ति, सान्त्व, त्यागशीलता और प्रियभाव है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "being dear to all",
+     "problem": "'to all' is added.",
+     "fix": "being well-loved",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "being dear to all",
+      "new": "being well-loved"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "but one who is hated",
+     "problem": "'but' is added; the Sanskrit simply juxtaposes.",
+     "fix": "and by others; one who is hated",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "and by others, but one who is hated",
+      "new": "and by others; one who is hated"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "किन्तु",
+     "problem": "'किन्तु' is added.",
+     "fix": "दबाया जाता है; द्वेष का पात्र",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दबाया जाता है, किन्तु द्वेष का पात्र",
+      "new": "दबाया जाता है; द्वेष का पात्र"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "life itself",
+     "problem": "'itself' is added emphasis.",
+     "fix": "harms life.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "harms life itself.",
+      "new": "harms life."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Attachment to sorrow",
+     "problem": "duḥkha-saṃyoga is 'association with sorrow' (so the gloss); 'attachment' is āsaṅga of 8.3.21, a different word.",
+     "fix": "Association with sorrow is more serious than association with the worthless.",
+     "severity": "error",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "Attachment to sorrow is more serious",
+      "new": "Association with sorrow is more serious"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दुःख से जुड़े रहना",
+     "problem": "Same: saṃyoga here, not āsaṅga; keep the two words apart as the English does.",
+     "fix": "अनर्थकारी लोगों की संगति की अपेक्षा दुःख की संगति अधिक गम्भीर है।",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "hindi",
+      "value": "अनर्थकारी लोगों की संगति की अपेक्षा दुःख की संगति अधिक गम्भीर है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "धन की क्षति करना",
+     "problem": "artha-dūṣaṇa is a noun; fixed Hindi rendering 'धन की क्षति' (GLOSSARY).",
+     "fix": "वाणी की कठोरता, धन की क्षति और दण्ड की कठोरता — ये हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "hindi",
+      "value": "वाणी की कठोरता, धन की क्षति और दण्ड की कठोरता — ये हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "धन की क्षति करने में",
+     "problem": "Fixed rendering 'धन की क्षति'.",
+     "fix": "धन की क्षति में",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धन की क्षति करने में",
+      "new": "धन की क्षति में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "the reviewer may prefer 'Visalaksa'",
+     "problem": "Settled: 'Vishalaksha' (as in 8.1); remove the open question.",
+     "fix": " (fixed spelling, see GLOSSARY).",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "notes",
+      "old": "; the reviewer may prefer 'Visalaksa'.",
+      "new": " (fixed spelling, see GLOSSARY)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in retaliation",
+     "problem": "'in retaliation' interprets prati-ā-√ruh; 'in return' keeps it literal.",
+     "fix": "rises up in return with his spirit",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "english",
+      "old": "rises up in retaliation with his spirit",
+      "new": "rises up in return with his spirit"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "धन की क्षति करना तो",
+     "problem": "Fixed rendering 'धन की क्षति'.",
+     "fix": "किन्तु धन की क्षति तो",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "किन्तु धन की क्षति करना तो",
+      "new": "किन्तु धन की क्षति तो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यह धन की क्षति करना है",
+     "problem": "Fixed rendering 'धन की क्षति'.",
+     "fix": "यह धन की क्षति है",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह धन की क्षति करना है",
+      "new": "यह धन की क्षति है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "say the followers of Parashara",
+     "problem": "8.1 renders pārāśarāḥ 'the Parasharas'; keep one rendering.",
+     "fix": "say the Parasharas",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "say the followers of Parashara",
+      "new": "say the Parasharas"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पाराशर-मतावलम्बी",
+     "problem": "8.1 Hindi: 'ऐसा पाराशर कहते हैं'; also 'धन की क्षति'.",
+     "fix": "“धन की क्षति और दण्ड की कठोरता में धन की क्षति अधिक गम्भीर है,” ऐसा पाराशर कहते हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "set",
+      "field": "hindi",
+      "value": "“धन की क्षति और दण्ड की कठोरता में धन की क्षति अधिक गम्भीर है,” ऐसा पाराशर कहते हैं।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pārāśarāḥ",
+     "problem": "Match 8.1 gloss.",
+     "fix": "name (the Parasharas)",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "pārāśarāḥ",
+      "field": "gloss",
+      "value": "name (the Parasharas)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "dharma-kāmau",
+     "problem": "kāma here is the trivarga member; say why 'desire' is kept.",
+     "fix": "Append note.",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "append_note",
+      "text": "kāma here is the trivarga member (artha, dharma, kāma); 'desire' kept for consistency with the chapter, where kāma is the king's vice."
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "33 units reviewed: 14 fix, 19 ok. 2 error, 22 minor, all with machine patches; no regrouping suggested. Tokens, sandhi, cases, roots and compound types are sound throughout; Hindi has no Latin letters or brackets. Draft doubts judged: 8.3.1 a-(vidyā-vinaya) is right (avidyā+avinaya would need an elided a- the e-text does not show); 8.3.7 kṣaya-nimittam adverbial 'on account of decline' accepted, medium confidence honest; 8.3.9 avajñā-vadha better read 'destruction of contempt' (counterpart of paribhava in 8.3.15) — patched, but a person may want to confirm against Kangle; 8.3.11 sampriya-bhāva 'being well-loved' kept, 'to all' removed; 8.3.14 śatru-vedana 'acquisition of enemies' (√vid 'find') accepted; 8.3.25 paruṣa-mukta accepted, 'in retaliation' made literal. Errors: 8.3.11 Hindi 'सान्त्वना' (consolation) for sāntva and added 'से...प्राप्त होते हैं'; 8.3.20 English 'attachment' for saṃyoga (confused with āsaṅga of 8.3.21). Consistency with 8.1 restored: 'say the Parasharas' / 'ऐसा पाराशर कहते हैं', spelling 'Vishalaksha' settled. GLOSSARY extended: vyasana (calamity; 'vice' for the king's personal vyasanas of 8.3), kopa/kāma, garīyān, vāk-/daṇḍa-pāruṣya and artha-dūṣaṇa (with the Book 3 offence sense noted), teacher names, the 'No, says X' formula."
+}

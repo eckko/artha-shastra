@@ -1,0 +1,21 @@
+[
+ {"id": "03.01.38b", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Regular anustubh half-verse, sense and sandhi fine."},
+ {"id": "03.07.29", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose sutra, grammar and edition sandhi style consistent."},
+ {"id": "03.17.8", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; numerals and compound dots match neighbouring sutras."},
+ {"id": "04.04.3", "kind": "sample", "verdict": "error", "suggest": "समाहर्ता जन.पदे सिद्ध.तापस.प्रव्रजित.चक्र.चर.चारण.कुहक.प्रच्छन्दक.- कार्तान्तिक.नैमित्तिक.मौहूर्तिक.चिकित्सक.उन्मत्त.मूक.बधिर.- जड.अन्ध.वैदेहक.कारु.शिल्पि.कुशीलव.वेश.शौण्डिक.आपूपिक.पाक्व.मांसिक.औदनिक.व्यञ्जनान् प्रणिदध्यात् ।", "why": "A line-break leftover '- ' splits the word शौण्डिक in the middle (शौण्डि- क); the other '.- ' marks sit at compound joins and are the edition's own."},
+ {"id": "04.10.8", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; forms and sandhi-avoiding joins are consistent with the edition."},
+ {"id": "07.02.8", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose sutra, nothing wrong."},
+ {"id": "07.04.1", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose sutra, nothing wrong."},
+ {"id": "07.05.46a", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Regular anustubh half-verse (8+8), grammar fine."},
+ {"id": "07.11.32", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Short prose sutra, fits the preceding line."},
+ {"id": "07.15.4", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; compound and case endings correct."},
+ {"id": "07.17.33", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; all forms regular."},
+ {"id": "08.02.10", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Standard refutation formula, nothing wrong."},
+ {"id": "08.03.22", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Short prose conclusion, fine."},
+ {"id": "09.01.50", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; forms regular and sense fits the before line."},
+ {"id": "09.02.25", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; एवं.बलः and समुद्दानं are the edition's forms, nothing wrong."},
+ {"id": "09.05.14", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; grammar and sense fine."},
+ {"id": "10.03.56", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; forms regular."},
+ {"id": "13.01.2", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Long prose sutra; compounds and sandhi-avoiding joins consistent with the edition."},
+ {"id": "13.04.51", "kind": "sample", "verdict": "ok", "suggest": "", "why": "Prose; compound and verb forms correct."}
+]

@@ -1,0 +1,3722 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakṣāv",
+      "words": [
+       {
+        "w": "pakṣau",
+        "gloss": "two wings",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "urasyaṃ",
+      "words": [
+       {
+        "w": "urasyam",
+        "gloss": "centre (breast)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratigraha",
+      "words": [
+       {
+        "w": "pratigrahaḥ",
+        "gloss": "reserve",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "auśanaso",
+      "words": [
+       {
+        "w": "auśanasaḥ",
+        "gloss": "of the school of Uśanas",
+        "gram": "m. nom. sg. (adj.)"
+       }
+      ]
+     },
+     {
+      "src": "vyūha.vibhāgaḥ",
+      "words": [
+       {
+        "w": "vyūha-vibhāgaḥ",
+        "gloss": "division of the battle array",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो पक्ष, उरस्य और प्रतिग्रह — यह औशनस मत के अनुसार व्यूह का विभाग है।",
+  "english": "Two wings, the centre and the reserve: this is the division of the battle array according to the school of Usanas.",
+  "text_flags": [],
+  "notes": "vyūha = battle array (व्यूह); pakṣa = wing (पक्ष); urasya = centre (उरस्य); pratigraha = reserve (प्रतिग्रह); kakṣa = flank (कक्ष). auśanasa = belonging to Uśanas (the teacher Śukra); the school's name is kept.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.1"
+  ],
+  "lines_deva": [
+   "पक्षाव् उरस्यं प्रतिग्रह इत्य् औशनसो व्यूह.विभागः"
+  ],
+  "lines_iast": [
+   "pakṣāv urasyaṃ pratigraha ity auśanaso vyūha.vibhāgaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakṣau",
+      "words": [
+       {
+        "w": "pakṣau",
+        "gloss": "two wings",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "kakṣāv",
+      "words": [
+       {
+        "w": "kakṣau",
+        "gloss": "two flanks",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "urasym",
+      "words": [
+       {
+        "w": "urasyam",
+        "gloss": "centre",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratigraha",
+      "words": [
+       {
+        "w": "pratigrahaḥ",
+        "gloss": "reserve",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bārhasptyaḥ",
+      "words": [
+       {
+        "w": "bārhaspatyaḥ",
+        "gloss": "of the school of Bṛhaspati",
+        "gram": "m. nom. sg. (adj.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो पक्ष, दो कक्ष, उरस्य और प्रतिग्रह — यह बार्हस्पत्य मत के अनुसार (विभाग) है।",
+  "english": "Two wings, two flanks, the centre and the reserve: this is (the division) according to the school of Brihaspati.",
+  "text_flags": [
+   {
+    "src": "urasym",
+    "suggest": "urasyaṃ",
+    "why": "the typed text (उरस्य्म्) drops the vowel a before m; unit 1 has urasyaṃ in the same phrase"
+   },
+   {
+    "src": "bārhasptyaḥ",
+    "suggest": "bārhaspatyaḥ",
+    "why": "the typed text (बार्हस्प्त्यः) drops the vowel a in -patyaḥ; the derivative of Bṛhaspati is bārhaspatya"
+   }
+  ],
+  "notes": "'vyūha-vibhāgaḥ' is understood from unit 1.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.2"
+  ],
+  "lines_deva": [
+   "पक्षौ कक्षाव् उरस्य्म् प्रतिग्रह इति बार्हस्प्त्यः"
+  ],
+  "lines_iast": [
+   "pakṣau kakṣāv urasym pratigraha iti bārhasptyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prapakṣa.kakṣa.urasyā",
+      "words": [
+       {
+        "w": "prapakṣa-kakṣa-urasyāḥ",
+        "gloss": "the fore-wings, flanks and centre",
+        "gram": "m. nom. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "ubhayoḥ",
+      "words": [
+       {
+        "w": "ubhayoḥ",
+        "gloss": "of both",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.bhoga.maṇḍala.asaṃhatāḥ",
+      "words": [
+       {
+        "w": "daṇḍa-bhoga-maṇḍala-asaṃhatāḥ",
+        "gloss": "the staff, the snake, the circle and the loose (arrays)",
+        "gram": "m. nom. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "prakṛti.vyūhāḥ",
+      "words": [
+       {
+        "w": "prakṛti-vyūhāḥ",
+        "gloss": "the basic arrays",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रपक्ष, कक्ष और उरस्य दोनों के हैं; दण्ड, भोग, मण्डल और असंहत — ये मूल व्यूह हैं।",
+  "english": "The fore-wings, flanks and centre (are) of both; the staff (danda), the snake (bhoga), the circle (mandala) and the loose array (asamhata) are the basic arrays.",
+  "text_flags": [],
+  "notes": "prapakṣa = fore-wing (the outer end of a wing), an attested term of this text; not a slip. ubhayoḥ 'of both': the referent is not stated (the two schools of units 1-2, the two sides, or the two wings) and is left open. 'prakṛti' here = basic/primary form, not the 'constituent element' of the state. Array names kept in both languages: daṇḍa = staff (दण्ड), bhoga = snake (भोग), maṇḍala = circle (मण्डल), asaṃhata = loose array (असंहत).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "10.06.3"
+  ],
+  "lines_deva": [
+   "प्रपक्ष.कक्ष.उरस्या उभयोः दण्ड.भोग.मण्डल.असंहताः प्रकृति.व्यूहाः"
+  ],
+  "lines_iast": [
+   "prapakṣa.kakṣa.urasyā ubhayoḥ daṇḍa.bhoga.maṇḍala.asaṃhatāḥ prakṛti.vyūhāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "among these",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tiryag.vṛttir",
+      "words": [
+       {
+        "w": "tiryak-vṛttiḥ",
+        "gloss": "whose disposition is transverse",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "the staff (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें जिसकी स्थिति आड़ी हो, वह दण्ड है।",
+  "english": "Among these, the one whose disposition is transverse is the staff.",
+  "text_flags": [],
+  "notes": "tiryak-vṛtti: literally 'moving/standing crosswise', i.e. drawn up in a line across.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.4"
+  ],
+  "lines_deva": [
+   "तत्र तिर्यग्.वृत्तिर् दण्डः"
+  ],
+  "lines_iast": [
+   "tatra tiryag.vṛttir daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samastānām",
+      "words": [
+       {
+        "w": "samastānām",
+        "gloss": "of all (the parts)",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anvāvṛttir",
+      "words": [
+       {
+        "w": "anvāvṛttiḥ",
+        "gloss": "following one after another",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhogaḥ",
+      "words": [
+       {
+        "w": "bhogaḥ",
+        "gloss": "the snake (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सब (अंगों) का एक के पीछे एक चलना भोग है।",
+  "english": "The movement of all (the parts) one following the other is the snake.",
+  "text_flags": [],
+  "notes": "anvāvṛtti = following in succession, winding after one another like a snake's coils.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.5"
+  ],
+  "lines_deva": [
+   "समस्तानाम् अन्वावृत्तिर् भोगः"
+  ],
+  "lines_iast": [
+   "samastānām anvāvṛttir bhogaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saratāṃ",
+      "words": [
+       {
+        "w": "saratām",
+        "gloss": "of those moving",
+        "gram": "m. gen. pl. pres. part. √sṛ"
+       }
+      ]
+     },
+     {
+      "src": "sarvato.vṛttir",
+      "words": [
+       {
+        "w": "sarvataḥ-vṛttiḥ",
+        "gloss": "movement in all directions",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇḍalaḥ",
+      "words": [
+       {
+        "w": "maṇḍalaḥ",
+        "gloss": "the circle (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चलने वालों का सब दिशाओं में चलना मण्डल है।",
+  "english": "The movement in all directions of those that move is the circle.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.6"
+  ],
+  "lines_deva": [
+   "सरतां सर्वतो.वृत्तिर् मण्डलः"
+  ],
+  "lines_iast": [
+   "saratāṃ sarvato.vṛttir maṇḍalaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sthitānāṃ",
+      "words": [
+       {
+        "w": "sthitānām",
+        "gloss": "of those standing",
+        "gram": "m. gen. pl. ppp. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "pṛthag.anīka.vṛttir",
+      "words": [
+       {
+        "w": "pṛthak-anīka-vṛttiḥ",
+        "gloss": "disposition in separate divisions",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "asaṃhataḥ",
+      "words": [
+       {
+        "w": "asaṃhataḥ",
+        "gloss": "the loose (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खड़े हुओं का अलग-अलग सेना-दलों में रहना असंहत है।",
+  "english": "The disposition of those standing (in position) in separate divisions is the loose array.",
+  "text_flags": [],
+  "notes": "anīka = division of the army (सेना-दल).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.7"
+  ],
+  "lines_deva": [
+   "स्थितानां पृथग्.अनीक.वृत्तिर् असंहतः"
+  ],
+  "lines_iast": [
+   "sthitānāṃ pṛthag.anīka.vṛttir asaṃhataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakṣa.kakṣa.urasyaiḥ",
+      "words": [
+       {
+        "w": "pakṣa-kakṣa-urasyaiḥ",
+        "gloss": "with wings, flanks and centre",
+        "gram": "m. inst. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "samaṃ",
+      "words": [
+       {
+        "w": "samam",
+        "gloss": "evenly",
+        "gram": "ind. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "vartamāno",
+      "words": [
+       {
+        "w": "vartamānaḥ",
+        "gloss": "standing",
+        "gram": "m. nom. sg. pres. part. √vṛt"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "the staff (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पक्षों, कक्षों और उरस्य के साथ समान रूप से खड़ा हुआ (व्यूह) दण्ड है।",
+  "english": "The (array) standing evenly with wings, flanks and centre is the staff.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.8"
+  ],
+  "lines_deva": [
+   "पक्ष.कक्ष.उरस्यैः समं वर्तमानो दण्डः"
+  ],
+  "lines_iast": [
+   "pakṣa.kakṣa.urasyaiḥ samaṃ vartamāno daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "kakṣa.atikrāntaḥ",
+      "words": [
+       {
+        "w": "kakṣa-atikrāntaḥ",
+        "gloss": "with the flanks advanced",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "pradaraḥ",
+      "words": [
+       {
+        "w": "pradaraḥ",
+        "gloss": "the pradara (breaker)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही, कक्षों के आगे बढ़े होने पर, प्रदर (कहलाता) है।",
+  "english": "That same (staff), with the flanks advanced forward, is the pradara (the breaker).",
+  "text_flags": [],
+  "notes": "Array names from here on are kept as names (प्रदर, दृढक, असह्य, श्येन ...) with a literal gloss in English the first time.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.9"
+  ],
+  "lines_deva": [
+   "स कक्ष.अतिक्रान्तः प्रदरः"
+  ],
+  "lines_iast": [
+   "sa kakṣa.atikrāntaḥ pradaraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "same",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pakṣa.kakṣābhyāṃ",
+      "words": [
+       {
+        "w": "pakṣa-kakṣābhyām",
+        "gloss": "with wings and flanks",
+        "gram": "m. inst. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "pratikrānto",
+      "words": [
+       {
+        "w": "pratikrāntaḥ",
+        "gloss": "drawn back",
+        "gram": "m. nom. sg. ppp. prati-√kram"
+       }
+      ]
+     },
+     {
+      "src": "dṛḍhakaḥ",
+      "words": [
+       {
+        "w": "dṛḍhakaḥ",
+        "gloss": "the dṛḍhaka (firm)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही, पक्षों और कक्षों से पीछे हटा हुआ, दृढक है।",
+  "english": "That same, drawn back with the wings and flanks, is the dridhaka (the firm).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.10"
+  ],
+  "lines_deva": [
+   "स एव पक्ष.कक्षाभ्यां प्रतिक्रान्तो दृढकः"
+  ],
+  "lines_iast": [
+   "sa eva pakṣa.kakṣābhyāṃ pratikrānto dṛḍhakaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "eva-atikrāntaḥ",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "same",
+        "gram": "ind."
+       },
+       {
+        "w": "atikrāntaḥ",
+        "gloss": "advanced",
+        "gram": "m. nom. sg. ppp. ati-√kram"
+       }
+      ]
+     },
+     {
+      "src": "pakṣābhyām",
+      "words": [
+       {
+        "w": "pakṣābhyām",
+        "gloss": "with the wings",
+        "gram": "m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "asahyaḥ",
+      "words": [
+       {
+        "w": "asahyaḥ",
+        "gloss": "the asahya (irresistible)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही, पक्षों से आगे बढ़ा हुआ, असह्य है।",
+  "english": "That same, advanced with the wings, is the asahya (the irresistible).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.11"
+  ],
+  "lines_deva": [
+   "स एव-अतिक्रान्तः पक्षाभ्याम् असह्यः"
+  ],
+  "lines_iast": [
+   "sa eva-atikrāntaḥ pakṣābhyām asahyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakṣāv",
+      "words": [
+       {
+        "w": "pakṣau",
+        "gloss": "the two wings",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "avasthāpya-urasya.atikrāntaḥ",
+      "words": [
+       {
+        "w": "avasthāpya",
+        "gloss": "having kept in place",
+        "gram": "abs. ava-√sthā (caus.)"
+       },
+       {
+        "w": "urasya-atikrāntaḥ",
+        "gloss": "with the centre advanced",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "śyenaḥ",
+      "words": [
+       {
+        "w": "śyenaḥ",
+        "gloss": "the śyena (hawk)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पक्षों को (अपने स्थान पर) रखकर, उरस्य के आगे बढ़े होने पर, श्येन है।",
+  "english": "Keeping the wings in place, (the array) with the centre advanced is the shyena (the hawk).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.12"
+  ],
+  "lines_deva": [
+   "पक्षाव् अवस्थाप्य-उरस्य.अतिक्रान्तः श्येनः"
+  ],
+  "lines_iast": [
+   "pakṣāv avasthāpya-urasya.atikrāntaḥ śyenaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparyaye",
+      "words": [
+       {
+        "w": "viparyaye",
+        "gloss": "in the reverse (case)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāpaṃ",
+      "words": [
+       {
+        "w": "cāpam",
+        "gloss": "the cāpa (bow)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāpa.kukuṣiḥ",
+      "words": [
+       {
+        "w": "cāpa-kukṣiḥ",
+        "gloss": "the cāpa-kukṣi (bow's belly)",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "pratiṣṭhaḥ",
+      "words": [
+       {
+        "w": "pratiṣṭhaḥ",
+        "gloss": "the pratiṣṭha (steady)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "supratiṣṭhaś",
+      "words": [
+       {
+        "w": "supratiṣṭhaḥ",
+        "gloss": "the supratiṣṭha (very steady)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनके विपरीत (होने पर) चाप, चापकुक्षि, प्रतिष्ठ और सुप्रतिष्ठ (व्यूह) हैं।",
+  "english": "In the reverse (of these four) they are the chapa (bow), the chapakukshi (bow's belly), the pratishtha (steady) and the supratishtha (very steady).",
+  "text_flags": [
+   {
+    "src": "cāpa.kukuṣiḥ",
+    "suggest": "cāpa.kukṣiḥ",
+    "why": "kukuṣi is not a word; kukṣi 'belly' gives the array name cāpakukṣi (bow's belly); possible typing slip (कुकुषिः for कुक्षिः)"
+   }
+  ],
+  "notes": "The four reverses correspond in order to pradara, dṛḍhaka, asahya and śyena (units 9 to 12): e.g. flanks drawn back instead of advanced gives the bow.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "10.06.13"
+  ],
+  "lines_deva": [
+   "विपर्यये चापं चाप.कुकुषिः प्रतिष्ठः सुप्रतिष्ठश् च"
+  ],
+  "lines_iast": [
+   "viparyaye cāpaṃ cāpa.kukuṣiḥ pratiṣṭhaḥ supratiṣṭhaś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cāpa.pakṣaḥ",
+      "words": [
+       {
+        "w": "cāpa-pakṣaḥ",
+        "gloss": "with bow-shaped wings",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sañjayaḥ",
+      "words": [
+       {
+        "w": "sañjayaḥ",
+        "gloss": "the sañjaya (victorious)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके पक्ष चाप के आकार के हों, वह सञ्जय है।",
+  "english": "The (array) whose wings are bows is the sanjaya (the victorious).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.14"
+  ],
+  "lines_deva": [
+   "चाप.पक्षः सञ्जयः"
+  ],
+  "lines_iast": [
+   "cāpa.pakṣaḥ sañjayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "eva-urasya.atikrānto",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "same",
+        "gram": "ind."
+       },
+       {
+        "w": "urasya-atikrāntaḥ",
+        "gloss": "with the centre advanced",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vijayaḥ",
+      "words": [
+       {
+        "w": "vijayaḥ",
+        "gloss": "the vijaya (victory)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही, उरस्य के आगे बढ़े होने पर, विजय है।",
+  "english": "That same, with the centre advanced, is the vijaya (victory).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.15"
+  ],
+  "lines_deva": [
+   "स एव-उरस्य.अतिक्रान्तो विजयः"
+  ],
+  "lines_iast": [
+   "sa eva-urasya.atikrānto vijayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sthūla.karṇa.pakṣaḥ",
+      "words": [
+       {
+        "w": "sthūla-karṇa-pakṣaḥ",
+        "gloss": "with thick-eared wings",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sthūṇa.akarṇaḥ",
+      "words": [
+       {
+        "w": "sthūṇā-karṇaḥ",
+        "gloss": "the sthūṇākarṇa (post-eared)",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके पक्षों के कर्ण मोटे हों, वह स्थूणाकर्ण है।",
+  "english": "The (array) whose wings have thick ears (projecting ends) is the sthunakarna (post-eared).",
+  "text_flags": [],
+  "notes": "The surface form sthūṇākarṇaḥ is the same whether split sthūṇa+akarṇa (as the typed text marks here) or sthūṇā+karṇa (as unit 42's sthūṇa.ākarṇaṃ and the sense 'post-ear' suggest); the split sthūṇā-karṇa is used in words. karṇa 'ear' = the projecting end of a wing.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "10.06.16"
+  ],
+  "lines_deva": [
+   "स्थूल.कर्ण.पक्षः स्थूण.अकर्णः"
+  ],
+  "lines_iast": [
+   "sthūla.karṇa.pakṣaḥ sthūṇa.akarṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvi.guṇa.pakṣa.sthūṇo",
+      "words": [
+       {
+        "w": "dvi-guṇa-pakṣa-sthūṇaḥ",
+        "gloss": "with the posts of the wings doubled",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "viśāla.vijayaḥ",
+      "words": [
+       {
+        "w": "viśāla-vijayaḥ",
+        "gloss": "the viśālavijaya (broad victory)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके पक्षों की स्थूणाएँ दुगुनी हों, वह विशालविजय है।",
+  "english": "The (array) with the posts of the wings doubled is the vishalavijaya (broad victory).",
+  "text_flags": [],
+  "notes": "sthūṇā = post, pillar: the thick ends of the wings described in unit 16.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.17"
+  ],
+  "lines_deva": [
+   "द्वि.गुण.पक्ष.स्थूणो विशाल.विजयः"
+  ],
+  "lines_iast": [
+   "dvi.guṇa.pakṣa.sthūṇo viśāla.vijayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "try.abhikrānta.pakṣaś",
+      "words": [
+       {
+        "w": "tri-abhikrānta-pakṣaḥ",
+        "gloss": "with wings advanced threefold",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "camū.mukhaḥ",
+      "words": [
+       {
+        "w": "camū-mukhaḥ",
+        "gloss": "the camūmukha (army-face)",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके पक्ष तीन गुना आगे बढ़े हों, वह चमूमुख है।",
+  "english": "The (array) whose wings are advanced three times over is the chamumukha (army-face).",
+  "text_flags": [],
+  "notes": "try-abhikrānta: 'advanced thrice / three times as far'; the exact measure is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.18"
+  ],
+  "lines_deva": [
+   "त्र्य्.अभिक्रान्त.पक्षश् चमू.मुखः"
+  ],
+  "lines_iast": [
+   "try.abhikrānta.pakṣaś camū.mukhaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparyaye",
+      "words": [
+       {
+        "w": "viparyaye",
+        "gloss": "in the reverse (case)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jhaṣa.āsyaḥ",
+      "words": [
+       {
+        "w": "jhaṣa-āsyaḥ",
+        "gloss": "the jhaṣāsya (fish-mouth)",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसके विपरीत (होने पर) झषास्य है।",
+  "english": "In the reverse (of that) it is the jhashasya (fish-mouth).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.19"
+  ],
+  "lines_deva": [
+   "विपर्यये झष.आस्यः"
+  ],
+  "lines_iast": [
+   "viparyaye jhaṣa.āsyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ūrdhva.rājir",
+      "words": [
+       {
+        "w": "ūrdhva-rājiḥ",
+        "gloss": "in a straight (lengthwise) line",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "the staff (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūcī",
+      "words": [
+       {
+        "w": "sūcī",
+        "gloss": "the sūcī (needle)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सीधी लम्बी पंक्ति में खड़ा दण्ड सूची है।",
+  "english": "The staff (drawn up) in a straight lengthwise line is the suchi (needle).",
+  "text_flags": [],
+  "notes": "ūrdhva-rāji: 'with its line upright/lengthwise', i.e. a column rather than a line across.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.20"
+  ],
+  "lines_deva": [
+   "ऊर्ध्व.राजिर् दण्डः सूची"
+  ],
+  "lines_iast": [
+   "ūrdhva.rājir daṇḍaḥ sūcī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍau",
+      "words": [
+       {
+        "w": "daṇḍau",
+        "gloss": "staffs",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "valayaḥ",
+      "words": [
+       {
+        "w": "valayaḥ",
+        "gloss": "the valaya (bracelet)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो दण्ड (मिलकर) वलय हैं।",
+  "english": "Two staffs are the valaya (bracelet).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.21"
+  ],
+  "lines_deva": [
+   "द्वौ दण्डौ वलयः"
+  ],
+  "lines_iast": [
+   "dvau daṇḍau valayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catvāro",
+      "words": [
+       {
+        "w": "catvāraḥ",
+        "gloss": "four",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "durjayaḥ",
+      "words": [
+       {
+        "w": "durjayaḥ",
+        "gloss": "the durjaya (hard to conquer)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चार (दण्ड मिलकर) दुर्जय हैं।",
+  "english": "Four (staffs) are the durjaya (hard to conquer).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.22"
+  ],
+  "lines_deva": [
+   "चत्वारो दुर्जयः"
+  ],
+  "lines_iast": [
+   "catvāro durjayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.vyūhāḥ",
+      "words": [
+       {
+        "w": "daṇḍa-vyūhāḥ",
+        "gloss": "the staff arrays",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ये दण्ड-व्यूह हैं।",
+  "english": "These are the staff arrays.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.23"
+  ],
+  "lines_deva": [
+   "इति दण्ड.व्यूहाः"
+  ],
+  "lines_iast": [
+   "iti daṇḍa.vyūhāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakṣa.kakṣa.urasyair",
+      "words": [
+       {
+        "w": "pakṣa-kakṣa-urasyaiḥ",
+        "gloss": "with wings, flanks and centre",
+        "gram": "m. inst. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "viṣamaṃ",
+      "words": [
+       {
+        "w": "viṣamam",
+        "gloss": "unevenly",
+        "gram": "ind. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "vartamāno",
+      "words": [
+       {
+        "w": "vartamānaḥ",
+        "gloss": "standing",
+        "gram": "m. nom. sg. pres. part. √vṛt"
+       }
+      ]
+     },
+     {
+      "src": "bhogaḥ",
+      "words": [
+       {
+        "w": "bhogaḥ",
+        "gloss": "the snake (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पक्षों, कक्षों और उरस्य के साथ विषम रूप से खड़ा हुआ (व्यूह) भोग है।",
+  "english": "The (array) standing unevenly with wings, flanks and centre is the snake.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.24"
+  ],
+  "lines_deva": [
+   "पक्ष.कक्ष.उरस्यैर् विषमं वर्तमानो भोगः"
+  ],
+  "lines_iast": [
+   "pakṣa.kakṣa.urasyair viṣamaṃ vartamāno bhogaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "sarpa.sārī",
+      "words": [
+       {
+        "w": "sarpa-sārī",
+        "gloss": "the sarpasārī (snake-crawl)",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "go.mūtrikā",
+      "words": [
+       {
+        "w": "go-mūtrikā",
+        "gloss": "the gomūtrikā (cow's-urine zigzag)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह सर्पसारी अथवा गोमूत्रिका (कहलाता) है।",
+  "english": "That is the sarpasari (moving like a snake) or the gomutrika (the zigzag of a cow's urine).",
+  "text_flags": [],
+  "notes": "Two names of the same snake array, perhaps two varieties; the text does not distinguish them.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.25"
+  ],
+  "lines_deva": [
+   "स सर्प.सारी गो.मूत्रिका वा"
+  ],
+  "lines_iast": [
+   "sa sarpa.sārī go.mūtrikā vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "yugma.urasyo",
+      "words": [
+       {
+        "w": "yugma-urasyaḥ",
+        "gloss": "with a paired (double) centre",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.pakṣaḥ",
+      "words": [
+       {
+        "w": "daṇḍa-pakṣaḥ",
+        "gloss": "with staff-like wings",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "śakaṭaḥ",
+      "words": [
+       {
+        "w": "śakaṭaḥ",
+        "gloss": "the śakaṭa (cart)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही, जिसका उरस्य दोहरा हो और पक्ष दण्ड के समान हों, शकट है।",
+  "english": "That same, with a double centre and staff-like wings, is the shakata (cart).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.26"
+  ],
+  "lines_deva": [
+   "स युग्म.उरस्यो दण्ड.पक्षः शकटः"
+  ],
+  "lines_iast": [
+   "sa yugma.urasyo daṇḍa.pakṣaḥ śakaṭaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparyaye",
+      "words": [
+       {
+        "w": "viparyaye",
+        "gloss": "in the reverse (case)",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "makaraḥ",
+      "words": [
+       {
+        "w": "makaraḥ",
+        "gloss": "the makara (crocodile)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसके विपरीत (होने पर) मकर है।",
+  "english": "In the reverse (of that) it is the makara (crocodile).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.27"
+  ],
+  "lines_deva": [
+   "विपर्यये मकरः"
+  ],
+  "lines_iast": [
+   "viparyaye makaraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hasty.aśva.rathair",
+      "words": [
+       {
+        "w": "hasti-aśva-rathaiḥ",
+        "gloss": "with elephants, horses and chariots",
+        "gram": "m. inst. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "vyatikīrṇaḥ",
+      "words": [
+       {
+        "w": "vyatikīrṇaḥ",
+        "gloss": "intermixed",
+        "gram": "m. nom. sg. ppp. vi-ati-√kṝ"
+       }
+      ]
+     },
+     {
+      "src": "śakaṭaḥ",
+      "words": [
+       {
+        "w": "śakaṭaḥ",
+        "gloss": "the cart (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāripatantakaḥ",
+      "words": [
+       {
+        "w": "pāripatantakaḥ",
+        "gloss": "the pāripatantaka (flying-about)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हाथियों, घोड़ों और रथों से मिला-जुला शकट पारिपतन्तक है।",
+  "english": "The cart intermixed with elephants, horses and chariots is the paripatantaka (the one flying about).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.28"
+  ],
+  "lines_deva": [
+   "हस्त्य्.अश्व.रथैर् व्यतिकीर्णः शकटः पारिपतन्तकः"
+  ],
+  "lines_iast": [
+   "hasty.aśva.rathair vyatikīrṇaḥ śakaṭaḥ pāripatantakaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhoga.vyūhāḥ",
+      "words": [
+       {
+        "w": "bhoga-vyūhāḥ",
+        "gloss": "the snake arrays",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ये भोग-व्यूह हैं।",
+  "english": "These are the snake arrays.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.29"
+  ],
+  "lines_deva": [
+   "इति भोग.व्यूहाः"
+  ],
+  "lines_iast": [
+   "iti bhoga.vyūhāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakṣa.kakṣa.urasyānām",
+      "words": [
+       {
+        "w": "pakṣa-kakṣa-urasyānām",
+        "gloss": "of wings, flanks and centre",
+        "gram": "m. gen. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "ekī.bhāve",
+      "words": [
+       {
+        "w": "ekī-bhāve",
+        "gloss": "on becoming one",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇḍalaḥ",
+      "words": [
+       {
+        "w": "maṇḍalaḥ",
+        "gloss": "the circle (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पक्षों, कक्षों और उरस्य के एक हो जाने पर मण्डल है।",
+  "english": "When the wings, flanks and centre become one, it is the circle.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.30"
+  ],
+  "lines_deva": [
+   "पक्ष.कक्ष.उरस्यानाम् एकी.भावे मण्डलः"
+  ],
+  "lines_iast": [
+   "pakṣa.kakṣa.urasyānām ekī.bhāve maṇḍalaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "sarvato.mukhaḥ",
+      "words": [
+       {
+        "w": "sarvataḥ-mukhaḥ",
+        "gloss": "facing all directions",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sarvato.bhadraḥ",
+      "words": [
+       {
+        "w": "sarvataḥ-bhadraḥ",
+        "gloss": "the sarvatobhadra (good on all sides)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह, सब ओर मुख वाला, सर्वतोभद्र है।",
+  "english": "That, facing in all directions, is the sarvatobhadra (good on all sides).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.31"
+  ],
+  "lines_deva": [
+   "स सर्वतो.मुखः सर्वतो.भद्रः"
+  ],
+  "lines_iast": [
+   "sa sarvato.mukhaḥ sarvato.bhadraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṣṭa.anīko",
+      "words": [
+       {
+        "w": "aṣṭa-anīkaḥ",
+        "gloss": "with eight divisions",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "durjayaḥ",
+      "words": [
+       {
+        "w": "durjayaḥ",
+        "gloss": "the durjaya (hard to conquer)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आठ सेना-दलों वाला (मण्डल) दुर्जय है।",
+  "english": "(The circle) with eight divisions is the durjaya (hard to conquer).",
+  "text_flags": [],
+  "notes": "The same name durjaya is given to a staff array in unit 22.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.32"
+  ],
+  "lines_deva": [
+   "अष्ट.अनीको दुर्जयः"
+  ],
+  "lines_iast": [
+   "aṣṭa.anīko durjayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maṇḍala.vyūhāḥ",
+      "words": [
+       {
+        "w": "maṇḍala-vyūhāḥ",
+        "gloss": "the circle arrays",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ये मण्डल-व्यूह हैं।",
+  "english": "These are the circle arrays.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.33"
+  ],
+  "lines_deva": [
+   "इति मण्डल.व्यूहाः"
+  ],
+  "lines_iast": [
+   "iti maṇḍala.vyūhāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pakṣa.kakṣa.urasyānām",
+      "words": [
+       {
+        "w": "pakṣa-kakṣa-urasyānām",
+        "gloss": "of wings, flanks and centre",
+        "gram": "m. gen. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "asaṃhatād",
+      "words": [
+       {
+        "w": "asaṃhatāt",
+        "gloss": "from not being joined together",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "asaṃhataḥ",
+      "words": [
+       {
+        "w": "asaṃhataḥ",
+        "gloss": "the loose (array)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पक्षों, कक्षों और उरस्य के परस्पर न जुड़े होने से असंहत (व्यूह) है।",
+  "english": "From the wings, flanks and centre not being joined together, it is the loose array.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.34"
+  ],
+  "lines_deva": [
+   "पक्ष.कक्ष.उरस्यानाम् असंहताद् असंहतः"
+  ],
+  "lines_iast": [
+   "pakṣa.kakṣa.urasyānām asaṃhatād asaṃhataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "pañca.anīkānām",
+      "words": [
+       {
+        "w": "pañca-anīkānām",
+        "gloss": "of five divisions",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ākṛti.sthāpanād",
+      "words": [
+       {
+        "w": "ākṛti-sthāpanāt",
+        "gloss": "from placing in a shape",
+        "gram": "n. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vajro",
+      "words": [
+       {
+        "w": "vajraḥ",
+        "gloss": "the vajra (thunderbolt)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "godhā",
+      "words": [
+       {
+        "w": "godhā",
+        "gloss": "the godhā (iguana)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह, पाँच सेना-दलों को (उस) आकृति में रखने से, वज्र अथवा गोधा है।",
+  "english": "That, by placing five divisions in the (corresponding) shape, is the vajra (thunderbolt) or the godha (iguana).",
+  "text_flags": [],
+  "notes": "ākṛti-sthāpana: arranging the divisions in the figure that the name describes.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.35"
+  ],
+  "lines_deva": [
+   "स पञ्च.अनीकानाम् आकृति.स्थापनाद् वज्रो गोधा वा"
+  ],
+  "lines_iast": [
+   "sa pañca.anīkānām ākṛti.sthāpanād vajro godhā vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "caturṇām",
+      "words": [
+       {
+        "w": "caturṇām",
+        "gloss": "of four",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "uddhānakaḥ",
+      "words": [
+       {
+        "w": "uddhānakaḥ",
+        "gloss": "the uddhānaka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kākapadī",
+      "words": [
+       {
+        "w": "kākapadī",
+        "gloss": "the kākapadī (crow's foot)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चार (सेना-दलों) का उद्धानक अथवा काकपदी है।",
+  "english": "(The arrangement) of four (divisions) is the uddhanaka or the kakapadi (crow's foot).",
+  "text_flags": [],
+  "notes": "uddhānaka: the literal sense is unclear (perhaps 'the raised/upturned'); kept as a name. Reviewer: a reading udyānaka ('garden') for this name is recalled from an older translation but could not be verified; the typed uddhānakaḥ is kept as given and should be checked against the printed edition by a person.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "10.06.36"
+  ],
+  "lines_deva": [
+   "चतुर्णाम् उद्धानकः काकपदी वा"
+  ],
+  "lines_iast": [
+   "caturṇām uddhānakaḥ kākapadī vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trayāṇām",
+      "words": [
+       {
+        "w": "trayāṇām",
+        "gloss": "of three",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ardha.candrakaḥ",
+      "words": [
+       {
+        "w": "ardha-candrakaḥ",
+        "gloss": "the ardhacandraka (half-moon)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karkaṭaka.śṛṅgī",
+      "words": [
+       {
+        "w": "karkaṭaka-śṛṅgī",
+        "gloss": "the karkaṭakaśṛṅgī (crab's horns)",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन (सेना-दलों) का अर्धचन्द्रक अथवा कर्कटकशृङ्गी है।",
+  "english": "(The arrangement) of three (divisions) is the ardhachandraka (half-moon) or the karkatakashringi (crab's horns).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.37"
+  ],
+  "lines_deva": [
+   "त्रयाणाम् अर्ध.चन्द्रकः कर्कटक.शृङ्गी वा"
+  ],
+  "lines_iast": [
+   "trayāṇām ardha.candrakaḥ karkaṭaka.śṛṅgī vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "asaṃhata.vyūhāḥ",
+      "words": [
+       {
+        "w": "asaṃhata-vyūhāḥ",
+        "gloss": "the loose arrays",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ये असंहत-व्यूह हैं।",
+  "english": "These are the loose arrays.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.38"
+  ],
+  "lines_deva": [
+   "इत्य् असंहत.व्यूहाः"
+  ],
+  "lines_iast": [
+   "ity asaṃhata.vyūhāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ratha.urasyo",
+      "words": [
+       {
+        "w": "ratha-urasyaḥ",
+        "gloss": "with chariots in the centre",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "hasti.kakṣo",
+      "words": [
+       {
+        "w": "hasti-kakṣaḥ",
+        "gloss": "with elephants in the flanks",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "'śva.pṛṣṭho",
+      "words": [
+       {
+        "w": "aśva-pṛṣṭhaḥ",
+        "gloss": "with horses at the rear",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "'riṣṭaḥ",
+      "words": [
+       {
+        "w": "ariṣṭaḥ",
+        "gloss": "the ariṣṭa (unharmed)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके उरस्य में रथ, कक्षों में हाथी और पीछे घोड़े हों, वह अरिष्ट है।",
+  "english": "The (array) with chariots in the centre, elephants in the flanks and horses at the rear is the arishta (the unharmed).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.39"
+  ],
+  "lines_deva": [
+   "रथ.उरस्यो हस्ति.कक्षो ऽश्व.पृष्ठो ऽरिष्टः"
+  ],
+  "lines_iast": [
+   "ratha.urasyo hasti.kakṣo 'śva.pṛṣṭho 'riṣṭaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pattayo",
+      "words": [
+       {
+        "w": "pattayaḥ",
+        "gloss": "foot-soldiers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'śvā",
+      "words": [
+       {
+        "w": "aśvāḥ",
+        "gloss": "horses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rathā",
+      "words": [
+       {
+        "w": "rathāḥ",
+        "gloss": "chariots",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hastinaś",
+      "words": [
+       {
+        "w": "hastinaḥ",
+        "gloss": "elephants",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-anupṛṣṭham",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anupṛṣṭham",
+        "gloss": "one behind the other",
+        "gram": "ind. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "acalaḥ",
+      "words": [
+       {
+        "w": "acalaḥ",
+        "gloss": "the acala (immovable)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पैदल, घोड़े, रथ और हाथी एक के पीछे एक (खड़े हों तो) अचल है।",
+  "english": "Foot-soldiers, horses, chariots and elephants, one behind the other: the achala (the immovable).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.40"
+  ],
+  "lines_deva": [
+   "पत्तयो ऽश्वा रथा हस्तिनश् च-अनुपृष्ठम् अचलः"
+  ],
+  "lines_iast": [
+   "pattayo 'śvā rathā hastinaś ca-anupṛṣṭham acalaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hastino",
+      "words": [
+       {
+        "w": "hastinaḥ",
+        "gloss": "elephants",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'śvā",
+      "words": [
+       {
+        "w": "aśvāḥ",
+        "gloss": "horses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rathāḥ",
+      "words": [
+       {
+        "w": "rathāḥ",
+        "gloss": "chariots",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pattayaś",
+      "words": [
+       {
+        "w": "pattayaḥ",
+        "gloss": "foot-soldiers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-anupṛṣṭham",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anupṛṣṭham",
+        "gloss": "one behind the other",
+        "gram": "ind. (adv.)"
+       }
+      ]
+     },
+     {
+      "src": "apratihataḥ",
+      "words": [
+       {
+        "w": "apratihataḥ",
+        "gloss": "the apratihata (unopposed)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हाथी, घोड़े, रथ और पैदल एक के पीछे एक (खड़े हों तो) अप्रतिहत है।",
+  "english": "Elephants, horses, chariots and foot-soldiers, one behind the other: the apratihata (the unopposed).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.41"
+  ],
+  "lines_deva": [
+   "हस्तिनो ऽश्वा रथाः पत्तयश् च-अनुपृष्ठम् अप्रतिहतः"
+  ],
+  "lines_iast": [
+   "hastino 'śvā rathāḥ pattayaś ca-anupṛṣṭham apratihataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl. pron."
+       }
+      ]
+     },
+     {
+      "src": "pradaraṃ",
+      "words": [
+       {
+        "w": "pradaram",
+        "gloss": "the pradara",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛḍhakena",
+      "words": [
+       {
+        "w": "dṛḍhakena",
+        "gloss": "with the dṛḍhaka",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghātayet,",
+      "words": [
+       {
+        "w": "ghātayet",
+        "gloss": "should strike down",
+        "gram": "3 sg. opt. caus. √han"
+       }
+      ]
+     },
+     {
+      "src": "dṛḍhakam",
+      "words": [
+       {
+        "w": "dṛḍhakam",
+        "gloss": "the dṛḍhaka",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "asahyena,",
+      "words": [
+       {
+        "w": "asahyena",
+        "gloss": "with the asahya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śyenaṃ",
+      "words": [
+       {
+        "w": "śyenam",
+        "gloss": "the śyena",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cāpena,",
+      "words": [
+       {
+        "w": "cāpena",
+        "gloss": "with the cāpa",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratiṣṭhaṃ",
+      "words": [
+       {
+        "w": "pratiṣṭham",
+        "gloss": "the pratiṣṭha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "supratiṣṭhena,",
+      "words": [
+       {
+        "w": "supratiṣṭhena",
+        "gloss": "with the supratiṣṭha",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sañjayaṃ",
+      "words": [
+       {
+        "w": "sañjayam",
+        "gloss": "the sañjaya",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vijayena,",
+      "words": [
+       {
+        "w": "vijayena",
+        "gloss": "with the vijaya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthūṇa.ākarṇaṃ",
+      "words": [
+       {
+        "w": "sthūṇā-karṇam",
+        "gloss": "the sthūṇākarṇa",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "viśāla.vijayena,",
+      "words": [
+       {
+        "w": "viśāla-vijayena",
+        "gloss": "with the viśālavijaya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāripatantakaṃ",
+      "words": [
+       {
+        "w": "pāripatantakam",
+        "gloss": "the pāripatantaka",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvato.bhadreṇa",
+      "words": [
+       {
+        "w": "sarvataḥ-bhadreṇa",
+        "gloss": "with the sarvatobhadra",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनमें प्रदर को दृढक से नष्ट करे, दृढक को असह्य से, श्येन को चाप से, प्रतिष्ठ को सुप्रतिष्ठ से, सञ्जय को विजय से, स्थूणाकर्ण को विशालविजय से, पारिपतन्तक को सर्वतोभद्र से।",
+  "english": "Of these, he should strike down the pradara with the dridhaka, the dridhaka with the asahya, the shyena with the chapa, the pratishtha with the supratishtha, the sanjaya with the vijaya, the sthunakarna with the vishalavijaya, and the paripatantaka with the sarvatobhadra.",
+  "text_flags": [],
+  "notes": "ghātayet (causative) is used in the sense 'should have (the enemy's array) destroyed, should destroy'. On sthūṇa.ākarṇaṃ see unit 16.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.42"
+  ],
+  "lines_deva": [
+   "तेषां प्रदरं दृढकेन घातयेत्, दृढकम् असह्येन, श्येनं चापेन, प्रतिष्ठं सुप्रतिष्ठेन, सञ्जयं विजयेन, स्थूण.आकर्णं विशाल.विजयेन, पारिपतन्तकं सर्वतो.भद्रेण"
+  ],
+  "lines_iast": [
+   "teṣāṃ pradaraṃ dṛḍhakena ghātayet, dṛḍhakam asahyena, śyenaṃ cāpena, pratiṣṭhaṃ supratiṣṭhena, sañjayaṃ vijayena, sthūṇa.ākarṇaṃ viśāla.vijayena, pāripatantakaṃ sarvato.bhadreṇa"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durjayena",
+      "words": [
+       {
+        "w": "durjayena",
+        "gloss": "with the durjaya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvān",
+      "words": [
+       {
+        "w": "sarvān",
+        "gloss": "all",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prativyūheta",
+      "words": [
+       {
+        "w": "prativyūheta",
+        "gloss": "should array against",
+        "gram": "3 sg. opt. ātm. prati-vi-√ūh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्जय से सबके विरुद्ध व्यूह रचे।",
+  "english": "With the durjaya he should array (his forces) against all of them.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.43"
+  ],
+  "lines_deva": [
+   "दुर्जयेन सर्वान् प्रतिव्यूहेत"
+  ],
+  "lines_iast": [
+   "durjayena sarvān prativyūheta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "patty.aśva.ratha.dvipānāṃ",
+      "words": [
+       {
+        "w": "patti-aśva-ratha-dvipānām",
+        "gloss": "of foot-soldiers, horses, chariots and elephants",
+        "gram": "m. gen. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "the earlier",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvam",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "each earlier (one)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "uttareṇa",
+      "words": [
+       {
+        "w": "uttareṇa",
+        "gloss": "with the later (one)",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghātayet,",
+      "words": [
+       {
+        "w": "ghātayet",
+        "gloss": "should strike down",
+        "gram": "3 sg. opt. caus. √han"
+       }
+      ]
+     },
+     {
+      "src": "hīna.aṅgam",
+      "words": [
+       {
+        "w": "hīna-aṅgam",
+        "gloss": "(the army) deficient in a limb",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "adhika.aṅgena",
+      "words": [
+       {
+        "w": "adhika-aṅgena",
+        "gloss": "with (the army) having a surplus limb",
+        "gram": "m. inst. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "ca-iti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus (end of the rule)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पैदल, घोड़े, रथ और हाथी — इनमें से पहले-पहले को बाद वाले से नष्ट करे, और जिसका कोई अंग कम हो उसे अधिक अंग वाले से।",
+  "english": "Of foot-soldiers, horses, chariots and elephants, he should strike down each earlier one with the one following it, and (a force) deficient in a limb with (one) having a limb in excess.",
+  "text_flags": [],
+  "notes": "pūrvaṃ pūrvam uttareṇa: each item earlier in the list (foot-soldiers) is to be struck with the next (horses), and so on. aṅga = limb, i.e. one of the four arms of the army.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.44"
+  ],
+  "lines_deva": [
+   "पत्त्य्.अश्व.रथ.द्विपानां पूर्वं पूर्वम् उत्तरेण घातयेत्, हीन.अङ्गम् अधिक.अङ्गेन च-इति"
+  ],
+  "lines_iast": [
+   "patty.aśva.ratha.dvipānāṃ pūrvaṃ pūrvam uttareṇa ghātayet, hīna.aṅgam adhika.aṅgena ca-iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aṅga.daśakasya-ekaḥ",
+      "words": [
+       {
+        "w": "aṅga-daśakasya",
+        "gloss": "of a group of ten units",
+        "gram": "n. gen. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "patiḥ",
+      "words": [
+       {
+        "w": "patiḥ",
+        "gloss": "chief",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "patikaḥ,",
+      "words": [
+       {
+        "w": "patikaḥ",
+        "gloss": "the patika",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "patika.daśakasya-ekaḥ",
+      "words": [
+       {
+        "w": "patika-daśakasya",
+        "gloss": "of a group of ten patikas",
+        "gram": "n. gen. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "senā.patiḥ,",
+      "words": [
+       {
+        "w": "senā-patiḥ",
+        "gloss": "commander of the army",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "tad.daśakasya-eko",
+      "words": [
+       {
+        "w": "tad-daśakasya",
+        "gloss": "of a group of ten of those",
+        "gram": "n. gen. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāyaka",
+      "words": [
+       {
+        "w": "nāyakaḥ",
+        "gloss": "leader",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दस अंगों का एक पति, पतिक (कहलाता) है; दस पतिकों का एक सेनापति; उन (सेनापतियों) के दस का एक नायक — इस प्रकार (व्यवस्था) है।",
+  "english": "Of a group of ten units, one chief is the patika; of a group of ten patikas, one is the senapati (army commander); of a group of ten of those, one is the nayaka (leader) — thus.",
+  "text_flags": [],
+  "notes": "aṅga here = a unit (the smallest component of the array), as the tenfold grading shows; the size of that unit is not stated in this line.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.45"
+  ],
+  "lines_deva": [
+   "अङ्ग.दशकस्य-एकः पतिः पतिकः, पतिक.दशकस्य-एकः सेना.पतिः, तद्.दशकस्य-एको नायक इति"
+  ],
+  "lines_iast": [
+   "aṅga.daśakasya-ekaḥ patiḥ patikaḥ, patika.daśakasya-ekaḥ senā.patiḥ, tad.daśakasya-eko nāyaka iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "tūrya.ghoṣa.dhvaja.patākābhir",
+      "words": [
+       {
+        "w": "tūrya-ghoṣa-dhvaja-patākābhiḥ",
+        "gloss": "with musical instruments, shouts, standards and flags",
+        "gram": "f. inst. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "vyūha.aṅgānāṃ",
+      "words": [
+       {
+        "w": "vyūha-aṅgānām",
+        "gloss": "of the parts of the array",
+        "gram": "n. gen. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "sañjñāḥ",
+      "words": [
+       {
+        "w": "sañjñāḥ",
+        "gloss": "signals",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthāpayed",
+      "words": [
+       {
+        "w": "sthāpayet",
+        "gloss": "should establish",
+        "gram": "3 sg. opt. caus. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "aṅga.vibhāge",
+      "words": [
+       {
+        "w": "aṅga-vibhāge",
+        "gloss": "for the separation of parts",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "saṅghāte",
+      "words": [
+       {
+        "w": "saṅghāte",
+        "gloss": "for massing together",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthāne",
+      "words": [
+       {
+        "w": "sthāne",
+        "gloss": "for halting",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gamane",
+      "words": [
+       {
+        "w": "gamane",
+        "gloss": "for marching",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyāvartane",
+      "words": [
+       {
+        "w": "vyāvartane",
+        "gloss": "for wheeling round",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praharaṇe",
+      "words": [
+       {
+        "w": "praharaṇe",
+        "gloss": "for attacking",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह (नायक) तूर्य, घोष, ध्वज और पताकाओं के द्वारा व्यूह के अंगों के लिए संकेत निश्चित करे — अंगों को अलग करने, एकत्र करने, ठहरने, चलने, मुड़ने और प्रहार करने के लिए।",
+  "english": "He should establish signals for the parts of the array by means of musical instruments, shouts, standards and flags, for separating the parts, massing them together, halting, marching, wheeling round and attacking.",
+  "text_flags": [],
+  "notes": "'sa' (he) most naturally refers to the nāyaka of unit 45; the line does not say so. tūrya = musical instrument (trumpet, drum).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.46"
+  ],
+  "lines_deva": [
+   "स तूर्य.घोष.ध्वज.पताकाभिर् व्यूह.अङ्गानां सञ्ज्ञाः स्थापयेद् अङ्ग.विभागे सङ्घाते स्थाने गमने व्यावर्तने प्रहरणे च"
+  ],
+  "lines_iast": [
+   "sa tūrya.ghoṣa.dhvaja.patākābhir vyūha.aṅgānāṃ sañjñāḥ sthāpayed aṅga.vibhāge saṅghāte sthāne gamane vyāvartane praharaṇe ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "same",
+      "words": [
+       {
+        "w": "same",
+        "gloss": "equal",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyūhe",
+      "words": [
+       {
+        "w": "vyūhe",
+        "gloss": "when the array is",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśa.kāla.sāra.yogāt",
+      "words": [
+       {
+        "w": "deśa-kāla-sāra-yogāt",
+        "gloss": "from the use of place, time and strength",
+        "gram": "m. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "siddhiḥ",
+      "words": [
+       {
+        "w": "siddhiḥ",
+        "gloss": "success",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्यूह समान होने पर देश, काल और सार के प्रयोग से सिद्धि होती है।",
+  "english": "When the array (on both sides) is equal, success comes from the (right) use of place, time and strength.",
+  "text_flags": [],
+  "notes": "sāra = strength/essential force of the troops; glossary siddhi = success (सिद्धि).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.47"
+  ],
+  "lines_deva": [
+   "समे व्यूहे देश.काल.सार.योगात् सिद्धिः"
+  ],
+  "lines_iast": [
+   "same vyūhe deśa.kāla.sāra.yogāt siddhiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yantrair",
+      "words": [
+       {
+        "w": "yantraiḥ",
+        "gloss": "with machines",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "upaniṣad.yogais",
+      "words": [
+       {
+        "w": "upaniṣad-yogaiḥ",
+        "gloss": "with secret practices",
+        "gram": "m. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇair",
+      "words": [
+       {
+        "w": "tīkṣṇaiḥ",
+        "gloss": "with assassins",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyāsakta.ghātibhiḥ",
+      "words": [
+       {
+        "w": "vyāsakta-ghātibhiḥ",
+        "gloss": "striking those who are engaged (off guard)",
+        "gram": "m. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "māyābhir",
+      "words": [
+       {
+        "w": "māyābhiḥ",
+        "gloss": "with illusions",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "deva.samyogaiḥ",
+      "words": [
+       {
+        "w": "deva-saṃyogaiḥ",
+        "gloss": "with contrivances connected with gods",
+        "gram": "m. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śakaṭair",
+      "words": [
+       {
+        "w": "śakaṭaiḥ",
+        "gloss": "with carts",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "hasti.bhīṣaṇaiḥ",
+      "words": [
+       {
+        "w": "hasti-bhīṣaṇaiḥ",
+        "gloss": "terrifying to elephants",
+        "gram": "m. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यन्त्रों से, गुप्त प्रयोगों से, असावधान लोगों पर प्रहार करने वाले तीक्ष्णों से, मायाओं से, देवताओं से सम्बद्ध प्रयोगों से, हाथियों को डराने वाले शकटों से —",
+  "english": "With machines, with secret practices, with assassins who strike those who are engaged (off their guard), with illusions, with contrivances connected with the gods, with carts terrifying to elephants —",
+  "text_flags": [],
+  "notes": "Units 48 to 50 form one sentence; the verb ācaret is in unit 50. tīkṣṇa = assassin (the text's term for a desperate agent); upaniṣad-yoga = secret (occult) practice; deva-saṃyoga = contrivance made to look like divine intervention. hasti-bhīṣaṇaiḥ taken with śakaṭaiḥ ('carts that frighten elephants'); alternatively a separate item, 'with means of frightening elephants'. The typed spelling samyogaiḥ (सम्योगैः) is an orthographic variant of saṃyogaiḥ, not a flagged error.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "10.06.48a",
+   "10.06.48b"
+  ],
+  "lines_deva": [
+   "यन्त्रैर् उपनिषद्.योगैस् तीक्ष्णैर् व्यासक्त.घातिभिः",
+   "मायाभिर् देव.सम्योगैः शकटैर् हस्ति.भीषणैः"
+  ],
+  "lines_iast": [
+   "yantrair upaniṣad.yogais tīkṣṇair vyāsakta.ghātibhiḥ",
+   "māyābhir deva.samyogaiḥ śakaṭair hasti.bhīṣaṇaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūṣya.prakopair",
+      "words": [
+       {
+        "w": "dūṣya-prakopaiḥ",
+        "gloss": "with revolts of the treasonable",
+        "gram": "m. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "go.yūthaiḥ",
+      "words": [
+       {
+        "w": "go-yūthaiḥ",
+        "gloss": "with herds of cattle",
+        "gram": "n. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "skandha.āvāra.pradīpanaiḥ",
+      "words": [
+       {
+        "w": "skandha-āvāra-pradīpanaiḥ",
+        "gloss": "with the setting on fire of the camp",
+        "gram": "n. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "koṭī.jaghana.ghātair",
+      "words": [
+       {
+        "w": "koṭī-jaghana-ghātaiḥ",
+        "gloss": "with blows on the wing-tips and rear",
+        "gram": "m. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūta.vyañjana.bhedanaiḥ",
+      "words": [
+       {
+        "w": "dūta-vyañjana-bhedanaiḥ",
+        "gloss": "with sowing of dissension by those disguised as envoys",
+        "gram": "n. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूष्यों के विद्रोहों से, गायों के झुण्डों से, स्कन्धावार में आग लगाने से, कोटि और पिछले भाग पर प्रहार से, अथवा दूत के वेष वालों द्वारा फूट डालने से —",
+  "english": "with revolts of the treasonable, with herds of cattle, with the setting of the camp on fire, with blows on the extremities and the rear, or with the sowing of dissension by agents disguised as envoys —",
+  "text_flags": [],
+  "notes": "dūṣya = the treasonable (glossary). koṭī = extremity, tip (of the array's wings); jaghana = rear. dūta-vyañjana = one wearing the guise of an envoy. skandhāvāra = camp (छावनी); koṭī = tip of the wings (पार्श्वों के सिरे).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.49a",
+   "10.06.49b"
+  ],
+  "lines_deva": [
+   "दूष्य.प्रकोपैर् गो.यूथैः स्कन्ध.आवार.प्रदीपनैः",
+   "कोटी.जघन.घातैर् वा दूत.व्यञ्जन.भेदनैः"
+  ],
+  "lines_iast": [
+   "dūṣya.prakopair go.yūthaiḥ skandha.āvāra.pradīpanaiḥ",
+   "koṭī.jaghana.ghātair vā dūta.vyañjana.bhedanaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"durgaṃ",
+      "words": [
+       {
+        "w": "durgam",
+        "gloss": "fort",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dagdhaṃ",
+      "words": [
+       {
+        "w": "dagdham",
+        "gloss": "burnt",
+        "gram": "n. nom. sg. ppp. √dah"
+       }
+      ]
+     },
+     {
+      "src": "hṛtaṃ",
+      "words": [
+       {
+        "w": "hṛtam",
+        "gloss": "seized",
+        "gram": "n. nom. sg. ppp. √hṛ"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. pron."
+       }
+      ]
+     },
+     {
+      "src": "kopaḥ",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "revolt",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kulyaḥ",
+      "words": [
+       {
+        "w": "kulyaḥ",
+        "gloss": "by one of the family",
+        "gram": "m. nom. sg. (adj.)"
+       }
+      ]
+     },
+     {
+      "src": "samutthitaḥ",
+      "words": [
+       {
+        "w": "samutthitaḥ",
+        "gloss": "has arisen",
+        "gram": "m. nom. sg. ppp. sam-ud-√sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śatrur",
+      "words": [
+       {
+        "w": "śatruḥ",
+        "gloss": "enemy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "āṭaviko",
+      "words": [
+       {
+        "w": "āṭavikaḥ",
+        "gloss": "forest chief",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā\"",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (saying)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parasya-udvegam",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "udvegam",
+        "gloss": "alarm",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ācaret",
+      "words": [
+       {
+        "w": "ācaret",
+        "gloss": "should bring about",
+        "gram": "3 sg. opt. ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "— \"तुम्हारा दुर्ग जला दिया गया है या छीन लिया गया है, कुल के किसी व्यक्ति का विद्रोह उठ खड़ा हुआ है, अथवा शत्रु या आटविक (उठ खड़ा हुआ है)\" — इस प्रकार (कहकर) शत्रु में उद्वेग उत्पन्न करे।",
+  "english": "— and (by the report) \"your fort has been burnt or seized, a revolt by a member of the family has broken out, or an enemy or a forest chief (has risen)\": thus he should cause alarm to the enemy.",
+  "text_flags": [],
+  "notes": "durga = fort (glossary); kulya = belonging to the (royal) family; āṭavika = chief of forest tribes. samutthitaḥ is read with kopaḥ and understood also with śatruḥ/āṭavikaḥ. The quotation marks are the editors'. This is the main clause of the sentence begun in unit 48.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.50a",
+   "10.06.50b"
+  ],
+  "lines_deva": [
+   "\"दुर्गं दग्धं हृतं वा ते कोपः कुल्यः समुत्थितः",
+   "शत्रुर् आटविको वा\" इति परस्य-उद्वेगम् आचरेत्"
+  ],
+  "lines_iast": [
+   "\"durgaṃ dagdhaṃ hṛtaṃ vā te kopaḥ kulyaḥ samutthitaḥ",
+   "śatrur āṭaviko vā\" iti parasya-udvegam ācaret"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ekaṃ",
+      "words": [
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hanyān",
+      "words": [
+       {
+        "w": "hanyāt",
+        "gloss": "may kill",
+        "gram": "3 sg. opt. √han"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hanyād",
+      "words": [
+       {
+        "w": "hanyāt",
+        "gloss": "may kill",
+        "gram": "3 sg. opt. √han"
+       }
+      ]
+     },
+     {
+      "src": "iṣuḥ",
+      "words": [
+       {
+        "w": "iṣuḥ",
+        "gloss": "arrow",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣipto",
+      "words": [
+       {
+        "w": "kṣiptaḥ",
+        "gloss": "shot",
+        "gram": "m. nom. sg. ppp. √kṣip"
+       }
+      ]
+     },
+     {
+      "src": "dhanuṣmatā",
+      "words": [
+       {
+        "w": "dhanuṣmatā",
+        "gloss": "by an archer",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prajñānena",
+      "words": [
+       {
+        "w": "prajñānena",
+        "gloss": "by a man of wisdom",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "matiḥ",
+      "words": [
+       {
+        "w": "matiḥ",
+        "gloss": "a stratagem",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣiptā",
+      "words": [
+       {
+        "w": "kṣiptā",
+        "gloss": "discharged",
+        "gram": "f. nom. sg. ppp. √kṣip"
+       }
+      ]
+     },
+     {
+      "src": "hanyād",
+      "words": [
+       {
+        "w": "hanyāt",
+        "gloss": "kills",
+        "gram": "3 sg. opt. √han"
+       }
+      ]
+     },
+     {
+      "src": "garbha.gatān",
+      "words": [
+       {
+        "w": "garbha-gatān",
+        "gloss": "those in the womb",
+        "gram": "m. acc. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धनुर्धारी के द्वारा छोड़ा हुआ बाण एक को मारे या न मारे; परन्तु प्रज्ञावान् के द्वारा छोड़ी हुई बुद्धि गर्भ में स्थित लोगों को भी मार देती है।",
+  "english": "An arrow shot by an archer may kill one man or may not; but a stratagem launched by a man of wisdom kills even those still in the womb.",
+  "text_flags": [],
+  "notes": "prajñānena: taken as 'by one possessing wisdom' (inst. of agent parallel to dhanuṣmatā); the literal form is the noun 'by wisdom', which gives 'a plan discharged by wisdom'. matiḥ = intellect, here a plan/stratagem.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "10.06.51a",
+   "10.06.51b"
+  ],
+  "lines_deva": [
+   "एकं हन्यान् न वा हन्याद् इषुः क्षिप्तो धनुष्मता",
+   "प्रज्ञानेन तु मतिः क्षिप्ता हन्याद् गर्भ.गतान् अपि"
+  ],
+  "lines_iast": [
+   "ekaṃ hanyān na vā hanyād iṣuḥ kṣipto dhanuṣmatā",
+   "prajñānena tu matiḥ kṣiptā hanyād garbha.gatān api"
+  ],
+  "uncertain": []
+ }
+]
