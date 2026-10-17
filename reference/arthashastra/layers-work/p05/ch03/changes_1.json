@@ -1,0 +1,478 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "By the power of fort and country he should fix the servants' action (karma) at a quarter of the revenue, or by the acquisition of servants capable of accomplishing the work.",
+  "new": "By the power of fort and country he should fix the servants' work (karma) at a quarter of the revenue, or by the acquisition of servants capable of accomplishing the work.",
+  "why": "reviewer (minor): karma of servants' service is 'work' (chapter decision, see glossary 5.3)."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "bhṛtya-karma",
+  "old": "servants' action",
+  "new": "servants' work",
+  "why": "reviewer (minor): as english"
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "दुर्ग और जनपद की शक्ति के अनुसार सेवकों के कर्म को आय के चतुर्थांश पर स्थापित करे, अथवा कार्य सिद्ध करने में समर्थ सेवकों की प्राप्ति द्वारा।",
+  "new": "दुर्ग और जनपद की शक्ति से सेवकों के कर्म को आय के चतुर्थांश पर स्थापित करे, अथवा कार्य सिद्ध करने में समर्थ सेवकों की प्राप्ति द्वारा।",
+  "why": "reviewer (minor): 'के अनुसार' (according to) is not in the instrumental śaktyā; plain 'से'."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "bhṛtya-karma follows the glossary (karma = action); it is taken to mean 'servants' work' (the charge for servants, i.e. their pay, is the usual sense); samudaya = revenue; sahena = 'able, capable' (saha √sah). The second alternative is elliptical; the exact sense of 'or by acquisition of servants' is uncertain.",
+  "new": "bhṛtya-karma follows the glossary (karma = action); it is taken to mean 'servants' work' (the charge for servants, i.e. their pay, is the usual sense); samudaya = revenue; sahena = 'able, capable' (saha √sah). The second alternative is elliptical; the exact sense of 'or by acquisition of servants' is uncertain. Reviewer: karma here is rendered 'work' (glossary 5.3 amends karma = action for the work or service of servants); the draft note above that says 'follows karma = action' is superseded.",
+  "why": "reviewer (minor): stale note after the glossary decision"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The officiating priest, teacher, minister, chaplain, commander of the army, heir-apparent, king's mother and king's chief queens are [men] of forty-eight thousand.",
+  "new": "The officiating priest, teacher, minister, chaplain, commander of the army, heir-apparent, king's mother and king's chief queens are [those] of forty-eight thousand.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "mahiṣyaḥ",
+  "old": "chief queen",
+  "new": "chief queens",
+  "why": "reviewer (minor): plural form is mahiṣyaḥ"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "The dauvārika (door-keeper), antarvaṃśika, praśāstṛ, Collector and Treasurer are [men] of twenty-four thousand.",
+  "new": "The dauvārika (door-keeper), antarvaṃśika, praśāstṛ, Collector and Treasurer are [those] of twenty-four thousand.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "इतने से वे कार्य करने योग्य होते हैं।",
+  "new": "इतने से वे कर्म करने योग्य होते हैं।",
+  "why": "reviewer (minor): Hindi uses कार्य for karma-; keep कर्म as in the glossary."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "Src 'karmaṇyā' is the printed form (visarga lost before bh-); read karmaṇyāḥ.",
+  "new": "Src 'karmaṇyā' is the printed form (visarga lost before bh-); read karmaṇyāḥ. Reviewer: the text_flag on 'karmaṇyā' is a false positive. Final -āḥ before a voiced consonant (bh-) regularly loses its visarga (āḥ + bh- gives ā bh-), exactly as in 'mukhyā hasty' (unit 9). No typo; the flag may be dropped by a person.",
+  "why": "reviewer (minor): text_flag is not a typo"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "The prince, the prince's mother, the nāyaka, the townsman, the vyāvahārika, the kārmāntika, the council of ministers and the guards of the frontiers of the country are [men] of twelve thousand.",
+  "new": "The prince, the prince's mother, the nāyaka, the townsman, the vyāvahārika, the kārmāntika, the council of ministers and the guards of the frontiers of the country are [those] of twelve thousand.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "The prince, the prince's mother, the nāyaka, the townsman, the vyāvahārika, the kārmāntika, the council of ministers and the guards of the frontiers of the country are [those] of twelve thousand.",
+  "new": "The prince, the prince's mother, the nāyaka, the townsman, the vyāvahārika, the kārmāntika, the council of ministers and the frontier officers of the country are [those] of twelve thousand.",
+  "why": "reviewer (minor): glossary: anta-pāla = frontier officer (अन्तपाल), as in unit 41"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "कुमार, कुमार की माता, नायक, नगरवासी, व्यावहारिक, कार्मान्तिक, मन्त्रिपरिषद् और राष्ट्र के अन्त के रक्षक बारह हज़ार वाले होते हैं।",
+  "new": "कुमार, कुमार की माता, नायक, नगरवासी, व्यावहारिक, कार्मान्तिक, मन्त्रिपरिषद् और राष्ट्र के अन्तपाल बारह हज़ार वाले होते हैं।",
+  "why": "reviewer (minor): glossary anta-pāla = अन्तपाल"
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "pariṣad-rāṣṭra-anta-pālāḥ",
+  "old": "council, and guards of the country's frontier",
+  "new": "council (of ministers, continued), and frontier officers of the country",
+  "why": "reviewer (minor): first part of 'mantri-pariṣad' was left unexplained; anta-pāla per glossary"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "paribandha is obscure (literally 'binding round'; perhaps 'retinue, entourage' or 'bond/security'); kept untranslated. The compound could instead be a bahuvrīhi 'having the king's retinue, army and helpers'. Not fixed.",
+  "new": "paribandha is obscure (literally 'binding round'; perhaps 'retinue, entourage' or 'bond/security'); kept untranslated. The compound could instead be a bahuvrīhi 'having the king's retinue, army and helpers'. Not fixed. Reviewer: bala may be 'strength' rather than 'army' (glossary bala = army in its force sense); kept 'army'. The case is open whether svāmi- governs only paribandha or all three members.",
+  "why": "reviewer (minor): bala sense and the scope of svāmi- are open"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "The chiefs of the guilds, the chiefs of elephants, horses and chariots, and the pradeṣṭṛs are [men] of eight thousand.",
+  "new": "The chiefs of the guilds, the chiefs of elephants, horses and chariots, and the pradeṣṭṛs are [those] of eight thousand.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "The superintendents of foot-soldiers, horses, chariots and elephants, and the guards of the dravya forests and elephant forests, are [men] of four thousand.",
+  "new": "The superintendents of foot-soldiers, horses, chariots and elephants, and the guards of the dravya forests and elephant forests, are [those] of four thousand.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "The rathikas, the anīkasthas, the physicians, the horse-trainers, the carpenters and the rearers of the breed (yoni) are [men] of two thousand.",
+  "new": "The rathikas, the anīkasthas, the physicians, the horse-trainers, the carpenters and the rearers of the breed (yoni) are [those] of two thousand.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "The rathikas, the anīkasthas, the physicians, the horse-trainers, the carpenters and the rearers of the breed (yoni) are [those] of two thousand.",
+  "new": "The rathikas, the anīkasthas, the physicians, the horse-trainers, the carpenters and the yoni-poṣakas are [those] of two thousand.",
+  "why": "reviewer (minor): glossary 5.2: yoni-poṣaka is kept untranslated, no guessed sense"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "रथिक, अनीकस्थ, चिकित्सक, अश्वदमक, वर्धकि तथा योनि के पोषक दो हज़ार वाले होते हैं।",
+  "new": "रथिक, अनीकस्थ, चिकित्सक, अश्वदमक, वर्धकि तथा योनि-पोषक दो हज़ार वाले होते हैं।",
+  "why": "reviewer (minor): glossary 5.2: योनि-पोषक"
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "yoni-poṣakāḥ",
+  "old": "rearers of the breed",
+  "new": "yoni-poṣakas (kept untranslated)",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "The fortune-tellers, omen-readers, astrologers, Purāṇa-reciters, bards and minstrels, the chaplain's men and all the superintendents are [men] of one thousand.",
+  "new": "The fortune-tellers, omen-readers, astrologers, Purāṇa-reciters, bards and minstrels, the chaplain's men and all the superintendents are [those] of one thousand.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "The skilled men, the foot-soldiers, and the group of accountants, scribes and the like are [men] of five hundred.",
+  "new": "The skilled men, the foot-soldiers, and the group of accountants, scribes and the like are [those] of five hundred.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "शिल्प-कुशल जन, पैदल सैनिक तथा गणक, लेखक आदि का वर्ग पाँच सौ वाले होते हैं।",
+  "new": "शिल्पवान् जन, पैदल सैनिक तथा गणक, लेखक आदि का वर्ग पाँच सौ वाले होते हैं।",
+  "why": "reviewer (minor): 'कुशल' (clever) is not in śilpavat; śilpavat = possessed of skill"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "The kuśīlavas, however, are [men] of two and a half hundred; and of these the tūrya-karas are of double pay.",
+  "new": "The kuśīlavas, however, are [those] of two and a half hundred; and of these the tūrya-karas are of double pay.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "कुशीलव ढाई सौ वाले होते हैं; और इनमें तूर्य करने वाले दुगुने वेतन वाले होते हैं।",
+  "new": "किन्तु कुशीलव ढाई सौ वाले होते हैं; और इनमें तूर्य करने वाले दुगुने वेतन वाले होते हैं।",
+  "why": "reviewer (minor): tu (however) was dropped in the Hindi"
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "The artisans and craftsmen are [men] of twenty hundreds.",
+  "new": "The artisans and craftsmen are [those] of twenty hundreds.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "viṃśati-śatika is taken literally ('having twenty hundreds'); the figure intended (2000, or 120 by a different idiom) is not fixed here; the neighbouring units (500, 250, 1000) make 120 the likelier amount. kāru = artisan, śilpin = craftsman (literal).",
+  "new": "viṃśati-śatika is taken literally ('having twenty hundreds'); the figure intended (2000, or 120 by a different idiom) is not fixed here; the neighbouring units (500, 250, 1000) make 120 the likelier amount. kāru = artisan, śilpin = craftsman (literal). Reviewer: 'twenty hundreds' reads as 2000, higher than the thousand-groups of units 13 and 21; the descending run 1000, 500, 250 suggests 120. Kept literal; a person must decide (no patch to the number).",
+  "why": "reviewer (minor): number unsettled"
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "The attendants of quadrupeds and bipeds, the pārikarmikas, the aupasthāyikas, the keepers and the binders of forced labour (viṣṭi) are of sixty pay; the āryas, yuktas, ārohakas, māṇavakas, the diggers of rock, and all the attendants also.",
+  "new": "The attendants of quadrupeds and bipeds, the pārikarmikas, the aupasthāyikas, the keepers and the binders of forced labour (viṣṭi) are of sixty pay; the āryas, yuktas, ārohakas, māṇavakas, the diggers of rock, and all the attendants —",
+  "why": "reviewer (minor): 'ca' is 'and', not 'also'; the second clause has no pay figure and no predicate, so it is left open with a dash (glossary 14.1 practice)"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "चौपायों और दोपायों के परिचारक, पारिकर्मिक, औपस्थायिक, पालक तथा विष्टि-बन्धक साठ वेतन वाले होते हैं; आर्य, युक्त, आरोहक, माणवक, शैल खोदने वाले और सब उपस्थायी भी।",
+  "new": "चौपायों और दोपायों के परिचारक, पारिकर्मिक, औपस्थायिक, पालक तथा विष्टि-बन्धक साठ वेतन वाले होते हैं; आर्य, युक्त, आरोहक, माणवक, शैल खोदने वाले और सब उपस्थायी —",
+  "why": "reviewer (minor): as the English"
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "Syntax unclear: the literal words are 'from/for those of equal learning, the king, triple pay, in sacrifices beginning with the Rājasūya'. Possible sense: at such sacrifices the priests/learned receive three times the pay of others of equal learning; the king as the subject is awkward. Rendered literally, with a bare copula; sense not settled.",
+  "new": "Syntax unclear: the literal words are 'from/for those of equal learning, the king, triple pay, in sacrifices beginning with the Rājasūya'. Possible sense: at such sacrifices the priests/learned receive three times the pay of others of equal learning; the king as the subject is awkward. Rendered literally, with a bare copula; sense not settled. Reviewer: agree with the literal rendering and low confidence; the dative/ablative samāna-vidyebhyaḥ may be an ablative of comparison ('than those of equal learning'), which is why the sentence is left literal.",
+  "why": "reviewer (minor): "
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "The agents in the guise of kāpaṭikas, udāsthitas, householders, traders and ascetics are [men] of one thousand.",
+  "new": "The agents in the guise of kāpaṭikas, udāsthitas, householders, traders and ascetics are [those] of one thousand.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "The village hirelings, secret agents, assassins, poisoners and female mendicants are [men] of five hundred.",
+  "new": "The village hirelings, secret agents, assassins, poisoners and female mendicants are [those] of five hundred.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "ग्राम के भृतक, गुप्तचर, तीक्ष्ण, रसद और भिक्षुकियाँ पाँच सौ वाले होते हैं।",
+  "new": "ग्राम के भृतक, गुप्तचर, तीक्ष्ण, विष देने वाले और भिक्षुकियाँ पाँच सौ वाले होते हैं।",
+  "why": "reviewer (error): glossary 5.2: rasada in Hindi is विष देने वाला, never रसद (supplies)"
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "The cāras and wanderers are [men] of two and a half hundred, or have pay increased by exertion.",
+  "new": "The cāras and wanderers are [those] of two and a half hundred, or have pay increased by exertion.",
+  "why": "reviewer (minor): '[men]' is wrong where women or mixed classes are listed (queens, mother, female mendicants) and is an unneeded supply; '[those]' is neutral and used throughout the chapter."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "The cāras and wanderers are [those] of two and a half hundred, or have pay increased by exertion.",
+  "new": "The spies (cāra) and wanderers are [those] of two and a half hundred, or have pay increased by exertion.",
+  "why": "reviewer (minor): glossary 9.5: cāra = spy"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "cāra-sañcāriṇaḥ",
+  "old": "cāras and wanderers",
+  "new": "spies (cāra) and wanderers",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "The superintendents of the groups of a hundred and the groups of a thousand should see to the receipt of food and pay, the assignment (ādeśa) and the dispersal (vikṣepa).",
+  "new": "The superintendents of the groups of a hundred and the groups of a thousand should make the receipt of food and pay, the assignment (ādeśa) and the dispersal (vikṣepa).",
+  "why": "reviewer (minor): 'see to' is an interpretive addition for kuryuḥ ('should make')"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "राजपरिग्रह, दुर्ग और राष्ट्र की रक्षा और देखरेख में विक्षेप न हो।",
+  "new": "और राजपरिग्रह, दुर्ग और राष्ट्र की रक्षा और देखरेख में विक्षेप न हो।",
+  "why": "reviewer (minor): closing ca (and) is not rendered in the Hindi while the English has 'And'"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "The sons and wives of those who have died in actions should receive food and pay.",
+  "new": "The sons and wives of those who have died in work (karma) should receive food and pay.",
+  "why": "reviewer (minor): karma of service is 'work' (glossary 5.3)"
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "karmasu",
+  "old": "in actions",
+  "new": "in works",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "karmasu follows the glossary (karma = action); the natural sense is 'in the course of their duties, in service'.",
+  "new": "karmasu follows the glossary (karma = action); the natural sense is 'in the course of their duties, in service'. Reviewer: karmasu = in their work/duties; the English keeps the bare 'work (karma)' and adds no 'their'.",
+  "why": "reviewer (minor): "
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "प्रेत, रोगी और प्रसूता के कृत्यों में इनके लिए अर्थ और मान का कर्म करे।",
+  "new": "और मृतक, रोगी और प्रसूता के कृत्यों में इनके लिए अर्थ और मान का कर्म करे।",
+  "why": "reviewer (minor): preta in Hindi प्रेत means ghost; the deceased is मृतक; and ca (And) was missing"
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "artha-māna-karma is rendered literally: 'action of wealth and honour' (gifts and honours); kṛtya = 'matter, rite, thing to be done'.",
+  "new": "artha-māna-karma is rendered literally: 'action of wealth and honour' (gifts and honours); kṛtya = 'matter, rite, thing to be done'. Reviewer: artha-māna-karma keeps 'action' (an act of conferring, not service-work); the glossary 5.3 'work' rule covers only service. Sense of the whole phrase (gifts and honours) in doubt.",
+  "why": "reviewer (minor): "
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "One with a small treasury should give raw materials, cattle and fields, and a little gold.",
+  "new": "One with a small treasury should give raw materials, cattle and fields, and a little money.",
+  "why": "reviewer (minor): glossary 5.2: hiraṇya = money (धन), 'gold' only in notes"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "थोड़े कोश वाला कुप्य, पशु और खेत दे, और थोड़ा सोना।",
+  "new": "थोड़े कोश वाला कुप्य, पशु और खेत दे, और थोड़ा धन।",
+  "why": "reviewer (minor): glossary hiraṇya = धन"
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "hiraṇyam",
+  "old": "gold",
+  "new": "money",
+  "why": "reviewer (minor): glossary hiraṇya = money"
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "hiraṇya = gold (wealth in gold/coin); kept as 'gold'.",
+  "new": "hiraṇya = gold (wealth in gold/coin); kept as 'gold'. Reviewer: hiraṇya = money (glossary); 'gold' is only a possible literal sense.",
+  "why": "reviewer (minor): "
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Or one who has set out to settle an empty [place] should give only gold, not a village, for the purpose of establishing the dealings arisen in the village.",
+  "new": "Or one who has set out to settle an empty [place] should give only money, not a village, for the purpose of establishing the dealings arisen in the village.",
+  "why": "reviewer (minor): glossary hiraṇya"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "अथवा सूने को बसाने के लिए उद्यत हुआ केवल सोना दे, ग्राम नहीं, ग्राम में उत्पन्न व्यवहारों की स्थापना के लिए।",
+  "new": "अथवा सूने को बसाने के लिए उद्यत हुआ केवल धन दे, ग्राम नहीं, ग्राम में उत्पन्न व्यवहारों की स्थापना के लिए।",
+  "why": "reviewer (minor): glossary hiraṇya = धन"
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "hiraṇyam",
+  "old": "gold",
+  "new": "money",
+  "why": "reviewer (minor): glossary hiraṇya"
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "By this he should make a difference in food and pay for the maintained and the unmaintained, also according to learning and action (karma).",
+  "new": "By this he should make a difference in food and pay for the maintained and the unmaintained, also according to learning and work (karma).",
+  "why": "reviewer (minor): karma = work in service contexts"
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "vidyā-karmabhyām",
+  "old": "by learning and action",
+  "new": "by learning and work",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "इसी से भरण किए हुओं और न किए हुओं के भोजन और वेतन में विद्या और कर्म के आधार पर भेद भी करे।",
+  "new": "इससे भरण किए हुओं और न किए हुओं के भोजन और वेतन में विद्या और कर्म के अनुसार भेद भी करे।",
+  "why": "reviewer (minor): 'इसी' adds emphasis not in etena; 'के आधार पर' replaced by plain 'के अनुसार'"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "Having made an āḍhaka for [one] of sixty pay, he should make the food in proportion to the gold.",
+  "new": "Having made an āḍhaka for [one] of sixty pay, he should make the food in proportion to the money.",
+  "why": "reviewer (minor): glossary hiraṇya"
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "hiraṇya-anurūpam",
+  "old": "in proportion to the gold",
+  "new": "in proportion to the money",
+  "why": "reviewer (minor): glossary hiraṇya"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "साठ वेतन वाले के लिए आढक करके, सोने के अनुरूप भोजन करे।",
+  "new": "साठ वेतन वाले के लिए आढक करके, धन के अनुरूप भोजन निर्धारित करे।",
+  "why": "reviewer (error): 'सोना' per glossary is धन; and 'भोजन करे' means 'should eat', but bhaktaṃ kuryāt is 'should make/fix the food'"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "पैदल, घोड़े, रथ और हाथी सूर्योदय के समय बाहर, सन्धि के दिनों को छोड़कर, शिल्प का अभ्यास करें।",
+  "new": "पैदल, घोड़े, रथ और हाथी सूर्योदय के समय बाहर, सन्धि-दिवसों को छोड़कर, शिल्प का अभ्यास करें।",
+  "why": "reviewer (minor): 'सन्धि' alone reads as peace/treaty; keep the compound sandhi-divasa"
+ },
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "kṛta-nara-indra-aṅkam",
+  "old": "karmadhāraya, n. acc. sg.",
+  "new": "bahuvrīhi, n. acc. sg.",
+  "why": "reviewer (minor): a bahuvrīhi (having the king's mark made), not a karmadhāraya"
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "The frontier officers should take the weapons and armour of the caravan-members, or cause [them] to be sent down to the sea.",
+  "new": "The frontier officers should take the weapons and armour of the caravan-members, or cause [them] to go down to the sea.",
+  "why": "reviewer (minor): 'be sent' is an addition; avacārayeyuḥ is a causative of 'go down'"
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "सार्थवालों के शस्त्र और कवच को सीमा के रक्षक ले लें, अथवा समुद्र में उतरवा दें।",
+  "new": "सार्थिकों के शस्त्र और कवच को अन्तपाल ले लें, अथवा समुद्र में उतरवा दें।",
+  "why": "reviewer (minor): glossary anta-pāla = अन्तपाल; sārthika = caravan-member, not सार्थवाह-type 'सार्थवाले'"
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "Or, having set out on an expedition, he should set the army in motion.",
+  "new": "Or, having set out on a march, he should set the army in motion.",
+  "why": "reviewer (minor): glossary 9.1: yātrā of an army setting out = march"
+ },
+ {
+  "n": "42",
+  "field": "word.gloss",
+  "word": "yātrām",
+  "old": "expedition",
+  "new": "march",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Then the agents in the guise of traders should give all wares to the soldiers (āyudhīya) at the time of the expedition, to be taken back at double.",
+  "new": "Then the agents in the guise of traders should give all wares to the soldiers (āyudhīya) at the time of the march, to be taken back at double.",
+  "why": "reviewer (minor): as unit 42"
+ },
+ {
+  "n": "43",
+  "field": "word.gloss",
+  "word": "yātrā-kāle",
+  "old": "at the time of the expedition",
+  "new": "at the time of the march",
+  "why": "reviewer (minor): as unit 42"
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "yoga in rāja-paṇya-yoga-vikraya is left as 'yoga' (the possible senses are 'contrivance', 'application', 'combination'; the glossary yoga = secret contrivance (Book 12) or acquisition (6.2) are not clearly fitting). Alternative: 'sale in connection with the king's wares'. Sense not settled.",
+  "new": "yoga in rāja-paṇya-yoga-vikraya is left as 'yoga' (the possible senses are 'contrivance', 'application', 'combination'; the glossary yoga = secret contrivance (Book 12) or acquisition (6.2) are not clearly fitting). Alternative: 'sale in connection with the king's wares'. Sense not settled. Reviewer: yoga left as 'yoga' (योग); contrivance, application and combination all fit and are used in other books. A person must decide; no change made.",
+  "why": "reviewer (minor): yoga unsettled"
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "such",
+  "new": "closing particle (rendered 'such')",
+  "why": "reviewer (minor): brief: gloss iti as 'closing particle'"
+ }
+]
