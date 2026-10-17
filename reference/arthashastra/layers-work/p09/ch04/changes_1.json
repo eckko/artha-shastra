@@ -1,0 +1,105 @@
+[
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Acceptable (ādeya), retakable (pratyādeya), pacifying (prasādaka), provoking (prakopaka), of short duration, of slight loss, of little expenditure, great, of rising increase, sound, righteous and leading: such is the excellence of gain.",
+  "new": "Acceptable (ādeya), retakable (pratyādeya), pacifying (prasādaka), provoking (prakopaka), of short duration, of slight loss, of little expenditure, great, of rising increase, sound, righteous and leading: this is the excellence of gain.",
+  "why": "reviewer (minor): iti rendered as \"such is\"; closing iti of a list is not rendered"
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "such",
+  "new": "(closes the list)",
+  "why": "reviewer (minor): \"such\" for closing iti"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जो सरलता से प्राप्त हो, सरलता से सँभाला जा सके और दूसरों के द्वारा वापस न लिया जा सके, वह आदेय है।",
+  "new": "जो सरलता से प्राप्त हो, सँभाला जा सके और दूसरों के द्वारा वापस न लिया जा सके, वह आदेय है।",
+  "why": "reviewer (minor): second \"सरलता से\" added; Sanskrit has easily only on suprāpya (anupālya = to be kept)"
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "suprāpya-anupālyaḥ",
+  "old": "karmadhāraya, m. nom. sg.",
+  "new": "dvandva of adjectives, m. nom. sg.",
+  "why": "reviewer (minor): two adjectives joined, not a karmadhāraya"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus (marks the term)",
+  "new": "(closes the definition)",
+  "why": "reviewer (minor): \"thus\" for iti"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "अथवा यदि वह देखे: \"वापस लिए जा सकने वाले लाभ को लेकर मैं कोश, दण्ड और संचय की रक्षा के प्रबन्धों को बहा दूँगा; खानों, सामग्रियों, हाथियों के वनों, सेतुओं, बाँधों और वणिक्-मार्गों को ऐसा कर दूँगा कि उनकी बहुमूल्य वस्तुएँ निकाल ली गई हों; इसकी प्रकृतियों को क्षीण करूँगा, उन्हें दूर हटवाऊँगा, अथवा आयोग से उन्हें प्रसन्न करूँगा; उन्हें दूसरा पक्ष प्रतियोग से कुपित करेगा; अथवा विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा; अथवा इसे अपरुद्ध मित्र सौंपूँगा; यहीं रहते हुए मित्र के अथवा अपने देश की चोरों और शत्रुओं से होने वाली पीड़ा का प्रतिकार करूँगा; इसके मित्र अथवा आश्रय को इसकी विगुणता ग्रहण कराऊँगा; तब वह शत्रु से विरक्त, इसके कुल के व्यक्ति को स्वीकार करेगा; अथवा सत्कार करके इसे भूमि दूँगा; साथ संगठित होकर उठा हुआ मित्र मेरा चिरकाल तक रहेगा\" — इस प्रकार वह वापस लिए जा सकने वाले लाभ को भी ले ले।",
+  "new": "अथवा यदि वह देखे: \"वापस लिए जा सकने वाले लाभ को लेकर मैं कोश, दण्ड और संचय की रक्षा के प्रबन्धों को बहा दूँगा; खानों, सामग्रियों, हाथियों के वनों, सेतुओं, बाँधों और वणिक्-मार्गों को ऐसा कर दूँगा कि उनकी बहुमूल्य वस्तुएँ निकाल ली गई हों; इसकी प्रकृतियों को क्षीण करूँगा, उन्हें दूर हटवाऊँगा, अथवा आयोग से उन्हें प्रसन्न करूँगा; उन्हें दूसरा प्रतियोग से कुपित करेगा; अथवा विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा; अथवा इसे अपरुद्ध मित्र सौंपूँगा; यहीं रहते हुए मित्र के अथवा अपने देश की चोरों और शत्रुओं से होने वाली पीड़ा का प्रतिकार करूँगा; इसके मित्र अथवा आश्रय को इसकी विगुणता ग्रहण कराऊँगा; तब वह शत्रु से विरक्त, इसके कुल के व्यक्ति को स्वीकार करेगा; अथवा सत्कार करके इसे भूमि दूँगा; साथ संगठित होकर उठा हुआ मित्र मेरा चिरकाल तक रहेगा\" — इस प्रकार वह वापस लिए जा सकने वाले लाभ को भी ले ले।",
+  "why": "reviewer (minor): पक्ष added to para; English marks \"[party]\" but Hindi cannot bracket"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "अथवा यदि वह देखे: \"वापस लिए जा सकने वाले लाभ को लेकर मैं कोश, दण्ड और संचय की रक्षा के प्रबन्धों को बहा दूँगा; खानों, सामग्रियों, हाथियों के वनों, सेतुओं, बाँधों और वणिक्-मार्गों को ऐसा कर दूँगा कि उनकी बहुमूल्य वस्तुएँ निकाल ली गई हों; इसकी प्रकृतियों को क्षीण करूँगा, उन्हें दूर हटवाऊँगा, अथवा आयोग से उन्हें प्रसन्न करूँगा; उन्हें दूसरा प्रतियोग से कुपित करेगा; अथवा विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा; अथवा इसे अपरुद्ध मित्र सौंपूँगा; यहीं रहते हुए मित्र के अथवा अपने देश की चोरों और शत्रुओं से होने वाली पीड़ा का प्रतिकार करूँगा; इसके मित्र अथवा आश्रय को इसकी विगुणता ग्रहण कराऊँगा; तब वह शत्रु से विरक्त, इसके कुल के व्यक्ति को स्वीकार करेगा; अथवा सत्कार करके इसे भूमि दूँगा; साथ संगठित होकर उठा हुआ मित्र मेरा चिरकाल तक रहेगा\" — इस प्रकार वह वापस लिए जा सकने वाले लाभ को भी ले ले।",
+  "new": "अथवा यदि वह देखे: \"वापस लिए जा सकने वाले लाभ को लेकर मैं कोश, दण्ड और संचय की रक्षा के प्रबन्धों को बहा दूँगा; खानों, सामग्रियों, हाथियों के वनों, सेतुओं, बाँधों और वणिक्-मार्गों को ऐसा कर दूँगा कि उनकी बहुमूल्य वस्तुएँ निकाल ली गई हों; इसकी प्रकृतियों को क्षीण करूँगा, उन्हें दूर हटवाऊँगा, अथवा आयोग से उन्हें प्रसन्न करूँगा; उन्हें दूसरा प्रतियोग से कुपित करेगा; अथवा इसके विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा; अथवा इसे अपरुद्ध मित्र सौंपूँगा; यहीं रहते हुए मित्र के अथवा अपने देश की चोरों और शत्रुओं से होने वाली पीड़ा का प्रतिकार करूँगा; इसके मित्र अथवा आश्रय को इसकी विगुणता ग्रहण कराऊँगा; तब वह शत्रु से विरक्त, इसके कुल के व्यक्ति को स्वीकार करेगा; अथवा सत्कार करके इसे भूमि दूँगा; साथ संगठित होकर उठा हुआ मित्र मेरा चिरकाल तक रहेगा\" — इस प्रकार वह वापस लिए जा सकने वाले लाभ को भी ले ले।",
+  "why": "reviewer (error): asya dropped (English has \"his rival side\")"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "अथवा यदि वह देखे: \"वापस लिए जा सकने वाले लाभ को लेकर मैं कोश, दण्ड और संचय की रक्षा के प्रबन्धों को बहा दूँगा; खानों, सामग्रियों, हाथियों के वनों, सेतुओं, बाँधों और वणिक्-मार्गों को ऐसा कर दूँगा कि उनकी बहुमूल्य वस्तुएँ निकाल ली गई हों; इसकी प्रकृतियों को क्षीण करूँगा, उन्हें दूर हटवाऊँगा, अथवा आयोग से उन्हें प्रसन्न करूँगा; उन्हें दूसरा प्रतियोग से कुपित करेगा; अथवा इसके विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा; अथवा इसे अपरुद्ध मित्र सौंपूँगा; यहीं रहते हुए मित्र के अथवा अपने देश की चोरों और शत्रुओं से होने वाली पीड़ा का प्रतिकार करूँगा; इसके मित्र अथवा आश्रय को इसकी विगुणता ग्रहण कराऊँगा; तब वह शत्रु से विरक्त, इसके कुल के व्यक्ति को स्वीकार करेगा; अथवा सत्कार करके इसे भूमि दूँगा; साथ संगठित होकर उठा हुआ मित्र मेरा चिरकाल तक रहेगा\" — इस प्रकार वह वापस लिए जा सकने वाले लाभ को भी ले ले।",
+  "new": "अथवा यदि वह देखे: \"वापस लिए जा सकने वाले लाभ को लेकर मैं कोश, दण्ड और संचय की रक्षा के प्रबन्धों को बहा दूँगा; खानों, सामग्रियों, हाथियों के वनों, सेतुओं, बाँधों और वणिक्-मार्गों को ऐसा कर दूँगा कि उनकी बहुमूल्य वस्तुएँ निकाल ली गई हों; इसकी प्रकृतियों को क्षीण करूँगा, उन्हें दूर हटवाऊँगा, अथवा आयोग से उन्हें प्रसन्न करूँगा; उन्हें दूसरा प्रतियोग से कुपित करेगा; अथवा इसके विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा; अथवा इसे अपरुद्ध मित्र सौंपूँगा; यहीं रहते हुए मित्र के अथवा अपने देश की चोरों और शत्रुओं से होने वाली पीड़ा का प्रतिकार करूँगा; इसके मित्र अथवा आश्रय को विगुणता ग्रहण कराऊँगा; तब वह शत्रु से विरक्त, इसके कुल के व्यक्ति को स्वीकार करेगा; अथवा सत्कार करके इसे भूमि दूँगा; साथ संगठित होकर उठा हुआ मित्र मेरा चिरकाल तक रहेगा\" — इस प्रकार वह वापस लिए जा सकने वाले लाभ को भी ले ले।",
+  "why": "reviewer (minor): Sanskrit has one asya (with mitram āśrayam vā); second \"इसकी\" is an unmarked addition"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Or if he should see: \"Having taken the retakable [gain], I shall cause the arrangements for the protection of the treasury, army and stores [of his] to drain away; I shall make [his] mines, materials, elephant forests, embankments, dams and trade routes with their valuables taken out; I shall weaken his constituent elements, I shall draw them away, or I shall win them over by āyoga; the other [party] will provoke them by pratiyoga; or I shall make him an article of trade in his rival side; or I shall present to him a shut-out (aparuddha) ally; staying here, I shall remedy the affliction of an ally's or of my own region from thieves and from enemies; I shall make his ally or his support grasp his defectiveness; then [he] will accept [one who is] estranged from the enemy [and] of his family; or, having honoured [him], I shall give him land — an ally united and risen together [with me] will be mine for a long time,\" he should take even a retakable gain.",
+  "new": "Or if he should see: \"Having taken the retakable [gain], I shall cause the arrangements for the protection of the treasury, army and stores [of his] to drain away; I shall make [his] mines, materials, elephant forests, embankments, dams and trade routes with their valuables taken out; I shall weaken his constituent elements, I shall draw them away, or I shall win them over by āyoga; the other [party] will provoke them by pratiyoga; or I shall make him an article of trade in his rival side; or I shall present to him a shut-out (aparuddha) ally; staying here, I shall remedy the affliction of an ally's or of my own region from thieves and from enemies; I shall make his ally or his support grasp [his] defectiveness; then [he] will accept [one who is] estranged from the enemy [and] of his family; or, having honoured [him], I shall give him land — an ally united and risen together [with me] will be mine for a long time,\" he should take even a retakable gain.",
+  "why": "reviewer (minor): unmarked \"his\""
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "अथवा यदि वह देखे: \"वापस लिए जा सकने वाले लाभ को लेकर मैं कोश, दण्ड और संचय की रक्षा के प्रबन्धों को बहा दूँगा; खानों, सामग्रियों, हाथियों के वनों, सेतुओं, बाँधों और वणिक्-मार्गों को ऐसा कर दूँगा कि उनकी बहुमूल्य वस्तुएँ निकाल ली गई हों; इसकी प्रकृतियों को क्षीण करूँगा, उन्हें दूर हटवाऊँगा, अथवा आयोग से उन्हें प्रसन्न करूँगा; उन्हें दूसरा प्रतियोग से कुपित करेगा; अथवा इसके विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा; अथवा इसे अपरुद्ध मित्र सौंपूँगा; यहीं रहते हुए मित्र के अथवा अपने देश की चोरों और शत्रुओं से होने वाली पीड़ा का प्रतिकार करूँगा; इसके मित्र अथवा आश्रय को विगुणता ग्रहण कराऊँगा; तब वह शत्रु से विरक्त, इसके कुल के व्यक्ति को स्वीकार करेगा; अथवा सत्कार करके इसे भूमि दूँगा; साथ संगठित होकर उठा हुआ मित्र मेरा चिरकाल तक रहेगा\" — इस प्रकार वह वापस लिए जा सकने वाले लाभ को भी ले ले।",
+  "new": "अथवा यदि वह देखे: \"वापस लिए जा सकने वाले लाभ को लेकर मैं कोश, दण्ड और संचय की रक्षा के प्रबन्धों को बहा दूँगा; खानों, सामग्रियों, हाथियों के वनों, सेतुओं, बाँधों और वणिक्-मार्गों को ऐसा कर दूँगा कि उनकी बहुमूल्य वस्तुएँ निकाल ली गई हों; इसकी प्रकृतियों को क्षीण करूँगा, उन्हें दूर हटवाऊँगा, अथवा आयोग से उन्हें प्रसन्न करूँगा; उन्हें दूसरा प्रतियोग से कुपित करेगा; अथवा इसके विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा; अथवा इसे अपरुद्ध मित्र सौंपूँगा; यहीं रहते हुए मित्र के अथवा अपने देश की चोरों और शत्रुओं से होने वाली पीड़ा का प्रतिकार करूँगा; इसके मित्र अथवा आश्रय को विगुणता ग्रहण कराऊँगा; तब वह शत्रु से विरक्त, इसके कुल के व्यक्ति को स्वीकार करेगा; अथवा सत्कार करके इसे भूमि दूँगा; साथ संगठित होकर उठा हुआ मित्र मेरा चिरकाल तक रहेगा\" वह वापस लिए जा सकने वाले लाभ को भी ले ले।",
+  "why": "reviewer (error): closing iti rendered as \"इस प्रकार\" although notes say it is not rendered"
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "param",
+  "old": "m. nom. sg.",
+  "new": "as printed paraṃ (adv. \"further\"?); m. nom. sg. only if paraḥ is meant",
+  "why": "reviewer (minor): printed paraṃ cannot be m. nom. sg. (that would be paraḥ)"
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "aparuddham",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg.",
+  "why": "reviewer (minor): tagged m. while the agreeing mitram is tagged n."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "LOW-CERTAINTY LINE; a long quoted plan of 11 clauses. (1) param: read as \"the other\" (para, m. nom. sg.) subject of kopayiṣyati; alternatively the adverb \"afterwards/but\"; who \"the other\" is is not stated. (2) āyoga and pratiyoga are obscure here: kept as printed (literally \"application/assignment\" and \"counter-application\"); not glossed further. (3) pratipakṣe vā-asya paṇyam enaṃ kariṣyāmi: asya taken with pratipakṣe (\"in his rival side\"); enam = him; the persons are not named. (4) mitram aparuddhaṃ vā-asya pratipādayiṣyāmi: aparuddha rendered literally \"shut out\" (glossary 12.1 gives \"in disfavour\" for a prince); asya taken as \"to him\"; it could also be \"his ally ... I shall hand over\". (5) khani-dravya-hasti-vana-setu-bandha-vaṇik-pathān: grouping uncertain (\"produce-forests and elephant forests\" is possible). (6) grāhayiṣyāmi = causative of grah, \"make him grasp/take up\". (7) tad ... pratipatsyate: subject not stated (the ally/support?); amitra-virakta could be \"estranged from the enemy\" or \"alienated by the enemy\"; tat-kulīna = member of his family (glossary). (8) The first iti (after dāsyāmi) is internal and is rendered by a dash, the second closes the quotation and is not rendered. \"[ones]\" supplied. The e-text puts \"-\" in āyogena-ārādhayiṣyāmi and vā-asya/vā-asmai (unsandhied joins).",
+  "new": "LOW-CERTAINTY LINE; a long quoted plan of 11 clauses. (1) param: read as \"the other\" (para, m. nom. sg.) subject of kopayiṣyati; alternatively the adverb \"afterwards/but\"; who \"the other\" is is not stated. (2) āyoga and pratiyoga are obscure here: kept as printed (literally \"application/assignment\" and \"counter-application\"); not glossed further. (3) pratipakṣe vā-asya paṇyam enaṃ kariṣyāmi: asya taken with pratipakṣe (\"in his rival side\"); enam = him; the persons are not named. (4) mitram aparuddhaṃ vā-asya pratipādayiṣyāmi: aparuddha rendered literally \"shut out\" (glossary 12.1 gives \"in disfavour\" for a prince); asya taken as \"to him\"; it could also be \"his ally ... I shall hand over\". (5) khani-dravya-hasti-vana-setu-bandha-vaṇik-pathān: grouping uncertain (\"produce-forests and elephant forests\" is possible). (6) grāhayiṣyāmi = causative of grah, \"make him grasp/take up\". (7) tad ... pratipatsyate: subject not stated (the ally/support?); amitra-virakta could be \"estranged from the enemy\" or \"alienated by the enemy\"; tat-kulīna = member of his family (glossary). (8) The first iti (after dāsyāmi) is internal and is rendered by a dash, the second closes the quotation and is not rendered. \"[ones]\" supplied. The e-text puts \"-\" in āyogena-ārādhayiṣyāmi and vā-asya/vā-asmai (unsandhied joins). REVIEW: (a) printed paraṃ may be a typo for paraḥ (subject of kopayiṣyati); no text_flag could be added. (b) In \"mitram aparuddhaṃ vā-asya\" and \"mitram āśrayaṃ vā-asya\" vā may link two objects (\"an ally or an aparuddha / an ally or a support\"); the rendering \"shut-out ally\" is literal and unsettled. (c) khani-dravya-hasti-vana: dravya-vana and hasti-vana may be the pair \"[produce]-forests and elephant forests\"; kept literal. A person should check the whole plan.",
+  "why": "reviewer (minor): parallel with \"mitram āśrayaṃ vā-asya\" suggests \"an ally or an aparuddha\" (vā linking two objects); draft reads aparuddha as adjective of mitram; param may be a typo for paraḥ; person to decide"
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "Obscure items, rendered literally: anārya-bhāva (ignoble state; it is odd as an obstacle); atyāgitva (a-tyāgin \"not abandoning\", perhaps reluctance to give up comforts, or illiberality); sādhvasa (dismay/alarm, distinct from bhaya); hasta-gata-avamāna (disregard of what is already in hand); apratīkāra (failure to remedy/counter); ākṣamya (inability to endure; ā-kṣamya read as a-kṣamya); maṅgala-tithi-nakṣatra-iṣṭitva (iṣṭitva = state of being desired/pursued; maṅgala may qualify tithi and nakṣatra, \"auspicious lunar days and mansions\"). The \"-\" after lābha-vighnāḥ is the e-text's punctuation. Closing iti not rendered.",
+  "new": "Obscure items, rendered literally: anārya-bhāva (ignoble state; it is odd as an obstacle); atyāgitva (a-tyāgin \"not abandoning\", perhaps reluctance to give up comforts, or illiberality); sādhvasa (dismay/alarm, distinct from bhaya); hasta-gata-avamāna (disregard of what is already in hand); apratīkāra (failure to remedy/counter); ākṣamya (inability to endure; ā-kṣamya read as a-kṣamya); maṅgala-tithi-nakṣatra-iṣṭitva (iṣṭitva = state of being desired/pursued; maṅgala may qualify tithi and nakṣatra, \"auspicious lunar days and mansions\"). The \"-\" after lābha-vighnāḥ is the e-text's punctuation. Closing iti not rendered. REVIEW: Hindi मंगल is kept for maṅgala and may be misread as the planet; ākṣamya may be a typo for akṣamatva (no text_flag could be added); atyāgitva could also be illiberality; all kept literal.",
+  "why": "reviewer (minor): Hindi मंगल could be read as the planet Mars; Sanskrit maṅgala unclear"
+ }
+]

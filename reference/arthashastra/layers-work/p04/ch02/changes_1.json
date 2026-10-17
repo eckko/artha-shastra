@@ -1,0 +1,111 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The superintendent of the saṃsthā should establish, in the paṇya-saṃsthā (the establishment for wares), the pledge or sale of old goods that are cleared by their own documents.",
+  "new": "The superintendent of the saṃsthā should establish, in the paṇya-saṃsthā (the establishment for wares), the pledge or sale of old goods that are cleared by their own means of proof.",
+  "why": "reviewer (minor): karaṇa rendered 'documents' is an unsupported narrowing; 4.1 (unit 55) renders sva-karaṇa as 'his own means of proof'"
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "संस्थाध्यक्ष पण्य-संस्था में अपने दस्तावेज़ों से विशुद्ध पुराने माल के गिरवी रखने या बेचने की व्यवस्था स्थापित करे।",
+  "new": "संस्थाध्यक्ष पण्य-संस्था में अपने प्रमाण से विशुद्ध पुराने माल के गिरवी रखने या बेचने की व्यवस्था स्थापित करे।",
+  "why": "reviewer (minor): same as English; align with 4.1 (अपने प्रमाण)"
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "sva-karaṇa-viśuddhānām",
+  "old": "cleared by their own documents",
+  "new": "cleared by their own means of proof",
+  "why": "reviewer (minor): align gloss with 4.1"
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "saṃsthā is left as saṃsthā (commonly taken as \"market\" or \"standing establishment\"); the office is not translated further. karaṇa is rendered \"document\" (alternative: \"means, instrument\"); sva-karaṇa-viśuddha could also mean \"cleared by their own means\". sthāpayet is caus. \"should cause to stand / establish\"; the object (ādhāna, vikraya) is not further specified.",
+  "new": "saṃsthā is left as saṃsthā (commonly taken as \"market\" or \"standing establishment\"); the office is not translated further. karaṇa is rendered \"means of proof\" as in 4.1 (alternatives: \"document\", \"instrument\"); sva-karaṇa-viśuddha could also mean \"cleared by their own means\". sthāpayet is caus. \"should cause to stand / establish\"; the object (ādhāna, vikraya) is not further specified.",
+  "why": "reviewer (minor): note must match the new rendering"
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "In the e-text \"āḍhakasya-ardha\" is an unsandhied join of two words (the print has sandhi).",
+  "new": "In the e-text \"āḍhakasya-ardha\" is an unsandhied join of two words (the sandhied form would be āḍhakasyārdha).",
+  "why": "reviewer (minor): claims about the print cannot be checked; say only what the e-text shows"
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "tulā-māna-viśeṣāṇām",
+  "old": "n. gen. pl.",
+  "new": "tat-puruṣa, m. gen. pl.",
+  "why": "reviewer (minor): viśeṣa is masculine, so the compound is m., not n."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "ājīva is left as \"livelihood\"; it may mean livelihood-profit or wages, and the sense \"a rise in\" it is probably meant but is not stated. samutthāpayatām governs all three objects. The unit of the fine is not stated.",
+  "new": "ājīva is left as \"livelihood\"; it may mean livelihood-profit or wages, and a sense such as \"raising of\" the livelihood (their rate of earnings) is possible but is not stated. samutthāpayatām governs all three objects. The unit of the fine is not stated.",
+  "why": "reviewer (minor): garbled sentence ('the sense \"a rise in\" it is probably meant')"
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "kṣāra follows the glossary (sugar); its literal sense is \"alkali, ash-salt\". sneha = oil or fat. Whether gandha and bhaiṣajya are two further members or modify dravya is not settled; here \"fragrant things and medicinal things\". The thing added is not named in the Sanskrit (sama-varṇa-upadhāna = adding of like colour).",
+  "new": "kṣāra follows the glossary (sugar); its literal sense is \"alkali, ash-salt\". sneha = oil or fat. Whether gandha and bhaiṣajya are two further members or modify dravya is not settled; here \"fragrant things and medicinal things\". The thing added is not named in the Sanskrit (sama-varṇa-upadhāna = adding of like colour). Hindi क्षार (Hindi usage: alkali, ash-salt) and English 'sugar' differ in sense; kept as the glossary fixes them, but a person should decide sugar vs alkali for kṣāra in 4.2.22 and in the 12.5 supply lists.",
+  "why": "reviewer (minor): English 'sugar' (glossary 12.5 line) but Hindi क्षार reads as alkali; the glossary line is doubtful in a sale list"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "जो दिया गया हो और जिससे वे निर्वाह करें, उसे इनके दिन में उत्पन्न होने वाले को गिनकर वणिक् निश्चित करे।",
+  "new": "जो दिया गया हो, जिससे वे निर्वाह करें, उसे—इनके दिन में उत्पन्न होने वाले को—गिनकर वणिक् निश्चित करे।",
+  "why": "reviewer (minor): 'और' is added; Sanskrit has no conjunction (yan niṣṛṣṭam upajīveyuḥ); also the tad clause is unclear"
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "anujñāta-krayāt",
+  "old": "than the permitted purchase",
+  "new": "the permitted purchase (abl. with upari)",
+  "why": "reviewer (minor): 'than the permitted purchase' is wrong for upari + ablative ('above/beyond')"
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "Having reckoned the addition (prakṣepa), the production of the wares, the toll, the increase, the avakraya and the other expenditures, one who knows prices should fix the price.",
+  "new": "Having reckoned the addition (prakṣepa), the production of the wares, the toll, the increase, the hire (avakraya) and the other expenditures, one who knows prices should fix the price.",
+  "why": "reviewer (error): avakraya is 'hire' in 4.1 (unit 17) and 5.2 (avakrītaka 'hired'); leaving it untranslated here is inconsistent"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "मूल्य जानने वाला प्रक्षेप, माल की निष्पत्ति, शुल्क, वृद्धि, अवक्रय और अन्य व्ययों की गणना करके मूल्य स्थापित करे।",
+  "new": "मूल्य जानने वाला प्रक्षेप, माल की निष्पत्ति, शुल्क, वृद्धि, किराया और अन्य व्ययों की गणना करके मूल्य स्थापित करे।",
+  "why": "reviewer (error): align with 4.1 and 5.2 (किराया)"
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "avakrayam",
+  "old": "avakraya",
+  "new": "hire (avakraya)",
+  "why": "reviewer (minor): align gloss"
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "GROUPING: this verse completes the sentence begun at the end of unit 35 (\"But of wares separated by place and time —\"); read together: \"of wares separated by place and time, one who knows prices should fix the price after reckoning ...\". prakṣepa (\"addition, outlay\") and vṛddhi (\"increase\", possibly interest) are rendered literally; avakraya is kept untranslated (possibly \"hire, rent\" or \"buying back\"), sense uncertain.",
+  "new": "GROUPING: this verse completes the sentence begun at the end of unit 35 (\"But of wares separated by place and time —\"); read together: \"of wares separated by place and time, one who knows prices should fix the price after reckoning ...\". prakṣepa (\"addition, outlay\") and vṛddhi (\"increase\", possibly interest) are rendered literally; avakraya is rendered \"hire\" as in 4.1 and 5.2 (alternative: \"buying back\"); sense uncertain.",
+  "why": "reviewer (minor): note must match"
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "GROUPING: this verse completes the sentence begun at the end of unit 35 (\"But of wares separated by place and time —\"); read together: \"of wares separated by place and time, one who knows prices should fix the price after reckoning ...\". prakṣepa (\"addition, outlay\") and vṛddhi (\"increase\", possibly interest) are rendered literally; avakraya is rendered \"hire\" as in 4.1 and 5.2 (alternative: \"buying back\"); sense uncertain.",
+  "new": "GROUPING: this verse completes the sentence begun at the end of unit 35 (\"But of wares separated by place and time —\"); read together: \"of wares separated by place and time, one who knows prices should fix the price after reckoning ...\". prakṣepa (\"addition, outlay\") and vṛddhi (\"increase\", possibly interest) are rendered literally; avakraya is rendered \"hire\" as in 4.1 and 5.2 (alternative: \"buying back\"); sense uncertain. vyayān anyāṃś ca can also be read literally 'the expenditures and others'.",
+  "why": "reviewer (minor): 'other expenditures' takes anyān as an adjective; literally 'expenditures and others'"
+ }
+]

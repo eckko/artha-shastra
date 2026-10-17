@@ -1,0 +1,447 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sāma-ādibhiḥ",
+     "problem": "sāma-ādi is a bahuvrīhi (sāma etc.), not a dvandva",
+     "fix": "m. inst. pl.; bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sāma-ādibhiḥ",
+      "field": "gram",
+      "value": "m. inst. pl.; bahuvrīhi",
+      "n": "6"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "साम आदि उपायों द्वारा",
+     "problem": "'उपायों' is not in the Sanskrit (sāma-ādibhiḥ)",
+     "fix": "साम आदि के द्वारा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "साम आदि उपायों द्वारा",
+      "new": "साम आदि के द्वारा",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Because of the mixing of",
+     "problem": "āmiśrita-tva is 'state of being mixed' (as the gloss says), not 'mixing'",
+     "fix": "Because of the treasonable and the non-treasonable being mixed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Because of the mixing of the treasonable and the non-treasonable",
+      "new": "Because of the treasonable and the non-treasonable being mixed",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "iccheta",
+     "problem": "Printed 'icched' can only be parasmaipada icchet (√iṣ, icchati); iccheta (ātmanepada) would not give 'icched'",
+     "fix": "icchet",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "iccheta",
+      "field": "w",
+      "value": "icchet",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "upakārān apakārābhyāṃ",
+     "problem": "Case mismatch (acc. vs dual) is odd; the printed pair may be a typed split of one compound upakāra-apakārābhyām ('by benefits and injuries of the three times'); the draft has no text_flag for it (cannot be added by patch)",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: 'traikālya.upakārān apakārābhyāṃ' may be one compound 'traikālya-upakāra-apakārābhyām' (by benefits and injuries of the three times) mis-typed; left as printed, a person should check the edition.",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "make [it] grasped",
+     "problem": "unnatural; use settled rendering for grāhayet (as chunk 2 unit 38-48: cause to be seized)",
+     "fix": "Then the secret agents should cause [it] to be seized among the others",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should make [it] grasped",
+      "new": "should cause [it] to be seized",
+      "n": "30"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ग्रहण कराएँ",
+     "problem": "use पकड़वाएँ as in chunk 2",
+     "fix": "पकड़वाएँ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ग्रहण कराएँ",
+      "new": "पकड़वाएँ",
+      "n": "30"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "grāhayeyuḥ",
+     "problem": "gloss 'should make grasp'",
+     "fix": "should cause to be seized",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "grāhayeyuḥ",
+      "field": "gloss",
+      "value": "should cause to be seized",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "paṇyam",
+     "problem": "neuter -am is nom. or acc.; the clause is unclear (paṇyam may be an object of an implied verb), so a firm 'nom.' is not safe",
+     "fix": "n. nom. or acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "paṇyam",
+      "field": "gram",
+      "value": "n. nom. or acc. sg.",
+      "n": "31"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śatru-prakhyātam",
+     "problem": "neuter -am is nom. or acc.; the clause is unclear (paṇyam may be an object of an implied verb), so a firm 'nom.' is not safe",
+     "fix": "n. nom. or acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śatru-prakhyātam",
+      "field": "gram",
+      "value": "n. nom. or acc. sg.",
+      "n": "31"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "avijñātam",
+     "problem": "neuter -am is nom. or acc.; the clause is unclear (paṇyam may be an object of an implied verb), so a firm 'nom.' is not safe",
+     "fix": "n. nom. or acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "avijñātam",
+      "field": "gram",
+      "value": "n. nom. or acc. sg.",
+      "n": "31"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "make [it] grasped",
+     "problem": "as unit 30",
+     "fix": "should cause [it] to be seized",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should make [it] grasped",
+      "new": "should cause [it] to be seized",
+      "n": "33"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ग्रहण कराएँ",
+     "problem": "as unit 30",
+     "fix": "पकड़वाएँ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ग्रहण कराएँ",
+      "new": "पकड़वाएँ",
+      "n": "33"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "grāhayeyuḥ",
+     "problem": "as unit 30",
+     "fix": "should cause to be seized",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "grāhayeyuḥ",
+      "field": "gloss",
+      "value": "should cause to be seized",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mahā-aparādhān",
+     "problem": "Labelled m. acc. pl. 'karmadhāraya' with gloss 'those with great offences' while the note says it means 'great offences': persons are the object of upagṛhya/praṇidadhyāt, so it is a bahuvrīhi 'those of great offences'; no bracket needed",
+     "fix": "m. acc. pl.; bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mahā-aparādhān",
+      "field": "gram",
+      "value": "m. acc. pl.; bahuvrīhi",
+      "n": "34"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[those guilty of] great offences",
+     "problem": "bracketed supply unnecessary if bahuvrīhi",
+     "fix": "those of great offences",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[those guilty of] great offences",
+      "new": "those of great offences",
+      "n": "34"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "mahā-aparādhān",
+     "problem": "note contradicts reading",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: mahā-aparādha-ān is read as a bahuvrīhi 'those of great offences' (persons), so no persons are supplied.",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपने अधिकार में लेकर",
+     "problem": "adds 'अपने अधिकार' (possession) not in upa-√grah 'taken hold of'",
+     "fix": "पकड़कर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने अधिकार में लेकर",
+      "new": "पकड़कर",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 1 (37 units): 8 error-free-to-minor patch groups; 1 error (unit 14 icchet), the rest minor: gram of sāma-ādi (6), 'mixing' (8), mahā-aparādhān (34), grāhayet renderings aligned to 'cause to be seized' (30, 33), neuter case ambiguity (31), Hindi upagṛhya (36), extra 'उपायों' (6). No regrouping suggested. Cannot be patched: unit 21 possible typed split 'upakārān apakārābhyāṃ' (should be a text_flag); unit 27 text_flag karma.kariṣyati is sound; units 5, 7, 22, 24, 31 stay low confidence with literal renderings; unit 29 'paṇa.śeṣam' might be a slip for paṇya-śeṣam (no flag exists)."
+}

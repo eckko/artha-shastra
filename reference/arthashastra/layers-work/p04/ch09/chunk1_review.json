@@ -1,0 +1,1099 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pure death.",
+     "problem": "śuddha-vadha = plain killing (glossary 4.10/4.11), \"pure death\" reads as a sense of death-penalty",
+     "fix": "plain killing.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "pure death.",
+      "new": "plain killing."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śuddha-vadhaḥ",
+     "problem": "align with glossary 4.10/4.11",
+     "fix": "plain killing (literally \"pure killing\")",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "śuddha-vadhaḥ",
+      "field": "gloss",
+      "value": "plain killing (literally \"pure killing\")"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of twelve paṇas",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "a penalty of twelve paṇas",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "a fine of twelve paṇas",
+      "new": "a penalty of twelve paṇas"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the middle [fine]",
+     "problem": "bare madhyama/uttama: nothing supplied (glossary 4.11)",
+     "fix": "the middle",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "the middle [fine]",
+      "new": "the middle"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the highest [fine]",
+     "problem": "bare madhyama/uttama: nothing supplied (glossary 4.11)",
+     "fix": "the highest",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "the highest [fine]",
+      "new": "the highest"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ten paṇas,” death.",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "ten paṇas,” killing.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "ten paṇas,” death.",
+      "new": "ten paṇas,” killing."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vadhaḥ",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "killing",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "vadhaḥ",
+      "field": "gloss",
+      "value": "killing"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record the settled renderings and the typing variance",
+     "fix": "Glossary 4.9: daṇḍa = penalty, vadha = killing; the earlier remark \"vadha = death\" is superseded. pāda = quarter (of a paṇa) is the settled rendering; Hindi keeps पाद. Typed text has ā.catuṣpaṇa here but ā.catuṣ.paṇa in unit 9 (same word, no change of sense).",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "Glossary 4.9: daṇḍa = penalty, vadha = killing; the earlier remark \"vadha = death\" is superseded. pāda = quarter (of a paṇa) is the settled rendering; Hindi keeps पाद. Typed text has ā.catuṣpaṇa here but ā.catuṣ.paṇa in unit 9 (same word, no change of sense)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "same fines [apply]",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "same penalties [apply]",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "same fines [apply]",
+      "new": "same penalties [apply]"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍāḥ",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalties",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "daṇḍāḥ",
+      "field": "gloss",
+      "value": "penalties"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "same fines [are] doubled",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "same penalties [are] doubled",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "same fines [are] doubled",
+      "new": "same penalties [are] doubled"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍāḥ",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalties",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "daṇḍāḥ",
+      "field": "gloss",
+      "value": "penalties"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a killing of various kinds.",
+     "problem": "citra ghāta = varied killing (glossary 4.11)",
+     "fix": "a varied killing.",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "a killing of various kinds.",
+      "new": "a varied killing."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनेक प्रकार का घात है",
+     "problem": "align with 4.11 \"विविध प्रकार\")",
+     "fix": "विविध प्रकार का घात है",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनेक प्रकार का घात है",
+      "new": "विविध प्रकार का घात है"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "citraḥ",
+     "problem": "align with 4.11",
+     "fix": "varied",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "citraḥ",
+      "field": "gloss",
+      "value": "varied"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of three paṇas",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "a penalty of three paṇas",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "a fine of three paṇas",
+      "new": "a penalty of three paṇas"
+     }
+    },
+    {
+     "field": "english",
+     "where": "paṇas,” death.",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "paṇas,” killing.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "paṇas,” death.",
+      "new": "paṇas,” killing."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "छह पण, गोबर की राख",
+     "problem": "the Sanskrit has vā after gomaya-bhasmanā here as in the other ranges; Hindi dropped \"अथवा\" (English has [or])",
+     "fix": "छह पण, अथवा गोबर की राख",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "छह पण, गोबर की राख",
+      "new": "छह पण, अथवा गोबर की राख"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vadhaḥ",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "killing",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "vadhaḥ",
+      "field": "gloss",
+      "value": "killing"
+     }
+    },
+    {
+     "field": "w",
+     "where": "ā-catuṣ-paṇa-mūlyāt",
+     "problem": "dictionary form: catuḥ (visarga sandhi before p) not catuṣ",
+     "fix": "ā-catuḥ-paṇa-mūlyāt",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "ā-catuṣ-paṇa-mūlyāt",
+      "field": "w",
+      "value": "ā-catuḥ-paṇa-mūlyāt"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "list typos that need a person",
+     "fix": "Further typing points, no flag possible: \"vā- ā.catuṣ.paṇa.mūlyād\" has a stray space after the hyphen; the string \"gomaya.bhasmanā vā pralipya-avaghoṣaṇam\" occurs after the six-paṇa and after the nine-paṇa range and is kept as printed in the translation (probable dittography, see flags). Settled: daṇḍa = penalty, vadha = killing.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "Further typing points, no flag possible: \"vā- ā.catuṣ.paṇa.mūlyād\" has a stray space after the hyphen; the string \"gomaya.bhasmanā vā pralipya-avaghoṣaṇam\" occurs after the six-paṇa and after the nine-paṇa range and is kept as printed in the translation (probable dittography, see flags). Settled: daṇḍa = penalty, vadha = killing."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "same fines [apply]",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "same penalties [apply]",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "same fines [apply]",
+      "new": "same penalties [apply]"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍāḥ",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalties",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "daṇḍāḥ",
+      "field": "gloss",
+      "value": "penalties"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "same fines [are] doubled",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "same penalties [are] doubled",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "same fines [are] doubled",
+      "new": "same penalties [are] doubled"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍāḥ",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalties",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "daṇḍāḥ",
+      "field": "gloss",
+      "value": "penalties"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "highest [fines], and death",
+     "problem": "bare uttama: nothing supplied (4.11); vadha = killing",
+     "fix": "highest, and killing",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "highest [fines], and death",
+      "new": "highest, and killing"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍāḥ",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalties",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "daṇḍāḥ",
+      "field": "gloss",
+      "value": "penalties"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pūrva-madhya-uttama-vadhāḥ",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "first, middle, highest, killing",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "pūrva-madhya-uttama-vadhāḥ",
+      "field": "gloss",
+      "value": "first, middle, highest, killing"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "झूठे शासन और मुद्रा के कर्मों में",
+     "problem": "Hindi शासन alone reads as \"rule/government\" and मुद्रा as coin/posture; use आदेश and मुहर (kūṭa-śāsana-mudrā = false edicts and seals)",
+     "fix": "झूठे आदेशों और मुहरों के कर्मों में",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "झूठे शासन और मुद्रा के कर्मों में",
+      "new": "झूठे आदेशों और मुहरों के कर्मों में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tarjayati",
+     "problem": "tarjayati is a class-10 present, not a causative",
+     "fix": "3 sg. pres. √tarj (cl. 10)",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "tarjayati",
+      "field": "gram",
+      "value": "3 sg. pres. √tarj (cl. 10)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhartsayati",
+     "problem": "not a causative of a root bhartsay",
+     "fix": "3 sg. pres. √bhartsay (cl. 10)",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "bhartsayati",
+      "field": "gram",
+      "value": "3 sg. pres. √bhartsay (cl. 10)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "he should impose on him the first",
+     "problem": "the Sanskrit has no subject for kuryāt; \"he should impose on him\" makes the dharmastha impose on himself; supply a neutral bracketed \"[one]\"",
+     "fix": "[one] should impose on him the first",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "he should impose on him the first",
+      "new": "[one] should impose on him the first"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "he should impose on him the middle",
+     "problem": "the Sanskrit has no subject for kuryāt; \"he should impose on him\" makes the dharmastha impose on himself; supply a neutral bracketed \"[one]\"",
+     "fix": "[one] should impose on him the middle",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "he should impose on him the middle",
+      "new": "[one] should impose on him the middle"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पहले ही दे देता है",
+     "problem": "\"ही\" is an unmarked addition (pūrvam only)",
+     "fix": "पहले दे देता है",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पहले ही दे देता है",
+      "new": "पहले दे देता है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पूछता है, पूछकर छोड़ देता है",
+     "problem": "first vā (pṛṣṭvā vā) not rendered in Hindi",
+     "fix": "पूछता है, या पूछकर छोड़ देता है",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पूछता है, पूछकर छोड़ देता है",
+      "new": "पूछता है, या पूछकर छोड़ देता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "he should impose on him the highest",
+     "problem": "the Sanskrit has no subject for kuryāt; \"he should impose on him\" makes the dharmastha impose on himself; supply a neutral bracketed \"[one]\"",
+     "fix": "[one] should impose on him the highest",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "he should impose on him the highest",
+      "new": "[one] should impose on him the highest"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "फिर भी ग्रहण कर लेता है",
+     "problem": "Hindi फिर भी means \"even so/nevertheless\"; punar api = again (फिर से)",
+     "fix": "फिर से ग्रहण कर लेता है",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "फिर भी ग्रहण कर लेता है",
+      "new": "फिर से ग्रहण कर लेता है"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "deyam",
+     "problem": "gloss gives only the transliteration; add the literal sense, doubt stays",
+     "fix": "deya (literally \"to be given\"; sense of deya deśa unclear, left untranslated)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "deyam",
+      "field": "gloss",
+      "value": "deya (literally \"to be given\"; sense of deya deśa unclear, left untranslated)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "adeyam",
+     "problem": "same",
+     "fix": "adeya (literally \"not to be given\"; left untranslated)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "adeyam",
+      "field": "gloss",
+      "value": "adeya (literally \"not to be given\"; left untranslated)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "adeśena",
+     "problem": "same",
+     "fix": "by an adeśa (literally \"non-deśa\"; obscure, left untranslated)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "adeśena",
+      "field": "gloss",
+      "value": "by an adeśa (literally \"non-deśa\"; obscure, left untranslated)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "double [the fine]",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "double [the penalty]",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "double [the fine]",
+      "new": "double [the penalty]"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "he should impose on him the first",
+     "problem": "the Sanskrit has no subject for kuryāt; \"he should impose on him\" makes the dharmastha impose on himself; supply a neutral bracketed \"[one]\"",
+     "fix": "[one] should impose on him the first",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "he should impose on him the first",
+      "new": "[one] should impose on him the first"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "If a dharmastha",
+     "problem": "the Sanskrit has no cet here; the supplied \"If\" should be bracketed as in \"[If he]\" elsewhere",
+     "fix": "[If] a dharmastha",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "If a dharmastha",
+      "new": "[If] a dharmastha"
+     }
+    },
+    {
+     "field": "english",
+     "where": "money-fine on one who is not to be fined",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "money penalty on one who is not to be punished",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "money-fine on one who is not to be fined",
+      "new": "money penalty on one who is not to be punished"
+     }
+    },
+    {
+     "field": "english",
+     "where": "he should impose on him a fine of twice",
+     "problem": "the Sanskrit has no subject for kuryāt; \"he should impose on him\" makes the dharmastha impose on himself; supply a neutral bracketed \"[one]\"; daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "[one] should impose on him a penalty of twice",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "he should impose on him a fine of twice",
+      "new": "[one] should impose on him a penalty of twice"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hairaṇya-daṇḍam",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "money penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "hairaṇya-daṇḍam",
+      "field": "gloss",
+      "value": "money penalty"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "adaṇḍye",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "on one not to be punished",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "adaṇḍye",
+      "field": "gloss",
+      "value": "on one not to be punished"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍam",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "daṇḍam",
+      "field": "gloss",
+      "value": "penalty"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[of] that he should pay a fine eight times.",
+     "problem": "\"[of] that\" misplaces the tad of the compound tad-aṣṭa-guṇam (= eight times that); daṇḍa = penalty",
+     "fix": "he should pay a penalty eight times that.",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "[of] that he should pay a fine eight times.",
+      "new": "he should pay a penalty eight times that."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍam",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "daṇḍam",
+      "field": "gloss",
+      "value": "penalty"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fines [are]",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "the penalties [are]",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "the fines [are]",
+      "new": "the penalties [are]"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍāḥ",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "penalties",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "daṇḍāḥ",
+      "field": "gloss",
+      "value": "penalties"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भोजन, उच्चार,",
+     "problem": "Hindi उच्चार means pronunciation; English renders uccāra as evacuation",
+     "fix": "भोजन, मलत्याग,",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भोजन, उच्चार,",
+      "new": "भोजन, मलत्याग,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the entire property and death.",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "the entire property and killing.",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "the entire property and death.",
+      "new": "the entire property and killing."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vadhaḥ",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "killing",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "vadhaḥ",
+      "field": "gloss",
+      "value": "killing"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of twenty-four paṇas",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "a penalty of twenty-four paṇas",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "a fine of twenty-four paṇas",
+      "new": "a penalty of twenty-four paṇas"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a fine of ninety-six",
+     "problem": "daṇḍa = penalty in Book 4 (glossary 4.10); \"fine\" only in sāhasa-daṇḍa",
+     "fix": "a penalty of ninety-six",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "a fine of ninety-six",
+      "new": "a penalty of ninety-six"
+     }
+    },
+    {
+     "field": "english",
+     "where": "torments or extorts",
+     "problem": "utkoṭayati is obscure: English \"extorts\" is a guessed sense while the Hindi keeps उत्कोटन; keep it untranslated in both",
+     "fix": "torments or utkoṭayati",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "torments or extorts",
+      "new": "torments or utkoṭayati"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "utkoṭayataḥ",
+     "problem": "same",
+     "fix": "of one who utkoṭayati (obscure, untranslated)",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "utkoṭayataḥ",
+      "field": "gloss",
+      "value": "of one who utkoṭayati (obscure, untranslated)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record the doubt; two identical w entries cannot be patched",
+     "fix": "Glossary 4.9: utkoṭayati kept untranslated in English and Hindi; \"extorts\"/\"takes a bribe\" only as doubts. The two plain \"daṇḍaḥ\" word glosses (\"fine\") in this unit should read \"penalty\" (two identical w entries, not patchable).",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "append_note",
+      "text": "Glossary 4.9: utkoṭayati kept untranslated in English and Hindi; \"extorts\"/\"takes a bribe\" only as doubts. The two plain \"daṇḍaḥ\" word glosses (\"fine\") in this unit should read \"penalty\" (two identical w entries, not patchable)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "akṣaṇa-gṛhītāyām",
+     "problem": "gloss interprets while the English keeps akṣaṇa",
+     "fix": "seized at an akṣaṇa (obscure; perhaps \"inopportune time\")",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "akṣaṇa-gṛhītāyām",
+      "field": "gloss",
+      "value": "seized at an akṣaṇa (obscure; perhaps \"inopportune time\")"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "having broken [it]: death;",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "having broken [it]: killing;",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "having broken [it]: death;",
+      "new": "having broken [it]: killing;"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the entire property and death.",
+     "problem": "vadha as the penalty = killing (glossary 4.10), not \"death\"",
+     "fix": "the entire property and killing.",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "the entire property and death.",
+      "new": "the entire property and killing."
+     }
+    },
+    {
+     "field": "english",
+     "where": "the middle [fine];",
+     "problem": "bare madhyama: nothing supplied (glossary 4.11)",
+     "fix": "the middle;",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "the middle [fine];",
+      "new": "the middle;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "artha-carās",
+     "problem": "English plural is formed with plain -s (cf. pradeṣṭṛs)",
+     "fix": "artha-caras",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "artha-carās",
+      "new": "artha-caras"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "1 errors, 66 minor. Main points: Book 4 glossary alignment (daṇḍa = penalty, vadha = killing, śuddha-vadha = plain killing, citra ghāta = varied killing, bare madhyama/uttama), subject of kuryāt bracketed, Hindi फिर भी -> फिर से (unit 15), उच्चार -> मलत्याग (21), शासन/मुद्रा -> आदेश/मुहर (12), utkoṭayati kept untranslated (23). No regrouping suggested. Cannot patch (need a person): add text_flags for 9 stray space 'vā- ā.catuṣ.paṇa' and catuṣ.paṇa vs catuṣpaṇa (4 vs 9); two identical w entries 'daṇḍaḥ' in unit 23 and 'vadhaḥ' in unit 27 keep gloss 'fine'/'death' (should be penalty/killing). Drafter's 7 flags are sound (unit 9 five visarga-h typos, stray 'it', probable dittography of 'gomaya.bhasmanā vā pralipya-avaghoṣaṇam' after the nine-paṇa range; unit 4 ā.pāda is only possible, parallel ranges mark ā.). Units 5, 10, 11 literal 'of half/a fourth part of the values' accepted; bracketed supplied words accepted (Hindi supplies them unbracketed). Draft is an unreviewed AI draft."
+}

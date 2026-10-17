@@ -1,0 +1,3137 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sandhy.ādīnām",
+      "words": [
+       {
+        "w": "sandhi-ādīnām",
+        "gloss": "of treaty and the rest",
+        "gram": "bahuvrīhi, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ayathā.uddeśa.avasthāpanam",
+      "words": [
+       {
+        "w": "ayathā-uddeśa-avasthāpanam",
+        "gloss": "placing not as specified",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "apanayaḥ",
+      "words": [
+       {
+        "w": "apanayaḥ",
+        "gloss": "bad policy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सन्धि आदि की निर्दिष्ट रीति के अनुसार न होने वाली स्थापना बुरी नीति है।",
+  "english": "Placing treaties and the rest not as specified is bad policy.",
+  "text_flags": [],
+  "notes": "sandhi = treaty, apanaya = bad policy (glossary). ayathā-uddeśa-avasthāpana literally 'placing not as specified'; avasthāpana could also be 'establishing, employing'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.1"
+  ],
+  "lines_deva": [
+   "सन्ध्य्.आदीनाम् अयथा.उद्देश.अवस्थापनम् अपनयः"
+  ],
+  "lines_iast": [
+   "sandhy.ādīnām ayathā.uddeśa.avasthāpanam apanayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmād",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "āpadaḥ",
+      "words": [
+       {
+        "w": "āpadaḥ",
+        "gloss": "adversities",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sambhavanti",
+      "words": [
+       {
+        "w": "sambhavanti",
+        "gloss": "arise",
+        "gram": "3 pl. pres. sam-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे आपत्तियाँ उत्पन्न होती हैं।",
+  "english": "Therefore adversities arise.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.05.2"
+  ],
+  "lines_deva": [
+   "तस्माद् आपदः सम्भवन्ति"
+  ],
+  "lines_iast": [
+   "tasmād āpadaḥ sambhavanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bāhya.utpattir",
+      "words": [
+       {
+        "w": "bāhya-utpattiḥ",
+        "gloss": "external origin",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhyantara.pratijāpā,",
+      "words": [
+       {
+        "w": "abhyantara-pratijāpā",
+        "gloss": "internal counter-instigation",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhyantara.utpattir",
+      "words": [
+       {
+        "w": "abhyantara-utpattiḥ",
+        "gloss": "internal origin",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.pratijāpā,",
+      "words": [
+       {
+        "w": "bāhya-pratijāpā",
+        "gloss": "external counter-instigation",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.utpattir",
+      "words": [
+       {
+        "w": "bāhya-utpattiḥ",
+        "gloss": "external origin",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.pratijāpā,",
+      "words": [
+       {
+        "w": "bāhya-pratijāpā",
+        "gloss": "external counter-instigation",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhyantara.utpattir",
+      "words": [
+       {
+        "w": "abhyantara-utpattiḥ",
+        "gloss": "internal origin",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhyantara.pratijāpā",
+      "words": [
+       {
+        "w": "abhyantara-pratijāpā",
+        "gloss": "internal counter-instigation",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "dash before iti",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "marks the enumeration as a statement",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "āpadaḥ",
+      "words": [
+       {
+        "w": "āpadaḥ",
+        "gloss": "adversities",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बाहरी उत्पत्ति और भीतरी प्रतिजाप; भीतरी उत्पत्ति और बाहरी प्रतिजाप; बाहरी उत्पत्ति और बाहरी प्रतिजाप; भीतरी उत्पत्ति और भीतरी प्रतिजाप — ये आपत्तियाँ हैं।",
+  "english": "External origin and internal counter-instigation; internal origin and external counter-instigation; external origin and external counter-instigation; internal origin and internal counter-instigation: [such are] the adversities.",
+  "text_flags": [],
+  "notes": "pratijāpā ends in -ā (f. nom. sg.) while pratijāpa is normally masculine; read as the printed feminine, doubt noted. pratijāpa = counter-instigation (prati + japa, from √jap, as upajāpa = secret instigation). 'iti āpadaḥ' is rendered with a supplied copula only ('[such are]'); iti is not rendered 'thus'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.3"
+  ],
+  "lines_deva": [
+   "बाह्य.उत्पत्तिर् अभ्यन्तर.प्रतिजापा, अभ्यन्तर.उत्पत्तिर् बाह्य.प्रतिजापा, बाह्य.उत्पत्तिर् बाह्य.प्रतिजापा, अभ्यन्तर.उत्पत्तिर् अभ्यन्तर.प्रतिजापा - इत्य् आपदः"
+  ],
+  "lines_iast": [
+   "bāhya.utpattir abhyantara.pratijāpā, abhyantara.utpattir bāhya.pratijāpā, bāhya.utpattir bāhya.pratijāpā, abhyantara.utpattir abhyantara.pratijāpā - ity āpadaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyā",
+      "words": [
+       {
+        "w": "bāhyāḥ",
+        "gloss": "the external ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhyantara.anupajapanti,",
+      "words": [
+       {
+        "w": "abhyantarān",
+        "gloss": "the internal ones",
+        "gram": "m. acc. pl. (see text_flags)"
+       },
+       {
+        "w": "upajapanti",
+        "gloss": "instigate",
+        "gram": "3 pl. pres. upa-√jap (printed anupajapanti; corrected, see text_flags)"
+       }
+      ]
+     },
+     {
+      "src": "abhyantarā",
+      "words": [
+       {
+        "w": "abhyantarāḥ",
+        "gloss": "the internal ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyān,",
+      "words": [
+       {
+        "w": "bāhyān",
+        "gloss": "the external ones",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tatra.ubhaya.yoge",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "ubhaya-yoge",
+        "gloss": "in the combination of both",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratijapataḥ",
+      "words": [
+       {
+        "w": "pratijapataḥ",
+        "gloss": "of the one who counter-instigates",
+        "gram": "m. gen. sg. pres. part. prati-√jap"
+       }
+      ]
+     },
+     {
+      "src": "siddhir",
+      "words": [
+       {
+        "w": "siddhiḥ",
+        "gloss": "success",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣavatī",
+      "words": [
+       {
+        "w": "viśeṣavatī",
+        "gloss": "superior",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ बाहरी लोग भीतरी लोगों को उपजाप करते हैं, अथवा भीतरी लोग बाहरी लोगों को, वहाँ दोनों के योग में प्रतिजाप करने वाले की सिद्धि विशेष होती है।",
+  "english": "Where the external ones instigate the internal ones, or the internal ones the external ones [instigate], there, in the combination of both, the success of the one who counter-instigates is superior.",
+  "text_flags": [
+   {
+    "src": "abhyantara.anupajapanti",
+    "suggest": "abhyantarān upajapanti",
+    "why": "possible: the '.' compound mark joins a finite verb to abhyantara; the parallel 'abhyantarā vā bāhyān' and unit 17 'bāhyān upajapanti' show an accusative object (abhyantarān) is expected"
+   },
+   {
+    "src": "tatra.ubhaya.yoge",
+    "suggest": "tatra-ubhaya.yoge",
+    "why": "possible: tatra is an adverb, not a compound member, so the first '.' should be the '-' of an unsandhied join (as in 'tatra-ekānta.yoga' in unit 17)"
+   }
+  ],
+  "notes": "anupajapanti = anu-upa-√jap; the sense of anu (afterwards / in turn / along) is uncertain, so it is not rendered separately. 'vā bāhyān' has no verb: '[instigate]' supplied in English. ubhaya-yoga rendered 'combination of both' (yoga here neither the 6.2 'acquisition' nor the Book 12 'contrivance'); the sense is uncertain. pratijapataḥ taken as gen. sg. of the present participle. Reviewer: the word is read upajapanti (abhyantarān upajapanti), not anu-upa-√jap, by parallel with unit 17; the first text_flag's suggestion should read 'abhyantarān upajapanti'. The second flag is sound: tatra is an adverb, so 'tatra-ubhaya-yoge' (or 'tatra ubhaya-yoge') is expected.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.05.4"
+  ],
+  "lines_deva": [
+   "यत्र बाह्या अभ्यन्तर.अनुपजपन्ति, अभ्यन्तरा वा बाह्यान्, तत्र.उभय.योगे प्रतिजपतः सिद्धिर् विशेषवती"
+  ],
+  "lines_iast": [
+   "yatra bāhyā abhyantara.anupajapanti, abhyantarā vā bāhyān, tatra.ubhaya.yoge pratijapataḥ siddhir viśeṣavatī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "suvyājā",
+      "words": [
+       {
+        "w": "suvyājāḥ",
+        "gloss": "with good pretexts",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratijapitāro",
+      "words": [
+       {
+        "w": "pratijapitāraḥ",
+        "gloss": "counter-instigators",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti,",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "are",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "na-upajapitāraḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "upajapitāraḥ",
+        "gloss": "instigators",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि प्रतिजाप करने वाले अच्छे बहानों वाले होते हैं, उपजाप करने वाले नहीं।",
+  "english": "For counter-instigators have good pretexts, not instigators.",
+  "text_flags": [],
+  "notes": "vyāja = pretext (alternatives: guile, subterfuge), so suvyāja is rendered literally 'with good pretexts'; the exact sense is not certain. 'na-upajapitāraḥ' is the unsandhied join (print: na upajapitāraḥ / nopajapitāraḥ).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.5"
+  ],
+  "lines_deva": [
+   "सुव्याजा हि प्रतिजपितारो भवन्ति, न-उपजपितारः"
+  ],
+  "lines_iast": [
+   "suvyājā hi pratijapitāro bhavanti, na-upajapitāraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "those",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "praśānteṣu",
+      "words": [
+       {
+        "w": "praśānteṣu",
+        "gloss": "quieted",
+        "gram": "m. loc. pl. past part. pra-√śam"
+       }
+      ]
+     },
+     {
+      "src": "na-anyān-śaknuyur",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "anyān",
+        "gloss": "others",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "śaknuyuḥ",
+        "gloss": "would be able",
+        "gram": "3 pl. opt. √śak"
+       }
+      ]
+     },
+     {
+      "src": "upajapitum",
+      "words": [
+       {
+        "w": "upajapitum",
+        "gloss": "to instigate",
+        "gram": "inf. upa-√jap"
+       }
+      ]
+     },
+     {
+      "src": "upajapitāraḥ",
+      "words": [
+       {
+        "w": "upajapitāraḥ",
+        "gloss": "instigators",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके शान्त हो जाने पर उपजाप करने वाले दूसरों को उपजाप करने में समर्थ नहीं हो सकते।",
+  "english": "When those have been quieted, the instigators would not be able to instigate others.",
+  "text_flags": [],
+  "notes": "teṣu 'those' is ambiguous; it most likely refers to the counter-instigators of the previous units, but the text does not say. Loc. absolute.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.6"
+  ],
+  "lines_deva": [
+   "तेषु प्रशान्तेषु न-अन्यान्-शक्नुयुर् उपजपितुम् उपजपितारः"
+  ],
+  "lines_iast": [
+   "teṣu praśānteṣu na-anyān-śaknuyur upajapitum upajapitāraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛcchra.upajāpā",
+      "words": [
+       {
+        "w": "kṛcchra-upajāpāḥ",
+        "gloss": "hard to instigate",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyānām",
+      "words": [
+       {
+        "w": "bāhyānām",
+        "gloss": "of the external ones",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhyantarās",
+      "words": [
+       {
+        "w": "abhyantarāḥ",
+        "gloss": "the internal ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "teṣām",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "itare",
+      "words": [
+       {
+        "w": "itare",
+        "gloss": "the others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि बाहरी लोगों के लिए भीतरी लोगों का उपजाप कठिन होता है, अथवा उनके लिए दूसरों का।",
+  "english": "For the internal ones are hard for the external ones to instigate, or [so are] the others for them.",
+  "text_flags": [],
+  "notes": "Elliptical. 'teṣām itare' read as 'the others (the external ones) for them (the internal ones)'; the genitive of agent with a verbal adjective makes the relation uncertain. kṛcchra-upajāpa = 'having difficult instigation'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.7"
+  ],
+  "lines_deva": [
+   "कृच्छ्र.उपजापा हि बाह्यानाम् अभ्यन्तरास् तेषाम् इतरे वा"
+  ],
+  "lines_iast": [
+   "kṛcchra.upajāpā hi bāhyānām abhyantarās teṣām itare vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mahataś",
+      "words": [
+       {
+        "w": "mahataḥ",
+        "gloss": "of great",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayatnasya",
+      "words": [
+       {
+        "w": "prayatnasya",
+        "gloss": "of effort",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vadhaḥ",
+      "words": [
+       {
+        "w": "vadhaḥ",
+        "gloss": "killing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pareṣām,",
+      "words": [
+       {
+        "w": "pareṣām",
+        "gloss": "of the enemies",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "artha.anubandhaś",
+      "words": [
+       {
+        "w": "artha-anubandhaḥ",
+        "gloss": "connection with gain",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-ātmana",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ātmanaḥ",
+        "gloss": "of oneself",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closes the statement",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और शत्रुओं का वध बड़े प्रयत्न का होता है, तथा अपने लिए अर्थ का अनुबन्ध होता है।",
+  "english": "And the killing of the enemies [is a matter] of great effort, and [there is] a connection with gain for oneself.",
+  "text_flags": [],
+  "notes": "The construction is loose. Alternative: 'mahataḥ prayatnasya vadhaḥ pareṣām' = 'the destruction of the enemies' great effort'. pareṣām = 'of others', i.e. enemies. anubandha = connection, continuation; artha-anubandha could also be 'continuing benefit'. The closing iti closes the reason clause and is not rendered.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.05.8"
+  ],
+  "lines_deva": [
+   "महतश् च प्रयत्नस्य वधः परेषाम्, अर्थ.अनुबन्धश् च-आत्मन इति"
+  ],
+  "lines_iast": [
+   "mahataś ca prayatnasya vadhaḥ pareṣām, artha.anubandhaś ca-ātmana iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "abhyantareṣu",
+      "words": [
+       {
+        "w": "abhyantareṣu",
+        "gloss": "among the internal ones",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratijapatsu",
+      "words": [
+       {
+        "w": "pratijapatsu",
+        "gloss": "counter-instigating",
+        "gram": "m. loc. pl. pres. part. prati-√jap"
+       }
+      ]
+     },
+     {
+      "src": "sāma.dāne",
+      "words": [
+       {
+        "w": "sāma-dāne",
+        "gloss": "conciliation and gifts",
+        "gram": "dvandva, n. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भीतरी लोगों के प्रतिजाप करने पर साम और दान का प्रयोग करे।",
+  "english": "When the internal ones counter-instigate, one should employ conciliation and gifts.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.05.9"
+  ],
+  "lines_deva": [
+   "अभ्यन्तरेषु प्रतिजपत्सु साम.दाने प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "abhyantareṣu pratijapatsu sāma.dāne prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sthāna.māna.karma",
+      "words": [
+       {
+        "w": "sthāna-māna-karma",
+        "gloss": "position, honour and action",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāntvam",
+      "words": [
+       {
+        "w": "sāntvam",
+        "gloss": "conciliation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सान्त्वना स्थान, मान और कर्म है।",
+  "english": "Conciliation [is] position, honour and action.",
+  "text_flags": [],
+  "notes": "sāntva = sāma (conciliation); the predicate is a supplied copula only. karma = action (glossary).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.05.10"
+  ],
+  "lines_deva": [
+   "स्थान.मान.कर्म सान्त्वम्"
+  ],
+  "lines_iast": [
+   "sthāna.māna.karma sāntvam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anugraha.parihārau",
+      "words": [
+       {
+        "w": "anugraha-parihārau",
+        "gloss": "favour and exemption",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "karmasv",
+      "words": [
+       {
+        "w": "karmasu",
+        "gloss": "in actions",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "āyogo",
+      "words": [
+       {
+        "w": "āyogaḥ",
+        "gloss": "appointment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dānam",
+      "words": [
+       {
+        "w": "dānam",
+        "gloss": "gift",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दान अनुग्रह और छूट है, अथवा कर्मों में नियुक्ति।",
+  "english": "Gift [is] favour and exemption, or appointment to actions.",
+  "text_flags": [],
+  "notes": "parihāra = exemption (glossary 13.5). āyoga could also be 'engagement, employment'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.11"
+  ],
+  "lines_deva": [
+   "अनुग्रह.परिहारौ कर्मस्व् आयोगो वा दानम्"
+  ],
+  "lines_iast": [
+   "anugraha.parihārau karmasv āyogo vā dānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bāhyeṣu",
+      "words": [
+       {
+        "w": "bāhyeṣu",
+        "gloss": "among the external ones",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratijapatsu",
+      "words": [
+       {
+        "w": "pratijapatsu",
+        "gloss": "counter-instigating",
+        "gram": "m. loc. pl. pres. part. prati-√jap"
+       }
+      ]
+     },
+     {
+      "src": "bheda.daṇḍau",
+      "words": [
+       {
+        "w": "bheda-daṇḍau",
+        "gloss": "dissension and force",
+        "gram": "dvandva, m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बाहरी लोगों के प्रतिजाप करने पर भेद और दण्ड का प्रयोग करे।",
+  "english": "When the external ones counter-instigate, one should employ dissension and force.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.05.12"
+  ],
+  "lines_deva": [
+   "बाह्येषु प्रतिजपत्सु भेद.दण्डौ प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "bāhyeṣu pratijapatsu bheda.daṇḍau prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sattriṇo",
+      "words": [
+       {
+        "w": "sattriṇaḥ",
+        "gloss": "secret agents",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mitra.vyañjanā",
+      "words": [
+       {
+        "w": "mitra-vyañjanāḥ",
+        "gloss": "agents in the guise of allies",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyānāṃ",
+      "words": [
+       {
+        "w": "bāhyānām",
+        "gloss": "of the external ones",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "cāram",
+      "words": [
+       {
+        "w": "cāram",
+        "gloss": "spy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eṣāṃ",
+      "words": [
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "brūyuḥ",
+      "words": [
+       {
+        "w": "brūyuḥ",
+        "gloss": "should say",
+        "gram": "3 pl. opt. √brū"
+       }
+      ]
+     },
+     {
+      "src": "\"ayaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vo",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dūṣya.vyañjanair",
+      "words": [
+       {
+        "w": "dūṣya-vyañjanaiḥ",
+        "gloss": "by agents in the guise of the treasonable",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "atisandhātu.kāmaḥ,",
+      "words": [
+       {
+        "w": "atisandhātu-kāmaḥ",
+        "gloss": "wishing to outwit",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "budhyadhvam\"",
+      "words": [
+       {
+        "w": "budhyadhvam",
+        "gloss": "be aware",
+        "gram": "2 pl. imv. mid. √budh"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closes the quotation",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुप्तचर अथवा मित्र के वेश वाले गुप्तचर इन बाहरी लोगों के चर से कहें— “यह तुम्हारा राजा दूष्य के वेश वाले गुप्तचरों द्वारा छलना चाहता है, सावधान रहो।”",
+  "english": "Secret agents, or agents in the guise of allies, should say to the spy of these external ones: \"This king of yours wishes to outwit [you] by means of agents in the guise of the treasonable; be aware.\"",
+  "text_flags": [],
+  "notes": "The relation of bāhyānām, cāram and eṣām is uncertain: read 'to the spy of these external ones' (eṣām agreeing with bāhyānām); alternatively 'should tell these (eṣām) the spy of the externals', or cāra as 'movement'. atisandhātu is from ati-sam-√dhā ('outwit, deceive'); 'kāma' with the infinitive stem = 'wishing to'. dūṣya = the treasonable (glossary). The closing iti is not rendered.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.13"
+  ],
+  "lines_deva": [
+   "सत्त्रिणो मित्र.व्यञ्जना वा बाह्यानां चारम् एषां ब्रूयुः \"अयं वो राजा दूष्य.व्यञ्जनैर् अतिसन्धातु.कामः, बुध्यध्वम्\" इति"
+  ],
+  "lines_iast": [
+   "sattriṇo mitra.vyañjanā vā bāhyānāṃ cāram eṣāṃ brūyuḥ \"ayaṃ vo rājā dūṣya.vyañjanair atisandhātu.kāmaḥ, budhyadhvam\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūṣyeṣu",
+      "words": [
+       {
+        "w": "dūṣyeṣu",
+        "gloss": "among the treasonable",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūṣya.vyañjanāḥ",
+      "words": [
+       {
+        "w": "dūṣya-vyañjanāḥ",
+        "gloss": "agents in the guise of the treasonable",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "praṇihitā",
+      "words": [
+       {
+        "w": "praṇihitāḥ",
+        "gloss": "sent out",
+        "gram": "m. nom. pl. past part. pra-ni-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "dūṣyān",
+      "words": [
+       {
+        "w": "dūṣyān",
+        "gloss": "the treasonable",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bāhyair",
+      "words": [
+       {
+        "w": "bāhyaiḥ",
+        "gloss": "by the external ones",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhedayeyuḥ,",
+      "words": [
+       {
+        "w": "bhedayeyuḥ",
+        "gloss": "should cause to split",
+        "gram": "3 pl. opt. caus. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "bāhyān",
+      "words": [
+       {
+        "w": "bāhyān",
+        "gloss": "the external ones",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūṣyaiḥ",
+      "words": [
+       {
+        "w": "dūṣyaiḥ",
+        "gloss": "by the treasonable",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा दूष्यों में भेजे गए दूष्य के वेश वाले गुप्तचर बाहरी लोगों के द्वारा दूष्यों में भेद कराएँ, अथवा दूष्यों के द्वारा बाहरी लोगों में।",
+  "english": "Or agents in the guise of the treasonable, sent out among the treasonable, should cause the treasonable to be split by means of the external ones, or the external ones by means of the treasonable.",
+  "text_flags": [],
+  "notes": "The instrumentals are read as 'by means of'; the alternative 'split from' is not natural for an instrumental.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.14"
+  ],
+  "lines_deva": [
+   "दूष्येषु वा दूष्य.व्यञ्जनाः प्रणिहिता दूष्यान् बाह्यैर् भेदयेयुः, बाह्यान् वा दूष्यैः"
+  ],
+  "lines_iast": [
+   "dūṣyeṣu vā dūṣya.vyañjanāḥ praṇihitā dūṣyān bāhyair bhedayeyuḥ, bāhyān vā dūṣyaiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūṣyān",
+      "words": [
+       {
+        "w": "dūṣyān",
+        "gloss": "the treasonable",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "anupraviṣṭā",
+      "words": [
+       {
+        "w": "anupraviṣṭāḥ",
+        "gloss": "having entered",
+        "gram": "m. nom. pl. past part. anu-pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇāḥ",
+      "words": [
+       {
+        "w": "tīkṣṇāḥ",
+        "gloss": "assassins",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śastra.rasābhyāṃ",
+      "words": [
+       {
+        "w": "śastra-rasābhyām",
+        "gloss": "with weapon and poison",
+        "gram": "dvandva, m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "hanyuḥ",
+      "words": [
+       {
+        "w": "hanyuḥ",
+        "gloss": "should kill",
+        "gram": "3 pl. opt. √han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा दूष्यों में घुसे हुए तीक्ष्ण शस्त्र और विष से मारें।",
+  "english": "Or assassins who have entered among the treasonable should kill [them] with weapon and poison.",
+  "text_flags": [],
+  "notes": "The object of hanyuḥ is not stated; '[them]' is supplied in English only. rasa = poison (glossary); tīkṣṇa = assassin (glossary). Reviewer: dūṣyān may instead be the object of hanyuḥ ('assassins who have entered should kill the treasonable with weapon and poison'); the construction is open and the literal rendering is kept.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.15"
+  ],
+  "lines_deva": [
+   "दूष्यान् अनुप्रविष्टा वा तीक्ष्णाः शस्त्र.रसाभ्यां हन्युः"
+  ],
+  "lines_iast": [
+   "dūṣyān anupraviṣṭā vā tīkṣṇāḥ śastra.rasābhyāṃ hanyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āhūya",
+      "words": [
+       {
+        "w": "āhūya",
+        "gloss": "having summoned",
+        "gram": "abs. ā-√hvā"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyān",
+      "words": [
+       {
+        "w": "bāhyān",
+        "gloss": "the external ones",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ghātayeyuḥ",
+      "words": [
+       {
+        "w": "ghātayeyuḥ",
+        "gloss": "should cause to be killed",
+        "gram": "3 pl. opt. caus. √han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा बाहरी लोगों को बुलाकर मरवा दें।",
+  "english": "Or, having summoned the external ones, they should have [them] killed.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.05.16"
+  ],
+  "lines_deva": [
+   "आहूय वा बाह्यान् घातयेयुः"
+  ],
+  "lines_iast": [
+   "āhūya vā bāhyān ghātayeyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyā",
+      "words": [
+       {
+        "w": "bāhyāḥ",
+        "gloss": "the external ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bāhyān",
+      "words": [
+       {
+        "w": "bāhyān",
+        "gloss": "the external ones",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "upajapanti,",
+      "words": [
+       {
+        "w": "upajapanti",
+        "gloss": "instigate",
+        "gram": "3 pl. pres. upa-√jap"
+       }
+      ]
+     },
+     {
+      "src": "abhyantarān",
+      "words": [
+       {
+        "w": "abhyantarān",
+        "gloss": "the internal ones",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhyantarā",
+      "words": [
+       {
+        "w": "abhyantarāḥ",
+        "gloss": "the internal ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tatra-ekānta.yoga",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "ekānta-yoge",
+        "gloss": "in exclusive union",
+        "gram": "karmadhāraya, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upajapituḥ",
+      "words": [
+       {
+        "w": "upajapituḥ",
+        "gloss": "of the instigator",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhir",
+      "words": [
+       {
+        "w": "siddhiḥ",
+        "gloss": "success",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣavatī",
+      "words": [
+       {
+        "w": "viśeṣavatī",
+        "gloss": "superior",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ बाहरी लोग बाहरी लोगों को उपजाप करते हैं, अथवा भीतरी लोग भीतरी लोगों को, वहाँ एकान्त योग में उपजाप करने वाले की सिद्धि विशेष होती है।",
+  "english": "Where the external ones instigate the external ones, or the internal ones the internal ones [instigate], there, in exclusive union, the success of the instigator is superior.",
+  "text_flags": [
+   {
+    "src": "tatra-ekānta.yoga",
+    "suggest": "tatra-ekānta.yoge",
+    "why": "possible: the parallel in unit 4 has 'ubhaya-yoge' (locative); the printed 'yoga u-' can also stand for yoge before a vowel, or be yogaḥ (nominative)"
+   }
+  ],
+  "notes": "'yoga' is read as locative yoge by parallel with unit 4 (alternative: nominative yogaḥ, 'exclusive union: ...'). ekānta = exclusive, single; the sense of 'ekānta-yoga' is uncertain. 'abhyantarā vā' has no verb: '[instigate]' supplied in English. Reviewer: sandhi does not support the claim that 'yoga u-' stands for locative yoge (that would be yogay u-); 'yoga u-' fits yogaḥ + u. Reading as locative (by parallel with unit 4) is kept only as a literal guess; the nominative 'there is exclusive union (yogaḥ) of the instigator; success is superior' is equally possible. A person should decide; the text_flag stays open.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.05.17"
+  ],
+  "lines_deva": [
+   "यत्र बाह्या बाह्यान् उपजपन्ति, अभ्यन्तरान् अभ्यन्तरा वा, तत्र-एकान्त.योग उपजपितुः सिद्धिर् विशेषवती"
+  ],
+  "lines_iast": [
+   "yatra bāhyā bāhyān upajapanti, abhyantarān abhyantarā vā, tatra-ekānta.yoga upajapituḥ siddhir viśeṣavatī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "doṣa.śuddhau",
+      "words": [
+       {
+        "w": "doṣa-śuddhau",
+        "gloss": "when the fault is cleared",
+        "gram": "tat-puruṣa, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūṣyā",
+      "words": [
+       {
+        "w": "dūṣyāḥ",
+        "gloss": "the treasonable",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidyante",
+      "words": [
+       {
+        "w": "vidyante",
+        "gloss": "are found",
+        "gram": "3 pl. pres. pass. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि दोष की शुद्धि होने पर दूष्य नहीं रहते।",
+  "english": "For when the fault is cleared, there are no treasonable ones.",
+  "text_flags": [],
+  "notes": "doṣa = fault, not the medical doṣa. vidyante = 'exist, are found'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.18"
+  ],
+  "lines_deva": [
+   "दोष.शुद्धौ हि दूष्या न विद्यन्ते"
+  ],
+  "lines_iast": [
+   "doṣa.śuddhau hi dūṣyā na vidyante"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūṣya.śuddhau",
+      "words": [
+       {
+        "w": "dūṣya-śuddhau",
+        "gloss": "when the treasonable one is cleared",
+        "gram": "tat-puruṣa, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣaḥ",
+      "words": [
+       {
+        "w": "doṣaḥ",
+        "gloss": "the fault",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "punar",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anyān",
+      "words": [
+       {
+        "w": "anyān",
+        "gloss": "others",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dūṣayati",
+      "words": [
+       {
+        "w": "dūṣayati",
+        "gloss": "taints",
+        "gram": "3 sg. pres. caus. √duṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि दूष्य की शुद्धि होने पर दोष फिर दूसरों को दूषित करता है।",
+  "english": "For when the treasonable one is cleared, the fault again taints others.",
+  "text_flags": [],
+  "notes": "dūṣya-śuddhau is read as 'in the clearing of the treasonable one' (collective or single); doṣa = fault.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.19"
+  ],
+  "lines_deva": [
+   "दूष्य.शुद्धौ हि दोषः पुनर् अन्यान् दूषयति"
+  ],
+  "lines_iast": [
+   "dūṣya.śuddhau hi doṣaḥ punar anyān dūṣayati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmād",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "bāhyeṣu-upajapatsu",
+      "words": [
+       {
+        "w": "bāhyeṣu",
+        "gloss": "among the external ones",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "upajapatsu",
+        "gloss": "instigating",
+        "gram": "m. loc. pl. pres. part. upa-√jap"
+       }
+      ]
+     },
+     {
+      "src": "bheda.daṇḍau",
+      "words": [
+       {
+        "w": "bheda-daṇḍau",
+        "gloss": "dissension and force",
+        "gram": "dvandva, m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए बाहरी लोगों के उपजाप करने पर भेद और दण्ड का प्रयोग करे।",
+  "english": "Therefore, when the external ones instigate, one should employ dissension and force.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.05.20"
+  ],
+  "lines_deva": [
+   "तस्माद् बाह्येषु-उपजपत्सु भेद.दण्डौ प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "tasmād bāhyeṣu-upajapatsu bheda.daṇḍau prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sattriṇo",
+      "words": [
+       {
+        "w": "sattriṇaḥ",
+        "gloss": "secret agents",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mitra.vyañjanā",
+      "words": [
+       {
+        "w": "mitra-vyañjanāḥ",
+        "gloss": "agents in the guise of allies",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "brūyuḥ",
+      "words": [
+       {
+        "w": "brūyuḥ",
+        "gloss": "should say",
+        "gram": "3 pl. opt. √brū"
+       }
+      ]
+     },
+     {
+      "src": "\"ayaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vo",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svayam",
+      "words": [
+       {
+        "w": "svayam",
+        "gloss": "himself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ādātu.kāmaḥ,",
+      "words": [
+       {
+        "w": "ādātu-kāmaḥ",
+        "gloss": "wishing to take",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhītāḥ",
+      "words": [
+       {
+        "w": "vigṛhītāḥ",
+        "gloss": "seized",
+        "gram": "m. nom. pl. past part. vi-√grah"
+       }
+      ]
+     },
+     {
+      "src": "sthānena",
+      "words": [
+       {
+        "w": "sthānena",
+        "gloss": "by position",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājñā,",
+      "words": [
+       {
+        "w": "rājñā",
+        "gloss": "by the king",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "budhyadhvam\"",
+      "words": [
+       {
+        "w": "budhyadhvam",
+        "gloss": "be aware",
+        "gram": "2 pl. imv. mid. √budh"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closes the quotation",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुप्तचर अथवा मित्र के वेश वाले गुप्तचर कहें— “यह तुम्हारा राजा स्वयं लेना चाहता है, राजा द्वारा स्थान से पकड़े गए हैं, सावधान रहो।”",
+  "english": "Secret agents, or agents in the guise of allies, should say: \"This king of yours wishes to take [it] himself; [you] have been seized by the king through position; be aware.\"",
+  "text_flags": [],
+  "notes": "'vigṛhītāḥ sthānena rājñā' is obscure: vi-√grah can mean seized, separated, set at variance, made hostile; sthāna = position, station (as in unit 10), place or fort are possible. Rendered literally; the sense is not certain. The object of ādātu is not stated; '[it]' is supplied in English only. The closing iti is not rendered.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.05.21"
+  ],
+  "lines_deva": [
+   "सत्त्रिणो मित्र.व्यञ्जना वा ब्रूयुः \"अयं वो राजा स्वयम् आदातु.कामः, विगृहीताः स्थानेन राज्ञा, बुध्यध्वम्\" इति"
+  ],
+  "lines_iast": [
+   "sattriṇo mitra.vyañjanā vā brūyuḥ \"ayaṃ vo rājā svayam ādātu.kāmaḥ, vigṛhītāḥ sthānena rājñā, budhyadhvam\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratijapitur",
+      "words": [
+       {
+        "w": "pratijapituḥ",
+        "gloss": "of the counter-instigator",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūta.daṇḍān",
+      "words": [
+       {
+        "w": "dūta-daṇḍān",
+        "gloss": "envoys and army",
+        "gram": "dvandva, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "anupraviṣṭās",
+      "words": [
+       {
+        "w": "anupraviṣṭāḥ",
+        "gloss": "having entered",
+        "gram": "m. nom. pl. past part. anu-pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇāḥ",
+      "words": [
+       {
+        "w": "tīkṣṇāḥ",
+        "gloss": "assassins",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śastra.rasa.ādibhir",
+      "words": [
+       {
+        "w": "śastra-rasa-ādibhiḥ",
+        "gloss": "with weapon, poison and the rest",
+        "gram": "dvandva + bahuvrīhi, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "eṣāṃ",
+      "words": [
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "chidreṣu",
+      "words": [
+       {
+        "w": "chidreṣu",
+        "gloss": "in the weak points",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prahareyuḥ",
+      "words": [
+       {
+        "w": "prahareyuḥ",
+        "gloss": "should strike",
+        "gram": "3 pl. opt. pra-√hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा प्रतिजाप करने वाले के दूतों और सेना में घुसे हुए तीक्ष्ण शस्त्र, विष आदि से इनके छिद्रों पर प्रहार करें।",
+  "english": "Or assassins who have entered the envoys and army of the counter-instigator should strike at the weak points of these with weapon, poison and the rest.",
+  "text_flags": [],
+  "notes": "daṇḍa read as army (prakṛti sense); 'force' is possible. eṣām 'of these' is not specified; presumably the persons just mentioned. chidra = weak point (glossary).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.22"
+  ],
+  "lines_deva": [
+   "प्रतिजपितुर् वा दूत.दण्डान् अनुप्रविष्टास् तीक्ष्णाः शस्त्र.रस.आदिभिर् एषां छिद्रेषु प्रहरेयुः"
+  ],
+  "lines_iast": [
+   "pratijapitur vā dūta.daṇḍān anupraviṣṭās tīkṣṇāḥ śastra.rasa.ādibhir eṣāṃ chidreṣu prahareyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sattriṇaḥ",
+      "words": [
+       {
+        "w": "sattriṇaḥ",
+        "gloss": "secret agents",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratijapitāram",
+      "words": [
+       {
+        "w": "pratijapitāram",
+        "gloss": "the counter-instigator",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhiśaṃseyuḥ",
+      "words": [
+       {
+        "w": "abhiśaṃseyuḥ",
+        "gloss": "should accuse",
+        "gram": "3 pl. opt. abhi-√śaṃs"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब गुप्तचर प्रतिजाप करने वाले पर आरोप लगाएँ।",
+  "english": "Then the secret agents should accuse the counter-instigator.",
+  "text_flags": [],
+  "notes": "abhi-√śaṃs: accuse; alternatives 'denounce, proclaim'. The charge is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.23"
+  ],
+  "lines_deva": [
+   "ततः सत्त्रिणः प्रतिजपितारम् अभिशंसेयुः"
+  ],
+  "lines_iast": [
+   "tataḥ sattriṇaḥ pratijapitāram abhiśaṃseyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "abhyantarān",
+      "words": [
+       {
+        "w": "abhyantarān",
+        "gloss": "the internal ones",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhyantareṣu-upajapatsu",
+      "words": [
+       {
+        "w": "abhyantareṣu",
+        "gloss": "among the internal ones",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "upajapatsu",
+        "gloss": "instigating",
+        "gram": "m. loc. pl. pres. part. upa-√jap"
+       }
+      ]
+     },
+     {
+      "src": "yathā.arham",
+      "words": [
+       {
+        "w": "yathā-arham",
+        "gloss": "as is fitting",
+        "gram": "avyayībhāva, ind."
+       }
+      ]
+     },
+     {
+      "src": "upāyaṃ",
+      "words": [
+       {
+        "w": "upāyam",
+        "gloss": "means",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भीतरी लोगों के भीतरी लोगों को उपजाप करने पर यथोचित उपाय का प्रयोग करे।",
+  "english": "When the internal ones instigate the internal ones, one should employ the means as is fitting.",
+  "text_flags": [],
+  "notes": "abhyantarān is the object inside the locative absolute 'abhyantareṣu upajapatsu'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.05.24"
+  ],
+  "lines_deva": [
+   "अभ्यन्तरान् अभ्यन्तरेषु-उपजपत्सु यथा.अर्हम् उपायं प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "abhyantarān abhyantareṣu-upajapatsu yathā.arham upāyaṃ prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tuṣṭa.liṅgam",
+      "words": [
+       {
+        "w": "tuṣṭa-liṅgam",
+        "gloss": "showing the signs of the satisfied",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "atuṣṭaṃ",
+      "words": [
+       {
+        "w": "atuṣṭam",
+        "gloss": "unsatisfied",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparītaṃ",
+      "words": [
+       {
+        "w": "viparītam",
+        "gloss": "the opposite",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāma",
+      "words": [
+       {
+        "w": "sāma",
+        "gloss": "conciliation",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुष्ट के लक्षणों वाले अतुष्ट को अथवा विपरीत को साम का प्रयोग करे।",
+  "english": "One should employ conciliation towards one showing the signs of the satisfied [yet] unsatisfied, or the opposite.",
+  "text_flags": [],
+  "notes": "Ambiguous: 'tuṣṭa-liṅgam atuṣṭam' read as one person (showing signs of satisfaction but unsatisfied), 'viparītam' the opposite case. Alternative: three classes (one showing signs of satisfaction, the unsatisfied, the opposite). The English '[yet]' is supplied. The object of sāma is the person addressed (accusative case read as the one conciliated).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.05.25"
+  ],
+  "lines_deva": [
+   "तुष्ट.लिङ्गम् अतुष्टं विपरीतं वा साम प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "tuṣṭa.liṅgam atuṣṭaṃ viparītaṃ vā sāma prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śauca.sāmarthya.apadeśena",
+      "words": [
+       {
+        "w": "śauca-sāmarthya-apadeśena",
+        "gloss": "on the pretext of purity and capability",
+        "gram": "dvandva + tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyasana.abhyudaya.avekṣaṇena",
+      "words": [
+       {
+        "w": "vyasana-abhyudaya-avekṣaṇena",
+        "gloss": "by regard for calamity and prosperity",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratipūjanam",
+      "words": [
+       {
+        "w": "pratipūjanam",
+        "gloss": "honouring in return",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "marks the definition",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dānam",
+      "words": [
+       {
+        "w": "dānam",
+        "gloss": "gift",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शौच और सामर्थ्य के बहाने, अथवा व्यसन और अभ्युदय को देखकर प्रतिपूजन दान है।",
+  "english": "Honouring in return, on the pretext of [his] purity and capability, or by regard for [his] calamity and prosperity, [is] gift.",
+  "text_flags": [],
+  "notes": "apadeśa = pretext (alternatives: mention, reference, ground). vyasana here = calamity of a person, not a vice. 'iti dānam' closes the definition; iti is not rendered as 'thus'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.26"
+  ],
+  "lines_deva": [
+   "शौच.सामर्थ्य.अपदेशेन व्यसन.अभ्युदय.अवेक्षणेन वा प्रतिपूजनम् इति दानम्"
+  ],
+  "lines_iast": [
+   "śauca.sāmarthya.apadeśena vyasana.abhyudaya.avekṣaṇena vā pratipūjanam iti dānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitra.vyañjano",
+      "words": [
+       {
+        "w": "mitra-vyañjanaḥ",
+        "gloss": "agent in the guise of an ally",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "brūyād",
+      "words": [
+       {
+        "w": "brūyāt",
+        "gloss": "should say",
+        "gram": "3 sg. opt. √brū"
+       }
+      ]
+     },
+     {
+      "src": "etān",
+      "words": [
+       {
+        "w": "etān",
+        "gloss": "to these",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "\"citta.jñāna.artham",
+      "words": [
+       {
+        "w": "citta-jñāna-artham",
+        "gloss": "for knowing the mind",
+        "gram": "tat-puruṣa, ind. (acc. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "upadhāsyati",
+      "words": [
+       {
+        "w": "upadhāsyati",
+        "gloss": "will put to the test",
+        "gram": "3 sg. fut. upa-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "vo",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "you",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rājā,",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asya-ākhyātavyam",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "to him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ākhyātavyam",
+        "gloss": "to be reported",
+        "gram": "n. nom. sg. gerundive ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closes the quotation",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा मित्र के वेश वाला गुप्तचर इनसे कहे— “राजा चित्त जानने के लिए तुम्हारी परीक्षा लेगा, वह उसे बताना चाहिए।”",
+  "english": "Or an agent in the guise of an ally should say to these: \"The king will put you to the test in order to know [your] mind; that is to be reported to him.\"",
+  "text_flags": [
+   {
+    "src": "\"citta.jñāna.artham",
+    "suggest": "\"citta.jñāna.artham ... ākhyātavyam\" iti",
+    "why": "possible: the opening quotation mark has no closing mark; the quote should close after ākhyātavyam, before iti"
+   }
+  ],
+  "notes": "upa-√dhā: 'put to the test, tempt' (cf. the technical upadhā); rendered 'put to the test', not certain. 'asya' ('of/to him') is ambiguous: the speaker, the king, or a third person; read as 'to him'. vaḥ is read as accusative 'you' here (it is genitive 'your' in other units). The closing iti is not rendered. Reviewer: vo may be genitive ('your king will test [you]'), as in units 13 and 21, instead of the accusative read here; the sense 'test' of upadhā-verb is kept literal but unconfirmed (glossary 13.4 keeps the noun upadhā untranslated). The text_flag for the unclosed quote is sound: close it after ākhyātavyam, before iti.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.05.27"
+  ],
+  "lines_deva": [
+   "मित्र.व्यञ्जनो वा ब्रूयाद् एतान् \"चित्त.ज्ञान.अर्थम् उपधास्यति वो राजा, तद् अस्य-आख्यातव्यम् इति"
+  ],
+  "lines_iast": [
+   "mitra.vyañjano vā brūyād etān \"citta.jñāna.artham upadhāsyati vo rājā, tad asya-ākhyātavyam iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parasparād",
+      "words": [
+       {
+        "w": "parasparāt",
+        "gloss": "from one another",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhedayed",
+      "words": [
+       {
+        "w": "bhedayet",
+        "gloss": "should cause to split",
+        "gram": "3 sg. opt. caus. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "enān",
+      "words": [
+       {
+        "w": "enān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "\"asau",
+      "words": [
+       {
+        "w": "asau",
+        "gloss": "that one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asau",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asau",
+        "gloss": "that one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vo",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "you",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rājany",
+      "words": [
+       {
+        "w": "rājani",
+        "gloss": "regarding the king",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "evam",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "upajapati\"",
+      "words": [
+       {
+        "w": "upajapati",
+        "gloss": "instigates",
+        "gram": "3 sg. pres. upa-√jap"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "danda, full stop",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "marks the definition",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhedaḥ",
+      "words": [
+       {
+        "w": "bhedaḥ",
+        "gloss": "dissension",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा इनमें परस्पर भेद कराए— “वह और वह तुम्हें राजा के विषय में इस प्रकार उपजाप करते हैं।” यह भेद है।",
+  "english": "Or one should cause them to split from one another: \"That one and that one instigate you thus regarding the king.\" [This is] dissension.",
+  "text_flags": [],
+  "notes": "The verb upajapati is singular with a double subject. 'rājani' is a locative ('regarding, in the case of the king'); 'against' is not stated. 'iti bhedaḥ' closes the definition and is not rendered 'thus'. parasparāt = 'from one another' (ablative of separation). The printed ' | ' (danda) is kept as its own token.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.28"
+  ],
+  "lines_deva": [
+   "परस्पराद् वा भेदयेद् एनान् \"असौ च-असौ च वो राजन्य् एवम् उपजपति\" । इति भेदः"
+  ],
+  "lines_iast": [
+   "parasparād vā bhedayed enān \"asau ca-asau ca vo rājany evam upajapati\" | iti bhedaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dāṇḍakarmikavac",
+      "words": [
+       {
+        "w": "dāṇḍa-karmika-vat",
+        "gloss": "like the dāṇḍakarmika",
+        "gram": "ind. (-vat)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "force",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और दण्ड दाण्डकर्मिक की भाँति है।",
+  "english": "And force [is] like the dāṇḍakarmika.",
+  "text_flags": [],
+  "notes": "dāṇḍakarmika is kept as a technical term without a guessed sense (presumably a rule or officer of the punishment procedure, not confirmed). daṇḍa here = force (the fourth upāya, glossary).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.05.29"
+  ],
+  "lines_deva": [
+   "दाण्डकर्मिकवच् च दण्डः"
+  ],
+  "lines_iast": [
+   "dāṇḍakarmikavac ca daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etāsāṃ",
+      "words": [
+       {
+        "w": "etāsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "catasṛṇām",
+      "words": [
+       {
+        "w": "catasṛṇām",
+        "gloss": "four",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpadām",
+      "words": [
+       {
+        "w": "āpadām",
+        "gloss": "adversities",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhyantarām",
+      "words": [
+       {
+        "w": "abhyantarām",
+        "gloss": "the internal one",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "first",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sādhayet",
+      "words": [
+       {
+        "w": "sādhayet",
+        "gloss": "should deal with",
+        "gram": "3 sg. opt. caus. √sādh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन चार आपत्तियों में पहले भीतरी आपत्ति को ही निपटाए।",
+  "english": "Of these four adversities one should deal with the internal one first.",
+  "text_flags": [],
+  "notes": "sādhayet = 'accomplish, bring to success'; rendered 'deal with'. 'abhyantarām' agrees with an understood āpadam.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.30"
+  ],
+  "lines_deva": [
+   "एतासां चतसृणाम् आपदाम् अभ्यन्तराम् एव पूर्वं साधयेत्"
+  ],
+  "lines_iast": [
+   "etāsāṃ catasṛṇām āpadām abhyantarām eva pūrvaṃ sādhayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ahi.bhayād",
+      "words": [
+       {
+        "w": "ahi-bhayāt",
+        "gloss": "because of fear of a snake",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhyantara.kopo",
+      "words": [
+       {
+        "w": "abhyantara-kopaḥ",
+        "gloss": "internal revolt",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.kopāt",
+      "words": [
+       {
+        "w": "bāhya-kopāt",
+        "gloss": "than external revolt",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāpīyān",
+      "words": [
+       {
+        "w": "pāpīyān",
+        "gloss": "worse",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "marks the citation",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "uktaṃ",
+      "words": [
+       {
+        "w": "uktam",
+        "gloss": "said",
+        "gram": "n. nom. sg. past part. √vac"
+       }
+      ]
+     },
+     {
+      "src": "purastād",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "earlier",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साँप के भय से भीतरी कोप बाहरी कोप से अधिक बुरा है — यह पहले कहा गया है।",
+  "english": "Because of fear of a snake, internal revolt is worse than external revolt: this was said earlier.",
+  "text_flags": [],
+  "notes": "ahi-bhayāt: ablative of cause, 'because of fear of a snake' (alternatively 'as with fear of a snake'). kopa = revolt (glossary 8.2).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.31"
+  ],
+  "lines_deva": [
+   "अहि.भयाद् अभ्यन्तर.कोपो बाह्य.कोपात् पापीयान् इत्य् उक्तं पुरस्ताद्"
+  ],
+  "lines_iast": [
+   "ahi.bhayād abhyantara.kopo bāhya.kopāt pāpīyān ity uktaṃ purastād"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pūrvāṃ",
+      "words": [
+       {
+        "w": "pūrvām",
+        "gloss": "each earlier",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvāṃ",
+      "words": [
+       {
+        "w": "pūrvām",
+        "gloss": "each earlier",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vijānīyāl",
+      "words": [
+       {
+        "w": "vijānīyāt",
+        "gloss": "should regard",
+        "gram": "3 sg. opt. vi-√jñā"
+       }
+      ]
+     },
+     {
+      "src": "laghvīm",
+      "words": [
+       {
+        "w": "laghvīm",
+        "gloss": "light",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āpadam",
+      "words": [
+       {
+        "w": "āpadam",
+        "gloss": "adversity",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āpadām",
+      "words": [
+       {
+        "w": "āpadām",
+        "gloss": "of adversities",
+        "gram": "f. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "utthitāṃ",
+      "words": [
+       {
+        "w": "utthitām",
+        "gloss": "arisen",
+        "gram": "f. acc. sg. past part. ud-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "balavadbhyo",
+      "words": [
+       {
+        "w": "balavadbhyaḥ",
+        "gloss": "from the powerful",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gurvīṃ",
+      "words": [
+       {
+        "w": "gurvīm",
+        "gloss": "heavy",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghvīṃ",
+      "words": [
+       {
+        "w": "laghvīm",
+        "gloss": "light",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparyaye",
+      "words": [
+       {
+        "w": "viparyaye",
+        "gloss": "in the reverse case",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आपत्तियों में प्रत्येक पूर्व आपत्ति को हल्की आपत्ति समझे, अथवा बलवानों से उत्पन्न आपत्ति को भारी, और विपरीत स्थिति में हल्की।",
+  "english": "Among adversities one should regard each earlier adversity as the light one, or the one arisen from the powerful [as] heavy, and [as] light in the reverse case.",
+  "text_flags": [],
+  "notes": "'pūrvāṃ pūrvām' is distributive (each earlier one, in the order of the four adversities of unit 3). 'vā' joins the second criterion; the phrase 'gurvīṃ laghvīṃ viparyaye' is read as 'heavy; light in the reverse case'. Elliptical; the verb is carried over from line a. Kangle-type reading, not verified.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.05.32a",
+   "09.05.32b"
+  ],
+  "lines_deva": [
+   "पूर्वां पूर्वां विजानीयाल् लघ्वीम् आपदम् आपदाम्",
+   "उत्थितां बलवद्भ्यो वा गुर्वीं लघ्वीं विपर्यये"
+  ],
+  "lines_iast": [
+   "pūrvāṃ pūrvāṃ vijānīyāl laghvīm āpadam āpadām",
+   "utthitāṃ balavadbhyo vā gurvīṃ laghvīṃ viparyaye"
+  ],
+  "uncertain": []
+ }
+]

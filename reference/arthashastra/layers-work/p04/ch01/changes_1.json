@@ -1,0 +1,126 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "अर्थ्य-प्रतीकार, कारुओं के शासक, सन्निक्षेप्ता, अपनी सम्पत्ति के कारु, श्रेणी को प्रमाण मानने वाले निक्षेप ग्रहण करें।",
+  "new": "अर्थ्य-प्रतीकार, कारुओं के शासक, सन्निक्षेप्ता, अपने धन के कारु, श्रेणी को प्रमाण मानने वाले निक्षेप ग्रहण करें।",
+  "why": "reviewer (minor): sampatti collides with the glossary use of sampat (excellence); vitta is wealth"
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "kārya-apadeśam",
+  "old": "tat-puruṣa, n. acc. sg.",
+  "new": "tat-puruṣa, m. acc. sg.",
+  "why": "reviewer (minor): apadeśa is masculine"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जिस कर्म में देश, काल और कार्य निर्दिष्ट हों, वह कर्म करें; जिसमें देश और काल निर्दिष्ट नहीं हैं, उसमें कार्य का अपदेश हो।",
+  "new": "जिस कर्म में देश, काल और कार्य निर्दिष्ट हों, वह कर्म करें; जिसमें देश और काल निर्दिष्ट नहीं हैं, उसमें कार्य का अपदेश है।",
+  "why": "reviewer (minor): Sanskrit has no verb; 'हो' is an interpretive subjunctive, only a bare copula may be supplied"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जिस कर्म में देश, काल और कार्य निर्दिष्ट हों, वह कर्म करें; जिसमें देश और काल निर्दिष्ट नहीं हैं, उसमें कार्य का अपदेश है।",
+  "new": "और जिस कर्म में देश, काल और कार्य निर्दिष्ट हों, वह कर्म करें; जिसमें देश और काल निर्दिष्ट नहीं हैं, उसमें कार्य का अपदेश है।",
+  "why": "reviewer (minor): ca ('and') dropped in Hindi"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "They should do work whose place, time and task are specified; [for work] whose place and time are not specified, [there is] the designation of the task.",
+  "new": "And they should do work whose place, time and task are specified; [for work] whose place and time are not specified, [there is] the designation of the task.",
+  "why": "reviewer (minor): ca dropped in English"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "The last phrase is elliptical; apadeśa is rendered 'designation' (alternatives: 'pretext, statement'). The sense of the contrast is uncertain.",
+  "new": "The last phrase is elliptical; apadeśa is rendered 'designation' (alternatives: 'pretext, statement'). The sense of the contrast is uncertain. Review: apadeśam is accusative, so the clause may instead be 'they should do work of unspecified place and time, [giving] a designation of the task'; the copula reading is kept only as the least interpretive. A person should decide.",
+  "why": "reviewer (minor): accusative apadeśam may mean '[stating] a designation of the task' with kuryuḥ understood; kept as a bare copula"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "माप में कमी होने पर वेतन कमी के अनुसार घटा हुआ और उसका दुगुना दण्ड होता है; तौल में कमी होने पर कमी का चौगुना दण्ड; सूत बदलने पर मूल्य का दुगुना।",
+  "new": "माप में कमी होने पर वेतन कमी से घटा हुआ और उसका दुगुना दण्ड होता है; तौल में कमी होने पर कमी का चौगुना दण्ड; सूत बदलने पर मूल्य का दुगुना।",
+  "why": "reviewer (minor): 'in proportion' is an addition; hīna-avahīna is 'lessened by the shortfall'"
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "tena",
+  "old": "ind. inst. sg.",
+  "new": "pron. n. inst. sg. (tad)",
+  "why": "reviewer (minor): tena is a pronoun form, not an indeclinable"
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "For a tulā of wool, [there is] a five-pala beating-cut (vihanana-cheda) and a hair-cut (roma-cheda).",
+  "new": "For a tulā of wool, [there is] a five-pala beating-cut (vihanana-cheda) and a cut of hair (roma-cheda).",
+  "why": "reviewer (minor): reads as 'haircut'; roma is body hair"
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "para-vastra-vikraya-avakraya-ādhāneṣu",
+  "old": "dvandva, m. loc. pl.",
+  "new": "tat-puruṣa with dvandva, n. loc. pl.",
+  "why": "reviewer (minor): dvandva ends in neuter ādhāna, and para-vastra qualifies the whole"
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "avakraya is rendered 'hire' (alternative: 'purchase'); ādhāna 'pledge'. 'The giving of cloth' is literal; it may mean restitution of cloth, but the Sanskrit does not say so. 'Another's' (para) is read with vastra.",
+  "new": "avakraya is rendered 'hire' (alternative: 'purchase'); ādhāna 'pledge'. 'The giving of cloth' is literal; it may mean restitution of cloth, but the Sanskrit does not say so. 'Another's' (para) is read with vastra. Review: avakraya = hire is kept, aligned with 5.2 avakrītaka = hired; the alternative is 'purchase'.",
+  "why": "reviewer (minor): aligned with 5.2 avakrītaka = hired (confirmed)"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "पाँच रात का हल्के रंग वाला; छह रात का नीला; और फूल, लाख और मञ्जिष्ठा से रँगा, भारी परिकर्म वाला, यत्न से उपचार करने योग्य, उत्तम जाति का वस्त्र सात रात का।",
+  "new": "पाँच रात का हल्के रंग वाला; छह रात का नीला; फूल, लाख और मञ्जिष्ठा से रँगा, भारी परिकर्म वाला, यत्न से उपचार करने योग्य, उत्तम जाति का वस्त्र सात रात का।",
+  "why": "reviewer (minor): 'और' has no counterpart in the Sanskrit list"
+ },
+ {
+  "n": "24",
+  "field": "word.gram",
+  "word": "tena",
+  "old": "ind. inst. sg.",
+  "new": "pron. n. inst. sg. (tad)",
+  "why": "reviewer (minor): tena is a pronoun form, not an indeclinable"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "सुनारों में जो अशुद्ध हाथ से चाँदी, सोना बिना बताए खरीदते हैं, उनके लिए समान रूप वाले पर बारह पण का दण्ड, बदले रूप वाले पर चौबीस पण, और चोर के हाथ से अड़तालीस पण।",
+  "new": "सुनारों में जो अशुद्ध हाथ से चाँदी, सोना बिना बताए खरीदते हैं, उनके लिए समान रूप वाले पर बारह पण का दण्ड, बदले रूप वाले पर चौबीस पण, चोर के हाथ से अड़तालीस पण।",
+  "why": "reviewer (minor): added conjunction in a list without ca"
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "The genitive 'of goldsmiths' is rendered 'of goldsmiths who buy', following krīṇatām. aśuci-hasta (literally 'impure hand') is kept literal. sarūpa / virūpa are rendered 'of the same form' / 'of altered form' (the exact sense is not given). rūpya is read as silver.",
+  "new": "The genitive 'of goldsmiths' is rendered 'of goldsmiths who buy', following krīṇatām. aśuci-hasta (literally 'impure hand') is kept literal. sarūpa / virūpa are rendered 'of the same form' / 'of altered form' (the exact sense is not given). rūpya is read as silver. Review: the flag on dvādaśapaṇo is confirmed (missing dot). suvarṇa here is the metal, gold; in 4.1.28 and 4.1.32 it is the unit.",
+  "why": "reviewer (minor): text flag confirmed: missing compound dot; suvarṇa here is the metal (gold) beside rūpya"
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "suvarṇa is both 'gold' and a unit of weight; the weight sense is chosen but the first reading 'from gold' is possible. The unit of 'two hundred' is not stated (paṇas by implication). dharaṇa kept as a unit name. Suvarṇān is suvarṇāt before m.",
+  "new": "suvarṇa is both 'gold' and a unit of weight; the weight sense is chosen but the first reading 'from gold' is possible. The unit of 'two hundred' is not stated (paṇas by implication). dharaṇa kept as a unit name. Suvarṇān is suvarṇāt before m. Review: suvarṇa is read as the weight unit because it stands parallel to rūpya-dharaṇāt; suvarṇa, dharaṇa and māṣaka stay unit names.",
+  "why": "reviewer (minor): unit sense is parallel to rūpya-dharaṇa"
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "tena",
+  "old": "ind. inst. sg.",
+  "new": "pron. n. inst. sg. (tad)",
+  "why": "reviewer (minor): tena is a pronoun form, not an indeclinable"
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जो मुख्य राज्य को हानि पहुँचाने वाले, वल्लभ अथवा संगठित हैं और खुले रूप से जिन्हें रोकना सम्भव नहीं, वे दूष्य हैं; उनके विषय में धर्म में रुचि रखने वाला गुप्त दण्ड का प्रयोग करे।",
+  "new": "किन्तु जो मुख्य राज्य को हानि पहुँचाने वाले, वल्लभ अथवा संगठित हैं और खुले रूप से जिन्हें रोकना सम्भव नहीं, वे दूष्य हैं; उनके विषय में धर्म में रुचि रखने वाला गुप्त दण्ड का प्रयोग करे।",
+  "why": "reviewer (minor): tu ('but') is dropped in the Hindi"
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "protsāhya",
+  "old": "abs. pra-√sah caus.",
+  "new": "abs. pra-ut-√sah caus.",
+  "why": "reviewer (minor): root: protsāhya is pra-ut-√sah caus., not pra-√sah"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "pāraśava is kept as a term: in the dharma literature the word is used of the son of a śūdra woman, but the line itself gives no definition. 'By that' refers back to the procedure of units 5-7 (reading of the sentence, not stated in the text). Literal 'explained' kept.",
+  "new": "pāraśava is kept as a term: the line itself gives no definition. 'By that' refers back to the procedure of units 5-7 (reading of the sentence, not stated in the text). Literal 'explained' kept.",
+  "why": "reviewer (minor): notes import a sense from other books (śūdra woman's son); the line gives no definition"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "रात में दूष्य के घर के द्वार पर सोते हुए, अथवा अन्यत्र रहते हुए उसे जो तीक्ष्ण मारने वाला हो, वह कहे — \"दाय चाहने वाला यह मारा गया।\"",
+  "new": "रात में दूष्य के घर के द्वार पर सोते हुए, अथवा अन्यत्र रहते हुए उसे मारने वाला तीक्ष्ण कहे — \"दाय चाहने वाला यह मारा गया।\"",
+  "why": "reviewer (error): Hindi garbles hantā/tīkṣṇa ('whoever is sharp, a killer'); tīkṣṇa is the assassin"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Or of treasonable high officials: if a son approaches [the wives] of his father, or a father the wives of his son, or a brother [those] of a brother, the quarrel between those two, with a kāpaṭika at its head, is explained by the earlier [rule].",
+  "new": "Or of treasonable high officials: if a son approaches [the wives] of his father, or a father the wives of his son, or a brother [those] of a brother, the quarrel of those two, with a kāpaṭika at its head, is explained by the earlier [rule].",
+  "why": "reviewer (minor): tayoḥ is genitive 'of those two'; 'between' is an unmarked change"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "अथवा दूष्य महामात्रों में जो पुत्र पिता की स्त्रियों के पास जाता है, या पिता पुत्र की स्त्रियों के पास, या भाई भाई की, उन दोनों का कापटिक-मुख कलह पहले वाले से व्याख्यात है।",
+  "new": "अथवा दूष्य महामात्रों में जो पुत्र पिता की स्त्रियों के पास जाता है, या पिता पुत्र की स्त्रियों के पास, या भाई भाई की, उन दोनों का कलह, जिसका मुख कापटिक है, पहले वाले से व्याख्यात है।",
+  "why": "reviewer (minor): kāpaṭika-mukha left as a bare compound that reads as a name; give the bahuvrīhi sense literally"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "गुप्तचर दूष्य महामात्र के पुत्र को, अथवा अपने द्वारा सम्मानित को, \"तुम राजपुत्र हो, शत्रु के भय से यहाँ रखे गए हो\" — ऐसा कहकर गुप्त रूप से उकसाए।",
+  "new": "गुप्तचर दूष्य महामात्र के पुत्र को, अथवा अपने द्वारा सम्मानित को गुप्त रूप से उकसाए — \"तुम राजपुत्र हो, शत्रु के भय से यहाँ रखे गए हो।\"",
+  "why": "reviewer (minor): closing iti rendered 'ऐसा कहकर' (adds 'saying'); glossary: closing iti of a quotation is not rendered"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "pūjayet",
+  "old": "3 sg. opt. caus. √pūj",
+  "new": "3 sg. opt. √pūj (10th cl.)",
+  "why": "reviewer (minor): pūj is a 10th-class root (pūjayati), not a causative"
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "saṃvāsya is literally 'having made [her] live together'; the object of the togetherness is not stated ('[with her]' is only a possible filling), so confidence is medium. atisandadhyāt = 'should outwit' (glossary atisaṃhita = outwitted); who is outwitted is not stated. sāṃvadanikī oṣadhī = love-winning herb (glossary).",
+  "new": "saṃvāsya is literally 'having made [her] live together'; the object of the togetherness is not stated ('[with her]' is only a possible filling), so confidence is low. atisandadhyāt = 'should outwit' (glossary atisaṃhita = outwitted); who is outwitted is not stated. sāṃvadanikī oṣadhī = love-winning herb (glossary).",
+  "why": "reviewer (minor): notes say medium, confidence field says low"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "अथवा भिक्षुकी दूष्य की पत्नी को वशीकरण की औषधियों से साथ बसाकर विष से छले।",
+  "new": "अथवा भिक्षुकी दूष्य की पत्नी को वशीकरण की औषधियों से साथ बसाकर विष से छल ले।",
+  "why": "reviewer (minor): glossary 9.1: atisandhā = outwit (छल लेना)"
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "iti",
+  "old": "ind. |",
+  "new": "ind.",
+  "why": "reviewer (minor): stray '|' in gram"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "रात या दिन में युद्ध छिड़ जाने पर तीक्ष्ण अथवा प्रतिरोधक के वेश वाले गुप्तचर उसे मार डालें — \"आक्रमण में मारा गया।\"",
+  "new": "रात या दिन में युद्ध छिड़ जाने पर तीक्ष्ण अथवा प्रतिरोधक के वेश वाले गुप्तचर मार डालें — \"आक्रमण में मारा गया।\"",
+  "why": "reviewer (minor): Hindi supplies the object 'उसे' unmarked (English brackets it)"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अथवा बाहर विहार के लिए गया हुआ निकट निवास वाले दूष्यों का सम्मान करे।",
+  "new": "अथवा बाहर विहार पर गया हुआ निकट निवास वाले दूष्यों का सम्मान करे।",
+  "why": "reviewer (minor): 'के लिए' unmarked (unit 23 says 'पर')"
+ },
+ {
+  "n": "28",
+  "field": "word.gram",
+  "word": "pūjayet",
+  "old": "3 sg. opt. caus. √pūj",
+  "new": "3 sg. opt. √pūj (10th cl.)",
+  "why": "reviewer (minor): pūj is a 10th-class root, not a causative"
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "उनके निवासों में रात को रानी के वेश वाली दुष्ट स्त्री पकड़ी जाए — यह पहले के समान है।",
+  "new": "अथवा उनके निवासों में रात को रानी के वेश वाली दुष्ट स्त्री पकड़ी जाए — यह पहले के समान है।",
+  "why": "reviewer (minor): vā ('or') is dropped in the Hindi"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "अथवा दूष्य महामात्र से \"तुम्हारा रसोइया अथवा भक्ष-कार उत्तम है\" इस प्रकार स्तुति करके भक्ष्य-भोज्य माँगे, अथवा बाहर कहीं मार्ग पर गया हुआ पेय माँगे।",
+  "new": "अथवा दूष्य महामात्र से — \"तुम्हारा रसोइया अथवा भक्ष-कार उत्तम है\" — इस स्तुति से भक्ष्य-भोज्य माँगे, अथवा बाहर कहीं मार्ग पर गया हुआ पेय माँगे।",
+  "why": "reviewer (minor): 'इस प्रकार' renders the closing iti as 'thus' (glossary forbids)"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "उसे प्रसिद्ध करके — \"दोनों रसद हैं\" — मरवा दे।",
+  "new": "उसे प्रसिद्ध करके — \"दोनों विष देने वाले हैं\" — मरवा दे।",
+  "why": "reviewer (error): glossary 5.2 fixes rasada = poisoner, Hindi विष देने वाला (रसद = supplies in Hindi)"
+ },
+ {
+  "n": "32",
+  "field": "notes",
+  "old": "rasada = poisoner (glossary 12.2); the Hindi form रसद is fixed by the glossary and clashes with रसद 'supplies' in other books. Object of ghātayet is understood (the two).",
+  "new": "rasada = poisoner; Hindi विष देने वाला as in glossary 5.2 (रसद would read as 'supplies'). Object of ghātayet is understood (the two).",
+  "why": "reviewer (error): glossary 5.2 fixes rasada = poisoner, Hindi विष देने वाला (रसद = supplies in Hindi)"
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "अथवा सिद्ध के वेश वाला गुप्तचर अभिचार में लगे रहने वाले से ग्रहण कराए — \"गोह, कछुआ, केकड़ा और कूट के लक्षण वाले में से किसी एक के भक्षण से तुम मनोरथ पाओगे।\"",
+  "new": "अथवा सिद्ध के वेश वाला गुप्तचर अभिचार में लगे रहने वाले से ग्रहण कराए — \"गोह, कछुआ, केकड़ा और कूट — लक्षणों वाले इन में से किसी एक के भक्षण से तुम मनोरथ पाओगे।\"",
+  "why": "reviewer (minor): lakṣaṇyānām qualifies the four animals/kūṭa ('the marked ones'); Hindi reads as 'having the marks of kūṭa'"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "अथवा चिकित्सक के वेश वाला गुप्तचर दूष्य के दौरात्मिक अथवा असाध्य रोग को स्थापित करके औषध और आहार के योगों में विष से छले।",
+  "new": "अथवा चिकित्सक के वेश वाला गुप्तचर दूष्य के दौरात्मिक अथवा असाध्य रोग को स्थापित करके औषध और आहार के योगों में विष से छल ले।",
+  "why": "reviewer (minor): glossary 9.1: atisandhā = outwit (छल लेना)"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "अथवा सूद और आरालिक के वेश वाले नियुक्त गुप्तचर दूष्य को विष से छलें।",
+  "new": "अथवा रसोइयों और आरालिक के वेश वाले नियुक्त गुप्तचर दूष्य को विष से छलें।",
+  "why": "reviewer (error): सूद in Hindi means interest; cook is रसोइया (unit 30)"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "अथवा रसोइयों और आरालिक के वेश वाले नियुक्त गुप्तचर दूष्य को विष से छलें।",
+  "new": "अथवा रसोइयों और आरालिक के वेश वाले नियुक्त गुप्तचर दूष्य को विष से छल लें।",
+  "why": "reviewer (minor): glossary 9.1"
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Where a treasonable one is to be restrained, there he should send just the treasonable one, accompanied by weak troops and assassins: \"Go; in that fort or country raise an army, or gold; or fetch gold from the favourite; or, having seized by force, bring the favourite's daughter; or have any one of the works of forts, embankments, trade routes, settlement of empty land, mines, and forests of materials and of elephants done, or the guarding of the country or of the frontier. And whoever should hinder you, or should not give you help, he is to be bound.\"",
+  "new": "Where a treasonable one is to be restrained, there he should send just the treasonable one, accompanied by weak troops and assassins: \"Go; in that fort or country raise an army, or money; or fetch gold from the favourite; or, having seized by force, bring the favourite's daughter; or have any one of the works of forts, embankments, trade routes, settlement of empty land, mines, and forests of materials and of elephants done, or the guarding of the country or of the frontier. And whoever should hinder you, or should not give you help, he is to be bound.\"",
+  "why": "reviewer (error): glossary 5.2: hiraṇya = money (धन), 'gold' only in notes"
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Where a treasonable one is to be restrained, there he should send just the treasonable one, accompanied by weak troops and assassins: \"Go; in that fort or country raise an army, or money; or fetch gold from the favourite; or, having seized by force, bring the favourite's daughter; or have any one of the works of forts, embankments, trade routes, settlement of empty land, mines, and forests of materials and of elephants done, or the guarding of the country or of the frontier. And whoever should hinder you, or should not give you help, he is to be bound.\"",
+  "new": "Where a treasonable one is to be restrained, there he should send just the treasonable one, accompanied by weak troops and assassins: \"Go; in that fort or country raise an army, or money; or fetch money from the favourite; or, having seized by force, bring the favourite's daughter; or have any one of the works of forts, embankments, trade routes, settlement of empty land, mines, and forests of materials and of elephants done, or the guarding of the country or of the frontier. And whoever should hinder you, or should not give you help, he is to be bound.\"",
+  "why": "reviewer (error): glossary 5.2: hiraṇya = money (धन), 'gold' only in notes"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "जहाँ दूष्य को रोकना हो वहाँ दूष्य को ही दुर्बल सेना और तीक्ष्णों से युक्त करके भेजे — \"जाओ, उस दुर्ग या राष्ट्र में सेना खड़ी करो, अथवा हिरण्य; या वल्लभ से हिरण्य ले आओ; या वल्लभ की कन्या को बलपूर्वक ले आओ; या दुर्ग, सेतु, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य और हाथियों के वन के कर्मों में से कोई एक कराओ, अथवा राष्ट्र का पालन या अन्त का पालन; और जो तुम्हें रोके या तुम्हें सहायता न दे, वह बाँधा जाना चाहिए।\"",
+  "new": "जहाँ दूष्य को रोकना हो वहाँ दूष्य को ही दुर्बल सेना और तीक्ष्णों से युक्त करके भेजे — \"जाओ, उस दुर्ग या राष्ट्र में सेना खड़ी करो, अथवा धन; या वल्लभ से हिरण्य ले आओ; या वल्लभ की कन्या को बलपूर्वक ले आओ; या दुर्ग, सेतु, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य और हाथियों के वन के कर्मों में से कोई एक कराओ, अथवा राष्ट्र का पालन या अन्त का पालन; और जो तुम्हें रोके या तुम्हें सहायता न दे, वह बाँधा जाना चाहिए।\"",
+  "why": "reviewer (error): glossary 5.2: hiraṇya = money (धन), 'gold' only in notes"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "जहाँ दूष्य को रोकना हो वहाँ दूष्य को ही दुर्बल सेना और तीक्ष्णों से युक्त करके भेजे — \"जाओ, उस दुर्ग या राष्ट्र में सेना खड़ी करो, अथवा धन; या वल्लभ से हिरण्य ले आओ; या वल्लभ की कन्या को बलपूर्वक ले आओ; या दुर्ग, सेतु, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य और हाथियों के वन के कर्मों में से कोई एक कराओ, अथवा राष्ट्र का पालन या अन्त का पालन; और जो तुम्हें रोके या तुम्हें सहायता न दे, वह बाँधा जाना चाहिए।\"",
+  "new": "जहाँ दूष्य को रोकना हो वहाँ दूष्य को ही दुर्बल सेना और तीक्ष्णों से युक्त करके भेजे — \"जाओ, उस दुर्ग या राष्ट्र में सेना खड़ी करो, अथवा धन; या वल्लभ से धन ले आओ; या वल्लभ की कन्या को बलपूर्वक ले आओ; या दुर्ग, सेतु, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य और हाथियों के वन के कर्मों में से कोई एक कराओ, अथवा राष्ट्र का पालन या अन्त का पालन; और जो तुम्हें रोके या तुम्हें सहायता न दे, वह बाँधा जाना चाहिए।\"",
+  "why": "reviewer (error): glossary 5.2: hiraṇya = money (धन), 'gold' only in notes"
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "hiraṇyam",
+  "old": "gold",
+  "new": "money",
+  "why": "reviewer (error): glossary 5.2: hiraṇya = money (धन), 'gold' only in notes"
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "hiraṇyam",
+  "old": "gold",
+  "new": "money",
+  "why": "reviewer (error): glossary 5.2: hiraṇya = money (धन), 'gold' only in notes"
+ },
+ {
+  "n": "39",
+  "field": "notes",
+  "old": "Opening quotation mark missing in the e-text (see text_flags); the quoted instruction is taken to start at 'gaccha'. The compound of works is rendered as dvandva; 'dravya-hasti-vana' is read as 'forests of materials and of elephants' (alternative: dravya-vana and hasti-vana, or 'material, elephant, forest'). śūnya-niveśa = settlement of empty (deserted) land. amuṣmin = 'in that' (alternative 'in such-and-such'). vallabha = favourite, here the person of that name in unit 4, not identified further. pratiṣeddhavya 'to be restrained'; pratiṣedhayet (caus.) rendered 'should hinder'. rāṣṭra-pālya/anta-pālya: 'the guarding of the country/frontier' (or 'the post of country-warden/frontier officer').",
+  "new": "Opening quotation mark missing in the e-text (see text_flags); the quoted instruction is taken to start at 'gaccha'. The compound of works is rendered as dvandva; 'dravya-hasti-vana' is read as 'forests of materials and of elephants' (alternative: dravya-vana and hasti-vana, or 'material, elephant, forest'). śūnya-niveśa = settlement of empty (deserted) land. amuṣmin = 'in that' (alternative 'in such-and-such'). vallabha = favourite, here the person of that name in unit 4, not identified further. pratiṣeddhavya 'to be restrained'; pratiṣedhayet (caus.) rendered 'should hinder'. rāṣṭra-pālya/anta-pālya: 'the guarding of the country/frontier' (or 'the post of country-warden/frontier officer'). hiraṇya rendered 'money' per glossary 5.2 ('gold' is the alternative). Text flag on the missing opening quotation mark before gaccha is confirmed.",
+  "why": "reviewer (error): glossary 5.2: hiraṇya = money (धन), 'gold' only in notes"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "जहाँ दूष्य को रोकना हो वहाँ दूष्य को ही दुर्बल सेना और तीक्ष्णों से युक्त करके भेजे — \"जाओ, उस दुर्ग या राष्ट्र में सेना खड़ी करो, अथवा धन; या वल्लभ से धन ले आओ; या वल्लभ की कन्या को बलपूर्वक ले आओ; या दुर्ग, सेतु, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य और हाथियों के वन के कर्मों में से कोई एक कराओ, अथवा राष्ट्र का पालन या अन्त का पालन; और जो तुम्हें रोके या तुम्हें सहायता न दे, वह बाँधा जाना चाहिए।\"",
+  "new": "जहाँ दूष्य को रोकना हो वहाँ दूष्य को ही दुर्बल सेना और तीक्ष्णों से युक्त करके भेजे — \"जाओ, उस दुर्ग या राष्ट्र में सेना खड़ी करो, अथवा धन; या वल्लभ से धन ले आओ; या वल्लभ की कन्या को बलपूर्वक ले आओ; या दुर्ग, सेतु, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य और हाथियों के वन के कर्मों में से कोई एक कराओ, अथवा राष्ट्र का पालन या सीमान्त का पालन; और जो तुम्हें रोके या तुम्हें सहायता न दे, वह बाँधा जाना चाहिए।\"",
+  "why": "reviewer (minor): 'अन्त' means 'end' in Hindi; anta-pālya is the guarding of the frontier"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "वैसे ही दूसरों के लिए भेजे — \"अमुक की अविनय को रोकना चाहिए।\"",
+  "new": "वैसे ही दूसरों के लिए भेजे — \"अमुक के अविनय को रोकना चाहिए।\"",
+  "why": "reviewer (minor): अविनय is masculine"
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "इन कलह के स्थानों में अथवा कर्मों के प्रतिघातों में विवाद करते हुए उसे तीक्ष्ण शस्त्र गिराकर छिपे रूप से मार डालें।",
+  "new": "इन कलह के स्थानों में अथवा कर्मों के प्रतिघातों में विवाद करते हुए उसे तीक्ष्ण पुरुष शस्त्र गिराकर छिपे रूप से मार डालें।",
+  "why": "reviewer (error): reads as 'a sharp weapon'; tīkṣṇāḥ is the subject (assassins)"
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "नगरों, गाँवों अथवा कुलों के दूष्यों में सीमा, खेत, खलिहान और घर की मर्यादाओं में, द्रव्य, उपकरण, फसल और वाहनों की हिंसा में, अथवा प्रेक्षा, कृत्य और उत्सवों में कलह उत्पन्न होने पर, या तीक्ष्णों द्वारा उत्पन्न कराए जाने पर, तीक्ष्ण शस्त्र गिराकर कहें — \"जो इसके साथ कलह करते हैं, उनके साथ ऐसा किया जाता है।\"",
+  "new": "नगरों, गाँवों अथवा कुलों के दूष्यों में सीमा, खेत, खलिहान और घर की मर्यादाओं में, द्रव्य, उपकरण, फसल और वाहनों की हिंसा में, अथवा प्रेक्षा, कृत्य और उत्सवों में कलह उत्पन्न होने पर, या तीक्ष्णों द्वारा उत्पन्न कराए जाने पर, तीक्ष्ण पुरुष शस्त्र गिराकर कहें — \"जो इसके साथ कलह करते हैं, उनके साथ ऐसा किया जाता है।\"",
+  "why": "reviewer (error): reads as 'a sharp weapon'"
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "अथवा जिन दूष्यों के कलह की जड़ें जम गई हों, उनके खेत, खलिहान और घरों में आग लगाकर, तथा बन्धु-सम्बन्धियों में या वाहनों में तीक्ष्ण शस्त्र गिराकर, वैसे ही कहें — \"हम इसके द्वारा लगाए गए हैं।\"",
+  "new": "अथवा जिन दूष्यों के कलह जड़ पकड़ चुके हों, उनके खेत, खलिहान और घरों में आग लगाकर, बन्धु-सम्बन्धियों में या वाहनों में शस्त्र गिराकर, तीक्ष्ण पुरुष वैसे ही कहें — \"हम इसके द्वारा लगाए गए हैं।\"",
+  "why": "reviewer (error): 'तथा' is an unmarked addition, and 'तीक्ष्ण शस्त्र' reads as 'sharp weapon' (subject tīkṣṇāḥ is lost)"
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "वहाँ रसद विष दें।",
+  "new": "वहाँ विष देने वाले विष दें।",
+  "why": "reviewer (error): glossary 5.2: rasada = विष देने वाला, never रसद"
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "rasada = poisoner (glossary); the Hindi रसद is the glossary form and could be misread as 'supplies'. rasa = poison.",
+  "new": "rasada = poisoner (glossary); Hindi विष देने वाला as in glossary 5.2 (रसद would read as 'supplies'). rasa = poison.",
+  "why": "reviewer (error): glossary 5.2: rasada = विष देने वाला, never रसद"
+ },
+ {
+  "n": "50",
+  "field": "notes",
+  "old": "The object of kāmayate is not stated ('[you]' supplied in English only). The speaker speaks of a second dūṣya chief (the one named in the genitive) to the first; the line gives no further detail. rāṣṭra-mukhya = chief of the country; the case of the compound members is not marked.",
+  "new": "The object of kāmayate is not stated ('[you]' supplied in English only). Whether the genitive chief is the same man as the one addressed or a second one is not stated; the line gives no further detail. rāṣṭra-mukhya = chief of the country; the case of the compound members is not marked.",
+  "why": "reviewer (minor): Notes assert that the genitive chief is a second person; the line does not say (same words as the object)"
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "स्वीकार कर लेने वाले का आभरण लेकर स्वामी को दिखलाए — \"वह तुम्हारा मुख्य यौवन के मद में चूर पत्नी, पुत्रवधू या पुत्री पर मन लगाए है।\"",
+  "new": "स्वीकार कर लेने वाले का आभरण लेकर स्वामी को दिखलाए — \"वह तुम्हारा मुख्य यौवन से गर्वित पत्नी, पुत्रवधू या पुत्री पर मन लगाए है।\"",
+  "why": "reviewer (minor): 'intoxicated' is stronger than utsikta (elated, puffed up)"
+ },
+ {
+  "n": "57",
+  "field": "word.gram",
+  "word": "tadātve",
+  "old": "m. loc. sg.",
+  "new": "n. loc. sg.",
+  "why": "reviewer (minor): -tva derivatives are neuter"
+ }
+]

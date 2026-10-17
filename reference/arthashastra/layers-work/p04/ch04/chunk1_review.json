@@ -1,0 +1,755 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "Glossary 4.1: kaṇṭaka-śodhana is कण्टकशोधन in Hindi",
+     "fix": "उसके कण्टकशोधन को हम कहेंगे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "उसके कण्टकशोधन को हम कहेंगे।",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "",
+     "problem": "Glossary 4.1 keeps cāraṇa and kuhaka as terms; kārtāntika settled as fortune-teller (10.3, 12.2)",
+     "fix": "cāraṇas, kuhakas, pracchandakas, fortune-tellers",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "bards, tricksters, pracchandakas, soothsayers",
+      "new": "cāraṇas, kuhakas, pracchandakas, fortune-tellers",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "kuhaka stays कुहक (4.1); kārtāntika = ज्योतिषी (12.2, 10.3)",
+     "fix": "कुहक, प्रच्छन्दक, ज्योतिषी",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ठग, प्रच्छन्दक, कार्तान्तिक",
+      "new": "कुहक, प्रच्छन्दक, ज्योतिषी",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "settled as fortune-teller",
+     "fix": "fortune-teller",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kārtāntika",
+      "field": "gloss",
+      "value": "fortune-teller",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "4.1 keeps the term, sense in notes only",
+     "fix": "cāraṇa (term kept)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "cāraṇa",
+      "field": "gloss",
+      "value": "cāraṇa (term kept)",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "4.1 keeps the term, sense in notes only",
+     "fix": "kuhaka (term kept)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kuhaka",
+      "field": "gloss",
+      "value": "kuhaka (term kept)",
+      "n": "3"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "settling a point",
+     "fix": "REVIEW: kārtāntika settled as fortune-teller (ज्योतिषी), as 10.3 and 12.2; cāraṇa and kuhaka kept as terms per glossary 4.1 (usual senses: bard, trickster). Hindi scope of 'के वेश वाले' covers the whole list, as in the English. Flag still needed (cannot be added by patch): none beyond the line-break join.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW: kārtāntika settled as fortune-teller (ज्योतिषी), as 10.3 and 12.2; cāraṇa and kuhaka kept as terms per glossary 4.1 (usual senses: bard, trickster). Hindi scope of 'के वेश वाले' covers the whole list, as in the English. Flag still needed (cannot be added by patch): none beyond the line-break join.",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "'किसी' is an unmarked addition",
+     "fix": "जिस पर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस किसी पर",
+      "new": "जिस पर",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "w",
+     "where": "",
+     "problem": "dictionary form with m, as other entries (yam, tam)",
+     "fix": "dharmastham",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dharmasthaṃ",
+      "field": "w",
+      "value": "dharmastham",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "direction of the trust is not stated by the Sanskrit",
+     "fix": "one who has reached trust",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "viśvāsa-upagatam",
+      "field": "gloss",
+      "value": "one who has reached trust",
+      "n": "6"
+     }
+    },
+    {
+     "field": "english",
+     "where": "",
+     "problem": "draft adds a direction ('[him]') the Sanskrit does not state",
+     "fix": "who has reached trust",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "who has come to trust [him]",
+      "new": "who has reached trust",
+      "n": "6"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "asau is 'that' (English says That); Hindi had यह",
+     "fix": "वह मेरा बन्धु",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह मेरा बन्धु",
+      "new": "वह मेरा बन्धु",
+      "n": "6"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "pratikriyatām = remedy (glossary pratīkāra = प्रतिकार); 'दूर' is a paraphrase",
+     "fix": "उसके इस अनर्थ का प्रतिकार किया जाए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसका यह अनर्थ दूर किया जाए",
+      "new": "उसके इस अनर्थ का प्रतिकार किया जाए",
+      "n": "6"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "settling a point",
+     "fix": "REVIEW: viśvāsa-upagata = 'reached trust'; whether the judge trusts the agent or the agent has gained the judge's trust is not stated by the compound, kept open.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW: viśvāsa-upagata = 'reached trust'; whether the judge trusts the agent or the agent has gained the judge's trust is not stated by the compound, kept open.",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "settling a point",
+     "fix": "REVIEW (settled for Book 4): pravāsyeta/pravāsyeran/pravāsyāḥ = banished (निर्वासित), not the 11.1/12.3 'do away with'; in 4.4 the last unit offers niṣkraya (redemption) as an alternative, which fits banishment, not killing. All units 7, 10, 12, 15, 18, 21, 23 keep 'banished'.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW (settled for Book 4): pravāsyeta/pravāsyeran/pravāsyāḥ = banished (निर्वासित), not the 11.1/12.3 'do away with'; in 4.4 the last unit offers niṣkraya (redemption) as an alternative, which fits banishment, not killing. All units 7, 10, 12, 15, 18, 21, 23 keep 'banished'.",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "",
+     "problem": "glossary 4.1 formula 'tena X vyākhyātam' = By that, X is explained",
+     "fix": "By that, the pradeṣṭṛs are explained.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "By that, the pradeṣṭṛs are explained.",
+      "n": "8"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "glossary 4.1 formula (इससे X की व्याख्या की गई)",
+     "fix": "इससे प्रदेष्टाओं की व्याख्या की गई।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे प्रदेष्टाओं की व्याख्या की गई।",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "4.1 formula",
+     "fix": "by that",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tena",
+      "field": "gloss",
+      "value": "by that",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "grāma-kūṭa is kept untranslated in notes and English but the Hindi translated it (गाँव के कूट); 'धन से सम्पन्न' for prabhūta-dravya loses 'abundant'; enam is accusative (इसे), a causative needs कराओ",
+     "fix": "ग्राम-कूट को या अध्यक्ष को गुप्तचर कहे — “वह दुष्ट प्रचुर धन वाला है; उसका यह अनर्थ है; इसलिए इसे आहरण कराओ।”",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "ग्राम-कूट को या अध्यक्ष को गुप्तचर कहे — “वह दुष्ट प्रचुर धन वाला है; उसका यह अनर्थ है; इसलिए इसे आहरण कराओ।”",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "settling a point",
+     "fix": "REVIEW: reading left literal and low, a person should check the construction (what ārabheta governs and the sense of abhijñāta); Hindi 'आरम्भ करे' has no object, matching the Sanskrit.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW: reading left literal and low, a person should check the construction (what ārabheta governs and the sense of abhijñāta); Hindi 'आरम्भ करे' has no object, matching the Sanskrit.",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "",
+     "problem": "glossary 4.1 formula",
+     "fix": "By that, the makers of false announcements are explained.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "By that, the makers of false announcements are explained.",
+      "n": "13"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "glossary 4.1 formula",
+     "fix": "इससे झूठी घोषणा करने वालों की व्याख्या की गई।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे झूठी घोषणा करने वालों की व्याख्या की गई।",
+      "n": "13"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "4.1 formula",
+     "fix": "by that",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tena",
+      "field": "gloss",
+      "value": "by that",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "w",
+     "where": "",
+     "problem": "brief rule 6: words carry the corrected form, the flag keeps the printed one",
+     "fix": "saṃvadana-kārakam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "saṃvadana-karakam",
+      "field": "w",
+      "value": "saṃvadana-kārakam",
+      "n": "14"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "saṃvadana: Hindi follows glossary 12.2 (वशीकरण); संवदन is not a Hindi word here",
+     "fix": "वशीकरण करने वाला माने",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "संवदन करने वाला माने",
+      "new": "वशीकरण करने वाला माने",
+      "n": "14"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "prati- = in return; 'भी' is an addition",
+     "fix": "वह मुझे बदले में चाहे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह मुझे भी चाहे",
+      "new": "वह मुझे बदले में चाहे",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "as unit 14",
+     "fix": "“वशीकरण करने वाला”",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "“संवदन करने वाला”",
+      "new": "“वशीकरण करने वाला”",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "",
+     "problem": "glossary 4.1 formula",
+     "fix": "By that, the two [kinds of person] whose practice is kṛtya and abhicāra are explained.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "By that, the two [kinds of person] whose practice is kṛtya and abhicāra are explained.",
+      "n": "16"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "glossary 4.1 formula",
+     "fix": "इससे कृत्य और अभिचार के अभ्यासी दोनों की व्याख्या की गई।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे कृत्य और अभिचार के अभ्यासी दोनों की व्याख्या की गई।",
+      "n": "16"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "4.1 formula",
+     "fix": "by that",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tena",
+      "field": "gloss",
+      "value": "by that",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "",
+     "problem": "order of the Sanskrit (rasadaṃ comes last, after the second vā)",
+     "fix": "to be a maker, buyer or seller of poison, or one dealing in medicines and food, or a poisoner (rasada), to him",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "to be a poisoner (rasada), a maker, buyer or seller of poison, or one dealing in medicines and food, to him",
+      "new": "to be a maker, buyer or seller of poison, or one dealing in medicines and food, or a poisoner (rasada), to him",
+      "n": "17"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "the second vā was dropped",
+     "fix": "व्यवहार करने वाला, या विष देने वाला माने",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्यवहार करने वाला, विष देने वाला माने",
+      "new": "व्यवहार करने वाला, या विष देने वाला माने",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "",
+     "problem": "glossary 4.1 formula",
+     "fix": "By that, the dealer in madana compounds is explained.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "By that, the dealer in madana compounds is explained.",
+      "n": "19"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "glossary 4.1 formula",
+     "fix": "इससे मदन-योग का व्यवहार करने वाले की व्याख्या की गई।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे मदन-योग का व्यवहार करने वाले की व्याख्या की गई।",
+      "n": "19"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "4.1 formula",
+     "fix": "by that",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tena",
+      "field": "gloss",
+      "value": "by that",
+      "n": "19"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "settling a point",
+     "fix": "REVIEW (settled for Book 4): yoga in madana-yoga = compound (योग), as 14.1/14.4, so the draft stands. yoga after mantra (unit 14, mantra-yoga-mūla-karman) = contrivance, as 12.4/13.2; 'preparation' is not used in 4.x.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW (settled for Book 4): yoga in madana-yoga = compound (योग), as 14.1/14.4, so the draft stands. yoga after mantra (unit 14, mantra-yoga-mūla-karman) = contrivance, as 12.4/13.2; 'preparation' is not used in 4.x.",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "settling a point",
+     "fix": "REVIEW: asandaṃśa is as printed in both Devanagari and IAST; 'sandaṃśa' (tongs) remains only a possibility, so the flag stands. kṣāra here = alkali (a metallurgical material), not the 'sugar' of supply lists (12.5).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW: asandaṃśa is as printed in both Devanagari and IAST; 'sandaṃśa' (tongs) remains only a possibility, so the flag stands. kṣāra here = alkali (a metallurgical material), not the 'sugar' of supply lists (12.5).",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "",
+     "problem": "glossary 4.1 formula and rāga = dye, colour",
+     "fix": "By that, the remover of rāga (colour) and the dealer in false gold are explained.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "By that, the remover of rāga (colour) and the dealer in false gold are explained.",
+      "n": "22"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "glossary 4.1: rāga = रंग (राग reads as passion in Hindi); 'दोनों' dropped as an addition",
+     "fix": "इससे रंग का अपहरण करने वाले और खोटे सोने का व्यवहार करने वाले की व्याख्या की गई।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे रंग का अपहरण करने वाले और खोटे सोने का व्यवहार करने वाले की व्याख्या की गई।",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "4.1 formula",
+     "fix": "by that",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tena",
+      "field": "gloss",
+      "value": "by that",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "",
+     "problem": "-aḥ is singular, not plural",
+     "fix": "pp. vi-ā-√khyā, m. nom. sg.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "vyākhyātaḥ",
+      "field": "gram",
+      "value": "pp. vi-ā-√khyā, m. nom. sg.",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "singular form; agrees with the nearer subject",
+     "fix": "is explained",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyākhyātaḥ",
+      "field": "gloss",
+      "value": "is explained",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "",
+     "problem": "glossary 4.1",
+     "fix": "of rāga (dye, colour)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rāgasya",
+      "field": "gloss",
+      "value": "of rāga (dye, colour)",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "",
+     "problem": "gerundive in -ya",
+     "fix": "gerundive, m. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pravāsyāḥ",
+      "field": "gram",
+      "value": "gerundive, m. nom. pl.",
+      "n": "23"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "",
+     "problem": "-artham is an accusative used adverbially",
+     "fix": "tat-puruṣa, n. acc. sg. used as ind.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "niṣkraya-artham",
+      "field": "gram",
+      "value": "tat-puruṣa, n. acc. sg. used as ind.",
+      "n": "23"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "settling a point",
+     "fix": "REVIEW: 'banished' kept (see unit 7). Counting the 'thirteen' is left to a person.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW: 'banished' kept (see unit 7). Counting the 'thirteen' is left to a person.",
+      "n": "23"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed all 23 units. Main fixes: glossary 4.1 formula 'tena X vyākhyātam' (units 8,13,16,19,22), cāraṇa/kuhaka kept as terms and kārtāntika = fortune-teller (unit 3), rāga = रंग (22), vyākhyātaḥ is singular (22), Hindi saṃvadana -> वशीकरण (14,15), grāma-kūṭa kept in Hindi (9), no unmarked direction in viśvāsa-upagata (6), word-order of rasada list (17). Settled: pravāsyeta = banished throughout Book 4; madana-yoga = compound. Unit 11 stays low confidence."
+}

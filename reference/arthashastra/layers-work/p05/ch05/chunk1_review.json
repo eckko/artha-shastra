@@ -1,0 +1,357 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vyaya-viśuddham",
+     "problem": "adjective of udaya (m.), not neuter",
+     "fix": "m. acc. sg. (adj. of udaya) tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "vyaya-viśuddham",
+      "field": "gram",
+      "value": "m. acc. sg. (adj. of udaya) tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "He should specify",
+     "problem": "final ca (viśeṣayec ca) dropped; it joins this unit to the preceding instruction",
+     "fix": "And he should specify",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "He should specify",
+      "new": "And he should specify"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पूरा वाक्य",
+     "problem": "ca dropped; 'इस प्रकार' renders closing iti as 'thus', against glossary 13.1 and the brief",
+     "fix": "और कार्य को ... “यह ऐसा है” ऐसा निर्दिष्ट करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "hindi",
+      "value": "और कार्य को, चाहे वह आभ्यन्तर, बाह्य, गुप्त, प्रकट, आत्ययिक अथवा उपेक्षा के योग्य हो, “यह ऐसा है” ऐसा निर्दिष्ट करे।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ca",
+     "problem": "draft note says final ca is not rendered; now rendered as 'And' at the start of the unit",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "append_note",
+      "text": "REVIEW: final ca (viśeṣayec ca) is rendered as 'And' in both languages (it joins this to the preceding instruction of unit 1); iti here introduces the specification, rendered 'ऐसा' in Hindi."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्यवसाय",
+     "problem": "Hindi व्यवसाय means 'trade, occupation'; English and glossary sense is 'resolve'",
+     "fix": "निश्चय",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्यवसाय",
+      "new": "निश्चय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "vivikto",
+     "problem": "w must restore visarga: viviktaḥ",
+     "fix": "viviktaḥ",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "vivikto",
+      "field": "w",
+      "value": "viviktaḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "smayamāno",
+     "problem": "w must restore visarga: smayamānaḥ",
+     "fix": "smayamānaḥ",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "smayamāno",
+      "field": "w",
+      "value": "smayamānaḥ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tad-bhaktīn",
+     "problem": "bhakti is f. (acc. pl. bhaktīḥ); a masc. acc. pl. would be bhaktān; printed bhaktīn is anomalous, possible typo for tad-bhaktān",
+     "fix": "m. acc. pl. (printed bhaktīn; possible typo for bhaktān)",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "tad-bhaktīn",
+      "field": "gram",
+      "value": "m. acc. pl. (printed bhaktīn; possible typo for tad-bhaktān)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "he does wealth",
+     "problem": "'does wealth' is not English; karoti = makes",
+     "fix": "he makes wealth",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "he does wealth",
+      "new": "he makes wealth"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धन करता है",
+     "problem": "ungrammatical Hindi for arthaṃ karoti",
+     "fix": "धन बनाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धन करता है",
+      "new": "धन बनाता है"
+     }
+    },
+    {
+     "field": "english",
+     "where": "— [these are] the knowledge of the satisfied.",
+     "problem": "iti + nominative predicate: glossary 15.1 pattern 'such is'",
+     "fix": "— such is the knowledge of the satisfied.",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "— [these are] the knowledge of the satisfied.",
+      "new": "— such is the knowledge of the satisfied."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tad-bhaktīn",
+     "problem": "needs a text_flag (cannot be added by patch)",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "append_note",
+      "text": "REVIEW: tad-bhaktīn as printed is anomalous (bhakti f. acc. pl. bhaktīḥ; expected tad-bhaktān 'those devoted to him'); kept as printed in src, possible typo, a person should add a text_flag. English 'he makes wealth' is the literal arthaṃ karoti (likely sense 'brings benefit'); 'such is' follows glossary 15.1 for iti + nominative."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बेमौके",
+     "problem": "asthāna = 'out of place', not 'untimely'",
+     "fix": "अनुचित स्थान पर उत्पन्न होना",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बेमौके उत्पन्न होना",
+      "new": "अनुचित स्थान पर उत्पन्न होना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "says Katyayana, who went forth",
+     "problem": "finite verb pravavrāja turned into a relative clause with 'says'; tense mixed",
+     "fix": "“This one sprinkles on high,” [said] Katyayana, and went forth;",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "“This one sprinkles on high,” says Katyayana, who went forth;",
+      "new": "“This one sprinkles on high,” [said] Katyayana, and went forth;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कात्यायन कहते हैं, जो निकल गए",
+     "problem": "same: pravavrāja is a past finite verb",
+     "fix": "ऐसा कहकर कात्यायन निकल गए;",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऐसा कात्यायन कहते हैं, जो निकल गए;",
+      "new": "ऐसा कहकर कात्यायन निकल गए;"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "prati-ravaṇe",
+     "problem": "Hindi प्रतिध्वनि (echo) vs English 'answering cry'; literal prati-ravaṇa 'counter-sounding', sense unclear",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "append_note",
+      "text": "REVIEW: prati-ravaṇe: English 'answering cry' and Hindi प्रतिध्वनि are both literal renderings of an unclear phrase; the unit ends without a predicate. The teachers' sayings and pravavrāja are an obscure anecdote; no context to settle it."
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "svāmi-śīlam",
+     "problem": "deviation svāmin = master accepted: the courtier's lord, not the prakṛti list",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "append_note",
+      "text": "REVIEW: 'master' for svāmin/bhartṛ accepted here (courtier's relation, units 13 and 15); Hindi स्वामी unchanged."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसके निकट खींचे हुए मित्र",
+     "problem": "Hindi makes the friend 'drawn near him'; English and Sanskrit have asya as 'his' and upakṛṣṭa as a separate attribute",
+     "fix": "अथवा उसके मित्र के पास, जो निकट खींचा हुआ है, जाए।",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा उसके मित्र के पास, जो निकट खींचा हुआ है, जाए।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "mitra",
+     "problem": "deviation accepted: mitra = friend (personal relation, no prakṛti list); whose friend and what upakṛṣṭa means is doubtful",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "append_note",
+      "text": "REVIEW: 'friend' for mitra accepted (personal relation, not the prakṛti list). Doubtful: whether asya's friend is the master's or the courtier's, and the sense of upakṛṣṭa (drawn near / intimate / removed); literal rendering kept."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निवारण कराए",
+     "problem": "ācaret is not causative; 'कराए' adds a sense",
+     "fix": "दोष का निवारण करे",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोष का निवारण कराए",
+      "new": "दोष का निवारण करे"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Issues: 3 error (unit 6 Hindi व्यवसाय; unit 7 two unrestored visargas in w), 12 minor. All patchable. No regrouping suggested (units 12-15 continue one sequence; 13-15 flow together). svāmin 'master' (unit 13; unit 15 is bhartṛ) and mitra 'friend' (units 14, 15) accepted. Needs a person: text_flag for tad-bhaktīn in unit 7; sense of units 6, 9, 11, 12, 14."
+}

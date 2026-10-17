@@ -1,0 +1,509 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "लोकव्यवहार को जानने वाला व्यक्ति आत्मवान् और द्रव्य-प्रकृतियों से सम्पन्न राजा का आश्रय प्रिय और हित के द्वारा ले।",
+  "new": "लोकयात्रा को जानने वाला आत्मवान् और द्रव्य-प्रकृतियों से सम्पन्न राजा का आश्रय प्रिय और हित के द्वारा ले।",
+  "why": "reviewer (minor): loka-yātrā rendered by a different word (लोकव्यवहार) and 'व्यक्ति' is an unmarked addition"
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "ātma-dravya-prakṛti-sampannaṃ",
+  "old": "endowed with self, material and constituent elements",
+  "new": "endowed with self(-possession) and the material constituent elements",
+  "why": "reviewer (minor): gloss 'self, material and constituent elements' is garbled and does not match the translation"
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "ātma-dravya-prakṛti-sampanna is read as 'endowed with self (self-possession) and the material constituent elements (dravya-prakṛti)', following the pairing in unit 2 (dravya-prakṛti-hīna / anātma-sampanna); other analyses are possible. loka-yātrā = the course of worldly affairs (literally 'world-journey'). dvāra = door, hence means.",
+  "new": "ātma-dravya-prakṛti-sampanna is read as 'endowed with self (self-possession) and the material constituent elements (dravya-prakṛti)', following the pairing in unit 2 (dravya-prakṛti-hīna / anātma-sampanna); other analyses are possible. loka-yātrā = the course of worldly affairs (literally 'world-journey'). dvāra = door, hence means. Review: priya-hita-dvāra could also be 'through (persons) who are dear and well-wishing'; the neutral literal rendering is kept (same in unit 11 priya-hitaiḥ saha).",
+  "why": "reviewer (minor): priya-hita may denote persons ('through the dear and the well-wishers'); literal rendering kept"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Or [the king] whom he thinks of: \"Just as I desire shelter, so this one desires discipline and is endowed with approachable qualities\" — even one lacking the material constituent elements he should resort to, but certainly not one who is not endowed with self-possession.",
+  "new": "Or [the king] of whom he may think: \"Just as I desire shelter, so this one desires discipline and is endowed with approachable qualities\" — even one lacking the material constituent elements he should resort to, but certainly not one who is not endowed with self-possession.",
+  "why": "reviewer (minor): manyeta is optative ('may think'); 'thinks of' changes the sense"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "अथवा जिसके विषय में वह सोचे, \"जैसे मैं आश्रय चाहता हूँ, वैसे ही यह विनय चाहता है और अभिगमन के योग्य गुणों से युक्त है\", उसका द्रव्य-प्रकृतियों से हीन होने पर भी आश्रय ले, किन्तु जो आत्मसम्पन्न नहीं है उसका कभी नहीं।",
+  "new": "अथवा जिसके विषय में वह सोचे, \"जैसे मैं आश्रय चाहता हूँ, वैसे ही यह विनय चाहता है और अभिगमन के योग्य गुणों से युक्त है\", उसका द्रव्य-प्रकृतियों से हीन होने पर भी आश्रय ले, किन्तु जो आत्मसम्पन्न नहीं है उसका किसी प्रकार नहीं।",
+  "why": "reviewer (minor): 'कभी' adds a temporal sense; na tu eva = by no means"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "One who is not self-possessed, through hatred of the treatise on policy or through association with the worthless, even having obtained great sovereignty, does not come to be.",
+  "new": "For one who is not self-possessed, through hatred of the treatise on policy or through association with the worthless, even having obtained great sovereignty, does not come to be.",
+  "why": "reviewer (error): hi ('for') is dropped in the English"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "अनात्मवान् नीतिशास्त्र के प्रति द्वेष से अथवा निरर्थक के संयोग से महान् ऐश्वर्य को पाकर भी नहीं होता।",
+  "new": "क्योंकि अनात्मवान् नीतिशास्त्र के प्रति द्वेष से अथवा निरर्थक के संयोग से महान् ऐश्वर्य को पाकर भी नहीं होता।",
+  "why": "reviewer (error): hi ('for') is dropped in the Hindi"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "anātmavā",
+  "old": "anātmavā",
+  "new": "anātmavān",
+  "why": "reviewer (error): text_flag verified (real typo: nom. sg. of -vat stem is -vān; Devanagari shows अनात्मवा); but w still carries the typo, the corrected form belongs in words"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "nīti-śāstra-dveṣād",
+  "old": "nīti-śāstra-dveṣād",
+  "new": "nīti-śāstra-dveṣāt",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is nīti-śāstra-dveṣāt"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "anarthya-saṃyogād",
+  "old": "anarthya-saṃyogād",
+  "new": "anarthya-saṃyogāt",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is anarthya-saṃyogāt"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "mahad",
+  "old": "mahad",
+  "new": "mahat",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is mahat"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "The predicate 'na bhavati' has no complement; rendered literally. Commentators/translators supply a sense such as 'does not keep/prosper in it'; not applied. anarthya = worthless (also possible: harmful, useless); the same word is rendered 'worthless' in unit 14. aiśvarya = sovereignty/lordship.",
+  "new": "The predicate 'na bhavati' has no complement; rendered literally. Commentators/translators supply a sense such as 'does not keep/prosper in it'; not applied. anarthya = worthless (also possible: harmful, useless); the same word is rendered 'worthless' in unit 14. aiśvarya = sovereignty/lordship. Review: text_flag anātmavā for anātmavān verified. The predicate 'na bhavati' has no complement in the text; the literal rendering is kept (low confidence stands).",
+  "why": "reviewer (minor): record: anarthya = worthless (निरर्थक) in 3 and 14; arthya in 10 = petitioners, doubtful pair"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "With a self-possessed [king], having found an opportunity, he should give instruction in the treatise.",
+  "new": "In the case of a self-possessed [king], having found an opportunity, he should give instruction in the treatise.",
+  "why": "reviewer (minor): locative of the person concerned; 'with' misleads"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "anuyoga is literally 'questioning, pursuing, exhortation'; 'instruction' is chosen from the context (alternative: inquiry/exposition on the treatise). The same word is rendered 'inquiry' in unit 7. 'King' is supplied in brackets in English only.",
+  "new": "anuyoga is literally 'questioning, pursuing, exhortation'; 'instruction' is chosen from the context (alternative: inquiry/exposition on the treatise). The same word is rendered 'inquiry' in unit 7. 'King' is supplied in brackets in English only. Review: anuyoga is fixed as 'instruction' (Hindi शिक्षा) in 5.4.4 and 5.4.7; 'questioning/inquiry/reproof' stay as alternatives in notes only.",
+  "why": "reviewer (error): anuyoga must have one rendering across the chunk (draft: 'instruction' here, 'inquiry' in unit 7)"
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "avisaṃvādādd",
+  "old": "avisaṃvādādd",
+  "new": "avisaṃvādāt",
+  "why": "reviewer (error): text_flag verified (real: the e-text writes d+d hi for avisaṃvādād dhi, a word-division slip); w still carries the typo, corrected stem form is avisaṃvādāt"
+ },
+ {
+  "n": "6",
+  "field": "word.w",
+  "word": "pṛṣṭhas",
+  "old": "pṛṣṭhas",
+  "new": "pṛṣṭaḥ",
+  "why": "reviewer (error): text_flag verified (real typo: pṛṣṭha = back; asked = pṛṣṭa, cf. pṛṣṭaḥ in unit 12); w still carries the typo, the corrected form is pṛṣṭaḥ"
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "dharma-artha-anuyogam",
+  "old": "inquiry into dharma and wealth",
+  "new": "instruction in dharma and wealth",
+  "why": "reviewer (error): anuyoga rendered 'inquiry' here but 'instruction' in unit 4; must be one rendering"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Desired [by the king], he should stipulate: \"You should not [do] this: the inquiry into dharma and wealth, the wielding of punishment among the undistinguished [and] among those allied with the powerful, [and] the wielding of punishment in association with me and in the present; you should not injure my side, livelihood or secret; and by a sign I would restrain you in matters of desire, anger and punishings.\"",
+  "new": "Desired [by the king], he should stipulate: \"You should not [do] this: the instruction in dharma and wealth, the wielding of punishment among the undistinguished [and] among those allied with the powerful, [and] the wielding of punishment in association with me and in the present; you should not injure my side, livelihood or secret; and by a sign I would restrain you in matters of desire, anger and punishings.\"",
+  "why": "reviewer (error): same anuyoga inconsistency"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "अभीष्ट होने पर वह शर्त रखे, \"धर्म और अर्थ की जाँच, अविशिष्ट लोगों में, बलवान् से जुड़े हुओं में दण्ड धारण, मेरे सम्पर्क में और वर्तमान में दण्ड धारण — यह तुम न करना; मेरे पक्ष, आजीविका और गुप्त बात को हानि न पहुँचाना; और संकेत से मैं तुम्हें काम, क्रोध और दण्ड देने के विषयों में रोकूँगा\"।",
+  "new": "अभीष्ट होने पर वह शर्त रखे, \"धर्म और अर्थ की शिक्षा, अविशिष्ट लोगों में, बलवान् से जुड़े हुओं में दण्ड धारण, मेरे सम्पर्क में और वर्तमान में दण्ड धारण — यह तुम न करना; मेरे पक्ष, आजीविका और गुप्त बात को हानि न पहुँचाना; और संकेत से मैं तुम्हें काम, क्रोध और दण्ड देने के विषयों में रोकूँगा\"।",
+  "why": "reviewer (error): same anuyoga inconsistency"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Desired [by the king], he should stipulate: \"You should not [do] this: the instruction in dharma and wealth, the wielding of punishment among the undistinguished [and] among those allied with the powerful, [and] the wielding of punishment in association with me and in the present; you should not injure my side, livelihood or secret; and by a sign I would restrain you in matters of desire, anger and punishings.\"",
+  "new": "Desired [by the king], he should stipulate: \"You should not [do] this: the instruction in dharma and wealth, the wielding of punishment among the undistinguished [and] among those allied with the powerful, [and] the wielding of punishment in association with me and in the present; you should not injure my side, livelihood or secret; and by a sign I would restrain you in matters of desire, anger and punishing.\"",
+  "why": "reviewer (minor): 'punishings' is not English; daṇḍana is the act of punishing"
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "kāma-krodha-daṇḍaneṣu",
+  "old": "in desire, anger and punishings",
+  "new": "in desire, anger and punishing",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "अभीष्ट होने पर वह शर्त रखे, \"धर्म और अर्थ की शिक्षा, अविशिष्ट लोगों में, बलवान् से जुड़े हुओं में दण्ड धारण, मेरे सम्पर्क में और वर्तमान में दण्ड धारण — यह तुम न करना; मेरे पक्ष, आजीविका और गुप्त बात को हानि न पहुँचाना; और संकेत से मैं तुम्हें काम, क्रोध और दण्ड देने के विषयों में रोकूँगा\"।",
+  "new": "अभीष्ट होने पर वह शर्त रखे, \"धर्म और अर्थ की शिक्षा, अविशिष्ट लोगों में, बलवान् से जुड़े हुओं में दण्ड धारण, मेरे सम्पर्क में और वर्तमान में दण्ड धारण — यह तुम न करना; मेरे पक्ष, आजीविका और गुप्त बात को हानि न पहुँचाना; और संकेत से मैं तुम्हें काम, क्रोध और दण्ड देने के विषयों में रोकूँ\"।",
+  "why": "reviewer (minor): vārayeyam is optative ('I would restrain', English); Hindi future adds certainty"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "Obscure sentence; rendered literally, confidence low. The grouping of the accusatives (anuyogam ... daṇḍa-dhāraṇam ... daṇḍa-dhāraṇam) as the object of 'iti na kuryāḥ' is uncertain, as is the syntax of aviśiṣṭeṣu balavat-saṃyukteṣu (could be 'among equals' / 'among those allied with the strong'). dhāraṇa = holding, wielding. anuyoga: see unit 4. The first iti closes the quoted list of prohibitions, the last iti closes the whole quotation; neither is rendered. 'By the king' in īpsitaḥ is supplied in brackets.",
+  "new": "Obscure sentence; rendered literally, confidence low. The grouping of the accusatives (anuyogam ... daṇḍa-dhāraṇam ... daṇḍa-dhāraṇam) as the object of 'iti na kuryāḥ' is uncertain, as is the syntax of aviśiṣṭeṣu balavat-saṃyukteṣu (could be 'among equals' / 'among those allied with the strong'). dhāraṇa = holding, wielding. anuyoga: see unit 4. The first iti closes the quoted list of prohibitions, the last iti closes the whole quotation; neither is rendered. 'By the king' in īpsitaḥ is supplied in brackets. Review: anuyoga = instruction (as unit 4); 'inquiry/examination/reproof' remain possible. Who instructs whom, and the grouping of the three accusatives, are unclear; confidence low stands.",
+  "why": "reviewer (minor): anuyoga now settled"
+ },
+ {
+  "n": "8",
+  "field": "word.w",
+  "word": "bhūmāv",
+  "old": "bhūmāv",
+  "new": "bhūmau",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is bhūmau"
+ },
+ {
+  "n": "8",
+  "field": "word.w",
+  "word": "upaviśec",
+  "old": "upaviśec",
+  "new": "upaviśet",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is upaviśet"
+ },
+ {
+  "n": "9",
+  "field": "word.w",
+  "word": "uccair",
+  "old": "uccair",
+  "new": "uccaiḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is uccaiḥ"
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "anyena,",
+  "old": "anyena,",
+  "new": "anyena",
+  "why": "reviewer (minor): w contains the printed comma"
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "rājño",
+  "old": "rājño",
+  "new": "rājñaḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is rājñaḥ"
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "sāmanta-dūtair",
+  "old": "sāmanta-dūtair",
+  "new": "sāmanta-dūtaiḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is sāmanta-dūtaiḥ"
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "arthyaiś",
+  "old": "arthyaiś",
+  "new": "arthyaiḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is arthyaiḥ"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "दूसरे के साथ एकान्त में बात करना, लोगों की चर्चा में जोड़ी बनाकर बात करना, राजा का तथा उद्धतों और धूर्तों का वेश, रत्नों की उत्कृष्टता के प्रदर्शन का अनुरोध, एक आँख और होंठ का विकार, भौंहें चढ़ाना और बोलने वाले के प्रति वाक्य को ठुकराना, बलवान् से जुड़े हुए का विरोध, स्त्रियों, स्त्रियों को देखने वालों, पड़ोसी सामन्तों के दूतों, द्वेष्य पक्ष द्वारा निकाले हुओं और याचकों से मेलजोल, एक ही प्रयोजन के लिए साथ चलना और भीड़ — इनसे बचे।",
+  "new": "दूसरे के साथ एकान्त में बात करना, लोगों की चर्चा में जोड़ी बनाकर बात करना, राजा का तथा उद्धतों और धूर्तों का वेश, रत्नों की अधिकता के प्रदर्शन का अनुरोध, एक आँख और होंठ का विकार, भौंहें चढ़ाना और बोलने वाले के प्रति वाक्य को ठुकराना, बलवान् से जुड़े हुए का विरोध, स्त्रियों, स्त्रियों को देखने वालों, पड़ोसी सामन्तों के दूतों, द्वेष्य पक्ष द्वारा निकाले हुओं और याचकों से मेलजोल, एक ही प्रयोजन के लिए साथ चलना और भीड़ — इनसे बचे।",
+  "why": "reviewer (minor): Hindi says 'excellence', English 'excess' (atiśaya); make them agree on the literal sense"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "दूसरे के साथ एकान्त में बात करना, लोगों की चर्चा में जोड़ी बनाकर बात करना, राजा का तथा उद्धतों और धूर्तों का वेश, रत्नों की अधिकता के प्रदर्शन का अनुरोध, एक आँख और होंठ का विकार, भौंहें चढ़ाना और बोलने वाले के प्रति वाक्य को ठुकराना, बलवान् से जुड़े हुए का विरोध, स्त्रियों, स्त्रियों को देखने वालों, पड़ोसी सामन्तों के दूतों, द्वेष्य पक्ष द्वारा निकाले हुओं और याचकों से मेलजोल, एक ही प्रयोजन के लिए साथ चलना और भीड़ — इनसे बचे।",
+  "new": "दूसरे के साथ एकान्त में बात करना, लोगों की चर्चा में जोड़ी बनाकर बात करना, राजा का तथा उद्धतों और धूर्तों का वेश, रत्नों की अधिकता के प्रदर्शन का अनुरोध, एक आँख और होंठ का विकार, भौंहें चढ़ाना और बोलने वाले के प्रति वाक्य को ठुकराना, बलवान् से जुड़े हुए का विरोध, स्त्रियों, स्त्रियों को देखने वालों, पड़ोसी सामन्तों के दूतों, द्वेष्य पक्ष द्वारा निकाले हुओं और याचकों से मेलजोल, एक प्रयोजन के लिए विचरण करना और भीड़ — इनसे बचे।",
+  "why": "reviewer (minor): 'ही' and 'साथ' are unmarked additions (eka-artha-caryā)"
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "Long list of things to avoid; many members are obscure, so rendered literally (low confidence): ratna-atiśaya-prakāśa-abhyarthanam (excess/surpassing quality of jewels?), eka-akṣi-oṣṭha-nirbhogam (nirbhoga = bending, twisting), vākya-avakṣepaṇa (throwing aside, disdaining speech), strī-darśin (those who look at/see women; alt. 'who see through women'), arthya (petitioners; alt. 'those with business', 'useful ones'), dveṣya-pakṣa-avakṣipta (alt. 'thrown out by the party of the hated one'), saṅghāta (crowd; alt. combination). 'balavat saṃyukta-virodham' is read as the compound balavat-saṃyukta-virodha 'opposition to one allied with the strong'; if balavat is a separate adverb the sense differs. Whether dvandva-kathanam is 'talking in pairs' or 'talking about disputes' is uncertain.",
+  "new": "Long list of things to avoid; many members are obscure, so rendered literally (low confidence): ratna-atiśaya-prakāśa-abhyarthanam (excess/surpassing quality of jewels?), eka-akṣi-oṣṭha-nirbhogam (nirbhoga = bending, twisting), vākya-avakṣepaṇa (throwing aside, disdaining speech), strī-darśin (those who look at/see women; alt. 'who see through women'), arthya (petitioners; alt. 'those with business', 'useful ones'), dveṣya-pakṣa-avakṣipta (alt. 'thrown out by the party of the hated one'), saṅghāta (crowd; alt. combination). 'balavat saṃyukta-virodham' is read as the compound balavat-saṃyukta-virodha 'opposition to one allied with the strong'; if balavat is a separate adverb the sense differs. Whether dvandva-kathanam is 'talking in pairs' or 'talking about disputes' is uncertain. Review: avakṣiptān is accusative in a series of instrumentals (strībhiḥ, strī-darśibhiḥ, sāmanta-dūtaiḥ ... arthyaiḥ); a typo for avakṣiptaiḥ is possible but not asserted; the draft's instrumental sense is kept. text_flag balavat (compound mark missing) judged plausible. arthya = petitioners kept, doubtful; anarthya (units 3, 14) = worthless.",
+  "why": "reviewer (minor): accusative plural inside a series of instrumentals (strībhiḥ ... arthyaiḥ); possible typo for -avakṣiptaiḥ (or an object of varjayet); not correctable by patch (no new text_flag)"
+ },
+ {
+  "n": "11",
+  "field": "word.w",
+  "word": "brūyād",
+  "old": "brūyād",
+  "new": "brūyāt",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is brūyāt"
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "brūyān",
+  "old": "brūyān",
+  "new": "brūyāt",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is brūyāt"
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "brūyād",
+  "old": "brūyād",
+  "new": "brūyāt",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is brūyāt"
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "śṛṇvato",
+  "old": "śṛṇvato",
+  "new": "śṛṇvataḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is śṛṇvataḥ"
+ },
+ {
+  "n": "13",
+  "field": "text_flags.0.suggest",
+  "old": "veśya-ādīn (or veśyā-ādīn)",
+  "new": "dveṣya-ādīn (or, less likely, veśya-ādīn)",
+  "why": "reviewer (error): suggestion 'veśya' (courtesan) is doubtful: 'veṣya' is most likely dveṣya with the initial d lost in typing (cf. dveṣya in unit 10, and the next half-verse about the disliked who are yet capable); 'the hated and the like' fits the sense better than 'courtesans'"
+ },
+ {
+  "n": "13",
+  "field": "text_flags.0.why",
+  "old": "veṣya is not a regular word here; 'courtesan' is veśya/veśyā from √viś (possible)",
+  "new": "veṣya is not a word; most likely dveṣya ('hated', cf. dveṣya-pakṣa in unit 10) with the initial d lost in typing, which fits apriyā api dakṣāḥ in the next line; veśya 'courtesan' is the alternative (possible)",
+  "why": "reviewer (error): suggestion 'veśya' (courtesan) is doubtful: 'veṣya' is most likely dveṣya with the initial d lost in typing (cf. dveṣya in unit 10, and the next half-verse about the disliked who are yet capable); 'the hated and the like' fits the sense better than 'courtesans'"
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "veṣya-ādīṃś",
+  "old": "courtesans and the like",
+  "new": "the hated and the like",
+  "why": "reviewer (error): suggestion 'veśya' (courtesan) is doubtful: 'veṣya' is most likely dveṣya with the initial d lost in typing (cf. dveṣya in unit 10, and the next half-verse about the disliked who are yet capable); 'the hated and the like' fits the sense better than 'courtesans'"
+ },
+ {
+  "n": "13",
+  "field": "word.w",
+  "word": "veṣya-ādīṃś",
+  "old": "veṣya-ādīṃś",
+  "new": "dveṣya-ādīn",
+  "why": "reviewer (error): suggestion 'veśya' (courtesan) is doubtful: 'veṣya' is most likely dveṣya with the initial d lost in typing (cf. dveṣya in unit 10, and the next half-verse about the disliked who are yet capable); 'the hated and the like' fits the sense better than 'courtesans'"
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Or he should be silent in reply, and should not describe courtesans and the like. Even the disliked may be capable, because of that state, those who have been cast out.",
+  "new": "Or he should be silent in reply, and should not describe the hated and the like. Even the disliked may be capable, because of that state, those who have been cast out.",
+  "why": "reviewer (error): suggestion 'veśya' (courtesan) is doubtful: 'veṣya' is most likely dveṣya with the initial d lost in typing (cf. dveṣya in unit 10, and the next half-verse about the disliked who are yet capable); 'the hated and the like' fits the sense better than 'courtesans'"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "अथवा उत्तर देने में चुप रहे और वेश्या आदि का वर्णन न करे। अप्रिय भी निपुण हो सकते हैं, जो बाहर निकाले गए हैं, उस भाव के कारण।",
+  "new": "अथवा उत्तर देने में चुप रहे और द्वेष्य आदि का वर्णन न करे। अप्रिय भी निपुण हो सकते हैं, जो बाहर निकाले गए हैं, उस भाव के कारण।",
+  "why": "reviewer (error): suggestion 'veśya' (courtesan) is doubtful: 'veṣya' is most likely dveṣya with the initial d lost in typing (cf. dveṣya in unit 10, and the next half-verse about the disliked who are yet capable); 'the hated and the like' fits the sense better than 'courtesans'"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "Second half is obscure: tad-bhāva 'that state' is unclear (state of being cast out?), and the relative 'ye bahiṣkṛtāḥ' has no stated correlative; rendered literally. The sentence continues in unit 14 (anarthyāś ca priyā dṛṣṭāḥ ...).",
+  "new": "Second half is obscure: tad-bhāva 'that state' is unclear (state of being cast out?), and the relative 'ye bahiṣkṛtāḥ' has no stated correlative; rendered literally. The sentence continues in unit 14 (anarthyāś ca priyā dṛṣṭāḥ ...). Review: the reading dveṣya-ādīn is preferred over veśya-ādīn (courtesans and the like); both are conjectures, the printed veṣya has no sense.",
+  "why": "reviewer (error): suggestion 'veśya' (courtesan) is doubtful: 'veṣya' is most likely dveṣya with the initial d lost in typing (cf. dveṣya in unit 10, and the next half-verse about the disliked who are yet capable); 'the hated and the like' fits the sense better than 'courtesans'"
+ },
+ {
+  "n": "13",
+  "field": "word.w",
+  "word": "syād",
+  "old": "syād",
+  "new": "syāt",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is syāt"
+ },
+ {
+  "n": "13",
+  "field": "word.w",
+  "word": "syus",
+  "old": "syus",
+  "new": "syuḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is syuḥ"
+ },
+ {
+  "n": "13",
+  "field": "word.w",
+  "word": "tad-bhāvād",
+  "old": "tad-bhāvād",
+  "new": "tad-bhāvāt",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is tad-bhāvāt"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "और अनर्थ्य प्रिय देखे गए हैं, जो चित्त के ज्ञान का अनुसरण करने वाले हैं। हँसने योग्य बातों में हँसे और भयंकर हँसी से बचे।",
+  "new": "और निरर्थक प्रिय देखे गए हैं, जो चित्त के ज्ञान का अनुसरण करने वाले हैं। हँसने योग्य बातों में हँसे और भयंकर हँसी से बचे।",
+  "why": "reviewer (minor): Hindi left the Sanskrit word while unit 3 uses निरर्थक for anarthya; one rendering"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "anarthyāś",
+  "old": "anarthyāś",
+  "new": "anarthyāḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is anarthyāḥ"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "dṛṣṭāś",
+  "old": "dṛṣṭāś",
+  "new": "dṛṣṭāḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is dṛṣṭāḥ"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "abhihāsyeṣv",
+  "old": "abhihāsyeṣv",
+  "new": "abhihāsyeṣu",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is abhihāsyeṣu"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "abhihased",
+  "old": "abhihased",
+  "new": "abhihaset",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is abhihaset"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "ghora-hāsāṃś",
+  "old": "ghora-hāsāṃś",
+  "new": "ghora-hāsān",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is ghora-hāsān"
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "pare",
+  "old": "m. loc. pl.",
+  "new": "m. loc. sg.",
+  "why": "reviewer (error): pare is locative singular (or nom. pl.) of para; loc. pl. would be pareṣu; the draft note repeats the mistake"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "pare",
+  "old": "to others",
+  "new": "to another",
+  "why": "reviewer (error): pare is locative singular (or nom. pl.) of para; loc. pl. would be pareṣu; the draft note repeats the mistake"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "He should cause the harsh [thing] to pass from another, and should not speak harshly to others. He should endure [harshness] of his own as well, forbearing, like the earth.",
+  "new": "He should cause the harsh [thing] to pass from another, and should not speak harshly to another. He should endure [harshness] of his own as well, forbearing, like the earth.",
+  "why": "reviewer (error): pare is locative singular (or nom. pl.) of para; loc. pl. would be pareṣu; the draft note repeats the mistake"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "दूसरे से आई कठोर बात का संक्रमण कराए और दूसरों के प्रति कठोर बात न कहे। अपनी भी सहन करे, पृथ्वी के समान क्षमाशील होकर।",
+  "new": "दूसरे से आई कठोर बात का संक्रमण कराए और दूसरे के प्रति कठोर बात न कहे। अपनी भी सहन करे, पृथ्वी के समान क्षमाशील होकर।",
+  "why": "reviewer (error): pare is locative singular (or nom. pl.) of para; loc. pl. would be pareṣu; the draft note repeats the mistake"
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "saṅkrāmayet (transfer/cause to pass over) is obscure here: 'pass it on', 'let it pass over him' or 'turn it away' are all possible; rendered literally. pare is locative plural of para, read 'to others' (the form could be nominative plural 'the others'). ātmanaḥ is genitive 'of himself, his own'; the supplied noun is in brackets.",
+  "new": "saṅkrāmayet (transfer/cause to pass over) is obscure here: 'pass it on', 'let it pass over him' or 'turn it away' are all possible; rendered literally. pare is locative plural of para, read 'to others' (the form could be nominative plural 'the others'). ātmanaḥ is genitive 'of himself, his own'; the supplied noun is in brackets. Review: pare is locative singular (cf. parāt, ablative singular, in the first half); the draft's 'locative plural' is wrong. Hindi/English now 'another'. ghora is 'harsh' here (of speech) and 'terrible' in ghora-hāsa (unit 14), see GLOSSARY.",
+  "why": "reviewer (error): pare is locative singular (or nom. pl.) of para; loc. pl. would be pareṣu; the draft note repeats the mistake"
+ },
+ {
+  "n": "15",
+  "field": "word.w",
+  "word": "saṅkrāmayed",
+  "old": "saṅkrāmayed",
+  "new": "saṅkrāmayet",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is saṅkrāmayet"
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "vṛttī",
+  "old": "vṛttī",
+  "new": "vṛttiḥ",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is vṛttiḥ"
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "agnāv",
+  "old": "agnāv",
+  "new": "agnau",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is agnau"
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "samproktā",
+  "old": "samproktā",
+  "new": "saṃproktā",
+  "why": "reviewer (minor): anusvāra convention: ṃ"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "क्योंकि जानने वाले को सदा पहले अपनी रक्षा करनी चाहिए; राजा पर निर्भर रहने वालों की जीविका अग्नि में जैसी कही गई है।",
+  "new": "क्योंकि जानने वाले को सदा पहले अपनी रक्षा करनी चाहिए; क्योंकि राजा पर निर्भर रहने वालों की जीविका अग्नि में जैसी कही गई है।",
+  "why": "reviewer (minor): second hi ('for') is dropped in the Hindi (English renders both)"
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "vṛttī is vṛttiḥ before the following r- (visarga sandhi: -iḥ r- becomes -ī r-). The following word therefore begins with r, which agrees with rāja-/rājā; the e-text 'rājā-' is taken as the stem rāja-.",
+  "new": "vṛttī is vṛttiḥ before the following r- (visarga sandhi: -iḥ r- becomes -ī r-). The following word therefore begins with r, which agrees with rāja-/rājā; the e-text 'rājā-' is taken as the stem rāja-. Review: text_flag rājā- for rāja- judged plausible (compound member), kept as 'possible'.",
+  "why": "reviewer (minor): text_flag judged plausible: in this e-text '.' joins compound members and '-' marks a word junction, so rājā-upajīvinām would be two words; the stem rāja- is expected"
+ },
+ {
+  "n": "17",
+  "field": "word.w",
+  "word": "dahed",
+  "old": "dahed",
+  "new": "dahet",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is dahet"
+ },
+ {
+  "n": "17",
+  "field": "word.w",
+  "word": "ghātayed",
+  "old": "ghātayed",
+  "new": "ghātayet",
+  "why": "reviewer (minor): final consonant/visarga sandhi not undone; dictionary form is ghātayet"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अग्नि एक अंश को जलाती है, अथवा चरम तक पहुँचकर शरीर को; किन्तु राजा पुत्र और स्त्री सहित मरवा दे अथवा समृद्ध करे।",
+  "new": "अग्नि एक अंश को जला सकती है, अथवा चरम तक पहुँचकर शरीर को; किन्तु राजा पुत्र और स्त्री सहित मरवा दे अथवा समृद्ध करे।",
+  "why": "reviewer (minor): dahet is optative; English has 'would burn', Hindi indicative"
+ }
+]

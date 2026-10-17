@@ -1,0 +1,587 @@
+{
+ "units": [
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Formula rendering with a bracketed supplied noun; align with chunk 1 units 24/29 (unbracketed) and settle the formula.",
+     "fix": "By that, what follows is explained.",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "set",
+      "field": "english",
+      "value": "By that, what follows is explained."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Align with chunk 1 wording for the same formula.",
+     "fix": "इससे आगे वाले की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे आगे वाले की व्याख्या की गई।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bracket remark",
+     "problem": "No bracketed matter remains after the English fix.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "notes",
+      "old": "; the matter supplied in English brackets is not in the text",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the wage is",
+     "problem": "Glossary 5.3: vetana = pay.",
+     "fix": "the pay is",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "the wage is",
+      "new": "the pay is"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vetanam",
+     "problem": "same",
+     "fix": "pay",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "vetanam",
+      "field": "gloss",
+      "value": "pay"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हानि",
+     "problem": "kṣaya = क्षय in glossary 9.4 and chunk 1 (unit 23).",
+     "fix": "भाग का क्षय है",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भाग की हानि है",
+      "new": "भाग का क्षय है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Formula rendering with a bracketed supplied noun; align with chunk 1 units 24/29 (unbracketed) and settle the formula.",
+     "fix": "By that, what follows is explained.",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "set",
+      "field": "english",
+      "value": "By that, what follows is explained."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Align with chunk 1 wording for the same formula.",
+     "fix": "इससे आगे वाले की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे आगे वाले की व्याख्या की गई।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bracket remark",
+     "problem": "No bracketed matter remains after the English fix.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "notes",
+      "old": "; the matter supplied in English brackets is not in the text",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हानि",
+     "problem": "kṣaya = क्षय in glossary 9.4 and chunk 1 (unit 23).",
+     "fix": "भाग का क्षय है",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भाग की हानि है",
+      "new": "भाग का क्षय है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हानि",
+     "problem": "kṣaya = क्षय in glossary 9.4 and chunk 1 (unit 23).",
+     "fix": "भाग का क्षय है",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भाग की हानि है",
+      "new": "भाग का क्षय है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kākaṇī-dvayam",
+     "problem": "A numeral as second member is not a dvigu; tat-puruṣa (pair of kākaṇīs).",
+     "fix": "tat-puruṣa; n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "kākaṇī-dvayam",
+      "field": "gram",
+      "value": "tat-puruṣa; n. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Formula rendering with a bracketed supplied noun; align with chunk 1 units 24/29 (unbracketed) and settle the formula.",
+     "fix": "By that, what follows is explained.",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "set",
+      "field": "english",
+      "value": "By that, what follows is explained."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Align with chunk 1 wording for the same formula.",
+     "fix": "इससे आगे वाले की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे आगे वाले की व्याख्या की गई।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bracket remark",
+     "problem": "No bracketed matter remains after the English fix.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "notes",
+      "old": "; the matter supplied in English brackets is not in the text",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रूप-दर्शक के, जो",
+     "problem": "Dangling genitive; rūpa = coin (glossary 5.2) and English says coin-examiner.",
+     "fix": "सिक्का-परीक्षक का — जो",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रूप-दर्शक के, जो",
+      "new": "सिक्का-परीक्षक का — जो"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "नहीं करता, उसके",
+     "problem": "Dash closes the parenthetical clause.",
+     "fix": "नहीं करता — उसके",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नहीं करता, उसके",
+      "new": "नहीं करता — उसके"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "व्याजी",
+     "problem": "Hindi व्याज means interest; the term must not be read so.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "append_note",
+      "text": "Hindi व्याजी is kept as a term and is not Hindi व्याज 'interest'; no sense is asserted."
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "Formula rendering with a bracketed supplied noun; align with chunk 1 units 24/29 (unbracketed) and settle the formula.",
+     "fix": "By that, what follows is explained.",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "set",
+      "field": "english",
+      "value": "By that, what follows is explained."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Align with chunk 1 wording for the same formula.",
+     "fix": "इससे आगे वाले की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे आगे वाले की व्याख्या की गई।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bracket remark",
+     "problem": "No bracketed matter remains after the English fix.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "notes",
+      "old": "; the matter supplied in English brackets is not in the text",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दण्ड हज़ार है",
+     "problem": "Clumsy; give the number its article and the fine its genitive.",
+     "fix": "खोटा सिक्का बनवाने वाले, लेने वाले या बाहर भेजने वाले के लिए एक हज़ार का दण्ड है; कोश में डालने वाले के लिए वध है।",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "set",
+      "field": "hindi",
+      "value": "खोटा सिक्का बनवाने वाले, लेने वाले या बाहर भेजने वाले के लिए एक हज़ार का दण्ड है; कोश में डालने वाले के लिए वध है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सार का",
+     "problem": "Hindi सार means essence; English and glossary 12.1 say valuables.",
+     "fix": "बहुमूल्य वस्तुओं का तिहाई भाग",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सार का तिहाई भाग",
+      "new": "बहुमूल्य वस्तुओं का तिहाई भाग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "paurva-pauruṣikam",
+     "problem": "paurvapauruṣika is one taddhita derivative (of pūrva-puruṣa), not a compound; the printed token has no break.",
+     "fix": "paurvapauruṣikam",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "word",
+      "match_w": "paurva-pauruṣikam",
+      "field": "w",
+      "value": "paurvapauruṣikam"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "निधि",
+     "problem": "निधि is feminine in Hindi.",
+     "fix": "पूर्व पीढ़ियों की निधि",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीढ़ियों के निधि",
+      "new": "पीढ़ियों की निधि"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vadha",
+     "problem": "vadha is 'death' in unit 48 but 'injury' here (marma-vadha); consistency left to a person.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "append_note",
+      "text": "Consistency: vadha is 'death' in unit 48; here marma-vadha is rendered 'injury to a vital spot'. A person should decide between the three-item and the 'killing/striking at a vital spot' readings."
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक का अतिवाद",
+     "problem": "Hindi अतिवाद means extremism, a false friend for ati-vāda 'over-speaking'.",
+     "fix": "एक का अधिक बोलना",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक का अतिवाद",
+      "new": "एक का अधिक बोलना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "tricksters",
+     "problem": "kuhaka is to stay a term (task rule).",
+     "fix": "kuhakas",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "replace",
+      "field": "english",
+      "old": "tricksters and others",
+      "new": "kuhakas and others"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kuhakān",
+     "problem": "same",
+     "fix": "kuhakas",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "word",
+      "match_w": "kuhakān",
+      "field": "gloss",
+      "value": "kuhakas"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kuhaka",
+     "problem": "note the rendering",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "append_note",
+      "text": "kuhaka kept as a term (kuhakas, कुहक); 'trickster' is a possible sense only."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "30 issues (0 error, 30 minor), all with machine patches; no regrouping. No typos or unclosed quotes found; 0 text_flags confirmed. Open for a person: 44, 45, 46, 49, 59, 63 stay low; 57 marma-vadha reading; 56 medium kept. Cannot be patched: none."
+}

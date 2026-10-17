@@ -1,0 +1,961 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "लोकव्यवहार को जानने वाला व्यक्ति",
+     "problem": "loka-yātrā rendered by a different word (लोकव्यवहार) and 'व्यक्ति' is an unmarked addition",
+     "fix": "लोकयात्रा को जानने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "लोकव्यवहार को जानने वाला व्यक्ति",
+      "new": "लोकयात्रा को जानने वाला"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ātma-dravya-prakṛti-sampannaṃ",
+     "problem": "gloss 'self, material and constituent elements' is garbled and does not match the translation",
+     "fix": "endowed with self(-possession) and the material constituent elements",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "ātma-dravya-prakṛti-sampannaṃ",
+      "field": "gloss",
+      "value": "endowed with self(-possession) and the material constituent elements"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "priya-hita-dvāreṇa",
+     "problem": "priya-hita may denote persons ('through the dear and the well-wishers'); literal rendering kept",
+     "fix": "note added",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "append_note",
+      "text": "Review: priya-hita-dvāra could also be 'through (persons) who are dear and well-wishing'; the neutral literal rendering is kept (same in unit 11 priya-hitaiḥ saha)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Or [the king] whom he thinks of:",
+     "problem": "manyeta is optative ('may think'); 'thinks of' changes the sense",
+     "fix": "Or [the king] of whom he may think:",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "Or [the king] whom he thinks of:",
+      "new": "Or [the king] of whom he may think:"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसका कभी नहीं",
+     "problem": "'कभी' adds a temporal sense; na tu eva = by no means",
+     "fix": "उसका किसी प्रकार नहीं",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसका कभी नहीं",
+      "new": "उसका किसी प्रकार नहीं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "One who is not self-possessed",
+     "problem": "hi ('for') is dropped in the English",
+     "fix": "For one who is not self-possessed,",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "One who is not self-possessed,",
+      "new": "For one who is not self-possessed,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनात्मवान् नीतिशास्त्र",
+     "problem": "hi ('for') is dropped in the Hindi",
+     "fix": "क्योंकि अनात्मवान् नीतिशास्त्र",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनात्मवान् नीतिशास्त्र",
+      "new": "क्योंकि अनात्मवान् नीतिशास्त्र"
+     }
+    },
+    {
+     "field": "split",
+     "where": "anātmavā",
+     "problem": "text_flag verified (real typo: nom. sg. of -vat stem is -vān; Devanagari shows अनात्मवा); but w still carries the typo, the corrected form belongs in words",
+     "fix": "anātmavān",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "anātmavā",
+      "field": "w",
+      "value": "anātmavān"
+     }
+    },
+    {
+     "field": "split",
+     "where": "nīti-śāstra-dveṣād",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is nīti-śāstra-dveṣāt",
+     "fix": "nīti-śāstra-dveṣāt",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "nīti-śāstra-dveṣād",
+      "field": "w",
+      "value": "nīti-śāstra-dveṣāt"
+     }
+    },
+    {
+     "field": "split",
+     "where": "anarthya-saṃyogād",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is anarthya-saṃyogāt",
+     "fix": "anarthya-saṃyogāt",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "anarthya-saṃyogād",
+      "field": "w",
+      "value": "anarthya-saṃyogāt"
+     }
+    },
+    {
+     "field": "split",
+     "where": "mahad",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is mahat",
+     "fix": "mahat",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "mahad",
+      "field": "w",
+      "value": "mahat"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "anarthya",
+     "problem": "record: anarthya = worthless (निरर्थक) in 3 and 14; arthya in 10 = petitioners, doubtful pair",
+     "fix": "note added",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "append_note",
+      "text": "Review: text_flag anātmavā for anātmavān verified. The predicate 'na bhavati' has no complement in the text; the literal rendering is kept (low confidence stands)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "With a self-possessed [king]",
+     "problem": "locative of the person concerned; 'with' misleads",
+     "fix": "In the case of a self-possessed [king], having found an opportunity, he should give instruction in the treatise.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "With a self-possessed [king],",
+      "new": "In the case of a self-possessed [king],"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "anuyoga",
+     "problem": "anuyoga must have one rendering across the chunk (draft: 'instruction' here, 'inquiry' in unit 7)",
+     "fix": "one rendering: instruction (शिक्षा), recorded in GLOSSARY",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "Review: anuyoga is fixed as 'instruction' (Hindi शिक्षा) in 5.4.4 and 5.4.7; 'questioning/inquiry/reproof' stay as alternatives in notes only."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "avisaṃvādādd",
+     "problem": "text_flag verified (real: the e-text writes d+d hi for avisaṃvādād dhi, a word-division slip); w still carries the typo, corrected stem form is avisaṃvādāt",
+     "fix": "avisaṃvādāt",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "avisaṃvādādd",
+      "field": "w",
+      "value": "avisaṃvādāt"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "pṛṣṭhas",
+     "problem": "text_flag verified (real typo: pṛṣṭha = back; asked = pṛṣṭa, cf. pṛṣṭaḥ in unit 12); w still carries the typo, the corrected form is pṛṣṭaḥ",
+     "fix": "pṛṣṭaḥ",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "pṛṣṭhas",
+      "field": "w",
+      "value": "pṛṣṭaḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dharma-artha-anuyogam",
+     "problem": "anuyoga rendered 'inquiry' here but 'instruction' in unit 4; must be one rendering",
+     "fix": "instruction in dharma and wealth",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "dharma-artha-anuyogam",
+      "field": "gloss",
+      "value": "instruction in dharma and wealth"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the inquiry into dharma and wealth",
+     "problem": "same anuyoga inconsistency",
+     "fix": "the instruction in dharma and wealth",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "the inquiry into dharma and wealth",
+      "new": "the instruction in dharma and wealth"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धर्म और अर्थ की जाँच",
+     "problem": "same anuyoga inconsistency",
+     "fix": "धर्म और अर्थ की शिक्षा",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धर्म और अर्थ की जाँच",
+      "new": "धर्म और अर्थ की शिक्षा"
+     }
+    },
+    {
+     "field": "english",
+     "where": "punishings",
+     "problem": "'punishings' is not English; daṇḍana is the act of punishing",
+     "fix": "in desire, anger and punishing",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "desire, anger and punishings.",
+      "new": "desire, anger and punishing."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kāma-krodha-daṇḍaneṣu",
+     "problem": "same",
+     "fix": "in desire, anger and punishing",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "kāma-krodha-daṇḍaneṣu",
+      "field": "gloss",
+      "value": "in desire, anger and punishing"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रोकूँगा",
+     "problem": "vārayeyam is optative ('I would restrain', English); Hindi future adds certainty",
+     "fix": "रोकूँ",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रोकूँगा",
+      "new": "रोकूँ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "unit",
+     "problem": "anuyoga now settled",
+     "fix": "note added",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "append_note",
+      "text": "Review: anuyoga = instruction (as unit 4); 'inquiry/examination/reproof' remain possible. Who instructs whom, and the grouping of the three accusatives, are unclear; confidence low stands."
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "bhūmāv",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is bhūmau",
+     "fix": "bhūmau",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "bhūmāv",
+      "field": "w",
+      "value": "bhūmau"
+     }
+    },
+    {
+     "field": "split",
+     "where": "upaviśec",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is upaviśet",
+     "fix": "upaviśet",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "upaviśec",
+      "field": "w",
+      "value": "upaviśet"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "uccair",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is uccaiḥ",
+     "fix": "uccaiḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "uccair",
+      "field": "w",
+      "value": "uccaiḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "anyena,",
+     "problem": "w contains the printed comma",
+     "fix": "anyena",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "anyena,",
+      "field": "w",
+      "value": "anyena"
+     }
+    },
+    {
+     "field": "split",
+     "where": "rājño",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is rājñaḥ",
+     "fix": "rājñaḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "rājño",
+      "field": "w",
+      "value": "rājñaḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "sāmanta-dūtair",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is sāmanta-dūtaiḥ",
+     "fix": "sāmanta-dūtaiḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "sāmanta-dūtair",
+      "field": "w",
+      "value": "sāmanta-dūtaiḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "arthyaiś",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is arthyaiḥ",
+     "fix": "arthyaiḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "arthyaiś",
+      "field": "w",
+      "value": "arthyaiḥ"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रत्नों की उत्कृष्टता के प्रदर्शन का अनुरोध",
+     "problem": "Hindi says 'excellence', English 'excess' (atiśaya); make them agree on the literal sense",
+     "fix": "रत्नों की अधिकता के प्रदर्शन का अनुरोध",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रत्नों की उत्कृष्टता के प्रदर्शन का अनुरोध",
+      "new": "रत्नों की अधिकता के प्रदर्शन का अनुरोध"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "एक ही प्रयोजन के लिए साथ चलना",
+     "problem": "'ही' and 'साथ' are unmarked additions (eka-artha-caryā)",
+     "fix": "एक प्रयोजन के लिए विचरण करना",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक ही प्रयोजन के लिए साथ चलना",
+      "new": "एक प्रयोजन के लिए विचरण करना"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dveṣya-pakṣa-avakṣiptān",
+     "problem": "accusative plural inside a series of instrumentals (strībhiḥ ... arthyaiḥ); possible typo for -avakṣiptaiḥ (or an object of varjayet); not correctable by patch (no new text_flag)",
+     "fix": "note added; person to decide",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "append_note",
+      "text": "Review: avakṣiptān is accusative in a series of instrumentals (strībhiḥ, strī-darśibhiḥ, sāmanta-dūtaiḥ ... arthyaiḥ); a typo for avakṣiptaiḥ is possible but not asserted; the draft's instrumental sense is kept. text_flag balavat (compound mark missing) judged plausible. arthya = petitioners kept, doubtful; anarthya (units 3, 14) = worthless."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "brūyād",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is brūyāt",
+     "fix": "brūyāt",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "brūyād",
+      "field": "w",
+      "value": "brūyāt"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "brūyān",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is brūyāt",
+     "fix": "brūyāt",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "brūyān",
+      "field": "w",
+      "value": "brūyāt"
+     }
+    },
+    {
+     "field": "split",
+     "where": "brūyād",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is brūyāt",
+     "fix": "brūyāt",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "brūyād",
+      "field": "w",
+      "value": "brūyāt"
+     }
+    },
+    {
+     "field": "split",
+     "where": "śṛṇvato",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is śṛṇvataḥ",
+     "fix": "śṛṇvataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "śṛṇvato",
+      "field": "w",
+      "value": "śṛṇvataḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "veṣya-ādīṃś",
+     "problem": "suggestion 'veśya' (courtesan) is doubtful: 'veṣya' is most likely dveṣya with the initial d lost in typing (cf. dveṣya in unit 10, and the next half-verse about the disliked who are yet capable); 'the hated and the like' fits the sense better than 'courtesans'",
+     "fix": "dveṣya-ādīn (possibly veśya-ādīn)",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "13",
+       "op": "set",
+       "field": "text_flags.0.suggest",
+       "value": "dveṣya-ādīn (or, less likely, veśya-ādīn)"
+      },
+      {
+       "n": "13",
+       "op": "set",
+       "field": "text_flags.0.why",
+       "value": "veṣya is not a word; most likely dveṣya ('hated', cf. dveṣya-pakṣa in unit 10) with the initial d lost in typing, which fits apriyā api dakṣāḥ in the next line; veśya 'courtesan' is the alternative (possible)"
+      },
+      {
+       "n": "13",
+       "op": "word",
+       "match_w": "veṣya-ādīṃś",
+       "field": "gloss",
+       "value": "the hated and the like"
+      },
+      {
+       "n": "13",
+       "op": "word",
+       "match_w": "veṣya-ādīṃś",
+       "field": "w",
+       "value": "dveṣya-ādīn"
+      },
+      {
+       "n": "13",
+       "op": "replace",
+       "field": "english",
+       "old": "should not describe courtesans and the like",
+       "new": "should not describe the hated and the like"
+      },
+      {
+       "n": "13",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वेश्या आदि का वर्णन न करे",
+       "new": "द्वेष्य आदि का वर्णन न करे"
+      },
+      {
+       "n": "13",
+       "op": "append_note",
+       "text": "Review: the reading dveṣya-ādīn is preferred over veśya-ādīn (courtesans and the like); both are conjectures, the printed veṣya has no sense."
+      }
+     ]
+    },
+    {
+     "field": "split",
+     "where": "syād",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is syāt",
+     "fix": "syāt",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "syād",
+      "field": "w",
+      "value": "syāt"
+     }
+    },
+    {
+     "field": "split",
+     "where": "syus",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is syuḥ",
+     "fix": "syuḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "syus",
+      "field": "w",
+      "value": "syuḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "tad-bhāvād",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is tad-bhāvāt",
+     "fix": "tad-bhāvāt",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "tad-bhāvād",
+      "field": "w",
+      "value": "tad-bhāvāt"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनर्थ्य",
+     "problem": "Hindi left the Sanskrit word while unit 3 uses निरर्थक for anarthya; one rendering",
+     "fix": "निरर्थक",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनर्थ्य",
+      "new": "निरर्थक"
+     }
+    },
+    {
+     "field": "split",
+     "where": "anarthyāś",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is anarthyāḥ",
+     "fix": "anarthyāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "anarthyāś",
+      "field": "w",
+      "value": "anarthyāḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "dṛṣṭāś",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is dṛṣṭāḥ",
+     "fix": "dṛṣṭāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "dṛṣṭāś",
+      "field": "w",
+      "value": "dṛṣṭāḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "abhihāsyeṣv",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is abhihāsyeṣu",
+     "fix": "abhihāsyeṣu",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "abhihāsyeṣv",
+      "field": "w",
+      "value": "abhihāsyeṣu"
+     }
+    },
+    {
+     "field": "split",
+     "where": "abhihased",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is abhihaset",
+     "fix": "abhihaset",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "abhihased",
+      "field": "w",
+      "value": "abhihaset"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ghora-hāsāṃś",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is ghora-hāsān",
+     "fix": "ghora-hāsān",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "ghora-hāsāṃś",
+      "field": "w",
+      "value": "ghora-hāsān"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pare",
+     "problem": "pare is locative singular (or nom. pl.) of para; loc. pl. would be pareṣu; the draft note repeats the mistake",
+     "fix": "m. loc. sg.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "15",
+       "op": "word",
+       "match_w": "pare",
+       "field": "gram",
+       "value": "m. loc. sg."
+      },
+      {
+       "n": "15",
+       "op": "word",
+       "match_w": "pare",
+       "field": "gloss",
+       "value": "to another"
+      },
+      {
+       "n": "15",
+       "op": "replace",
+       "field": "english",
+       "old": "should not speak harshly to others",
+       "new": "should not speak harshly to another"
+      },
+      {
+       "n": "15",
+       "op": "replace",
+       "field": "hindi",
+       "old": "दूसरों के प्रति कठोर बात न कहे",
+       "new": "दूसरे के प्रति कठोर बात न कहे"
+      },
+      {
+       "n": "15",
+       "op": "append_note",
+       "text": "Review: pare is locative singular (cf. parāt, ablative singular, in the first half); the draft's 'locative plural' is wrong. Hindi/English now 'another'. ghora is 'harsh' here (of speech) and 'terrible' in ghora-hāsa (unit 14), see GLOSSARY."
+      }
+     ]
+    },
+    {
+     "field": "split",
+     "where": "saṅkrāmayed",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is saṅkrāmayet",
+     "fix": "saṅkrāmayet",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "saṅkrāmayed",
+      "field": "w",
+      "value": "saṅkrāmayet"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "vṛttī",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is vṛttiḥ",
+     "fix": "vṛttiḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "vṛttī",
+      "field": "w",
+      "value": "vṛttiḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "agnāv",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is agnau",
+     "fix": "agnau",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "agnāv",
+      "field": "w",
+      "value": "agnau"
+     }
+    },
+    {
+     "field": "split",
+     "where": "samproktā",
+     "problem": "anusvāra convention: ṃ",
+     "fix": "saṃproktā",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "samproktā",
+      "field": "w",
+      "value": "saṃproktā"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "; राजा पर निर्भर",
+     "problem": "second hi ('for') is dropped in the Hindi (English renders both)",
+     "fix": "; क्योंकि राजा पर निर्भर",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "; राजा पर निर्भर",
+      "new": "; क्योंकि राजा पर निर्भर"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "rājā-upajīvinām",
+     "problem": "text_flag judged plausible: in this e-text '.' joins compound members and '-' marks a word junction, so rājā-upajīvinām would be two words; the stem rāja- is expected",
+     "fix": "note added",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "append_note",
+      "text": "Review: text_flag rājā- for rāja- judged plausible (compound member), kept as 'possible'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "dahed",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is dahet",
+     "fix": "dahet",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "dahed",
+      "field": "w",
+      "value": "dahet"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ghātayed",
+     "problem": "final consonant/visarga sandhi not undone; dictionary form is ghātayet",
+     "fix": "ghātayet",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "ghātayed",
+      "field": "w",
+      "value": "ghātayet"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जलाती है",
+     "problem": "dahet is optative; English has 'would burn', Hindi indicative",
+     "fix": "जला सकती है",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जलाती है",
+      "new": "जला सकती है"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 17 units. Issues: 11 error, 46 minor; no regrouping suggested. Main findings: anuyoga unified as 'instruction' (units 4, 7); anarthya = worthless (निरर्थक) in 3 and 14, arthya = petitioners in 10 kept as doubtful; 'hi' dropped in unit 3 restored; pare in unit 15 is loc. sg., not pl.; unit 13 veṣya is more likely dveṣya than veśya (flag suggestion corrected, both conjectural); typo forms in w (anātmavā, avisaṃvādādd, pṛṣṭhas) replaced by corrected forms; final-consonant sandhi in many w forms restored to dictionary form. Only 6 text_flags exist (units 3, 5, 6, 10, 13, 16), not 7; all are plausible typos (10 balavat and 16 rājā- only 'possible'). Not patchable: unit 10 avakṣiptān (accusative in an instrumental series) may need a text_flag; unit 13 conjecture needs a person."
+}

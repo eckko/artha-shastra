@@ -23,3 +23,9 @@ Dated log of the verify-vedic-book-reference run. Append only.
 - Same pipeline with Sonnet 5.5 agents for drafting and review (drafts told not to put bracketed glosses in Hindi). All patches applied without failure. Hand edit: 13.5.2 duplicated `ca` in the word split removed.
 - Written: text/p13-, p14-, p15- `-sandhi.md`, `-hindi.md`, `-english.md`. check_extraction: layers align with the Sanskrit IDs; only the 3 known source-typo errors remain.
 - Layers done: Parts 06, 08, 10, 11, 12, 13, 14, 15. Not run: Parts 01-05, 07, 09 (large).
+
+## 2026-10-17, fourth layer run: Parts 05, 09, 04 (30 chunks, 1,010 units, branch docs/2026-10-17/version-2)
+- Same pipeline as the third run (Sonnet 5.5 agents for drafting and an independent review per chunk). All patches applied without failure; reviews found mostly Hindi wording, unmarked additions, glossary alignment and closing `iti` rendered as "thus".
+- Hand edits (the patch ops cannot add or remove flags or words): added or corrected text_flags in 5.1.55, 5.2.57, 5.4.10, 5.5.7, 5.6.9/28/31, 9.1.15 (moved a stray `ca`), 9.4.8/16/25, 9.5.4, 9.6.21/29, 4.1.10, 4.5.5, 4.6.18, 4.7.2, 4.9.9, 4.11.14; removed a false-positive flag in 5.3.6.
+- Written: text/p04-, p05-, p09- `-sandhi.md`, `-hindi.md`, `-english.md`. check_extraction: layers align with the Sanskrit IDs; only the 3 known source-typo errors remain.
+- Layers done: Parts 04, 05, 06, 08, 09, 10, 11, 12, 13, 14, 15. Not run: Parts 01, 02, 03, 07 (about 3,200 verses; waiting for the owner's decision). Open items needing a person are in ISSUES.md.

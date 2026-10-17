@@ -1,0 +1,188 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "अचानक मरे हुए, तेल लगे हुए मृतक की परीक्षा करे।",
+  "new": "तेल लगे हुए, अचानक मरे हुए व्यक्ति की परीक्षा करे।",
+  "why": "reviewer (minor): Hindi repeats the dead-person idea (मरे हुए ... मृतक); āśu-mṛtaka is one word, glossary mṛtaka = dead person (मृत व्यक्ति)."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "One should know [him] to be killed by breath obstructed through pressing, if he has urine and faeces expelled, the skin of the abdomen filled with wind, swollen feet and hands, closed eyes, and marks on the throat.",
+  "new": "One with urine and faeces expelled, the skin of the abdomen filled with wind, swollen feet and hands, closed eyes and marks on the throat, one should know [him] to be killed by breath obstructed through pressing.",
+  "why": "reviewer (minor): 'if he has' is an unmarked conditional; the descriptive bahuvrīhis are rendered as a relative pattern in units 3-11, so unit 2 should match."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "vāta-pūrṇa-koṣṭha-tvakka: tvakka is read as 'skin' (tvac extended); alternative 'the abdomen and skin full of wind'. The English '[him]' is supplied. sa-vyañjana = with marks, signs (no cause stated). 'if he has' is the English rendering of the descriptive bahuvrīhis, which have no conditional word. Possible nominative pāṇimān could instead be read as 'he is one with swollen feet and hands' in apposition.",
+  "new": "vāta-pūrṇa-koṣṭha-tvakka: tvakka is read as 'skin' (tvac extended); alternative 'the abdomen and skin full of wind'. The English '[him]' is supplied. sa-vyañjana = with marks, signs (no cause stated). 'if he has' is the English rendering of the descriptive bahuvrīhis, which have no conditional word. Possible nominative pāṇimān could instead be read as 'he is one with swollen feet and hands' in apposition. English was changed to the relative pattern of units 3-11, so the earlier remark about 'if he has' no longer applies. Both text_flags (pāṇimān for pāṇimantam, pīṭana for pīḍana) are accepted as likely typos; tvakka (in koṣṭha-tvakka) is also unusual (tvac with extra -ka?) and a person should check it against the edition.",
+  "why": "reviewer (minor): Stale note after English change; tvakka is a possible third typo not flagged."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "śūna-pāda-pāṇimantam",
+  "old": "m. acc. sg.",
+  "new": "m. acc. sg.; mat-possessive (printed nom. -mān, corrected to acc. -mantam; flagged)",
+  "why": "reviewer (minor): gram should record the corrected form is an editorial correction."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जिसके रक्त से सिंचे अंग टूटे और फटे हों, उसे लकड़ियों या पत्थरों से मारा गया जाने।",
+  "new": "रक्त से सिंचे हुए, जिसके अंग टूटे और चिरे हुए हों, उसे लकड़ियों या पत्थरों से मारा गया जाने।",
+  "why": "reviewer (error): Hindi 'जिसके रक्त से सिंचे अंग' makes the limbs, not the body, blood-sprinkled; also फटे is used for bhinna and again for sphuṭita in unit 7."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "One with limbs crushed and burst, one should know [him] to be one thrown down.",
+  "new": "One with limbs thoroughly broken and burst, one should know [him] to be one thrown down.",
+  "why": "reviewer (minor): 'crushed' is an invented sense for sam-bhagna (thoroughly broken)."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "sambhagna-sphuṭita-gātram",
+  "old": "with limbs crushed and burst",
+  "new": "with limbs thoroughly broken and burst",
+  "why": "reviewer (minor): gloss 'crushed' invents a sense for sam-bhagna."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जिसके अंग कुचले और फटे हों, उसे नीचे फेंका गया जाने।",
+  "new": "जिसके अंग पूरी तरह टूटे और फटे हों, उसे नीचे फेंका गया जाने।",
+  "why": "reviewer (minor): 'कुचले' is an invented sense for sam-bhagna."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "जिसके वस्त्र और अंग इधर-उधर फेंके हुए हों, जिसने अत्यधिक वमन और विरेचन किया हो, उसे मदन-योग से मारा गया जाने।",
+  "new": "जिसके वस्त्र और अंग इधर-उधर फेंके हुए हों, जिसने बहुत वमन किया हो और जिसका विरेचन हुआ हो, उसे मदन-योग से मारा गया जाने।",
+  "why": "reviewer (minor): Hindi अत्यधिक governs both vomiting and purging, though the draft's own note says ati may qualify only vanta."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "ciṭiciṭāyat-indra-dhanus-varṇam",
+  "old": "n. acc. sg.; karmadhāraya",
+  "new": "n. acc. sg.; compound of ciṭiciṭāyat and indra-dhanus-varṇa (relation unsettled)",
+  "why": "reviewer (minor): gram says karmadhāraya while the gloss says 'or'; the two conflict."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "The object drawn out from the heart is not named; the neuter singular endings suggest a piece (or the heart itself) is meant, but this is not stated. ciṭiciṭāyat is onomatopoeic (crackling, a denominative participle); indra-dhanus = Indra's bow, i.e. rainbow; the compound is read as 'crackling or rainbow-coloured' because of the following vā. The last clause has no verb: 'one should know [it as poison]' is implied by the first clause but not written, and is not supplied.",
+  "new": "The object drawn out from the heart is not named; the neuter singular endings suggest a piece (or the heart itself) is meant, but this is not stated. ciṭiciṭāyat is onomatopoeic (crackling, a denominative participle); indra-dhanus = Indra's bow, i.e. rainbow; the compound is read as 'crackling or rainbow-coloured' because of the following vā. The last clause has no verb: 'one should know [it as poison]' is implied by the first clause but not written, and is not supplied. The vā stands after the compound, not inside it, so 'crackling or rainbow-coloured' is an interpretive reading; a literal reading is 'crackling, rainbow-coloured'. Kept for now, doubt recorded.",
+  "why": "reviewer (minor): 'or' inside a single compound is not supported by the text."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "उसी की मारे गए या फाँसी लटकाए गए के विषय में परीक्षा करे।",
+  "new": "मारे गए या फाँसी पर लटकाए गए के विषय में उसी की परीक्षा करे।",
+  "why": "reviewer (error): Hindi 'उसी की ... के विषय में' is ungrammatical (tad is the object, hata-udbaddhasya the genitive of the case)."
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "tad eva refers to the search of unit 14. hata-udbaddha is read as a dvandva 'killed or hanged'; alternative 'killed and then hung up'. Hindi 'फाँसी लटकाए गए' renders udbaddha.",
+  "new": "tad eva refers to the search of unit 14. hata-udbaddha is read as a dvandva 'killed or hanged'; alternative 'killed and then hung up'. Hindi 'फाँसी लटकाए गए' renders udbaddha. Hindi was rewritten with फाँसी पर लटकाए गए; the note's mention of 'फाँसी लटकाए गए' is superseded. 'Killed and hung' (dvandva as 'and') is at least as likely as 'killed or hanged' and contrasts with svayam-udbaddha in unit 16.",
+  "why": "reviewer (minor): Stale note; dvandva sense unsettled."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "अथवा स्वयं फाँसी लगाए हुए का अनुचित अपमान खोजे।",
+  "new": "अथवा स्वयं फाँसी पर लटके हुए के प्रति किए गए अनुचित दुर्व्यवहार को खोजे।",
+  "why": "reviewer (error): अपमान (insult) is a wrong sense for viprakāra (ill-treatment, wrong done)."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अथवा सबके लिए स्त्री और दायभाग सम्बन्धी दोष, काम में स्पर्धा, प्रतिपक्षी से द्वेष, व्यापार-संस्थाओं का समवाय, अथवा विवाद के आधारों में से कोई एक, अथवा रोष का आधार है।",
+  "new": "अथवा सबके लिए स्त्री और दायभाग सम्बन्धी दोष, कर्म में स्पर्धा, प्रतिपक्षी से द्वेष, व्यापार-संस्थाओं का समवाय, अथवा विवाद के आधारों में से कोई एक, अथवा रोष का आधार है।",
+  "why": "reviewer (minor): Glossary 5.3: Hindi for karma is always कर्म."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "हत्या रोष के कारण होती है।",
+  "new": "हत्या का कारण रोष है।",
+  "why": "reviewer (minor): 'होती है' is habitual, not the bare copula the note claims; bahuvrīhi roṣa-nimitta is best given as 'the cause of the killing is anger'."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "Hindi 'होती है' is the bare copula; the Sanskrit has the bahuvrīhi alone. roṣa = anger.",
+  "new": "Hindi 'होती है' is the bare copula; the Sanskrit has the bahuvrīhi alone. roṣa = anger. Hindi now reads 'हत्या का कारण रोष है' (bare copula है only); the remark about 'होती है' is superseded.",
+  "why": "reviewer (minor): Stale note."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "And those who move about near his place of killing, he should ask one by one: “By whom was this man brought here, or killed? Who, armed, concealing, or agitated, was seen by you?”",
+  "new": "And those who move about near his place of killing, he should ask one by one: “By whom was this one brought here, or killed? Who, armed, concealing, or agitated, was seen by you?”",
+  "why": "reviewer (minor): 'man' is added; ayam is only 'this one'."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Having seen, of one without a protector, the article of use and equipment on the body, a garment, dress or ornament, those who deal in them",
+  "new": "Having seen, of one without a protector, the article of use, equipment, garment, dress or ornament situated on the body, those who deal in them",
+  "why": "reviewer (minor): 'and' is added between upabhoga and paricchada (no ca in the Sanskrit); also the placing of 'situated on the body' with the whole list."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "अनाथ के शरीर पर स्थित उपभोग की वस्तु और साज-सामान, वस्त्र, वेश अथवा आभूषण देखकर उनका व्यवहार करने वालों को",
+  "new": "अनाथ के शरीर पर स्थित उपभोग, परिच्छद, वस्त्र, वेश अथवा आभूषण को देखकर, उनका लेन-देन करने वालों से",
+  "why": "reviewer (minor): 'और' and 'वस्तु' are added; tad-vyavahāriṇaḥ is the object of anuyuñjīta in unit 24, so Hindi needs से, which also removes the doubled 'उनसे' of unit 24."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "उनसे संयोग, निवास, निवास का कारण, कर्म और व्यवहार के विषय में पूछताछ करे; तब खोज करे।",
+  "new": "सम्पर्क, निवास, निवास का कारण, कर्म और व्यवहार के विषय में पूछताछ करे; तब खोज करे।",
+  "why": "reviewer (minor): Hindi संयोग means chance/coincidence; saṃyoga here is connection, and 'उनसे' is now carried by unit 23."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "Whoever, under the sway of desire and anger, would put himself to death himself, by rope, weapon or poison also, or a woman deluded by evil.",
+  "new": "Whoever, under the sway of desire and anger, would himself put himself to death by rope, weapon or poison also, or a woman deluded by evil.",
+  "why": "reviewer (minor): Awkward repetition 'himself ... himself'; word order of svayam."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "rajju-śastra-viṣaiḥ",
+  "old": "f. inst. pl.; dvandva",
+  "new": "n. inst. pl.; dvandva",
+  "why": "reviewer (minor): A dvandva of rajju (f.), śastra (n.), viṣa (n.) takes neuter gender, not feminine."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "ghātayet is causative ('cause to be killed') but with ātmānam means to kill oneself; svayam is 'himself'. 'vā api' is rendered 'or ... also'. The line has no main verb for the woman; units 26-27 continue about 'them' (tān).",
+  "new": "ghātayet is causative ('cause to be killed') but with ātmānam means to kill oneself; svayam is 'himself'. 'vā api' is rendered 'or ... also'. The line has no main verb for the woman; units 26-27 continue about 'them' (tān). strī is nominative and is most naturally a second subject of ghātayet ('or a woman deluded by evil [would put herself to death]'); the note about 'no main verb for the woman' should be read in that light. English leaves the verb unrepeated, as in the Sanskrit.",
+  "why": "reviewer (minor): Note wrongly suggests strī lacks a verb."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "वह एक वर्ष में पतित हो जाता है, पतित के साथ व्यवहार करता हुआ; यज्ञ कराने, पढ़ाने या योन-सम्बन्ध से; और उनके साथ व्यवहार करने वाला दूसरा भी।",
+  "new": "वह एक वर्ष में पतित हो जाता है, पतित के साथ बर्ताव करता हुआ; यज्ञ कराने, पढ़ाने या विवाह-सम्बन्ध से; और उनके साथ बर्ताव करने वाला दूसरा भी।",
+  "why": "reviewer (minor): योन-सम्बन्ध is a non-word (यौन would mean sexual); व्यवहार is reserved for vyavahāra = dealings (24); samācaran needs a different word."
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "Doubtful: yauna (pertaining to the womb) is read as 'marriage connection', alternative 'connection by birth'. patati/patita 'falls/fallen' is kept literal (the technical sense of loss of status is not added). The subject of patati is unstated ('he'); 'taiḥ' = with those (the fallen).",
+  "new": "Doubtful: yauna (pertaining to the womb) is read as 'marriage connection', alternative 'connection by birth'. patati/patita 'falls/fallen' is kept literal (the technical sense of loss of status is not added). The subject of patati is unstated ('he'); 'taiḥ' = with those (the fallen). Hindi विवाह-सम्बन्ध matches the English 'marriage connection'; yauna literally 'pertaining to the womb/yoni', alternative 'connection by birth'. Hindi बर्ताव renders samācarati so that व्यवहार stays for vyavahāra.",
+  "why": "reviewer (minor): Record the Hindi choice for yauna and samācar."
+ }
+]

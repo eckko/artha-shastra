@@ -1,0 +1,835 @@
+{
+ "units": [
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "consistent rendering of grāhayet decided",
+     "fix": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open.",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "append_note",
+      "text": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open."
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "consistent rendering of grāhayet decided",
+     "fix": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open.",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "append_note",
+      "text": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open."
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "āpta-bhāva-upagataḥ",
+     "problem": "compound is a tat-puruṣa (bhāvam upagataḥ, \"who has reached the state\"), not a bahuvrīhi",
+     "fix": "m. nom. sg.; tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "āpta-bhāva-upagataḥ",
+      "field": "gram",
+      "value": "m. nom. sg.; tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "consistent rendering of grāhayet decided",
+     "fix": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open.",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "append_note",
+      "text": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open."
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Seize the kingdom",
+     "problem": "gṛhāṇa is √grah \"take\"; Hindi says ले लो, English \"Seize\" mismatched",
+     "fix": "Take the kingdom",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "Seize the kingdom",
+      "new": "Take the kingdom"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gṛhāṇa",
+     "problem": "as above",
+     "fix": "take",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "gṛhāṇa",
+      "field": "gloss",
+      "value": "take"
+     }
+    },
+    {
+     "field": "english",
+     "where": "our treaty stands as it was",
+     "problem": "\"as it was\" is an unmarked reinterpretation; yathā-sthita is \"as it stands\" (the draft note says so)",
+     "fix": "our treaty is as it stands",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "our treaty stands as it was",
+      "new": "our treaty is as it stands"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "preṣayet",
+     "problem": "root is pra-√iṣ (preṣayati), not √iṣ alone",
+     "fix": "3 sg opt. caus. pra-√iṣ",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "preṣayet",
+      "field": "gram",
+      "value": "3 sg opt. caus. pra-√iṣ"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "consistency with chunk 1 (quotation-closing iti)",
+     "fix": "closing marker",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing marker"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "flag check",
+     "fix": "Review: yathā.asthito -> yathā-sthitaḥ judged right (yathā + asthita would give the same sandhi form but no sense); the text_flag stays.",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "append_note",
+      "text": "Review: yathā.asthito -> yathā-sthitaḥ judged right (yathā + asthita would give the same sandhi form but no sense); the text_flag stays."
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "consistent rendering of grāhayet decided",
+     "fix": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open.",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "append_note",
+      "text": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open."
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eteṣām",
+     "problem": "genitive form; gloss \"by these\" names a case it does not have",
+     "fix": "of these (used for \"by these\")",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "word",
+      "match_w": "eteṣām",
+      "field": "gloss",
+      "value": "of these (used for \"by these\")"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "consistency with chunk 1 (quotation-closing iti)",
+     "fix": "closing marker",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing marker"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Of whomever an eminent brave man",
+     "problem": "ungrammatical English for yasya",
+     "fix": "Whose eminent brave man",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "english",
+      "old": "Of whomever an eminent brave man",
+      "new": "Whose eminent brave man"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जिसका कोई प्रमुख",
+     "problem": "\"कोई\" is not in the Sanskrit",
+     "fix": "जिसका प्रमुख",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसका कोई प्रमुख",
+      "new": "जिसका प्रमुख"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "preṣayet",
+     "problem": "root is pra-√iṣ (preṣayati), not √iṣ alone",
+     "fix": "3 sg opt. caus. pra-√iṣ",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "word",
+      "match_w": "preṣayet",
+      "field": "gram",
+      "value": "3 sg opt. caus. pra-√iṣ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a message to the accused",
+     "problem": "abhiśastasya is genitive; \"to\" is an unmarked change of case. Sense of the quote (an order \"Do more, then you will get the rest\") also suits a message in the accused's name; literal genitive kept",
+     "fix": "the message of the accused",
+     "severity": "error",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "english",
+      "old": "a message to the accused",
+      "new": "the message of the accused"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अभियुक्त को यह आदेश",
+     "problem": "as above (genitive)",
+     "fix": "अभियुक्त का यह आदेश",
+     "severity": "error",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अभियुक्त को यह आदेश",
+      "new": "अभियुक्त का यह आदेश"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record doubt",
+     "fix": "Review: abhiśastasya kept as a literal genitive \"of the accused\"; whether the message is to him or in his name is not settled by the line. The text_flag paṇa.śeeṣam -> paṇa.śeṣam is a real typo (doubled e, also in Devanagari).",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "append_note",
+      "text": "Review: abhiśastasya kept as a literal genitive \"of the accused\"; whether the message is to him or in his name is not settled by the line. The text_flag paṇa.śeeṣam -> paṇa.śeṣam is a real typo (doubled e, also in Devanagari)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "consistent rendering of grāhayet decided",
+     "fix": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open.",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "append_note",
+      "text": "Glossary 9.6: grāhayet/-eyuḥ = cause to be seized (पकड़वाए); the sense (arrest, intercept, make accept) stays open."
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "low-confidence unit second look: no firmer reading is supported",
+     "fix": "Review: low confidence kept; reading is literal and the sense is open, do not build on it.",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "append_note",
+      "text": "Review: low confidence kept; reading is literal and the sense is open, do not build on it."
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "closing iti is not rendered as \"Thus\" (chunk 1 unit 25 and glossary convention)",
+     "fix": "Action of dissension.",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "set",
+      "field": "english",
+      "value": "Action of dissension."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "\"इस प्रकार\" renders the closing iti; drop it, as chunk 1 does",
+     "fix": "भेद-कर्म।",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "set",
+      "field": "hindi",
+      "value": "भेद-कर्म।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "gloss \"thus\" -> \"closing marker\" as in chunk 1",
+     "fix": "closing marker",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing marker"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "tīkṣṇa check",
+     "fix": "Review: tīkṣṇam (accusative, in a list of persons dealt with: fierce, energetic, afflicted, with a standing enemy) is read as the adjective \"fierce\"; in unit 54 tīkṣṇaḥ is the agent class (assassin), the point of the explanation for \"any one of them\". Both readings are consistent with the glossary and left as drafted.",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "append_note",
+      "text": "Review: tīkṣṇam (accusative, in a list of persons dealt with: fierce, energetic, afflicted, with a standing enemy) is read as the adjective \"fierce\"; in unit 54 tīkṣṇaḥ is the agent class (assassin), the point of the explanation for \"any one of them\". Both readings are consistent with the glossary and left as drafted."
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "For the assassin, alone, may dispatch",
+     "problem": "ungrammatical English",
+     "fix": "For the assassin may, alone, dispatch",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "english",
+      "old": "For the assassin, alone, may dispatch",
+      "new": "For the assassin may, alone, dispatch"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अकेला ही",
+     "problem": "\"ही\" is not in the Sanskrit (hi is rendered क्योंकि)",
+     "fix": "अकेला",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अकेला ही",
+      "new": "अकेला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a more distinguished [action]",
+     "problem": "viśiṣṭa is not a comparative; \"more\" is added",
+     "fix": "a distinguished [action]",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "english",
+      "old": "a more distinguished [action]",
+      "new": "a distinguished [action]"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "viśiṣṭam",
+     "problem": "as above",
+     "fix": "distinguished",
+     "severity": "minor",
+     "patch": {
+      "n": "55",
+      "op": "word",
+      "match_w": "viśiṣṭam",
+      "field": "gloss",
+      "value": "distinguished"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "closing iti is not rendered as \"Thus\" (chunk 1 unit 25 and glossary convention)",
+     "fix": "The group of four means.",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "set",
+      "field": "english",
+      "value": "The group of four means."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "\"इस प्रकार\" renders the closing iti; drop it, as chunk 1 does",
+     "fix": "चार उपायों का समूह।",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "set",
+      "field": "hindi",
+      "value": "चार उपायों का समूह।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "gloss \"thus\" -> \"closing marker\" as in chunk 1",
+     "fix": "closing marker",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing marker"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "closing iti is not rendered as \"Thus\" (chunk 1 unit 25 and glossary convention)",
+     "fix": "Said regarding those who attack.",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "set",
+      "field": "english",
+      "value": "Said regarding those who attack."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "\"इस प्रकार\" renders the closing iti; drop it, as chunk 1 does",
+     "fix": "आक्रमण करने वालों के विषय में कहा गया।",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "set",
+      "field": "hindi",
+      "value": "आक्रमण करने वालों के विषय में कहा गया।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "gloss \"thus\" -> \"closing marker\" as in chunk 1",
+     "fix": "closing marker",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing marker"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those very means [apply]",
+     "problem": "glossary: a missing predicate is supplied only as a bare copula, not \"apply\"",
+     "fix": "those very ones [are] the means",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "replace",
+      "field": "english",
+      "old": "those very means [apply]",
+      "new": "those very ones [are] the means"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "preṣayet",
+     "problem": "root is pra-√iṣ (preṣayati), not √iṣ alone",
+     "fix": "3 sg opt. caus. pra-√iṣ",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "word",
+      "match_w": "preṣayet",
+      "field": "gram",
+      "value": "3 sg opt. caus. pra-√iṣ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "low-confidence unit second look: no firmer reading is supported",
+     "fix": "Review: low confidence kept; reading is literal and the sense is open, do not build on it.",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "append_note",
+      "text": "Review: low confidence kept; reading is literal and the sense is open, do not build on it."
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "apratipadyamānam",
+     "problem": "root is prati-√pad, not pra-ti-√pad",
+     "fix": "pres. part. mid. a- (neg.) + prati-√pad; m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "word",
+      "match_w": "apratipadyamānam",
+      "field": "gram",
+      "value": "pres. part. mid. a- (neg.) + prati-√pad; m. acc. sg."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "consistency with chunk 1 (quotation-closing iti)",
+     "fix": "closing marker",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing marker"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसे दोनों से वेतन पाने वाले दूसरों तक पहुँचाएँ",
+     "problem": "Hindi word order lets \"दोनों से वेतन पाने वाले\" be read as describing \"the others\"",
+     "fix": "दोनों से वेतन पाने वाले उसे दूसरों के पास पहुँचाएँ",
+     "severity": "error",
+     "patch": {
+      "n": "68",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसे दोनों से वेतन पाने वाले दूसरों तक पहुँचाएँ",
+      "new": "दोनों से वेतन पाने वाले उसे दूसरों के पास पहुँचाएँ"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "consistency with chunk 1 (quotation-closing iti)",
+     "fix": "closing marker",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing marker"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "low-confidence unit second look: no firmer reading is supported",
+     "fix": "Review: low confidence kept; reading is literal and the sense is open, do not build on it.",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "append_note",
+      "text": "Review: low confidence kept; reading is literal and the sense is open, do not build on it."
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जल्दी सन्धि कर लो",
+     "problem": "kṣiprataram is a comparative; \"जल्दी\" loses it",
+     "fix": "अधिक शीघ्र सन्धि कर लो",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जल्दी सन्धि कर लो",
+      "new": "अधिक शीघ्र सन्धि कर लो"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "consistency with chunk 1 (quotation-closing iti)",
+     "fix": "closing marker",
+     "severity": "minor",
+     "patch": {
+      "n": "69",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing marker"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "aṭavī decision",
+     "fix": "Review: aṭavīḥ here stands in a list of places (sārtha, vraja, aṭavī) that are destroyed, apart from the forest chiefs named in the same line, so \"forests\" (वन) is kept and the force sense \"forest tribes\" (8.1) is not used; a person may prefer \"forest tribes\".",
+     "severity": "minor",
+     "patch": {
+      "n": "71",
+      "op": "append_note",
+      "text": "Review: aṭavīḥ here stands in a list of places (sārtha, vraja, aṭavī) that are destroyed, apart from the forest chiefs named in the same line, so \"forests\" (वन) is kept and the force sense \"forest tribes\" (8.1) is not used; a person may prefer \"forest tribes\"."
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "low-confidence unit second look: no firmer reading is supported",
+     "fix": "Review: low confidence kept; reading is literal and the sense is open, do not build on it.",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "append_note",
+      "text": "Review: low confidence kept; reading is literal and the sense is open, do not build on it."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 2 (units 38-73): 36 units checked, 47 issues, all minor except 3 errors (47 case of abhiśastasya, 68 Hindi word order); patches machine-applicable. No regrouping. Glossary 9.6 lines appended. Text flags: paṇa.śeeṣam is a real typo; yathā.asthito -> yathā-sthitaḥ judged right. Words cannot be added or removed by patch: none needed."
+}

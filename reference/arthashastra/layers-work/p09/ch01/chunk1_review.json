@@ -1,0 +1,782 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "dangers",
+     "problem": "āpad is fixed in the glossary as adversity (8.1)",
+     "fix": "gains and adversities",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "gains and dangers",
+      "new": "gains and adversities",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṣaya-vyaya-lābha-āpadām",
+     "problem": "same: dangers -> adversities",
+     "fix": "losses, expenses, gains, adversities",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaya-vyaya-lābha-āpadām",
+      "field": "gloss",
+      "value": "losses, expenses, gains, adversities",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आपदाओं",
+     "problem": "glossary: āpad = आपत्ति",
+     "fix": "आपत्तियों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आपदाओं",
+      "new": "आपत्तियों",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "opening quote",
+     "problem": "the quotation opened in unit 2; Hindi unit 5 wrongly reopens it (English does not)",
+     "fix": "परन्तु उत्साहहीन ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "“परन्तु",
+      "new": "परन्तु",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बुलाकर",
+     "problem": "English says brought (ā-√vah); Hindi बुलाकर = summoned, a stronger reading than the English",
+     "fix": "लाकर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बुलाकर",
+      "new": "लाकर",
+      "n": "7"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "atisandhatte",
+     "problem": "root is ati-sam-√dhā (as in unit 15)",
+     "fix": "3 sg. pres. ātm. ati-sam-√dhā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "atisandhatte",
+      "field": "gram",
+      "value": "3 sg. pres. ātm. ati-sam-√dhā",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "have conquered",
+     "problem": "jigyuḥ is the perfect glossed \"conquered\"; notes also say \"conquered\"; Hindi is simple past",
+     "fix": "conquered the earth",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "have conquered the earth",
+      "new": "conquered the earth",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "token ca-atisandhātum / yoga.upaniṣadbhyāṃ",
+     "problem": "the word ca is listed under token yoga.upaniṣadbhyāṃ, but it belongs to the next token ca-atisandhātum, which lists only atisandhātum. A patch cannot move or add a word.",
+     "fix": "move word ca to token ca-atisandhātum",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "योग और उपनिषद्",
+     "problem": "Devanagari योग / उपनिषद् read to a modern Hindi reader as yoga practice and the Upanishads; the English gloss is secret contrivance / secret teaching. Needs a person to choose a Hindi wording (no brackets allowed).",
+     "fix": "person to decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "atisandhatte",
+     "problem": "root ati-sam-√dhā",
+     "fix": "3 sg. pres. ātm. ati-sam-√dhā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "atisandhatte",
+      "field": "gram",
+      "value": "3 sg. pres. ātm. ati-sam-√dhā",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "bhūmiḥ,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhūmiḥ,",
+      "field": "w",
+      "value": "bhūmiḥ",
+      "n": "21"
+     }
+    },
+    {
+     "field": "split",
+     "where": "parasya,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "parasya,",
+      "field": "w",
+      "value": "parasya",
+      "n": "21"
+     }
+    },
+    {
+     "field": "split",
+     "where": "deśaḥ,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "deśaḥ,",
+      "field": "w",
+      "value": "deśaḥ",
+      "n": "21"
+     }
+    },
+    {
+     "field": "split",
+     "where": "adhamaḥ,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "adhamaḥ,",
+      "field": "w",
+      "value": "adhamaḥ",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "parasya,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "parasya,",
+      "field": "w",
+      "value": "parasya",
+      "n": "25"
+     }
+    },
+    {
+     "field": "split",
+     "where": "kālaḥ,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kālaḥ,",
+      "field": "w",
+      "value": "kālaḥ",
+      "n": "25"
+     }
+    },
+    {
+     "field": "split",
+     "where": "adhamaḥ,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "adhamaḥ,",
+      "field": "w",
+      "value": "adhamaḥ",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "vikarṣati,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vikarṣati,",
+      "field": "w",
+      "value": "vikarṣati",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "hanti,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hanti,",
+      "field": "w",
+      "value": "hanti",
+      "n": "31"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "rakṣā",
+     "problem": "the draft keeps the typo form in w; brief rule 6 says words carry the corrected form. rakṣām (acc.) is the object of vidhāya, as standard (rakṣāṃ vidhāya). Flag stays \"possible\".",
+     "fix": "rakṣām, f. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rakṣā",
+      "field": "w",
+      "value": "rakṣām",
+      "n": "34"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "rakṣā",
+     "problem": "follows the corrected form",
+     "fix": "f. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rakṣā",
+      "field": "gram",
+      "value": "f. acc. sg.",
+      "n": "34"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kośa-daṇḍam",
+     "problem": "a singular -aṃ dvandva is a neuter samāhāra, not masculine",
+     "fix": "dvandva (samāhāra), n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kośa-daṇḍam",
+      "field": "gram",
+      "value": "dvandva (samāhāra), n. acc. sg.",
+      "n": "34"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kārya-sādhana-saham",
+     "problem": "agrees with the neuter kośa-daṇḍam",
+     "fix": "tat-puruṣa, n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kārya-sādhana-saham",
+      "field": "gram",
+      "value": "tat-puruṣa, n. acc. sg.",
+      "n": "34"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "असंस्कृत",
+     "problem": "in Hindi असंस्कृत means uncultured / not Sanskrit, not \"unprepared\" (the English meaning)",
+     "fix": "तैयार नहीं किए गए हैं",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "असंस्कृत हैं",
+      "new": "तैयार नहीं किए गए हैं",
+      "n": "34"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वार्षिक",
+     "problem": "वार्षिक means annual; vārṣika = of the rainy season (English says rainy-season)",
+     "fix": "वर्षाकालीन",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वार्षिक सस्य",
+      "new": "वर्षाकालीन सस्य",
+      "n": "34"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हैमन",
+     "problem": "हैमन is not ordinary Hindi; haimana = of winter",
+     "fix": "हेमन्तकालीन",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हैमन मुष्टि",
+      "new": "हेमन्तकालीन मुष्टि",
+      "n": "34"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "haimanaṃ ca muṣṭim",
+     "problem": "Gender: in unit 36 muṣṭi takes the feminine vārṣikīṃ, but here haimanaṃ (and in 35 vāsantikaṃ) have non-feminine endings. Possible haimanīṃ / vāsantikīṃ, or muṣṭi used as masculine. Left as printed; text_flag cannot be added by patch. Also hold the doubt on [against an enemy]: English brackets it correctly and Hindi adds nothing (checked).",
+     "fix": "person to decide",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW: gender doubt: muṣṭi takes feminine vārṣikīṃ in unit 36, but haimanaṃ here and vāsantikaṃ in unit 35 are not feminine; possible haimanīṃ/vāsantikīṃ typo or masculine muṣṭi. Kept as printed. Hindi supplies no \"against an enemy\"; English brackets it.",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हैमन / वासन्तिक",
+     "problem": "non-standard Hindi; haimana = of winter, vāsantika = of spring",
+     "fix": "हेमन्तकालीन सस्य और वसन्तकालीन मुष्टि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हैमन सस्य और वासन्तिक मुष्टि",
+      "new": "हेमन्तकालीन सस्य और वसन्तकालीन मुष्टि",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "असंस्कृत",
+     "problem": "as unit 34",
+     "fix": "तैयार नहीं किए गए हैं",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "असंस्कृत हैं",
+      "new": "तैयार नहीं किए गए हैं",
+      "n": "36"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वासन्तिक / वार्षिक",
+     "problem": "वार्षिक = annual; vārṣika = of the rainy season",
+     "fix": "वसन्तकालीन सस्य और वर्षाकालीन मुष्टि",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वासन्तिक सस्य और वार्षिक मुष्टि",
+      "new": "वसन्तकालीन सस्य और वर्षाकालीन मुष्टि",
+      "n": "36"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "muṣṭim",
+     "problem": "agrees with feminine vārṣikīm here",
+     "fix": "f. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "muṣṭim",
+      "field": "gram",
+      "value": "f. acc. sg.",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "atyuṣṇam",
+     "problem": "adjective of deśam (m.)",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "atyuṣṇam",
+      "field": "gram",
+      "value": "m. acc. sg.",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "घने घास",
+     "problem": "घास is feminine",
+     "fix": "घनी घास",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "घने घास",
+      "new": "घनी घास",
+      "n": "38"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "yāyāt,",
+     "problem": "punctuation (comma) left inside the dictionary form w",
+     "fix": "w without comma",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yāyāt,",
+      "field": "w",
+      "value": "yāyāt",
+      "n": "40"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और ठहरने वाला",
+     "problem": "Sanskrit has no ca before upoṣiṣyan; और is an unmarked addition",
+     "fix": "ठहरने वाला होकर व्यसन में चौथी",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और ठहरने वाला होकर",
+      "new": "ठहरने वाला होकर",
+      "n": "40"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "six month-marches",
+     "problem": "note says units 34-36 give six marches; they give three (Mārgaśīrṣī, Caitrī, Jyeṣṭhāmūlīya)",
+     "fix": "correct the note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "REVIEW: correction: units 34-36 name three marches (Mārgaśīrṣī, Caitrī, Jyeṣṭhāmūlīya), not six; this unit adds Taiṣī, Vaiśākhī, Āṣāḍhī as the bounding months. Low confidence kept for upoṣiṣyan vyasane caturthīm.",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उखाड़ने",
+     "problem": "ud-√chid; English says cut off; उच्छेद करना is the exact verb",
+     "fix": "उच्छेद करने",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उखाड़ने",
+      "new": "उच्छेद करने",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 1 (9.1.1-52): 6 errors, 31 minor. Five drafter text_flags confirmed (24 space, 34 rakṣām, 35 haimanaṃ, 36 tṛṇa, 43 anaikāntika). Main errors: Hindi वार्षिक (annual) for vārṣika, असंस्कृत for unprepared, unmarked और in unit 40, misplaced word ca in unit 15. No regrouping suggested. prabhāva=might accepted. Patches cannot fix unit 15 token/word placement or add a text_flag for the muṣṭi gender doubt (units 34-36)."
+}

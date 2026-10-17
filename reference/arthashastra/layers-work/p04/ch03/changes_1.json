@@ -1,0 +1,312 @@
+[
+ {
+  "n": "4",
+  "field": "english",
+  "old": "The prevention of fire has been explained in the nāgarika-praṇidhi, and in the niśānta-praṇidhi and in the rāja-parigraha.",
+  "new": "The prevention of fire is explained in the nāgarika-praṇidhi, in the niśānta-praṇidhi and in the rāja-parigraha.",
+  "why": "reviewer (minor): single ca closes the list; draft adds a second 'and'; align 'explained' with the 4.1 formula"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "नागरिक-प्रणिधि में अग्नि-प्रतिषेध की व्याख्या हो चुकी है, और निशान्त-प्रणिधि में तथा राज-परिग्रह में।",
+  "new": "नागरिक-प्रणिधि में अग्नि-प्रतिषेध की व्याख्या की गई, निशान्त-प्रणिधि में और राज-परिग्रह में।",
+  "why": "reviewer (minor): one ca only; Hindi had both और and तथा; align with 4.1 formula"
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "vyākhyātaḥ",
+  "old": "has been explained",
+  "new": "is explained",
+  "why": "reviewer (minor): align with 4.1 formula"
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "māyā-yoga-vidaḥ",
+  "old": "knowers of māyā-yoga",
+  "new": "knowers of illusion-contrivance",
+  "why": "reviewer (minor): Book 4 settlement: yoga after mantra/occult = contrivance (as 4.4, 12.4); madana-yoga alone is 'compound'"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Those who know māyā-yoga or those who know the Veda should perform abhicāra upon the rain.",
+  "new": "Those who know illusion-contrivance (māyā-yoga) or those who know the Veda should perform abhicāra upon the rain.",
+  "why": "reviewer (minor): yoga = contrivance in 4.3 (glossary 4.4 decision)"
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "abhi-√car is the technical verb for magical practice; 'for rain' (to bring it) is the sense in context but the Sanskrit has the accusative. māyā-yoga = contrivances/applications of illusion; yoga rendering not fixed (see glossary: contrivance vs compound).",
+  "new": "abhi-√car is the technical verb for magical practice; 'for rain' (to bring it) is the sense in context but the Sanskrit has the accusative. māyā-yoga = contrivances/applications of illusion; yoga rendering not fixed (see glossary: contrivance vs compound). Book 4 decision: yoga in māyā-yoga = contrivance (Hindi योग), as in 4.4 mantra-yoga and 12.4; not 'compound'.",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "When rain is withheld, [he] should have worship performed of the Lord of Shachi, the Ganga, the mountain and the great marsh.",
+  "new": "When rain is withheld, [he] should have worship performed of the Lord of Shachi, the Ganga, the mountain and the Mahakaccha.",
+  "why": "reviewer (minor): obscure term kept untranslated in both languages (glossary 13.4 rule); Hindi already keeps महाकच्छ"
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "śacī-nātha-gaṅgā-parvata-mahā-kaccha-pūjāḥ",
+  "old": "worship of the lord of Shachi, the Ganga, the mountain, the great marsh",
+  "new": "worship of the lord of Shachi, the Ganga, the mountain, the Mahakaccha",
+  "why": "reviewer (minor): align with english"
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "śacī-nātha is an epithet of Indra (lord of Śacī). mahā-kaccha: kaccha = bank, marshy ground; 'great marsh' is uncertain (could be a proper name). 'The mountain' is unspecified.",
+  "new": "śacī-nātha is an epithet of Indra (lord of Śacī). mahā-kaccha: kaccha = bank, marshy ground; 'great marsh' is uncertain (could be a proper name). 'The mountain' is unspecified. Mahakaccha kept as a term in both languages; literal 'great marsh' (kaccha = marshy bank) is only a possibility, it could be a proper name.",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "By that, pestilence has been explained.",
+  "new": "By that, pestilence is explained.",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "उससे महामारी की व्याख्या हो गई।",
+  "new": "इससे महामारी की व्याख्या की गई।",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "vyākhyātaḥ",
+  "old": "has been explained",
+  "new": "is explained",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "[He] should have performed the sprinkling at holy fords, the increase of the great marsh, the cremation-ground milking of cows, the burning of a headless trunk, and the night of the gods.",
+  "new": "[He] should have performed the sprinkling at holy fords, the increase of the Mahakaccha, the cremation-ground milking of cows, the burning of a headless trunk, and the night of the gods.",
+  "why": "reviewer (minor): as unit 12"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "mahā-kaccha-vardhanam",
+  "old": "increase of the great marsh",
+  "new": "increase of the Mahakaccha",
+  "why": "reviewer (minor): as unit 12"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अकाल में राजा बीज और भोजन का उपग्रह करके अनुग्रह करे, अथवा भोजन के अनुग्रह से दुर्ग और सेतु का कर्म करे, अथवा भोजन का बँटवारा करे, अथवा देश में निक्षेप करे।",
+  "new": "अकाल में राजा बीज और भोजन का प्रबन्ध करके अनुग्रह करे, अथवा भोजन के अनुग्रह से दुर्ग और सेतु का कर्म करे, अथवा भोजन का बँटवारा करे, अथवा देश में निक्षेप करे।",
+  "why": "reviewer (minor): Hindi उपग्रह reads as 'satellite'; English already says 'provision'"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अकाल में राजा बीज और भोजन का प्रबन्ध करके अनुग्रह करे, अथवा भोजन के अनुग्रह से दुर्ग और सेतु का कर्म करे, अथवा भोजन का बँटवारा करे, अथवा देश में निक्षेप करे।",
+  "new": "अकाल में राजा बीज और भोजन का प्रबन्ध करके अनुग्रह करे, अथवा भोजन के अनुग्रह से दुर्ग और सेतु का कर्म करे, अथवा भोजन का बँटवारा करे, अथवा प्रदेश में निक्षेप करे।",
+  "why": "reviewer (minor): deśa here is 'region' (gloss, unit 19 uses प्रदेश); Hindi देश reads as 'nation'"
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "अथवा मित्रों का आश्रय ले, या क्षीण करना अथवा वमन करे।",
+  "new": "अथवा मित्रों का आश्रय ले, या क्षीण करने अथवा वमन की क्रिया करे।",
+  "why": "reviewer (minor): ungrammatical Hindi (noun 'करना' with करे); karśana/vamana are nouns object of kuryāt"
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "anya-viṣayam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): viṣaya is masculine (unit 44 has m.)"
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अथवा सेतुओं पर अन्न, शाक, मूल और फल की बुवाई करे, अथवा मृग, पशु, पक्षी, व्याल और मत्स्य के उद्यम करे।",
+  "new": "अथवा सेतुओं पर अन्न, शाक, मूल और फल की बुवाई करे, अथवा मृग, पशु, पक्षी, हिंस्र पशु और मत्स्य के उद्यम करे।",
+  "why": "reviewer (minor): vyāla is rendered हिंस्र पशु in units 1, 28-32; Hindi left the Sanskrit word"
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "upaniṣad-yoga-yuktāni",
+  "old": "joined with upaniṣad-yoga",
+  "new": "joined with upaniṣad-contrivance",
+  "why": "reviewer (minor): Book 4: yoga = contrivance"
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "[He] should put out grains smeared with snuhi milk, or joined with upaniṣad-yoga.",
+  "new": "[He] should put out grains smeared with snuhi milk, or joined with upaniṣad-contrivance.",
+  "why": "reviewer (minor): as unit 11"
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "snuhi is a plant name, not identified. vi-√sṛj literally 'let go, release, scatter'. upaniṣad-yoga: yoga rendering (contrivance vs compound) is a glossary decision pending; 'joined with' is literal for yukta.",
+  "new": "snuhi is a plant name, not identified. vi-√sṛj literally 'let go, release, scatter'. upaniṣad-yoga: yoga rendering (contrivance vs compound) is a glossary decision pending; 'joined with' is literal for yukta. Book 4 decision: yoga in upaniṣad-yoga = contrivance (Hindi योग), as māyā-yoga in unit 11.",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "By that, the remedies for fear of locusts, birds and worms have been explained.",
+  "new": "By that, the remedies for fear of locusts, birds and worms are explained.",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "उससे टिड्डी, पक्षी और कृमि के भय के प्रतिकार बताए गए।",
+  "new": "इससे टिड्डी, पक्षी और कृमि के भय के प्रतिकारों की व्याख्या की गई।",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "vyākhyātāḥ",
+  "old": "have been explained",
+  "new": "are explained",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "madana-rasa-yuktāni",
+  "old": "joined with madana juice",
+  "new": "joined with madana poison",
+  "why": "reviewer (minor): glossary 4.5: madana-rasa = madana poison (मदन-विष); here carcasses against beasts, a poisoning context"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "In fear of beasts of prey, [he] should send out animal carcasses joined with madana juice, or audarya [things] filled with madana and kodrava.",
+  "new": "In fear of beasts of prey, [he] should send out animal carcasses joined with madana poison, or audarya [things] filled with madana and kodrava.",
+  "why": "reviewer (minor): as 4.5"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "हिंस्र पशुओं के भय में मदन के रस से युक्त पशुओं के शव छोड़े, अथवा मदन और कोद्रव से भरे औदर्य।",
+  "new": "हिंस्र पशुओं के भय में मदन के विष से युक्त पशुओं के शव छोड़े, अथवा मदन और कोद्रव से भरे औदर्य।",
+  "why": "reviewer (minor): as 4.5 (मदन-विष)"
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "madana is a plant name and kodrava a grain name, neither identified. rasa could be juice or poison; 'juice' is literal. audarya (of the belly) is obscure; the noun is not supplied by the text, 'things' is bracketed.",
+  "new": "madana is a plant name and kodrava a grain name, neither identified. rasa could be juice or poison; 'juice' is literal. audarya (of the belly) is obscure; the noun is not supplied by the text, 'things' is bracketed. madana-rasa = madana poison, aligned with 4.5; 'juice' is the literal sense of rasa.",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "By that, the remedies for the seizing of herds of game, cattle and birds have been explained.",
+  "new": "By that, the remedies for the seizing of herds of game, cattle and birds are explained.",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "उससे मृग, पशु और पक्षियों के झुंडों के पकड़ने के प्रतिकार बताए गए।",
+  "new": "इससे मृग, पशु और पक्षियों के झुंडों के पकड़ने के प्रतिकारों की व्याख्या की गई।",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "vyākhyātāḥ",
+  "old": "have been explained",
+  "new": "are explained",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "By that, the remedies for fear of creatures of the water have been explained.",
+  "new": "By that, the remedies for fear of creatures of the water are explained.",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "उससे जल के प्राणियों के भय के प्रतिकार बताए गए।",
+  "new": "इससे जल के प्राणियों के भय के प्रतिकारों की व्याख्या की गई।",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "vyākhyātāḥ",
+  "old": "have been explained",
+  "new": "are explained",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "40",
+  "field": "word.w",
+  "word": "rakṣaḥ-bhaye",
+  "old": "rakṣaḥ-bhaye",
+  "new": "rakṣas-bhaye",
+  "why": "reviewer (minor): compound member should be the stem rakṣas-, not visarga form"
+ },
+ {
+  "n": "40",
+  "field": "word.w",
+  "word": "rakṣaḥ-ghnāni",
+  "old": "rakṣaḥ-ghnāni",
+  "new": "rakṣas-ghnāni",
+  "why": "reviewer (minor): compound member should be the stem rakṣas-"
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "māyā-yoga-vidaḥ",
+  "old": "knowers of māyā-yoga",
+  "new": "knowers of illusion-contrivance",
+  "why": "reviewer (minor): Book 4 yoga = contrivance"
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "In fear of demons, those who know the Atharvaveda or those who know māyā-yoga should perform demon-destroying actions.",
+  "new": "In fear of demons, those who know the Atharvaveda or those who know illusion-contrivance (māyā-yoga) should perform demon-destroying actions.",
+  "why": "reviewer (minor): as unit 11"
+ },
+ {
+  "n": "42",
+  "field": "word.gram",
+  "word": "sarva-bhayeṣu",
+  "old": "m. loc. pl.",
+  "new": "n. loc. pl.",
+  "why": "reviewer (minor): bhaya is neuter (units 1, 21, 28 say n.)"
+ },
+ {
+  "n": "44",
+  "field": "word.gloss",
+  "word": "māyā-yoga-vidaḥ",
+  "old": "knowers of māyā-yoga",
+  "new": "knowers of illusion-contrivance",
+  "why": "reviewer (minor): Book 4 yoga = contrivance"
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Therefore, in the territory, those who know māyā-yoga, holy men and ascetics should dwell, honoured by the king, counteracting adversity from the divine.",
+  "new": "Therefore, in the territory, those who know illusion-contrivance (māyā-yoga), holy men and ascetics should dwell, honoured by the king, counteracting adversity from the divine.",
+  "why": "reviewer (minor): as unit 11"
+ }
+]

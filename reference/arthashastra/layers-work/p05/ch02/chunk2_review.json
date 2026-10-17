@@ -1,0 +1,513 @@
+{
+ "units": [
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Reader should know the Book 12 term is not used here.",
+     "fix": "kṛtya in Book 12 (kṛtya-pakṣa) means the seducible; that sense is not adopted here, kṛtya-kara stays literal.",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "append_note",
+      "text": "kṛtya in Book 12 (kṛtya-pakṣa) means the seducible; that sense is not adopted here, kṛtya-kara stays literal."
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should present it.",
+     "problem": "'it' (the treasury) is not in the Sanskrit and is unmarked in English.",
+     "fix": "should present [it].",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "should present it.",
+      "new": "should present [it]."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसी प्रकार उसे प्रस्तुत करे",
+     "problem": "'उसे' is an unmarked addition (Hindi cannot bracket).",
+     "fix": "उसी प्रकार प्रस्तुत करे",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसी प्रकार उसे प्रस्तुत करे",
+      "new": "उसी प्रकार प्रस्तुत करे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "daivata-caityam",
+     "problem": "Glossary (13.2) keeps caitya untranslated with no guessed sense in the gloss; 'shrine' is a guess.",
+     "fix": "caitya of a deity",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "word",
+      "match_w": "daivata-caityam",
+      "field": "gloss",
+      "value": "caitya of a deity"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यात्राओं और समाजों से",
+     "problem": "Glossary 13.5: samāja = gathering (सभा).",
+     "fix": "यात्राओं और सभाओं से",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यात्राओं और समाजों से",
+      "new": "यात्राओं और सभाओं से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Second possible sense of aniyata not recorded.",
+     "fix": "aniyata may also mean 'not fixed in number' (indefinite number of heads); kept literal.",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "append_note",
+      "text": "aniyata may also mean 'not fixed in number' (indefinite number of heads); kept literal."
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दीमक की बाँबी",
+     "problem": "valmīka = anthill; 'दीमक' (termite) is not in the Sanskrit.",
+     "fix": "बाँबी",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दीमक की बाँबी",
+      "new": "बाँबी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Compound structure doubt should state which reading the context favours.",
+     "fix": "The context (units 39-44: a portent is shown, then removed for a fee) favours the dvandva reading 'by the showing of contrivances and their remedy'; the printed rendering is kept literal.",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "append_note",
+      "text": "The context (units 39-44: a portent is shown, then removed for a fee) favours the dvandva reading 'by the showing of contrivances and their remedy'; the printed rendering is kept literal."
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्यवहार करे",
+     "problem": "Hindi व्यवहार alone reads as 'behave'; vyavahareta here is 'carry on trade'.",
+     "fix": "व्यापार करे",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्यवहार करे",
+      "new": "व्यापार करे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "rūpya-suvarṇa-bhāṇḍam",
+     "problem": "Gloss says 'vessels' but English says 'articles'; make them agree.",
+     "fix": "articles of silver and gold",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "word",
+      "match_w": "rūpya-suvarṇa-bhāṇḍam",
+      "field": "gloss",
+      "value": "articles of silver and gold"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समाज में",
+     "problem": "Glossary 13.5: samāja = gathering (सभा).",
+     "fix": "सभा में",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समाज में",
+      "new": "सभा में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सती स्त्रियों",
+     "problem": "'सती' means a widow who burns herself or a faithful wife; sādhvī is 'virtuous'.",
+     "fix": "साध्वी स्त्रियों",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सती स्त्रियों",
+      "new": "साध्वी स्त्रियों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नियुक्त रसद विष दें",
+     "problem": "Hindi रसद means supplies (and is used so for vīvadha in the glossary); a reader would misunderstand it as 'supplies'. Poisoners is the sense.",
+     "fix": "नियुक्त विष देने वाले विष दें",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नियुक्त रसद विष दें",
+      "new": "नियुक्त विष देने वाले विष दें"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Hindi रसद follows the glossary for rasada (poisoner), though in Hindi it ordinarily means supplies.",
+     "problem": "Note updated to match the changed Hindi.",
+     "fix": "Hindi uses विष देने वाले for rasada, not रसद (which means supplies in Hindi and in the glossary for vīvadha); see 5.2 glossary entry.",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi रसद follows the glossary for rasada (poisoner), though in Hindi it ordinarily means supplies.",
+      "new": "Hindi uses विष देने वाले for rasada, not रसद (which means supplies in Hindi and in the glossary for vīvadha); see 5.2 glossary entry."
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "buried earlier, and a limb of a corpse",
+     "problem": "'and' is not in the Sanskrit (asyndeton) and is an unmarked addition.",
+     "fix": "buried earlier, a limb of a corpse",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "english",
+      "old": "buried earlier, and a limb of a corpse",
+      "new": "buried earlier, a limb of a corpse"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गाड़ा हुआ धन तथा शव का अंग",
+     "problem": "'तथा' is an unmarked addition (list without a particle).",
+     "fix": "गाड़ा हुआ धन, शव का अंग",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गाड़ा हुआ धन तथा शव का अंग",
+      "new": "गाड़ा हुआ धन, शव का अंग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "yourself, with this money",
+     "problem": "eva after svayam is dropped in English (Hindi has ही).",
+     "fix": "just yourself, with this money",
+     "severity": "minor",
+     "patch": {
+      "n": "62",
+      "op": "replace",
+      "field": "english",
+      "old": "yourself, with this money",
+      "new": "just yourself, with this money"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a woman in the guise of a mother",
+     "problem": "Glossary: X-vyañjana = agent in the guise of X; the feminine ending gives 'female'.",
+     "fix": "a female agent in the guise of a mother",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "english",
+      "old": "a woman in the guise of a mother",
+      "new": "a female agent in the guise of a mother"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "माता के वेश वाली स्त्री",
+     "problem": "Glossary: X-vyañjana = agent in the guise of X.",
+     "fix": "माता के वेश वाली गुप्तचर स्त्री",
+     "severity": "minor",
+     "patch": {
+      "n": "64",
+      "op": "replace",
+      "field": "hindi",
+      "old": "माता के वेश वाली स्त्री",
+      "new": "माता के वेश वाली गुप्तचर स्त्री"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "whole",
+     "problem": "Hindi drops eva and attaches saṃsiddha to the sacrifice as a modifier, while English sets it apart in brackets; make the two agree.",
+     "fix": "इसके रात्रि-याग, वन-याग या वन-क्रीड़ा के आरम्भ होने पर — सम्यक् सिद्ध ही — तीक्ष्ण अभित्यक्त को काटकर पार ले जाएँ।",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "set",
+      "field": "hindi",
+      "value": "इसके रात्रि-याग, वन-याग या वन-क्रीड़ा के आरम्भ होने पर — सम्यक् सिद्ध ही — तीक्ष्ण अभित्यक्त को काटकर पार ले जाएँ।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should place there implements",
+     "problem": "'there' is an unmarked addition.",
+     "fix": "should place implements",
+     "severity": "minor",
+     "patch": {
+      "n": "67",
+      "op": "replace",
+      "field": "english",
+      "old": "should place there implements",
+      "new": "should place implements"
+     }
+    }
+   ]
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "kāpaṭika is left as a term (an agent of deceit).",
+     "problem": "'an agent of deceit' is a guessed sense; glossary keeps kāpaṭika untranslated.",
+     "fix": "kāpaṭika is left as a term (glossary).",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "replace",
+      "field": "notes",
+      "old": "kāpaṭika is left as a term (an agent of deceit).",
+      "new": "kāpaṭika is left as a term (glossary)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपने उच्छेद के भय से",
+     "problem": "उच्छेद (destruction) is stronger than cheda (cutting off); English keeps 'cutting off'.",
+     "fix": "अपने छेदन के भय से",
+     "severity": "minor",
+     "patch": {
+      "n": "70",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने उच्छेद के भय से",
+      "new": "अपने छेदन के भय से"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "35 units checked; 18 with fixes ({'minor': 22, 'error': 1}). No regrouping suggested. Main points: 53 Hindi रसद -> विष देने वाले (error); caitya/samāja glossary alignment (39, 50); unmarked additions removed (38, 61, 67, 46, 43); 64 text_flag confirmed; 65, 61, 59, 45, 41-43 stay low confidence with literal renderings."
+}

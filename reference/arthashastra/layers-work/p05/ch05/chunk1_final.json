@@ -1,0 +1,2235 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "niyuktaḥ",
+      "words": [
+       {
+        "w": "niyuktaḥ",
+        "gloss": "appointed",
+        "gram": "m. nom. sg. ppp. ni-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "karmasu",
+      "words": [
+       {
+        "w": "karmasu",
+        "gloss": "in actions",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyaya.viśuddham",
+      "words": [
+       {
+        "w": "vyaya-viśuddham",
+        "gloss": "cleared of expenditure",
+        "gram": "m. acc. sg. (adj. of udaya) tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "udayaṃ",
+      "words": [
+       {
+        "w": "udayaṃ",
+        "gloss": "revenue",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "darśayet",
+      "words": [
+       {
+        "w": "darśayet",
+        "gloss": "should show",
+        "gram": "opt. 3 sg. caus. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कर्मों में नियुक्त होकर वह व्यय से शुद्ध की हुई आय को दिखाए।",
+  "english": "Appointed to actions, he should show the revenue cleared of expenditure.",
+  "text_flags": [],
+  "notes": "karma = action per glossary; here the sense is the works/duties of an appointment. vyaya-viśuddha literally 'purified of expenditure' (net of expenses). udaya = revenue/income.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.05.1"
+  ],
+  "lines_deva": [
+   "नियुक्तः कर्मसु व्यय.विशुद्धम् उदयं दर्शयेत्"
+  ],
+  "lines_iast": [
+   "niyuktaḥ karmasu vyaya.viśuddham udayaṃ darśayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ābhyantaraṃ",
+      "words": [
+       {
+        "w": "ābhyantaraṃ",
+        "gloss": "internal",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhyaṃ",
+      "words": [
+       {
+        "w": "bāhyaṃ",
+        "gloss": "external",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "guhyaṃ",
+      "words": [
+       {
+        "w": "guhyaṃ",
+        "gloss": "secret",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakāśyam",
+      "words": [
+       {
+        "w": "prakāśyam",
+        "gloss": "open",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ātyayikam",
+      "words": [
+       {
+        "w": "ātyayikam",
+        "gloss": "urgent",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upekṣitavyaṃ",
+      "words": [
+       {
+        "w": "upekṣitavyaṃ",
+        "gloss": "to be disregarded",
+        "gram": "gerundive n. acc. sg. upa-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāryaṃ",
+      "words": [
+       {
+        "w": "kāryaṃ",
+        "gloss": "matter",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "\"idam",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "evam\"",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "[quotation marker]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣayec",
+      "words": [
+       {
+        "w": "viśeṣayet",
+        "gloss": "should specify",
+        "gram": "opt. 3 sg. caus. vi-√śiṣ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और कार्य को, चाहे वह आभ्यन्तर, बाह्य, गुप्त, प्रकट, आत्ययिक अथवा उपेक्षा के योग्य हो, “यह ऐसा है” ऐसा निर्दिष्ट करे।",
+  "english": "And he should specify the matter, whether internal, external, secret, open, urgent or to be disregarded, [as] “This is so.”",
+  "text_flags": [],
+  "notes": "Quote tokens: idam evam is the quoted specification; the closing iti is not rendered 'thus'. ātyayika 'urgent, pressing' (literally pertaining to a danger/pass-over); kept 'urgent' (medium). Final ca 'and' links to the preceding sentence and is not rendered separately. REVIEW: final ca (viśeṣayec ca) is rendered as 'And' in both languages (it joins this to the preceding instruction of unit 1); iti here introduces the specification, rendered 'ऐसा' in Hindi.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.05.2"
+  ],
+  "lines_deva": [
+   "आभ्यन्तरं बाह्यं गुह्यं प्रकाश्यम् आत्ययिकम् उपेक्षितव्यं वा कार्यं \"इदम् एवम्\" इति विशेषयेच् च"
+  ],
+  "lines_iast": [
+   "ābhyantaraṃ bāhyaṃ guhyaṃ prakāśyam ātyayikam upekṣitavyaṃ vā kāryaṃ \"idam evam\" iti viśeṣayec ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mṛgayā.dyūta.madya.strīṣu",
+      "words": [
+       {
+        "w": "mṛgayā-dyūta-madya-strīṣu",
+        "gloss": "in hunting, gambling, liquor, women",
+        "gram": "f. loc. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "prasaktaṃ",
+      "words": [
+       {
+        "w": "prasaktaṃ",
+        "gloss": "addicted",
+        "gram": "m. acc. sg. ppp. pra-√sañj"
+       }
+      ]
+     },
+     {
+      "src": "na-enam",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anuvarteta",
+      "words": [
+       {
+        "w": "anuvarteta",
+        "gloss": "should follow",
+        "gram": "opt. 3 sg. anu-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "praśaṃsābhiḥ",
+      "words": [
+       {
+        "w": "praśaṃsābhiḥ",
+        "gloss": "with praises",
+        "gram": "f. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मृगया, द्यूत, मद्य और स्त्रियों में आसक्त इसका प्रशंसाओं से अनुसरण न करे।",
+  "english": "He should not follow him, who is addicted to hunting, gambling, liquor and women, with praises.",
+  "text_flags": [],
+  "notes": "enam is not named in the line; from the context of the preceding units it is the one whose signs are being studied (the master), but the line itself does not say so. anuvṛt 'follow, go along with'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.05.3"
+  ],
+  "lines_deva": [
+   "मृगया.द्यूत.मद्य.स्त्रीषु प्रसक्तं न-एनम् अनुवर्तेत प्रशंसाभिः"
+  ],
+  "lines_iast": [
+   "mṛgayā.dyūta.madya.strīṣu prasaktaṃ na-enam anuvarteta praśaṃsābhiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āsannaś",
+      "words": [
+       {
+        "w": "āsannaḥ",
+        "gloss": "near",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyasana.upaghāte",
+      "words": [
+       {
+        "w": "vyasana-upaghāte",
+        "gloss": "in the destruction of vice",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prayateta,",
+      "words": [
+       {
+        "w": "prayateta",
+        "gloss": "should strive",
+        "gram": "opt. 3 sg. pra-√yat"
+       }
+      ]
+     },
+     {
+      "src": "para.upajāpa.atisandhāna.upadhibhyaś",
+      "words": [
+       {
+        "w": "para-upajāpa-atisandhāna-upadhibhyaḥ",
+        "gloss": "from enemy's instigation, outwitting, deceit",
+        "gram": "m. abl. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣet",
+      "words": [
+       {
+        "w": "rakṣet",
+        "gloss": "should guard",
+        "gram": "opt. 3 sg. √rakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और समीप रहकर उसके व्यसन के नाश के लिए प्रयत्न करे, तथा शत्रु के उपजाप, चकमा देने और कपट से रक्षा करे।",
+  "english": "And, being near, he should strive for the destruction of his vice (vyasana), and should guard [him] against the enemy's secret instigation (upajāpa), outwitting and deceit.",
+  "text_flags": [],
+  "notes": "vyasana = vice (the master's own, from the preceding units) per glossary 8.3. para = 'the enemy's' (standard sense); the alternative is simply 'another'. upadhi 'deceit, trickery' (medium); atisandhāna 'outwitting'. The object of rakṣet (him) is not stated; bracketed in English.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.05.4"
+  ],
+  "lines_deva": [
+   "आसन्नश् च-अस्य व्यसन.उपघाते प्रयतेत, पर.उपजाप.अतिसन्धान.उपधिभ्यश् च रक्षेत्"
+  ],
+  "lines_iast": [
+   "āsannaś ca-asya vyasana.upaghāte prayateta, para.upajāpa.atisandhāna.upadhibhyaś ca rakṣet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iṅgita.ākārau",
+      "words": [
+       {
+        "w": "iṅgita-ākārau",
+        "gloss": "hints and outward appearance",
+        "gram": "m. acc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lakṣayet",
+      "words": [
+       {
+        "w": "lakṣayet",
+        "gloss": "should observe",
+        "gram": "opt. 3 sg. √lakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसके संकेतों और आकृति को देखे।",
+  "english": "And he should observe his hints and outward appearance.",
+  "text_flags": [],
+  "notes": "iṅgita 'hint, sign (of intention)'; ākāra 'outward appearance, mien'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "05.05.5"
+  ],
+  "lines_deva": [
+   "इङ्गित.आकारौ च-अस्य लक्षयेत्"
+  ],
+  "lines_iast": [
+   "iṅgita.ākārau ca-asya lakṣayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāma.dveṣa.harṣa.dainya.vyavasāya.bhaya.dvandva.viparyāsam",
+      "words": [
+       {
+        "w": "kāma-dveṣa-harṣa-dainya-vyavasāya-bhaya-dvandva-viparyāsam",
+        "gloss": "reversal of desire … fear, pairs",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iṅgita.ākārābhyāṃ",
+      "words": [
+       {
+        "w": "iṅgita-ākārābhyāṃ",
+        "gloss": "by hints and appearance",
+        "gram": "m. inst. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mantra.saṃvaraṇa.artham",
+      "words": [
+       {
+        "w": "mantra-saṃvaraṇa-artham",
+        "gloss": "for concealing counsel",
+        "gram": "ind. (acc.) tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ācarati",
+      "words": [
+       {
+        "w": "ācarati",
+        "gloss": "practises",
+        "gram": "3 sg. pres. ā-√car"
+       }
+      ]
+     },
+     {
+      "src": "prājñaḥ",
+      "words": [
+       {
+        "w": "prājñaḥ",
+        "gloss": "wise man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि प्रज्ञावान् मन्त्र को छिपाने के लिए संकेत और आकृति के द्वारा काम, द्वेष, हर्ष, दैन्य, निश्चय, भय और द्वन्द्वों के उलटफेर का आचरण करता है।",
+  "english": "For the wise man, for the sake of concealing counsel, practises by hints and outward appearance the reversal of desire, hatred, joy, dejection, resolve, fear and the pairs.",
+  "text_flags": [],
+  "notes": "Compound kāma-dveṣa-harṣa-dainya-vyavasāya-bhaya-dvandva-viparyāsa: members kāma desire, dveṣa hatred, harṣa joy, dainya dejection, vyavasāya resolve, bhaya fear, dvandva pairs, viparyāsa reversal. The last two members are doubtful: it may be 'the reversal of the pairs [desire/hatred, joy/dejection, resolve/fear]' (the list being the pairs) or 'reversal of the six and of the pairs'; literal rendering kept. vyavasāya could also be 'effort'. Sentence is hi-clause explaining the preceding instruction; the Hindi begins क्योंकि. mantra-saṃvaraṇa-artham 'for the purpose of concealing counsel' (artham as postposition).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.05.6"
+  ],
+  "lines_deva": [
+   "काम.द्वेष.हर्ष.दैन्य.व्यवसाय.भय.द्वन्द्व.विपर्यासम् इङ्गित.आकाराभ्यां हि मन्त्र.संवरण.अर्थम् आचरति प्राज्ञः"
+  ],
+  "lines_iast": [
+   "kāma.dveṣa.harṣa.dainya.vyavasāya.bhaya.dvandva.viparyāsam iṅgita.ākārābhyāṃ hi mantra.saṃvaraṇa.artham ācarati prājñaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "darśane",
+      "words": [
+       {
+        "w": "darśane",
+        "gloss": "on being seen",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasīdati,",
+      "words": [
+       {
+        "w": "prasīdati",
+        "gloss": "is pleased",
+        "gram": "3 sg. pres. pra-√sad"
+       }
+      ]
+     },
+     {
+      "src": "vākyaṃ",
+      "words": [
+       {
+        "w": "vākyaṃ",
+        "gloss": "speech",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratigṛhṇāti,",
+      "words": [
+       {
+        "w": "pratigṛhṇāti",
+        "gloss": "accepts",
+        "gram": "3 sg. pres. prati-√grah"
+       }
+      ]
+     },
+     {
+      "src": "āsanaṃ",
+      "words": [
+       {
+        "w": "āsanaṃ",
+        "gloss": "seat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadāti,",
+      "words": [
+       {
+        "w": "dadāti",
+        "gloss": "gives",
+        "gram": "3 sg. pres. √dā"
+       }
+      ]
+     },
+     {
+      "src": "vivikto",
+      "words": [
+       {
+        "w": "viviktaḥ",
+        "gloss": "in seclusion",
+        "gram": "m. nom. sg. ppp. vi-√vic"
+       }
+      ]
+     },
+     {
+      "src": "darśayate,",
+      "words": [
+       {
+        "w": "darśayate",
+        "gloss": "shows [himself]",
+        "gram": "3 sg. pres. mid. caus. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "śaṅkā.sthāne",
+      "words": [
+       {
+        "w": "śaṅkā-sthāne",
+        "gloss": "in a place of suspicion",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "na-atiśaṅkate,",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "atiśaṅkate",
+        "gloss": "is over-suspicious",
+        "gram": "3 sg. pres. mid. ati-√śaṅk"
+       }
+      ]
+     },
+     {
+      "src": "kathāyāṃ",
+      "words": [
+       {
+        "w": "kathāyāṃ",
+        "gloss": "in conversation",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ramate,",
+      "words": [
+       {
+        "w": "ramate",
+        "gloss": "delights",
+        "gram": "3 sg. pres. mid. √ram"
+       }
+      ]
+     },
+     {
+      "src": "parijñāpyeṣv",
+      "words": [
+       {
+        "w": "parijñāpyeṣu",
+        "gloss": "in things to be made known",
+        "gram": "gerundive n. loc. pl. pari-√jñā caus."
+       }
+      ]
+     },
+     {
+      "src": "avekṣate,",
+      "words": [
+       {
+        "w": "avekṣate",
+        "gloss": "looks (to them)",
+        "gram": "3 sg. pres. mid. ava-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "pathyam",
+      "words": [
+       {
+        "w": "pathyam",
+        "gloss": "wholesome",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "uktaṃ",
+      "words": [
+       {
+        "w": "uktaṃ",
+        "gloss": "what is said",
+        "gram": "n. acc. sg. ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "sahate,",
+      "words": [
+       {
+        "w": "sahate",
+        "gloss": "bears",
+        "gram": "3 sg. pres. mid. √sah"
+       }
+      ]
+     },
+     {
+      "src": "smayamāno",
+      "words": [
+       {
+        "w": "smayamānaḥ",
+        "gloss": "smiling",
+        "gram": "m. nom. sg. pres. part. √smi"
+       }
+      ]
+     },
+     {
+      "src": "niyuṅkte,",
+      "words": [
+       {
+        "w": "niyuṅkte",
+        "gloss": "appoints",
+        "gram": "3 sg. pres. mid. ni-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "hastena",
+      "words": [
+       {
+        "w": "hastena",
+        "gloss": "with the hand",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "spṛśati,",
+      "words": [
+       {
+        "w": "spṛśati",
+        "gloss": "touches",
+        "gram": "3 sg. pres. √spṛś"
+       }
+      ]
+     },
+     {
+      "src": "ślāghye",
+      "words": [
+       {
+        "w": "ślāghye",
+        "gloss": "at what is praiseworthy",
+        "gram": "n. loc. sg. gerundive √ślāgh"
+       }
+      ]
+     },
+     {
+      "src": "na-upahasati,",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "upahasati",
+        "gloss": "mocks",
+        "gram": "3 sg. pres. upa-√has"
+       }
+      ]
+     },
+     {
+      "src": "parokṣaṃ",
+      "words": [
+       {
+        "w": "parokṣaṃ",
+        "gloss": "in absence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guṇaṃ",
+      "words": [
+       {
+        "w": "guṇaṃ",
+        "gloss": "merit",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bravīti,",
+      "words": [
+       {
+        "w": "bravīti",
+        "gloss": "speaks",
+        "gram": "3 sg. pres. √brū"
+       }
+      ]
+     },
+     {
+      "src": "bhakṣyeṣu",
+      "words": [
+       {
+        "w": "bhakṣyeṣu",
+        "gloss": "in eatables",
+        "gram": "n. loc. pl. gerundive √bhakṣ"
+       }
+      ]
+     },
+     {
+      "src": "smarati,",
+      "words": [
+       {
+        "w": "smarati",
+        "gloss": "remembers",
+        "gram": "3 sg. pres. √smṛ"
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vihāraṃ",
+      "words": [
+       {
+        "w": "vihāraṃ",
+        "gloss": "amusement",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāti,",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "vyasane",
+      "words": [
+       {
+        "w": "vyasane",
+        "gloss": "in calamity",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'bhyupapadyate,",
+      "words": [
+       {
+        "w": "abhyupapadyate",
+        "gloss": "comes to aid",
+        "gram": "3 sg. pres. mid. abhi-upa-√pad"
+       }
+      ]
+     },
+     {
+      "src": "tad.bhaktīn",
+      "words": [
+       {
+        "w": "tad-bhaktīn",
+        "gloss": "those devoted to him",
+        "gram": "m. acc. pl. (printed bhaktīn; possible typo for tad-bhaktān)"
+       }
+      ]
+     },
+     {
+      "src": "pūjayati,",
+      "words": [
+       {
+        "w": "pūjayati",
+        "gloss": "honours",
+        "gram": "3 sg. pres. caus. √pūj"
+       }
+      ]
+     },
+     {
+      "src": "guhyam",
+      "words": [
+       {
+        "w": "guhyam",
+        "gloss": "secret",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ācaṣṭe,",
+      "words": [
+       {
+        "w": "ācaṣṭe",
+        "gloss": "tells",
+        "gram": "3 sg. pres. mid. ā-√cakṣ"
+       }
+      ]
+     },
+     {
+      "src": "mānaṃ",
+      "words": [
+       {
+        "w": "mānaṃ",
+        "gloss": "honour",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vardhayati,",
+      "words": [
+       {
+        "w": "vardhayati",
+        "gloss": "increases",
+        "gram": "3 sg. pres. caus. √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "arthaṃ",
+      "words": [
+       {
+        "w": "arthaṃ",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karoti,",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "does, provides",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "anarthaṃ",
+      "words": [
+       {
+        "w": "anarthaṃ",
+        "gloss": "harm",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratihanti",
+      "words": [
+       {
+        "w": "pratihanti",
+        "gloss": "wards off",
+        "gram": "3 sg. pres. prati-√han"
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "[dash]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "[closing marker]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tuṣṭa.jñānam",
+      "words": [
+       {
+        "w": "tuṣṭa-jñānam",
+        "gloss": "knowledge of the satisfied",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दर्शन होने पर प्रसन्न होता है, बात स्वीकार करता है, आसन देता है, एकान्त में दर्शन देता है, शंका के स्थान पर अधिक शंका नहीं करता, वार्ता में रमता है, बताने योग्य बातों में ध्यान देता है, कही हुई हितकर बात सह लेता है, मुस्कराते हुए नियुक्त करता है, हाथ से छूता है, प्रशंसनीय पर हँसी नहीं उड़ाता, परोक्ष में गुण कहता है, भोज्य पदार्थों में स्मरण करता है, साथ विहार को जाता है, व्यसन में सहायता करता है, उसके भक्तों का सत्कार करता है, गुप्त बात कहता है, मान बढ़ाता है, धन बनाता है, अनर्थ को दूर करता है — यह सन्तुष्ट का ज्ञान है।",
+  "english": "On being seen he is pleased; he accepts [his] speech; he gives a seat; in seclusion he shows [himself]; in a place of suspicion he is not over-suspicious; he delights in conversation; in matters to be made known he looks [to them]; he bears what is said that is wholesome; smiling he appoints [him]; he touches [him] with the hand; he does not mock at what is praiseworthy; he speaks of [his] merit in [his] absence; he remembers [him] in eatables; he goes together [with him] to amusement; in calamity he comes to [his] aid; he honours those devoted to him; he tells [him] a secret; he increases [his] honour; he makes wealth; he wards off harm — such is the knowledge of the satisfied.",
+  "text_flags": [
+   {
+    "src": "tad.bhaktīn",
+    "suggest": "tad.bhaktān",
+    "why": "accusative plural of bhakta is bhaktān; bhaktīn looks like a typing slip (possible)"
+   }
+  ],
+  "notes": "Subject (the master) and objects (him) are not stated; the English brackets mark them. Doubtful: darśayate (causative middle: 'shows [himself]', i.e. gives audience); parijñāpyeṣu avekṣate ('looks to/attends in matters to be reported'; parijñāpya could also be persons to be informed); niyuṅkte (appoints; alternative: orders, assigns a task); bhakṣyeṣu smarati (remembers him at meals/eatables; literal); vyasane abhyupapadyate (comes to aid, or approaches); arthaṃ karoti / anarthaṃ pratihanti (artha 'wealth' per glossary, alternative 'benefit' / 'loss'). The final 'iti tuṣṭa-jñānam' closes the list; iti not rendered 'thus'; the copula is supplied in brackets (English) and bare (Hindi). tuṣṭa-jñāna may also mean 'the way of knowing a satisfied (master)'. Hindi धन करता है / English 'does wealth' is the literal arthaṃ karoti; the sense 'provides wealth' is the likely one. Note: Hindi 'यह सन्तुष्ट का ज्ञान है' supplies the bare copula. REVIEW: tad-bhaktīn as printed is anomalous (bhakti f. acc. pl. bhaktīḥ; expected tad-bhaktān 'those devoted to him'); kept as printed in src, possible typo, a person should add a text_flag. English 'he makes wealth' is the literal arthaṃ karoti (likely sense 'brings benefit'); 'such is' follows glossary 15.1 for iti + nominative.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.05.7"
+  ],
+  "lines_deva": [
+   "दर्शने प्रसीदति, वाक्यं प्रतिगृह्णाति, आसनं ददाति, विविक्तो दर्शयते, शङ्का.स्थाने न-अतिशङ्कते, कथायां रमते, परिज्ञाप्येष्व् अवेक्षते, पथ्यम् उक्तं सहते, स्मयमानो नियुङ्क्ते, हस्तेन स्पृशति, श्लाघ्ये न-उपहसति, परोक्षं गुणं ब्रवीति, भक्ष्येषु स्मरति, सह विहारं याति, व्यसने ऽभ्युपपद्यते, तद्.भक्तीन् पूजयति, गुह्यम् आचष्टे, मानं वर्धयति, अर्थं करोति, अनर्थं प्रतिहन्ति - इति तुष्ट.ज्ञानम्"
+  ],
+  "lines_iast": [
+   "darśane prasīdati, vākyaṃ pratigṛhṇāti, āsanaṃ dadāti, vivikto darśayate, śaṅkā.sthāne na-atiśaṅkate, kathāyāṃ ramate, parijñāpyeṣv avekṣate, pathyam uktaṃ sahate, smayamāno niyuṅkte, hastena spṛśati, ślāghye na-upahasati, parokṣaṃ guṇaṃ bravīti, bhakṣyeṣu smarati, saha vihāraṃ yāti, vyasane 'bhyupapadyate, tad.bhaktīn pūjayati, guhyam ācaṣṭe, mānaṃ vardhayati, arthaṃ karoti, anarthaṃ pratihanti - iti tuṣṭa.jñānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etad",
+      "words": [
+       {
+        "w": "etad",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viparītam",
+      "words": [
+       {
+        "w": "viparītam",
+        "gloss": "reversed",
+        "gram": "n. nom. sg. ppp. vi-pari-√i"
+       }
+      ]
+     },
+     {
+      "src": "atuṣṭasya,",
+      "words": [
+       {
+        "w": "atuṣṭasya",
+        "gloss": "of the dissatisfied",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūyaś",
+      "words": [
+       {
+        "w": "bhūyaḥ",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakṣyāmaḥ",
+      "words": [
+       {
+        "w": "vakṣyāmaḥ",
+        "gloss": "we shall say",
+        "gram": "1 pl. fut. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यही उलटा असन्तुष्ट का है, और हम आगे और कहेंगे।",
+  "english": "This very thing, reversed, [is that] of the dissatisfied, and we shall say more.",
+  "text_flags": [],
+  "notes": "The predicate is omitted in the Sanskrit; the sense is 'the opposite of this is the knowledge of the dissatisfied' (cf. unit 7). bhūyaḥ 'further, more' (also 'again').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.05.8"
+  ],
+  "lines_deva": [
+   "एतद् एव विपरीतम् अतुष्टस्य, भूयश् च वक्ष्यामः"
+  ],
+  "lines_iast": [
+   "etad eva viparītam atuṣṭasya, bhūyaś ca vakṣyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sandarśane",
+      "words": [
+       {
+        "w": "sandarśane",
+        "gloss": "on meeting",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kopaḥ,",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "anger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vākyasya-aśravaṇa.pratiṣedhau,",
+      "words": [
+       {
+        "w": "vākyasya",
+        "gloss": "of speech",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "aśravaṇa-pratiṣedhau",
+        "gloss": "non-hearing and rejection",
+        "gram": "m. nom. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "āsana.cakṣuṣor",
+      "words": [
+       {
+        "w": "āsana-cakṣuṣoḥ",
+        "gloss": "of seat and eye",
+        "gram": "gen. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "adānam,",
+      "words": [
+       {
+        "w": "adānam",
+        "gloss": "non-giving",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇa.svara.bhedaḥ,",
+      "words": [
+       {
+        "w": "varṇa-svara-bhedaḥ",
+        "gloss": "change of colour and voice",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "eka.akṣi.bhrukuṭy.oṣṭha.nirbhogaḥ,",
+      "words": [
+       {
+        "w": "eka-akṣi-bhrukuṭi-oṣṭha-nirbhogaḥ",
+        "gloss": "twisting of one eye, brow, lip",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sveda.śvāsa.smitānām",
+      "words": [
+       {
+        "w": "sveda-śvāsa-smitānām",
+        "gloss": "of sweat, breath, smile",
+        "gram": "n. gen. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "asthāna.utpattiḥ,",
+      "words": [
+       {
+        "w": "asthāna-utpattiḥ",
+        "gloss": "arising out of place",
+        "gram": "f. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "para.mantraṇam,",
+      "words": [
+       {
+        "w": "para-mantraṇam",
+        "gloss": "consultation with another",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "akasmād.vrajanam,",
+      "words": [
+       {
+        "w": "akasmāt-vrajanam",
+        "gloss": "going off suddenly",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vardhanam",
+      "words": [
+       {
+        "w": "vardhanam",
+        "gloss": "advancement",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyasya,",
+      "words": [
+       {
+        "w": "anyasya",
+        "gloss": "of another",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.gātra.vilekhanam,",
+      "words": [
+       {
+        "w": "bhūmi-gātra-vilekhanam",
+        "gloss": "scratching ground and body",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anyasya-upatodanam,",
+      "words": [
+       {
+        "w": "anyasya",
+        "gloss": "of another",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upatodanam",
+        "gloss": "prodding",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyā.varṇa.deśa.kutsā,",
+      "words": [
+       {
+        "w": "vidyā-varṇa-deśa-kutsā",
+        "gloss": "disparaging learning, varṇa, region",
+        "gram": "f. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sama.doṣa.nindā,",
+      "words": [
+       {
+        "w": "sama-doṣa-nindā",
+        "gloss": "censure of equal fault",
+        "gram": "f. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pratidoṣa.nindā,",
+      "words": [
+       {
+        "w": "pratidoṣa-nindā",
+        "gloss": "censure of counter-fault",
+        "gram": "f. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pratiloma.stavaḥ,",
+      "words": [
+       {
+        "w": "pratiloma-stavaḥ",
+        "gloss": "praise of the adverse",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sukṛta.anavekṣaṇam,",
+      "words": [
+       {
+        "w": "sukṛta-anavekṣaṇam",
+        "gloss": "disregard of good deeds",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "duṣkṛta.anukīrtanam,",
+      "words": [
+       {
+        "w": "duṣkṛta-anukīrtanam",
+        "gloss": "recounting bad deeds",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣṭha.avadhānam,",
+      "words": [
+       {
+        "w": "pṛṣṭha-avadhānam",
+        "gloss": "attention to the back",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "atityāgaḥ,",
+      "words": [
+       {
+        "w": "atityāgaḥ",
+        "gloss": "excessive giving up",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mithyā.abhibhāṣaṇam,",
+      "words": [
+       {
+        "w": "mithyā-abhibhāṣaṇam",
+        "gloss": "addressing falsely",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rāja.darśināṃ",
+      "words": [
+       {
+        "w": "rāja-darśināṃ",
+        "gloss": "of those who see the king",
+        "gram": "m. gen. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tad.vṛtta.anyatvam",
+      "words": [
+       {
+        "w": "tad-vṛtta-anyatvam",
+        "gloss": "difference in that conduct",
+        "gram": "n. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भेंट होने पर क्रोध, बात का न सुनना और उसे अस्वीकार करना, आसन और दृष्टि का न देना, रंग और स्वर में परिवर्तन, एक आँख, भौंह और होंठ का मरोड़ना, पसीने, श्वास और मुस्कान का अनुचित स्थान पर उत्पन्न होना, दूसरे से परामर्श, अचानक चल देना, दूसरे की उन्नति, भूमि और शरीर को कुरेदना, दूसरे को कोंचना, विद्या, वर्ण और देश की निन्दा, समान दोष की निन्दा, प्रतिदोष की निन्दा, विपरीत की प्रशंसा, सुकृत पर ध्यान न देना, दुष्कृत का कीर्तन, पीठ की ओर ध्यान, अति त्याग, झूठा सम्भाषण, और राजा से मिलने वालों के उस आचरण में परिवर्तन।",
+  "english": "On meeting, anger; non-hearing and rejection of speech; not giving a seat or an eye; change of colour and voice; twisting of one eye, brow and lip; the arising out of place of sweat, breath and smiles; consultation with another; going off suddenly; advancement of another; scratching the ground and the body; prodding of another; disparagement of learning, varṇa and region; censure of an equal fault; censure of a counter-fault; praise of the adverse; disregard of good deeds; recounting of bad deeds; attention to the back; excessive giving up; false addressing; and, of those who see the king, a difference in that conduct.",
+  "text_flags": [],
+  "notes": "A list of signs of the dissatisfied (unit 8). Doubtful: eka in eka-akṣi-bhrukuṭi-oṣṭha-nirbhoga ('one' may qualify only the eye, or all three); nirbhoga rendered 'twisting' (bending, contortion); varṇa-svara-bheda: varṇa 'colour' (complexion), whereas in vidyā-varṇa-deśa-kutsā varṇa is 'class' (varṇa, kept); para-mantraṇa 'consulting another' (para could be 'an enemy'); akasmāt 'suddenly' (or 'without cause'); anyasya vardhanam 'advancement of another' (or 'favouring another'); upatodana 'prodding'; sama-doṣa-nindā 'censure of an equal fault' (a like fault of the censurer); pratidoṣa-nindā 'counter-fault censure' (censure in return); pratiloma-stava 'praise of the adverse' (alternatives: praise of an opponent; praise in the reverse); pṛṣṭha-avadhāna 'attention to the back' (sense unclear); atityāga 'excessive giving up' (abandonment or generosity); tad-vṛtta-anyatvam: 'that conduct' of those who see the king, towards the man concerned; literal rendering kept. 'adānam' governs 'seat and eye' (not giving a seat or a glance).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.05.9"
+  ],
+  "lines_deva": [
+   "सन्दर्शने कोपः, वाक्यस्य-अश्रवण.प्रतिषेधौ, आसन.चक्षुषोर् अदानम्, वर्ण.स्वर.भेदः, एक.अक्षि.भ्रुकुट्य्.ओष्ठ.निर्भोगः, स्वेद.श्वास.स्मितानाम् अस्थान.उत्पत्तिः, पर.मन्त्रणम्, अकस्माद्.व्रजनम्, वर्धनम् अन्यस्य, भूमि.गात्र.विलेखनम्, अन्यस्य-उपतोदनम्, विद्या.वर्ण.देश.कुत्सा, सम.दोष.निन्दा, प्रतिदोष.निन्दा, प्रतिलोम.स्तवः, सुकृत.अनवेक्षणम्, दुष्कृत.अनुकीर्तनम्, पृष्ठ.अवधानम्, अतित्यागः, मिथ्या.अभिभाषणम्, राज.दर्शिनां च तद्.वृत्त.अन्यत्वम्"
+  ],
+  "lines_iast": [
+   "sandarśane kopaḥ, vākyasya-aśravaṇa.pratiṣedhau, āsana.cakṣuṣor adānam, varṇa.svara.bhedaḥ, eka.akṣi.bhrukuṭy.oṣṭha.nirbhogaḥ, sveda.śvāsa.smitānām asthāna.utpattiḥ, para.mantraṇam, akasmād.vrajanam, vardhanam anyasya, bhūmi.gātra.vilekhanam, anyasya-upatodanam, vidyā.varṇa.deśa.kutsā, sama.doṣa.nindā, pratidoṣa.nindā, pratiloma.stavaḥ, sukṛta.anavekṣaṇam, duṣkṛta.anukīrtanam, pṛṣṭha.avadhānam, atityāgaḥ, mithyā.abhibhāṣaṇam, rāja.darśināṃ ca tad.vṛtta.anyatvam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vṛtti.vikāraṃ",
+      "words": [
+       {
+        "w": "vṛtti-vikāraṃ",
+        "gloss": "change of behaviour",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca-avekṣeta-apy",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avekṣeta",
+        "gloss": "should observe",
+        "gram": "opt. 3 sg. ava-√īkṣ"
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "amānuṣāṇām",
+      "words": [
+       {
+        "w": "amānuṣāṇām",
+        "gloss": "of non-humans",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और अमनुष्यों के भी वृत्ति के विकार को देखे।",
+  "english": "And he should observe even the change of behaviour of non-humans.",
+  "text_flags": [],
+  "notes": "amānuṣa 'non-human' (beings other than men, e.g. animals; the line does not say). The next unit gives examples of omens.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.05.10"
+  ],
+  "lines_deva": [
+   "वृत्ति.विकारं च-अवेक्षेत-अप्य् अमानुषाणाम्"
+  ],
+  "lines_iast": [
+   "vṛtti.vikāraṃ ca-avekṣeta-apy amānuṣāṇām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"ayam",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uccaiḥ",
+      "words": [
+       {
+        "w": "uccaiḥ",
+        "gloss": "on high",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siñcati\"",
+      "words": [
+       {
+        "w": "siñcati",
+        "gloss": "sprinkles",
+        "gram": "3 sg. pres. √sic"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "[quotation marker]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kātyāyanaḥ",
+      "words": [
+       {
+        "w": "kātyāyanaḥ",
+        "gloss": "name (Katyayana)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravavrāja,",
+      "words": [
+       {
+        "w": "pravavrāja",
+        "gloss": "went forth",
+        "gram": "3 sg. pf. pra-√vraj"
+       }
+      ]
+     },
+     {
+      "src": "\"krauñco",
+      "words": [
+       {
+        "w": "krauñcaḥ",
+        "gloss": "krauñca bird",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'pasavyam\"",
+      "words": [
+       {
+        "w": "apasavyam",
+        "gloss": "anticlockwise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "[quotation marker]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṇiṅko",
+      "words": [
+       {
+        "w": "kaṇiṅkaḥ",
+        "gloss": "name (Kaninka)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāradvājaḥ,",
+      "words": [
+       {
+        "w": "bhāradvājaḥ",
+        "gloss": "name (Bharadvaja)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "\"tṛṇam\"",
+      "words": [
+       {
+        "w": "tṛṇam",
+        "gloss": "grass",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "[quotation marker]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dīrghaś",
+      "words": [
+       {
+        "w": "dīrghaḥ",
+        "gloss": "name (Dirgha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cārāyaṇaḥ,",
+      "words": [
+       {
+        "w": "cārāyaṇaḥ",
+        "gloss": "name (Charayana)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "\"śītā",
+      "words": [
+       {
+        "w": "śītā",
+        "gloss": "cold",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāṭī\"",
+      "words": [
+       {
+        "w": "śāṭī",
+        "gloss": "cloth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "[quotation marker]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ghoṭa.mukhaḥ,",
+      "words": [
+       {
+        "w": "ghoṭa-mukhaḥ",
+        "gloss": "name (Ghotamukha)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "\"hastī",
+      "words": [
+       {
+        "w": "hastī",
+        "gloss": "elephant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyaukṣīt\"",
+      "words": [
+       {
+        "w": "pratyaukṣīt",
+        "gloss": "sprinkled back",
+        "gram": "3 sg. aor. prati-√ukṣ"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "[quotation marker]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kiñjalkaḥ,",
+      "words": [
+       {
+        "w": "kiñjalkaḥ",
+        "gloss": "name (Kinjalka)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "\"ratha.aśvaṃ",
+      "words": [
+       {
+        "w": "ratha-aśvaṃ",
+        "gloss": "chariot-horse",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prāśaṃsīt\"",
+      "words": [
+       {
+        "w": "prāśaṃsīt",
+        "gloss": "he praised",
+        "gram": "3 sg. aor. pra-√śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "[quotation marker]",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "piśunaḥ,",
+      "words": [
+       {
+        "w": "piśunaḥ",
+        "gloss": "name (Pishuna)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prati.ravaṇe",
+      "words": [
+       {
+        "w": "prati-ravaṇe",
+        "gloss": "at the answering cry",
+        "gram": "n. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śunaḥ",
+      "words": [
+       {
+        "w": "śunaḥ",
+        "gloss": "of a dog",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "piśuna.putraḥ",
+      "words": [
+       {
+        "w": "piśuna-putraḥ",
+        "gloss": "son of Pishuna",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“यह ऊँचा सींचता है,” ऐसा कहकर कात्यायन निकल गए; “क्रौंच अपसव्य,” ऐसा कणिङ्क भारद्वाज कहते हैं; “तृण,” ऐसा दीर्घ चारायण कहते हैं; “शीत वस्त्र,” ऐसा घोटमुख कहते हैं; “हाथी ने पलट कर सींचा,” ऐसा किञ्जल्क कहते हैं; “रथ के घोड़े की प्रशंसा की,” ऐसा पिशुन कहते हैं; कुत्ते की प्रतिध्वनि पर पिशुन का पुत्र।",
+  "english": "“This one sprinkles on high,” [said] Katyayana, and went forth; “The krauñca [bird] — anticlockwise,” says Kaninka Bharadvaja; “Grass,” says Dirgha Charayana; “A cold cloth,” says Ghotamukha; “The elephant sprinkled back,” says Kinjalka; “He praised the chariot-horse,” says Pishuna; at the answering cry of a dog, the son of Pishuna.",
+  "text_flags": [],
+  "notes": "Anecdotes of teachers' omen-readings, with no context in the line; sense uncertain throughout. Doubtful: uccaiḥ 'on high' (or 'loudly'); siñcati 'sprinkles' (pours, waters); pravavrāja 'went forth' (also 'wandered forth as an ascetic'; Hindi निकल गए); krauñca is a bird (curlew/heron) kept untranslated; the missing predicate is left open with a dash (glossary 14.1); śītā śāṭī 'cold cloth' (śāṭī a cloth or garment); pratyaukṣīt from prati-√ukṣ 'sprinkle back'; prāśaṃsīt 'praised', subject 'he' from the verb; prati-ravaṇe 'at the echo/answering sound' of a dog (śunaḥ gen. sg.), with no verb, so the unit ends without a predicate. Names: kaṇiṅka bhāradvāja, dīrgha cārāyaṇa, ghoṭa-mukha (ghoṭa-mukha may mean 'horse-faced'), kiñjalka, piśuna as in the glossary. The 'iti X' formula follows glossary 12.1/12.3. REVIEW: prati-ravaṇe: English 'answering cry' and Hindi प्रतिध्वनि are both literal renderings of an unclear phrase; the unit ends without a predicate. The teachers' sayings and pravavrāja are an obscure anecdote; no context to settle it.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.05.11"
+  ],
+  "lines_deva": [
+   "\"अयम् उच्चैः सिञ्चति\" इति कात्यायनः प्रवव्राज, \"क्रौञ्चो ऽपसव्यम्\" इति कणिङ्को भारद्वाजः, \"तृणम्\" इति दीर्घश् चारायणः, \"शीता शाटी\" इति घोट.मुखः, \"हस्ती प्रत्यौक्षीत्\" इति किञ्जल्कः, \"रथ.अश्वं प्राशंसीत्\" इति पिशुनः, प्रति.रवणे शुनः पिशुन.पुत्रः"
+  ],
+  "lines_iast": [
+   "\"ayam uccaiḥ siñcati\" iti kātyāyanaḥ pravavrāja, \"krauñco 'pasavyam\" iti kaṇiṅko bhāradvājaḥ, \"tṛṇam\" iti dīrghaś cārāyaṇaḥ, \"śītā śāṭī\" iti ghoṭa.mukhaḥ, \"hastī pratyaukṣīt\" iti kiñjalkaḥ, \"ratha.aśvaṃ prāśaṃsīt\" iti piśunaḥ, prati.ravaṇe śunaḥ piśuna.putraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "artha.māna.avakṣepe",
+      "words": [
+       {
+        "w": "artha-māna-avakṣepe",
+        "gloss": "in the slighting of wealth and honour",
+        "gram": "m. loc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parityāgaḥ",
+      "words": [
+       {
+        "w": "parityāgaḥ",
+        "gloss": "abandonment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और धन और मान की अवहेलना होने पर परित्याग।",
+  "english": "And abandonment in the case of slighting of wealth and honour.",
+  "text_flags": [],
+  "notes": "avakṣepa 'throwing down, slighting, disparagement'. It is not stated whose wealth/honour or who abandons whom; the sense is likely that the man leaves when his wealth and honour are slighted, but the line does not say so. artha = wealth.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.05.12"
+  ],
+  "lines_deva": [
+   "अर्थ.मान.अवक्षेपे च परित्यागः"
+  ],
+  "lines_iast": [
+   "artha.māna.avakṣepe ca parityāgaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svāmi.śīlam",
+      "words": [
+       {
+        "w": "svāmi-śīlam",
+        "gloss": "master's character",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ātmanaś",
+      "words": [
+       {
+        "w": "ātmanaḥ",
+        "gloss": "of himself",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kilbiṣam",
+      "words": [
+       {
+        "w": "kilbiṣam",
+        "gloss": "fault",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upalabhya",
+      "words": [
+       {
+        "w": "upalabhya",
+        "gloss": "having perceived",
+        "gram": "abs. upa-√labh"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratikurvīta",
+      "words": [
+       {
+        "w": "pratikurvīta",
+        "gloss": "should counteract",
+        "gram": "opt. 3 sg. mid. prati-√kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा स्वामी के शील और अपने अपराध को जानकर प्रतिकार करे।",
+  "english": "Or, having perceived the master's character and his own fault, he should counteract.",
+  "text_flags": [],
+  "notes": "vā is placed after the absolutive; read as 'or' (alternative to the abandonment of unit 12), medium. svāmin is 'master' here (courtier's relation); the glossary entry svāmin = king applies to the prakṛti list. pratikurvīta 'should counteract/take counter-action' (object not stated). kilbiṣa 'fault, offence'. śīla 'character, disposition'. REVIEW: 'master' for svāmin/bhartṛ accepted here (courtier's relation, units 13 and 15); Hindi स्वामी unchanged.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.05.13"
+  ],
+  "lines_deva": [
+   "स्वामि.शीलम् आत्मनश् च किल्बिषम् उपलभ्य वा प्रतिकुर्वीत"
+  ],
+  "lines_iast": [
+   "svāmi.śīlam ātmanaś ca kilbiṣam upalabhya vā pratikurvīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "friend",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upakṛṣṭaṃ",
+      "words": [
+       {
+        "w": "upakṛṣṭaṃ",
+        "gloss": "drawn near",
+        "gram": "n. acc. sg. ppp. upa-√kṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "vā-asya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gacchet",
+      "words": [
+       {
+        "w": "gacchet",
+        "gloss": "should go to",
+        "gram": "opt. 3 sg. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा उसके मित्र के पास, जो निकट खींचा हुआ है, जाए।",
+  "english": "Or he should go to his friend, one drawn near.",
+  "text_flags": [],
+  "notes": "upakṛṣṭa 'drawn near' (alternatives: drawn off, removed, distant); sense uncertain. asya 'his' is read as the master's (cf. unit 4); mitra 'friend' (not the glossary's ally of the prakṛti verses). Gender/case of mitram upakṛṣṭam: acc. sg. n. (mitra n. 'friend' or m.). REVIEW: 'friend' for mitra accepted (personal relation, not the prakṛti list). Doubtful: whether asya's friend is the master's or the courtier's, and the sense of upakṛṣṭa (drawn near / intimate / removed); literal rendering kept.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "05.05.14"
+  ],
+  "lines_deva": [
+   "मित्रम् उपकृष्टं वा-अस्य गच्छेत्"
+  ],
+  "lines_iast": [
+   "mitram upakṛṣṭaṃ vā-asya gacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatrastho",
+      "words": [
+       {
+        "w": "tatrasthaḥ",
+        "gloss": "staying there",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣa.nirghātaṃ",
+      "words": [
+       {
+        "w": "doṣa-nirghātaṃ",
+        "gloss": "removal of the fault",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mitrair",
+      "words": [
+       {
+        "w": "mitraiḥ",
+        "gloss": "through friends",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhartari",
+      "words": [
+       {
+        "w": "bhartari",
+        "gloss": "with the master",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-ācaret",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ācaret",
+        "gloss": "should bring about",
+        "gram": "opt. 3 sg. ā-√car"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhartari",
+      "words": [
+       {
+        "w": "bhartari",
+        "gloss": "the master",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jīve",
+      "words": [
+       {
+        "w": "jīve",
+        "gloss": "alive",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mṛte",
+      "words": [
+       {
+        "w": "mṛte",
+        "gloss": "dead",
+        "gram": "m. loc. sg. ppp. √mṛ"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punar",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "āvrajet",
+      "words": [
+       {
+        "w": "āvrajet",
+        "gloss": "should return",
+        "gram": "opt. 3 sg. ā-√vraj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ रहकर मित्रों के द्वारा और स्वामी के पास दोष का निवारण करे। फिर स्वामी के जीवित रहने पर अथवा मृत होने पर वह पुनः लौट आए।",
+  "english": "Staying there, he should bring about the removal of the fault through friends and with the master. Then, the master being alive or dead, he should return again.",
+  "text_flags": [],
+  "notes": "Line a: ācaret 'should practise/bring about'; the construction mitraiḥ bhartari ca is read 'through friends and with the master' (alternative: 'through friends and in the master's case'); doṣa 'fault' (not the medical doṣa). Line b: locative absolute bhartari jīve / mṛte; mṛte 'dead'. bhartṛ = master. The pair of lines is one verse (anuṣṭubh-like).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "05.05.15a",
+   "05.05.15b"
+  ],
+  "lines_deva": [
+   "तत्रस्थो दोष.निर्घातं मित्रैर् भर्तरि च-आचरेत्",
+   "ततो भर्तरि जीवे वा मृते वा पुनर् आव्रजेत्"
+  ],
+  "lines_iast": [
+   "tatrastho doṣa.nirghātaṃ mitrair bhartari ca-ācaret",
+   "tato bhartari jīve vā mṛte vā punar āvrajet"
+  ],
+  "uncertain": []
+ }
+]

@@ -1,0 +1,416 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उपस्थिति में",
+     "problem": "sannidhau occurs once; the Hindi repeats 'उपस्थिति में' (unmarked doubling)",
+     "fix": "लुटे हुए की और बाहरी तथा भीतरी साक्षियों की उपस्थिति में, अभियुक्त से उसके देश, जाति, गोत्र, नाम, कर्म, बहुमूल्य वस्तुओं, सहायकों और निवास के विषय में पूछताछ करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "लुटे हुए की और बाहरी तथा भीतरी साक्षियों की उपस्थिति में, अभियुक्त से उसके देश, जाति, गोत्र, नाम, कर्म, बहुमूल्य वस्तुओं, सहायकों और निवास के विषय में पूछताछ करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "apadeśa",
+     "problem": "cognate of apadiṣṭaka (unit 7, apa-√diś) not cross-referenced",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "append_note",
+      "text": "Reviewer: apadeśa shares its root (apa-√diś, 'point out') with apadiṣṭaka in unit 7; 'pretexts' is kept as the literal, sense (statements/references named by the accused) unsettled."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "apasāra (going away)",
+     "problem": "invented sense 'going away' against 4.6 (apasāra kept untranslated, the one/place pointed to) and 10.2 'place of retreat'",
+     "fix": "apasāra kept untranslated",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "apasāra (going away)",
+      "new": "apasāra"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "apasāra-pratisandhāne",
+     "problem": "same",
+     "fix": "in the matching of the apasāra (retreat)",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "apasāra-pratisandhāne",
+      "field": "gloss",
+      "value": "in the matching of the apasāra (retreat)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "settle apasāra",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "Reviewer: apasāra stays untranslated (अपसार) as in 4.6; literal 'retreat' only in the gloss; whether it is the place resorted to or the person pointed to is unsettled (4.6 takes the person pointed to). The earlier note 'going away' is withdrawn."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अचोर",
+     "problem": "'अचोर' is not natural Hindi; unit 12 already uses 'चोर न होने वाला'",
+     "fix": "इन कारणों का मेल न होने पर बकवास करने वाले को चोर न होने वाला जाने।",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "set",
+      "field": "hindi",
+      "value": "इन कारणों का मेल न होने पर बकवास करने वाले को चोर न होने वाला जाने।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "karaṇa",
+     "problem": "relation to 4.1 glossary karaṇa = means of proof not recorded",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "append_note",
+      "text": "Reviewer: karaṇa kept untranslated; it is not the 4.1 sva-karaṇa 'means of proof' without a person's decision (here perhaps the investigation/procedure)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "apasarpa (secret going-about)",
+     "problem": "'secret going-about' is an invented sense; apa-√sṛp caus. is literally 'cause to go away'",
+     "fix": "apasarpa (literally 'going away')",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "apasarpa (secret going-about)",
+      "new": "apasarpa (literally 'going away')"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "apasarpayet",
+     "problem": "gloss 'should cause apasarpa' is not a meaning",
+     "fix": "should cause to go away",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "apasarpayet",
+      "field": "gloss",
+      "value": "should cause to go away"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बताया गया है",
+     "problem": "glossary (4.1): vyākhyāta = 'व्याख्या की गई'",
+     "fix": "इस प्रकार छल ले, अथवा जैसी निक्षेप के अपहार में व्याख्या की गई है।",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "set",
+      "field": "hindi",
+      "value": "इस प्रकार छल ले, अथवा जैसी निक्षेप के अपहार में व्याख्या की गई है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "से",
+     "problem": "'उससे कर्म कराए' reads as the person doing the action; the object of kārayet is the person, so 'को'",
+     "fix": "जिसका दोष सिद्ध हो चुका है उसको कर्म कराए, किन्तु स्त्री को कदापि नहीं, गर्भवती को, सूतिका को, अथवा एक मास से कम पहले प्रसव करने वाली को।",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसका दोष सिद्ध हो चुका है उसको कर्म कराए, किन्तु स्त्री को कदापि नहीं, गर्भवती को, सूतिका को, अथवा एक मास से कम पहले प्रसव करने वाली को।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उत्तम दण्ड",
+     "problem": "'उत्तम' reads as 'excellent' to a modern reader; uttama = highest",
+     "fix": "सर्वोच्च दण्ड",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्तम दण्ड",
+      "new": "सर्वोच्च दण्ड"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सात कशा",
+     "problem": "plural of कशा",
+     "fix": "सात कशाएँ",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सात कशा,",
+      "new": "सात कशाएँ,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बारह कशा",
+     "problem": "plural of कशा",
+     "fix": "बारह कशाएँ",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बारह कशा,",
+      "new": "बारह कशाएँ,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "brought out from",
+     "problem": "'out' is not in the Sanskrit (āgamayet = cause to come, ablative 'from')",
+     "fix": "brought from",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "brought out from",
+      "new": "brought from"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "āgamayet",
+     "problem": "'have brought out' adds 'out'",
+     "fix": "should cause to come",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "āgamayet",
+      "field": "gloss",
+      "value": "should cause to come"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रमाण",
+     "problem": "English 'measure' but Hindi प्रमाण means 'proof' (the 4.1 sense)",
+     "fix": "माप",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रमाण,",
+      "new": "माप,"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "praharaṇa",
+     "problem": "alternative sense missing",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "append_note",
+      "text": "Reviewer: praharaṇa is literally 'striking'; 'weapon, instrument of striking' is the usual noun sense and is possible; pramāṇa is 'measure' (Hindi माप), not 'proof'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "से",
+     "problem": "'से' after each person reads as if the person performs the action; objects of kārayet take 'को'",
+     "fix": "राजा की आज्ञा से, पहले किए हुए अपदान को स्वीकार करके उसे वापस लेने वाले को, जिसका सामान एक स्थान पर दिखाई दिया हो उसको, कर्म या रूप से पकड़े गए को, राजकोश को ढँकने वाले को, अथवा कर्म से वध्य को कर्म कराए — संयुक्त, पृथक् या बार-बार।",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "set",
+      "field": "hindi",
+      "value": "राजा की आज्ञा से, पहले किए हुए अपदान को स्वीकार करके उसे वापस लेने वाले को, जिसका सामान एक स्थान पर दिखाई दिया हो उसको, कर्म या रूप से पकड़े गए को, राजकोश को ढँकने वाले को, अथवा कर्म से वध्य को कर्म कराए — संयुक्त, पृथक् या बार-बार।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "4 errors, 15 minor, all with patches (apasāra 'going away' withdrawn in favour of untranslated apasāra as in 4.6; invented 'secret going-about'; Hindi प्रमाण for 'measure'; Hindi object cases 'से' -> 'को'). No regrouping. No word or text_flag add/delete needed. Low-confidence units 9, 13, 15, 19, 24, 26 stay low; 17 stays medium."
+}

@@ -1,0 +1,68 @@
+[
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "anupajapanti",
+  "old": "anupajapanti",
+  "new": "upajapanti",
+  "why": "reviewer (error): anu-upa-√jap is an invented sense; the parallel in unit 17 ('bāhyān upajapanti') and the pattern 'abhyantarān upajapanti' make the plain verb upa-√jap expected; the printed 'anu' looks like the tail of abhyantarān + u-"
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "upajapanti",
+  "old": "3 pl. pres. anu-upa-√jap",
+  "new": "3 pl. pres. upa-√jap (printed anupajapanti; corrected, see text_flags)",
+  "why": "reviewer (minor): root analysis follows the corrected word"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "anupajapanti = anu-upa-√jap; the sense of anu (afterwards / in turn / along) is uncertain, so it is not rendered separately. 'vā bāhyān' has no verb: '[instigate]' supplied in English. ubhaya-yoga rendered 'combination of both' (yoga here neither the 6.2 'acquisition' nor the Book 12 'contrivance'); the sense is uncertain. pratijapataḥ taken as gen. sg. of the present participle.",
+  "new": "anupajapanti = anu-upa-√jap; the sense of anu (afterwards / in turn / along) is uncertain, so it is not rendered separately. 'vā bāhyān' has no verb: '[instigate]' supplied in English. ubhaya-yoga rendered 'combination of both' (yoga here neither the 6.2 'acquisition' nor the Book 12 'contrivance'); the sense is uncertain. pratijapataḥ taken as gen. sg. of the present participle. Reviewer: the word is read upajapanti (abhyantarān upajapanti), not anu-upa-√jap, by parallel with unit 17; the first text_flag's suggestion should read 'abhyantarān upajapanti'. The second flag is sound: tatra is an adverb, so 'tatra-ubhaya-yoge' (or 'tatra ubhaya-yoge') is expected.",
+  "why": "reviewer (minor): note treats anu as a real prefix of uncertain sense"
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "mahataḥ",
+  "old": "n. gen. sg.",
+  "new": "m. gen. sg.",
+  "why": "reviewer (minor): agrees with masculine prayatnasya, not neuter"
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "The object of hanyuḥ is not stated; '[them]' is supplied in English only. rasa = poison (glossary); tīkṣṇa = assassin (glossary).",
+  "new": "The object of hanyuḥ is not stated; '[them]' is supplied in English only. rasa = poison (glossary); tīkṣṇa = assassin (glossary). Reviewer: dūṣyān may instead be the object of hanyuḥ ('assassins who have entered should kill the treasonable with weapon and poison'); the construction is open and the literal rendering is kept.",
+  "why": "reviewer (minor): dūṣyān could be the object of hanyuḥ ('assassins having entered, should kill the treasonable') rather than the object of anupraviṣṭāḥ"
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "'yoga' is read as locative yoge by parallel with unit 4 (alternative: nominative yogaḥ, 'exclusive union: ...'). ekānta = exclusive, single; the sense of 'ekānta-yoga' is uncertain. 'abhyantarā vā' has no verb: '[instigate]' supplied in English.",
+  "new": "'yoga' is read as locative yoge by parallel with unit 4 (alternative: nominative yogaḥ, 'exclusive union: ...'). ekānta = exclusive, single; the sense of 'ekānta-yoga' is uncertain. 'abhyantarā vā' has no verb: '[instigate]' supplied in English. Reviewer: sandhi does not support the claim that 'yoga u-' stands for locative yoge (that would be yogay u-); 'yoga u-' fits yogaḥ + u. Reading as locative (by parallel with unit 4) is kept only as a literal guess; the nominative 'there is exclusive union (yogaḥ) of the instigator; success is superior' is equally possible. A person should decide; the text_flag stays open.",
+  "why": "reviewer (minor): the note says 'yoga u-' can stand for yoge before a vowel; by regular sandhi yoge + u would give yogay u-, whereas yogaḥ + u gives 'yoga u-', so the nominative yogaḥ is at least as likely"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Secret agents, or agents in the guise of allies, should say: \"This king of yours wishes to take [it] himself; you have been seized by the king through position; be aware.\"",
+  "new": "Secret agents, or agents in the guise of allies, should say: \"This king of yours wishes to take [it] himself; [you] have been seized by the king through position; be aware.\"",
+  "why": "reviewer (minor): vigṛhītāḥ has no stated subject; 'you' is an unmarked addition"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "गुप्तचर अथवा मित्र के वेश वाले गुप्तचर कहें— “यह तुम्हारा राजा स्वयं लेना चाहता है, तुम राजा द्वारा स्थान से पकड़े गए हो, सावधान रहो।”",
+  "new": "गुप्तचर अथवा मित्र के वेश वाले गुप्तचर कहें— “यह तुम्हारा राजा स्वयं लेना चाहता है, राजा द्वारा स्थान से पकड़े गए हैं, सावधान रहो।”",
+  "why": "reviewer (minor): the Hindi adds तुम and a second-person verb for a subject the Sanskrit does not state"
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "upa-√dhā: 'put to the test, tempt' (cf. the technical upadhā); rendered 'put to the test', not certain. 'asya' ('of/to him') is ambiguous: the speaker, the king, or a third person; read as 'to him'. vaḥ is read as accusative 'you' here (it is genitive 'your' in other units). The closing iti is not rendered.",
+  "new": "upa-√dhā: 'put to the test, tempt' (cf. the technical upadhā); rendered 'put to the test', not certain. 'asya' ('of/to him') is ambiguous: the speaker, the king, or a third person; read as 'to him'. vaḥ is read as accusative 'you' here (it is genitive 'your' in other units). The closing iti is not rendered. Reviewer: vo may be genitive ('your king will test [you]'), as in units 13 and 21, instead of the accusative read here; the sense 'test' of upadhā-verb is kept literal but unconfirmed (glossary 13.4 keeps the noun upadhā untranslated). The text_flag for the unclosed quote is sound: close it after ākhyātavyam, before iti.",
+  "why": "reviewer (minor): glossary 13.4 keeps the noun upadhā untranslated as obscure; 'put to the test' is a standard sense of the verb but unverified here; vaḥ could equally be genitive 'your king' as in units 13 and 21"
+ }
+]

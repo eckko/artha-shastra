@@ -1,0 +1,518 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pañca-viṃśati-paṇa-avareṣu",
+     "problem": "gloss 'twenty-five paṇas is the lower (limit)' reads as a minimum, against the English 'or lower'",
+     "fix": "in those of twenty-five paṇas or lower",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "pañca-viṃśati-paṇa-avareṣu",
+      "field": "gloss",
+      "value": "in those of twenty-five paṇas or lower"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पच्चीस पण से कम वाले",
+     "problem": "Hindi 'less than 25' excludes 25 while English says 'or lower'",
+     "fix": "पच्चीस पण या उससे कम वाले",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पच्चीस पण से कम वाले",
+      "new": "पच्चीस पण या उससे कम वाले"
+     }
+    },
+    {
+     "field": "english",
+     "where": "forest-rangers",
+     "problem": "'rangers' is a modern office, an invented sense; araṇya-cara is literally forest-goer",
+     "fix": "forest-goers",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "forest-rangers",
+      "new": "forest-goers"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "caṇḍāla-araṇya-carāṇāṃ",
+     "problem": "same",
+     "fix": "of caṇḍālas and forest-goers",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "caṇḍāla-araṇya-carāṇāṃ",
+      "field": "gloss",
+      "value": "of caṇḍālas and forest-goers"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उतना ही",
+     "problem": "'ही' (only/just) is an unmarked addition; Sanskrit has tāvat 'that much'",
+     "fix": "वह और उतना दण्ड है",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उतना ही",
+      "new": "उतना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mṛga-dravya-vanāt",
+     "problem": "gender missing; vana is neuter",
+     "fix": "tat-puruṣa, n. abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "mṛga-dravya-vanāt",
+      "field": "gram",
+      "value": "tat-puruṣa, n. abl. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bimba-vihāra-mṛga-pakṣi-steye",
+     "problem": "steya in the sense 'theft' is neuter, not masculine",
+     "fix": "tat-puruṣa, n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "bimba-vihāra-mṛga-pakṣi-steye",
+      "field": "gram",
+      "value": "tat-puruṣa, n. loc. sg."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dvi-guṇaḥ",
+     "problem": "base of 'twofold' not stated",
+     "fix": "note",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "append_note",
+      "text": "'Twofold' of what is not stated in the line (no figure is given); nothing is supplied."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "large goods",
+     "problem": "sthūlaka is settled in 4.1 as 'coarse' (literal), not 'large'",
+     "fix": "coarse goods",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "large goods",
+      "new": "coarse goods"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बड़े द्रव्यों",
+     "problem": "same (4.1: sthūlaka = मोटे)",
+     "fix": "मोटे द्रव्यों",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बड़े द्रव्यों",
+      "new": "मोटे द्रव्यों"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sthūlaka-dravya-apahāre",
+     "problem": "same",
+     "fix": "in the removal of coarse goods",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "sthūlaka-dravya-apahāre",
+      "field": "gloss",
+      "value": "in the removal of coarse goods"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sthūlaka",
+     "problem": "note",
+     "fix": "'large' in the old note is superseded: sthūlaka = coarse (मोटे) as glossary 4.1; sense of the contrast with kṣudraka 'small' is not stated.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "append_note",
+      "text": "Review: sthūlaka rendered 'coarse' (glossary 4.1), 'large' only as a possible sense."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[and] of one who goes away",
+     "problem": "'and' is not in the Sanskrit; the clauses are plain genitives in a series, and a second person is implied",
+     "fix": "Of one who enters a fort without his entry having been made, or through a hole in the rampart, of one who goes away having taken a deposit",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "[and] of one who goes away",
+      "new": "of one who goes away"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और जो धरोहर",
+     "problem": "Hindi 'और' is an unmarked addition",
+     "fix": "जो धरोहर",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और जो धरोहर",
+      "new": "जो धरोहर"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "praviśataḥ",
+     "problem": "prefix missing in root",
+     "fix": "pres. part. m. gen. sg. pra-√viś",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "praviśataḥ",
+      "field": "gram",
+      "value": "pres. part. m. gen. sg. pra-√viś"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "prākāra-chidrāt",
+     "problem": "the ablative may also go with apasarataḥ ('going away from a hole in the rampart having taken a deposit')",
+     "fix": "note",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "append_note",
+      "text": "Review: the ablative prākāra-chidrāt could equally belong with apasarataḥ (going away through a hole in the rampart with a deposit); the grouping stays open and confidence low."
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "cakra-yuktaṃ",
+     "problem": "gender not determinable from -aṃ, and no noun is present",
+     "fix": "m./n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "cakra-yuktaṃ",
+      "field": "gram",
+      "value": "m./n. acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Of those who make",
+     "problem": "note says genitive singular is taken (kāriṇa before eka = kāriṇaḥ; the verse has nom. vadhaḥ, so gen. sg.), but English/Hindi are plural",
+     "fix": "Of one who makes unevenness",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "Of those who make",
+      "new": "Of one who makes"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "करने वालों का",
+     "problem": "plural against the genitive singular",
+     "fix": "करने वाले का",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "करने वालों का",
+      "new": "करने वाले का"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kūṭa-kākaṇī-...-kāriṇaḥ",
+     "problem": "plural gloss",
+     "fix": "of one who makes unevenness with false kākaṇī, akṣa, arālā, śalākā or hand",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "kūṭa-kākaṇī-akṣa-arālā-śalākā-hasta-viṣama-kāriṇaḥ",
+      "field": "gloss",
+      "value": "of one who makes unevenness with false kākaṇī, akṣa, arālā, śalākā or hand"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kūṭa-kākaṇī-...-kāriṇaḥ",
+     "problem": "nom. pl. does not fit (predicate vadhaḥ is nominative of a genitive construction)",
+     "fix": "dvandva+tat-puruṣa, m. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "kūṭa-kākaṇī-akṣa-arālā-śalākā-hasta-viṣama-kāriṇaḥ",
+      "field": "gram",
+      "value": "dvandva+tat-puruṣa, m. gen. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "के प्रति",
+     "problem": "'के प्रति' (towards) is an unmarked addition; English marks [against] but Hindi cannot; plain genitive is closer. Also guru = elders in English, गुरु alone means teacher in Hindi",
+     "fix": "श्रेष्ठ वर्णों और गुरुजनों का हाथ-पैर से उल्लंघन करने में",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्रेष्ठ वर्णों और गुरुओं के प्रति हाथ-पैर से उल्लंघन करने में",
+      "new": "श्रेष्ठ वर्णों और गुरुजनों का हाथ-पैर से उल्लंघन करने में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ब्राह्मण कहने वाले",
+     "problem": "reads as 'one who calls (someone) a brāhmaṇa'; English is 'speaks as a brāhmaṇa'",
+     "fix": "ब्राह्मण के रूप में बोलने वाले शूद्र का",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ब्राह्मण कहने वाले शूद्र का",
+      "new": "ब्राह्मण के रूप में बोलने वाले शूद्र का"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "yoga-añjana",
+     "problem": "'compound' is correct: matches 4.4 decision (madana-yoga = compound); record it",
+     "fix": "note",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "append_note",
+      "text": "Review: yoga = compound is kept to match the 4.4 settlement for medicinal combinations (madana-yoga); sense for Book 4 still a person's decision."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनाज",
+     "problem": "sasya is standing crop/grain; English says crops",
+     "fix": "फसल",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और अनाज को",
+      "new": "और फसल को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "last ca not rendered",
+     "problem": "note is wrong: all four ca are rendered in the English ('and' x3 and the final ca before 'place and time')",
+     "fix": "correct the note",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "append_note",
+      "text": "Correction: all four ca are rendered; the statement that the last ca is not rendered separately is wrong."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "uttama-avara-madhyatvaṃ",
+     "problem": "compound is a dvandva (uttama, avara, madhya) plus the abstract suffix -tva, not a tat-puruṣa",
+     "fix": "dvandva + abstract -tva, n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "uttama-avara-madhyatvaṃ",
+      "field": "gram",
+      "value": "dvandva + abstract -tva, n. acc. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "action of punishment",
+     "problem": "daṇḍa is 'penalty' in Book 4; keep one word",
+     "fix": "action of penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "action of punishment",
+      "new": "action of penalty"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍa-karmaṇi",
+     "problem": "same",
+     "fix": "in the action of penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "daṇḍa-karmaṇi",
+      "field": "gloss",
+      "value": "in the action of penalty"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उत्तमता",
+     "problem": "Hindi उत्तम means 'excellent'; unit 16 uses सर्वोच्च for uttama daṇḍa",
+     "fix": "सर्वोच्चता",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्तमता",
+      "new": "सर्वोच्चता"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "8 errors, 22 minor; no regrouping. Text flags: confirm unit 14 aparahataḥ (real typo, flag present) and possible typos śātyo (4), dvi.śāto (7), puṃṣo (10); ṣaṭ.chato is regular sandhi, no flag needed. No other typos or unclosed quotes found. Needs person: vadha 'destruction' of limb vs killing, avara 'or lower' (2), ablative grouping in 7, deva-paśu-pratimā list (16), prakṛti 'subjects' (18), kūṭa scope (9), saṅgṛhītā (10)."
+}

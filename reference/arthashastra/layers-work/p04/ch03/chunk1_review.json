@@ -1,0 +1,815 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "single ca closes the list; draft adds a second 'and'; align 'explained' with the 4.1 formula",
+     "fix": "The prevention of fire is explained in the nāgarika-praṇidhi, in the niśānta-praṇidhi and in the rāja-parigraha.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "The prevention of fire is explained in the nāgarika-praṇidhi, in the niśānta-praṇidhi and in the rāja-parigraha.",
+      "n": "4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "one ca only; Hindi had both और and तथा; align with 4.1 formula",
+     "fix": "नागरिक-प्रणिधि में अग्नि-प्रतिषेध की व्याख्या की गई, निशान्त-प्रणिधि में और राज-परिग्रह में।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "नागरिक-प्रणिधि में अग्नि-प्रतिषेध की व्याख्या की गई, निशान्त-प्रणिधि में और राज-परिग्रह में।",
+      "n": "4"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyākhyātaḥ",
+     "problem": "align with 4.1 formula",
+     "fix": "is explained",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyākhyātaḥ",
+      "field": "gloss",
+      "value": "is explained",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "māyā-yoga-vidaḥ",
+     "problem": "Book 4 settlement: yoga after mantra/occult = contrivance (as 4.4, 12.4); madana-yoga alone is 'compound'",
+     "fix": "knowers of illusion-contrivance",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "māyā-yoga-vidaḥ",
+      "field": "gloss",
+      "value": "knowers of illusion-contrivance",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Those who know māyā-yoga or",
+     "problem": "yoga = contrivance in 4.3 (glossary 4.4 decision)",
+     "fix": "Those who know illusion-contrivance (māyā-yoga) or",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Those who know māyā-yoga or",
+      "new": "Those who know illusion-contrivance (māyā-yoga) or",
+      "n": "11"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Book 4 decision: yoga in māyā-yoga = contrivance (Hindi योग), as in 4.4 mantra-yoga and 12.4; not 'compound'.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Book 4 decision: yoga in māyā-yoga = contrivance (Hindi योग), as in 4.4 mantra-yoga and 12.4; not 'compound'.",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the great marsh",
+     "problem": "obscure term kept untranslated in both languages (glossary 13.4 rule); Hindi already keeps महाकच्छ",
+     "fix": "the Mahakaccha",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the great marsh",
+      "new": "the Mahakaccha",
+      "n": "12"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śacī-nātha-gaṅgā-parvata-mahā-kaccha-pūjāḥ",
+     "problem": "align with english",
+     "fix": "worship of the lord of Shachi, the Ganga, the mountain, the Mahakaccha",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śacī-nātha-gaṅgā-parvata-mahā-kaccha-pūjāḥ",
+      "field": "gloss",
+      "value": "worship of the lord of Shachi, the Ganga, the mountain, the Mahakaccha",
+      "n": "12"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Mahakaccha kept as a term in both languages; literal 'great marsh' (kaccha = marshy bank) is only a possibility, it could be a proper name.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Mahakaccha kept as a term in both languages; literal 'great marsh' (kaccha = marshy bank) is only a possibility, it could be a proper name.",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "4.1 formula",
+     "fix": "By that, pestilence is explained.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "By that, pestilence is explained.",
+      "n": "14"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "4.1 formula",
+     "fix": "इससे महामारी की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे महामारी की व्याख्या की गई।",
+      "n": "14"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyākhyātaḥ",
+     "problem": "4.1 formula",
+     "fix": "is explained",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyākhyātaḥ",
+      "field": "gloss",
+      "value": "is explained",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the increase of the great marsh",
+     "problem": "as unit 12",
+     "fix": "the increase of the Mahakaccha",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the increase of the great marsh",
+      "new": "the increase of the Mahakaccha",
+      "n": "15"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mahā-kaccha-vardhanam",
+     "problem": "as unit 12",
+     "fix": "increase of the Mahakaccha",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mahā-kaccha-vardhanam",
+      "field": "gloss",
+      "value": "increase of the Mahakaccha",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बीज और भोजन का उपग्रह करके",
+     "problem": "Hindi उपग्रह reads as 'satellite'; English already says 'provision'",
+     "fix": "बीज और भोजन का प्रबन्ध करके",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बीज और भोजन का उपग्रह करके",
+      "new": "बीज और भोजन का प्रबन्ध करके",
+      "n": "17"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "देश में निक्षेप करे",
+     "problem": "deśa here is 'region' (gloss, unit 19 uses प्रदेश); Hindi देश reads as 'nation'",
+     "fix": "प्रदेश में निक्षेप करे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "देश में निक्षेप करे",
+      "new": "प्रदेश में निक्षेप करे",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "या क्षीण करना अथवा वमन करे",
+     "problem": "ungrammatical Hindi (noun 'करना' with करे); karśana/vamana are nouns object of kuryāt",
+     "fix": "या क्षीण करने अथवा वमन की क्रिया करे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "या क्षीण करना अथवा वमन करे",
+      "new": "या क्षीण करने अथवा वमन की क्रिया करे",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "anya-viṣayam",
+     "problem": "viṣaya is masculine (unit 44 has m.)",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "anya-viṣayam",
+      "field": "gram",
+      "value": "m. acc. sg.",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्याल और मत्स्य",
+     "problem": "vyāla is rendered हिंस्र पशु in units 1, 28-32; Hindi left the Sanskrit word",
+     "fix": "हिंस्र पशु और मत्स्य",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्याल और मत्स्य",
+      "new": "हिंस्र पशु और मत्स्य",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "upaniṣad-yoga-yuktāni",
+     "problem": "Book 4: yoga = contrivance",
+     "fix": "joined with upaniṣad-contrivance",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "upaniṣad-yoga-yuktāni",
+      "field": "gloss",
+      "value": "joined with upaniṣad-contrivance",
+      "n": "23"
+     }
+    },
+    {
+     "field": "english",
+     "where": "joined with upaniṣad-yoga",
+     "problem": "as unit 11",
+     "fix": "joined with upaniṣad-contrivance",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "joined with upaniṣad-yoga",
+      "new": "joined with upaniṣad-contrivance",
+      "n": "23"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Book 4 decision: yoga in upaniṣad-yoga = contrivance (Hindi योग), as māyā-yoga in unit 11.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Book 4 decision: yoga in upaniṣad-yoga = contrivance (Hindi योग), as māyā-yoga in unit 11.",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "have been explained",
+     "problem": "4.1 formula",
+     "fix": "are explained",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "have been explained",
+      "new": "are explained",
+      "n": "27"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "4.1 formula",
+     "fix": "इससे टिड्डी, पक्षी और कृमि के भय के प्रतिकारों की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे टिड्डी, पक्षी और कृमि के भय के प्रतिकारों की व्याख्या की गई।",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyākhyātāḥ",
+     "problem": "4.1 formula",
+     "fix": "are explained",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyākhyātāḥ",
+      "field": "gloss",
+      "value": "are explained",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "madana-rasa-yuktāni",
+     "problem": "glossary 4.5: madana-rasa = madana poison (मदन-विष); here carcasses against beasts, a poisoning context",
+     "fix": "joined with madana poison",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "madana-rasa-yuktāni",
+      "field": "gloss",
+      "value": "joined with madana poison",
+      "n": "28"
+     }
+    },
+    {
+     "field": "english",
+     "where": "madana juice",
+     "problem": "as 4.5",
+     "fix": "madana poison",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "madana juice",
+      "new": "madana poison",
+      "n": "28"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मदन के रस से",
+     "problem": "as 4.5 (मदन-विष)",
+     "fix": "मदन के विष से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मदन के रस से",
+      "new": "मदन के विष से",
+      "n": "28"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "madana-rasa = madana poison, aligned with 4.5; 'juice' is the literal sense of rasa.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "madana-rasa = madana poison, aligned with 4.5; 'juice' is the literal sense of rasa.",
+      "n": "28"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "have been explained",
+     "problem": "4.1 formula",
+     "fix": "are explained",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "have been explained",
+      "new": "are explained",
+      "n": "34"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "4.1 formula",
+     "fix": "इससे मृग, पशु और पक्षियों के झुंडों के पकड़ने के प्रतिकारों की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे मृग, पशु और पक्षियों के झुंडों के पकड़ने के प्रतिकारों की व्याख्या की गई।",
+      "n": "34"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyākhyātāḥ",
+     "problem": "4.1 formula",
+     "fix": "are explained",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyākhyātāḥ",
+      "field": "gloss",
+      "value": "are explained",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "have been explained",
+     "problem": "4.1 formula",
+     "fix": "are explained",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "have been explained",
+      "new": "are explained",
+      "n": "39"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "4.1 formula",
+     "fix": "इससे जल के प्राणियों के भय के प्रतिकारों की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इससे जल के प्राणियों के भय के प्रतिकारों की व्याख्या की गई।",
+      "n": "39"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyākhyātāḥ",
+     "problem": "4.1 formula",
+     "fix": "are explained",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyākhyātāḥ",
+      "field": "gloss",
+      "value": "are explained",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "rakṣaḥ-bhaye",
+     "problem": "compound member should be the stem rakṣas-, not visarga form",
+     "fix": "rakṣas-bhaye",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rakṣaḥ-bhaye",
+      "field": "w",
+      "value": "rakṣas-bhaye",
+      "n": "40"
+     }
+    },
+    {
+     "field": "split",
+     "where": "rakṣaḥ-ghnāni",
+     "problem": "compound member should be the stem rakṣas-",
+     "fix": "rakṣas-ghnāni",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rakṣaḥ-ghnāni",
+      "field": "w",
+      "value": "rakṣas-ghnāni",
+      "n": "40"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "māyā-yoga-vidaḥ",
+     "problem": "Book 4 yoga = contrivance",
+     "fix": "knowers of illusion-contrivance",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "māyā-yoga-vidaḥ",
+      "field": "gloss",
+      "value": "knowers of illusion-contrivance",
+      "n": "40"
+     }
+    },
+    {
+     "field": "english",
+     "where": "those who know māyā-yoga",
+     "problem": "as unit 11",
+     "fix": "those who know illusion-contrivance (māyā-yoga)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "those who know māyā-yoga",
+      "new": "those who know illusion-contrivance (māyā-yoga)",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sarva-bhayeṣu",
+     "problem": "bhaya is neuter (units 1, 21, 28 say n.)",
+     "fix": "n. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sarva-bhayeṣu",
+      "field": "gram",
+      "value": "n. loc. pl.",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "māyā-yoga-vidaḥ",
+     "problem": "Book 4 yoga = contrivance",
+     "fix": "knowers of illusion-contrivance",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "māyā-yoga-vidaḥ",
+      "field": "gloss",
+      "value": "knowers of illusion-contrivance",
+      "n": "44"
+     }
+    },
+    {
+     "field": "english",
+     "where": "those who know māyā-yoga,",
+     "problem": "as unit 11",
+     "fix": "those who know illusion-contrivance (māyā-yoga),",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "those who know māyā-yoga,",
+      "new": "those who know illusion-contrivance (māyā-yoga),",
+      "n": "44"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "44 units checked word by word against src and Devanagari; no typos, no unclosed quotes (unit 42 quotation opens and closes in e-text, Hindi and English), no Latin or brackets in Hindi, no bare 'thus', no trailing commas in w. Draft text_flags (0) and no-regrouping confirmed. Patches: align vyākhyāta closing formula with glossary 4.1 (units 4, 14, 27, 34, 39); settle yoga for Book 4 as contrivance in māyā-yoga/upaniṣad-yoga (11, 23, 40, 44); madana-rasa = madana poison as 4.5 (28); keep Mahakaccha untranslated in both languages (12, 15); gram/w fixes (19, 40, 42); Hindi fixes (4, 17, 18, 20). Issues: errors 0, minor 42. No regrouping suggested. Open doubts kept literal in notes: units 3, 15, 24, 34, 41."
+}

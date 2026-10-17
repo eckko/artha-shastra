@@ -1,0 +1,146 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "vyaya-viśuddham",
+  "old": "n. acc. sg. tat-puruṣa",
+  "new": "m. acc. sg. (adj. of udaya) tat-puruṣa",
+  "why": "reviewer (minor): adjective of udaya (m.), not neuter"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "He should specify the matter, whether internal, external, secret, open, urgent or to be disregarded, [as] “This is so.”",
+  "new": "And he should specify the matter, whether internal, external, secret, open, urgent or to be disregarded, [as] “This is so.”",
+  "why": "reviewer (minor): final ca (viśeṣayec ca) dropped; it joins this unit to the preceding instruction"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "कार्य को, चाहे वह आभ्यन्तर, बाह्य, गुप्त, प्रकट, आत्ययिक अथवा उपेक्षा के योग्य हो, “यह ऐसा है” इस प्रकार निर्दिष्ट करे।",
+  "new": "और कार्य को, चाहे वह आभ्यन्तर, बाह्य, गुप्त, प्रकट, आत्ययिक अथवा उपेक्षा के योग्य हो, “यह ऐसा है” ऐसा निर्दिष्ट करे।",
+  "why": "reviewer (minor): ca dropped; 'इस प्रकार' renders closing iti as 'thus', against glossary 13.1 and the brief"
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Quote tokens: idam evam is the quoted specification; the closing iti is not rendered 'thus'. ātyayika 'urgent, pressing' (literally pertaining to a danger/pass-over); kept 'urgent' (medium). Final ca 'and' links to the preceding sentence and is not rendered separately.",
+  "new": "Quote tokens: idam evam is the quoted specification; the closing iti is not rendered 'thus'. ātyayika 'urgent, pressing' (literally pertaining to a danger/pass-over); kept 'urgent' (medium). Final ca 'and' links to the preceding sentence and is not rendered separately. REVIEW: final ca (viśeṣayec ca) is rendered as 'And' in both languages (it joins this to the preceding instruction of unit 1); iti here introduces the specification, rendered 'ऐसा' in Hindi.",
+  "why": "reviewer (minor): draft note says final ca is not rendered; now rendered as 'And' at the start of the unit"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "क्योंकि प्रज्ञावान् मन्त्र को छिपाने के लिए संकेत और आकृति के द्वारा काम, द्वेष, हर्ष, दैन्य, व्यवसाय, भय और द्वन्द्वों के उलटफेर का आचरण करता है।",
+  "new": "क्योंकि प्रज्ञावान् मन्त्र को छिपाने के लिए संकेत और आकृति के द्वारा काम, द्वेष, हर्ष, दैन्य, निश्चय, भय और द्वन्द्वों के उलटफेर का आचरण करता है।",
+  "why": "reviewer (error): Hindi व्यवसाय means 'trade, occupation'; English and glossary sense is 'resolve'"
+ },
+ {
+  "n": "7",
+  "field": "word.w",
+  "word": "vivikto",
+  "old": "vivikto",
+  "new": "viviktaḥ",
+  "why": "reviewer (error): w must restore visarga: viviktaḥ"
+ },
+ {
+  "n": "7",
+  "field": "word.w",
+  "word": "smayamāno",
+  "old": "smayamāno",
+  "new": "smayamānaḥ",
+  "why": "reviewer (error): w must restore visarga: smayamānaḥ"
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "tad-bhaktīn",
+  "old": "m. acc. pl. tat-puruṣa",
+  "new": "m. acc. pl. (printed bhaktīn; possible typo for tad-bhaktān)",
+  "why": "reviewer (minor): bhakti is f. (acc. pl. bhaktīḥ); a masc. acc. pl. would be bhaktān; printed bhaktīn is anomalous, possible typo for tad-bhaktān"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "On being seen he is pleased; he accepts [his] speech; he gives a seat; in seclusion he shows [himself]; in a place of suspicion he is not over-suspicious; he delights in conversation; in matters to be made known he looks [to them]; he bears what is said that is wholesome; smiling he appoints [him]; he touches [him] with the hand; he does not mock at what is praiseworthy; he speaks of [his] merit in [his] absence; he remembers [him] in eatables; he goes together [with him] to amusement; in calamity he comes to [his] aid; he honours those devoted to him; he tells [him] a secret; he increases [his] honour; he does wealth; he wards off harm — [these are] the knowledge of the satisfied.",
+  "new": "On being seen he is pleased; he accepts [his] speech; he gives a seat; in seclusion he shows [himself]; in a place of suspicion he is not over-suspicious; he delights in conversation; in matters to be made known he looks [to them]; he bears what is said that is wholesome; smiling he appoints [him]; he touches [him] with the hand; he does not mock at what is praiseworthy; he speaks of [his] merit in [his] absence; he remembers [him] in eatables; he goes together [with him] to amusement; in calamity he comes to [his] aid; he honours those devoted to him; he tells [him] a secret; he increases [his] honour; he makes wealth; he wards off harm — [these are] the knowledge of the satisfied.",
+  "why": "reviewer (minor): 'does wealth' is not English; karoti = makes"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "दर्शन होने पर प्रसन्न होता है, बात स्वीकार करता है, आसन देता है, एकान्त में दर्शन देता है, शंका के स्थान पर अधिक शंका नहीं करता, वार्ता में रमता है, बताने योग्य बातों में ध्यान देता है, कही हुई हितकर बात सह लेता है, मुस्कराते हुए नियुक्त करता है, हाथ से छूता है, प्रशंसनीय पर हँसी नहीं उड़ाता, परोक्ष में गुण कहता है, भोज्य पदार्थों में स्मरण करता है, साथ विहार को जाता है, व्यसन में सहायता करता है, उसके भक्तों का सत्कार करता है, गुप्त बात कहता है, मान बढ़ाता है, धन करता है, अनर्थ को दूर करता है — यह सन्तुष्ट का ज्ञान है।",
+  "new": "दर्शन होने पर प्रसन्न होता है, बात स्वीकार करता है, आसन देता है, एकान्त में दर्शन देता है, शंका के स्थान पर अधिक शंका नहीं करता, वार्ता में रमता है, बताने योग्य बातों में ध्यान देता है, कही हुई हितकर बात सह लेता है, मुस्कराते हुए नियुक्त करता है, हाथ से छूता है, प्रशंसनीय पर हँसी नहीं उड़ाता, परोक्ष में गुण कहता है, भोज्य पदार्थों में स्मरण करता है, साथ विहार को जाता है, व्यसन में सहायता करता है, उसके भक्तों का सत्कार करता है, गुप्त बात कहता है, मान बढ़ाता है, धन बनाता है, अनर्थ को दूर करता है — यह सन्तुष्ट का ज्ञान है।",
+  "why": "reviewer (minor): ungrammatical Hindi for arthaṃ karoti"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "On being seen he is pleased; he accepts [his] speech; he gives a seat; in seclusion he shows [himself]; in a place of suspicion he is not over-suspicious; he delights in conversation; in matters to be made known he looks [to them]; he bears what is said that is wholesome; smiling he appoints [him]; he touches [him] with the hand; he does not mock at what is praiseworthy; he speaks of [his] merit in [his] absence; he remembers [him] in eatables; he goes together [with him] to amusement; in calamity he comes to [his] aid; he honours those devoted to him; he tells [him] a secret; he increases [his] honour; he makes wealth; he wards off harm — [these are] the knowledge of the satisfied.",
+  "new": "On being seen he is pleased; he accepts [his] speech; he gives a seat; in seclusion he shows [himself]; in a place of suspicion he is not over-suspicious; he delights in conversation; in matters to be made known he looks [to them]; he bears what is said that is wholesome; smiling he appoints [him]; he touches [him] with the hand; he does not mock at what is praiseworthy; he speaks of [his] merit in [his] absence; he remembers [him] in eatables; he goes together [with him] to amusement; in calamity he comes to [his] aid; he honours those devoted to him; he tells [him] a secret; he increases [his] honour; he makes wealth; he wards off harm — such is the knowledge of the satisfied.",
+  "why": "reviewer (minor): iti + nominative predicate: glossary 15.1 pattern 'such is'"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "Subject (the master) and objects (him) are not stated; the English brackets mark them. Doubtful: darśayate (causative middle: 'shows [himself]', i.e. gives audience); parijñāpyeṣu avekṣate ('looks to/attends in matters to be reported'; parijñāpya could also be persons to be informed); niyuṅkte (appoints; alternative: orders, assigns a task); bhakṣyeṣu smarati (remembers him at meals/eatables; literal); vyasane abhyupapadyate (comes to aid, or approaches); arthaṃ karoti / anarthaṃ pratihanti (artha 'wealth' per glossary, alternative 'benefit' / 'loss'). The final 'iti tuṣṭa-jñānam' closes the list; iti not rendered 'thus'; the copula is supplied in brackets (English) and bare (Hindi). tuṣṭa-jñāna may also mean 'the way of knowing a satisfied (master)'. Hindi धन करता है / English 'does wealth' is the literal arthaṃ karoti; the sense 'provides wealth' is the likely one. Note: Hindi 'यह सन्तुष्ट का ज्ञान है' supplies the bare copula.",
+  "new": "Subject (the master) and objects (him) are not stated; the English brackets mark them. Doubtful: darśayate (causative middle: 'shows [himself]', i.e. gives audience); parijñāpyeṣu avekṣate ('looks to/attends in matters to be reported'; parijñāpya could also be persons to be informed); niyuṅkte (appoints; alternative: orders, assigns a task); bhakṣyeṣu smarati (remembers him at meals/eatables; literal); vyasane abhyupapadyate (comes to aid, or approaches); arthaṃ karoti / anarthaṃ pratihanti (artha 'wealth' per glossary, alternative 'benefit' / 'loss'). The final 'iti tuṣṭa-jñānam' closes the list; iti not rendered 'thus'; the copula is supplied in brackets (English) and bare (Hindi). tuṣṭa-jñāna may also mean 'the way of knowing a satisfied (master)'. Hindi धन करता है / English 'does wealth' is the literal arthaṃ karoti; the sense 'provides wealth' is the likely one. Note: Hindi 'यह सन्तुष्ट का ज्ञान है' supplies the bare copula. REVIEW: tad-bhaktīn as printed is anomalous (bhakti f. acc. pl. bhaktīḥ; expected tad-bhaktān 'those devoted to him'); kept as printed in src, possible typo, a person should add a text_flag. English 'he makes wealth' is the literal arthaṃ karoti (likely sense 'brings benefit'); 'such is' follows glossary 15.1 for iti + nominative.",
+  "why": "reviewer (minor): needs a text_flag (cannot be added by patch)"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "भेंट होने पर क्रोध, बात का न सुनना और उसे अस्वीकार करना, आसन और दृष्टि का न देना, रंग और स्वर में परिवर्तन, एक आँख, भौंह और होंठ का मरोड़ना, पसीने, श्वास और मुस्कान का बेमौके उत्पन्न होना, दूसरे से परामर्श, अचानक चल देना, दूसरे की उन्नति, भूमि और शरीर को कुरेदना, दूसरे को कोंचना, विद्या, वर्ण और देश की निन्दा, समान दोष की निन्दा, प्रतिदोष की निन्दा, विपरीत की प्रशंसा, सुकृत पर ध्यान न देना, दुष्कृत का कीर्तन, पीठ की ओर ध्यान, अति त्याग, झूठा सम्भाषण, और राजा से मिलने वालों के उस आचरण में परिवर्तन।",
+  "new": "भेंट होने पर क्रोध, बात का न सुनना और उसे अस्वीकार करना, आसन और दृष्टि का न देना, रंग और स्वर में परिवर्तन, एक आँख, भौंह और होंठ का मरोड़ना, पसीने, श्वास और मुस्कान का अनुचित स्थान पर उत्पन्न होना, दूसरे से परामर्श, अचानक चल देना, दूसरे की उन्नति, भूमि और शरीर को कुरेदना, दूसरे को कोंचना, विद्या, वर्ण और देश की निन्दा, समान दोष की निन्दा, प्रतिदोष की निन्दा, विपरीत की प्रशंसा, सुकृत पर ध्यान न देना, दुष्कृत का कीर्तन, पीठ की ओर ध्यान, अति त्याग, झूठा सम्भाषण, और राजा से मिलने वालों के उस आचरण में परिवर्तन।",
+  "why": "reviewer (minor): asthāna = 'out of place', not 'untimely'"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "“This one sprinkles on high,” says Katyayana, who went forth; “The krauñca [bird] — anticlockwise,” says Kaninka Bharadvaja; “Grass,” says Dirgha Charayana; “A cold cloth,” says Ghotamukha; “The elephant sprinkled back,” says Kinjalka; “He praised the chariot-horse,” says Pishuna; at the answering cry of a dog, the son of Pishuna.",
+  "new": "“This one sprinkles on high,” [said] Katyayana, and went forth; “The krauñca [bird] — anticlockwise,” says Kaninka Bharadvaja; “Grass,” says Dirgha Charayana; “A cold cloth,” says Ghotamukha; “The elephant sprinkled back,” says Kinjalka; “He praised the chariot-horse,” says Pishuna; at the answering cry of a dog, the son of Pishuna.",
+  "why": "reviewer (minor): finite verb pravavrāja turned into a relative clause with 'says'; tense mixed"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "“यह ऊँचा सींचता है,” ऐसा कात्यायन कहते हैं, जो निकल गए; “क्रौंच अपसव्य,” ऐसा कणिङ्क भारद्वाज कहते हैं; “तृण,” ऐसा दीर्घ चारायण कहते हैं; “शीत वस्त्र,” ऐसा घोटमुख कहते हैं; “हाथी ने पलट कर सींचा,” ऐसा किञ्जल्क कहते हैं; “रथ के घोड़े की प्रशंसा की,” ऐसा पिशुन कहते हैं; कुत्ते की प्रतिध्वनि पर पिशुन का पुत्र।",
+  "new": "“यह ऊँचा सींचता है,” ऐसा कहकर कात्यायन निकल गए; “क्रौंच अपसव्य,” ऐसा कणिङ्क भारद्वाज कहते हैं; “तृण,” ऐसा दीर्घ चारायण कहते हैं; “शीत वस्त्र,” ऐसा घोटमुख कहते हैं; “हाथी ने पलट कर सींचा,” ऐसा किञ्जल्क कहते हैं; “रथ के घोड़े की प्रशंसा की,” ऐसा पिशुन कहते हैं; कुत्ते की प्रतिध्वनि पर पिशुन का पुत्र।",
+  "why": "reviewer (minor): same: pravavrāja is a past finite verb"
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "Anecdotes of teachers' omen-readings, with no context in the line; sense uncertain throughout. Doubtful: uccaiḥ 'on high' (or 'loudly'); siñcati 'sprinkles' (pours, waters); pravavrāja 'went forth' (also 'wandered forth as an ascetic'; Hindi निकल गए); krauñca is a bird (curlew/heron) kept untranslated; the missing predicate is left open with a dash (glossary 14.1); śītā śāṭī 'cold cloth' (śāṭī a cloth or garment); pratyaukṣīt from prati-√ukṣ 'sprinkle back'; prāśaṃsīt 'praised', subject 'he' from the verb; prati-ravaṇe 'at the echo/answering sound' of a dog (śunaḥ gen. sg.), with no verb, so the unit ends without a predicate. Names: kaṇiṅka bhāradvāja, dīrgha cārāyaṇa, ghoṭa-mukha (ghoṭa-mukha may mean 'horse-faced'), kiñjalka, piśuna as in the glossary. The 'iti X' formula follows glossary 12.1/12.3.",
+  "new": "Anecdotes of teachers' omen-readings, with no context in the line; sense uncertain throughout. Doubtful: uccaiḥ 'on high' (or 'loudly'); siñcati 'sprinkles' (pours, waters); pravavrāja 'went forth' (also 'wandered forth as an ascetic'; Hindi निकल गए); krauñca is a bird (curlew/heron) kept untranslated; the missing predicate is left open with a dash (glossary 14.1); śītā śāṭī 'cold cloth' (śāṭī a cloth or garment); pratyaukṣīt from prati-√ukṣ 'sprinkle back'; prāśaṃsīt 'praised', subject 'he' from the verb; prati-ravaṇe 'at the echo/answering sound' of a dog (śunaḥ gen. sg.), with no verb, so the unit ends without a predicate. Names: kaṇiṅka bhāradvāja, dīrgha cārāyaṇa, ghoṭa-mukha (ghoṭa-mukha may mean 'horse-faced'), kiñjalka, piśuna as in the glossary. The 'iti X' formula follows glossary 12.1/12.3. REVIEW: prati-ravaṇe: English 'answering cry' and Hindi प्रतिध्वनि are both literal renderings of an unclear phrase; the unit ends without a predicate. The teachers' sayings and pravavrāja are an obscure anecdote; no context to settle it.",
+  "why": "reviewer (minor): Hindi प्रतिध्वनि (echo) vs English 'answering cry'; literal prati-ravaṇa 'counter-sounding', sense unclear"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "vā is placed after the absolutive; read as 'or' (alternative to the abandonment of unit 12), medium. svāmin is 'master' here (courtier's relation); the glossary entry svāmin = king applies to the prakṛti list. pratikurvīta 'should counteract/take counter-action' (object not stated). kilbiṣa 'fault, offence'. śīla 'character, disposition'.",
+  "new": "vā is placed after the absolutive; read as 'or' (alternative to the abandonment of unit 12), medium. svāmin is 'master' here (courtier's relation); the glossary entry svāmin = king applies to the prakṛti list. pratikurvīta 'should counteract/take counter-action' (object not stated). kilbiṣa 'fault, offence'. śīla 'character, disposition'. REVIEW: 'master' for svāmin/bhartṛ accepted here (courtier's relation, units 13 and 15); Hindi स्वामी unchanged.",
+  "why": "reviewer (minor): deviation svāmin = master accepted: the courtier's lord, not the prakṛti list"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "अथवा उसके निकट खींचे हुए मित्र के पास जाए।",
+  "new": "अथवा उसके मित्र के पास, जो निकट खींचा हुआ है, जाए।",
+  "why": "reviewer (minor): Hindi makes the friend 'drawn near him'; English and Sanskrit have asya as 'his' and upakṛṣṭa as a separate attribute"
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "upakṛṣṭa 'drawn near' (alternatives: drawn off, removed, distant); sense uncertain. asya 'his' is read as the master's (cf. unit 4); mitra 'friend' (not the glossary's ally of the prakṛti verses). Gender/case of mitram upakṛṣṭam: acc. sg. n. (mitra n. 'friend' or m.).",
+  "new": "upakṛṣṭa 'drawn near' (alternatives: drawn off, removed, distant); sense uncertain. asya 'his' is read as the master's (cf. unit 4); mitra 'friend' (not the glossary's ally of the prakṛti verses). Gender/case of mitram upakṛṣṭam: acc. sg. n. (mitra n. 'friend' or m.). REVIEW: 'friend' for mitra accepted (personal relation, not the prakṛti list). Doubtful: whether asya's friend is the master's or the courtier's, and the sense of upakṛṣṭa (drawn near / intimate / removed); literal rendering kept.",
+  "why": "reviewer (minor): deviation accepted: mitra = friend (personal relation, no prakṛti list); whose friend and what upakṛṣṭa means is doubtful"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "वहाँ रहकर मित्रों के द्वारा और स्वामी के पास दोष का निवारण कराए। फिर स्वामी के जीवित रहने पर अथवा मृत होने पर वह पुनः लौट आए।",
+  "new": "वहाँ रहकर मित्रों के द्वारा और स्वामी के पास दोष का निवारण करे। फिर स्वामी के जीवित रहने पर अथवा मृत होने पर वह पुनः लौट आए।",
+  "why": "reviewer (minor): ācaret is not causative; 'कराए' adds a sense"
+ }
+]

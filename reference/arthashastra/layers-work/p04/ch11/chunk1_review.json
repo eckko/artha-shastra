@@ -1,0 +1,568 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "śuddha-vadhaḥ",
+     "problem": "'pure killing' kept as gloss; settled 4.11 rendering is 'plain killing' (śuddha 'pure/plain' vs citra 'varied', unit 1).",
+     "fix": "plain killing (śuddha, literally 'pure')",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "śuddha-vadhaḥ",
+      "field": "gloss",
+      "value": "plain killing (śuddha, literally 'pure')"
+     }
+    },
+    {
+     "field": "english",
+     "where": "plain death-penalty (śuddha-vadha, literally 'pure killing')",
+     "problem": "'death-penalty' is an interpretation not in the Sanskrit; double rendering.",
+     "fix": "plain killing (śuddha-vadha)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "plain death-penalty (śuddha-vadha, literally 'pure killing')",
+      "new": "plain killing (śuddha-vadha)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "glossary",
+     "problem": "Record settled rendering.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "append_note",
+      "text": "Reviewer: śuddha-vadha settled as 'plain killing' (शुद्ध वध) in glossary 4.11 (units 2, 15, 26); 'plain' as opposed to citra ghāta 'varied killing' of unit 1 is the probable contrast, not asserted. Bare 'highest' and '[one] of five hundred' stay elliptical."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vadha of the hand",
+     "problem": "Glossary 4.10/4.12 fix hasta-vadha as 'destruction of the hand' (limb compounds).",
+     "fix": "Through intoxication, destruction of the hand; ...",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "vadha of the hand",
+      "new": "destruction of the hand"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हाथ का वध",
+     "problem": "Align with glossary 4.12 (हाथ का नाश).",
+     "fix": "हाथ का नाश",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हाथ का वध",
+      "new": "हाथ का नाश"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hasta-vadhaḥ",
+     "problem": "as above",
+     "fix": "destruction of the hand",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "hasta-vadhaḥ",
+      "field": "gloss",
+      "value": "destruction of the hand"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vadha",
+     "problem": "Record.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "Reviewer: hasta-vadha rendered 'destruction of the hand' as in glossary 4.10/4.12; the exact penalty (cutting off, crushing) is not stated. Whether vadha here means killing is not claimed. Glossary 4.10 gives the Hindi as X का वध, 4.12 as हाथ का नाश; a person should align."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the middle one",
+     "problem": "'one' is an unmarked addition; settled: bare 'the middle'.",
+     "fix": "by medicine, the middle;",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "by medicine, the middle one;",
+      "new": "by medicine, the middle;"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'names the grade nouns only at the end'",
+     "problem": "Inaccurate: the first grade is 'uttamo daṇḍaḥ' (punishment stated), the second 'madhyamaḥ' is elliptical, the third is 'pūrvaḥ sāhasa-daṇḍaḥ'.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "append_note",
+      "text": "Reviewer: correction to the note above: the noun daṇḍa is stated with the first grade (uttamo daṇḍaḥ) and the third (pūrvaḥ sāhasa-daṇḍaḥ); only 'madhyamaḥ' is bare. 'pūrva' = first (probably the lowest grade); not asserted."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अवस्कन्दक",
+     "problem": "English renders avaskandaka 'assaulters' (glossary 12.4 avaskanda = assault) but Hindi leaves it untranslated; inconsistent.",
+     "fix": "आक्रमणकारी",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अवस्कन्दक",
+      "new": "आक्रमणकारी"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "abhisāraka, nigrāhaka, avaghoṣaka, upavedhaka",
+     "problem": "Kept untranslated in both languages; glosses give only a derivational sense. stenān vā scope and the 'king's' scope are noted; no change.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "'same' is not the sense of the particle eva; 'tam eva' = 'that very'.",
+     "fix": "just (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "just (emphatic)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "putra-dāram",
+     "problem": "A collective dvandva (samāhāra) is neuter singular, not masculine; the form -dāram is neuter.",
+     "fix": "n. acc. sg., samāhāra dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "putra-dāram",
+      "field": "gram",
+      "value": "n. acc. sg., samāhāra dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śiro.hasta.pradīpikaṃ read as an agent noun",
+     "problem": "Structure suggests a manner: vā closes the list of offenders (cf. unit 19 'sandhic.chedikāṃ vā gobhiḥ pāṭayet', unit 7 'stenān vā śūlān ārohayeyuḥ'), so 'śiro-hasta-pradīpikam' is likely the neuter accusative of manner: 'should have [him] killed with head and hands set ablaze'. The agent-noun reading adds a further offender with no motive. Not certain; needs a person.",
+     "fix": "He should have killed, with head and hands set ablaze, one who desires ... or a provoker of fort, country and army.",
+     "severity": "error"
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Honest confidence is low given the above.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "pradīpika",
+     "problem": "Record the reviewer's doubt.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "append_note",
+      "text": "Reviewer doubt: because vā stands before śiro-hasta-pradīpikam (as before the manner words in units 7 and 19), the compound may be an adverbial accusative of manner ('with head and hands set ablaze') rather than one more offender; the translation keeps the draft's agent-noun reading unchanged; a person should decide (also unit 13)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one who sets skinless heads ablaze",
+     "problem": "Same doubt as unit 11, stronger here: 'a-tvak-śiraḥ' = 'with skinless head' (bahuvrīhi) fits a manner of execution better than an offender who burns skinless heads, which has no sense. Likely 'should have [him] killed with the head skinned and set ablaze'. Not certain; needs a person.",
+     "fix": "A killer of mother, father, son, brother, teacher or ascetic he should have killed, with skinless head set ablaze.",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "a-tvak-śiraḥ-prādīpika",
+     "problem": "Record the doubt.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "append_note",
+      "text": "Reviewer doubt: vā closes the list of offenders (ghātakaṃ vā), so 'a-tvak-śiraḥ-prādīpikam' is probably the manner of killing (head, skin removed, set ablaze); the draft's agent-noun reading is kept only because both readings are unproven; a person should decide together with unit 11."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उन्हीं अंगों",
+     "problem": "'उन्हीं' adds emphasis (ही) that the Sanskrit tad does not carry; English says 'those limbs'.",
+     "fix": "उन अंगों",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन्हीं अंगों",
+      "new": "उन अंगों"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tad-aṅgān",
+     "problem": "Labelled neuter acc. pl. but -ān is the masculine ending (neuter would be aṅgāni); the form is irregular (maybe a typo for tad-aṅgāt). Needs a text_flag, which a patch cannot add.",
+     "fix": "m. acc. pl. (aṅga is normally neuter, aṅgāni; irregular, see notes), karmadhāraya",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "tad-aṅgān",
+      "field": "gram",
+      "value": "m. acc. pl. (aṅga is normally neuter, aṅgāni; irregular, see notes), karmadhāraya"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "tad.aṅgān",
+     "problem": "Record.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "append_note",
+      "text": "Reviewer: besides the accusative where an ablative (tad-aṅgāt) is expected, the ending -ān is masculine although aṅga is normally neuter; text_flag suggested (not added by patch). abhiradana kept untranslated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "plain death-penalty (śuddha-vadha)",
+     "problem": "Settled rendering is 'plain killing'.",
+     "fix": "plain killing (śuddha-vadha)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "plain death-penalty (śuddha-vadha)",
+      "new": "plain killing (śuddha-vadha)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śuddha-vadhaḥ",
+     "problem": "as unit 2",
+     "fix": "plain killing (śuddha, literally 'pure')",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "śuddha-vadhaḥ",
+      "field": "gloss",
+      "value": "plain killing (śuddha, literally 'pure')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "anudakam; bhagna-utsṛṣṭakam",
+     "problem": "Labelled neuter nom., and the note says they qualify an understood setu; but setu is masculine and the neuter nominative form is identical to the masculine accusative, which agrees with 'setuṃ'. Reading as masculine accusative (agreeing with setum) is more regular; neuter nom. ('a case') also possible.",
+     "fix": "m. acc. sg. (agreeing with setum; neuter nom. also possible)",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "anudakam",
+      "field": "gram",
+      "value": "m. acc. sg. (agreeing with setum; neuter nom. also possible)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhagna-utsṛṣṭakam",
+     "problem": "as above",
+     "fix": "m. acc. sg., dvandva (agreeing with setum; neuter nom. also possible)",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "bhagna-utsṛṣṭakam",
+      "field": "gram",
+      "value": "m. acc. sg., dvandva (agreeing with setum; neuter nom. also possible)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'neuter and qualify an understood setu'",
+     "problem": "Wrong: setu is masculine.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "append_note",
+      "text": "Reviewer: correction: setu is masculine, so anudakam and bhagna-utsṛṣṭakam are read as masculine accusative singular agreeing with setum (the neuter-nominative form is identical). Translation unchanged. Settled: uttama and madhyama with no stated noun stay bare 'the highest' / 'the middle'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "viṣa-dāyakaṃ; garbhiṇīṃ māsa-avara-prajātām",
+     "problem": "Draft reading (viṣa-dāyaka the man, puruṣaghnī the woman; pregnant woman only after delivery a month before) is plausible; keep literal. No change.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "torn apart by cattle",
+     "problem": "'apart' is not in the Sanskrit (pāṭayet 'cause to tear').",
+     "fix": "he should have torn by cattle",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "he should have torn apart by cattle",
+      "new": "he should have torn by cattle"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "'same' is not the sense of eva.",
+     "fix": "just (emphatic)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "just (emphatic)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the testicles",
+     "problem": "English asserts a lexicon sense while Hindi keeps फल; make both keep the word and show the sense in brackets in English only.",
+     "fix": "the phala (testicles)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "the male organ and the testicles",
+      "new": "the male organ and the phala (testicles)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sandaṃśa-vadha",
+     "problem": "Not a limb compound, so vadha stays untranslated ('vadha by pincers'); record.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "append_note",
+      "text": "Reviewer: sandaṃśa-vadha kept as 'vadha by pincers' (संदंश-वध), not 'destruction', since pincers are the instrument and not a limb; the penalty (killing or mutilation) is not stated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "plain death-penalty",
+     "problem": "Settled rendering is 'plain killing'.",
+     "fix": "plain killing (śuddha-vadha) is remembered",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "plain death-penalty is remembered",
+      "new": "plain killing (śuddha-vadha) is remembered"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śuddha-vadhaḥ",
+     "problem": "as unit 2",
+     "fix": "plain killing (śuddha, literally 'pure')",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "śuddha-vadhaḥ",
+      "field": "gloss",
+      "value": "plain killing (śuddha, literally 'pure')"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "26 units checked. Patches: śuddha-vadha settled as 'plain killing' (units 2, 15, 26), bare 'the middle' (6), Hindi avaskandaka (7), eva glosses (8, 24), samāhāra dvandva gram (10), tad-aṅgān gram and Hindi emphasis (14), masculine-accusative gram (17), minor English trims (19, 24), notes appended (2, 6, 11, 13, 14, 17). Two errors without patch: units 11 and 13, pradīpika probably a manner of killing (head/hands set ablaze), not an offender. No unclosed quotes or closing-iti problems; no regrouping suggested."
+}

@@ -1,0 +1,258 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The conqueror, having known the strength and weakness of himself and of the enemy [in respect of] power, place, time, time of march, time of mustering troops, revolt in the rear, losses, expenses, gains and dangers, should march, being of superior strength; otherwise he should stay.",
+  "new": "The conqueror, having known the strength and weakness of himself and of the enemy [in respect of] power, place, time, time of march, time of mustering troops, revolt in the rear, losses, expenses, gains and adversities, should march, being of superior strength; otherwise he should stay.",
+  "why": "reviewer (minor): āpad is fixed in the glossary as adversity (8.1)"
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "kṣaya-vyaya-lābha-āpadām",
+  "old": "losses, expenses, gains, dangers",
+  "new": "losses, expenses, gains, adversities",
+  "why": "reviewer (minor): same: dangers -> adversities"
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "विजिगीषु अपने और शत्रु के बल और दुर्बलता को, शक्ति, देश, काल, यात्रा के काल, सेना जुटाने के काल, पीछे के विद्रोह, क्षय, व्यय, लाभ और आपदाओं के विषय में, जानकर अधिक बलशाली होकर चढ़ाई करे; अन्यथा बैठा रहे।",
+  "new": "विजिगीषु अपने और शत्रु के बल और दुर्बलता को, शक्ति, देश, काल, यात्रा के काल, सेना जुटाने के काल, पीछे के विद्रोह, क्षय, व्यय, लाभ और आपत्तियों के विषय में, जानकर अधिक बलशाली होकर चढ़ाई करे; अन्यथा बैठा रहे।",
+  "why": "reviewer (minor): glossary: āpad = आपत्ति"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "“परन्तु उत्साहहीन प्रभावशाली राजा पराक्रम से आक्रान्त होकर नष्ट हो जाता है,” ऐसा आचार्य कहते हैं।",
+  "new": "परन्तु उत्साहहीन प्रभावशाली राजा पराक्रम से आक्रान्त होकर नष्ट हो जाता है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): the quotation opened in unit 2; Hindi unit 5 wrongly reopens it (English does not)"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "प्रभावशाली राजा उत्साही राजा को प्रभाव से छल लेता है, उससे श्रेष्ठ किसी दूसरे राजा को बुलाकर, श्रेष्ठ वीर पुरुषों को भाड़े पर रखकर और खरीदकर।",
+  "new": "प्रभावशाली राजा उत्साही राजा को प्रभाव से छल लेता है, उससे श्रेष्ठ किसी दूसरे राजा को लाकर, श्रेष्ठ वीर पुरुषों को भाड़े पर रखकर और खरीदकर।",
+  "why": "reviewer (minor): English says brought (ā-√vah); Hindi बुलाकर = summoned, a stronger reading than the English"
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "atisandhatte",
+  "old": "3 sg. pres. ātm. ati-√dhā",
+  "new": "3 sg. pres. ātm. ati-sam-√dhā",
+  "why": "reviewer (minor): root is ati-sam-√dhā (as in unit 15)"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "The mighty — women, children, the lame and the blind — having conquered and bought those possessing energy, have conquered the earth.",
+  "new": "The mighty — women, children, the lame and the blind — having conquered and bought those possessing energy, conquered the earth.",
+  "why": "reviewer (minor): jigyuḥ is the perfect glossed \"conquered\"; notes also say \"conquered\"; Hindi is simple past"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "atisandhatte",
+  "old": "3 sg. pres. ātm. ati-√dhā",
+  "new": "3 sg. pres. ātm. ati-sam-√dhā",
+  "why": "reviewer (minor): root ati-sam-√dhā"
+ },
+ {
+  "n": "21",
+  "field": "word.w",
+  "word": "bhūmiḥ,",
+  "old": "bhūmiḥ,",
+  "new": "bhūmiḥ",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "21",
+  "field": "word.w",
+  "word": "parasya,",
+  "old": "parasya,",
+  "new": "parasya",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "21",
+  "field": "word.w",
+  "word": "deśaḥ,",
+  "old": "deśaḥ,",
+  "new": "deśaḥ",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "21",
+  "field": "word.w",
+  "word": "adhamaḥ,",
+  "old": "adhamaḥ,",
+  "new": "adhamaḥ",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "25",
+  "field": "word.w",
+  "word": "parasya,",
+  "old": "parasya,",
+  "new": "parasya",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "25",
+  "field": "word.w",
+  "word": "kālaḥ,",
+  "old": "kālaḥ,",
+  "new": "kālaḥ",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "25",
+  "field": "word.w",
+  "word": "adhamaḥ,",
+  "old": "adhamaḥ,",
+  "new": "adhamaḥ",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "29",
+  "field": "word.w",
+  "word": "vikarṣati,",
+  "old": "vikarṣati,",
+  "new": "vikarṣati",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "31",
+  "field": "word.w",
+  "word": "hanti,",
+  "old": "hanti,",
+  "new": "hanti",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "34",
+  "field": "word.w",
+  "word": "rakṣā",
+  "old": "rakṣā",
+  "new": "rakṣām",
+  "why": "reviewer (minor): the draft keeps the typo form in w; brief rule 6 says words carry the corrected form. rakṣām (acc.) is the object of vidhāya, as standard (rakṣāṃ vidhāya). Flag stays \"possible\"."
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "kośa-daṇḍam",
+  "old": "dvandva, m. acc. sg.",
+  "new": "dvandva (samāhāra), n. acc. sg.",
+  "why": "reviewer (minor): a singular -aṃ dvandva is a neuter samāhāra, not masculine"
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "kārya-sādhana-saham",
+  "old": "tat-puruṣa, m. acc. sg.",
+  "new": "tat-puruṣa, n. acc. sg.",
+  "why": "reviewer (minor): agrees with the neuter kośa-daṇḍam"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "उनसे बढ़ा हुआ, सेना का तीसरा या चौथा भाग मूल में, पिछले भाग में तथा सीमान्त और वनों में रक्षा का विधान करके, कार्य को सिद्ध करने में समर्थ कोश और सेना को लेकर, जिसका पुराना भोजन क्षीण हो गया है, जिसने नया भोजन ग्रहण नहीं किया है, जिसके दुर्गम मार्ग और मित्र असंस्कृत हैं, उसके वार्षिक सस्य और हैमन मुष्टि को नष्ट करने के लिए मार्गशीर्षी यात्रा करे।",
+  "new": "उनसे बढ़ा हुआ, सेना का तीसरा या चौथा भाग मूल में, पिछले भाग में तथा सीमान्त और वनों में रक्षा का विधान करके, कार्य को सिद्ध करने में समर्थ कोश और सेना को लेकर, जिसका पुराना भोजन क्षीण हो गया है, जिसने नया भोजन ग्रहण नहीं किया है, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वार्षिक सस्य और हैमन मुष्टि को नष्ट करने के लिए मार्गशीर्षी यात्रा करे।",
+  "why": "reviewer (error): in Hindi असंस्कृत means uncultured / not Sanskrit, not \"unprepared\" (the English meaning)"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "उनसे बढ़ा हुआ, सेना का तीसरा या चौथा भाग मूल में, पिछले भाग में तथा सीमान्त और वनों में रक्षा का विधान करके, कार्य को सिद्ध करने में समर्थ कोश और सेना को लेकर, जिसका पुराना भोजन क्षीण हो गया है, जिसने नया भोजन ग्रहण नहीं किया है, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वार्षिक सस्य और हैमन मुष्टि को नष्ट करने के लिए मार्गशीर्षी यात्रा करे।",
+  "new": "उनसे बढ़ा हुआ, सेना का तीसरा या चौथा भाग मूल में, पिछले भाग में तथा सीमान्त और वनों में रक्षा का विधान करके, कार्य को सिद्ध करने में समर्थ कोश और सेना को लेकर, जिसका पुराना भोजन क्षीण हो गया है, जिसने नया भोजन ग्रहण नहीं किया है, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वर्षाकालीन सस्य और हैमन मुष्टि को नष्ट करने के लिए मार्गशीर्षी यात्रा करे।",
+  "why": "reviewer (error): वार्षिक means annual; vārṣika = of the rainy season (English says rainy-season)"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "उनसे बढ़ा हुआ, सेना का तीसरा या चौथा भाग मूल में, पिछले भाग में तथा सीमान्त और वनों में रक्षा का विधान करके, कार्य को सिद्ध करने में समर्थ कोश और सेना को लेकर, जिसका पुराना भोजन क्षीण हो गया है, जिसने नया भोजन ग्रहण नहीं किया है, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वर्षाकालीन सस्य और हैमन मुष्टि को नष्ट करने के लिए मार्गशीर्षी यात्रा करे।",
+  "new": "उनसे बढ़ा हुआ, सेना का तीसरा या चौथा भाग मूल में, पिछले भाग में तथा सीमान्त और वनों में रक्षा का विधान करके, कार्य को सिद्ध करने में समर्थ कोश और सेना को लेकर, जिसका पुराना भोजन क्षीण हो गया है, जिसने नया भोजन ग्रहण नहीं किया है, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वर्षाकालीन सस्य और हेमन्तकालीन मुष्टि को नष्ट करने के लिए मार्गशीर्षी यात्रा करे।",
+  "why": "reviewer (minor): हैमन is not ordinary Hindi; haimana = of winter"
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "The three accusative adjectives (kṣīṇa-purāṇa-bhaktam etc.) have no noun; '[against an enemy]' is supplied from amitra in unit 44 (glossary: amitra = enemy). asaṃskṛta-durgama-mitra: asaṃskṛta = unprepared/unrepaired; durgama = hard to traverse (difficult passages/places); mitra = ally; the division of the compound and the sense of durgama are uncertain (alternative: 'unprepared forts and ... allies'); kept literal. muṣṭi (fist) is a technical term of obscure sense (literally a handful/fist); not interpreted. pratyanta-aṭavī: 'frontiers and forests' (aṭavī may also mean forest tribes). mārgaśīrṣī yātrā = the march of the month Mārgaśīrṣa. abhyuccita (abhi-ud-√ci) literally 'heaped up, augmented'. 'Augmented by them' = by power, place and time of unit 33.",
+  "new": "The three accusative adjectives (kṣīṇa-purāṇa-bhaktam etc.) have no noun; '[against an enemy]' is supplied from amitra in unit 44 (glossary: amitra = enemy). asaṃskṛta-durgama-mitra: asaṃskṛta = unprepared/unrepaired; durgama = hard to traverse (difficult passages/places); mitra = ally; the division of the compound and the sense of durgama are uncertain (alternative: 'unprepared forts and ... allies'); kept literal. muṣṭi (fist) is a technical term of obscure sense (literally a handful/fist); not interpreted. pratyanta-aṭavī: 'frontiers and forests' (aṭavī may also mean forest tribes). mārgaśīrṣī yātrā = the march of the month Mārgaśīrṣa. abhyuccita (abhi-ud-√ci) literally 'heaped up, augmented'. 'Augmented by them' = by power, place and time of unit 33. REVIEW: gender doubt: muṣṭi takes feminine vārṣikīṃ in unit 36, but haimanaṃ here and vāsantikaṃ in unit 35 are not feminine; possible haimanīṃ/vāsantikīṃ typo or masculine muṣṭi. Kept as printed. Hindi supplies no \"against an enemy\"; English brackets it.",
+  "why": "reviewer (minor): Gender: in unit 36 muṣṭi takes the feminine vārṣikīṃ, but here haimanaṃ (and in 35 vāsantikaṃ) have non-feminine endings. Possible haimanīṃ / vāsantikīṃ, or muṣṭi used as masculine. Left as printed; text_flag cannot be added by patch. Also hold the doubt on [against an enemy]: English brackets it correctly and Hindi adds nothing (checked)."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "उसके हैमन सस्य और वासन्तिक मुष्टि को नष्ट करने के लिए चैत्री यात्रा करे।",
+  "new": "उसके हेमन्तकालीन सस्य और वसन्तकालीन मुष्टि को नष्ट करने के लिए चैत्री यात्रा करे।",
+  "why": "reviewer (minor): non-standard Hindi; haimana = of winter, vāsantika = of spring"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "जिसकी घास, लकड़ी और जल क्षीण हो गए हैं, जिसके दुर्गम मार्ग और मित्र असंस्कृत हैं, उसके वासन्तिक सस्य और वार्षिक मुष्टि को नष्ट करने के लिए ज्येष्ठामूलीय यात्रा करे।",
+  "new": "जिसकी घास, लकड़ी और जल क्षीण हो गए हैं, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वासन्तिक सस्य और वार्षिक मुष्टि को नष्ट करने के लिए ज्येष्ठामूलीय यात्रा करे।",
+  "why": "reviewer (error): as unit 34"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "जिसकी घास, लकड़ी और जल क्षीण हो गए हैं, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वासन्तिक सस्य और वार्षिक मुष्टि को नष्ट करने के लिए ज्येष्ठामूलीय यात्रा करे।",
+  "new": "जिसकी घास, लकड़ी और जल क्षीण हो गए हैं, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वसन्तकालीन सस्य और वर्षाकालीन मुष्टि को नष्ट करने के लिए ज्येष्ठामूलीय यात्रा करे।",
+  "why": "reviewer (error): वार्षिक = annual; vārṣika = of the rainy season"
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "muṣṭim",
+  "old": "m. acc. sg.",
+  "new": "f. acc. sg.",
+  "why": "reviewer (minor): agrees with feminine vārṣikīm here"
+ },
+ {
+  "n": "37",
+  "field": "word.gram",
+  "word": "atyuṣṇam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): adjective of deśam (m.)"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "ग्रीष्म में पाले और बुरे मौसम वाले, प्रायः गहरे और निम्न, अथवा घने घास और वृक्षों वाले देश पर चढ़ाई करे।",
+  "new": "ग्रीष्म में पाले और बुरे मौसम वाले, प्रायः गहरे और निम्न, अथवा घनी घास और वृक्षों वाले देश पर चढ़ाई करे।",
+  "why": "reviewer (minor): घास is feminine"
+ },
+ {
+  "n": "40",
+  "field": "word.w",
+  "word": "yāyāt,",
+  "old": "yāyāt,",
+  "new": "yāyāt",
+  "why": "reviewer (minor): punctuation (comma) left inside the dictionary form w"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "मार्गशीर्षी और तैषी के बीच लम्बे काल की यात्रा करे, चैत्री और वैशाखी के बीच मध्यम काल की, ज्येष्ठामूलीय और आषाढ़ी के बीच छोटे काल की, और ठहरने वाला होकर व्यसन में चौथी।",
+  "new": "मार्गशीर्षी और तैषी के बीच लम्बे काल की यात्रा करे, चैत्री और वैशाखी के बीच मध्यम काल की, ज्येष्ठामूलीय और आषाढ़ी के बीच छोटे काल की, ठहरने वाला होकर व्यसन में चौथी।",
+  "why": "reviewer (error): Sanskrit has no ca before upoṣiṣyan; और is an unmarked addition"
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "upoṣiṣyan is the obscure word: future participle of upa-√vas, 'being about to stay (remain)'; 'being about to fast' is the other possible reading of the same form; the connection with vyasane caturthīm (the fourth march 'in a calamity') is not settled. vyasane = in a calamity (the enemy's calamity is not stated). 'Taiṣī' = of Taiṣa (name of a month, the sense Pauṣa not asserted). antareṇa with accusative = between; the marches named are the six month-marches of units 34-36 and the fourth added.",
+  "new": "upoṣiṣyan is the obscure word: future participle of upa-√vas, 'being about to stay (remain)'; 'being about to fast' is the other possible reading of the same form; the connection with vyasane caturthīm (the fourth march 'in a calamity') is not settled. vyasane = in a calamity (the enemy's calamity is not stated). 'Taiṣī' = of Taiṣa (name of a month, the sense Pauṣa not asserted). antareṇa with accusative = between; the marches named are the six month-marches of units 34-36 and the fourth added. REVIEW: correction: units 34-36 name three marches (Mārgaśīrṣī, Caitrī, Jyeṣṭhāmūlīya), not six; this unit adds Taiṣī, Vaiśākhī, Āṣāḍhī as the bounding months. Low confidence kept for upoṣiṣyan vyasane caturthīm.",
+  "why": "reviewer (minor): note says units 34-36 give six marches; they give three (Mārgaśīrṣī, Caitrī, Jyeṣṭhāmūlīya)"
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "अथवा जब चढ़ाई करके वह शत्रु को क्षीण करने या उखाड़ने में समर्थ हो सके, तब चढ़ाई करे।",
+  "new": "अथवा जब चढ़ाई करके वह शत्रु को क्षीण करने या उच्छेद करने में समर्थ हो सके, तब चढ़ाई करे।",
+  "why": "reviewer (minor): ud-√chid; English says cut off; उच्छेद करना is the exact verb"
+ }
+]

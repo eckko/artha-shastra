@@ -1,0 +1,289 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "abhyantara.anupajapanti -> anupajapanti",
+     "problem": "anu-upa-√jap is an invented sense; the parallel in unit 17 ('bāhyān upajapanti') and the pattern 'abhyantarān upajapanti' make the plain verb upa-√jap expected; the printed 'anu' looks like the tail of abhyantarān + u-",
+     "fix": "w = upajapanti (printed anupajapanti kept in src)",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "anupajapanti",
+      "field": "w",
+      "value": "upajapanti"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "anupajapanti",
+     "problem": "root analysis follows the corrected word",
+     "fix": "3 pl. pres. upa-√jap (printed anupajapanti; corrected, see text_flags)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "upajapanti",
+      "field": "gram",
+      "value": "3 pl. pres. upa-√jap (printed anupajapanti; corrected, see text_flags)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "note on anupajapanti",
+     "problem": "note treats anu as a real prefix of uncertain sense",
+     "fix": "append reviewer note",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "Reviewer: the word is read upajapanti (abhyantarān upajapanti), not anu-upa-√jap, by parallel with unit 17; the first text_flag's suggestion should read 'abhyantarān upajapanti'. The second flag is sound: tatra is an adverb, so 'tatra-ubhaya-yoge' (or 'tatra ubhaya-yoge') is expected."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mahataḥ",
+     "problem": "agrees with masculine prayatnasya, not neuter",
+     "fix": "m. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "mahataḥ",
+      "field": "gram",
+      "value": "m. gen. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "object of hanyuḥ",
+     "problem": "dūṣyān could be the object of hanyuḥ ('assassins having entered, should kill the treasonable') rather than the object of anupraviṣṭāḥ",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "append_note",
+      "text": "Reviewer: dūṣyān may instead be the object of hanyuḥ ('assassins who have entered should kill the treasonable with weapon and poison'); the construction is open and the literal rendering is kept."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "yoga u-",
+     "problem": "the note says 'yoga u-' can stand for yoge before a vowel; by regular sandhi yoge + u would give yogay u-, whereas yogaḥ + u gives 'yoga u-', so the nominative yogaḥ is at least as likely",
+     "fix": "append note; reading left as locative, doubt kept",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "append_note",
+      "text": "Reviewer: sandhi does not support the claim that 'yoga u-' stands for locative yoge (that would be yogay u-); 'yoga u-' fits yogaḥ + u. Reading as locative (by parallel with unit 4) is kept only as a literal guess; the nominative 'there is exclusive union (yogaḥ) of the instigator; success is superior' is equally possible. A person should decide; the text_flag stays open."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "you have been seized",
+     "problem": "vigṛhītāḥ has no stated subject; 'you' is an unmarked addition",
+     "fix": "[you] have been seized",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "you have been seized",
+      "new": "[you] have been seized"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तुम राजा द्वारा स्थान से पकड़े गए हो",
+     "problem": "the Hindi adds तुम and a second-person verb for a subject the Sanskrit does not state",
+     "fix": "राजा द्वारा स्थान से पकड़े गए हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम राजा द्वारा स्थान से पकड़े गए हो",
+      "new": "राजा द्वारा स्थान से पकड़े गए हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "upadhāsyati, vo",
+     "problem": "glossary 13.4 keeps the noun upadhā untranslated as obscure; 'put to the test' is a standard sense of the verb but unverified here; vaḥ could equally be genitive 'your king' as in units 13 and 21",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "append_note",
+      "text": "Reviewer: vo may be genitive ('your king will test [you]'), as in units 13 and 21, instead of the accusative read here; the sense 'test' of upadhā-verb is kept literal but unconfirmed (glossary 13.4 keeps the noun upadhā untranslated). The text_flag for the unclosed quote is sound: close it after ākhyātavyam, before iti."
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 1 (32 units): 1 error (unit 4, invented anu-upa-√jap; corrected to upajapanti), 6 minor (units 4, 8, 15, 17, 21 x2, 27 note-level), no regrouping suggested. Text flags: unit 4 first flag valid but suggestion should be 'abhyantarān upajapanti'; second valid; unit 17 flag kept open (nominative yogaḥ equally possible; the draft's sandhi argument is wrong); unit 27 quote flag valid. Glossary renderings sāntva, pratijāpa, cāra, dūta-daṇḍa settled. Low-confidence units 17, 21, 25, 27, 29 remain low/literal; 29 dāṇḍakarmika kept untranslated. Units 5, 13, 23, 26 checked, no change."
+}

@@ -1,0 +1,5219 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vijigīṣur",
+      "words": [
+       {
+        "w": "vijigīṣuḥ",
+        "gloss": "the conqueror",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ātmanaḥ",
+      "words": [
+       {
+        "w": "ātmanaḥ",
+        "gloss": "own",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the other",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bala.abalaṃ",
+      "words": [
+       {
+        "w": "bala-abalam",
+        "gloss": "strength and weakness",
+        "gram": "dvandva, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śakti.deśa.kāla.yātrā.kāla.bala.samuddāna.kāla.paścāt.kopa.-",
+      "words": [
+       {
+        "w": "śakti-deśa-kāla-yātrā-kāla-bala-samuddāna-kāla-paścāt-kopa",
+        "gloss": "power, place, time, time of march, time of mustering troops, revolt in the rear",
+        "gram": "dvandva, continues in next token"
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyaya.lābha.āpadāṃ",
+      "words": [
+       {
+        "w": "kṣaya-vyaya-lābha-āpadām",
+        "gloss": "losses, expenses, gains, adversities",
+        "gram": "dvandva, gen. pl. (ends the compound)"
+       }
+      ]
+     },
+     {
+      "src": "jñātvā",
+      "words": [
+       {
+        "w": "jñātvā",
+        "gloss": "having known",
+        "gram": "abs. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "viśiṣṭa.balo",
+      "words": [
+       {
+        "w": "viśiṣṭa-balaḥ",
+        "gloss": "of superior strength",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt,",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     },
+     {
+      "src": "anyathā-āsīta",
+      "words": [
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       },
+       {
+        "w": "āsīta",
+        "gloss": "should stay",
+        "gram": "3 sg. opt. √ās"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विजिगीषु अपने और शत्रु के बल और दुर्बलता को, शक्ति, देश, काल, यात्रा के काल, सेना जुटाने के काल, पीछे के विद्रोह, क्षय, व्यय, लाभ और आपत्तियों के विषय में, जानकर अधिक बलशाली होकर चढ़ाई करे; अन्यथा बैठा रहे।",
+  "english": "The conqueror, having known the strength and weakness of himself and of the enemy [in respect of] power, place, time, time of march, time of mustering troops, revolt in the rear, losses, expenses, gains and adversities, should march, being of superior strength; otherwise he should stay.",
+  "text_flags": [],
+  "notes": "The e-text breaks the long dvandva after 'kopa.-' with a space (line-break artefact); the two tokens are one compound ending in gen. pl. -āpadām, dependent on bala-abalam. '[in respect of]' is supplied (the genitive plural); Hindi 'के विषय में' likewise. viśiṣṭa-bala has no 'if' in the Sanskrit; the 'otherwise' clause implies the condition. samuddāna (mustering/levying of troops) is the least certain member; paścāt-kopa = revolt in the rear (kopa = revolt as in glossary 8.2). yātrā-kāla and bala-samuddāna-kāla could also be read as one phrase; split kept as printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.1"
+  ],
+  "lines_deva": [
+   "विजिगीषुर् आत्मनः परस्य च बल.अबलं शक्ति.देश.काल.यात्रा.काल.बल.समुद्दान.काल.पश्चात्.कोप.- क्षय.व्यय.लाभ.आपदां ज्ञात्वा विशिष्ट.बलो यायात्, अन्यथा-आसीत"
+  ],
+  "lines_iast": [
+   "vijigīṣur ātmanaḥ parasya ca bala.abalaṃ śakti.deśa.kāla.yātrā.kāla.bala.samuddāna.kāla.paścāt.kopa.- kṣaya.vyaya.lābha.āpadāṃ jñātvā viśiṣṭa.balo yāyāt, anyathā-āsīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"utsāha.prabhāvayor",
+      "words": [
+       {
+        "w": "utsāha-prabhāvayoḥ",
+        "gloss": "of energy and might",
+        "gram": "dvandva, gen. du."
+       }
+      ]
+     },
+     {
+      "src": "utsāhaḥ",
+      "words": [
+       {
+        "w": "utsāhaḥ",
+        "gloss": "energy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyān",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“उत्साह और प्रभाव में उत्साह श्रेष्ठ है",
+  "english": "“Of energy and might, energy is better",
+  "text_flags": [],
+  "notes": "The quotation opened here closes in unit 5 ('ity ācāryāḥ'). prabhāva is rendered 'might' (प्रभाव) to keep it apart from śakti = power (glossary); utsāha = energy. The genitive dual is the partitive 'of/among' the two.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.2"
+  ],
+  "lines_deva": [
+   "\"उत्साह.प्रभावयोर् उत्साहः श्रेयान्"
+  ],
+  "lines_iast": [
+   "\"utsāha.prabhāvayor utsāhaḥ śreyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svayaṃ",
+      "words": [
+       {
+        "w": "svayam",
+        "gloss": "himself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūro",
+      "words": [
+       {
+        "w": "śūraḥ",
+        "gloss": "brave",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavān",
+      "words": [
+       {
+        "w": "balavān",
+        "gloss": "strong",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "arogaḥ",
+      "words": [
+       {
+        "w": "arogaḥ",
+        "gloss": "healthy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.astro",
+      "words": [
+       {
+        "w": "kṛta-astraḥ",
+        "gloss": "trained in weapons",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.dvitīyo",
+      "words": [
+       {
+        "w": "daṇḍa-dvitīyaḥ",
+        "gloss": "having the army as second",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'pi",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaktaḥ",
+      "words": [
+       {
+        "w": "śaktaḥ",
+        "gloss": "able",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabhāvavantaṃ",
+      "words": [
+       {
+        "w": "prabhāvavantam",
+        "gloss": "possessing might",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājānaṃ",
+      "words": [
+       {
+        "w": "rājānam",
+        "gloss": "king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jetum",
+      "words": [
+       {
+        "w": "jetum",
+        "gloss": "to conquer",
+        "gram": "inf. √ji"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि स्वयं शूर, बलवान्, नीरोग, अस्त्रों में प्रशिक्षित राजा, जिसका दूसरा साथी सेना है वह भी, प्रभावशाली राजा को जीतने में समर्थ है।",
+  "english": "For a king who is himself brave, strong, healthy, trained in weapons, even with the army as his second, is able to conquer a king possessing might.",
+  "text_flags": [],
+  "notes": "daṇḍa = army (glossary). daṇḍa-dvitīya is literally 'having the army as second (companion)'; the Sanskrit has no 'only'. kṛta-astra literally 'one by whom weapons have been made/practised'; 'trained in weapons' is the usual sense.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.3"
+  ],
+  "lines_deva": [
+   "स्वयं हि राजा शूरो बलवान् अरोगः कृत.अस्त्रो दण्ड.द्वितीयो ऽपि शक्तः प्रभाववन्तं राजानं जेतुम्"
+  ],
+  "lines_iast": [
+   "svayaṃ hi rājā śūro balavān arogaḥ kṛta.astro daṇḍa.dvitīyo 'pi śaktaḥ prabhāvavantaṃ rājānaṃ jetum"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpo",
+      "words": [
+       {
+        "w": "alpaḥ",
+        "gloss": "small",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'pi",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍas",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "army",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tejasā",
+      "words": [
+       {
+        "w": "tejasā",
+        "gloss": "by vigour",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtya.karo",
+      "words": [
+       {
+        "w": "kṛtya-karaḥ",
+        "gloss": "accomplishing tasks",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसकी छोटी सेना भी तेज से कार्य करने वाली हो जाती है।",
+  "english": "And even a small army of his becomes one that accomplishes tasks through vigour.",
+  "text_flags": [],
+  "notes": "tejas = vigour, fiery spirit (kept distinct from utsāha = energy). kṛtya-kara literally 'doer of what is to be done'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.4"
+  ],
+  "lines_deva": [
+   "अल्पो ऽपि च-अस्य दण्डस् तेजसा कृत्य.करो भवति"
+  ],
+  "lines_iast": [
+   "alpo 'pi ca-asya daṇḍas tejasā kṛtya.karo bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirutsāhas",
+      "words": [
+       {
+        "w": "nirutsāhaḥ",
+        "gloss": "without energy",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prabhāvavān",
+      "words": [
+       {
+        "w": "prabhāvavān",
+        "gloss": "possessing might",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikrama.abhipanno",
+      "words": [
+       {
+        "w": "vikrama-abhipannaḥ",
+        "gloss": "assailed by valour",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naśyati\"",
+      "words": [
+       {
+        "w": "naśyati",
+        "gloss": "perishes",
+        "gram": "3 sg. pres. √naś"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परन्तु उत्साहहीन प्रभावशाली राजा पराक्रम से आक्रान्त होकर नष्ट हो जाता है,” ऐसा आचार्य कहते हैं।",
+  "english": "but a king possessing might who is without energy, assailed by valour, perishes,” say the teachers.",
+  "text_flags": [],
+  "notes": "Closes the quotation opened in unit 2 (two views of the teachers: energy better than might). vikrama-abhipanna: abhipanna (abhi-√pad) = approached, assailed; 'overtaken by valour' is an alternative. English begins lower-case because the quotation began in unit 2.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.5"
+  ],
+  "lines_deva": [
+   "निरुत्साहस् तु प्रभाववान् राजा विक्रम.अभिपन्नो नश्यति\" इत्य् आचार्याः"
+  ],
+  "lines_iast": [
+   "nirutsāhas tu prabhāvavān rājā vikrama.abhipanno naśyati\" ity ācāryāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closes the statement)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "name, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“No,” says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.6"
+  ],
+  "lines_deva": [
+   "न-इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "na-iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prabhāvavān",
+      "words": [
+       {
+        "w": "prabhāvavān",
+        "gloss": "possessing might",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "utsāhavantaṃ",
+      "words": [
+       {
+        "w": "utsāhavantam",
+        "gloss": "possessing energy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājānaṃ",
+      "words": [
+       {
+        "w": "rājānam",
+        "gloss": "king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabhāvena-atisandhatte",
+      "words": [
+       {
+        "w": "prabhāvena",
+        "gloss": "by might",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. ātm. ati-sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "tad.viśiṣṭam",
+      "words": [
+       {
+        "w": "tad-viśiṣṭam",
+        "gloss": "superior to him",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyaṃ",
+      "words": [
+       {
+        "w": "anyam",
+        "gloss": "another",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājānam",
+      "words": [
+       {
+        "w": "rājānam",
+        "gloss": "king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āvāhya",
+      "words": [
+       {
+        "w": "āvāhya",
+        "gloss": "having brought",
+        "gram": "abs. ā-√vah"
+       }
+      ]
+     },
+     {
+      "src": "bhṛtvā",
+      "words": [
+       {
+        "w": "bhṛtvā",
+        "gloss": "having hired",
+        "gram": "abs. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "krītvā",
+      "words": [
+       {
+        "w": "krītvā",
+        "gloss": "having bought",
+        "gram": "abs. √krī"
+       }
+      ]
+     },
+     {
+      "src": "pravīra.puruṣān",
+      "words": [
+       {
+        "w": "pravīra-puruṣān",
+        "gloss": "excellent heroic men",
+        "gram": "karmadhāraya, m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रभावशाली राजा उत्साही राजा को प्रभाव से छल लेता है, उससे श्रेष्ठ किसी दूसरे राजा को लाकर, श्रेष्ठ वीर पुरुषों को भाड़े पर रखकर और खरीदकर।",
+  "english": "A king possessing might outwits a king possessing energy by might, [by] having brought another king superior to him, [and by] having hired and bought excellent heroic men.",
+  "text_flags": [],
+  "notes": "atisandhā = outwit, overreach (as atisaṃhita in glossary 8.5). āvāhya (ā-√vah) literally 'having brought', possibly 'having invited/summoned'. bhṛtvā: 'having hired' (cf. bhṛta = hired, glossary); 'having maintained' is the alternative. '[by]' is supplied for the instrumental sense carried over from prabhāvena.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.7"
+  ],
+  "lines_deva": [
+   "प्रभाववान् उत्साहवन्तं राजानं प्रभावेन-अतिसन्धत्ते तद्.विशिष्टम् अन्यं राजानम् आवाह्य भृत्वा क्रीत्वा प्रवीर.पुरुषान्"
+  ],
+  "lines_iast": [
+   "prabhāvavān utsāhavantaṃ rājānaṃ prabhāvena-atisandhatte tad.viśiṣṭam anyaṃ rājānam āvāhya bhṛtvā krītvā pravīra.puruṣān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prabhūta.prabhāva.haya.hasti.ratha.upakaraṇa.sampannaś",
+      "words": [
+       {
+        "w": "prabhūta-prabhāva-haya-hasti-ratha-upakaraṇa-sampannaḥ",
+        "gloss": "endowed with abundant might, horses, elephants, chariots, equipment",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "army",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvatra-apratihataś",
+      "words": [
+       {
+        "w": "sarvatra",
+        "gloss": "everywhere",
+        "gram": "ind."
+       },
+       {
+        "w": "apratihataḥ",
+        "gloss": "unobstructed",
+        "gram": "ppp. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "moves",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसकी सेना, जो प्रचुर प्रभाव, घोड़ों, हाथियों, रथों और साज-सामान से सम्पन्न है, सब जगह बिना रुकावट के चलती है।",
+  "english": "And his army, endowed with abundant might, horses, elephants, chariots and equipment, moves everywhere unobstructed.",
+  "text_flags": [],
+  "notes": "The first compound can also be read 'abundant might of horses, elephants, chariots and equipment' (prabhūta modifying all members). Split kept as one word because the compound is a single bahuvrīhi ending in sampannaḥ; the printed 'sampannaś' carries the visarga before 'ca'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.8"
+  ],
+  "lines_deva": [
+   "प्रभूत.प्रभाव.हय.हस्ति.रथ.उपकरण.सम्पन्नश् च-अस्य दण्डः सर्वत्र-अप्रतिहतश् चरति"
+  ],
+  "lines_iast": [
+   "prabhūta.prabhāva.haya.hasti.ratha.upakaraṇa.sampannaś ca-asya daṇḍaḥ sarvatra-apratihataś carati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "utsāhavataś",
+      "words": [
+       {
+        "w": "utsāhavataḥ",
+        "gloss": "those possessing energy",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prabhāvavanto",
+      "words": [
+       {
+        "w": "prabhāvavantaḥ",
+        "gloss": "the mighty",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jitvā",
+      "words": [
+       {
+        "w": "jitvā",
+        "gloss": "having conquered",
+        "gram": "abs. √ji"
+       }
+      ]
+     },
+     {
+      "src": "krītvā",
+      "words": [
+       {
+        "w": "krītvā",
+        "gloss": "having bought",
+        "gram": "abs. √krī"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "striyo",
+      "words": [
+       {
+        "w": "striyaḥ",
+        "gloss": "women",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bālāḥ",
+      "words": [
+       {
+        "w": "bālāḥ",
+        "gloss": "children",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paṅgavo",
+      "words": [
+       {
+        "w": "paṅgavaḥ",
+        "gloss": "the lame",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'ndhāś",
+      "words": [
+       {
+        "w": "andhāḥ",
+        "gloss": "the blind",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛthivīṃ",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jigyur",
+      "words": [
+       {
+        "w": "jigyuḥ",
+        "gloss": "conquered",
+        "gram": "3 pl. pf. √ji"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the example)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रभावशाली स्त्रियों, बालकों, लंगड़ों और अन्धों ने उत्साही लोगों को जीतकर और खरीदकर पृथ्वी को जीत लिया।",
+  "english": "The mighty — women, children, the lame and the blind — having conquered and bought those possessing energy, conquered the earth.",
+  "text_flags": [],
+  "notes": "A bare closing 'iti' (here closing the cited example) is not rendered. The Sanskrit says 'jigyuḥ' (perfect, 'conquered'). 'The mighty' is nominative plural, taken with the four groups that follow.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.9"
+  ],
+  "lines_deva": [
+   "उत्साहवतश् च प्रभाववन्तो जित्वा क्रीत्वा च स्त्रियो बालाः पङ्गवो ऽन्धाश् च पृथिवीं जिग्युर् इति"
+  ],
+  "lines_iast": [
+   "utsāhavataś ca prabhāvavanto jitvā krītvā ca striyo bālāḥ paṅgavo 'ndhāś ca pṛthivīṃ jigyur iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"prabhāva.mantrayoḥ",
+      "words": [
+       {
+        "w": "prabhāva-mantrayoḥ",
+        "gloss": "of might and counsel",
+        "gram": "dvandva, gen. du."
+       }
+      ]
+     },
+     {
+      "src": "prabhāvaḥ",
+      "words": [
+       {
+        "w": "prabhāvaḥ",
+        "gloss": "might",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyān",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“प्रभाव और मन्त्र में प्रभाव श्रेष्ठ है",
+  "english": "“Of might and counsel, might is better",
+  "text_flags": [],
+  "notes": "Opens the second quotation, which closes in unit 12 ('ity ācāryāḥ').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.10"
+  ],
+  "lines_deva": [
+   "\"प्रभाव.मन्त्रयोः प्रभावः श्रेयान्"
+  ],
+  "lines_iast": [
+   "\"prabhāva.mantrayoḥ prabhāvaḥ śreyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mantra.śakti.sampanno",
+      "words": [
+       {
+        "w": "mantra-śakti-sampannaḥ",
+        "gloss": "endowed with power of counsel",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vandhya.buddhir",
+      "words": [
+       {
+        "w": "vandhya-buddhiḥ",
+        "gloss": "of barren intellect",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aprabhāvo",
+      "words": [
+       {
+        "w": "aprabhāvaḥ",
+        "gloss": "without might",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि मन्त्रशक्ति से सम्पन्न व्यक्ति बाँझ बुद्धि वाला और प्रभावहीन हो जाता है।",
+  "english": "For one endowed with the power of counsel becomes one of barren intellect [and] without might.",
+  "text_flags": [],
+  "notes": "Literal reading: the one endowed with power of counsel 'becomes barren of intellect, without might'. Alternative reading: 'one who is endowed with power of counsel but without might has a barren intellect' (aprabhāva qualifying the subject). The Sanskrit has no 'but'. vandhya-buddhi: vandhya = barren, childless; sense 'fruitless' left to the reader. Hindi 'व्यक्ति' is the bare subject 'one'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.11"
+  ],
+  "lines_deva": [
+   "मन्त्र.शक्ति.सम्पन्नो हि वन्ध्य.बुद्धिर् अप्रभावो भवति"
+  ],
+  "lines_iast": [
+   "mantra.śakti.sampanno hi vandhya.buddhir aprabhāvo bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mantra.karma",
+      "words": [
+       {
+        "w": "mantra-karma",
+        "gloss": "action of counsel",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "niścitam",
+      "words": [
+       {
+        "w": "niścitam",
+        "gloss": "decided",
+        "gram": "ppp. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aprabhāvo",
+      "words": [
+       {
+        "w": "aprabhāvaḥ",
+        "gloss": "one without might",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbha.dhānyam",
+      "words": [
+       {
+        "w": "garbha-dhānyam",
+        "gloss": "grain in the womb",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avṛṣṭir",
+      "words": [
+       {
+        "w": "avṛṣṭiḥ",
+        "gloss": "drought",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iva-upahanti\"",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "upahanti",
+        "gloss": "destroys",
+        "gram": "3 sg. pres. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इसके निश्चित मन्त्र-कर्म को प्रभावहीन व्यक्ति नष्ट कर देता है, जैसे अनावृष्टि गर्भ में स्थित धान्य को नष्ट कर देती है,” ऐसा आचार्य कहते हैं।",
+  "english": "and the one without might destroys his decided action of counsel, as drought [destroys] grain in the womb,” say the teachers.",
+  "text_flags": [],
+  "notes": "Closes the quotation opened in unit 10. garbha-dhānya is rendered literally ('grain in the womb'); the sense may be grain in the ear / unripe growing grain (alternative). 'asya' refers to the person endowed with power of counsel of unit 11. Alternative: mantra-karma could be read as the 'counsel and action'; kept as one tat-puruṣa. 'avṛṣṭi' = absence of rain (drought).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.12"
+  ],
+  "lines_deva": [
+   "मन्त्र.कर्म च-अस्य निश्चितम् अप्रभावो गर्भ.धान्यम् अवृष्टिर् इव-उपहन्ति\" इत्य् आचार्याः"
+  ],
+  "lines_iast": [
+   "mantra.karma ca-asya niścitam aprabhāvo garbha.dhānyam avṛṣṭir iva-upahanti\" ity ācāryāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closes the statement)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "name, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“No,” says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.13"
+  ],
+  "lines_deva": [
+   "न-इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "na-iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mantra.śaktiḥ",
+      "words": [
+       {
+        "w": "mantra-śaktiḥ",
+        "gloss": "power of counsel",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyasī",
+      "words": [
+       {
+        "w": "śreyasī",
+        "gloss": "better",
+        "gram": "f. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मन्त्रशक्ति श्रेष्ठ है।",
+  "english": "The power of counsel is better.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.14"
+  ],
+  "lines_deva": [
+   "मन्त्र.शक्तिः श्रेयसी"
+  ],
+  "lines_iast": [
+   "mantra.śaktiḥ śreyasī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prajñā.śāstra.cakṣur",
+      "words": [
+       {
+        "w": "prajñā-śāstra-cakṣuḥ",
+        "gloss": "having wisdom and the treatise as eyes",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā-alpena-api",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "alpena",
+        "gloss": "by little",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayatnena",
+      "words": [
+       {
+        "w": "prayatnena",
+        "gloss": "by effort",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantram",
+      "words": [
+       {
+        "w": "mantram",
+        "gloss": "counsel",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādhātuṃ",
+      "words": [
+       {
+        "w": "ādhātum",
+        "gloss": "to set up",
+        "gram": "inf. ā-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "śaktaḥ",
+      "words": [
+       {
+        "w": "śaktaḥ",
+        "gloss": "able",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parān",
+      "words": [
+       {
+        "w": "parān",
+        "gloss": "enemies",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "utsāha.prabhāvavataś",
+      "words": [
+       {
+        "w": "utsāha-prabhāvavataḥ",
+        "gloss": "possessing energy and might",
+        "gram": "bahuvrīhi, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāma.ādibhir",
+      "words": [
+       {
+        "w": "sāma-ādibhiḥ",
+        "gloss": "by conciliation and the rest",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "yoga.upaniṣadbhyāṃ",
+      "words": [
+       {
+        "w": "yoga-upaniṣadbhyām",
+        "gloss": "by contrivance and secret teaching",
+        "gram": "dvandva, f. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "ca-atisandhātum",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atisandhātum",
+        "gloss": "to outwit",
+        "gram": "inf. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि प्रज्ञा और शास्त्र ही जिसकी आँखें हैं ऐसा राजा थोड़े प्रयत्न से भी मन्त्र स्थापित करने में समर्थ है, और उत्साह तथा प्रभाव वाले शत्रुओं को साम आदि से तथा योग और उपनिषद् से छल लेने में।",
+  "english": "For a king who has wisdom and the treatise as eyes is able, even with little effort, to set up counsel, and to outwit enemies possessing energy and might by conciliation and the rest and by contrivance and secret teaching.",
+  "text_flags": [],
+  "notes": "Printed 'rājā-alpena-api' is rājā alpena api. ādhā with mantra: 'to set up/lay down counsel' (literal 'to place'); alternative 'to arrange, form'. yoga = secret contrivance (glossary 12.4); upaniṣad literally 'secret teaching/doctrine'; the covert means of Book 14 are an alternative sense, not imported. sāma-ādi = conciliation and the rest (glossary 8.5). The English adds nothing to 'is able' (śaktaḥ) beyond the copula; Hindi 'समर्थ है' likewise. 'prajñā-śāstra-cakṣus' could be a karmadhāraya 'eyes that are wisdom and the treatise'; bahuvrīhi chosen.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.15"
+  ],
+  "lines_deva": [
+   "प्रज्ञा.शास्त्र.चक्षुर् हि राजा-अल्पेन-अपि प्रयत्नेन मन्त्रम् आधातुं शक्तः परान् उत्साह.प्रभाववतश् च साम.आदिभिर् योग.उपनिषद्भ्यां च-अतिसन्धातुम्"
+  ],
+  "lines_iast": [
+   "prajñā.śāstra.cakṣur hi rājā-alpena-api prayatnena mantram ādhātuṃ śaktaḥ parān utsāha.prabhāvavataś ca sāma.ādibhir yoga.upaniṣadbhyāṃ ca-atisandhātum"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evam",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "utsāha.prabhāva.mantra.śaktīnām",
+      "words": [
+       {
+        "w": "utsāha-prabhāva-mantra-śaktīnām",
+        "gloss": "of the powers of energy, might and counsel",
+        "gram": "dvandva/tat-puruṣa, f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "uttara.uttara.adhiko",
+      "words": [
+       {
+        "w": "uttara-uttara-adhikaḥ",
+        "gloss": "greater in each successive one",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. ātm. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार उत्साह, प्रभाव और मन्त्र की शक्तियों में जो उत्तरोत्तर अधिक है, वह छल लेता है।",
+  "english": "Thus, of the powers of energy, might and counsel, the one greater in each successive [power] outwits [the other].",
+  "text_flags": [],
+  "notes": "The printed 'adhiko 'tisandhatte' = adhikaḥ atisandhatte. '[the other]' is the object supplied from units 7 and 15. The member śakti 'power' applies to all three (utsāha-śakti, prabhāva-śakti, mantra-śakti); see glossary 6.2.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.16"
+  ],
+  "lines_deva": [
+   "एवम् उत्साह.प्रभाव.मन्त्र.शक्तीनाम् उत्तर.उत्तर.अधिको ऽतिसन्धत्ते"
+  ],
+  "lines_iast": [
+   "evam utsāha.prabhāva.mantra.śaktīnām uttara.uttara.adhiko 'tisandhatte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "deśaḥ",
+      "words": [
+       {
+        "w": "deśaḥ",
+        "gloss": "place",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛthivī",
+      "words": [
+       {
+        "w": "pṛthivī",
+        "gloss": "earth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देश पृथ्वी है।",
+  "english": "The place is the earth.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.17"
+  ],
+  "lines_deva": [
+   "देशः पृथिवी"
+  ],
+  "lines_iast": [
+   "deśaḥ pṛthivī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāṃ",
+      "words": [
+       {
+        "w": "tasyām",
+        "gloss": "in it",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "himavat.samudra.antaram",
+      "words": [
+       {
+        "w": "himavat-samudra-antaram",
+        "gloss": "between the Himalaya and the sea",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "udīcīnaṃ",
+      "words": [
+       {
+        "w": "udīcīnam",
+        "gloss": "northward",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yojana.sahasra.parimāṇaṃ",
+      "words": [
+       {
+        "w": "yojana-sahasra-parimāṇam",
+        "gloss": "measuring a thousand yojanas",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiryak",
+      "words": [
+       {
+        "w": "tiryak",
+        "gloss": "across",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cakra.varti.kṣetram",
+      "words": [
+       {
+        "w": "cakra-varti-kṣetram",
+        "gloss": "field of the wheel-turner",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें हिमालय और समुद्र के बीच का, उत्तर की ओर का, आड़े में एक हज़ार योजन की माप वाला क्षेत्र चक्रवर्ती का क्षेत्र है।",
+  "english": "In it, the area between the Himalaya and the sea, northward, measuring a thousand yojanas across, is the field of the wheel-turner (cakravartin).",
+  "text_flags": [],
+  "notes": "Predicate is only the copula. 'cakra-varti' is the compound form of cakravartin (not a typo). udīcīna = northern/northward; tiryak = crosswise/transversely, i.e. the thousand yojanas are measured across, as the Sanskrit says. Himavat = the Himalaya.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.18"
+  ],
+  "lines_deva": [
+   "तस्यां हिमवत्.समुद्र.अन्तरम् उदीचीनं योजन.सहस्र.परिमाणं तिर्यक् चक्र.वर्ति.क्षेत्रम्"
+  ],
+  "lines_iast": [
+   "tasyāṃ himavat.samudra.antaram udīcīnaṃ yojana.sahasra.parimāṇaṃ tiryak cakra.varti.kṣetram"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra-araṇyo",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "araṇyaḥ",
+        "gloss": "forest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "grāmyaḥ",
+      "words": [
+       {
+        "w": "grāmyaḥ",
+        "gloss": "of the village",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parvata",
+      "words": [
+       {
+        "w": "parvataḥ",
+        "gloss": "mountain",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "audako",
+      "words": [
+       {
+        "w": "audakaḥ",
+        "gloss": "watery",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhaumaḥ",
+      "words": [
+       {
+        "w": "bhaumaḥ",
+        "gloss": "of the earth",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samo",
+      "words": [
+       {
+        "w": "samaḥ",
+        "gloss": "level",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣama",
+      "words": [
+       {
+        "w": "viṣamaḥ",
+        "gloss": "uneven",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣāḥ",
+      "words": [
+       {
+        "w": "viśeṣāḥ",
+        "gloss": "particular kinds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ वन, ग्राम, पर्वत, जल-युक्त, भूमि-सम्बन्धी, सम, विषम — विशेष भेद हैं।",
+  "english": "There: forest, village, mountain, watery, earthy, level, uneven — [these] are the particular kinds.",
+  "text_flags": [],
+  "notes": "The first token is 'tatra-araṇyaḥ' joined unsandhied in the e-text. grāmya (of the village) and bhauma (of the earth) are given literally; the pair audaka/bhauma probably contrasts a watery with a dry-land region (alternative; not imported). Hindi and English supply only the copula.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.19"
+  ],
+  "lines_deva": [
+   "तत्र-अरण्यो ग्राम्यः पर्वत औदको भौमः समो विषम इति विशेषाः"
+  ],
+  "lines_iast": [
+   "tatra-araṇyo grāmyaḥ parvata audako bhaumaḥ samo viṣama iti viśeṣāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "among them",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā.sva.bala.vṛddhi.karaṃ",
+      "words": [
+       {
+        "w": "yathā-sva-bala-vṛddhi-karam",
+        "gloss": "as brings increase of own strength",
+        "gram": "avyayībhāva/bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. ātm. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें, जैसा अपने बल की वृद्धि करने वाला हो, उस ढंग का कर्म प्रयोग में लाए।",
+  "english": "Among them he should employ action such as brings about the increase of his own strength.",
+  "text_flags": [],
+  "notes": "yathā-sva-bala-vṛddhi-kara: 'making increase of own strength, according as (it does)'; the compound with yathā is literal and the sentence is kept close to it. karma = action (glossary).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.20"
+  ],
+  "lines_deva": [
+   "तेषु यथा.स्व.बल.वृद्धि.करं कर्म प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "teṣu yathā.sva.bala.vṛddhi.karaṃ karma prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yatra.ātmanaḥ",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       },
+       {
+        "w": "ātmanaḥ",
+        "gloss": "own",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sainya.vyāyāmānāṃ",
+      "words": [
+       {
+        "w": "sainya-vyāyāmānām",
+        "gloss": "of the exertions of the army",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhūmiḥ,",
+      "words": [
+       {
+        "w": "bhūmiḥ",
+        "gloss": "ground",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhūmiḥ",
+      "words": [
+       {
+        "w": "abhūmiḥ",
+        "gloss": "unsuitable ground",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasya,",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uttamo",
+      "words": [
+       {
+        "w": "uttamaḥ",
+        "gloss": "best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśaḥ,",
+      "words": [
+       {
+        "w": "deśaḥ",
+        "gloss": "place",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparīto",
+      "words": [
+       {
+        "w": "viparītaḥ",
+        "gloss": "the opposite",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'dhamaḥ,",
+      "words": [
+       {
+        "w": "adhamaḥ",
+        "gloss": "worst",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhāraṇo",
+      "words": [
+       {
+        "w": "sādhāraṇaḥ",
+        "gloss": "common",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyamaḥ",
+      "words": [
+       {
+        "w": "madhyamaḥ",
+        "gloss": "middling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ अपनी सेना के व्यायाम के लिए भूमि हो और शत्रु के लिए अनुपयुक्त भूमि, वह उत्तम देश है; विपरीत अधम है; साधारण मध्यम है।",
+  "english": "Where there is ground for the exertions of one's own army and unsuitable ground for the enemy, that is the best place; the opposite, the worst; the common [to both], the middling.",
+  "text_flags": [],
+  "notes": "Tokens 'yatra.ātmanaḥ' is two words (no sandhi change). vyāyāma = exertion (in fighting), glossary 10.4; abhūmi = unsuitable ground (glossary 10.2). '[to both]' supplied for sādhāraṇa; 'common' alone is the literal gloss. Only copulas are supplied.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.21"
+  ],
+  "lines_deva": [
+   "यत्र.आत्मनः सैन्य.व्यायामानां भूमिः, अभूमिः परस्य, स उत्तमो देशः, विपरीतो ऽधमः, साधारणो मध्यमः"
+  ],
+  "lines_iast": [
+   "yatra.ātmanaḥ sainya.vyāyāmānāṃ bhūmiḥ, abhūmiḥ parasya, sa uttamo deśaḥ, viparīto 'dhamaḥ, sādhāraṇo madhyamaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kālaḥ",
+      "words": [
+       {
+        "w": "kālaḥ",
+        "gloss": "time",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīta.uṣṇa.varṣa.ātmā",
+      "words": [
+       {
+        "w": "śīta-uṣṇa-varṣa-ātmā",
+        "gloss": "whose nature is cold, heat and rain",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काल शीत, उष्ण और वर्षा स्वरूप वाला है।",
+  "english": "Time has cold, heat and rain as its nature.",
+  "text_flags": [],
+  "notes": "ātman here = nature/essence (not 'self'). Hindi 'स्वरूप वाला' = having as its form/nature.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.22"
+  ],
+  "lines_deva": [
+   "कालः शीत.उष्ण.वर्ष.आत्मा"
+  ],
+  "lines_iast": [
+   "kālaḥ śīta.uṣṇa.varṣa.ātmā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "its",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rātrir",
+      "words": [
+       {
+        "w": "rātriḥ",
+        "gloss": "night",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ahaḥ",
+      "words": [
+       {
+        "w": "ahaḥ",
+        "gloss": "day",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pakṣo",
+      "words": [
+       {
+        "w": "pakṣaḥ",
+        "gloss": "fortnight",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "māsa",
+      "words": [
+       {
+        "w": "māsaḥ",
+        "gloss": "month",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛtur",
+      "words": [
+       {
+        "w": "ṛtuḥ",
+        "gloss": "season",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ayanaṃ",
+      "words": [
+       {
+        "w": "ayanam",
+        "gloss": "half-year (ayana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃvatsaro",
+      "words": [
+       {
+        "w": "saṃvatsaraḥ",
+        "gloss": "year",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yugam",
+      "words": [
+       {
+        "w": "yugam",
+        "gloss": "yuga",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the list)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣāḥ",
+      "words": [
+       {
+        "w": "viśeṣāḥ",
+        "gloss": "particular kinds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके रात्रि, दिन, पक्ष, मास, ऋतु, अयन, संवत्सर और युग — विशेष भेद हैं।",
+  "english": "Its particular kinds are: night, day, fortnight, month, season, ayana (half-year), year, yuga.",
+  "text_flags": [],
+  "notes": "pakṣa = fortnight (half-month); ayana = the half-year course between solstices; yuga kept as the Sanskrit term (a cycle of years, not defined here).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.23"
+  ],
+  "lines_deva": [
+   "तस्य रात्रिर् अहः पक्षो मास ऋतुर् अयनं संवत्सरो युगम् इति विशेषाः"
+  ],
+  "lines_iast": [
+   "tasya rātrir ahaḥ pakṣo māsa ṛtur ayanaṃ saṃvatsaro yugam iti viśeṣāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "among them",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā.sva.bala.vṛddhi.karaṃ",
+      "words": [
+       {
+        "w": "yathā-sva-bala-vṛddhi-karam",
+        "gloss": "as brings increase of own strength",
+        "gram": "avyayībhāva/bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma.prayuñjīta",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. ātm. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें, जैसा अपने बल की वृद्धि करने वाला हो, उस ढंग का कर्म प्रयोग में लाए।",
+  "english": "Among them he should employ action such as brings about the increase of his own strength.",
+  "text_flags": [
+   {
+    "src": "karma.prayuñjīta",
+    "suggest": "karma prayuñjīta",
+    "why": "The e-text '.' marks compound members, but karma (object) and prayuñjīta (verb) are two words, as in unit 20 'karma prayuñjīta'; possible typo for a space."
+   }
+  ],
+  "notes": "Same sentence as unit 20.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.24"
+  ],
+  "lines_deva": [
+   "तेषु यथा.स्व.बल.वृद्धि.करं कर्म.प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "teṣu yathā.sva.bala.vṛddhi.karaṃ karma.prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yatra.ātmanaḥ",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       },
+       {
+        "w": "ātmanaḥ",
+        "gloss": "own",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sainya.vyāyāmānām",
+      "words": [
+       {
+        "w": "sainya-vyāyāmānām",
+        "gloss": "of the exertions of the army",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṛtuḥ",
+      "words": [
+       {
+        "w": "ṛtuḥ",
+        "gloss": "season",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anṛtuḥ",
+      "words": [
+       {
+        "w": "anṛtuḥ",
+        "gloss": "unsuitable season",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasya,",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uttamaḥ",
+      "words": [
+       {
+        "w": "uttamaḥ",
+        "gloss": "best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālaḥ,",
+      "words": [
+       {
+        "w": "kālaḥ",
+        "gloss": "time",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparīto",
+      "words": [
+       {
+        "w": "viparītaḥ",
+        "gloss": "the opposite",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'dhamaḥ,",
+      "words": [
+       {
+        "w": "adhamaḥ",
+        "gloss": "worst",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhāraṇo",
+      "words": [
+       {
+        "w": "sādhāraṇaḥ",
+        "gloss": "common",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyamaḥ",
+      "words": [
+       {
+        "w": "madhyamaḥ",
+        "gloss": "middling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ अपनी सेना के व्यायाम के लिए ऋतु हो और शत्रु के लिए अनुपयुक्त ऋतु, वह उत्तम काल है; विपरीत अधम है; साधारण मध्यम है।",
+  "english": "Where there is season for the exertions of one's own army and unsuitable season for the enemy, that is the best time; the opposite, the worst; the common [to both], the middling.",
+  "text_flags": [],
+  "notes": "As unit 21. The Sanskrit has ṛtu / an-ṛtu ('season / non-season'); 'unsuitable season' follows the glossary rendering of abhūmi as 'unsuitable ground'. Printed 'ṛtuḥ anṛtuḥ' is unsandhied in the e-text. '[to both]' supplied for sādhāraṇa.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.25"
+  ],
+  "lines_deva": [
+   "यत्र.आत्मनः सैन्य.व्यायामानाम् ऋतुः अनृतुः परस्य, स उत्तमः कालः, विपरीतो ऽधमः, साधारणो मध्यमः"
+  ],
+  "lines_iast": [
+   "yatra.ātmanaḥ sainya.vyāyāmānām ṛtuḥ anṛtuḥ parasya, sa uttamaḥ kālaḥ, viparīto 'dhamaḥ, sādhāraṇo madhyamaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"śakti.deśa.kālānāṃ",
+      "words": [
+       {
+        "w": "śakti-deśa-kālānām",
+        "gloss": "of power, place and time",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaktiḥ",
+      "words": [
+       {
+        "w": "śaktiḥ",
+        "gloss": "power",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyasī\"",
+      "words": [
+       {
+        "w": "śreyasī",
+        "gloss": "better",
+        "gram": "f. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“शक्ति, देश और काल में तो शक्ति श्रेष्ठ है,” ऐसा आचार्य कहते हैं।",
+  "english": "“Of power, place and time, however, power is better,” say the teachers.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.26"
+  ],
+  "lines_deva": [
+   "\"शक्ति.देश.कालानां तु शक्तिः श्रेयसी\" इत्य् आचार्याः"
+  ],
+  "lines_iast": [
+   "\"śakti.deśa.kālānāṃ tu śaktiḥ śreyasī\" ity ācāryāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaktimān",
+      "words": [
+       {
+        "w": "śaktimān",
+        "gloss": "one possessing power",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nimna.sthalavato",
+      "words": [
+       {
+        "w": "nimna-sthalavataḥ",
+        "gloss": "having low-lying and dry ground",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśasya",
+      "words": [
+       {
+        "w": "deśasya",
+        "gloss": "of a place",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śīta.uṣṇa.varṣavataś",
+      "words": [
+       {
+        "w": "śīta-uṣṇa-varṣavataḥ",
+        "gloss": "having cold, heat and rain",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kālasya",
+      "words": [
+       {
+        "w": "kālasya",
+        "gloss": "of a time",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaktaḥ",
+      "words": [
+       {
+        "w": "śaktaḥ",
+        "gloss": "able",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratīkāre",
+      "words": [
+       {
+        "w": "pratīkāre",
+        "gloss": "in remedying",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि शक्तिमान् निम्न और स्थल वाले देश तथा शीत, उष्ण और वर्षा वाले काल का प्रतिकार करने में समर्थ होता है।",
+  "english": "For one possessing power is able to remedy a place with low-lying and dry ground and a time with cold, heat and rain.",
+  "text_flags": [],
+  "notes": "pratīkāra = remedy (glossary 14.4/8.1). nimna-sthala: nimna = low ground, sthala = dry/raised ground, read as a dvandva inside the bahuvrīhi.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.27"
+  ],
+  "lines_deva": [
+   "शक्तिमान् हि निम्न.स्थलवतो देशस्य शीत.उष्ण.वर्षवतश् च कालस्य शक्तः प्रतीकारे भवति"
+  ],
+  "lines_iast": [
+   "śaktimān hi nimna.sthalavato deśasya śīta.uṣṇa.varṣavataś ca kālasya śaktaḥ pratīkāre bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"deśaḥ",
+      "words": [
+       {
+        "w": "deśaḥ",
+        "gloss": "place",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyān\"",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eke",
+      "words": [
+       {
+        "w": "eke",
+        "gloss": "some",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“देश श्रेष्ठ है,” ऐसा कुछ लोग कहते हैं।",
+  "english": "“Place is better,” say some.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.28"
+  ],
+  "lines_deva": [
+   "\"देशः श्रेयान्\" इत्य् एके"
+  ],
+  "lines_iast": [
+   "\"deśaḥ śreyān\" ity eke"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"sthala.gato",
+      "words": [
+       {
+        "w": "sthala-gataḥ",
+        "gloss": "gone to dry ground",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śvā",
+      "words": [
+       {
+        "w": "śvā",
+        "gloss": "dog",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nakraṃ",
+      "words": [
+       {
+        "w": "nakram",
+        "gloss": "crocodile",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikarṣati,",
+      "words": [
+       {
+        "w": "vikarṣati",
+        "gloss": "drags away",
+        "gram": "3 sg. pres. vi-√kṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "nimna.gato",
+      "words": [
+       {
+        "w": "nimna-gataḥ",
+        "gloss": "gone to low ground",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nakraḥ",
+      "words": [
+       {
+        "w": "nakraḥ",
+        "gloss": "crocodile",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvānam\"",
+      "words": [
+       {
+        "w": "śvānam",
+        "gloss": "dog",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“क्योंकि स्थल पर गया हुआ कुत्ता मगर को खींचता है, निम्न स्थान में गया हुआ मगर कुत्ते को।”",
+  "english": "“For a dog gone to dry ground drags away a crocodile, [and] a crocodile gone to low ground [drags away] a dog.”",
+  "text_flags": [],
+  "notes": "Example of the view in unit 28; the closing 'iti' is not rendered. nakra = crocodile (alligator, large water-reptile).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.29"
+  ],
+  "lines_deva": [
+   "\"स्थल.गतो हि श्वा नक्रं विकर्षति, निम्न.गतो नक्रः श्वानम्\" इति"
+  ],
+  "lines_iast": [
+   "\"sthala.gato hi śvā nakraṃ vikarṣati, nimna.gato nakraḥ śvānam\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"kālaḥ",
+      "words": [
+       {
+        "w": "kālaḥ",
+        "gloss": "time",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyān\"",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eke",
+      "words": [
+       {
+        "w": "eke",
+        "gloss": "some",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“काल श्रेष्ठ है,” ऐसा कुछ लोग कहते हैं।",
+  "english": "“Time is better,” say some.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.30"
+  ],
+  "lines_deva": [
+   "\"कालः श्रेयान्\" इत्य् एके"
+  ],
+  "lines_iast": [
+   "\"kālaḥ śreyān\" ity eke"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"divā",
+      "words": [
+       {
+        "w": "divā",
+        "gloss": "by day",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kākaḥ",
+      "words": [
+       {
+        "w": "kākaḥ",
+        "gloss": "crow",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kauśikaṃ",
+      "words": [
+       {
+        "w": "kauśikam",
+        "gloss": "owl",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hanti,",
+      "words": [
+       {
+        "w": "hanti",
+        "gloss": "kills",
+        "gram": "3 sg. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "rātrau",
+      "words": [
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kauśikaḥ",
+      "words": [
+       {
+        "w": "kauśikaḥ",
+        "gloss": "owl",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kākam\"",
+      "words": [
+       {
+        "w": "kākam",
+        "gloss": "crow",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“दिन में कौआ उल्लू को मारता है, रात में उल्लू कौए को।”",
+  "english": "“By day the crow kills the owl, at night the owl [kills] the crow.”",
+  "text_flags": [],
+  "notes": "Example of the view in unit 30; the closing 'iti' is not rendered.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.31"
+  ],
+  "lines_deva": [
+   "\"दिवा काकः कौशिकं हन्ति, रात्रौ कौशिकः काकम्\" इति"
+  ],
+  "lines_iast": [
+   "\"divā kākaḥ kauśikaṃ hanti, rātrau kauśikaḥ kākam\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "(closes the statement)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "name, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“No,” says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.32"
+  ],
+  "lines_deva": [
+   "न-इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "na-iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paraspara.sādhakā",
+      "words": [
+       {
+        "w": "paraspara-sādhakāḥ",
+        "gloss": "accomplishing one another",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śakti.deśa.kālāḥ",
+      "words": [
+       {
+        "w": "śakti-deśa-kālāḥ",
+        "gloss": "power, place and time",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि शक्ति, देश और काल एक-दूसरे के साधक हैं।",
+  "english": "For power, place and time are mutually accomplishing.",
+  "text_flags": [],
+  "notes": "sādhaka = accomplishing / effecting / promoting; 'mutually helpful' is the likely sense, not imported.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.33"
+  ],
+  "lines_deva": [
+   "परस्पर.साधका हि शक्ति.देश.कालाः"
+  ],
+  "lines_iast": [
+   "paraspara.sādhakā hi śakti.deśa.kālāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tair",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "by them",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhyuccitas",
+      "words": [
+       {
+        "w": "abhyuccitaḥ",
+        "gloss": "augmented",
+        "gram": "ppp. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛtīyaṃ",
+      "words": [
+       {
+        "w": "tṛtīyam",
+        "gloss": "third",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturthaṃ",
+      "words": [
+       {
+        "w": "caturtham",
+        "gloss": "fourth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍasya-aṃśaṃ",
+      "words": [
+       {
+        "w": "daṇḍasya",
+        "gloss": "of the army",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "aṃśam",
+        "gloss": "part",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūle",
+      "words": [
+       {
+        "w": "mūle",
+        "gloss": "at the base",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pārṣṇyāṃ",
+      "words": [
+       {
+        "w": "pārṣṇyām",
+        "gloss": "in the rear",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyanta.aṭavīṣu",
+      "words": [
+       {
+        "w": "pratyanta-aṭavīṣu",
+        "gloss": "in the frontiers and forests",
+        "gram": "dvandva, f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣā",
+      "words": [
+       {
+        "w": "rakṣām",
+        "gloss": "protection",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhāya",
+      "words": [
+       {
+        "w": "vidhāya",
+        "gloss": "having arranged",
+        "gram": "abs. vi-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "kārya.sādhana.sahaṃ",
+      "words": [
+       {
+        "w": "kārya-sādhana-saham",
+        "gloss": "able to accomplish the task",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kośa.daṇḍaṃ",
+      "words": [
+       {
+        "w": "kośa-daṇḍam",
+        "gloss": "treasury and army",
+        "gram": "dvandva (samāhāra), n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-ādāya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ādāya",
+        "gloss": "having taken",
+        "gram": "abs. ā-√dā"
+       }
+      ]
+     },
+     {
+      "src": "kṣīṇa.purāṇa.bhaktam",
+      "words": [
+       {
+        "w": "kṣīṇa-purāṇa-bhaktam",
+        "gloss": "whose old food is exhausted",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "agṛhīta.nava.bhaktam",
+      "words": [
+       {
+        "w": "agṛhīta-nava-bhaktam",
+        "gloss": "whose new food is not taken",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "asaṃskṛta.durgama.mitraṃ",
+      "words": [
+       {
+        "w": "asaṃskṛta-durgama-mitram",
+        "gloss": "whose difficult passages and allies are unprepared",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārṣikaṃ",
+      "words": [
+       {
+        "w": "vārṣikam",
+        "gloss": "of the rainy season",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sasyaṃ",
+      "words": [
+       {
+        "w": "sasyam",
+        "gloss": "crop",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "haimanaṃ",
+      "words": [
+       {
+        "w": "haimanam",
+        "gloss": "of winter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muṣṭim",
+      "words": [
+       {
+        "w": "muṣṭim",
+        "gloss": "fist",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upahantuṃ",
+      "words": [
+       {
+        "w": "upahantum",
+        "gloss": "to destroy",
+        "gram": "inf. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "mārgaśīrṣīṃ",
+      "words": [
+       {
+        "w": "mārgaśīrṣīm",
+        "gloss": "of Mārgaśīrṣa",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātrāṃ",
+      "words": [
+       {
+        "w": "yātrām",
+        "gloss": "march",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनसे बढ़ा हुआ, सेना का तीसरा या चौथा भाग मूल में, पिछले भाग में तथा सीमान्त और वनों में रक्षा का विधान करके, कार्य को सिद्ध करने में समर्थ कोश और सेना को लेकर, जिसका पुराना भोजन क्षीण हो गया है, जिसने नया भोजन ग्रहण नहीं किया है, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वर्षाकालीन सस्य और हेमन्तकालीन मुष्टि को नष्ट करने के लिए मार्गशीर्षी यात्रा करे।",
+  "english": "Augmented by them, having arranged protection with a third or a fourth part of the army at the base, in the rear, and in the frontiers and forests, and having taken the treasury and army that are able to accomplish the task, [against an enemy] whose old food is exhausted, whose new food is not taken, whose difficult passages and allies are unprepared, he should march the Mārgaśīrṣa march to destroy his rainy-season crop and the winter fist.",
+  "text_flags": [
+   {
+    "src": "rakṣā",
+    "suggest": "rakṣām",
+    "why": "vidhāya normally takes an accusative object; 'rakṣā' is nominative/instrumental. Possible typo, or rakṣā is a predicate/purpose word with aṃśam as object ('having appointed a part as protection')."
+   }
+  ],
+  "notes": "The three accusative adjectives (kṣīṇa-purāṇa-bhaktam etc.) have no noun; '[against an enemy]' is supplied from amitra in unit 44 (glossary: amitra = enemy). asaṃskṛta-durgama-mitra: asaṃskṛta = unprepared/unrepaired; durgama = hard to traverse (difficult passages/places); mitra = ally; the division of the compound and the sense of durgama are uncertain (alternative: 'unprepared forts and ... allies'); kept literal. muṣṭi (fist) is a technical term of obscure sense (literally a handful/fist); not interpreted. pratyanta-aṭavī: 'frontiers and forests' (aṭavī may also mean forest tribes). mārgaśīrṣī yātrā = the march of the month Mārgaśīrṣa. abhyuccita (abhi-ud-√ci) literally 'heaped up, augmented'. 'Augmented by them' = by power, place and time of unit 33. REVIEW: gender doubt: muṣṭi takes feminine vārṣikīṃ in unit 36, but haimanaṃ here and vāsantikaṃ in unit 35 are not feminine; possible haimanīṃ/vāsantikīṃ typo or masculine muṣṭi. Kept as printed. Hindi supplies no \"against an enemy\"; English brackets it.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.01.34"
+  ],
+  "lines_deva": [
+   "तैर् अभ्युच्चितस् तृतीयं चतुर्थं वा दण्डस्य-अंशं मूले पार्ष्ण्यां प्रत्यन्त.अटवीषु च रक्षा विधाय कार्य.साधन.सहं कोश.दण्डं च-आदाय क्षीण.पुराण.भक्तम् अगृहीत.नव.भक्तम् असंस्कृत.दुर्गम.मित्रं वार्षिकं च-अस्य सस्यं हैमनं च मुष्टिम् उपहन्तुं मार्गशीर्षीं यात्रां यायात्"
+  ],
+  "lines_iast": [
+   "tair abhyuccitas tṛtīyaṃ caturthaṃ vā daṇḍasya-aṃśaṃ mūle pārṣṇyāṃ pratyanta.aṭavīṣu ca rakṣā vidhāya kārya.sādhana.sahaṃ kośa.daṇḍaṃ ca-ādāya kṣīṇa.purāṇa.bhaktam agṛhīta.nava.bhaktam asaṃskṛta.durgama.mitraṃ vārṣikaṃ ca-asya sasyaṃ haimanaṃ ca muṣṭim upahantuṃ mārgaśīrṣīṃ yātrāṃ yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "haimānaṃ",
+      "words": [
+       {
+        "w": "haimanam",
+        "gloss": "of winter",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sasyaṃ",
+      "words": [
+       {
+        "w": "sasyam",
+        "gloss": "crop",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsantikaṃ",
+      "words": [
+       {
+        "w": "vāsantikam",
+        "gloss": "of spring",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muṣṭim",
+      "words": [
+       {
+        "w": "muṣṭim",
+        "gloss": "fist",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upahantuṃ",
+      "words": [
+       {
+        "w": "upahantum",
+        "gloss": "to destroy",
+        "gram": "inf. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "caitrīṃ",
+      "words": [
+       {
+        "w": "caitrīm",
+        "gloss": "of Caitra",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātrāṃ",
+      "words": [
+       {
+        "w": "yātrām",
+        "gloss": "march",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके हेमन्तकालीन सस्य और वसन्तकालीन मुष्टि को नष्ट करने के लिए चैत्री यात्रा करे।",
+  "english": "He should march the Caitra march to destroy his winter crop and the spring fist.",
+  "text_flags": [
+   {
+    "src": "haimānaṃ",
+    "suggest": "haimanaṃ",
+    "why": "Unit 34 has haimanaṃ; the long ā is possibly a typo (haimāna is not a standard form)."
+   }
+  ],
+  "notes": "Parallel to unit 34 and 36. The words 'ca-asya' are split as ca and asya. muṣṭi as in unit 34 (obscure).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.35"
+  ],
+  "lines_deva": [
+   "हैमानं च-अस्य सस्यं वासन्तिकं च मुष्टिम् उपहन्तुं चैत्रीं यात्रां यायात्"
+  ],
+  "lines_iast": [
+   "haimānaṃ ca-asya sasyaṃ vāsantikaṃ ca muṣṭim upahantuṃ caitrīṃ yātrāṃ yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣīṇa.kṛṇa.kāṣṭha.udakam",
+      "words": [
+       {
+        "w": "kṣīṇa-tṛṇa-kāṣṭha-udakam",
+        "gloss": "whose grass, wood and water are exhausted",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "asaṃskṛta.durgama.mitraṃ",
+      "words": [
+       {
+        "w": "asaṃskṛta-durgama-mitram",
+        "gloss": "whose difficult passages and allies are unprepared",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsantikaṃ",
+      "words": [
+       {
+        "w": "vāsantikam",
+        "gloss": "of spring",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sasyaṃ",
+      "words": [
+       {
+        "w": "sasyam",
+        "gloss": "crop",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārṣikīṃ",
+      "words": [
+       {
+        "w": "vārṣikīm",
+        "gloss": "of the rainy season",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muṣṭim",
+      "words": [
+       {
+        "w": "muṣṭim",
+        "gloss": "fist",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upahantuṃ",
+      "words": [
+       {
+        "w": "upahantum",
+        "gloss": "to destroy",
+        "gram": "inf. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "jyeṣṭhāmūlīyāṃ",
+      "words": [
+       {
+        "w": "jyeṣṭhāmūlīyām",
+        "gloss": "of Jyeṣṭhāmūla",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātrāṃ",
+      "words": [
+       {
+        "w": "yātrām",
+        "gloss": "march",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी घास, लकड़ी और जल क्षीण हो गए हैं, जिसके दुर्गम मार्ग और मित्र तैयार नहीं किए गए हैं, उसके वसन्तकालीन सस्य और वर्षाकालीन मुष्टि को नष्ट करने के लिए ज्येष्ठामूलीय यात्रा करे।",
+  "english": "[Against an enemy] whose grass, wood and water are exhausted, whose difficult passages and allies are unprepared, he should march the Jyeṣṭhāmūlīya march to destroy his spring crop and the rainy-season fist.",
+  "text_flags": [
+   {
+    "src": "kṛṇa",
+    "suggest": "tṛṇa",
+    "why": "kṛṇa is not a word; the sense (grass, wood, water) and the parallel in unit 38 (tṛṇa) point to tṛṇa 'grass'."
+   }
+  ],
+  "notes": "'[Against an enemy]' is supplied as in unit 34. jyeṣṭhāmūlīya: name of the march (derived from Jyeṣṭha-mūla, the month/time), kept as a name; the precise reference is not interpreted here. kāṣṭha-udaka read as 'wood and water' (fuel/water).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.36"
+  ],
+  "lines_deva": [
+   "क्षीण.कृण.काष्ठ.उदकम् असंस्कृत.दुर्गम.मित्रं वासन्तिकं च-अस्य सस्यं वार्षिकीं च मुष्टिम् उपहन्तुं ज्येष्ठामूलीयां यात्रां यायात्"
+  ],
+  "lines_iast": [
+   "kṣīṇa.kṛṇa.kāṣṭha.udakam asaṃskṛta.durgama.mitraṃ vāsantikaṃ ca-asya sasyaṃ vārṣikīṃ ca muṣṭim upahantuṃ jyeṣṭhāmūlīyāṃ yātrāṃ yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atyuṣṇam",
+      "words": [
+       {
+        "w": "atyuṣṇam",
+        "gloss": "very hot",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "alpa.yavasa.indhana.udakaṃ",
+      "words": [
+       {
+        "w": "alpa-yavasa-indhana-udakam",
+        "gloss": "with little fodder, fuel and water",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deśaṃ",
+      "words": [
+       {
+        "w": "deśam",
+        "gloss": "place",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hemante",
+      "words": [
+       {
+        "w": "hemante",
+        "gloss": "in winter",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हेमन्त में अत्यन्त उष्ण अथवा थोड़े चारे, ईंधन और जल वाले देश पर चढ़ाई करे।",
+  "english": "He should march in winter to a place that is very hot or has little fodder, fuel and water.",
+  "text_flags": [],
+  "notes": "hemanta = winter (early winter season); the Hindi keeps हेमन्त.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.37"
+  ],
+  "lines_deva": [
+   "अत्युष्णम् अल्प.यवस.इन्धन.उदकं वा देशं हेमन्ते यायात्"
+  ],
+  "lines_iast": [
+   "atyuṣṇam alpa.yavasa.indhana.udakaṃ vā deśaṃ hemante yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tuṣāra.durdinam",
+      "words": [
+       {
+        "w": "tuṣāra-durdinam",
+        "gloss": "with frost and bad weather",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "agādha.nimna.prāyaṃ",
+      "words": [
+       {
+        "w": "agādha-nimna-prāyam",
+        "gloss": "mostly deep and low-lying",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gahana.tṛṇa.vṛkṣaṃ",
+      "words": [
+       {
+        "w": "gahana-tṛṇa-vṛkṣam",
+        "gloss": "with dense grass and trees",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deśaṃ",
+      "words": [
+       {
+        "w": "deśam",
+        "gloss": "place",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "grīṣme",
+      "words": [
+       {
+        "w": "grīṣme",
+        "gloss": "in summer",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रीष्म में पाले और बुरे मौसम वाले, प्रायः गहरे और निम्न, अथवा घनी घास और वृक्षों वाले देश पर चढ़ाई करे।",
+  "english": "He should march in summer to a place with frost and bad weather, mostly deep and low-lying, or with dense grass and trees.",
+  "text_flags": [],
+  "notes": "tuṣāra = frost/cold mist; durdina literally 'bad day' (cloudy/stormy weather), rendered 'bad weather'. The 'or' (vā) is taken between the whole description and the last quality, as in unit 37; the division of the three adjectives is uncertain.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.38"
+  ],
+  "lines_deva": [
+   "तुषार.दुर्दिनम् अगाध.निम्न.प्रायं गहन.तृण.वृक्षं वा देशं ग्रीष्मे यायात्"
+  ],
+  "lines_iast": [
+   "tuṣāra.durdinam agādha.nimna.prāyaṃ gahana.tṛṇa.vṛkṣaṃ vā deśaṃ grīṣme yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sva.sainya.vyāyāma.yogyaṃ",
+      "words": [
+       {
+        "w": "sva-sainya-vyāyāma-yogyam",
+        "gloss": "suitable for the exertions of his own army",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasya-ayogyaṃ",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ayogyam",
+        "gloss": "unsuitable",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṣati",
+      "words": [
+       {
+        "w": "varṣati",
+        "gloss": "when it rains",
+        "gram": "pres. part. loc. sg. √vṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वर्षा होने पर अपनी सेना के व्यायाम के योग्य और शत्रु के अयोग्य देश पर चढ़ाई करे।",
+  "english": "When it rains he should march [to a place] suitable for the exertions of his own army and unsuitable for the enemy's.",
+  "text_flags": [],
+  "notes": "The Sanskrit has no noun for the destination; the Hindi supplies देश as the bare object (English brackets '[to a place]'). 'varṣati' = locative absolute 'when it rains'. vyāyāma = exertion as in unit 21.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.39"
+  ],
+  "lines_deva": [
+   "स्व.सैन्य.व्यायाम.योग्यं परस्य-अयोग्यं वर्षति यायात्"
+  ],
+  "lines_iast": [
+   "sva.sainya.vyāyāma.yogyaṃ parasya-ayogyaṃ varṣati yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mārgaśīrṣīṃ",
+      "words": [
+       {
+        "w": "mārgaśīrṣīm",
+        "gloss": "of Mārgaśīrṣa",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "taiṣīṃ",
+      "words": [
+       {
+        "w": "taiṣīm",
+        "gloss": "of Taiṣa",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-antareṇa",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antareṇa",
+        "gloss": "between",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dīrgha.kālāṃ",
+      "words": [
+       {
+        "w": "dīrgha-kālām",
+        "gloss": "of long duration",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātrāṃ",
+      "words": [
+       {
+        "w": "yātrām",
+        "gloss": "march",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt,",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     },
+     {
+      "src": "caitrīṃ",
+      "words": [
+       {
+        "w": "caitrīm",
+        "gloss": "of Caitra",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaiśākhīṃ",
+      "words": [
+       {
+        "w": "vaiśākhīm",
+        "gloss": "of Vaiśākha",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-antareṇa",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antareṇa",
+        "gloss": "between",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madhyama.kālām,",
+      "words": [
+       {
+        "w": "madhyama-kālām",
+        "gloss": "of middling duration",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyeṣṭhāmūlīyām",
+      "words": [
+       {
+        "w": "jyeṣṭhāmūlīyām",
+        "gloss": "of Jyeṣṭhāmūla",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āṣāḍhīṃ",
+      "words": [
+       {
+        "w": "āṣāḍhīm",
+        "gloss": "of Āṣāḍha",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-antareṇa",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antareṇa",
+        "gloss": "between",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hrasva.kālām,",
+      "words": [
+       {
+        "w": "hrasva-kālām",
+        "gloss": "of short duration",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upoṣiṣyan",
+      "words": [
+       {
+        "w": "upoṣiṣyan",
+        "gloss": "being about to stay",
+        "gram": "fut. part. upa-√vas"
+       }
+      ]
+     },
+     {
+      "src": "vyasane",
+      "words": [
+       {
+        "w": "vyasane",
+        "gloss": "in calamity",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturthīm",
+      "words": [
+       {
+        "w": "caturthīm",
+        "gloss": "the fourth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मार्गशीर्षी और तैषी के बीच लम्बे काल की यात्रा करे, चैत्री और वैशाखी के बीच मध्यम काल की, ज्येष्ठामूलीय और आषाढ़ी के बीच छोटे काल की, ठहरने वाला होकर व्यसन में चौथी।",
+  "english": "He should make a march of long duration between the Mārgaśīrṣī and the Taiṣī [marches]; of middling duration between the Caitrī and the Vaiśākhī; of short duration between the Jyeṣṭhāmūlīya and the Āṣāḍhī; [and] the fourth, being about to stay, in a calamity.",
+  "text_flags": [],
+  "notes": "upoṣiṣyan is the obscure word: future participle of upa-√vas, 'being about to stay (remain)'; 'being about to fast' is the other possible reading of the same form; the connection with vyasane caturthīm (the fourth march 'in a calamity') is not settled. vyasane = in a calamity (the enemy's calamity is not stated). 'Taiṣī' = of Taiṣa (name of a month, the sense Pauṣa not asserted). antareṇa with accusative = between; the marches named are the six month-marches of units 34-36 and the fourth added. REVIEW: correction: units 34-36 name three marches (Mārgaśīrṣī, Caitrī, Jyeṣṭhāmūlīya), not six; this unit adds Taiṣī, Vaiśākhī, Āṣāḍhī as the bounding months. Low confidence kept for upoṣiṣyan vyasane caturthīm.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "09.01.40"
+  ],
+  "lines_deva": [
+   "मार्गशीर्षीं तैषीं च-अन्तरेण दीर्घ.कालां यात्रां यायात्, चैत्रीं वैशाखीं च-अन्तरेण मध्यम.कालाम्, ज्येष्ठामूलीयाम् आषाढीं च-अन्तरेण ह्रस्व.कालाम्, उपोषिष्यन् व्यसने चतुर्थीम्"
+  ],
+  "lines_iast": [
+   "mārgaśīrṣīṃ taiṣīṃ ca-antareṇa dīrgha.kālāṃ yātrāṃ yāyāt, caitrīṃ vaiśākhīṃ ca-antareṇa madhyama.kālām, jyeṣṭhāmūlīyām āṣāḍhīṃ ca-antareṇa hrasva.kālām, upoṣiṣyan vyasane caturthīm"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyasana.abhiyānaṃ",
+      "words": [
+       {
+        "w": "vyasana-abhiyānam",
+        "gloss": "march against a calamity",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhya.yāne",
+      "words": [
+       {
+        "w": "vigṛhya-yāne",
+        "gloss": "in the march after making war",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātam",
+      "words": [
+       {
+        "w": "vyākhyātam",
+        "gloss": "has been explained",
+        "gram": "ppp. n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्यसन में अभियान की व्याख्या विगृह्य-यान में की जा चुकी है।",
+  "english": "The march against a calamity has been explained in the march after making war.",
+  "text_flags": [],
+  "notes": "vigṛhya-yāna (march after making war) is a technical term, kept literal; it likely refers to an earlier section of the work (not imported). vyasana-abhiyāna: 'march/attack against a calamity', presumably the enemy's calamity (unstated).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.41"
+  ],
+  "lines_deva": [
+   "व्यसन.अभियानं विगृह्य.याने व्याख्यातम्"
+  ],
+  "lines_iast": [
+   "vyasana.abhiyānaṃ vigṛhya.yāne vyākhyātam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāyaśaś",
+      "words": [
+       {
+        "w": "prāyaśaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca-ācāryāḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "\"para.vyasane",
+      "words": [
+       {
+        "w": "para-vyasane",
+        "gloss": "in the enemy's calamity",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātavyam\"",
+      "words": [
+       {
+        "w": "yātavyam",
+        "gloss": "it is to be marched",
+        "gram": "gerundive n. nom. sg. √yā"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "upadiśanti",
+      "words": [
+       {
+        "w": "upadiśanti",
+        "gloss": "teach",
+        "gram": "3 pl. pres. upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और आचार्य प्रायः “शत्रु के व्यसन में चढ़ाई करनी चाहिए” ऐसा उपदेश देते हैं।",
+  "english": "And the teachers mostly teach: “One should march in the enemy's calamity.”",
+  "text_flags": [],
+  "notes": "'iti' marks the quotation and is rendered by the quotation marks and the colon before it (not 'thus'). para = the other, enemy. yātavyam is the impersonal gerundive 'it is to be marched'. Printed 'prāyaśaś ca-ācāryāḥ' = prāyaśaḥ ca ācāryāḥ.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.42"
+  ],
+  "lines_deva": [
+   "प्रायशश् च-आचार्याः \"पर.व्यसने यातव्यम्\" इत्य् उपदिशन्ति"
+  ],
+  "lines_iast": [
+   "prāyaśaś ca-ācāryāḥ \"para.vyasane yātavyam\" ity upadiśanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śakty.udaye",
+      "words": [
+       {
+        "w": "śakti-udaye",
+        "gloss": "at the rise of power",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātavyam",
+      "words": [
+       {
+        "w": "yātavyam",
+        "gloss": "it is to be marched",
+        "gram": "gerundive n. nom. sg. √yā"
+       }
+      ]
+     },
+     {
+      "src": "anaikānntikatvād",
+      "words": [
+       {
+        "w": "anaikāntikatvāt",
+        "gloss": "because of uncertainty",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyasanānām",
+      "words": [
+       {
+        "w": "vyasanānām",
+        "gloss": "of calamities",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the statement)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "name, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“शक्ति के उदय होने पर चढ़ाई करनी चाहिए, व्यसनों की अनिश्चितता के कारण,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“One should march at the rise of [one's] power, because of the uncertainty of calamities,” says Kautilya.",
+  "text_flags": [
+   {
+    "src": "anaikānntikatvād",
+    "suggest": "anaikāntikatvād",
+    "why": "Doubled n (nn) before t is not possible; the word is anaikāntika-tva 'uncertainty', so a typo."
+   }
+  ],
+  "notes": "anaikāntika = not certain (inconstant); here the uncertainty of calamities (so waiting for the enemy's calamity is not dependable). 'one's' is bracketed as supplied. The glossary formula '... iti X' is followed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.43"
+  ],
+  "lines_deva": [
+   "शक्त्य्.उदये यातव्यम् अनैकान्न्तिकत्वाद् व्यसनानाम् इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "śakty.udaye yātavyam anaikānntikatvād vyasanānām iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayātaḥ",
+      "words": [
+       {
+        "w": "prayātaḥ",
+        "gloss": "having set out",
+        "gram": "ppp. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karśayitum",
+      "words": [
+       {
+        "w": "karśayitum",
+        "gloss": "to weaken",
+        "gram": "inf. caus. √kṛś"
+       }
+      ]
+     },
+     {
+      "src": "ucchetuṃ",
+      "words": [
+       {
+        "w": "ucchetum",
+        "gloss": "to cut off",
+        "gram": "inf. ud-√chid"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaknuyād",
+      "words": [
+       {
+        "w": "śaknuyāt",
+        "gloss": "could be able",
+        "gram": "3 sg. opt. √śak"
+       }
+      ]
+     },
+     {
+      "src": "amitraṃ",
+      "words": [
+       {
+        "w": "amitram",
+        "gloss": "enemy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा जब चढ़ाई करके वह शत्रु को क्षीण करने या उच्छेद करने में समर्थ हो सके, तब चढ़ाई करे।",
+  "english": "Or when, having set out, he could weaken or cut off the enemy, then he should march.",
+  "text_flags": [],
+  "notes": "karśayitum = to weaken (karśana = weakening, glossary 13.4); ucchetum (ud-√chid) = to cut off / uproot, 'destroy' is a possible alternative.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.44"
+  ],
+  "lines_deva": [
+   "यदा वा प्रयातः कर्शयितुम् उच्छेतुं वा शक्नुयाद् अमित्रं तदा यायात्"
+  ],
+  "lines_iast": [
+   "yadā vā prayātaḥ karśayitum ucchetuṃ vā śaknuyād amitraṃ tadā yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atyuṣṇa.upakṣīṇe",
+      "words": [
+       {
+        "w": "atyuṣṇa-upakṣīṇe",
+        "gloss": "worn out by great heat",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "in the time",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hasti.bala.prāyo",
+      "words": [
+       {
+        "w": "hasti-bala-prāyaḥ",
+        "gloss": "having mostly elephant force",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अत्यन्त गर्मी से क्षीण हुए काल में हाथियों की सेना की प्रधानता वाला होकर चढ़ाई करे।",
+  "english": "In a time worn out by excessive heat he should march with a force mostly of elephants.",
+  "text_flags": [],
+  "notes": "atyuṣṇa-upakṣīṇa: 'worn out/depleted by excessive heat' (tat-puruṣa); alternative 'very hot and depleted'. prāya = mostly consisting of.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.45"
+  ],
+  "lines_deva": [
+   "अत्युष्ण.उपक्षीणे काले हस्ति.बल.प्रायो यायात्"
+  ],
+  "lines_iast": [
+   "atyuṣṇa.upakṣīṇe kāle hasti.bala.prāyo yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hastino",
+      "words": [
+       {
+        "w": "hastinaḥ",
+        "gloss": "elephants",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hy",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "antaḥ.svedāḥ",
+      "words": [
+       {
+        "w": "antaḥ-svedāḥ",
+        "gloss": "having inner sweat",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭhino",
+      "words": [
+       {
+        "w": "kuṣṭhinaḥ",
+        "gloss": "having kuṣṭha (skin disease)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhavanti",
+      "words": [
+       {
+        "w": "bhavanti",
+        "gloss": "become",
+        "gram": "3 pl. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि हाथी भीतर पसीने वाले होकर कुष्ठी हो जाते हैं।",
+  "english": "For elephants, having sweat within, become afflicted with kuṣṭha (a skin disease).",
+  "text_flags": [],
+  "notes": "kuṣṭhin = one having kuṣṭha; kept as the technical word with a plain literal gloss, no modern diagnosis.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.46"
+  ],
+  "lines_deva": [
+   "हस्तिनो ह्य् अन्तः.स्वेदाः कुष्ठिनो भवन्ति"
+  ],
+  "lines_iast": [
+   "hastino hy antaḥ.svedāḥ kuṣṭhino bhavanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anavagāhamānās",
+      "words": [
+       {
+        "w": "anavagāhamānāḥ",
+        "gloss": "not bathing",
+        "gram": "neg. pres. part. m. nom. pl. ava-√gāh"
+       }
+      ]
+     },
+     {
+      "src": "toyam",
+      "words": [
+       {
+        "w": "toyam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "apibantaś",
+      "words": [
+       {
+        "w": "a-pibantaḥ",
+        "gloss": "not drinking",
+        "gram": "neg. pres. part. m. nom. pl. √pā"
+       }
+      ]
+     },
+     {
+      "src": "ca-antar.avakṣārāc",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antaḥ-avakṣārāt",
+        "gloss": "from the inner avakṣāra",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-andhī.bhavanti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "andhī-bhavanti",
+        "gloss": "become blind",
+        "gram": "3 pl. pres. √bhū (cvi)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नान न करते हुए, जल न पीते हुए, और भीतरी अवक्षार से वे अन्धे हो जाते हैं।",
+  "english": "Not bathing, not drinking water, and from the inner avakṣāra, they become blind.",
+  "text_flags": [],
+  "notes": "avakṣāra is obscure (possibly from ava-√kṣar 'trickling down' or kṣāra 'alkali'); kept untranslated. 'apibantaḥ' is read as a-pibantaḥ 'not drinking' (parallel to anavagāhamānāḥ). The printed 'avakṣārāc' is avakṣārāt before ca. The subject (elephants of unit 46) is not repeated in the Sanskrit; Hindi 'वे' stands for it.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.47"
+  ],
+  "lines_deva": [
+   "अनवगाहमानास् तोयम् अपिबन्तश् च-अन्तर्.अवक्षाराच् च-अन्धी.भवन्ति"
+  ],
+  "lines_iast": [
+   "anavagāhamānās toyam apibantaś ca-antar.avakṣārāc ca-andhī.bhavanti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāt",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prabhūta.udake",
+      "words": [
+       {
+        "w": "prabhūta-udake",
+        "gloss": "abounding in water",
+        "gram": "bahuvrīhi, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśe",
+      "words": [
+       {
+        "w": "deśe",
+        "gloss": "in a place",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṣati",
+      "words": [
+       {
+        "w": "varṣati",
+        "gloss": "when it rains",
+        "gram": "pres. part. loc. sg. √vṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hasti.bala.prāyo",
+      "words": [
+       {
+        "w": "hasti-bala-prāyaḥ",
+        "gloss": "having mostly elephant force",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए प्रचुर जल वाले देश में और वर्षा होने पर हाथियों की सेना की प्रधानता वाला होकर चढ़ाई करे।",
+  "english": "Therefore he should march with a force mostly of elephants in a place abounding in water, and when it rains.",
+  "text_flags": [],
+  "notes": "'deśe' is a locative; yāyāt used with a locative of the region here; 'march in' is the literal rendering.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.48"
+  ],
+  "lines_deva": [
+   "तस्मात् प्रभूत.उदके देशे वर्षति च हस्ति.बल.प्रायो यायात्"
+  ],
+  "lines_iast": [
+   "tasmāt prabhūta.udake deśe varṣati ca hasti.bala.prāyo yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparyaye",
+      "words": [
+       {
+        "w": "viparyaye",
+        "gloss": "in the opposite case",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "khara.uṣṭra.aśva.bala.prāyo",
+      "words": [
+       {
+        "w": "khara-uṣṭra-aśva-bala-prāyaḥ",
+        "gloss": "having mostly force of donkeys, camels, horses",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśam",
+      "words": [
+       {
+        "w": "deśam",
+        "gloss": "place",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "alpa.varṣa.paṅkam",
+      "words": [
+       {
+        "w": "alpa-varṣa-paṅkam",
+        "gloss": "with little rain and mud",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विपरीत स्थिति में गधों, ऊँटों और घोड़ों की सेना की प्रधानता वाला होकर कम वर्षा और कीचड़ वाले देश पर चढ़ाई करे।",
+  "english": "In the opposite case [he should march] with a force mostly of donkeys, camels and horses to a place with little rain and mud.",
+  "text_flags": [],
+  "notes": "The verb is omitted in the Sanskrit and carried over from unit 48 (yāyāt): bracketed in English, supplied without bracket in Hindi per glossary 8.1 practice.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.49"
+  ],
+  "lines_deva": [
+   "विपर्यये खर.उष्ट्र.अश्व.बल.प्रायो देशम् अल्प.वर्ष.पङ्कम्"
+  ],
+  "lines_iast": [
+   "viparyaye khara.uṣṭra.aśva.bala.prāyo deśam alpa.varṣa.paṅkam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varṣati",
+      "words": [
+       {
+        "w": "varṣati",
+        "gloss": "when it rains",
+        "gram": "pres. part. loc. sg. √vṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "maru.prāyaṃ",
+      "words": [
+       {
+        "w": "maru-prāyam",
+        "gloss": "mostly desert",
+        "gram": "tat-puruṣa/bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "catur.aṅga.balo",
+      "words": [
+       {
+        "w": "catur-aṅga-balaḥ",
+        "gloss": "having the fourfold army",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वर्षा होने पर प्रायः मरु वाले स्थान पर चतुरंग सेना वाला होकर चढ़ाई करे।",
+  "english": "When it rains he should march with the fourfold army [to a place] mostly desert.",
+  "text_flags": [],
+  "notes": "maru-prāya modifies an unstated place (deśa, units 37-39, 49); Hindi supplies स्थान, English brackets it. catur-aṅga-bala = the fourfold army (glossary 10.4).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.50"
+  ],
+  "lines_deva": [
+   "वर्षति मरु.प्रायं चतुर्.अङ्ग.बलो यायात्"
+  ],
+  "lines_iast": [
+   "varṣati maru.prāyaṃ catur.aṅga.balo yāyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sama.viṣama.nimna.sthala.hrasva.dīrgha.vaśena",
+      "words": [
+       {
+        "w": "sama-viṣama-nimna-sthala-hrasva-dīrgha-vaśena",
+        "gloss": "according to level, uneven, low, dry, short, long",
+        "gram": "dvandva, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-adhvano",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "adhvanaḥ",
+        "gloss": "of the road",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātrāṃ",
+      "words": [
+       {
+        "w": "yātrām",
+        "gloss": "march",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibhajet",
+      "words": [
+       {
+        "w": "vibhajet",
+        "gloss": "should divide",
+        "gram": "3 sg. opt. vi-√bhaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा मार्ग की यात्रा को सम, विषम, निम्न, स्थल, छोटे और लम्बे के अनुसार बाँटे।",
+  "english": "Or he should divide the march of the road according to [whether it is] level, uneven, low, dry, short or long.",
+  "text_flags": [],
+  "notes": "vaśa (instr.) = 'by the control of / according to'. '[whether it is]' is supplied; the six terms describe the road (adhvan). 'vā-adhvanaḥ' = vā adhvanaḥ.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "09.01.51"
+  ],
+  "lines_deva": [
+   "सम.विषम.निम्न.स्थल.ह्रस्व.दीर्घ.वशेन वा-अध्वनो यात्रां विभजेत्"
+  ],
+  "lines_iast": [
+   "sama.viṣama.nimna.sthala.hrasva.dīrgha.vaśena vā-adhvano yātrāṃ vibhajet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvā",
+      "words": [
+       {
+        "w": "sarvāḥ",
+        "gloss": "all",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hrasva.kālāḥ",
+      "words": [
+       {
+        "w": "hrasva-kālāḥ",
+        "gloss": "of short duration",
+        "gram": "bahuvrīhi, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "syur",
+      "words": [
+       {
+        "w": "syuḥ",
+        "gloss": "should be",
+        "gram": "3 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "yātavyāḥ",
+      "words": [
+       {
+        "w": "yātavyāḥ",
+        "gloss": "to be marched",
+        "gram": "gerundive f. nom. pl. √yā"
+       }
+      ]
+     },
+     {
+      "src": "kārya.lāghavāt",
+      "words": [
+       {
+        "w": "kārya-lāghavāt",
+        "gloss": "because of lightness of the task",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dīrghāḥ",
+      "words": [
+       {
+        "w": "dīrghāḥ",
+        "gloss": "long",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārya.gurutvād",
+      "words": [
+       {
+        "w": "kārya-gurutvāt",
+        "gloss": "because of heaviness of the task",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varṣā.vāsaḥ",
+      "words": [
+       {
+        "w": "varṣā-vāsaḥ",
+        "gloss": "stay in the rains",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paratra",
+      "words": [
+       {
+        "w": "paratra",
+        "gloss": "elsewhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा सभी यात्राएँ, जो की जानी हैं, छोटे काल की हों, कार्य की लघुता के कारण; अथवा दीर्घ, कार्य की गुरुता के कारण; और वर्षा-निवास अन्यत्र।",
+  "english": "Or all [marches] that are to be made should be of short duration, because of the lightness of the task; or [they should be] long, because of the weightiness of the task; and the stay in the rains [should be] elsewhere.",
+  "text_flags": [],
+  "notes": "'marches' (yātrāḥ) is supplied from yātavyāḥ and the feminine plural (bracketed in English; Hindi supplies यात्राएँ). paratra = elsewhere (in another place); 'in the enemy's place' is a possible sense, not imported. The verse has no finite verb in the second line; copulas supplied only as 'should be'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "09.01.52a",
+   "09.01.52b"
+  ],
+  "lines_deva": [
+   "सर्वा वा ह्रस्व.कालाः स्युर् यातव्याः कार्य.लाघवात्",
+   "दीर्घाः कार्य.गुरुत्वाद् वा वर्षा.वासः परत्र च"
+  ],
+  "lines_iast": [
+   "sarvā vā hrasva.kālāḥ syur yātavyāḥ kārya.lāghavāt",
+   "dīrghāḥ kārya.gurutvād vā varṣā.vāsaḥ paratra ca"
+  ],
+  "uncertain": []
+ }
+]

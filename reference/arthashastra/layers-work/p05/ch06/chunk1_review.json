@@ -1,0 +1,510 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yathā-ucitām",
+     "problem": "avyayībhāva is wrong: the form is feminine -ām and agrees with sambhāṣām",
+     "fix": "f. acc. sg., compound (yathā + ucita), qualifying sambhāṣām",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "yathā-ucitām",
+      "field": "gram",
+      "value": "f. acc. sg., compound (yathā + ucita), qualifying sambhāṣām"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "rāja-praṇidhim",
+     "problem": "glossary: rāja-praṇidhi = the king's routine (Kangle title of 1.19); keep the plain term",
+     "fix": "the king's routine",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "the king's praṇidhi (routine)",
+      "new": "the king's routine"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राजा के प्रणिधि",
+     "problem": "bare untranslated word; use the settled rendering",
+     "fix": "राजा की दिनचर्या",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राजा के प्रणिधि को",
+      "new": "राजा की दिनचर्या को"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rāja-praṇidhim",
+     "problem": "match English",
+     "fix": "the king's routine (praṇidhi)",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "rāja-praṇidhim",
+      "field": "gloss",
+      "value": "the king's routine (praṇidhi)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whichever",
+     "problem": "'whichever' is an unmarked addition",
+     "fix": "anger or favour liked by the constituent elements",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "anger or favour, whichever is liked by the constituent elements",
+      "new": "anger or favour liked by the constituent elements"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "heḍam",
+     "problem": "settled: heḍa = anger",
+     "fix": "anger",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "heḍam",
+      "field": "gloss",
+      "value": "anger"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "bahv.ābādhaṃ",
+     "problem": "printed -aṃ (m./n.) but agrees with feminine yātrām; expected bahv.ābādhāṃ; possible typo, no flag was raised (patch cannot add one)",
+     "fix": "flag bahv.ābādhaṃ -> bahv.ābādhāṃ",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "Reviewer: bahv.ābādhaṃ is printed with -aṃ although it agrees with feminine yātrām (expected bahv.ābādhāṃ); possible typo, not flagged by the drafter; the word is glossed as the feminine form."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "vā after pramriyamāṇe",
+     "problem": "the vā (rendered 'Or' in English) is dropped in Hindi",
+     "fix": "“अथवा राजा के मरते समय",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राजा के मरते समय",
+      "new": "अथवा राजा के मरते समय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "rājya.kāraṇādd",
+     "problem": "diagnosis is wrong: letters are the same as kāraṇād dhi (hi is dhi); only the word space is misplaced, no spurious d; flag should say 'kāraṇādd hi -> kāraṇād dhi'",
+     "fix": "kāraṇād dhi (space moved)",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "append_note",
+      "text": "Reviewer: 'rājya.kāraṇādd hi' has the letters of kāraṇād dhi (kāraṇāt + hi); the word space is misplaced, there is no extra d. The word 'hi' is therefore really 'dhi' (= hi)."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aṅga",
+     "problem": "'dear sir' is an invented sense",
+     "fix": "(particle of address) my dear",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "aṅga",
+      "field": "gloss",
+      "value": "(particle of address) my dear"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "eka-pragrahaḥ",
+     "problem": "masculine form for a feminine subject: a predicate noun, not a bahuvrīhi",
+     "fix": "m. nom. sg., karmadhāraya (predicate noun)",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "eka-pragrahaḥ",
+      "field": "gram",
+      "value": "m. nom. sg., karmadhāraya (predicate noun)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "क्या किया जाए",
+     "problem": "katham means 'how'; English says 'how'",
+     "fix": "“...अथवा कैसे किया जाए?”",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा क्या किया जाए?",
+      "new": "अथवा कैसे किया जाए?"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपने आपको देखो",
+     "problem": "Hindi reads ātmanaḥ as 'yourselves' (object), English as 'your own [spirit and birth]'; the two differ; doubt already in notes, needs a person",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Saying",
+     "problem": "'Saying' is supplied without a bracket",
+     "fix": "[Saying] “So be it,”",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "Saying “So be it,”",
+      "new": "[Saying] “So be it,”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऋतुकाल",
+     "problem": "ऋतुकाल states the fertile-period sense that English only brackets; keep literal",
+     "fix": "और ऋतु में उसकी रक्षा करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और ऋतुकाल में",
+      "new": "और ऋतु में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "for the sake of",
+     "problem": "Hindi has 'के कारण' (on account of) and kāraṇāt means on account of",
+     "fix": "on account of the mind",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "english",
+      "old": "for the sake of the mind",
+      "new": "on account of the mind"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "citta-kāraṇāt",
+     "problem": "match",
+     "fix": "on account of the mind",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "word",
+      "match_w": "citta-kāraṇāt",
+      "field": "gloss",
+      "value": "on account of the mind"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole sentence",
+     "problem": "awkward: the relative status of 'king restrained' and the instructor is unclear; no 'if' in the Sanskrit, supplied only in brackets",
+     "fix": "Or, [if] the king [is] restrained by the chiefs, one who has resorted to those dear to him, a knower of the artha-śāstra, should instruct [him] by itihāsa and purāṇa.",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "set",
+      "field": "english",
+      "value": "Or, [if] the king [is] restrained by the chiefs, one who has resorted to those dear to him, a knower of the artha-śāstra, should instruct [him] by itihāsa and purāṇa."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "itihāsa-purāṇābhyām",
+     "problem": "dvandva of itihāsa (m.) and purāṇa (n.): gender label m. is not right",
+     "fix": "inst. du., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "word",
+      "match_w": "itihāsa-purāṇābhyām",
+      "field": "gram",
+      "value": "inst. du., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "19 issues (0 error, 19 minor); patches on units 4,5,6,9(note),25,28,36,42,45,47,34; no regrouping. For a person: unit 9 bahv.ābādhaṃ possible typo for -āṃ (no flag); quote opened at unit 25 never closed (closing quote/iti missing after unit 31, no flag); unit 28 flag diagnosis wrong (letters are kāraṇād dhi, space misplaced); unit 13 flag bhūmy confirmed; units 34 (ātmanaś ca Hindi vs English), 41, 45 remain doubtful and literal."
+}

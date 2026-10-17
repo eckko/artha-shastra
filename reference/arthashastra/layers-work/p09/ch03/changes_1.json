@@ -1,0 +1,409 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "“पीछे का छोटा कोप और पहले का बड़ा लाभ” — इसमें पीछे का छोटा कोप अधिक गम्भीर है।",
+  "new": "“पीछे का छोटा कोप, पहले का बड़ा लाभ” — इसमें पीछे का छोटा कोप अधिक गम्भीर है।",
+  "why": "reviewer (minor): 'और' added; the Sanskrit juxtaposes the two members without a conjunction (English uses a comma)"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "छोटे पीछे के कोप के रहते प्रस्थान किए हुए (राजा) के दूष्य, शत्रु और वन के सरदार सब ओर से उसे बढ़ावा देते हैं, अथवा प्रकृतियों का विद्रोह होता है।",
+  "new": "प्रस्थान किए हुए के पीछे के छोटे कोप को दूष्य, शत्रु और वन के सरदार सब ओर से बढ़ावा देते हैं, अथवा प्रकृतियों का विद्रोह होता है।",
+  "why": "reviewer (error): bracketed gloss inside the Hindi translation, forbidden by the glossary; also the syntax is misread: alpaṃ paścāt-kopaṃ is the object of samedhayanti, prayātasya is 'of one who has marched'"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "For one who has marched out with a small revolt later [in prospect], the treasonable, enemies and forest chiefs foster [it] from all sides — or an uprising of the constituents.",
+  "new": "For one who has marched out, the treasonable, enemies and forest chiefs foster the small later revolt from all sides — or [there is] an uprising of the constituents.",
+  "why": "reviewer (error): invented construction: 'with a small revolt ... [in prospect]' and 'it' are not in the Sanskrit; alpaṃ paścāt-kopaṃ is the accusative object; the closing 'prakṛti-kopo vā' has no verb (bare copula only)"
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Syntax of alpaṃ paścāt-kopaṃ prayātasya is loose (accusative with a participle); taken as \"who has set out with a small later revolt [behind/awaiting]\". Object of samedhayanti is not stated; \"it\" is supplied in English brackets. Hindi (राजा) is the understood person, not a gloss. Closing \"prakṛti-kopo vā\" has no predicate.",
+  "new": "Syntax: alpaṃ paścāt-kopaṃ is read as the object of samedhayanti and prayātasya (gen.) as 'of one who has marched out'; the draft's first reading (accusative with a participle, 'marched with a small revolt') was dropped at review. 'prakṛti-kopo vā' has no predicate; a bare copula is supplied in both languages. Typo flag on prayātassya is genuine.",
+  "why": "reviewer (minor): note described the wrong construal"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "purastāt-lāham",
+  "old": "purastāt-lāham",
+  "new": "purastāt-lābham",
+  "why": "reviewer (minor): w must carry the corrected form, not the typo"
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "labdham",
+  "old": "n. acc. sg. pp. √labh",
+  "new": "m. acc. sg. pp. √labh",
+  "why": "reviewer (minor): agrees with lābham (m.), so masculine, not neuter"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus",
+  "new": "closing particle (quotation marker)",
+  "why": "reviewer (minor): bare 'thus' for iti"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "For misfortunes have the point of a needle for a mouth — such is the popular saying.",
+  "new": "“For misfortunes are needle-mouthed” — such is the popular saying.",
+  "why": "reviewer (minor): 'the point of' is an addition to sūcī-mukha (needle-mouthed); the quoted saying should be quoted, since iti closes it"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "क्योंकि अनर्थ सुई की नोक जैसे मुख वाले होते हैं — ऐसा लोकप्रवाद है।",
+  "new": "“क्योंकि अनर्थ सुई जैसे मुख वाले होते हैं” — ऐसा लोकप्रवाद है।",
+  "why": "reviewer (minor): 'नोक' (point) added"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "sūcī-mukhāḥ",
+  "old": "needle-pointed",
+  "new": "having a needle for a mouth",
+  "why": "reviewer (minor): 'needle-pointed' adds 'pointed'"
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "putra-dāram",
+  "old": "dvandva, m. acc. sg.",
+  "new": "dvandva (samāhāra), n. acc. sg.",
+  "why": "reviewer (minor): a neuter samāhāra dvandva (acc. sg.), not masculine"
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "mantra- is literally \"counsel\"; \"counsellor\" (mantrin) is taken from unit 20 (mantry-ādi). Four persons, as senā-pati and yuva-rāja are read as separate members.",
+  "new": "mantra- is literally \"counsel\"; \"counsellor\" (mantrin) is taken from unit 20 (mantry-ādi). Four persons, as senā-pati and yuva-rāja are read as separate members. Review: the e-text prints mantra- (not mantri-) here and in unit 19, while unit 20 has mantry-ādi; mantra- may be a typo for mantri- (counsellor). No text_flag was made by the draft (patches cannot add one).",
+  "why": "reviewer (minor): e-text prints mantra- here and in 19 (mantri- in 20); possible typo for mantri-, not flagged by the draft"
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "avasrāvaṇa is obscure (literally \"causing to flow down/away\"); kept untranslated. \"siddhiḥ\" is left as the predicate noun \"accomplishment\" (success); in the second part no predicate is stated. Locative absolute guṇavati anyasmin sati putre.",
+  "new": "avasrāvaṇa is obscure (literally \"causing to flow down/away\"); kept untranslated. \"siddhiḥ\" is left as the predicate noun \"accomplishment\" (success); in the second part no predicate is stated. Locative absolute guṇavati anyasmin sati putre. Review: the flag on samrodhanam is weak; both occurrences in the unit have sam- (accepted spelling), so no correction is needed. The Hindi/English are unaffected.",
+  "why": "reviewer (minor): weak flag: the e-text writes sam-rodhana with m in both occurrences in the unit; samrodhana is an accepted spelling, so this is at most an orthographic variant, not a typo"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "पुत्र, भाई अथवा अन्य कुल के सदस्य को, जो राजा को पकड़ने वाला हो, उत्साह से साध ले; उत्साह के अभाव में गृहीत के अनुवर्तन और सन्धि के कर्मों से, शत्रु से मेल होने के भय से।",
+  "new": "पुत्र, भाई अथवा अन्य कुल्य को, जो राजा को पकड़ने वाला हो, उत्साह से साध ले; उत्साह के अभाव में गृहीत के अनुवर्तन और सन्धि के कर्मों से, शत्रु से मेल होने के भय से।",
+  "why": "reviewer (error): kulya misread as 'member of another family'; glossary 5.6 fixes kulya = kinsman (कुल्य)"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "A son, a brother or another relative who is king-seizing he should win over by energy; in the absence of energy, by the actions of following the seized one and of treaty, from fear of union with the enemy.",
+  "new": "A son, a brother or another kinsman who is king-seizing he should win over by energy; in the absence of energy, by the actions of following the seized one and of treaty, from fear of union with the enemy.",
+  "why": "reviewer (minor): glossary 5.6: kulya = kinsman"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "kulyaṃ",
+  "old": "relative",
+  "new": "kinsman",
+  "why": "reviewer (minor): glossary 5.6"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "gṛhīta-anuvartana-sandhi-karmabhyām",
+  "old": "by following the seized and by treaty actions",
+  "new": "by the actions of following the seized one and of treaty",
+  "why": "reviewer (minor): dual karmabhyām means two actions; gloss garbles them"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "अन्यों से अथवा वैसे ही लोगों से भूमि के दानों द्वारा इसे विश्वास दिलाए।",
+  "new": "अन्यों से अथवा वैसे लोगों से भूमि के दानों द्वारा इसे विश्वास दिलाए।",
+  "why": "reviewer (minor): 'ही' is an emphasis not in tad-vidha"
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "sāmanta-āṭavikān",
+  "old": "neighbours and forest chiefs",
+  "new": "neighbouring chiefs and forest chiefs",
+  "why": "reviewer (minor): glossary 9.7: sāmanta = neighbouring chief"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "उससे श्रेष्ठ, स्वयं पकड़ लेने वाली सेना भेजे, अथवा सामन्तों और वन के सरदारों को; उनके द्वारा विग्रह में डाले गए को छल से मात दे।",
+  "new": "उससे श्रेष्ठ, स्वयं पकड़ लेने वाली सेना भेजे, अथवा सामन्तों और वन के सरदारों को; उनके द्वारा विग्रह में डाले गए को छल ले।",
+  "why": "reviewer (minor): glossary 9.1: atisandhā = outwit (छल लेना)"
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "He should resort to the taking of a prince in disfavour, or to the contrivance relating to another village.",
+  "new": "He should resort to the contrivance of taking a prince in disfavour, or to the contrivance relating to another village.",
+  "why": "reviewer (minor): yogam is the single noun governed by ātiṣṭhet; aparuddha-ādānam and pāragrāmikam both qualify it, so 'taking' is not itself the object"
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "निकाले गए राजकुमार को ग्रहण करना, अथवा परग्राम सम्बन्धी योग का आश्रय ले।",
+  "new": "निकाले गए राजकुमार को ग्रहण करने के, अथवा परग्राम सम्बन्धी, योग का आश्रय ले।",
+  "why": "reviewer (minor): same construction"
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "mantra- = counsellor (mantrin), as in unit 20. \"Explained\" = the same remedies apply.",
+  "new": "mantra- = counsellor (mantrin), as in unit 20. \"Explained\" = the same remedies apply. Review: mantra- (not mantri-) as in unit 12; possible typo, not flagged.",
+  "why": "reviewer (minor): same as unit 12"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "उसे एक-दूसरे के द्वारा रोकवाए।",
+  "new": "उसे एक-दूसरे के द्वारा रुकवाए।",
+  "why": "reviewer (minor): glossary 5.6: avagrāhayet = रुकवाए"
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "anyonyena",
+  "old": "ind.",
+  "new": "m. inst. sg. (pronoun, 'one another')",
+  "why": "reviewer (minor): a pronoun in the instrumental, not an indeclinable"
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "Or, if he is propped up by a very strong fort, he should have him restrained by any one of the neighbours, forest chiefs, members of his family and princes in disfavour.",
+  "new": "Or he should have [him], propped up by a very strong fort, restrained by any one of the neighbouring chiefs, forest chiefs, members of his family and princes in disfavour.",
+  "why": "reviewer (error): 'if he is' is an unmarked addition; pratiṣṭabdhaṃ is an accusative object; also glossary 9.7: sāmanta = neighbouring chief"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "अथवा अत्यन्त दुर्ग के सहारे अड़े हुए को सामन्त, आटविक, उसके कुल के सदस्य और निकाले गए राजकुमारों में से किसी एक के द्वारा रोकवाए।",
+  "new": "अथवा अत्यन्त दुर्ग के सहारे टिके हुए को सामन्त, आटविक, उसके कुल के सदस्य और निकाले गए राजकुमारों में से किसी एक के द्वारा रुकवाए।",
+  "why": "reviewer (minor): glossary 5.6 रुकवाए; 'अड़े हुए' (obstinate) does not match 'propped up'"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "sāmanta-āṭavika-tat-kulīna-aparuddhānām",
+  "old": "of the neighbours, forest chiefs, members of his family and princes in disfavour",
+  "new": "of the neighbouring chiefs, forest chiefs, members of his family and princes in disfavour",
+  "why": "reviewer (minor): glossary 9.7"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Or a secret agent from the enemy should cause dissension in him — “This one, thinking you a secret agent, will make [you] attack your master alone; having gained his object he will engage the one who goes with the army among enemies and forest chiefs in hardship or toil, or will make [him] dwell at the frontier bereft of sons and wife.",
+  "new": "Or a secret agent should cause him to split from the enemy — “This one, thinking you a secret agent, will make [you] attack the master alone; having gained his object he will engage the one who goes with the army among enemies and forest chiefs, in hardship or toil, or will make [him], bereft of sons and wife, dwell at the frontier,",
+  "why": "reviewer (error): bhid takes the ablative of separation: amitrāt = 'from the enemy' is what he is split from; the draft makes the agent come 'from the enemy' (not in the text). Also 'your master' adds 'your'; the unit ended with a full stop although the sentence runs on into 27"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "अथवा शत्रु की ओर से गुप्तचर इसमें फूट डाले — “यह तुम्हें गुप्त पुरुष मानता हुआ स्वामी पर ही आक्रमण कराएगा; अपना प्रयोजन पा लेने पर सेना के साथ चलने वाले को शत्रुओं और आटविकों के बीच कष्ट अथवा परिश्रम में लगाएगा, अथवा पुत्र और स्त्री से रहित सीमा पर बसाएगा।",
+  "new": "अथवा गुप्तचर इसे शत्रु से फोड़े — “यह तुम्हें गुप्त पुरुष मानता हुआ स्वामी पर ही आक्रमण कराएगा; अपना प्रयोजन पा लेने पर सेना के साथ चलने वाले को शत्रुओं और आटविकों के बीच कष्ट अथवा परिश्रम में लगाएगा, अथवा उसे पुत्र और स्त्री से रहित सीमा पर बसाएगा,",
+  "why": "reviewer (error): same ablative error; 'पुत्र और स्त्री से रहित' wrongly attaches to the frontier (it is the person); full stop although the quotation continues"
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "GROUPING: the quotation opened here runs on through units 27 and 28 and closes at \"gaccha\" iti in unit 28 (the e-text closes it there). amitrāt = \"from the enemy\" (the enemy’s side); who \"this one\" (ayam) is, is not stated. daṇḍa-cārin (the person addressed, third person here) rendered \"the one who goes with the army\". \"-\" is the dash printed before the quotation. The object of vāsayiṣyati is supplied.",
+  "new": "GROUPING: the quotation opened here runs on through units 27 and 28 and closes at \"gaccha\" iti in unit 28 (the e-text closes it there). amitrāt = \"from the enemy\" (the enemy’s side); who \"this one\" (ayam) is, is not stated. daṇḍa-cārin (the person addressed, third person here) rendered \"the one who goes with the army\". \"-\" is the dash printed before the quotation. The object of vāsayiṣyati is supplied. Review: amitrāt is taken as the ablative of separation with bhedayet (split him from the enemy); the draft's 'agent from the enemy' was dropped. Doubt remains who 'ayam' is (probably the enemy).",
+  "why": "reviewer (minor): note on the ablative"
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "will make you, whose valour is repulsed, an article of trade with your master, or, having made a treaty with you, will propitiate the master alone,",
+  "new": "will make you, whose valour is repulsed, an article of trade with the master, or, having made a treaty with you, will propitiate the master alone,",
+  "why": "reviewer (minor): 'your' is not in the Sanskrit (bhartari)"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अथवा उसके खिंचे हुए मित्र के पास जाओ।”",
+  "new": "अथवा उसके मित्र के पास, जो निकट खींचा हुआ है, जाओ।”",
+  "why": "reviewer (minor): garbled order and rendering; align with p05.5.14 'drawn near' (निकट खींचा हुआ), sense uncertain"
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "upakṛṣṭa is obscure: literally \"drawn towards\"; alternatives \"near\" or \"remote\" are possible, so the sense of the whole phrase is uncertain. Closes the quotation of units 26-27; the bare iti is not rendered (glossary). The e-text prints mitram upakṛṣṭaṃ vā-asya, whose order is also possible as \"his ally, or the drawn-near one\"; kept literal.",
+  "new": "upakṛṣṭa is obscure: literally \"drawn towards\"; alternatives \"near\" or \"remote\" are possible, so the sense of the whole phrase is uncertain. Closes the quotation of units 26-27; the bare iti is not rendered (glossary). The e-text prints mitram upakṛṣṭaṃ vā-asya, whose order is also possible as \"his ally, or the drawn-near one\"; kept literal. Review: upakṛṣṭa 'drawn near' agrees with 5.5 unit 14 (the only other occurrence in the layers); 9.6 does not use the word. Sense still uncertain (near / intimate / removed).",
+  "why": "reviewer (minor): 9.6 has no upakṛṣṭa; the only other use (5.5 unit 14) renders 'drawn near' (mitra there = friend); English kept"
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "Of the one who has not accepted he should cause a split in his refuge: “That man is a secret agent planted on you.”",
+  "new": "The refuge of the one who has not accepted he should cause to split: “That man is a secret agent planted on you.”",
+  "why": "reviewer (minor): saṃśrayaṃ is the accusative object of bhedayet; 'his' and 'in' are additions"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "न स्वीकार करने वाले के आश्रय में फूट डाले — “वह तुम्हारे प्रति लगाया हुआ गुप्त पुरुष है।”",
+  "new": "स्वीकार न करने वाले के आश्रय को फोड़े — “वह तुम्हारे प्रति लगाया हुआ गुप्त पुरुष है।”",
+  "why": "reviewer (minor): same; also 'न स्वीकार करने वाले' is unidiomatic next to unit 29"
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "abhityakta-śāsana is obscure (\"abandoned orders\", literal; sense uncertain). sattrin and gūḍha-puruṣa are both \"secret agent\" per the glossary. ca-enam is an unsandhied join.",
+  "new": "abhityakta-śāsana is obscure (\"abandoned orders\", literal; sense uncertain). sattrin and gūḍha-puruṣa are both \"secret agent\" per the glossary. ca-enam is an unsandhied join. Review: glossary 13.3 fixes the compound as 'abandoned orders'; 9.6 unit 29 renders abhityakta alone as 'given up to death' (one sent to his death), so 'orders of one given up to death' is a possible sense. Literal rendering kept.",
+  "why": "reviewer (minor): alignment with 9.6"
+ },
+ {
+  "n": "33",
+  "field": "notes",
+  "old": "The words to be spoken are not given in the e-text; unit 34 follows with \"iti siddhiḥ\". Possible GROUPING/lacuna: a quotation may be missing between units 33 and 34. tena may refer to the man of the previous units or mean \"by that [means]\".",
+  "new": "The words to be spoken are not given in the e-text; unit 34 follows with \"iti siddhiḥ\". Possible GROUPING/lacuna: a quotation may be missing between units 33 and 34. tena may refer to the man of the previous units or mean \"by that [means]\". Review: agree that the words to be spoken are missing in the e-text; 34 (iti siddhiḥ) is not a speech. No regrouping.",
+  "why": "reviewer (minor): the speech after brūyāt is missing"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "Thus, success.",
+  "new": "Such is success.",
+  "why": "reviewer (error): bare 'thus' for iti"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "इस प्रकार सिद्धि।",
+  "new": "यह सिद्धि है।",
+  "why": "reviewer (error): 'इस प्रकार' for iti (cf. glossary 5.2 'यह ... है')"
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus",
+  "new": "closing particle",
+  "why": "reviewer (error): 'thus'"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "जो कोप करने अथवा शान्त करने में समर्थ है, वहाँ उपजाप किया जाना चाहिए।",
+  "new": "जो कोप उत्पन्न करने अथवा शान्त करने में समर्थ है, वहाँ उपजाप किया जाना चाहिए।",
+  "why": "reviewer (minor): कोप करना in Hindi means 'to be angry'; kartuṃ here = to create (the draft's English)"
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "Who is true to his pledge and able to favour in action and in the attainment of the result, and to protect in disaster, there counter-instigation is to be done; and it is to be judged [whether he is] of good intent or a rogue.",
+  "new": "Who is true to his pledge and able to favour in action and in the attainment of the result, and to protect in disaster, there counter-instigation is to be done; and it is to be judged [whether he is] of good intent or deceitful.",
+  "why": "reviewer (minor): inconsistent with 'deceitful' for śaṭha in units 38, 39, 41"
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "śaṭhaḥ",
+  "old": "rogue",
+  "new": "deceitful",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "(closes the clause)",
+  "new": "closing particle (of the indirect question)",
+  "why": "reviewer (minor): unquoted iti"
+ },
+ {
+  "n": "38",
+  "field": "notes",
+  "old": "Very obscure passage, low confidence. The speaker of the quotation is taken as the external deceitful man; \"me\" = speaker. māṃ pratipādayiṣyati has no stated object (\"hands it over\" is supplied; alternatives: \"delivers me [the land]\", \"presents himself to me\"). akṛtya-pakṣa = party of the unseducible (opposite of kṛtya-pakṣa, glossary); bhūyān me could also be read \"my greater ...\". tulya-doṣa-daṇḍa = punishment for a like fault. Who is the subject of the last śaṅkitaḥ bhaviṣyati (the king, or the internal man) is unclear. cet appears as \"cedd\" (ced + d, from cet + hatvā in the e-text). iti after āhaniṣyati is unsandhied (āhaniṣyati-iti) and is not rendered; the final iti closes the quotation. anyam anyaṃ = one after another.",
+  "new": "Very obscure passage, low confidence. The speaker of the quotation is taken as the external deceitful man; \"me\" = speaker. māṃ pratipādayiṣyati has no stated object (\"hands it over\" is supplied; alternatives: \"delivers me [the land]\", \"presents himself to me\"). akṛtya-pakṣa = party of the unseducible (opposite of kṛtya-pakṣa, glossary); bhūyān me could also be read \"my greater ...\". tulya-doṣa-daṇḍa = punishment for a like fault. Who is the subject of the last śaṅkitaḥ bhaviṣyati (the king, or the internal man) is unclear. cet appears as \"cedd\" (ced + d, from cet + hatvā in the e-text). iti after āhaniṣyati is unsandhied (āhaniṣyati-iti) and is not rendered; the final iti closes the quotation. anyam anyaṃ = one after another. Review: abhityakta-śāsana as in unit 31 (glossary 13.3 'abandoned orders'; 9.6 abhityakta = given up to death).",
+  "why": "reviewer (minor): alignment with 9.6"
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "For a deceitful external [man] instigates the internal [man] thus — “If, having killed his master, he hands [it] over to me, I shall have a twofold gain: the killing of an enemy and the gain of land; or else the enemy will kill him; his party of kinsmen having been killed and alarmed by the punishment for a like fault, a greater party of the unseducible will be for me; or he will be suspected even in another of that kind; and I shall have one chief of his after another killed by abandoned orders.”",
+  "new": "For a deceitful external [man] instigates the internal [man] thus — “If, having killed his master, he hands [it] over to me, I shall have a twofold gain: the killing of an enemy and the gain of land; or else ‘the enemy will kill him’ — his party of kinsmen having been killed and alarmed by the punishment for a like fault, a greater party of the unseducible will be for me; or he will be suspected even in another of that kind; and I shall have one chief of his after another killed by abandoned orders.”",
+  "why": "reviewer (minor): iti after āhaniṣyati silently dropped inside the speech; quote the phrase"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "क्योंकि शठ बाहरी भीतरी को इस प्रकार उपजाप करता है — “यदि स्वामी को मारकर वह मुझे सौंप देगा, तो शत्रु का वध और भूमि का लाभ — मेरा दोहरा लाभ होगा; अथवा शत्रु इसे मार डालेगा; बन्धुओं का पक्ष मारा जाकर और समान दोष के दण्ड से उद्विग्न होकर मेरा अकृत्य-पक्ष और बड़ा हो जाएगा; अथवा वैसे ही किसी अन्य के विषय में भी वह शंकित होगा; और इसके एक-एक अन्य मुख्य को परित्यक्त आदेश से मरवा दूँगा।”",
+  "new": "क्योंकि शठ बाहरी भीतरी को इस प्रकार उपजाप करता है — “यदि स्वामी को मारकर वह मुझे सौंप देगा, तो शत्रु का वध और भूमि का लाभ — मेरा दोहरा लाभ होगा; अथवा ‘शत्रु इसे मार डालेगा’ — बन्धुओं का पक्ष मारा जाकर और समान दोष के दण्ड से उद्विग्न होकर मेरा अकृत्य-पक्ष और बड़ा हो जाएगा; अथवा वैसे ही किसी अन्य के विषय में भी वह शंकित होगा; और इसके एक-एक अन्य मुख्य को परित्यक्त आदेश से मरवा दूँगा।”",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "क्योंकि शठ बाहरी भीतरी को इस प्रकार उपजाप करता है — “यदि स्वामी को मारकर वह मुझे सौंप देगा, तो शत्रु का वध और भूमि का लाभ — मेरा दोहरा लाभ होगा; अथवा ‘शत्रु इसे मार डालेगा’ — बन्धुओं का पक्ष मारा जाकर और समान दोष के दण्ड से उद्विग्न होकर मेरा अकृत्य-पक्ष और बड़ा हो जाएगा; अथवा वैसे ही किसी अन्य के विषय में भी वह शंकित होगा; और इसके एक-एक अन्य मुख्य को परित्यक्त आदेश से मरवा दूँगा।”",
+  "new": "क्योंकि शठ बाहरी भीतरी को इस प्रकार उपजाप करता है — “यदि स्वामी को मारकर वह मुझे सौंप देगा, तो शत्रु का वध और भूमि का लाभ — मेरा दोहरा लाभ होगा; अथवा ‘शत्रु इसे मार डालेगा’ — बन्धुओं का पक्ष मारा जाकर और समान दोष के दण्ड से उद्विग्न होकर मेरा अकृत्य-पक्ष और बड़ा हो जाएगा; अथवा वैसे किसी अन्य के विषय में भी वह शंकित होगा; और इसके एक-एक अन्य मुख्य को परित्यक्त आदेश से मरवा दूँगा।”",
+  "why": "reviewer (minor): 'ही' added"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "क्योंकि शठ बाहरी भीतरी को इस प्रकार उपजाप करता है — “यदि स्वामी को मारकर वह मुझे सौंप देगा, तो शत्रु का वध और भूमि का लाभ — मेरा दोहरा लाभ होगा; अथवा ‘शत्रु इसे मार डालेगा’ — बन्धुओं का पक्ष मारा जाकर और समान दोष के दण्ड से उद्विग्न होकर मेरा अकृत्य-पक्ष और बड़ा हो जाएगा; अथवा वैसे किसी अन्य के विषय में भी वह शंकित होगा; और इसके एक-एक अन्य मुख्य को परित्यक्त आदेश से मरवा दूँगा।”",
+  "new": "क्योंकि शठ बाहरी भीतरी को इस प्रकार उपजाप करता है — “यदि स्वामी को मारकर वह मुझे सौंप देगा, तो शत्रु का वध और भूमि का लाभ — मेरा दोहरा लाभ होगा; अथवा ‘शत्रु इसे मार डालेगा’ — बन्धुओं का पक्ष मारा जाकर और समान दोष के दण्ड से उद्विग्न होकर मेरा अकृत्य-पक्ष और बड़ा हो जाएगा; अथवा वैसे किसी अन्य के विषय में भी वह शंकित होगा; और इसके एक के बाद दूसरे मुख्य को परित्यक्त आदेश से मरवा दूँगा।”",
+  "why": "reviewer (minor): awkward, anyam anyam = one after another"
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Or the deceitful internal [man] instigates the external [man] thus — “I shall carry off his treasury, or destroy his army, or have the corrupt master killed by this [man]; the external [man] who has accepted I shall make attack among enemies and forest chiefs. “Let his force be attached, let enmity with him be fastened; then he will be under my control; then I shall propitiate the master alone, or take the kingdom myself.” Or, having bound [him], I shall obtain both lands, that of the external [man] and that of the master; or, having summoned the hostile [one], I shall have the trusting external [man] killed; or I shall carry off his empty base.”",
+  "new": "Or the deceitful internal [man] instigates the external [man] thus — “I shall carry off his treasury, or destroy his army, or have the corrupt master killed by this [man]; the external [man] who has accepted I shall make attack among enemies and forest chiefs — ‘let his force be attached, let enmity with him be fastened; then he will be under my control; then I shall propitiate the master alone, or take the kingdom myself’; or, having bound [him], I shall obtain both lands, that of the external [man] and that of the master; or, having summoned the hostile [one], I shall have the trusting external [man] killed; or I shall carry off his empty base.”",
+  "why": "reviewer (error): inner quotation is rendered with the same double marks and closed with full stops, so the outer quotation looks closed after the inner one; full stops are not in the text; inner quotation should be single-marked"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "अथवा शठ भीतरी बाहरी को इस प्रकार उपजाप करता है — “इसका कोश हर लूँगा, अथवा इसकी सेना का नाश करूँगा, अथवा दुष्ट स्वामी को इसके द्वारा मरवा दूँगा, स्वीकार कर लेने वाले बाहरी को शत्रुओं और आटविकों के बीच आक्रमण कराऊँगा। “इसकी सेना सजाई जाए, इससे वैर जोड़ा जाए, तब वह मेरे अधीन हो जाएगा, तब स्वामी को ही प्रसन्न कर लूँगा, अथवा स्वयं राज्य ले लूँगा।” बाँधकर बाहरी की भूमि और स्वामी की भूमि दोनों पा लूँगा, अथवा विरोधी को बुलाकर विश्वास करने वाले बाहरी को मरवा दूँगा, अथवा इसके खाली मूल को हर लूँगा।”",
+  "new": "अथवा शठ भीतरी बाहरी को इस प्रकार उपजाप करता है — “इसका कोश हर लूँगा, अथवा इसकी सेना का नाश करूँगा, अथवा दुष्ट स्वामी को इसके द्वारा मरवा दूँगा, स्वीकार कर लेने वाले बाहरी को शत्रुओं और आटविकों के बीच आक्रमण कराऊँगा — ‘इसकी सेना लगाई जाए, इससे वैर जोड़ा जाए, तब वह मेरे अधीन हो जाएगा, तब स्वामी को ही प्रसन्न कर लूँगा, अथवा स्वयं राज्य ले लूँगा’; अथवा बाँधकर बाहरी की भूमि और स्वामी की भूमि दोनों पा लूँगा, अथवा विरोधी को बुलाकर विश्वास करने वाले बाहरी को मरवा दूँगा, अथवा इसके खाली मूल को हर लूँगा।”",
+  "why": "reviewer (error): same marking problem; 'सजाई जाए' (be decorated/arrayed) does not match 'attached'; 'अथवा' before बाँधकर dropped"
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "sva-adhīnaḥ",
+  "old": "under my control",
+  "new": "under one's own control",
+  "why": "reviewer (minor): 'my' double-counts me, which is listed separately"
+ },
+ {
+  "n": "40",
+  "field": "word.gram",
+  "word": "saha-jīvi",
+  "old": "n. stem form(?)",
+  "new": "first member of a compound with artham (sandhi i + a = y)",
+  "why": "reviewer (minor): 'stem form(?)' unclear; jīvy artham is plain sandhi (i + a = y), not a typo"
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "Obscure. The form saha.jīvy artham may be sahajīvy-artham (\"for the purpose of living together\") or saha-jīvin (one who lives together with another, i.e. a dependant) + artham (\"for the sake of\"); rendered with the first sense, low confidence.",
+  "new": "Obscure. The form saha.jīvy artham may be sahajīvy-artham (\"for the purpose of living together\") or saha-jīvin (one who lives together with another, i.e. a dependant) + artham (\"for the sake of\"); rendered with the first sense, low confidence. Review: saha.jīvy artham shows regular sandhi (i + a = y); the text_flag is a precaution, not a real typo. Sense still uncertain.",
+  "why": "reviewer (minor): the flag on saha.jīvy is not a typo: y is regular sandhi; harmless but unnecessary"
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "कल्याण-बुद्धि वाले से सन्धि करे; शठ को “वैसा ही” स्वीकार करके छल से मात दे।",
+  "new": "कल्याण-बुद्धि वाले से सन्धि करे; शठ को “वैसा हो” स्वीकार करके छल ले।",
+  "why": "reviewer (minor): glossary 9.1: atisandhā = outwit (छल लेना); 'ही' added to tathā"
+ }
+]

@@ -1,0 +1,2965 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taila.abhyaktam",
+      "words": [
+       {
+        "w": "taila-abhyaktam",
+        "gloss": "anointed with oil",
+        "gram": "m. acc. sg. pp.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "āśu.mṛtakaṃ",
+      "words": [
+       {
+        "w": "āśu-mṛtakam",
+        "gloss": "one who died suddenly",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parīkṣeta",
+      "words": [
+       {
+        "w": "parīkṣeta",
+        "gloss": "should examine",
+        "gram": "3 sg. opt. pari-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तेल लगे हुए, अचानक मरे हुए व्यक्ति की परीक्षा करे।",
+  "english": "He should examine one who has died suddenly, anointed with oil.",
+  "text_flags": [],
+  "notes": "āśu = quickly/suddenly, so āśu-mṛtaka = one dead suddenly. The text does not say who applied the oil or why. The subject of parīkṣeta (he) is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.1"
+  ],
+  "lines_deva": [
+   "तैल.अभ्यक्तम् आशु.मृतकं परीक्षेत"
+  ],
+  "lines_iast": [
+   "taila.abhyaktam āśu.mṛtakaṃ parīkṣeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "niṣkīrṇa.mūtra.purīṣaṃ",
+      "words": [
+       {
+        "w": "niṣkīrṇa-mūtra-purīṣam",
+        "gloss": "with urine and faeces expelled",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vāta.pūrṇa.koṣṭha.tvakkaṃ",
+      "words": [
+       {
+        "w": "vāta-pūrṇa-koṣṭha-tvakkam",
+        "gloss": "with the skin of the abdomen filled with wind",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śūna.pāda.pāṇimān",
+      "words": [
+       {
+        "w": "śūna-pāda-pāṇimantam",
+        "gloss": "having swollen feet and hands",
+        "gram": "m. acc. sg.; mat-possessive (printed nom. -mān, corrected to acc. -mantam; flagged)"
+       }
+      ]
+     },
+     {
+      "src": "mīlita.akṣaṃ",
+      "words": [
+       {
+        "w": "mīlita-akṣam",
+        "gloss": "with eyes closed",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "savyañjana.kaṇṭhaṃ",
+      "words": [
+       {
+        "w": "sa-vyañjana-kaṇṭham",
+        "gloss": "with marks on the throat",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pīṭana.niruddha.ucchvāsa.hataṃ",
+      "words": [
+       {
+        "w": "pīḍana-niruddha-ucchvāsa-hatam",
+        "gloss": "killed by breath obstructed through pressing",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका मूत्र और मल बाहर निकल गया हो, पेट की त्वचा वायु से भरी हो, पैर और हाथ सूजे हों, आँखें मुँदी हों और कण्ठ पर चिह्न हों, उसे दबाने से रुकी हुई साँस द्वारा मारा गया जाने।",
+  "english": "One with urine and faeces expelled, the skin of the abdomen filled with wind, swollen feet and hands, closed eyes and marks on the throat, one should know [him] to be killed by breath obstructed through pressing.",
+  "text_flags": [
+   {
+    "src": "śūna.pāda.pāṇimān",
+    "suggest": "śūna.pāda.pāṇimantaṃ",
+    "why": "possible: nominative-looking mat-form among accusatives agreeing with hataṃ; accusative pāṇimantam expected"
+   },
+   {
+    "src": "pīṭana.niruddha.ucchvāsa.hataṃ",
+    "suggest": "pīḍana.niruddha.ucchvāsa.hataṃ",
+    "why": "possible: ṭ for ḍ; the word for pressing is pīḍana"
+   },
+   {
+    "src": "koṣṭha-tvakka",
+    "suggest": "koṣṭha-tvak-ka",
+    "why": "tvakka is not a known form; could be tvac + ka or a typing slip (possible)"
+   }
+  ],
+  "notes": "vāta-pūrṇa-koṣṭha-tvakka: tvakka is read as 'skin' (tvac extended); alternative 'the abdomen and skin full of wind'. The English '[him]' is supplied. sa-vyañjana = with marks, signs (no cause stated). 'if he has' is the English rendering of the descriptive bahuvrīhis, which have no conditional word. Possible nominative pāṇimān could instead be read as 'he is one with swollen feet and hands' in apposition. English was changed to the relative pattern of units 3-11, so the earlier remark about 'if he has' no longer applies. Both text_flags (pāṇimān for pāṇimantam, pīṭana for pīḍana) are accepted as likely typos; tvakka (in koṣṭha-tvakka) is also unusual (tvac with extra -ka?) and a person should check it against the edition.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.2"
+  ],
+  "lines_deva": [
+   "निष्कीर्ण.मूत्र.पुरीषं वात.पूर्ण.कोष्ठ.त्वक्कं शून.पाद.पाणिमान् मीलित.अक्षं सव्यञ्जन.कण्ठं पीटन.निरुद्ध.उच्छ्वास.हतं विद्यात्"
+  ],
+  "lines_iast": [
+   "niṣkīrṇa.mūtra.purīṣaṃ vāta.pūrṇa.koṣṭha.tvakkaṃ śūna.pāda.pāṇimān mīlita.akṣaṃ savyañjana.kaṇṭhaṃ pīṭana.niruddha.ucchvāsa.hataṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tam",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just, the same",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṅkucita.bāhu.sakthim",
+      "words": [
+       {
+        "w": "saṅkucita-bāhu-sakthim",
+        "gloss": "with arms and thighs drawn together",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "udbandha.hataṃ",
+      "words": [
+       {
+        "w": "udbandha-hatam",
+        "gloss": "killed by hanging",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी को, जिसकी भुजाएँ और जाँघें सिकुड़ी हुई हों, फाँसी से मारा गया जाने।",
+  "english": "That same one, with arms and thighs drawn together, one should know to be killed by hanging.",
+  "text_flags": [],
+  "notes": "tam eva refers back to the body described in unit 2. udbandha = hanging by a rope (ud-√bandh); hata is literally 'killed', so the text does not say whether the hanging was by himself or by another (see units 15-16).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.3"
+  ],
+  "lines_deva": [
+   "तम् एव सङ्कुचित.बाहु.सक्थिम् उद्बन्ध.हतं विद्यात्"
+  ],
+  "lines_iast": [
+   "tam eva saṅkucita.bāhu.sakthim udbandha.hataṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śūna.pāṇi.pāda.udaram",
+      "words": [
+       {
+        "w": "śūna-pāṇi-pāda-udaram",
+        "gloss": "with swollen hands, feet and belly",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "apagata.akṣam",
+      "words": [
+       {
+        "w": "apagata-akṣam",
+        "gloss": "with eyes gone away",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "udvṛtta.nābhim",
+      "words": [
+       {
+        "w": "udvṛtta-nābhim",
+        "gloss": "with navel turned up",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "avaropitaṃ",
+      "words": [
+       {
+        "w": "avaropitam",
+        "gloss": "one who has been lowered",
+        "gram": "m. acc. sg. pp. caus. ava-√ruh"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके हाथ, पैर और पेट सूजे हों, आँखें हट गई हों और नाभि ऊपर को उठी हो, उसे नीचे उतारा गया जाने।",
+  "english": "One whose hands, feet and belly are swollen, whose eyes have gone away, whose navel is turned up, one should know [him] to be one who has been lowered.",
+  "text_flags": [],
+  "notes": "Doubtful words. apagata-akṣa 'eyes gone away' could mean eyes sunk in or protruding or displaced; kept literal. avaropita (ava-√ruh, causative, 'caused to descend') is obscure: it may mean one taken down, e.g. from a hanging, or one put down; no sense is chosen and the literal 'lowered' is given. There is no 'hata' here, so no cause of death is named.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.07.4"
+  ],
+  "lines_deva": [
+   "शून.पाणि.पाद.उदरम् अपगत.अक्षम् उद्वृत्त.नाभिम् अवरोपितं विद्यात्"
+  ],
+  "lines_iast": [
+   "śūna.pāṇi.pāda.udaram apagata.akṣam udvṛtta.nābhim avaropitaṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nistabdha.guda.akṣaṃ",
+      "words": [
+       {
+        "w": "nistabdha-guda-akṣam",
+        "gloss": "with rigid anus and eyes",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sandaṣṭa.jihvam",
+      "words": [
+       {
+        "w": "sandaṣṭa-jihvam",
+        "gloss": "with tongue clenched in the teeth",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ādhmāta.udaram",
+      "words": [
+       {
+        "w": "ādhmāta-udaram",
+        "gloss": "with bloated belly",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "udaka.hataṃ",
+      "words": [
+       {
+        "w": "udaka-hatam",
+        "gloss": "killed by water",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका गुदा और आँखें जकड़ी हुई हों, जीभ दाँतों में दबी हो और पेट फूला हो, उसे जल से मारा गया जाने।",
+  "english": "One with rigid anus and eyes, tongue clenched in the teeth, and bloated belly, one should know [him] to be killed by water.",
+  "text_flags": [],
+  "notes": "nistabdha-guda-akṣa is read as 'rigid anus and eyes' (both members qualified by nistabdha); alternative 'rigid anus-eyes' is unlikely. sandaṣṭa = pressed/bitten together.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.5"
+  ],
+  "lines_deva": [
+   "निस्तब्ध.गुद.अक्षं सन्दष्ट.जिह्वम् आध्मात.उदरम् उदक.हतं विद्यात्"
+  ],
+  "lines_iast": [
+   "nistabdha.guda.akṣaṃ sandaṣṭa.jihvam ādhmāta.udaram udaka.hataṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śoṇita.anusiktaṃ",
+      "words": [
+       {
+        "w": "śoṇita-anusiktam",
+        "gloss": "sprinkled with blood",
+        "gram": "m. acc. sg. pp.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhagna.bhinna.gātraṃ",
+      "words": [
+       {
+        "w": "bhagna-bhinna-gātram",
+        "gloss": "with limbs broken and split",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kāṣṭhair",
+      "words": [
+       {
+        "w": "kāṣṭhaiḥ",
+        "gloss": "with sticks",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "aśmabhir",
+      "words": [
+       {
+        "w": "aśmabhiḥ",
+        "gloss": "with stones",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hataṃ",
+      "words": [
+       {
+        "w": "hatam",
+        "gloss": "killed",
+        "gram": "m. acc. sg. pp. √han"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्त से सिंचे हुए, जिसके अंग टूटे और चिरे हुए हों, उसे लकड़ियों या पत्थरों से मारा गया जाने।",
+  "english": "One sprinkled with blood, with limbs broken and split, one should know [him] to be killed by sticks or stones.",
+  "text_flags": [],
+  "notes": "gātra = limb or body; here 'limbs'. The Hindi 'अंग' follows that.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.6"
+  ],
+  "lines_deva": [
+   "शोणित.अनुसिक्तं भग्न.भिन्न.गात्रं काष्ठैर् अश्मभिर् वा हतं विद्यात्"
+  ],
+  "lines_iast": [
+   "śoṇita.anusiktaṃ bhagna.bhinna.gātraṃ kāṣṭhair aśmabhir vā hataṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sambhagna.sphuṭita.gātram",
+      "words": [
+       {
+        "w": "sambhagna-sphuṭita-gātram",
+        "gloss": "with limbs thoroughly broken and burst",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "avakṣiptaṃ",
+      "words": [
+       {
+        "w": "avakṣiptam",
+        "gloss": "thrown down",
+        "gram": "m. acc. sg. pp. ava-√kṣip"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके अंग पूरी तरह टूटे और फटे हों, उसे नीचे फेंका गया जाने।",
+  "english": "One with limbs thoroughly broken and burst, one should know [him] to be one thrown down.",
+  "text_flags": [],
+  "notes": "avakṣipta = thrown down; the text gives no place or height. sphuṭita = burst, split open.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.7"
+  ],
+  "lines_deva": [
+   "सम्भग्न.स्फुटित.गात्रम् अवक्षिप्तं विद्यात्"
+  ],
+  "lines_iast": [
+   "sambhagna.sphuṭita.gātram avakṣiptaṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śyāva.pāṇi.pāda.danta.nakhaṃ",
+      "words": [
+       {
+        "w": "śyāva-pāṇi-pāda-danta-nakham",
+        "gloss": "with dusky hands, feet, teeth and nails",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śithila.māṃsa.roma.carmāṇaṃ",
+      "words": [
+       {
+        "w": "śithila-māṃsa-roma-carmāṇam",
+        "gloss": "with loose flesh, hair and skin",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "phena.upadigdha.mukhaṃ",
+      "words": [
+       {
+        "w": "phena-upadigdha-mukham",
+        "gloss": "with face smeared with froth",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "viṣa.hataṃ",
+      "words": [
+       {
+        "w": "viṣa-hatam",
+        "gloss": "killed by poison",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके हाथ, पैर, दाँत और नाखून साँवले पड़ गए हों, मांस, रोम और चमड़ी ढीली हो और मुख झाग से लिपटा हो, उसे विष से मारा गया जाने।",
+  "english": "One with dusky hands, feet, teeth and nails, loose flesh, hair and skin, and face smeared with froth, one should know [him] to be killed by poison.",
+  "text_flags": [],
+  "notes": "śyāva = dark brown, dusky; kept literal. carmāṇam is the bahuvrīhi form of carman (skin).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.8"
+  ],
+  "lines_deva": [
+   "श्याव.पाणि.पाद.दन्त.नखं शिथिल.मांस.रोम.चर्माणं फेन.उपदिग्ध.मुखं विष.हतं विद्यात्"
+  ],
+  "lines_iast": [
+   "śyāva.pāṇi.pāda.danta.nakhaṃ śithila.māṃsa.roma.carmāṇaṃ phena.upadigdha.mukhaṃ viṣa.hataṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tam",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just, the same",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa-śoṇita.daṃśaṃ",
+      "words": [
+       {
+        "w": "sa-śoṇita-daṃśam",
+        "gloss": "with a bite accompanied by blood",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sarpa.kīṭa.hataṃ",
+      "words": [
+       {
+        "w": "sarpa-kīṭa-hatam",
+        "gloss": "killed by a snake or insect",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी को, जिसका दंश रक्त सहित हो, साँप या कीड़े से मारा गया जाने।",
+  "english": "That same one, with a bite accompanied by blood, one should know to be killed by a snake or insect.",
+  "text_flags": [],
+  "notes": "tam eva refers back to unit 8. sarpa-kīṭa is read as a dvandva 'snake and insect', so 'snake or insect'. kīṭa = insect or worm; no species named.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.9"
+  ],
+  "lines_deva": [
+   "तम् एव स-शोणित.दंशं सर्प.कीट.हतं विद्यात्"
+  ],
+  "lines_iast": [
+   "tam eva sa-śoṇita.daṃśaṃ sarpa.kīṭa.hataṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikṣipta.vastra.gātram",
+      "words": [
+       {
+        "w": "vikṣipta-vastra-gātram",
+        "gloss": "with clothes and limbs flung about",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ativanta.viriktaṃ",
+      "words": [
+       {
+        "w": "ativanta-viriktam",
+        "gloss": "one who has vomited excessively and purged",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madana.yoga.hataṃ",
+      "words": [
+       {
+        "w": "madana-yoga-hatam",
+        "gloss": "killed by a madana compound",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके वस्त्र और अंग इधर-उधर फेंके हुए हों, जिसने बहुत वमन किया हो और जिसका विरेचन हुआ हो, उसे मदन-योग से मारा गया जाने।",
+  "english": "One with clothes and limbs flung about, who has vomited excessively and purged, one should know [him] to be killed by a madana compound.",
+  "text_flags": [],
+  "notes": "madana is kept as a name and no plant or effect is stated (glossary 14.1: yoga = compound here). ativanta-virikta: ati may qualify only vanta ('vomited excessively'), the pair read as one noun-phrase.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.10"
+  ],
+  "lines_deva": [
+   "विक्षिप्त.वस्त्र.गात्रम् अतिवन्त.विरिक्तं मदन.योग.हतं विद्यात्"
+  ],
+  "lines_iast": [
+   "vikṣipta.vastra.gātram ativanta.viriktaṃ madana.yoga.hataṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ato",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "than these",
+        "gram": "ind. abl."
+       }
+      ]
+     },
+     {
+      "src": "'nyatamena",
+      "words": [
+       {
+        "w": "anyatamena",
+        "gloss": "by any one other",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇena",
+      "words": [
+       {
+        "w": "kāraṇena",
+        "gloss": "by a cause",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hataṃ",
+      "words": [
+       {
+        "w": "hatam",
+        "gloss": "killed",
+        "gram": "m. acc. sg. pp. √han"
+       }
+      ]
+     },
+     {
+      "src": "hatvā",
+      "words": [
+       {
+        "w": "hatvā",
+        "gloss": "having killed",
+        "gram": "abs. √han"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.bhayād",
+      "words": [
+       {
+        "w": "daṇḍa-bhayāt",
+        "gloss": "from fear of punishment",
+        "gram": "n. abl. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "udbaddha.nikṛtta.kaṇṭhaṃ",
+      "words": [
+       {
+        "w": "udbaddha-nikṛtta-kaṇṭham",
+        "gloss": "with throat hung up and cut",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनसे भिन्न किसी एक कारण से मारा गया, अथवा मारकर दण्ड के भय से जिसका कण्ठ लटका हुआ और कटा हुआ हो, उसे जाने।",
+  "english": "One should know [him] as killed by some one cause other than these, or as one who, having killed, from fear of punishment has the throat hung up and cut.",
+  "text_flags": [],
+  "notes": "Syntax is loose: 'hatam' (killed by another cause) and the second member (one who killed and then, from fear of punishment, has throat udbaddha and nikṛtta) both depend on vidyāt. udbaddha = bound up/hung up, nikṛtta = cut; whether these mean self-hanging and self-cutting is not stated, so the literal sense is kept.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.11"
+  ],
+  "lines_deva": [
+   "अतो ऽन्यतमेन कारणेन हतं हत्वा वा दण्ड.भयाद् उद्बद्ध.निकृत्त.कण्ठं विद्यात्"
+  ],
+  "lines_iast": [
+   "ato 'nyatamena kāraṇena hataṃ hatvā vā daṇḍa.bhayād udbaddha.nikṛtta.kaṇṭhaṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viṣa.hatasya",
+      "words": [
+       {
+        "w": "viṣa-hatasya",
+        "gloss": "of one killed by poison",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhojana.śeṣaṃ",
+      "words": [
+       {
+        "w": "bhojana-śeṣam",
+        "gloss": "remainder of food",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vayobhiḥ",
+      "words": [
+       {
+        "w": "vayobhiḥ",
+        "gloss": "by birds",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "parīkṣeta",
+      "words": [
+       {
+        "w": "parīkṣeta",
+        "gloss": "should examine",
+        "gram": "3 sg. opt. pari-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विष से मारे गए के भोजन के शेष भाग की पक्षियों के द्वारा परीक्षा करे।",
+  "english": "He should examine the remainder of the food of one killed by poison by means of birds.",
+  "text_flags": [],
+  "notes": "vayas (n., plural vayobhiḥ) = bird. What the birds show is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.12"
+  ],
+  "lines_deva": [
+   "विष.हतस्य भोजन.शेषं वयोभिः परीक्षेत"
+  ],
+  "lines_iast": [
+   "viṣa.hatasya bhojana.śeṣaṃ vayobhiḥ parīkṣeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hṛdayād",
+      "words": [
+       {
+        "w": "hṛdayāt",
+        "gloss": "from the heart",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "uddhṛtya-agnau",
+      "words": [
+       {
+        "w": "uddhṛtya",
+        "gloss": "having drawn out",
+        "gram": "abs. ud-√hṛ"
+       },
+       {
+        "w": "agnau",
+        "gloss": "in the fire",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṣiptaṃ",
+      "words": [
+       {
+        "w": "prakṣiptam",
+        "gloss": "thrown",
+        "gram": "n. acc. sg. pp. pra-√kṣip"
+       }
+      ]
+     },
+     {
+      "src": "ciṭiciṭāyad.indra.dhanur.varṇaṃ",
+      "words": [
+       {
+        "w": "ciṭiciṭāyat-indra-dhanus-varṇam",
+        "gloss": "crackling or rainbow-coloured",
+        "gram": "n. acc. sg.; compound of ciṭiciṭāyat and indra-dhanus-varṇa (relation unsettled)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṣa.yuktaṃ",
+      "words": [
+       {
+        "w": "viṣa-yuktam",
+        "gloss": "joined with poison",
+        "gram": "n. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt,",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "dagdhasya",
+      "words": [
+       {
+        "w": "dagdhasya",
+        "gloss": "of the burnt one",
+        "gram": "m. gen. sg. pp. √dah"
+       }
+      ]
+     },
+     {
+      "src": "hṛdayam",
+      "words": [
+       {
+        "w": "hṛdayam",
+        "gloss": "heart",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "adagdhaṃ",
+      "words": [
+       {
+        "w": "adagdham",
+        "gloss": "unburnt",
+        "gram": "n. acc. sg. pp."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭvā",
+      "words": [
+       {
+        "w": "dṛṣṭvā",
+        "gloss": "having seen",
+        "gram": "abs. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हृदय से निकालकर अग्नि में डाले गए को, जो चिटचिट करता हुआ अथवा इन्द्रधनुष के रंग का हो, विष से युक्त जाने; अथवा जले हुए का हृदय न जला हुआ देखकर।",
+  "english": "Having drawn [it] out from the heart and thrown [it] into the fire, [it being] crackling or rainbow-coloured, one should know [it] as joined with poison; or having seen the heart of the burnt one unburnt.",
+  "text_flags": [],
+  "notes": "The object drawn out from the heart is not named; the neuter singular endings suggest a piece (or the heart itself) is meant, but this is not stated. ciṭiciṭāyat is onomatopoeic (crackling, a denominative participle); indra-dhanus = Indra's bow, i.e. rainbow; the compound is read as 'crackling or rainbow-coloured' because of the following vā. The last clause has no verb: 'one should know [it as poison]' is implied by the first clause but not written, and is not supplied. The vā stands after the compound, not inside it, so 'crackling or rainbow-coloured' is an interpretive reading; a literal reading is 'crackling, rainbow-coloured'. Kept for now, doubt recorded.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.13"
+  ],
+  "lines_deva": [
+   "हृदयाद् उद्धृत्य-अग्नौ प्रक्षिप्तं चिटिचिटायद्.इन्द्र.धनुर्.वर्णं वा विष.युक्तं विद्यात्, दग्धस्य हृदयम् अदग्धं दृष्ट्वा वा"
+  ],
+  "lines_iast": [
+   "hṛdayād uddhṛtya-agnau prakṣiptaṃ ciṭiciṭāyad.indra.dhanur.varṇaṃ vā viṣa.yuktaṃ vidyāt, dagdhasya hṛdayam adagdhaṃ dṛṣṭvā vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "paricāraka.janaṃ",
+      "words": [
+       {
+        "w": "paricāraka-janam",
+        "gloss": "the attendant people",
+        "gram": "m. acc. sg.; karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vāg.daṇḍa.pāruṣya.atilabdhaṃ",
+      "words": [
+       {
+        "w": "vāk-daṇḍa-pāruṣya-atilabdham",
+        "gloss": "who has received too much harshness of speech and punishment",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mārgeta,",
+      "words": [
+       {
+        "w": "mārgeta",
+        "gloss": "should seek out",
+        "gram": "3 sg. opt. √mārg"
+       }
+      ]
+     },
+     {
+      "src": "duḥkha.upahatam",
+      "words": [
+       {
+        "w": "duḥkha-upahatam",
+        "gloss": "afflicted by distress",
+        "gram": "m. acc. sg. pp.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anya.prasaktaṃ",
+      "words": [
+       {
+        "w": "anya-prasaktam",
+        "gloss": "attached to another",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "strī.janaṃ,",
+      "words": [
+       {
+        "w": "strī-janam",
+        "gloss": "women",
+        "gram": "m. acc. sg.; karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "dāya.vṛtti.strī.jana.abhimantāraṃ",
+      "words": [
+       {
+        "w": "dāya-vṛtti-strī-jana-abhimantāram",
+        "gloss": "one who has designs on inheritance, livelihood or women",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bandhum",
+      "words": [
+       {
+        "w": "bandhum",
+        "gloss": "kinsman",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके परिचारक जनों को, जिन्होंने वाणी और दण्ड की कठोरता अत्यधिक पाई हो, खोजे; अथवा दुःख से पीड़ित या अन्य में आसक्त स्त्री-जन को; अथवा दाय, वृत्ति या स्त्री-जन पर दृष्टि रखने वाले बन्धु को।",
+  "english": "He should seek out his attendants who have received too much harshness of speech and punishment, or women afflicted by distress or attached to another, or a kinsman with designs on inheritance, livelihood or women.",
+  "text_flags": [],
+  "notes": "Doubtful: atilabdha (ati-labdha) = 'obtained in excess', read as having received too much of the harshness; vāg-daṇḍa-pāruṣya is read as 'harshness of speech and of punishment' (vāk-pāruṣya + daṇḍa-pāruṣya, glossary 8.3 senses; the Book 3 senses 'verbal/physical injury' are possible). abhimantṛ is taken as 'one who has designs on / aims at'; alternative 'one who plots against'. dāya-vṛtti-strī-jana could also be read 'livelihood from inheritance, and women'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.14"
+  ],
+  "lines_deva": [
+   "तस्य परिचारक.जनं वाग्.दण्ड.पारुष्य.अतिलब्धं मार्गेत, दुःख.उपहतम् अन्य.प्रसक्तं वा स्त्री.जनं, दाय.वृत्ति.स्त्री.जन.अभिमन्तारं वा बन्धुम्"
+  ],
+  "lines_iast": [
+   "tasya paricāraka.janaṃ vāg.daṇḍa.pāruṣya.atilabdhaṃ mārgeta, duḥkha.upahatam anya.prasaktaṃ vā strī.janaṃ, dāya.vṛtti.strī.jana.abhimantāraṃ vā bandhum"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hata.udbaddhasya",
+      "words": [
+       {
+        "w": "hata-udbaddhasya",
+        "gloss": "of one killed or hanged",
+        "gram": "m. gen. sg.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "parīkṣeta",
+      "words": [
+       {
+        "w": "parīkṣeta",
+        "gloss": "should examine",
+        "gram": "3 sg. opt. pari-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मारे गए या फाँसी पर लटकाए गए के विषय में उसी की परीक्षा करे।",
+  "english": "Just that he should examine in the case of one killed or hanged.",
+  "text_flags": [],
+  "notes": "tad eva refers to the search of unit 14. hata-udbaddha is read as a dvandva 'killed or hanged'; alternative 'killed and then hung up'. Hindi 'फाँसी लटकाए गए' renders udbaddha. Hindi was rewritten with फाँसी पर लटकाए गए; the note's mention of 'फाँसी लटकाए गए' is superseded. 'Killed and hung' (dvandva as 'and') is at least as likely as 'killed or hanged' and contrasts with svayam-udbaddha in unit 16.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.15"
+  ],
+  "lines_deva": [
+   "तद् एव हत.उद्बद्धस्य परीक्षेत"
+  ],
+  "lines_iast": [
+   "tad eva hata.udbaddhasya parīkṣeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svayam",
+      "words": [
+       {
+        "w": "svayam",
+        "gloss": "by himself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "udbaddhasya",
+      "words": [
+       {
+        "w": "udbaddhasya",
+        "gloss": "of one hung",
+        "gram": "m. gen. sg. pp. ud-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viprakāram",
+      "words": [
+       {
+        "w": "viprakāram",
+        "gloss": "ill-treatment",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ayuktaṃ",
+      "words": [
+       {
+        "w": "ayuktam",
+        "gloss": "improper",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mārgeta",
+      "words": [
+       {
+        "w": "mārgeta",
+        "gloss": "should seek out",
+        "gram": "3 sg. opt. √mārg"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा स्वयं फाँसी पर लटके हुए के प्रति किए गए अनुचित दुर्व्यवहार को खोजे।",
+  "english": "Or, in the case of one hung by himself, he should seek out the improper ill-treatment.",
+  "text_flags": [],
+  "notes": "viprakāra = ill-treatment, wrong done to a person. 'svayam udbaddha' read as 'hung by himself' (self-hanged). The word order puts vā after udbaddhasya; it opens the alternative to unit 15.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.16"
+  ],
+  "lines_deva": [
+   "स्वयम् उद्बद्धस्य वा विप्रकारम् अयुक्तं मार्गेत"
+  ],
+  "lines_iast": [
+   "svayam udbaddhasya vā viprakāram ayuktaṃ mārgeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarveṣāṃ",
+      "words": [
+       {
+        "w": "sarveṣām",
+        "gloss": "of all",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "strī.dāyādya.doṣaḥ",
+      "words": [
+       {
+        "w": "strī-dāyādya-doṣaḥ",
+        "gloss": "fault concerning women and inheritance",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "karma.spardhā",
+      "words": [
+       {
+        "w": "karma-spardhā",
+        "gloss": "rivalry in work",
+        "gram": "f. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pratipakṣa.dveṣaḥ",
+      "words": [
+       {
+        "w": "pratipakṣa-dveṣaḥ",
+        "gloss": "hatred of a rival",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "paṇya.saṃsthā.samavāyo",
+      "words": [
+       {
+        "w": "paṇya-saṃsthā-samavāyaḥ",
+        "gloss": "coming together of trade establishments",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vivāda.padānām",
+      "words": [
+       {
+        "w": "vivāda-padānām",
+        "gloss": "of the grounds of litigation",
+        "gram": "n. gen. pl.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anyatamad",
+      "words": [
+       {
+        "w": "anyatamat",
+        "gloss": "any one",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "roṣa.sthānam",
+      "words": [
+       {
+        "w": "roṣa-sthānam",
+        "gloss": "ground of anger",
+        "gram": "n. nom. sg.; tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा सबके लिए स्त्री और दायभाग सम्बन्धी दोष, कर्म में स्पर्धा, प्रतिपक्षी से द्वेष, व्यापार-संस्थाओं का समवाय, अथवा विवाद के आधारों में से कोई एक, अथवा रोष का आधार है।",
+  "english": "Or, for all [of them], [there is] a fault concerning women and inheritance, rivalry in work, hatred of a rival, a coming together of trade establishments, or any one of the grounds of litigation, or a ground of anger.",
+  "text_flags": [],
+  "notes": "The sentence has no verb; only a bare copula is supplied. Doubtful: paṇya-saṃsthā-samavāya (saṃsthā = establishment/standing; samavāya = coming together, association; sense could be a collision or association of trade interests); strī-dāyādya-doṣa could be 'fault regarding women and inheritance' or 'defect in inheritance by women'; sarveṣām vā is read 'for all [of them]', referring to the cases of unit 14-16. vivāda-pada = ground (title) of litigation.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.17"
+  ],
+  "lines_deva": [
+   "सर्वेषां वा स्त्री.दायाद्य.दोषः कर्म.स्पर्धा प्रतिपक्ष.द्वेषः पण्य.संस्था.समवायो वा विवाद.पदानाम् अन्यतमद् वा रोष.स्थानम्"
+  ],
+  "lines_iast": [
+   "sarveṣāṃ vā strī.dāyādya.doṣaḥ karma.spardhā pratipakṣa.dveṣaḥ paṇya.saṃsthā.samavāyo vā vivāda.padānām anyatamad vā roṣa.sthānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "roṣa.nimitto",
+      "words": [
+       {
+        "w": "roṣa-nimittaḥ",
+        "gloss": "having anger as the cause",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ghātaḥ",
+      "words": [
+       {
+        "w": "ghātaḥ",
+        "gloss": "killing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हत्या का कारण रोष है।",
+  "english": "The killing has anger as its cause.",
+  "text_flags": [],
+  "notes": "Hindi 'होती है' is the bare copula; the Sanskrit has the bahuvrīhi alone. roṣa = anger. Hindi now reads 'हत्या का कारण रोष है' (bare copula है only); the remark about 'होती है' is superseded.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.18"
+  ],
+  "lines_deva": [
+   "रोष.निमित्तो घातः"
+  ],
+  "lines_iast": [
+   "roṣa.nimitto ghātaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svayaṃ.ādiṣṭa.puruṣair",
+      "words": [
+       {
+        "w": "svayam-ādiṣṭa-puruṣaiḥ",
+        "gloss": "by men commissioned personally",
+        "gram": "m. inst. pl.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "corair",
+      "words": [
+       {
+        "w": "coraiḥ",
+        "gloss": "by thieves",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "artha.nimittaṃ,",
+      "words": [
+       {
+        "w": "artha-nimittam",
+        "gloss": "for the purpose of wealth",
+        "gram": "n. acc. sg. adv."
+       }
+      ]
+     },
+     {
+      "src": "sādṛśyād",
+      "words": [
+       {
+        "w": "sādṛśyāt",
+        "gloss": "from resemblance",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "anya.vairibhir",
+      "words": [
+       {
+        "w": "anya-vairibhiḥ",
+        "gloss": "by enemies of another",
+        "gram": "m. inst. pl.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hatasya",
+      "words": [
+       {
+        "w": "hatasya",
+        "gloss": "of one killed",
+        "gram": "m. gen. sg. pp. √han"
+       }
+      ]
+     },
+     {
+      "src": "ghātam",
+      "words": [
+       {
+        "w": "ghātam",
+        "gloss": "the killing",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āsannebhyaḥ",
+      "words": [
+       {
+        "w": "āsannebhyaḥ",
+        "gloss": "from those near",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "parīkṣeta",
+      "words": [
+       {
+        "w": "parīkṣeta",
+        "gloss": "should examine",
+        "gram": "3 sg. opt. pari-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वयं नियुक्त किए गए पुरुषों द्वारा, अथवा चोरों द्वारा धन के निमित्त, अथवा समानता के कारण अन्य के शत्रुओं द्वारा मारे गए की हत्या की परीक्षा निकट के लोगों से करे।",
+  "english": "He should examine from those near the killing of one killed by men commissioned personally, or by thieves for the purpose of wealth, or, from resemblance, by enemies of another.",
+  "text_flags": [],
+  "notes": "Doubtful: svayam-ādiṣṭa-puruṣa 'men commissioned personally' does not say by whom (the victim's enemy is likely, not stated); sādṛśyāt 'from resemblance' is kept literal (the victim being mistaken for another is a possible sense). āsannebhyaḥ is read as ablative 'from those near'; dative is also possible.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.19"
+  ],
+  "lines_deva": [
+   "स्वयं.आदिष्ट.पुरुषैर् वा, चोरैर् अर्थ.निमित्तं, सादृश्याद् अन्य.वैरिभिर् वा हतस्य घातम् आसन्नेभ्यः परीक्षेत"
+  ],
+  "lines_iast": [
+   "svayaṃ.ādiṣṭa.puruṣair vā, corair artha.nimittaṃ, sādṛśyād anya.vairibhir vā hatasya ghātam āsannebhyaḥ parīkṣeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yena-āhūtaḥ",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by whom",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "āhūtaḥ",
+        "gloss": "called",
+        "gram": "m. nom. sg. pp. ā-√hve"
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "with",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthitaḥ",
+      "words": [
+       {
+        "w": "sthitaḥ",
+        "gloss": "stayed",
+        "gram": "m. nom. sg. pp. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "prasthito",
+      "words": [
+       {
+        "w": "prasthitaḥ",
+        "gloss": "set out",
+        "gram": "m. nom. sg. pp. pra-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "hata.bhūmim",
+      "words": [
+       {
+        "w": "hata-bhūmim",
+        "gloss": "the place of the killing",
+        "gram": "f. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ānīto",
+      "words": [
+       {
+        "w": "ānītaḥ",
+        "gloss": "brought",
+        "gram": "m. nom. sg. pp. ā-√nī"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tam",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anuyuñjīta",
+      "words": [
+       {
+        "w": "anuyuñjīta",
+        "gloss": "should question",
+        "gram": "3 sg. opt. anu-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने उसे बुलाया, जिसके साथ वह ठहरा या निकला, अथवा जो उसे हत्या-स्थान पर लाया, उससे पूछताछ करे।",
+  "english": "He should question him by whom [the dead man] was called, with [whom he] stayed [or] set out, or [by whom he] was brought to the place of the killing.",
+  "text_flags": [],
+  "notes": "The dead man is the unstated subject of the participles; 'saha' is taken with yena (with whom). Whether prasthitaḥ is also 'with whom' is a reading; the alternative is 'set out' as a separate clause.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.20"
+  ],
+  "lines_deva": [
+   "येन-आहूतः सह स्थितः प्रस्थितो हत.भूमिम् आनीतो वा तम् अनुयुञ्जीत"
+  ],
+  "lines_iast": [
+   "yena-āhūtaḥ saha sthitaḥ prasthito hata.bhūmim ānīto vā tam anuyuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hata.bhūmāv",
+      "words": [
+       {
+        "w": "hata-bhūmau",
+        "gloss": "at the place of the killing",
+        "gram": "f. loc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "āsanna.carās",
+      "words": [
+       {
+        "w": "āsanna-carāḥ",
+        "gloss": "those moving near",
+        "gram": "m. nom. pl.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tān",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "eka.ekaśaḥ",
+      "words": [
+       {
+        "w": "eka-ekaśaḥ",
+        "gloss": "one by one",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛcchet",
+      "words": [
+       {
+        "w": "pṛcchet",
+        "gloss": "should ask",
+        "gram": "3 sg. opt. √prach"
+       }
+      ]
+     },
+     {
+      "src": "\"kena-ayam",
+      "words": [
+       {
+        "w": "kena",
+        "gloss": "by whom",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iha-ānīto",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "ānītaḥ",
+        "gloss": "brought",
+        "gram": "m. nom. sg. pp. ā-√nī"
+       }
+      ]
+     },
+     {
+      "src": "hato",
+      "words": [
+       {
+        "w": "hataḥ",
+        "gloss": "killed",
+        "gram": "m. nom. sg. pp. √han"
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaḥ",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa.śastraḥ",
+      "words": [
+       {
+        "w": "sa-śastraḥ",
+        "gloss": "with a weapon",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "saṅgūhamāna",
+      "words": [
+       {
+        "w": "saṅgūhamānaḥ",
+        "gloss": "concealing",
+        "gram": "m. nom. sg. pres. part. sam-√gūh"
+       }
+      ]
+     },
+     {
+      "src": "udvigno",
+      "words": [
+       {
+        "w": "udvignaḥ",
+        "gloss": "agitated",
+        "gram": "m. nom. sg. pp. ud-√vij"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yuṣmābhir",
+      "words": [
+       {
+        "w": "yuṣmābhiḥ",
+        "gloss": "by you",
+        "gram": "inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭaḥ\"",
+      "words": [
+       {
+        "w": "dṛṣṭaḥ",
+        "gloss": "seen",
+        "gram": "m. nom. sg. pp. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जो उसके हत्या-स्थान के निकट घूमने वाले हों, उनसे एक-एक करके पूछे: “इसे यहाँ किसने लाया या मारा? हथियार के साथ, छिपाता हुआ या घबराया हुआ कौन आपके द्वारा देखा गया?”",
+  "english": "And those who move about near his place of killing, he should ask one by one: “By whom was this one brought here, or killed? Who, armed, concealing, or agitated, was seen by you?”",
+  "text_flags": [],
+  "notes": "The closing iti is carried by the quotation marks only. In the quotation the objects of saṅgūhamāna are not stated (himself or something else). The question 'kena ... hato vā' is two verbal ideas under one 'by whom': brought here or killed. āsanna-cara is read 'moving near'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.21"
+  ],
+  "lines_deva": [
+   "ये च-अस्य हत.भूमाव् आसन्न.चरास् तान् एक.एकशः पृच्छेत् \"केन-अयम् इह-आनीतो हतो वा, कः स.शस्त्रः सङ्गूहमान उद्विग्नो वा युष्माभिर् दृष्टः\" इति"
+  ],
+  "lines_iast": [
+   "ye ca-asya hata.bhūmāv āsanna.carās tān eka.ekaśaḥ pṛcchet \"kena-ayam iha-ānīto hato vā, kaḥ sa.śastraḥ saṅgūhamāna udvigno vā yuṣmābhir dṛṣṭaḥ\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "brūyus",
+      "words": [
+       {
+        "w": "brūyuḥ",
+        "gloss": "would say",
+        "gram": "3 pl. opt. √brū"
+       }
+      ]
+     },
+     {
+      "src": "tathā-anuyuñjīta",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "anuyuñjīta",
+        "gloss": "should question",
+        "gram": "3 sg. opt. anu-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे जैसा कहें, वैसी पूछताछ करे।",
+  "english": "As they would say, so he should question.",
+  "text_flags": [],
+  "notes": "Sense: follow up according to what they say; kept literal ('so he should question').",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.22"
+  ],
+  "lines_deva": [
+   "ते यथा ब्रूयुस् तथा-अनुयुञ्जीत"
+  ],
+  "lines_iast": [
+   "te yathā brūyus tathā-anuyuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anāthasya",
+      "words": [
+       {
+        "w": "anāthasya",
+        "gloss": "of one without a protector",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīra.stham",
+      "words": [
+       {
+        "w": "śarīra-stham",
+        "gloss": "situated on the body",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "upabhogaṃ",
+      "words": [
+       {
+        "w": "upabhogam",
+        "gloss": "enjoyment, article of use",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paricchadam",
+      "words": [
+       {
+        "w": "paricchadam",
+        "gloss": "equipment",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vastraṃ",
+      "words": [
+       {
+        "w": "vastram",
+        "gloss": "garment",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "veṣaṃ",
+      "words": [
+       {
+        "w": "veṣam",
+        "gloss": "dress",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibhūṣāṃ",
+      "words": [
+       {
+        "w": "vibhūṣām",
+        "gloss": "ornament",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭvā",
+      "words": [
+       {
+        "w": "dṛṣṭvā",
+        "gloss": "having seen",
+        "gram": "abs. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "tad.vyavahāriṇaḥ",
+      "words": [
+       {
+        "w": "tat-vyavahāriṇaḥ",
+        "gloss": "those who deal in them",
+        "gram": "m. acc. pl.; tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनाथ के शरीर पर स्थित उपभोग, परिच्छद, वस्त्र, वेश अथवा आभूषण को देखकर, उनका लेन-देन करने वालों से",
+  "english": "Having seen, of one without a protector, the article of use, equipment, garment, dress or ornament situated on the body, those who deal in them",
+  "text_flags": [],
+  "notes": "The sentence continues in unit 24: tad-vyavahāriṇaḥ is read as the object of anuyuñjīta (24a), so the unit ends without its verb. anātha = without protector (helpless, unclaimed). upabhoga/paricchada kept as 'article of use' / 'equipment'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.23a",
+   "04.07.23b"
+  ],
+  "lines_deva": [
+   "अनाथस्य शरीर.स्थम् उपभोगं परिच्छदम्",
+   "वस्त्रं वेषं विभूषां वा दृष्ट्वा तद्.व्यवहारिणः"
+  ],
+  "lines_iast": [
+   "anāthasya śarīra.stham upabhogaṃ paricchadam",
+   "vastraṃ veṣaṃ vibhūṣāṃ vā dṛṣṭvā tad.vyavahāriṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anuyuñjīta",
+      "words": [
+       {
+        "w": "anuyuñjīta",
+        "gloss": "should question",
+        "gram": "3 sg. opt. anu-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "saṃyogaṃ",
+      "words": [
+       {
+        "w": "saṃyogam",
+        "gloss": "connection",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nivāsaṃ",
+      "words": [
+       {
+        "w": "nivāsam",
+        "gloss": "residence",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsa.kāraṇam",
+      "words": [
+       {
+        "w": "vāsa-kāraṇam",
+        "gloss": "reason for the stay",
+        "gram": "n. acc. sg.; tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "work",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyavahāraṃ",
+      "words": [
+       {
+        "w": "vyavahāram",
+        "gloss": "dealings",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mārgaṇam",
+      "words": [
+       {
+        "w": "mārgaṇam",
+        "gloss": "search",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ācaret",
+      "words": [
+       {
+        "w": "ācaret",
+        "gloss": "should carry out",
+        "gram": "3 sg. opt. ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सम्पर्क, निवास, निवास का कारण, कर्म और व्यवहार के विषय में पूछताछ करे; तब खोज करे।",
+  "english": "He should question [them about] the connection, residence, reason for the stay, and the work and the dealings; then he should carry out the search.",
+  "text_flags": [],
+  "notes": "Continues unit 23: the dealers are the first object of anuyuñjīta, the listed matters the second. saṃyogam is read as the dead man's connection (association) with persons; vyavahāra = dealings/business. 'karma' = work (glossary 5.3 sense).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.24a",
+   "04.07.24b"
+  ],
+  "lines_deva": [
+   "अनुयुञ्जीत संयोगं निवासं वास.कारणम्",
+   "कर्म च व्यवहारं च ततो मार्गणम् आचरेत्"
+  ],
+  "lines_iast": [
+   "anuyuñjīta saṃyogaṃ nivāsaṃ vāsa.kāraṇam",
+   "karma ca vyavahāraṃ ca tato mārgaṇam ācaret"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rajju.śastra.viṣair",
+      "words": [
+       {
+        "w": "rajju-śastra-viṣaiḥ",
+        "gloss": "by rope, weapon or poison",
+        "gram": "n. inst. pl.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vā-api",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāma.krodha.vaśena",
+      "words": [
+       {
+        "w": "kāma-krodha-vaśena",
+        "gloss": "under the sway of desire and anger",
+        "gram": "m. inst. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ghātayet",
+      "words": [
+       {
+        "w": "ghātayet",
+        "gloss": "would put to death",
+        "gram": "3 sg. opt. caus. √han"
+       }
+      ]
+     },
+     {
+      "src": "svayam",
+      "words": [
+       {
+        "w": "svayam",
+        "gloss": "himself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ātmānaṃ",
+      "words": [
+       {
+        "w": "ātmānam",
+        "gloss": "himself",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "strī",
+      "words": [
+       {
+        "w": "strī",
+        "gloss": "woman",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāpena",
+      "words": [
+       {
+        "w": "pāpena",
+        "gloss": "by evil",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mohitā",
+      "words": [
+       {
+        "w": "mohitā",
+        "gloss": "deluded",
+        "gram": "f. nom. sg. pp. caus. √muh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो कोई काम और क्रोध के वश होकर रस्सी, शस्त्र या विष से भी स्वयं अपने को मार डाले, अथवा पाप से मोहित स्त्री।",
+  "english": "Whoever, under the sway of desire and anger, would himself put himself to death by rope, weapon or poison also, or a woman deluded by evil.",
+  "text_flags": [],
+  "notes": "ghātayet is causative ('cause to be killed') but with ātmānam means to kill oneself; svayam is 'himself'. 'vā api' is rendered 'or ... also'. The line has no main verb for the woman; units 26-27 continue about 'them' (tān). strī is nominative and is most naturally a second subject of ghātayet ('or a woman deluded by evil [would put herself to death]'); the note about 'no main verb for the woman' should be read in that light. English leaves the verb unrepeated, as in the Sanskrit.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.25a",
+   "04.07.25b"
+  ],
+  "lines_deva": [
+   "रज्जु.शस्त्र.विषैर् वा-अपि काम.क्रोध.वशेन यः",
+   "घातयेत् स्वयम् आत्मानं स्त्री वा पापेन मोहिता"
+  ],
+  "lines_iast": [
+   "rajju.śastra.viṣair vā-api kāma.krodha.vaśena yaḥ",
+   "ghātayet svayam ātmānaṃ strī vā pāpena mohitā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rajjunā",
+      "words": [
+       {
+        "w": "rajjunā",
+        "gloss": "with a rope",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.mārge",
+      "words": [
+       {
+        "w": "rāja-mārge",
+        "gloss": "on the royal road",
+        "gram": "m. loc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tāṃś",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "caṇḍālena-apakarṣayet",
+      "words": [
+       {
+        "w": "caṇḍālena",
+        "gloss": "by a caṇḍāla",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "apakarṣayet",
+        "gloss": "should have dragged away",
+        "gram": "3 sg. opt. caus. apa-√kṛṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śmaśāna.vidhis",
+      "words": [
+       {
+        "w": "śmaśāna-vidhiḥ",
+        "gloss": "rite of the cremation ground",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "for them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sambandhi.kriyās",
+      "words": [
+       {
+        "w": "sambandhi-kriyāḥ",
+        "gloss": "rites by relatives",
+        "gram": "f. nom. pl.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "likewise",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रस्सी से राजमार्ग पर उन्हें चाण्डाल द्वारा घसीटवाए; उनके लिए श्मशान की विधि नहीं, और वैसे ही सम्बन्धियों की क्रियाएँ भी नहीं।",
+  "english": "He should have them dragged away on the royal road with a rope by a caṇḍāla; for them there is no cremation-ground rite, nor likewise rites by relatives.",
+  "text_flags": [],
+  "notes": "tān refers to those who killed themselves (unit 25). caṇḍāla kept as the class name. sambandhi-kriyā could also be rites 'for' relatives; kept as 'rites by relatives'. 'tathā' is read as 'likewise' after the second na; the 'भी' in Hindi renders this.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.07.26a",
+   "04.07.26b"
+  ],
+  "lines_deva": [
+   "रज्जुना राज.मार्गे तांश् चण्डालेन-अपकर्षयेत्",
+   "न श्मशान.विधिस् तेषां न सम्बन्धि.क्रियास् तथा"
+  ],
+  "lines_iast": [
+   "rajjunā rāja.mārge tāṃś caṇḍālena-apakarṣayet",
+   "na śmaśāna.vidhis teṣāṃ na sambandhi.kriyās tathā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bandhus",
+      "words": [
+       {
+        "w": "bandhuḥ",
+        "gloss": "kinsman",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "would do",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "preta.kārya.kriyā.vidhim",
+      "words": [
+       {
+        "w": "preta-kārya-kriyā-vidhim",
+        "gloss": "the procedure of the rites that are duties for the deceased",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tad.gatiṃ",
+      "words": [
+       {
+        "w": "tat-gatim",
+        "gloss": "their course",
+        "gram": "f. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caret",
+      "words": [
+       {
+        "w": "caret",
+        "gloss": "should follow",
+        "gram": "3 sg. opt. √car"
+       }
+      ]
+     },
+     {
+      "src": "paścāt",
+      "words": [
+       {
+        "w": "paścāt",
+        "gloss": "afterwards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva.janād",
+      "words": [
+       {
+        "w": "sva-janāt",
+        "gloss": "from his own people",
+        "gram": "m. abl. sg.; karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pramucyate",
+      "words": [
+       {
+        "w": "pramucyate",
+        "gloss": "is released",
+        "gram": "3 sg. pass. pra-√muc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनका जो बन्धु मृतक के कर्तव्य की क्रियाओं की विधि करे, वह बाद में उनकी गति का अनुसरण करे, अथवा अपने जनों से छोड़ दिया जाता है।",
+  "english": "But a kinsman of theirs who would perform the procedure of the rites that are duties for the deceased, he should afterwards follow their course, or is released from his own people.",
+  "text_flags": [],
+  "notes": "Doubtful: tad-gati 'their course' (fate/path) is kept literal; pramucyate 'is released' could mean he is cut off or abandoned by his kin, or freed from them; the sense is not settled here. paścāt could mean 'afterwards' or 'later'. preta = the deceased (glossary 5.3).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.27a",
+   "04.07.27b"
+  ],
+  "lines_deva": [
+   "बन्धुस् तेषां तु यः कुर्यात् प्रेत.कार्य.क्रिया.विधिम्",
+   "तद्.गतिं स चरेत् पश्चात् स्व.जनाद् वा प्रमुच्यते"
+  ],
+  "lines_iast": [
+   "bandhus teṣāṃ tu yaḥ kuryāt preta.kārya.kriyā.vidhim",
+   "tad.gatiṃ sa caret paścāt sva.janād vā pramucyate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃvatsareṇa",
+      "words": [
+       {
+        "w": "saṃvatsareṇa",
+        "gloss": "in a year",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "patati",
+      "words": [
+       {
+        "w": "patati",
+        "gloss": "falls",
+        "gram": "3 sg. pres. √pat"
+       }
+      ]
+     },
+     {
+      "src": "patitena",
+      "words": [
+       {
+        "w": "patitena",
+        "gloss": "with a fallen one",
+        "gram": "m. inst. sg. pp."
+       }
+      ]
+     },
+     {
+      "src": "samācaran",
+      "words": [
+       {
+        "w": "samācaran",
+        "gloss": "associating",
+        "gram": "m. nom. sg. pres. part. sam-ā-√car"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yājana.adhyāpanād",
+      "words": [
+       {
+        "w": "yājana-adhyāpanāt",
+        "gloss": "from officiating at sacrifices and teaching",
+        "gram": "n. abl. sg.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yaunāt",
+      "words": [
+       {
+        "w": "yaunāt",
+        "gloss": "from a marriage connection",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "taiś",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "with them",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-anyo",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "another",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'pi",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samācaran",
+      "words": [
+       {
+        "w": "samācaran",
+        "gloss": "associating",
+        "gram": "m. nom. sg. pres. part. sam-ā-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह एक वर्ष में पतित हो जाता है, पतित के साथ बर्ताव करता हुआ; यज्ञ कराने, पढ़ाने या विवाह-सम्बन्ध से; और उनके साथ बर्ताव करने वाला दूसरा भी।",
+  "english": "He falls in a year, associating with a fallen one; [through] officiating at sacrifices, teaching, or a marriage connection; and another also, associating with them.",
+  "text_flags": [],
+  "notes": "Doubtful: yauna (pertaining to the womb) is read as 'marriage connection', alternative 'connection by birth'. patati/patita 'falls/fallen' is kept literal (the technical sense of loss of status is not added). The subject of patati is unstated ('he'); 'taiḥ' = with those (the fallen). Hindi विवाह-सम्बन्ध matches the English 'marriage connection'; yauna literally 'pertaining to the womb/yoni', alternative 'connection by birth'. Hindi बर्ताव renders samācarati so that व्यवहार stays for vyavahāra.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.07.28a",
+   "04.07.28b"
+  ],
+  "lines_deva": [
+   "संवत्सरेण पतति पतितेन समाचरन्",
+   "याजन.अध्यापनाद् यौनात् तैश् च-अन्यो ऽपि समाचरन्"
+  ],
+  "lines_iast": [
+   "saṃvatsareṇa patati patitena samācaran",
+   "yājana.adhyāpanād yaunāt taiś ca-anyo 'pi samācaran"
+  ],
+  "uncertain": []
+ }
+]

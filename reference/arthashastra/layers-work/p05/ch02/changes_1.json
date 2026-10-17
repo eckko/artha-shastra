@@ -1,0 +1,237 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "He should ask a country that is large, or of small extent, not dependent on rain and with abundant grain, for a third or a fourth share of the grain, according to its quality, middling or lower.",
+  "new": "He should ask a country that is large, or of small extent, not dependent on rain and with abundant grain, for a third or a fourth share of the grain, according to quality, middling or lower.",
+  "why": "reviewer (minor): \"its\" is not in the Sanskrit (yathā-sāram has no pronoun); unmarked addition"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "वह बड़े अथवा छोटे विस्तार वाले, वर्षा पर निर्भर न रहने वाले और प्रचुर अन्न वाले जनपद से अन्न का तीसरा अथवा चौथा भाग माँगे — उसकी गुणवत्ता के अनुसार मध्यम अथवा निम्न।",
+  "new": "वह बड़े अथवा छोटे विस्तार वाले, वर्षा पर निर्भर न रहने वाले और प्रचुर अन्न वाले जनपद से अन्न का तीसरा अथवा चौथा भाग माँगे — गुणवत्ता के अनुसार मध्यम अथवा निम्न।",
+  "why": "reviewer (minor): \"उसकी\" (its) is an unmarked addition; sāra may also be strength/capacity, see notes"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "yathā-sāram",
+  "old": "according to its quality",
+  "new": "according to quality",
+  "why": "reviewer (minor): \"its\" added in gloss"
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "adeva-mātṛka is literally 'not having the god (rain-god) as its mother', i.e. not dependent on rain. yathā-sāram: 'according to its quality/substance'; sāra could also be 'strength' or 'yield'. 'madhyam avaram vā' is neuter, so it cannot agree with the masculine janapadam or aṃśam; taken here as an adverbial 'middling or lower' (degree of the share); it might instead qualify the country's quality. The units of grammar and the sense of the last phrase are uncertain.",
+  "new": "adeva-mātṛka is literally 'not having the god (rain-god) as its mother', i.e. not dependent on rain. yathā-sāram: 'according to its quality/substance'; sāra could also be 'strength' or 'yield'. 'madhyam avaram vā' is neuter, so it cannot agree with the masculine janapadam or aṃśam; taken here as an adverbial 'middling or lower' (degree of the share); it might instead qualify the country's quality. The units of grammar and the sense of the last phrase are uncertain. Reading of madhyam avaram vā accepted as adverbial (middling or lower) with doubt; sāra may also mean strength or capacity of the country. No firm sense; a person should check against Kangle.",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "The long compound is one word running over the line break marked '.-'; it is split here into five groups: durga-setu-karma / vaṇik-patha / śūnya-niveśa / khani / dravya-hasti-vana-karma. The grouping is a judgment: karma occurs twice, and dravya-vana ('forest of materials') and hasti-vana ('elephant forest') are read as the two forests. Alternative: 'karma' of the first group governs only forts and embankments, while the final karma governs the forests. 'country' is supplied from the previous unit.",
+  "new": "The long compound is one word running over the line break marked '.-'; it is split here into five groups: durga-setu-karma / vaṇik-patha / śūnya-niveśa / khani / dravya-hasti-vana-karma. The grouping is a judgment: karma occurs twice, and dravya-vana ('forest of materials') and hasti-vana ('elephant forest') are read as the two forests. Alternative: 'karma' of the first group governs only forts and embankments, while the final karma governs the forests. 'country' is supplied from the previous unit. Review: the draft groups the long compound in five chunks (a hyphenated chunk is one word entry) instead of one entry per member; accepted as readable, flagged for a person. Alternative reading: karma governs every member (work on forts, embankments, trade routes, ..., material forests, elephant forests).",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "udvāpa is an obscure term, left untranslated; literally ud-√vap is 'sowing/scattering out' and the sense (extra sowing, a levy, or removal of seed) is uncertain. 'tasya' (of that) refers back to the purchase or request of the previous units, not certain.",
+  "new": "udvāpa is an obscure term, left untranslated; literally ud-√vap is 'sowing/scattering out' and the sense (extra sowing, a levy, or removal of seed) is uncertain. 'tasya' (of that) refers back to the purchase or request of the previous units, not certain. Review: udvāpa and tasya both left open; kept literal, no sense built (confidence low is right).",
+  "why": "reviewer (minor): "
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "निष्पन्न हो जाने पर वे हरे और पके का लिया जाना रोकें, केवल शाक-कट-भङ्ग और मुष्टि को छोड़कर, देवताओं और पितरों की पूजा तथा दान के लिए अथवा गायों के लिए।",
+  "new": "निष्पन्न हो जाने पर वे हरे और पके का लिया जाना रोकें, शाक-कट-भङ्ग और मुष्टि को छोड़कर, देवताओं और पितरों की पूजा तथा दान के लिए अथवा गायों के लिए।",
+  "why": "reviewer (minor): \"केवल\" (only) is not in the Sanskrit; anyatra means \"except\", and \"केवल ... को छोड़कर\" changes the sense"
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "The noun with niṣpanne is not stated; 'the crop' is supplied in brackets. śāka-kaṭa-bhaṅga is obscure and left untranslated (literally 'vegetable, mat/straw?, breaking'). The ending -bhyām is dual, so two things are excepted: [śāka-kaṭa-bhaṅga] and [muṣṭi]; an alternative division is [śāka-kaṭa] and [bhaṅga-muṣṭi]. gava-artham: gava is the unsandhied stem of go (cow). The final purpose phrases may govern only the exceptions or the whole prohibition.",
+  "new": "The noun with niṣpanne is not stated; 'the crop' is supplied in brackets. śāka-kaṭa-bhaṅga is obscure and left untranslated (literally 'vegetable, mat/straw?, breaking'). The ending -bhyām is dual, so two things are excepted: [śāka-kaṭa-bhaṅga] and [muṣṭi]; an alternative division is [śāka-kaṭa] and [bhaṅga-muṣṭi]. gava-artham: gava is the unsandhied stem of go (cow). The final purpose phrases may govern only the exceptions or the whole prohibition. Review: the printed -bhyāṃ is the dual ablative (anyatra takes the ablative), so two exceptions are read; the grouping of the first four members as one word in the split is the drafter's judgment (not every member listed separately). The Hindi/English wording of the final purpose phrases leaves open whether they limit only the exceptions.",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "वे अनाजों का चौथा भाग और वन्य उत्पादों का छठा भाग ग्रहण करें — रुई, लाक्षा, क्षौम, वल्कल, कपास, रौम, कौशेय, औषध, गन्ध, पुष्प, फल, शाक की वस्तुओं का तथा काष्ठ, बाँस, मांस और सूखे मांस का — और दाँत तथा चर्म का आधा।",
+  "new": "वे अनाजों का चौथा भाग और वन्य उत्पादों का छठा भाग ग्रहण करें — रुई, लाक्षा, क्षौम, वल्कल, कपास, रौम, कौशेय, औषध, गन्ध, पुष्प, फल, शाक, इन सबके पण्य का तथा काष्ठ, बाँस, मांस और सूखे मांस का — और दाँत तथा चर्म का आधा।",
+  "why": "reviewer (minor): paṇyānām closes the whole dvandva (as the English has it: \"wares of ...\"); \"शाक की वस्तुओं\" attaches the wares to śāka alone"
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "The long dvandva continues across the line break '.-' into puṣpa.phala.śāka.paṇyānāṃ. rauma is obscure (alternatives: woollen product, or a kind of salt); left untranslated. tūla literally 'cotton-down/tuft'. vallūra 'dried meat' (dictionary sense). danta 'tooth' is probably ivory but is rendered literally. paṇyānām is read as ending the compound 'wares of ...'. The corrected reading auṣadha is used in the words and translation.",
+  "new": "The long dvandva continues across the line break '.-' into puṣpa.phala.śāka.paṇyānāṃ. rauma is obscure (alternatives: woollen product, or a kind of salt); left untranslated. tūla literally 'cotton-down/tuft'. vallūra 'dried meat' (dictionary sense). danta 'tooth' is probably ivory but is rendered literally. paṇyānām is read as ending the compound 'wares of ...'. The corrected reading auṣadha is used in the words and translation. Review: kauṣadha accepted as a probable typo for auṣadha (kauśeya + auṣadha), kept as a possible typo; a person should check the printed edition. rauma stays untranslated (woollen product or a salt are only guesses).",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "Such is the praṇaya (request) among farmers.",
+  "new": "Such is the request (praṇaya) among farmers.",
+  "why": "reviewer (minor): glossary decision (5.2): praṇaya = request (याचना); English gives the plain word first"
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "praṇayaḥ",
+  "old": "praṇaya (request)",
+  "new": "request (praṇaya)",
+  "why": "reviewer (minor): glossary decision (5.2): praṇaya = request"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "यह किसानों के विषय में प्रणय है।",
+  "new": "यह किसानों के विषय में याचना है।",
+  "why": "reviewer (minor): modern Hindi प्रणय means love/affection and misleads; glossary decision (5.2): praṇaya = याचना"
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "A closing summary formula, not a quoted view, so 'iti' is rendered 'such is'. praṇaya: 'request, solicitation' (also 'affection/trust'); the term should be settled in the glossary. The same formula closes units 26 and 29.",
+  "new": "A closing summary formula, not a quoted view, so 'iti' is rendered 'such is'. praṇaya: 'request, solicitation' (also 'affection/trust'); the term should be settled in the glossary. The same formula closes units 26 and 29. Glossary (5.2): praṇaya = request (याचना); closing \"iti X-eṣu praṇayaḥ\" = \"Such is the request (praṇaya) among X\" / \"यह X के विषय में याचना है\"; iti rendered \"such is\", never a bare \"thus\".",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "pakva",
+  "old": "adj.; dvandva member",
+  "new": "adj.; first member of karmadhāraya pakva-anna",
+  "why": "reviewer (minor): pakva and anna are not two dvandva members: \"pakva-anna\" is one compound (cooked food), as the translation has it"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "anna",
+  "old": "n.; dvandva member",
+  "new": "n.; with pakva = \"cooked food\"",
+  "why": "reviewer (minor): see pakva"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "mṛd",
+  "old": "f.; dvandva member",
+  "new": "f.; first member of tat-puruṣa mṛd-bhāṇḍa",
+  "why": "reviewer (minor): mṛd and bhāṇḍa form \"earthen vessels\" as the translation has it, not two separate dvandva members"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "bhāṇḍa",
+  "old": "n.; dvandva member",
+  "new": "n.; mṛd-bhāṇḍa = earthen vessels",
+  "why": "reviewer (minor): see mṛd"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "For they might sell [it], having brought forward what has not been taken up (aparigṛhīta).",
+  "new": "For, having brought forward what has not been taken up (aparigṛhīta), they might sell [it].",
+  "why": "reviewer (minor): absolutive abhinīya precedes and aparigṛhītam is the object of both; the draft word order \"sell [it], having brought forward ...\" reads as if the object were a different unnamed thing"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Such is the praṇaya (request) among traders.",
+  "new": "Such is the request (praṇaya) among traders.",
+  "why": "reviewer (minor): glossary decision (5.2): praṇaya = request (याचना); English gives the plain word first"
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "praṇayaḥ",
+  "old": "praṇaya (request)",
+  "new": "request (praṇaya)",
+  "why": "reviewer (minor): glossary decision (5.2): praṇaya = request"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "यह व्यवहारियों के विषय में प्रणय है।",
+  "new": "यह व्यवहारियों के विषय में याचना है।",
+  "why": "reviewer (minor): modern Hindi प्रणय means love/affection and misleads; glossary decision (5.2): praṇaya = याचना"
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "Closing summary formula, as in unit 16. vyavahārin is 'one who does business'.",
+  "new": "Closing summary formula, as in unit 16. vyavahārin is 'one who does business'. Glossary (5.2): praṇaya = request (याचना), as in unit 16.",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "27",
+  "field": "word.gram",
+  "word": "daśa-bhāgam",
+  "old": "bahuvrīhi, m. acc. sg.",
+  "new": "dvigu, m. acc. sg.",
+  "why": "reviewer (minor): \"a tenth part\" is a numeral compound (dvigu), not a bahuvrīhi"
+ },
+ {
+  "n": "27",
+  "field": "word.gram",
+  "word": "ṣaṣ-bhāgam",
+  "old": "bahuvrīhi, m. acc. sg.",
+  "new": "dvigu, m. acc. sg.",
+  "why": "reviewer (minor): \"a sixth part\" is a numeral compound (dvigu), not a bahuvrīhi"
+ },
+ {
+  "n": "27",
+  "field": "word.w",
+  "word": "ṣaṣ-bhāgam",
+  "old": "ṣaṣ-bhāgam",
+  "new": "ṣaḍ-bhāgam",
+  "why": "reviewer (error): ṣaṣ becomes ṣaḍ before bh; the printed token is ṣaḍ.bhāgam, so the dictionary form must be ṣaḍ-bhāgam"
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Such is the praṇaya (request) among those who maintain yoni.",
+  "new": "Such is the request (praṇaya) among those who maintain yoni.",
+  "why": "reviewer (minor): glossary decision (5.2): praṇaya = request (याचना); English gives the plain word first"
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "praṇayaḥ",
+  "old": "praṇaya (request)",
+  "new": "request (praṇaya)",
+  "why": "reviewer (minor): glossary decision (5.2): praṇaya = request"
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "यह योनि-पोषकों के विषय में प्रणय है।",
+  "new": "यह योनि-पोषकों के विषय में याचना है।",
+  "why": "reviewer (minor): modern Hindi प्रणय means love/affection and misleads; glossary decision (5.2): praṇaya = याचना"
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "yoni-poṣaka is obscure; rendered literally ('maintainers of yoni': womb, source, or breeding stock). It may sum up unit 27 (breeders of animals) and 28; no sense is built.",
+  "new": "yoni-poṣaka is obscure; rendered literally ('maintainers of yoni': womb, source, or breeding stock). It may sum up unit 27 (breeders of animals) and 28; no sense is built. Glossary (5.2): praṇaya = request (याचना), as in unit 16. yoni-poṣaka stays literal; no sense built.",
+  "why": "reviewer (minor): record decision"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "और कापटिक थोड़ा देने वाले इनकी निन्दा करें।",
+  "new": "और कापटिक इन थोड़ा देने वालों की निन्दा करें।",
+  "why": "reviewer (minor): word order \"थोड़ा देने वाले इनकी\" is ungrammatical; the participle agrees with enān (these who give little)"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "सार के अनुसार धनवानों से सोना माँगे, अथवा उपकार के अनुसार, अथवा जो वे अपनी इच्छा से भेंट करें।",
+  "new": "अथवा सार के अनुसार धनवानों से सोना माँगे, अथवा उपकार के अनुसार, अथवा जो वे अपनी इच्छा से भेंट करें।",
+  "why": "reviewer (minor): the first vā (\"sārato vā\") is dropped in the Hindi though the English has \"Or ... or ... or\"; three vā in the Sanskrit"
+ }
+]

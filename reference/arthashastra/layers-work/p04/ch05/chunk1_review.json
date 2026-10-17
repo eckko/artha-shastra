@@ -1,0 +1,180 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "bhāryā-vyañjanāḥ pareṣām",
+     "problem": "A genitive cannot attach to the first member of the compound, so 'wives of others' (Hindi दूसरों की पत्नियों के वेश) joins pareṣām to the compound against the grammar; the adjacent reading pareṣām māṇavaiḥ ('with the young men of others') is at least as natural. Left as drafted because the sense is unclear.",
+     "fix": "Add a note; person to decide.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "append_note",
+      "text": "Reviewer: pareṣām cannot grammatically qualify the first member of the compound bhāryā-vyañjanāḥ; the adjacent reading 'with the young men of others' (pareṣām māṇavaiḥ), or bhāryā-vyañjanāḥ as nominative subject, is at least as natural as the draft. Rendering left literal; a person should decide."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kṛta-lakṣaṇa-dravya-kraya-vikraya-ādhāneṣu",
+     "problem": "Gender: the compound ends in neuter ādhāna, so n., not m.",
+     "fix": "dvandva + tat-puruṣa, n. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "kṛta-lakṣaṇa-dravya-kraya-vikraya-ādhāneṣu",
+      "field": "gram",
+      "value": "dvandva + tat-puruṣa, n. loc. pl."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आधान",
+     "problem": "Glossary (4.1): ādhāna = pledge (बन्धक); the draft left आधान and English says 'pledging'.",
+     "fix": "क्रय, विक्रय और बन्धक में",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्रय, विक्रय और आधान में",
+      "new": "क्रय, विक्रय और बन्धक में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tam eṣām pratyādiśet",
+     "problem": "'of these' read as partitive is doubtful; by the parallel of darśayet + genitive of the recipient in unit 13 (paura-jānapadānām), eṣām may be 'to these'. Literal English kept.",
+     "fix": "Add a note; person to decide.",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "append_note",
+      "text": "Reviewer: eṣām may instead be a genitive of the recipient ('point him out to these'), as paura-jānapadānām after darśayet in unit 13; who 'these' are is not stated. Literal rendering kept; a person should decide."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "gūḍha-balaiḥ",
+     "problem": "gūḍha is an adjective of bala, so the compound is karmadhāraya, not tat-puruṣa.",
+     "fix": "karmadhāraya, n. inst. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "gūḍha-balaiḥ",
+      "field": "gram",
+      "value": "karmadhāraya, n. inst. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "prahavaṇeṣu",
+     "problem": "Gender n. is asserted for a word whose sense is unknown (kept untranslated).",
+     "fix": "loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "prahavaṇeṣu",
+      "field": "gram",
+      "value": "loc. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "18 units reviewed: 0 errors, 6 minor issues in units 6, 10 (2), 14, 16, 17; no regrouping. Hindi has no Latin letters or brackets; closing iti handled as 'closing particle' throughout. For a person: unit 5 śayābhiḥ is probably a slip for śayyābhiḥ (no text_flag can be added by patch); unit 13 text_flag pāpa.ācārah is correct (h for visarga); units 6 and 14 remain low confidence; kūṭa, saṃvadana, prahavaṇa, yoga-surā, loptra, madana-rasa, pāratalpika kept as drafted (literal or untranslated, doubts in notes); unit 2 saṅgha = plain crowd."
+}
