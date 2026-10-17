@@ -1,0 +1,594 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pituḥ",
+     "problem": "gloss 'to the father' contradicts the genitive label",
+     "fix": "of the father (read with dā as 'to the father')",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "pituḥ",
+      "field": "gloss",
+      "value": "of the father (read with dā as 'to the father')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह",
+     "problem": "unmarked pronoun 'वह' asserts a subject the Sanskrit leaves unstated",
+     "fix": "और अनिच्छुक पर इच्छा की स्वतन्त्रता प्राप्त न करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "hindi",
+      "value": "और अनिच्छुक पर इच्छा की स्वतन्त्रता प्राप्त न करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pituḥ",
+     "problem": "gloss 'to the father' contradicts the genitive label",
+     "fix": "of the father (read with dā as 'to the father')",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "pituḥ",
+      "field": "gloss",
+      "value": "of the father (read with dā as 'to the father')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह चोरी",
+     "problem": "unmarked pronoun 'वह'",
+     "fix": "पिता के धन को लेने में चोरी का भागी हो।",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह चोरी",
+      "new": "चोरी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह",
+     "problem": "unmarked pronoun 'वह' asserts a subject the Sanskrit leaves unstated",
+     "fix": "और अनिच्छुक पर इच्छा की स्वतन्त्रता प्राप्त न करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "hindi",
+      "value": "और अनिच्छुक पर इच्छा की स्वतन्त्रता प्राप्त न करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पर प्रकर्म में; वह",
+     "problem": "loc. akumāryāḥ rendered with a stray 'पर'; unmarked 'वह'",
+     "fix": "अकुमारी के प्रकर्म में चौवन पण का दण्ड है, और शुल्क का व्यय और कर्म लौटा दे।",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "hindi",
+      "value": "अकुमारी के प्रकर्म में चौवन पण का दण्ड है, और शुल्क का व्यय और कर्म लौटा दे।"
+     }
+    },
+    {
+     "field": "split",
+     "where": "prati-dadyāt",
+     "problem": "prefixed verb hyphenated; other prefixed verbs are written solid",
+     "fix": "pratidadyāt",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "prati-dadyāt",
+      "field": "w",
+      "value": "pratidadyāt"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ava-sthāya",
+     "problem": "prefixed verb hyphenated",
+     "fix": "avasthāya",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "ava-sthāya",
+      "field": "w",
+      "value": "avasthāya"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुरुष का भी",
+     "problem": "'भी' added though Sanskrit has no particle there (glossary 14.3 rule)",
+     "fix": "...पुरुष का।",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुरुष का भी।",
+      "new": "पुरुष का।"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "dviśato",
+     "problem": "flag is reasonable (dvi.śato elsewhere); keep",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह",
+     "problem": "unmarked pronoun",
+     "fix": "और शुल्क का व्यय और कर्म खो दे।",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "hindi",
+      "value": "और शुल्क का व्यय और कर्म खो दे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह",
+     "problem": "unmarked pronoun 'वह' asserts a subject the Sanskrit leaves unstated",
+     "fix": "और अनिच्छुक पर इच्छा की स्वतन्त्रता प्राप्त न करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "set",
+      "field": "hindi",
+      "value": "और अनिच्छुक पर इच्छा की स्वतन्त्रता प्राप्त न करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्थान",
+     "problem": "'स्थान' added",
+     "fix": "गाँव के बाहर जिस पर कृत्य किया गया उसके विषय में और झूठे आरोप में दुगुना दण्ड है।",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "hindi",
+      "value": "गाँव के बाहर जिस पर कृत्य किया गया उसके विषय में और झूठे आरोप में दुगुना दण्ड है।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bahiḥ-grāmasya",
+     "problem": "gloss 'of outside the village' is not English",
+     "fix": "outside the village (bahis with genitive)",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "bahiḥ-grāmasya",
+      "field": "gloss",
+      "value": "outside the village (bahis with genitive)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "genitive is unusual",
+     "problem": "claim that locative/ablative would be expected is overstated (bahis is construed with the genitive too)",
+     "fix": "reworded",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "notes",
+      "old": "the genitive is unusual (a locative or ablative would be expected), so the sense 'outside the village' is a reading.",
+      "new": "bahis with the genitive is read as 'outside the village'; the compound mark in the print makes the exact construction a reading."
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "split",
+     "where": "śulka / ābandhya / dānam",
+     "problem": "split into three entries while the parallel compound vastra-ābandhya-dānam (unit 28) is one entry; patches cannot merge",
+     "fix": "merge to one entry or split 28 alike",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भटकती हुई",
+     "problem": "'wandering' changes the sense; apa-√car is to behave wrongly (English 'going wrong')",
+     "fix": "अनुचित आचरण करती हुई",
+     "severity": "error",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भटकती हुई उसे",
+      "new": "अनुचित आचरण करती हुई उसे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "धन लेकर",
+     "problem": "'taking' money is added; instrumental hiraṇyena = for money",
+     "fix": "धन के बदले",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धन लेकर छोड़ने",
+      "new": "धन के बदले छोड़ने"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निष्क्रय देकर दे",
+     "problem": "'having given ransom, give' reverses the instrumental 'for a ransom'",
+     "fix": "निष्क्रय के बदले दे",
+     "severity": "error",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निष्क्रय देकर दे",
+      "new": "निष्क्रय के बदले दे"
+     }
+    },
+    {
+     "field": "english",
+     "where": "or having offspring",
+     "problem": "'or' added; the three adjectives are asyndetic",
+     "fix": "unwilling, having offspring",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "english",
+      "old": "unwilling, or having offspring",
+      "new": "unwilling, having offspring"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "cora-hastāt",
+     "problem": "-āt is singular, gram says abl. pl.",
+     "fix": "m. abl. sg., tat-puruṣa",
+     "severity": "error",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "cora-hastāt",
+      "field": "gram",
+      "value": "m. abl. sg., tat-puruṣa"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kāntārāt",
+     "problem": "kāntārāt is ablative singular, not plural",
+     "fix": "m./n. abl. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "kāntārāt",
+      "field": "gram",
+      "value": "m./n. abl. sg."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kāntārāt",
+     "problem": "plural gloss from wrong number",
+     "fix": "from a wilderness",
+     "severity": "error",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "kāntārāt",
+      "field": "gloss",
+      "value": "from a wilderness"
+     }
+    },
+    {
+     "field": "english",
+     "where": "from wildernesses",
+     "problem": "number follows from the -āt ending: singular",
+     "fix": "from the wilderness",
+     "severity": "error",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "from wildernesses",
+      "new": "from the wilderness"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वनों से",
+     "problem": "plural unsupported; kāntāra = wilderness",
+     "fix": "बीहड़ वन से",
+     "severity": "error",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वनों से बचाकर",
+      "new": "बीहड़ वन से बचाकर"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kāntārān",
+     "problem": "note repeats the wrong plural reading",
+     "fix": "reworded",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "notes",
+      "old": "kāntārān is kāntārāt (ablative), read as a plural 'wildernesses'; the number is uncertain.",
+      "new": "kāntārān is kāntārāt (ablative singular, with t becoming n before the next word's n), read 'from the wilderness'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्त्री का पुरुष",
+     "problem": "word order makes 'the woman's man' readable; naraḥ is the subject",
+     "fix": "पुरुष दूसरों की स्त्री का, जैसा बातचीत में तय हुआ उसके अनुसार, उपभोग करे, परन्तु राजा के प्रताप से या अपने जनों से छुड़ाई गई का नहीं।",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "set",
+      "field": "hindi",
+      "value": "पुरुष दूसरों की स्त्री का, जैसा बातचीत में तय हुआ उसके अनुसार, उपभोग करे, परन्तु राजा के प्रताप से या अपने जनों से छुड़ाई गई का नहीं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निष्क्रय देकर",
+     "problem": "'having given ransom' reverses the instrumental",
+     "fix": "निष्क्रय के बदले",
+     "severity": "error",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनुरूप निष्क्रय देकर हटवा दे",
+      "new": "अनुरूप निष्क्रय के बदले हटवा दे"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Text flags confirmed as real: unit 5 labbheta->labheta, units 13/19 prākāṃyam->prākāmyam, unit 17 dviśato (missing dot, minor), unit 35 doubted reading translated as printed with notes. Issues: 8 error, 20 minor. No regrouping suggested. Main fixes: wrong ablative number in unit 38 (kāntārāt, cora-hastāt), Hindi 'देकर' reversing instrumental niṣkrayeṇa (37, 40), 'भटकती' for apa-√car (30), stray unmarked 'वह' (5,11,13,15,18,19). Literal renderings of units 9, 12, 16 kept."
+}
