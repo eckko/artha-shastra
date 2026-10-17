@@ -1,0 +1,500 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi repeats the dead-person idea (मरे हुए ... मृतक); āśu-mṛtaka is one word, glossary mṛtaka = dead person (मृत व्यक्ति).",
+     "fix": "तेल लगे हुए, अचानक मरे हुए व्यक्ति की परीक्षा करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "तेल लगे हुए, अचानक मरे हुए व्यक्ति की परीक्षा करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "'if he has' is an unmarked conditional; the descriptive bahuvrīhis are rendered as a relative pattern in units 3-11, so unit 2 should match.",
+     "fix": "One with urine and faeces expelled, the skin of the abdomen filled with wind, swollen feet and hands, closed eyes and marks on the throat, one should know [him] to be killed by breath obstructed through pressing.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "english",
+      "value": "One with urine and faeces expelled, the skin of the abdomen filled with wind, swollen feet and hands, closed eyes and marks on the throat, one should know [him] to be killed by breath obstructed through pressing."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Stale note after English change; tvakka is a possible third typo not flagged.",
+     "fix": "English was changed to the relative pattern of units 3-11, so the earlier remark about 'if he has' no longer applies. Both text_flags (pāṇimān for pāṇimantam, pīṭana for pīḍana) are accepted as likely typos; tvakka (in koṣṭha-tvakka) is also unusual (tvac with extra -ka?) and a person should check it against the edition.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "append_note",
+      "text": "English was changed to the relative pattern of units 3-11, so the earlier remark about 'if he has' no longer applies. Both text_flags (pāṇimān for pāṇimantam, pīṭana for pīḍana) are accepted as likely typos; tvakka (in koṣṭha-tvakka) is also unusual (tvac with extra -ka?) and a person should check it against the edition."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śūna-pāda-pāṇimantam",
+     "problem": "gram should record the corrected form is an editorial correction.",
+     "fix": "m. acc. sg.; mat-possessive (printed nom. -mān, corrected to acc. -mantam; flagged)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "śūna-pāda-pāṇimantam",
+      "field": "gram",
+      "value": "m. acc. sg.; mat-possessive (printed nom. -mān, corrected to acc. -mantam; flagged)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi 'जिसके रक्त से सिंचे अंग' makes the limbs, not the body, blood-sprinkled; also फटे is used for bhinna and again for sphuṭita in unit 7.",
+     "fix": "रक्त से सिंचे हुए, जिसके अंग टूटे और चिरे हुए हों, उसे लकड़ियों या पत्थरों से मारा गया जाने।",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "set",
+      "field": "hindi",
+      "value": "रक्त से सिंचे हुए, जिसके अंग टूटे और चिरे हुए हों, उसे लकड़ियों या पत्थरों से मारा गया जाने।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "limbs crushed and burst",
+     "problem": "'crushed' is an invented sense for sam-bhagna (thoroughly broken).",
+     "fix": "limbs thoroughly broken and burst",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "limbs crushed and burst",
+      "new": "limbs thoroughly broken and burst"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sambhagna-sphuṭita-gātram",
+     "problem": "gloss 'crushed' invents a sense for sam-bhagna.",
+     "fix": "with limbs thoroughly broken and burst",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "sambhagna-sphuṭita-gātram",
+      "field": "gloss",
+      "value": "with limbs thoroughly broken and burst"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "'कुचले' is an invented sense for sam-bhagna.",
+     "fix": "जिसके अंग पूरी तरह टूटे और फटे हों, उसे नीचे फेंका गया जाने।",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसके अंग पूरी तरह टूटे और फटे हों, उसे नीचे फेंका गया जाने।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi अत्यधिक governs both vomiting and purging, though the draft's own note says ati may qualify only vanta.",
+     "fix": "जिसके वस्त्र और अंग इधर-उधर फेंके हुए हों, जिसने बहुत वमन किया हो और जिसका विरेचन हुआ हो, उसे मदन-योग से मारा गया जाने।",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसके वस्त्र और अंग इधर-उधर फेंके हुए हों, जिसने बहुत वमन किया हो और जिसका विरेचन हुआ हो, उसे मदन-योग से मारा गया जाने।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ciṭiciṭāyat-indra-dhanus-varṇam",
+     "problem": "gram says karmadhāraya while the gloss says 'or'; the two conflict.",
+     "fix": "n. acc. sg.; compound of ciṭiciṭāyat and indra-dhanus-varṇa (relation unsettled)",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "ciṭiciṭāyat-indra-dhanus-varṇam",
+      "field": "gram",
+      "value": "n. acc. sg.; compound of ciṭiciṭāyat and indra-dhanus-varṇa (relation unsettled)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "'or' inside a single compound is not supported by the text.",
+     "fix": "The vā stands after the compound, not inside it, so 'crackling or rainbow-coloured' is an interpretive reading; a literal reading is 'crackling, rainbow-coloured'. Kept for now, doubt recorded.",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "append_note",
+      "text": "The vā stands after the compound, not inside it, so 'crackling or rainbow-coloured' is an interpretive reading; a literal reading is 'crackling, rainbow-coloured'. Kept for now, doubt recorded."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi 'उसी की ... के विषय में' is ungrammatical (tad is the object, hata-udbaddhasya the genitive of the case).",
+     "fix": "मारे गए या फाँसी पर लटकाए गए के विषय में उसी की परीक्षा करे।",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "hindi",
+      "value": "मारे गए या फाँसी पर लटकाए गए के विषय में उसी की परीक्षा करे।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Stale note; dvandva sense unsettled.",
+     "fix": "Hindi was rewritten with फाँसी पर लटकाए गए; the note's mention of 'फाँसी लटकाए गए' is superseded. 'Killed and hung' (dvandva as 'and') is at least as likely as 'killed or hanged' and contrasts with svayam-udbaddha in unit 16.",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "append_note",
+      "text": "Hindi was rewritten with फाँसी पर लटकाए गए; the note's mention of 'फाँसी लटकाए गए' is superseded. 'Killed and hung' (dvandva as 'and') is at least as likely as 'killed or hanged' and contrasts with svayam-udbaddha in unit 16."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "अपमान (insult) is a wrong sense for viprakāra (ill-treatment, wrong done).",
+     "fix": "अथवा स्वयं फाँसी पर लटके हुए के प्रति किए गए अनुचित दुर्व्यवहार को खोजे।",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा स्वयं फाँसी पर लटके हुए के प्रति किए गए अनुचित दुर्व्यवहार को खोजे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "काम में स्पर्धा",
+     "problem": "Glossary 5.3: Hindi for karma is always कर्म.",
+     "fix": "कर्म में स्पर्धा",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "काम में स्पर्धा",
+      "new": "कर्म में स्पर्धा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "'होती है' is habitual, not the bare copula the note claims; bahuvrīhi roṣa-nimitta is best given as 'the cause of the killing is anger'.",
+     "fix": "हत्या का कारण रोष है।",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "hindi",
+      "value": "हत्या का कारण रोष है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Stale note.",
+     "fix": "Hindi now reads 'हत्या का कारण रोष है' (bare copula है only); the remark about 'होती है' is superseded.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "append_note",
+      "text": "Hindi now reads 'हत्या का कारण रोष है' (bare copula है only); the remark about 'होती है' is superseded."
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "this man",
+     "problem": "'man' is added; ayam is only 'this one'.",
+     "fix": "this one",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "this man",
+      "new": "this one"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "'and' is added between upabhoga and paricchada (no ca in the Sanskrit); also the placing of 'situated on the body' with the whole list.",
+     "fix": "Having seen, of one without a protector, the article of use, equipment, garment, dress or ornament situated on the body, those who deal in them",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "english",
+      "value": "Having seen, of one without a protector, the article of use, equipment, garment, dress or ornament situated on the body, those who deal in them"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "'और' and 'वस्तु' are added; tad-vyavahāriṇaḥ is the object of anuyuñjīta in unit 24, so Hindi needs से, which also removes the doubled 'उनसे' of unit 24.",
+     "fix": "अनाथ के शरीर पर स्थित उपभोग, परिच्छद, वस्त्र, वेश अथवा आभूषण को देखकर, उनका लेन-देन करने वालों से",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "hindi",
+      "value": "अनाथ के शरीर पर स्थित उपभोग, परिच्छद, वस्त्र, वेश अथवा आभूषण को देखकर, उनका लेन-देन करने वालों से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi संयोग means chance/coincidence; saṃyoga here is connection, and 'उनसे' is now carried by unit 23.",
+     "fix": "सम्पर्क, निवास, निवास का कारण, कर्म और व्यवहार के विषय में पूछताछ करे; तब खोज करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "hindi",
+      "value": "सम्पर्क, निवास, निवास का कारण, कर्म और व्यवहार के विषय में पूछताछ करे; तब खोज करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "would put himself to death himself, by rope, weapon or poison also",
+     "problem": "Awkward repetition 'himself ... himself'; word order of svayam.",
+     "fix": "would himself put himself to death by rope, weapon or poison also",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "english",
+      "old": "would put himself to death himself, by rope, weapon or poison also",
+      "new": "would himself put himself to death by rope, weapon or poison also"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "rajju-śastra-viṣaiḥ",
+     "problem": "A dvandva of rajju (f.), śastra (n.), viṣa (n.) takes neuter gender, not feminine.",
+     "fix": "n. inst. pl.; dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "rajju-śastra-viṣaiḥ",
+      "field": "gram",
+      "value": "n. inst. pl.; dvandva"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note wrongly suggests strī lacks a verb.",
+     "fix": "strī is nominative and is most naturally a second subject of ghātayet ('or a woman deluded by evil [would put herself to death]'); the note about 'no main verb for the woman' should be read in that light. English leaves the verb unrepeated, as in the Sanskrit.",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "append_note",
+      "text": "strī is nominative and is most naturally a second subject of ghātayet ('or a woman deluded by evil [would put herself to death]'); the note about 'no main verb for the woman' should be read in that light. English leaves the verb unrepeated, as in the Sanskrit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "योन-सम्बन्ध is a non-word (यौन would mean sexual); व्यवहार is reserved for vyavahāra = dealings (24); samācaran needs a different word.",
+     "fix": "वह एक वर्ष में पतित हो जाता है, पतित के साथ बर्ताव करता हुआ; यज्ञ कराने, पढ़ाने या विवाह-सम्बन्ध से; और उनके साथ बर्ताव करने वाला दूसरा भी।",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "set",
+      "field": "hindi",
+      "value": "वह एक वर्ष में पतित हो जाता है, पतित के साथ बर्ताव करता हुआ; यज्ञ कराने, पढ़ाने या विवाह-सम्बन्ध से; और उनके साथ बर्ताव करने वाला दूसरा भी।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record the Hindi choice for yauna and samācar.",
+     "fix": "Hindi विवाह-सम्बन्ध matches the English 'marriage connection'; yauna literally 'pertaining to the womb/yoni', alternative 'connection by birth'. Hindi बर्ताव renders samācarati so that व्यवहार stays for vyavahāra.",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "append_note",
+      "text": "Hindi विवाह-सम्बन्ध matches the English 'marriage connection'; yauna literally 'pertaining to the womb/yoni', alternative 'connection by birth'. Hindi बर्ताव renders samācarati so that व्यवहार stays for vyavahāra."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "28 units reviewed; 3 errors, 23 minor. Both draft text_flags in unit 2 accepted (pāṇimān->pāṇimantam, pīṭana->pīḍana); tvakka (unit 2) is a possible third typo that patches cannot flag. No regrouping suggested; units 23-24 are one sentence and stay split by the edition's lines. Units 4, 13, 14, 17, 19, 27, 28 remain doubtful and are kept literal."
+}

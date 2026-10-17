@@ -1,0 +1,223 @@
+[
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "pañca-viṃśati-paṇa-avareṣu",
+  "old": "where twenty-five paṇas is the lower (limit)",
+  "new": "in those of twenty-five paṇas or lower",
+  "why": "reviewer (error): gloss 'twenty-five paṇas is the lower (limit)' reads as a minimum, against the English 'or lower'"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "पच्चीस पण से कम वाले मामलों में मुर्गे, नेवले, बिल्ली, कुत्ते और सूअर की चोरी या हिंसा में चौवन पण का दण्ड है, अथवा नाक के अग्र भाग का छेदन; चाण्डालों और वनचरों के दण्ड आधे हैं।",
+  "new": "पच्चीस पण या उससे कम वाले मामलों में मुर्गे, नेवले, बिल्ली, कुत्ते और सूअर की चोरी या हिंसा में चौवन पण का दण्ड है, अथवा नाक के अग्र भाग का छेदन; चाण्डालों और वनचरों के दण्ड आधे हैं।",
+  "why": "reviewer (error): Hindi 'less than 25' excludes 25 while English says 'or lower'"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "In cases of twenty-five paṇas or lower, for theft of fowl, mongoose, cat, dog or pig, or for injury [to them], the penalty is fifty-four paṇas, or cutting of the tip of the nose; for caṇḍālas and forest-rangers the penalties [are] half.",
+  "new": "In cases of twenty-five paṇas or lower, for theft of fowl, mongoose, cat, dog or pig, or for injury [to them], the penalty is fifty-four paṇas, or cutting of the tip of the nose; for caṇḍālas and forest-goers the penalties [are] half.",
+  "why": "reviewer (minor): 'rangers' is a modern office, an invented sense; araṇya-cara is literally forest-goer"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "caṇḍāla-araṇya-carāṇāṃ",
+  "old": "of caṇḍālas and forest-rangers",
+  "new": "of caṇḍālas and forest-goers",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "फंदों, जालों, कूटों और गड्ढों में बँधे हुए मृग, पशु, पक्षी, व्याल और मछलियों को ले लेने में वह और उतना ही दण्ड है।",
+  "new": "फंदों, जालों, कूटों और गड्ढों में बँधे हुए मृग, पशु, पक्षी, व्याल और मछलियों को ले लेने में वह और उतना दण्ड है।",
+  "why": "reviewer (minor): 'ही' (only/just) is an unmarked addition; Sanskrit has tāvat 'that much'"
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "mṛga-dravya-vanāt",
+  "old": "abl. sg.",
+  "new": "tat-puruṣa, n. abl. sg.",
+  "why": "reviewer (minor): gender missing; vana is neuter"
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "bimba-vihāra-mṛga-pakṣi-steye",
+  "old": "tat-puruṣa, m. loc. sg.",
+  "new": "tat-puruṣa, n. loc. sg.",
+  "why": "reviewer (minor): steya in the sense 'theft' is neuter, not masculine"
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "bimba is obscure and kept untranslated; vihāra is 'amusement' (so possibly a pleasure-ground), but the compound is left as printed. The grouping bimba-vihāra + mṛga-pakṣi is a guess; injury 'to them' is not stated.",
+  "new": "bimba is obscure and kept untranslated; vihāra is 'amusement' (so possibly a pleasure-ground), but the compound is left as printed. The grouping bimba-vihāra + mṛga-pakṣi is a guess; injury 'to them' is not stated. 'Twofold' of what is not stated in the line (no figure is given); nothing is supplied.",
+  "why": "reviewer (minor): base of 'twofold' not stated"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "For the removal of the small goods of artisans, craftsmen, kuśīlavas and ascetics, the penalty is of a hundred; for the removal of large goods, of two hundred; and for the removal of goods of farming —",
+  "new": "For the removal of the small goods of artisans, craftsmen, kuśīlavas and ascetics, the penalty is of a hundred; for the removal of coarse goods, of two hundred; and for the removal of goods of farming —",
+  "why": "reviewer (error): sthūlaka is settled in 4.1 as 'coarse' (literal), not 'large'"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "कारु, शिल्पी, कुशीलव और तपस्वियों के छोटे द्रव्यों के अपहरण में सौ का दण्ड है, बड़े द्रव्यों के अपहरण में दो सौ का, और कृषि के द्रव्य के अपहरण में —",
+  "new": "कारु, शिल्पी, कुशीलव और तपस्वियों के छोटे द्रव्यों के अपहरण में सौ का दण्ड है, मोटे द्रव्यों के अपहरण में दो सौ का, और कृषि के द्रव्य के अपहरण में —",
+  "why": "reviewer (error): same (4.1: sthūlaka = मोटे)"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "sthūlaka-dravya-apahāre",
+  "old": "in the removal of large goods",
+  "new": "in the removal of coarse goods",
+  "why": "reviewer (error): same"
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "The sentence is left open as printed: the penalty for kṛṣi-dravya-apahāra is not stated (possibly continuing the previous figure or the next unit's context). kuśīlava is kept untranslated as in the glossary. sthūlaka 'large' (literally 'coarse, big').",
+  "new": "The sentence is left open as printed: the penalty for kṛṣi-dravya-apahāra is not stated (possibly continuing the previous figure or the next unit's context). kuśīlava is kept untranslated as in the glossary. sthūlaka 'large' (literally 'coarse, big'). Review: sthūlaka rendered 'coarse' (glossary 4.1), 'large' only as a possible sense.",
+  "why": "reviewer (minor): note"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Of one who enters a fort without his entry having been made, or through a hole in the rampart, [and] of one who goes away having taken a deposit: destruction of the kāṇḍarā, or a penalty of two hundred.",
+  "new": "Of one who enters a fort without his entry having been made, or through a hole in the rampart, of one who goes away having taken a deposit: destruction of the kāṇḍarā, or a penalty of two hundred.",
+  "why": "reviewer (minor): 'and' is not in the Sanskrit; the clauses are plain genitives in a series, and a second person is implied"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जो दुर्ग में प्रवेश करता है और जिसका प्रवेश किया नहीं गया, अथवा परकोटे के छेद से प्रवेश करता है, और जो धरोहर लेकर हट जाता है, उसका काण्डरा-वध अथवा दो सौ का दण्ड है।",
+  "new": "जो दुर्ग में प्रवेश करता है और जिसका प्रवेश किया नहीं गया, अथवा परकोटे के छेद से प्रवेश करता है, जो धरोहर लेकर हट जाता है, उसका काण्डरा-वध अथवा दो सौ का दण्ड है।",
+  "why": "reviewer (minor): Hindi 'और' is an unmarked addition"
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "praviśataḥ",
+  "old": "pres. part. m. gen. sg. √viś",
+  "new": "pres. part. m. gen. sg. pra-√viś",
+  "why": "reviewer (minor): prefix missing in root"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "akṛta-praveśa ('whose entry has not been made') is taken literally; the sense may be 'without leave to enter'. The grouping of the clauses is uncertain: the translation takes (a) entering the fort without entry made, or through a hole in the rampart, and (b) going away with a deposit; the ablative prākāra-chidrāt is rendered 'through'. kāṇḍarā is obscure and kept untranslated (a sinew or tendon is a guess).",
+  "new": "akṛta-praveśa ('whose entry has not been made') is taken literally; the sense may be 'without leave to enter'. The grouping of the clauses is uncertain: the translation takes (a) entering the fort without entry made, or through a hole in the rampart, and (b) going away with a deposit; the ablative prākāra-chidrāt is rendered 'through'. kāṇḍarā is obscure and kept untranslated (a sinew or tendon is a guess). Review: the ablative prākāra-chidrāt could equally belong with apasarataḥ (going away through a hole in the rampart with a deposit); the grouping stays open and confidence low.",
+  "why": "reviewer (minor): the ablative may also go with apasarataḥ ('going away from a hole in the rampart having taken a deposit')"
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "cakra-yuktaṃ",
+  "old": "m. acc. sg.",
+  "new": "m./n. acc. sg.",
+  "why": "reviewer (minor): gender not determinable from -aṃ, and no noun is present"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Of those who make unevenness with false kākaṇī, akṣa, arālā, śalākā or hand: destruction of one hand, or a penalty of four hundred.",
+  "new": "Of one who makes unevenness with false kākaṇī, akṣa, arālā, śalākā or hand: destruction of one hand, or a penalty of four hundred.",
+  "why": "reviewer (error): note says genitive singular is taken (kāriṇa before eka = kāriṇaḥ; the verse has nom. vadhaḥ, so gen. sg.), but English/Hindi are plural"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "झूठे काकणी, अक्ष, अराला, शलाका या हाथ से विषमता करने वालों का एक हाथ का वध अथवा चार सौ का दण्ड है।",
+  "new": "झूठे काकणी, अक्ष, अराला, शलाका या हाथ से विषमता करने वाले का एक हाथ का वध अथवा चार सौ का दण्ड है।",
+  "why": "reviewer (error): plural against the genitive singular"
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "kūṭa-kākaṇī-akṣa-arālā-śalākā-hasta-viṣama-kāriṇaḥ",
+  "old": "of those who make unevenness with false kākaṇī, akṣa, arālā, śalākā or hand",
+  "new": "of one who makes unevenness with false kākaṇī, akṣa, arālā, śalākā or hand",
+  "why": "reviewer (error): plural gloss"
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "kūṭa-kākaṇī-akṣa-arālā-śalākā-hasta-viṣama-kāriṇaḥ",
+  "old": "dvandva+tat-puruṣa, m. gen. sg./nom. pl.",
+  "new": "dvandva+tat-puruṣa, m. gen. sg.",
+  "why": "reviewer (minor): nom. pl. does not fit (predicate vadhaḥ is nominative of a genitive construction)"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "श्रेष्ठ वर्णों और गुरुओं के प्रति हाथ-पैर से उल्लंघन करने में, और राजा के यान, वाहन आदि पर चढ़ने में, एक हाथ-पैर का वध अथवा सात सौ का दण्ड है।",
+  "new": "श्रेष्ठ वर्णों और गुरुजनों का हाथ-पैर से उल्लंघन करने में, और राजा के यान, वाहन आदि पर चढ़ने में, एक हाथ-पैर का वध अथवा सात सौ का दण्ड है।",
+  "why": "reviewer (minor): 'के प्रति' (towards) is an unmarked addition; English marks [against] but Hindi cannot; plain genitive is closer. Also guru = elders in English, गुरु alone means teacher in Hindi"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "ब्राह्मण कहने वाले शूद्र का, देवता के द्रव्य को ढकने वाले का, राजा के द्वेष्य को कहने वाले का और दोनों आँखें फोड़ने वाले का योग-अञ्जन से अन्धापन अथवा आठ सौ का दण्ड है।",
+  "new": "ब्राह्मण के रूप में बोलने वाले शूद्र का, देवता के द्रव्य को ढकने वाले का, राजा के द्वेष्य को कहने वाले का और दोनों आँखें फोड़ने वाले का योग-अञ्जन से अन्धापन अथवा आठ सौ का दण्ड है।",
+  "why": "reviewer (minor): reads as 'one who calls (someone) a brāhmaṇa'; English is 'speaks as a brāhmaṇa'"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "brāhmaṇa-vādin is literal ('speaking as/of a brāhmaṇa'), perhaps 'claims to be a brāhmaṇa'. avastṛṇataḥ (ava-√stṛ) is literally 'covering, spreading over'; the sense (concealing, misappropriating) is uncertain, as is ādiśataḥ (declaring, pointing out, prescribing). yoga-añjana: yoga is 'compound' (a prepared combination) following the glossary entries for Book 14; the Book 4 sense is not settled. añjana is a salve or collyrium.",
+  "new": "brāhmaṇa-vādin is literal ('speaking as/of a brāhmaṇa'), perhaps 'claims to be a brāhmaṇa'. avastṛṇataḥ (ava-√stṛ) is literally 'covering, spreading over'; the sense (concealing, misappropriating) is uncertain, as is ādiśataḥ (declaring, pointing out, prescribing). yoga-añjana: yoga is 'compound' (a prepared combination) following the glossary entries for Book 14; the Book 4 sense is not settled. añjana is a salve or collyrium. Review: yoga = compound is kept to match the 4.4 settlement for medicinal combinations (madana-yoga); sense for Book 4 still a person's decision.",
+  "why": "reviewer (minor): 'compound' is correct: matches 4.4 decision (madana-yoga = compound); record it"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "देव, पशु, प्रतिमा, मनुष्य, क्षेत्र, गृह, धन, सोना, रत्न और अनाज को चुराने वाले का सर्वोच्च दण्ड है, अथवा शुद्ध वध।",
+  "new": "देव, पशु, प्रतिमा, मनुष्य, क्षेत्र, गृह, धन, सोना, रत्न और फसल को चुराने वाले का सर्वोच्च दण्ड है, अथवा शुद्ध वध।",
+  "why": "reviewer (minor): sasya is standing crop/grain; English says crops"
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "The sentence continues in unit 18, whose main verb is kalpayet; the last 'ca' is not rendered separately. tadātva/anubandha follow the glossary (the immediate/the sequel).",
+  "new": "The sentence continues in unit 18, whose main verb is kalpayet; the last 'ca' is not rendered separately. tadātva/anubandha follow the glossary (the immediate/the sequel). Correction: all four ca are rendered; the statement that the last ca is not rendered separately is wrong.",
+  "why": "reviewer (minor): note is wrong: all four ca are rendered in the English ('and' x3 and the final ca before 'place and time')"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "uttama-avara-madhyatvaṃ",
+  "old": "tat-puruṣa, n. acc. sg.",
+  "new": "dvandva + abstract -tva, n. acc. sg.",
+  "why": "reviewer (minor): compound is a dvandva (uttama, avara, madhya) plus the abstract suffix -tva, not a tat-puruṣa"
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "The pradeṣṭṛ, standing between the king and the constituent elements, should fix being highest, lowest or middle in the action of punishment.",
+  "new": "The pradeṣṭṛ, standing between the king and the constituent elements, should fix being highest, lowest or middle in the action of penalty.",
+  "why": "reviewer (minor): daṇḍa is 'penalty' in Book 4; keep one word"
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "daṇḍa-karmaṇi",
+  "old": "in the action of punishment",
+  "new": "in the action of penalty",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "दण्ड-कर्म में प्रदेष्टा, राजा और प्रकृतियों के बीच स्थित होकर, उत्तमता, निम्नता और मध्यमता निर्धारित करे।",
+  "new": "दण्ड-कर्म में प्रदेष्टा, राजा और प्रकृतियों के बीच स्थित होकर, सर्वोच्चता, निम्नता और मध्यमता निर्धारित करे।",
+  "why": "reviewer (minor): Hindi उत्तम means 'excellent'; unit 16 uses सर्वोच्च for uttama daṇḍa"
+ }
+]
