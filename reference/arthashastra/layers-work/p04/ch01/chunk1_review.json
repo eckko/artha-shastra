@@ -311,33 +311,6 @@
       "field": "gram",
       "value": "pron. n. inst. sg. (tad)"
      }
-    },
-    {
-     "field": "english",
-     "where": "By that, what follows is explained.",
-     "problem": "fixed formula for 4.1",
-     "fix": "By that the following [matter] is explained.",
-     "severity": "minor",
-     "patch": {
-      "n": "24",
-      "op": "set",
-      "field": "english",
-      "value": "By that the following [matter] is explained."
-     }
-    },
-    {
-     "field": "gloss",
-     "where": "uttaram",
-     "problem": "align with formula",
-     "fix": "the following [matter]",
-     "severity": "minor",
-     "patch": {
-      "n": "24",
-      "op": "word",
-      "match_w": "uttaram",
-      "field": "gloss",
-      "value": "the following [matter]"
-     }
     }
    ]
   },
@@ -418,33 +391,6 @@
       "field": "gram",
       "value": "pron. n. inst. sg. (tad)"
      }
-    },
-    {
-     "field": "english",
-     "where": "By that, what follows is explained.",
-     "problem": "fixed formula for 4.1",
-     "fix": "By that the following [matter] is explained.",
-     "severity": "minor",
-     "patch": {
-      "n": "29",
-      "op": "set",
-      "field": "english",
-      "value": "By that the following [matter] is explained."
-     }
-    },
-    {
-     "field": "gloss",
-     "where": "uttaram",
-     "problem": "align with formula",
-     "fix": "the following [matter]",
-     "severity": "minor",
-     "patch": {
-      "n": "29",
-      "op": "word",
-      "match_w": "uttaram",
-      "field": "gloss",
-      "value": "the following [matter]"
-     }
     }
    ]
   },
@@ -469,5 +415,5 @@
    "issues": []
   }
  ],
- "summary": "Draft is faithful and literal. Mostly small Hindi/gram/formula fixes: 22 issues (0 errors, 22 minor; 19 machine patches). No regrouping. Needs a person: unit 10 possible typo pattra for patra (flag cannot be added by patch); unit 4 clause reading; unit 22 sthūlaka/raktaka kept literal; unit 18 and 13 kept literal; unit 31 referent of tayoḥ."
+ "summary": "Draft is faithful and literal. Mostly small Hindi/gram/formula fixes: 18 issues (0 errors, 18 minor; 15 machine patches). No regrouping. Needs a person: unit 10 possible typo pattra for patra (flag cannot be added by patch); unit 4 clause reading; unit 22 sthūlaka/raktaka kept literal; unit 18 and 13 kept literal; unit 31 referent of tayoḥ."
 }
