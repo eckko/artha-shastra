@@ -1075,7 +1075,7 @@
   "hindi": "उसे अपने दोष के त्याग से, अथवा दूसरे की शक्ति और अपराध के वश से साध ले।",
   "english": "He should win him over by abandoning his own fault, or by the sway of another’s power and offence.",
   "text_flags": [],
-  "notes": "Compound para-śakti-aparādha-vaśena is obscure and is rendered literally; para-śakti may be \"an enemys power\", and the compound may be read \"by making him subject to (the kings) power in case of his offence\". Alternative sense of sādhayet: \"should settle/subdue\".",
+  "notes": "Compound para-śakti-aparādha-vaśena is obscure and is rendered literally; para-śakti may be \"an enemy’s power\", and the compound may be read \"by making him subject to (the king’s) power in case of his offence\". Alternative sense of sādhayet: \"should settle/subdue\".",
   "confidence": "low"
  },
  {
@@ -1451,5 +1451,482 @@
   "text_flags": [],
   "notes": "The construction is loose: the ablatives anyebhyaḥ tad-vidhebhyaḥ may express \"(as he does) to other such persons\" (dative sense, i.e. \"by gifts of land such as are given to others of that kind\") or \"from others\". Rendered literally; sense uncertain.",
   "confidence": "low"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad.viśiṣṭaṃ",
+      "words": [
+       {
+        "w": "tad-viśiṣṭaṃ",
+        "gloss": "superior to him",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svayaṃ.grāhaṃ",
+      "words": [
+       {
+        "w": "svayaṃ-grāhaṃ",
+        "gloss": "self-seizing",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaṃ",
+      "words": [
+       {
+        "w": "daṇḍaṃ",
+        "gloss": "army",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "preṣayet,",
+      "words": [
+       {
+        "w": "preṣayet,",
+        "gloss": "should send",
+        "gram": "3 sg. opt. caus. pra-√iṣ"
+       }
+      ]
+     },
+     {
+      "src": "sāmanta.āṭavikān",
+      "words": [
+       {
+        "w": "sāmanta-āṭavikān",
+        "gloss": "neighbours and forest chiefs",
+        "gram": "dvandva, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā,",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tair",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "by them",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhītam",
+      "words": [
+       {
+        "w": "vigṛhītam",
+        "gloss": "set at odds",
+        "gram": "m. acc. sg. pp. vi-√grah"
+       }
+      ]
+     },
+     {
+      "src": "atisandadhyāt",
+      "words": [
+       {
+        "w": "atisandadhyāt",
+        "gloss": "should outwit",
+        "gram": "3 sg. opt. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे श्रेष्ठ, स्वयं पकड़ लेने वाली सेना भेजे, अथवा सामन्तों और वन के सरदारों को; उनके द्वारा विग्रह में डाले गए को छल से मात दे।",
+  "english": "He should send an army superior to him [and] self-seizing, or the neighbouring chiefs and forest chiefs; [him] set at odds by them he should outwit.",
+  "text_flags": [],
+  "notes": "svayaṃ-grāha (\"self-seizing\") is obscure and rendered literally; it may mean an army that takes him on its own initiative. Whether tad-viśiṣṭa/svayaṃ-grāha qualify daṇḍa or are separate objects is uncertain. vigṛhīta = set at odds/made to fight; the object \"him\" is supplied in brackets.",
+  "confidence": "low"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aparuddha.ādānaṃ",
+      "words": [
+       {
+        "w": "aparuddha-ādānaṃ",
+        "gloss": "taking of the prince in disfavour",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāragrāmikaṃ",
+      "words": [
+       {
+        "w": "pāragrāmikaṃ",
+        "gloss": "relating to another village",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yogam",
+      "words": [
+       {
+        "w": "yogam",
+        "gloss": "contrivance",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ātiṣṭhet",
+      "words": [
+       {
+        "w": "ātiṣṭhet",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. ā-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निकाले गए राजकुमार को ग्रहण करना, अथवा परग्राम सम्बन्धी योग का आश्रय ले।",
+  "english": "He should resort to the taking of a prince in disfavour, or to the contrivance relating to another village.",
+  "text_flags": [],
+  "notes": "Both aparuddha-ādānam and pāragrāmikam are taken as kinds of yoga (contrivance). ādāna could also mean \"seizing\" (the prince is seized); pāragrāmika is obscure and rendered literally (\"of another village\"), sense uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etena",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantra.senā.patī",
+      "words": [
+       {
+        "w": "mantra-senā-patī",
+        "gloss": "the counsellor and the commander of the army",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātau",
+      "words": [
+       {
+        "w": "vyākhyātau",
+        "gloss": "are explained",
+        "gram": "m. nom. du. pp. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे मन्त्री और सेनापति की व्याख्या हो गई।",
+  "english": "By this the counsellor and the commander of the army are explained.",
+  "text_flags": [],
+  "notes": "mantra- = counsellor (mantrin), as in unit 20. \"Explained\" = the same remedies apply.",
+  "confidence": "high"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mantry.ādi.varjānām",
+      "words": [
+       {
+        "w": "mantri-ādi-varjānām",
+        "gloss": "of those excluding the counsellor and the rest",
+        "gram": "bahuvrīhi, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "antar.amātyānām",
+      "words": [
+       {
+        "w": "antar-amātyānām",
+        "gloss": "of the inner ministers",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anyatama.kopo",
+      "words": [
+       {
+        "w": "anyatama-kopaḥ",
+        "gloss": "revolt of any one",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'ntar.amātya.kopaḥ",
+      "words": [
+       {
+        "w": "antar-amātya-kopaḥ",
+        "gloss": "revolt of inner ministers",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मन्त्री आदि को छोड़कर भीतरी अमात्यों में से किसी एक का कोप भीतरी अमात्य का कोप है।",
+  "english": "The revolt of any one of the inner ministers, excluding the counsellor and the rest, is the revolt of the inner ministers.",
+  "text_flags": [],
+  "notes": "antar-amātya is rendered \"inner minister\" (literally \"minister of the inside\"); the sense of antar here is uncertain. mantry-ādi-varjānām agrees with antar-amātyānām.",
+  "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra-api",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā.arham",
+      "words": [
+       {
+        "w": "yathā-arham",
+        "gloss": "as is fitting",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "upāyān",
+      "words": [
+       {
+        "w": "upāyān",
+        "gloss": "means",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ भी यथायोग्य उपायों का प्रयोग करे।",
+  "english": "Even there he should employ the means as is fitting.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rāṣṭra.mukhya.anta.pāla.āṭavika.daṇḍa.upanatānām",
+      "words": [
+       {
+        "w": "rāṣṭra-mukhya-anta-pāla-āṭavika-daṇḍa-upanatānām",
+        "gloss": "of the country-chief, frontier officer, forest chief and the one submitting with his army",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anyatama.kopo",
+      "words": [
+       {
+        "w": "anyatama-kopaḥ",
+        "gloss": "revolt of any one",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.kopaḥ",
+      "words": [
+       {
+        "w": "bāhya-kopaḥ",
+        "gloss": "external revolt",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "राष्ट्र के मुख्य, अन्तपाल, आटविक और सेना सहित समर्पण करने वाले में से किसी एक का कोप बाहरी कोप है।",
+  "english": "The revolt of any one of the chief of the country, the frontier officer, the forest chief and the one who has submitted with his army is external revolt.",
+  "text_flags": [],
+  "notes": "Four members taken: rāṣṭra-mukhya, anta-pāla, āṭavika, daṇḍa-upanata (rāṣṭra-mukhya could also be two: country and chief).",
+  "confidence": "medium"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tam",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyonyena-avagrāhayet",
+      "words": [
+       {
+        "w": "anyonyena",
+        "gloss": "by one another",
+        "gram": "ind."
+       },
+       {
+        "w": "avagrāhayet",
+        "gloss": "should have restrained",
+        "gram": "3 sg. opt. caus. ava-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे एक-दूसरे के द्वारा रोकवाए।",
+  "english": "He should have him restrained by one another.",
+  "text_flags": [],
+  "notes": "anyonyena avagrāhayet is one token (unsandhied join). Sense: have him restrained by one of the others in the group named in unit 22; literal \"by one another\", medium confidence.",
+  "confidence": "medium"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atidurga.pratiṣṭabdhaṃ",
+      "words": [
+       {
+        "w": "atidurga-pratiṣṭabdhaṃ",
+        "gloss": "propped up by a very strong fort",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāmanta.āṭavika.tat.kulīna.aparuddhānām",
+      "words": [
+       {
+        "w": "sāmanta-āṭavika-tat-kulīna-aparuddhānām",
+        "gloss": "of the neighbours, forest chiefs, members of his family and princes in disfavour",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anyatamena-avagrāhayet",
+      "words": [
+       {
+        "w": "anyatamena",
+        "gloss": "by any one",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "avagrāhayet",
+        "gloss": "should have restrained",
+        "gram": "3 sg. opt. caus. ava-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा अत्यन्त दुर्ग के सहारे अड़े हुए को सामन्त, आटविक, उसके कुल के सदस्य और निकाले गए राजकुमारों में से किसी एक के द्वारा रोकवाए।",
+  "english": "Or, if he is propped up by a very strong fort, he should have him restrained by any one of the neighbours, forest chiefs, members of his family and princes in disfavour.",
+  "text_flags": [],
+  "notes": "atidurga is rendered literally (\"very strong fort\"); pratiṣṭabdha = propped up / made firm (could also be \"obstinate\"). \"if he is\" and \"him\" are supplied. anyatamena-avagrāhayet is one token.",
+  "confidence": "medium"
  }
 ]

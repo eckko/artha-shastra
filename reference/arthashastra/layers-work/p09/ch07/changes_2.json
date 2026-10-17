@@ -1,0 +1,94 @@
+[
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Gain on this side, doubt of loss on the other — thus the adversity of doubt of gain and loss on both sides.",
+  "new": "“Gain on this side, doubt of loss on the other” — the adversity of doubt of gain and loss on both sides.",
+  "why": "reviewer (minor): iti closes the quoted pair; rendered as a bare 'thus'"
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "इधर अर्थ, उधर अनर्थ का संशय — इस प्रकार दोनों ओर अर्थ और अनर्थ के संशय की आपत्ति।",
+  "new": "“इधर अर्थ, उधर अनर्थ का संशय” — दोनों ओर अर्थ और अनर्थ के संशय की आपत्ति।",
+  "why": "reviewer (minor): same: bare 'इस प्रकार' for closing iti"
+ },
+ {
+  "n": "44",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus",
+  "new": "closing quotation",
+  "why": "reviewer (minor): gloss 'thus' wrong for a quotation-closing iti"
+ },
+ {
+  "n": "47",
+  "field": "english",
+  "old": "For better the ally standing in doubt of loss, not the army; or the army, not the treasury.",
+  "new": "For better is the ally standing in doubt of loss, not the army; or the army, not the treasury.",
+  "why": "reviewer (minor): ungrammatical; bare copula needed"
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "Verb and noun \"part\" supplied from unit 48 (bracketed in English). tīkṣṇa rendered literally as \"fierce\"; the glossary sense \"assassin\" belongs to the agent contexts and is only an alternative here. bahulam could be \"numerous\" or \"large\"; the word supplied after anuraktam is uncertain.",
+  "new": "Verb and noun \"part\" supplied from unit 48 (bracketed in English). tīkṣṇa rendered literally as \"fierce\"; the glossary sense \"assassin\" belongs to the agent contexts and is only an alternative here. bahulam could be \"numerous\" or \"large\"; the word supplied after anuraktam is uncertain. Review: tīkṣṇa kept 'fierce' (adjective of persons beside lubdha), as in 9.6 where the target is 'fierce'; 'assassin' only for the agent class.",
+  "why": "reviewer (minor): Settled with 9.6: tīkṣṇa as an adjective of persons (here beside lubdha, 'excluding the fierce and the greedy') stays 'fierce'; 'assassin' is only the agent class (12.x). Draft is right."
+ },
+ {
+  "n": "50",
+  "field": "notes",
+  "old": "No verb in the Sanskrit; the neuter plurals laghūni/gurūṇi have no stated noun (the adversities or doubts of the preceding passage are probable). āsana literally \"sitting\". viparyayaiḥ: by the contrary [means].",
+  "new": "No verb in the Sanskrit; the neuter plurals laghūni/gurūṇi have no stated noun (the adversities or doubts of the preceding passage are probable). āsana literally \"sitting\". viparyayaiḥ: by the contrary [means]. Review: sandhi = peace (as 8.5, 12.5); āsana = staying quiet; dvaidhī-bhāva = the dual policy. laghūni/gurūṇi left without a stated noun.",
+  "why": "reviewer (minor): sandhi = peace follows 8.5/12.5 (12.1 has 'treaty'); āsana = staying quiet settled"
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "viśeṣa is \"difference\" or \"distinction\"; \"advantage\" is a possible alternative sense. prātilomya = reversal of the order of unit 51.",
+  "new": "viśeṣa is \"difference\" or \"distinction\"; \"advantage\" is a possible alternative sense. prātilomya = reversal of the order of unit 51. Review: viśeṣa kept literal ('difference'); the whole is obscure (choosing among decline, stagnation, growth by the later outcome).",
+  "why": "reviewer (minor): kept literal 'difference'; sense 'advantage' in notes only. Fine, but record."
+ },
+ {
+  "n": "54",
+  "field": "notes",
+  "old": "Compound artha-anartha-saṃśayānām read as three items (gain, loss, doubt) because of the plural saṃśayānām; \"doubt of gain and loss\" is the alternative. upasamprāpti rendered \"encountering\"; \"attainment\" is possible.",
+  "new": "Compound artha-anartha-saṃśayānām read as three items (gain, loss, doubt) because of the plural saṃśayānām; \"doubt of gain and loss\" is the alternative. upasamprāpti rendered \"encountering\"; \"attainment\" is possible. Review: upasamprāpti = encountering (glossary 9.7); three items read, as in 55 and 57.",
+  "why": "reviewer (minor): 'encountering' settled in glossary; three items (gain, loss, doubt) confirmed by plural saṃśayānām"
+ },
+ {
+  "n": "55",
+  "field": "hindi",
+  "old": "निरन्तर सम्बन्ध होने से अर्थ, अनर्थ और संशयों में, यात्रा के आरम्भ में अर्थ प्राप्त करना अधिक अच्छा है, और पार्ष्णिग्राह तथा आसार के निवारण में, क्षय, व्यय, प्रवास और पुनः ग्रहण में तथा मूल की रक्षाओं में होता है।",
+  "new": "और अर्थ, अनर्थ और संशयों का निरन्तर सम्बन्ध होने से यात्रा के आरम्भ में अर्थ प्राप्त करना अधिक अच्छा है, और पार्ष्णिग्राह तथा आसार के निवारण में, क्षय, व्यय, प्रवास और पुनः ग्रहण में तथा मूल की रक्षाओं में होता है।",
+  "why": "reviewer (error): artha-anartha-saṃśayānām is genitive (of ... the continuous connection), Hindi has a locative 'में' which changes the sense; also initial 'ca' (and) dropped"
+ },
+ {
+  "n": "59",
+  "field": "notes",
+  "old": "Obscure: sāmavāyika (associates, members of a joint undertaking), apuroga (not going in front), -ga (\"going to\" or \"occurring in\") and anirbandha-gāmitva (going without insistence or stubbornness) are rendered literally. Who goes without insistence (the associates or the follower) is not stated. Alternative: \"occurring in the middle or at the end of the march\".",
+  "new": "Obscure: sāmavāyika (associates, members of a joint undertaking), apuroga (not going in front), -ga (\"going to\" or \"occurring in\") and anirbandha-gāmitva (going without insistence or stubbornness) are rendered literally. Who goes without insistence (the associates or the follower) is not stated. Alternative: \"occurring in the middle or at the end of the march\". Review: the two genitives sāmavāyikānām apurogasya may also be read separately; Hindi 'सामवायिकों में' is loose for a genitive. Low confidence kept; sense of -ga and anirbandha unresolved.",
+  "why": "reviewer (minor): Reviewed: split plausible; sāmavāyikānām apurogasya read as a genitive pair ('of the associates, of the non-leader'), rendered 'for one who is not the leader of the associates'. Hindi 'में' for the first genitive is loose. Confidence low stays."
+ },
+ {
+  "n": "65",
+  "field": "notes",
+  "old": "Obscure. tasya-uttara-pakṣa-siddhau: \"of that, in the success of the latter side\". Sides read as the two halves of each doubt pair of unit 64 (gain/loss etc.). siddhi could be \"accomplishment, coming about\"; alternative: \"if the latter side is established (as certain)\".",
+  "new": "Obscure. tasya-uttara-pakṣa-siddhau: \"of that, in the success of the latter side\". Sides read as the two halves of each doubt pair of unit 64 (gain/loss etc.). siddhi could be \"accomplishment, coming about\"; alternative: \"if the latter side is established (as certain)\". Review: uttara-pakṣa/pūrva-pakṣa here = latter/former side (alternative) of a doubt pair, not the 15.1 technical 'reply/objection'. Low confidence kept.",
+  "why": "reviewer (minor): Not the 15.1 tantra-yukti senses; read as latter/former side of the doubt pair of 64. Low confidence kept."
+ },
+ {
+  "n": "73",
+  "field": "notes",
+  "old": "The three terms are defined in units 74 to 76. yoga here = connection.",
+  "new": "The three terms are defined in units 74 to 76. yoga here = connection. Review: alternative construction: āpadām with niyoga-vikalpa-samuccayāḥ ('of/for the adversities'), 'from the connection of heaviness and lightness'.",
+  "why": "reviewer (minor): genitive āpadām may instead go with niyoga-vikalpa-samuccayāḥ ('the niyoga etc. of the adversities'); draft reading is acceptable"
+ },
+ {
+  "n": "82",
+  "field": "hindi",
+  "old": "दैव से अग्नि, जल, रोग, महामारी, भगदड़, अकाल, आसुरी सृष्टि — इस प्रकार आपत्तियाँ।",
+  "new": "दैव से अग्नि, जल, रोग, महामारी, पलायन, अकाल, आसुरी सृष्टि — इस प्रकार आपत्तियाँ।",
+  "why": "reviewer (minor): 'stampede/panic' goes beyond vidrava (flight, running away); keep literal"
+ }
+]
