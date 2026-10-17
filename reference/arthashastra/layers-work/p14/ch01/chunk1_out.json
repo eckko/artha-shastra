@@ -1008,5 +1008,990 @@
   "text_flags": [],
   "notes": "The token 'ca-andhī.karo' carries ca and andhī-karaḥ. andha-ahika: 'blind snake' as in unit 4 (andha-ahi); the exact creature is not given.",
   "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārāvata.plavaka.kravya.adānāṃ",
+      "words": [
+       {
+        "w": "pārāvata-plavaka-kravya-adānām",
+        "gloss": "of pigeons, plavakas, flesh-eaters",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hasti.nara.varāhāṇāṃ",
+      "words": [
+       {
+        "w": "hasti-nara-varāhāṇām",
+        "gloss": "of elephants, men, boars",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mūtra.purīṣaṃ",
+      "words": [
+       {
+        "w": "mūtra-purīṣam",
+        "gloss": "urine and dung",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāsīsa.hiṅgu.yava.tuṣa.kaṇa.taṇḍulāḥ",
+      "words": [
+       {
+        "w": "kāsīsa-hiṅgu-yava-tuṣa-kaṇa-taṇḍulāḥ",
+        "gloss": "kāsīsa, hiṅgu, barley, husk, kaṇa, rice grains",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārpāsa.kuṭaja.kośa.atakīnāṃ",
+      "words": [
+       {
+        "w": "kārpāsa-kuṭaja-kośa-atakīnām",
+        "gloss": "of cotton, kuṭaja, kośātakī",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bījāni",
+      "words": [
+       {
+        "w": "bījāni",
+        "gloss": "seeds",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "go.mūtrikā.bhāṇḍī.mūlaṃ",
+      "words": [
+       {
+        "w": "go-mūtrikā-bhāṇḍī-mūlam",
+        "gloss": "root of gomūtrikā and bhāṇḍī",
+        "gram": "dvandva+tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nimba.śigru.phaṇirja.kākṣīva.pīluka.bhaṅgaḥ",
+      "words": [
+       {
+        "w": "nimba-śigru-phaṇirja-kākṣīva-pīluka-bhaṅgaḥ",
+        "gloss": "nimba, śigru, phaṇirja, kākṣīva, pīluka, bhaṅga",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarpa.śapharī.carma",
+      "words": [
+       {
+        "w": "sarpa-śapharī-carma",
+        "gloss": "skin of snake and śapharī fish",
+        "gram": "dvandva+tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hasti.nakha.śṛṅga.cūrṇam",
+      "words": [
+       {
+        "w": "hasti-nakha-śṛṅga-cūrṇam",
+        "gloss": "powder of elephant's nail and horn",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhūmo",
+      "words": [
+       {
+        "w": "dhūmaḥ",
+        "gloss": "smoke",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madana.kodrava.palālena",
+      "words": [
+       {
+        "w": "madana-kodrava-palālena",
+        "gloss": "with straw of madana and kodrava",
+        "gram": "dvandva+tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hasti.karṇa.palāśa.palālena",
+      "words": [
+       {
+        "w": "hasti-karṇa-palāśa-palālena",
+        "gloss": "with straw of hastikarṇa-palāśa",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praṇītaḥ",
+      "words": [
+       {
+        "w": "praṇītaḥ",
+        "gloss": "applied",
+        "gram": "m. nom. sg. p.p. pra-√nī"
+       }
+      ]
+     },
+     {
+      "src": "pratyekaśo",
+      "words": [
+       {
+        "w": "pratyekaśaḥ",
+        "gloss": "each separately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāvac",
+      "words": [
+       {
+        "w": "yāvat",
+        "gloss": "as long as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "it moves",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     },
+     {
+      "src": "tāvan",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "so long",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mārayati",
+      "words": [
+       {
+        "w": "mārayati",
+        "gloss": "it kills",
+        "gram": "3 sg. caus. √mṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कबूतरों, प्लवकों और मांसभक्षियों का, तथा हाथी, मनुष्य और सूअर का मूत्र और मल; कासीस, हींग, जौ, भूसी, कण और चावल के दाने; कपास, कुटज और कोशातकी के बीज; गोमूत्रिका और भाण्डी की जड़; नीम, सहिजन, फणिर्ज, काक्षीव, पीलु और भङ्ग; साँप और शफरी मछली की खाल; हाथी के नख और सींग का चूर्ण; इस प्रकार यह धुआँ, मदन और कोदो की पराली से अथवा हस्तिकर्ण-पलाश की पराली से, प्रत्येक से अलग-अलग छोड़ा गया, जब तक चलता है तब तक मारता है।",
+  "english": "Urine and dung of pigeons, plavakas and flesh-eaters, and of elephants, men and boars; kāsīsa, hiṅgu, barley, husk, kaṇa and rice grains; seeds of cotton, kuṭaja and kośātakī; root of gomūtrikā and bhāṇḍī; nimba, śigru, phaṇirja, kākṣīva, pīluka and bhaṅga; skin of snake and śapharī fish; powder of elephant's nail and horn: thus this smoke, applied with straw of madana and kodrava or with straw of hastikarṇa-palāśa, each separately, kills for as long as it moves.",
+  "text_flags": [],
+  "notes": "A catalogue of ingredients; names kept as names, not identified (kośātakī is split kośa-atakī in the e-text; plavaka 'a water-bird?' left as name; kaṇa not translated; bhaṅga could be 'hemp' or 'breaking'; the whole list is the content of the smoke). 'ity eṣa dhūmaḥ' closes the list: 'thus this smoke'. pratyekaśaḥ: each of the groups separately (alternative: each ingredient).",
+  "confidence": "low"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kālī.kuṣṭha.naḍa.śatāvalī.mūlaṃ",
+      "words": [
+       {
+        "w": "kālī-kuṣṭha-naḍa-śatāvalī-mūlam",
+        "gloss": "root of kālī, kuṣṭha, naḍa, śatāvalī",
+        "gram": "dvandva+tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarpa.pracalāka.kṛkaṇa.pañca.kuṣṭha.cūrṇaṃ",
+      "words": [
+       {
+        "w": "sarpa-pracalāka-kṛkaṇa-pañca-kuṣṭha-cūrṇam",
+        "gloss": "powder of snake, pracalāka, kṛkaṇa, five kuṣṭha",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhūmaḥ",
+      "words": [
+       {
+        "w": "dhūmaḥ",
+        "gloss": "smoke",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrva.kalpena-ārdra.śuṣka.palālena",
+      "words": [
+       {
+        "w": "pūrva-kalpena",
+        "gloss": "by the former procedure",
+        "gram": "tat-puruṣa, m. inst. sg."
+       },
+       {
+        "w": "ārdra-śuṣka-palālena",
+        "gloss": "with wet or dry straw",
+        "gram": "dvandva+karmadhāraya, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praṇītaḥ",
+      "words": [
+       {
+        "w": "praṇītaḥ",
+        "gloss": "applied",
+        "gram": "m. nom. sg. p.p. pra-√nī"
+       }
+      ]
+     },
+     {
+      "src": "saṅgrāma.avataraṇa.avaskandana.saṅkuleṣu",
+      "words": [
+       {
+        "w": "saṅgrāma-avataraṇa-avaskandana-saṅkuleṣu",
+        "gloss": "in the crowds of battle, descent, assault",
+        "gram": "dvandva, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.nejana.udaka.akṣi.pratīkāraiḥ",
+      "words": [
+       {
+        "w": "kṛta-nejana-udaka-akṣi-pratīkāraiḥ",
+        "gloss": "by those who have made the remedy for the eyes of water-washing",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "praṇītaḥ",
+      "words": [
+       {
+        "w": "praṇītaḥ",
+        "gloss": "applied",
+        "gram": "m. nom. sg. p.p. pra-√nī"
+       }
+      ]
+     },
+     {
+      "src": "sarva.prāṇināṃ",
+      "words": [
+       {
+        "w": "sarva-prāṇinām",
+        "gloss": "of all living beings",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "netraghnaḥ",
+      "words": [
+       {
+        "w": "netraghnaḥ",
+        "gloss": "destroyer of the eyes",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काली, कुष्ठ, नड और शतावली की जड़, अथवा साँप, प्रचलाक, कृकण और पाँच कुष्ठ का चूर्ण; यह धुआँ, पहले बताई विधि से गीली या सूखी पराली के साथ छोड़ा गया, युद्ध, उतरने और आक्रमण की भीड़ में, आँखों के जल से धोने का उपचार कर चुके लोगों द्वारा छोड़ा गया, सब प्राणियों की आँखों का नाश करने वाला है।",
+  "english": "Root of kālī, kuṣṭha, naḍa and śatāvalī, or powder of snake, pracalāka, kṛkaṇa and five kuṣṭha: the smoke, applied by the former procedure with wet or dry straw, applied in the crowds of battle, descent and assault by those who have made the remedy for the eyes of washing with water, is the destroyer of the eyes of all living beings.",
+  "text_flags": [],
+  "notes": "pūrva-kalpena refers back to the earlier preparation (units 9, 13). The long compound kṛta-nejana-udaka-akṣi-pratīkāraiḥ is taken as 'by those for whom the remedy of the eyes by washing with water has been made'; low-medium certainty; alternative: 'with remedies for the eyes (i.e. washing with water) made'. The e-text '-' in pūrva.kalpena-ārdra marks an unsandhied join. 'sarpa' may be a snake or part of a name; kept as 'snake'.",
+  "confidence": "low"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śārikā.kapota.baka.balākā.leṇḍam",
+      "words": [
+       {
+        "w": "śārikā-kapota-baka-balākā-leṇḍam",
+        "gloss": "dung of śārikā, pigeon, heron, crane",
+        "gram": "dvandva+tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "arka.akṣi.pīluka.snuhi.kṣīra.piṣṭam",
+      "words": [
+       {
+        "w": "arka-akṣi-pīluka-snuhi-kṣīra-piṣṭam",
+        "gloss": "ground with arka, akṣi-pīluka, snuhi milk",
+        "gram": "dvandva+tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "andhī.karaṇam",
+      "words": [
+       {
+        "w": "andhī-karaṇam",
+        "gloss": "blinding",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "añjanam",
+      "words": [
+       {
+        "w": "añjanam",
+        "gloss": "ointment (añjana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "udaka.dūṣaṇaṃ",
+      "words": [
+       {
+        "w": "udaka-dūṣaṇam",
+        "gloss": "polluting of water",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शारिका, कबूतर, बगुला और बलाका की बीट, आक, अक्षिपीलु और थूहर के दूध के साथ पीसी हुई, अन्धा करने वाला अञ्जन है और जल को दूषित करने वाली भी।",
+  "english": "Dung of śārikā, pigeon, heron and crane, ground with arka, akṣi-pīluka and snuhi milk, is a blinding ointment (añjana) and also a polluter of water.",
+  "text_flags": [],
+  "notes": "leṇḍa = dung (of birds). Plant names (arka, akṣi-pīluka, snuhi) kept; 'milk' of snuhi is kṣīra (sap/milk). akṣi-pīluka may be two names (akṣi, pīluka). 'añjana' = salve for the eyes.",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yavaka.śāli.mūla.madana.phala.jātī.pattra.nara.mūtra.yogaḥ",
+      "words": [
+       {
+        "w": "yavaka-śāli-mūla-madana-phala-jātī-pattra-nara-mūtra-yogaḥ",
+        "gloss": "compound of yavaka, śāli root, madana fruit, jātī leaf, human urine",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "plakṣa.vidārī.mūla.yukto",
+      "words": [
+       {
+        "w": "plakṣa-vidārī-mūla-yuktaḥ",
+        "gloss": "joined with plakṣa and vidārī root",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūka.udumbara.madana.kodrava.kvātha.yukto",
+      "words": [
+       {
+        "w": "mūka-udumbara-madana-kodrava-kvātha-yuktaḥ",
+        "gloss": "joined with decoction of mūka, udumbara, madana, kodrava",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hasti.karṇa.palāśa.kvātha.yukto",
+      "words": [
+       {
+        "w": "hasti-karṇa-palāśa-kvātha-yuktaḥ",
+        "gloss": "joined with decoction of hastikarṇa-palāśa",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madana.yogaḥ",
+      "words": [
+       {
+        "w": "madana-yogaḥ",
+        "gloss": "madana compound",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यवक, शालि की जड़, मदन का फल, जाती के पत्ते और मनुष्य के मूत्र का योग, प्लक्ष और विदारी की जड़ से युक्त, अथवा मूक, उदुम्बर, मदन और कोदो के काढ़े से युक्त, अथवा हस्तिकर्ण-पलाश के काढ़े से युक्त, मदन-योग है।",
+  "english": "A compound of yavaka, root of śāli, fruit of madana, leaf of jātī and human urine, joined with plakṣa and root of vidārī, or joined with a decoction of mūka, udumbara, madana and kodrava, or joined with a decoction of hastikarṇa-palāśa: it is a madana compound.",
+  "text_flags": [],
+  "notes": "madana (a plant name; also 'intoxication') kept as a name in madana-yoga; the effect is not stated here. mūka (literally 'mute') is taken as a drug name, uncertain. kvātha = decoction.",
+  "confidence": "low"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śṛṅgi.gautama.vṛka.kaṇṭaka.ara.mayūra.padī.yogo",
+      "words": [
+       {
+        "w": "śṛṅgi-gautama-vṛka-kaṇṭaka-ara-mayūra-padī-yogaḥ",
+        "gloss": "compound of śṛṅgi, gautama, vṛka, kaṇṭaka, ara, peacock-foot",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guñjā.lāṅgalī.viṣa.mūlika.iṅgudī.yogaḥ",
+      "words": [
+       {
+        "w": "guñjā-lāṅgalī-viṣa-mūlika-iṅgudī-yogaḥ",
+        "gloss": "compound of guñjā, lāṅgalī, poison-root, iṅgudī",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kara.vīra.akṣi.pīluka.arka.mṛga.māraṇī.yogo",
+      "words": [
+       {
+        "w": "kara-vīra-akṣi-pīluka-arka-mṛga-māraṇī-yogaḥ",
+        "gloss": "compound of karavīra, akṣi-pīluka, arka, deer-killer",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madna.kodrava.kvātha.yukto",
+      "words": [
+       {
+        "w": "madana-kodrava-kvātha-yuktaḥ",
+        "gloss": "joined with decoction of madana and kodrava",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hasti.karṇa.palāśa.kvātha.yukto",
+      "words": [
+       {
+        "w": "hasti-karṇa-palāśa-kvātha-yuktaḥ",
+        "gloss": "joined with decoction of hastikarṇa-palāśa",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madana.yogaḥ",
+      "words": [
+       {
+        "w": "madana-yogaḥ",
+        "gloss": "madana compound",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शृङ्गी, गौतम, वृक, कण्टक, अर और मयूरपदी का योग; गुञ्जा, लाङ्गली, विषमूलिका और इङ्गुदी का योग; करवीर, अक्षिपीलु, आक और मृगमारणी का योग, मदन और कोदो के काढ़े से युक्त, अथवा हस्तिकर्ण-पलाश के काढ़े से युक्त, मदन-योग है।",
+  "english": "A compound of śṛṅgi, gautama, vṛka, kaṇṭaka, ara and mayūra-padī; a compound of guñjā, lāṅgalī, viṣa-mūlika and iṅgudī; a compound of karavīra, akṣi-pīluka, arka and mṛga-māraṇī, joined with a decoction of madana and kodrava, or joined with a decoction of hastikarṇa-palāśa: it is a madana compound.",
+  "text_flags": [
+   {
+    "src": "madna.kodrava.kvātha.yukto",
+    "suggest": "madana.kodrava.kvātha.yukto",
+    "why": "possible typo: madna for madana (cf. unit 16 and the end of this unit)"
+   }
+  ],
+  "notes": "Names kept as names (mayūra-padī literally 'peacock-foot'; mṛga-māraṇī literally 'deer-killer'; viṣa-mūlika 'poison-root'). Whether the decoction clause belongs to the last compound only or to all three is not clear; rendered as in the Sanskrit order (to the last), alternative: to all.",
+  "confidence": "low"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samastā",
+      "words": [
+       {
+        "w": "samastāḥ",
+        "gloss": "all together",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yavasa.indhana.udaka.dūṣaṇāḥ",
+      "words": [
+       {
+        "w": "yavasa-indhana-udaka-dūṣaṇāḥ",
+        "gloss": "polluters of fodder, fuel and water",
+        "gram": "dvandva+tat-puruṣa, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा सब मिलाकर घास, ईंधन और जल को दूषित करने वाले हैं।",
+  "english": "Or, all together, they are polluters of fodder, fuel and water.",
+  "text_flags": [],
+  "notes": "'they' refers back to the preceding compounds (units 16 and 17); samastā(ḥ) vā is 'or all together'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛta.kaṇḍala.kṛkalāsa.gṛha.golika.andha.ahika.dhūmo",
+      "words": [
+       {
+        "w": "kṛta-kaṇḍala-kṛkalāsa-gṛha-golika-andha-ahika-dhūmaḥ",
+        "gloss": "smoke of kṛta, kaṇḍala, kṛkalāsa, house-golika, blind snake",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "netra.vadham",
+      "words": [
+       {
+        "w": "netra-vadham",
+        "gloss": "destruction of the eyes",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "unmādaṃ",
+      "words": [
+       {
+        "w": "unmādam",
+        "gloss": "madness",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "it causes",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कृत, कण्डल, कृकलास, गृह-गोलिक और अन्धे साँप का धुआँ आँखों का नाश और उन्माद करता है।",
+  "english": "The smoke of kṛta, kaṇḍala, kṛkalāsa, house-golika and blind snake causes destruction of the eyes and madness.",
+  "text_flags": [],
+  "notes": "'kṛta.kaṇḍala' is obscure: taken as two names, or kṛta-kaṇḍala 'made [into] kaṇḍala'; low confidence. Other names as in unit 4.",
+  "confidence": "low"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛkalāsa.gṛha.golikā.yogaḥ",
+      "words": [
+       {
+        "w": "kṛkalāsa-gṛha-golikā-yogaḥ",
+        "gloss": "compound of kṛkalāsa and house-golikā",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭha.karaḥ",
+      "words": [
+       {
+        "w": "kuṣṭha-karaḥ",
+        "gloss": "producer of kuṣṭha",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कृकलास और गृह-गोलिका का योग कुष्ठ करने वाला है।",
+  "english": "A compound of kṛkalāsa and house-golikā produces kuṣṭha.",
+  "text_flags": [],
+  "notes": "kuṣṭha (the skin disease; also the name of a plant) is kept as kuṣṭha, here the disease is the natural sense.",
+  "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "citram",
+      "words": [
+       {
+        "w": "citram",
+        "gloss": "citra",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eka.antra.madhu.yuktaḥ",
+      "words": [
+       {
+        "w": "eka-antra-madhu-yuktaḥ",
+        "gloss": "joined with one intestine and honey",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prameham",
+      "words": [
+       {
+        "w": "prameham",
+        "gloss": "prameha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āpādayati,",
+      "words": [
+       {
+        "w": "āpādayati",
+        "gloss": "brings about",
+        "gram": "3 sg. caus. ā-√pad"
+       }
+      ]
+     },
+     {
+      "src": "manuṣya.lohita.yuktaḥ",
+      "words": [
+       {
+        "w": "manuṣya-lohita-yuktaḥ",
+        "gloss": "joined with human blood",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śoṣam",
+      "words": [
+       {
+        "w": "śoṣam",
+        "gloss": "wasting (śoṣa)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही चित्र, एक अन्त्र और मधु से युक्त होकर प्रमेह उत्पन्न करता है, मनुष्य के रक्त से युक्त होकर शोष।",
+  "english": "That same one, joined with citra, one intestine and honey, brings about prameha; joined with human blood, wasting (śoṣa).",
+  "text_flags": [
+   {
+    "src": "citram",
+    "suggest": "citra",
+    "why": "possible: the word may be a drug name; reading doubtful"
+   }
+  ],
+  "notes": "'sa eva' refers to the preceding compound (unit 20). 'citram' is obscure (a drug name citra, or adverb 'variously'); 'eka-antra' literally 'one intestine', possibly part of a name; low confidence. prameha and śoṣa are kept as the named conditions (śoṣa literally 'drying up, wasting'). 'brings about' is supplied for śoṣam from āpādayati.",
+  "confidence": "low"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūṣī.viṣaṃ",
+      "words": [
+       {
+        "w": "dūṣī-viṣam",
+        "gloss": "dūṣī poison",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madana.kodrava.cūrṇam",
+      "words": [
+       {
+        "w": "madana-kodrava-cūrṇam",
+        "gloss": "powder of madana and kodrava",
+        "gram": "dvandva+tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "apajihvikā.yogaḥ",
+      "words": [
+       {
+        "w": "apajihvikā-yogaḥ",
+        "gloss": "apajihvikā compound",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूषी विष, मदन और कोदो का चूर्ण, अपजिह्विका-योग है।",
+  "english": "Dūṣī poison, powder of madana and kodrava: the apajihvikā compound.",
+  "text_flags": [],
+  "notes": "dūṣī-viṣa (a technical term, 'slow-acting/vitiated poison' in later usage) kept as 'dūṣī poison'; apajihvikā (literally 'uvula, lit. off-tongue') kept as a name. The line is elliptical; how the three items relate is not stated. Rendered literally as a list.",
+  "confidence": "low"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mātṛ.vāhaka.añjali.kāra.pracalāka.bheka.akṣi.pīluka.yogo",
+      "words": [
+       {
+        "w": "mātṛ-vāhaka-añjali-kāra-pracalāka-bheka-akṣi-pīluka-yogaḥ",
+        "gloss": "compound of mātṛ-vāhaka, añjali-kāra, pracalāka, frog, akṣi-pīluka",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣūcikā.karaḥ",
+      "words": [
+       {
+        "w": "viṣūcikā-karaḥ",
+        "gloss": "producer of viṣūcikā",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मातृवाहक, अञ्जलिकार, प्रचलाक, मेंढक और अक्षिपीलु का योग विषूचिका करने वाला है।",
+  "english": "A compound of mātṛ-vāhaka, añjali-kāra, pracalāka, frog and akṣi-pīluka produces viṣūcikā.",
+  "text_flags": [],
+  "notes": "Names kept (añjali-kāra literally 'añjali-maker'; mātṛ-vāhaka literally 'mother-carrier'). viṣūcikā is kept as the named condition.",
+  "confidence": "low"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pañca.kuṣṭhaka.kauṇḍinya.karāja.vṛkṣa.puṣpa.madhu.yogo",
+      "words": [
+       {
+        "w": "pañca-kuṣṭhaka-kauṇḍinya-karāja-vṛkṣa-puṣpa-madhu-yogaḥ",
+        "gloss": "compound of five kuṣṭhaka, kauṇḍinya, flowers of the karāja tree, honey",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvara.karaḥ",
+      "words": [
+       {
+        "w": "jvara-karaḥ",
+        "gloss": "producer of fever",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाँच कुष्ठक, कौण्डिन्य, करांज वृक्ष के फूल और मधु का योग ज्वर करने वाला है।",
+  "english": "A compound of five kuṣṭhaka, kauṇḍinya, flowers of the karāja tree and honey produces fever.",
+  "text_flags": [],
+  "notes": "karāja is kept as a tree name (may be karañja). jvara = fever.",
+  "confidence": "medium"
  }
 ]

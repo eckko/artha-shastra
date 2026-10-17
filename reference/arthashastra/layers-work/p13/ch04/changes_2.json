@@ -1,0 +1,162 @@
+[
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "अथवा उसके सार बल को वमन कराकर उस पर प्रहार करे।",
+  "new": "अथवा उसके सार बल को वमन कराकर प्रहार करे।",
+  "why": "reviewer (minor): abhihanyāt has no stated object; Hindi 'उस पर' adds one unmarked (English correctly brackets [it])."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "Or, having caused his strong force to vomit forth, he should strike [it].",
+  "new": "Or, having caused his strong force to vomit out, he should strike [it].",
+  "why": "reviewer (minor): Unit 63 renders vāmana 'causing to vomit out'; use one rendering for √vam caus. across the chunk."
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "vamayitvā",
+  "old": "having caused to vomit forth",
+  "new": "having caused to vomit out",
+  "why": "reviewer (minor): same consistency point"
+ },
+ {
+  "n": "38",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): sampāta is obscure and no sense is established; the draft gives a literal 'passage' with Hindi leaving सम्पात untranslated, which in Hindi means something else (coincidence/falling). Lower confidence and say so."
+ },
+ {
+  "n": "38",
+  "field": "notes",
+  "old": "sampāta (lit. \"falling/coming together, passing\") in paṇya-sampāta is obscure; rendered literally \"passage of merchandise\"; the alternative is \"arrival/inflow of goods\". rasa = poison (glossary). atisandadhyāt rendered \"outwit\" as in the glossary (atisaṃhita).",
+  "new": "sampāta (lit. \"falling/coming together, passing\") in paṇya-sampāta is obscure; rendered literally \"passage of merchandise\"; the alternative is \"arrival/inflow of goods\". rasa = poison (glossary). atisandadhyāt rendered \"outwit\" as in the glossary (atisaṃhita). Hindi keeps सम्पात as the Sanskrit word; no sure Hindi equivalent is known. Reviewer: sense of paṇya-sampāta uncertain, a person should check it against a commentary.",
+  "why": "reviewer (minor): state that Hindi keeps सम्पात as the Sanskrit word because no sure Hindi sense exists."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "Having pleaded an ally or a kinsman [as pretext], the secret agents, with order and pass in hand, having entered, should have the fort seized.",
+  "new": "Having made an ally or a kinsman their pretext, the secret agents, with order and pass in hand, having entered, should have the fort seized.",
+  "why": "reviewer (minor): 'pleaded an ally' is not English; apa-√diś/apadeśa is 'pretext'. The bracket is then unnecessary (the pretext sense is in the word). Hindi बहाना बनाकर is right."
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "apadiśya",
+  "old": "having pleaded as pretext",
+  "new": "having made a pretext of",
+  "why": "reviewer (minor): align gloss"
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "Or one in the guise of a reinforcer should send [word] to the besieged: “At that place and time I shall strike the camp; you also must fight.”",
+  "new": "Or one in the guise of a reinforcer should send [word] to the besieged: “At such-and-such a place and time I shall strike the camp; you also must fight.”",
+  "why": "reviewer (minor): amuṣmin (adas) here is 'such-and-such', a place and time still to be fixed; 'that' implies an earlier mention."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "अथवा आसार का रूप धारण किया हुआ घिरे हुए के पास भेजे – “उस स्थान और समय पर मैं स्कन्धावार पर प्रहार करूँगा, तुम्हें भी युद्ध करना चाहिए।”",
+  "new": "अथवा आसार का रूप धारण किया हुआ घिरे हुए के पास भेजे – “अमुक स्थान और समय पर मैं स्कन्धावार पर प्रहार करूँगा, तुम्हें भी युद्ध करना चाहिए।”",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "42",
+  "field": "word.gloss",
+  "word": "amuṣmin",
+  "old": "in that",
+  "new": "in such-and-such",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "आक्रमण करने वाले को प्रकृतियों द्वारा, या दूष्यों और मुख्यों को अपने पक्ष में करके मरवाए; अथवा “यह मित्र का घातक है” ऐसा कहकर, अपना प्रयोजन पा लेने पर, स्वयं विष से भी मरवाए।",
+  "new": "आक्रमण करने वाले को प्रकृतियों द्वारा, या दूष्यों और मुख्यों को अपने पक्ष में करके मरवाए; अथवा “यह मित्र का घातक है” ऐसा कहकर, अपना प्रयोजन पा लेने पर, स्वयं विष से मरवाए।",
+  "why": "reviewer (minor): 'भी' renders nothing: svayaṃ vā rasena is 'or himself with poison' (अथवा already given). Unmarked addition."
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "The construction of parasya with abhiśaṃset is unclear (genitive of the person addressed, \"to the enemy\", versus \"of the enemy\"); \"[to]\" is supplied. abhi-√śaṃs = accuse, denounce; alternative \"report\". Low-medium certainty.",
+  "new": "The construction of parasya with abhiśaṃset is unclear (genitive of the person addressed, \"to the enemy\", versus \"of the enemy\"); \"[to]\" is supplied. abhi-√śaṃs = accuse, denounce; alternative \"report\". Low-medium certainty. Reviewer: the genitive of the recipient after a verb of sending/telling occurs in this chunk (saṃruddhasya preṣayet, units 35, 39, 42), which supports 'to the enemy'.",
+  "why": "reviewer (minor): Support for 'to the enemy': in this same chunk the recipient is put in the genitive after preṣayet (samruddhasya preṣayet, units 35, 39, 42), so parasya abhiśaṃset as 'denounce to the enemy' is the likelier reading. Hindi 'शिकायत' is a little weak for abhi-√śaṃs (accuse, denounce) but not wrong."
+ },
+ {
+  "n": "47",
+  "field": "word.gram",
+  "word": "āpta-bhāva-upagataḥ",
+  "old": "m. nom. sg. (bahuvrīhi)",
+  "new": "m. nom. sg. ppp. (tat-puruṣa: acc. + ppp.)",
+  "why": "reviewer (minor): Labelled bahuvrīhi but upagata is a ppp governing the object bhāvam ('gone to the state of'): a tat-puruṣa (accusative), with āpta-bhāva a karmadhāraya inside."
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "The treasonable, enemies, forest chiefs, the hated, and those who have withdrawn back, having had wealth and honour made [for them], with signals and marks, should assault the enemy's fort.",
+  "new": "The treasonable, enemies, forest chiefs, the hated, and those who have withdrawn, having had wealth and honour made [for them], with signals and marks, should assault the enemy's fort.",
+  "why": "reviewer (minor): 'withdrawn back' is redundant."
+ },
+ {
+  "n": "52",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "ukta.keśa.śastra.bhaya.virūpebhyaś",
+    "suggest": "mukta.keśa.śastra.bhaya.virūpebhyaś",
+    "why": "Possible typo: ukta (\"said\") gives no sense with keśa-śastra; mukta (\"loosed, dropped\") fits the sign of surrender. The Devanagari उक्त agrees with the e-text."
+   }
+  ],
+  "new": [
+   {
+    "src": "patita.parān.mukha.abhipannam ukta.keśa.śastra.bhaya.virūpebhyaś",
+    "suggest": "patita.parān.mukha.abhipanna mukta.keśa.śastra.bhaya.virūpebhyaś",
+    "why": "One slip explains two oddities: the m of mukta has moved onto the previous word (abhipanna+m / m+ukta -> abhipannam ukta). Restored, ukta (no sense with keśa-śastra) becomes mukta (loosed, dropped) and abhipannam (an accusative where abhayam dadyuḥ needs a dative) becomes the stem abhipanna, so patita-parāṅmukha-abhipanna-mukta-keśa-śastra-bhaya-virūpebhyaḥ is one dative dvandva with ayudhyamānebhyaḥ. The Devanagari repeats the e-text."
+   }
+  ],
+  "why": "reviewer (error): The draft confirms ukta->mukta but treats abhipannam as a genuine accusative group and then reads the grammar against itself (accusative recipients of dadyuḥ). Better: one transposed m (see flag text) fixes both. Translations stay as drafted (they already read the group as recipients). Update flag, notes, split and gram."
+ },
+ {
+  "n": "52",
+  "field": "word.gram",
+  "word": "patita-parāṅmukha-abhipannam",
+  "old": "n./m. acc. sg. (dvandva)",
+  "new": "m. (dvandva members, dative pl. completed in the next word)",
+  "why": "reviewer (error): "
+ },
+ {
+  "n": "52",
+  "field": "word.gloss",
+  "word": "patita-parāṅmukha-abhipannam",
+  "old": "the fallen, the turned away, the surrendered",
+  "new": "the fallen, the turned away, the surrendered (continues in the next word)",
+  "why": "reviewer (error): "
+ },
+ {
+  "n": "52",
+  "field": "word.w",
+  "word": "patita-parāṅmukha-abhipannam",
+  "old": "patita-parāṅmukha-abhipannam",
+  "new": "patita-parāṅmukha-abhipanna-",
+  "why": "reviewer (error): Word must not end in -m; first three members of the dative dvandva, continued in the next token."
+ },
+ {
+  "n": "52",
+  "field": "word.gram",
+  "word": "mukta-keśa-śastra-bhaya-virūpebhyaḥ",
+  "old": "m. dat. pl. (dvandva)",
+  "new": "m. dat. pl. (dvandva, continuing the previous word)",
+  "why": "reviewer (minor): joins the previous members"
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "Translation follows the suggested mukta. The first group patita-parāṅmukha-abhipannam stands in the accusative (not dative) and is read as the first set of recipients of abhayam; abhipanna rendered \"surrendered\" (lit. \"approached, come to\"), medium confidence. bhaya-virūpa: \"frightened, disfigured\". The sentence may also be read with skandhāvāraṃ vā patita-... as one phrase (\"camp in which men have fallen ...\"); the former reading is used.",
+  "new": "Translation follows two emendations that come from one slip in the e-text: the m of mukta has moved onto the previous word (abhipannam ukta for abhipanna mukta), so the text is read patita-parāṅmukha-abhipanna-mukta-keśa-śastra-bhaya-virūpebhyaḥ, one dative dvandva, all recipients of abhayam together with ayudhyamānebhyaḥ. abhipanna is rendered \"surrendered\" (literally \"approached, come to\"; abhi-√pad can also mean overcome or afflicted), medium-low confidence. mukta-keśa-śastra is read as mukta applying to both keśa and śastra (loosed hair, dropped weapons). bhaya-virūpa read as \"frightened\" and \"disfigured\". The sentence could also be read with skandhāvāraṃ vā patita-... as one phrase; the former reading is used.",
+  "why": "reviewer (error): Draft note says the first group is accusative; with the m restored it is dative and the note must be replaced. abhipanna kept as 'surrendered' (lit. approached, come to; other senses 'overcome, afflicted'), medium-low."
+ }
+]
