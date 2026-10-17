@@ -1,0 +1,197 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "यदि वह सन्धि पर स्थिर न रहे, तो उससे कहे — \"ये राजा शत्रु-रूप छह वर्गों के वश में होकर नष्ट हो गए; उन अनात्मवानों के मार्ग पर चलना तुम्हें उचित नहीं।",
+  "new": "यदि वह सन्धि पर स्थिर न रहे, तो उससे कहे — \"शत्रुरूप षड्वर्ग के वश में पड़े ये राजा नष्ट हो गए; उन अनात्मवानों के मार्ग पर चलना तुम्हें उचित नहीं।",
+  "why": "reviewer (error): ṣaḍ-varga is 'the group of six (enemies)', not 'six groups'; 'होकर' also turns the attribute into a cause."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "śatru-ṣaḍ-varga-vaśagāḥ",
+  "old": "m. nom. pl., bahuvrīhi",
+  "new": "m. nom. pl., upapada tat-puruṣa",
+  "why": "reviewer (minor): X-vaśa-ga ('gone into the power of X') is an upapada tat-puruṣa, not a bahuvrīhi."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "And that king has allies; further, with this very wealth he will set in motion allies who will march against you from all sides.",
+  "new": "And that king has allies; further, with this wealth he will set in motion allies who will march against you from all sides.",
+  "why": "reviewer (minor): 'very' is not in the Sanskrit (no eva); etena arthena = 'with this wealth'."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "और वह राजा मित्रों वाला है; इसके अतिरिक्त इसी धन से वह ऐसे मित्रों को उद्यत करेगा जो तुम पर सब ओर से चढ़ाई करेंगे।",
+  "new": "और वह राजा मित्रों वाला है; इसके अतिरिक्त इस धन से वह ऐसे मित्रों को उद्यत करेगा जो तुम पर सब ओर से चढ़ाई करेंगे।",
+  "why": "reviewer (minor): Same added emphasis ('इसी' = this very)."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "upaprekṣante",
+  "old": "look on at",
+  "new": "look on indifferently at",
+  "why": "reviewer (minor): upa-pra-√īkṣ in this sense is 'overlook, look on indifferently at', which is what makes bhavān 'abandoned'; plain 'look on at' loses the point."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "saḥ",
+  "old": "so",
+  "new": "such (being the case)",
+  "why": "reviewer (minor): Gloss 'so' does not match the gram (m. nom. sg. pronoun agreeing with bhavān); it is 'such (being the case), you'."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Even so, if he sets out (on the march), he should cause disaffection of his constituent elements against him, as has been explained in the Conduct of Corporations and in the Yoga-vāmana.",
+  "new": "Even so, if he sets out (on the march), he should cause disaffection of his constituent elements, as has been explained in the Conduct of Corporations and in the Yoga-vāmana.",
+  "why": "reviewer (minor): 'against him' is an addition; prakṛti-kopam asya is just 'disaffection of his constituents'."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "फिर भी यदि वह चढ़ाई के लिए निकल ही पड़े, तो उसके विरुद्ध उसकी प्रकृतियों का कोप करवाए, जैसा सङ्घवृत्त और योगवामन में समझाया गया है।",
+  "new": "फिर भी यदि वह चढ़ाई के लिए निकल ही पड़े, तो उसकी प्रकृतियों का कोप करवाए, जैसा सङ्घवृत्त और योगवामन में समझाया गया है।",
+  "why": "reviewer (minor): Same addition ('उसके विरुद्ध')."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Even so, if he sets out (on the march), he should cause disaffection of his constituent elements, as has been explained in the Conduct of Corporations and in the Yoga-vāmana.",
+  "new": "Even so, if he sets out (on the march), he should cause disaffection of his constituent elements, as has been explained in the Conduct of Corporations and in the Yogavamana.",
+  "why": "reviewer (minor): Glossary: names in English are written in plain letters without diacritics; this section name is kept as a name."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "अथवा सिद्ध के वेश वाले गुप्तचर, काम के वश में पड़े हुओं से, वशीकरण की औषधियों के बहाने, धोखा देने के लिए मुख्य पुरुषों को रस (विष) दिलवा दें।",
+  "new": "अथवा सिद्ध के वेश वाले गुप्तचर, काम के वश में पड़े हुओं से, वशीकरण की औषधियों के द्वारा, धोखा देने के लिए मुख्य पुरुषों को विष दिलवा दें।",
+  "why": "reviewer (error): 'के बहाने' (on the pretext of) is an addition; the Sanskrit is a plain instrumental. 'रस (विष)' is a bracketed gloss inside the Hindi, which the brief forbids."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "kāma-vaśān",
+  "old": "m. acc. pl., tat-puruṣa",
+  "new": "m. acc. pl., bahuvrīhi",
+  "why": "reviewer (minor): As an adjective 'under the sway of love' (whose control is love) the compound is a bahuvrīhi, not a tat-puruṣa."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "अथवा वैदेहक (व्यापारी) के वेश वाला गुप्तचर, राजा की प्रिय महिषी की निकटवर्ती दासी पर काम के बहाने धन बरसाकर, उसे छोड़ दे।",
+  "new": "अथवा व्यापारी के वेश वाला गुप्तचर, राजा की प्रिय महिषी की निकटवर्ती दासी पर काम के बहाने धन बरसाकर, उसे छोड़ दे।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "फिर रस (विष) के द्वारा (राजा को) धोखा दे दे।",
+  "new": "फिर विष के द्वारा (राजा को) धोखा दे दे।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "And a female mendicant (should tell) his wife: \"You will become a king's wife or the mother of a king.\"",
+  "new": "A female mendicant (should tell) his wife: \"You will become a king's wife or the mother of a king.\"",
+  "why": "reviewer (minor): No connective (ca) in the Sanskrit."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "और एक भिक्षुकी उसकी पत्नी से (कहे) — \"तुम राजा की पत्नी या राजा की माता बनोगी।\"",
+  "new": "एक भिक्षुकी उसकी पत्नी से (कहे) — \"तुम राजा की पत्नी या राजा की माता बनोगी।\"",
+  "why": "reviewer (minor): Same added connective."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "अथवा सूद या आरालिक (रसोइया) के वेश वाला गुप्तचर उसके सामने विष-प्रयोग के लिए राजा का सन्देश और लुभाने वाला धन प्रस्तुत करे।",
+  "new": "अथवा रसोइये या रसोई-सेवक के वेश वाला गुप्तचर उसके सामने विष-प्रयोग के लिए राजा का सन्देश और लुभाने वाला धन प्रस्तुत करे।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi; also the two terms should both be rendered, as in the English."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "i.e. the agent pretends the (enemy) king has ordered the official to poison the weaker king, backed by a bribe. abhinayet (abhi-√nī): 'act out, bring before'.",
+  "new": "rāja-vacana: the text does not say which king's message is meant nor who is to be poisoned; the agent brings the official a king's message proposing the use of poison, backed by a bribe. abhinayet (abhi-√nī): 'act out, bring before'.",
+  "why": "reviewer (minor): The text does not say whose message it is or who is to be poisoned; this is imported interpretation stated as fact."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "इस प्रकार एक, दो या तीन ऐसे उपायों से उसके एक-एक महामात्र को विद्रोह करने या चले जाने में लगा दे। इति।",
+  "new": "इस प्रकार एक, दो या तीन ऐसे उपायों से उसके एक-एक महामात्र को आक्रमण करने या चले जाने में लगा दे। इति।",
+  "why": "reviewer (minor): vikrama = attack (valorous action), not 'rebellion'; the English has 'attack'."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "और उसके दुर्गों में शून्यपाल (राजा की अनुपस्थिति में रक्षक) के निकट रहने वाले सत्री (गुप्तचर) पौरों और जानपदों के बीच मित्रता के बहाने यह सूचना फैलाएँ — \"शून्यपाल ने योद्धाओं और अधिकारियों से कहा है: 'कठिनाई में पड़ा राजा जीवित लौटेगा या नहीं; बलपूर्वक धन अर्जित कर लो और शत्रुओं को मार डालो।'\"",
+  "new": "और उसके दुर्गों में शून्यपाल के निकट रहने वाले सत्री पौरों और जानपदों के बीच मित्रता के बहाने यह सूचना फैलाएँ — \"शून्यपाल ने योद्धाओं और अधिकारियों से कहा है: 'कठिनाई में पड़ा राजा जीवित लौटेगा या नहीं; बलपूर्वक धन अर्जित कर लो और शत्रुओं को मार डालो।'\"",
+  "why": "reviewer (error): Two bracketed glosses inside the Hindi; the explanation of śūnya-pāla is already in notes."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "ārjayadhvam",
+  "old": "2 pl. impv. caus. √ṛj",
+  "new": "2 pl. impv. √arj (cl. 10)",
+  "why": "reviewer (minor): arjayati 'procure' is the class-10 root √arj, not a causative of √ṛj."
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "śūnya-pāla: 'guardian of the empty (capital)', the officer left in charge while the king is away on campaign; rendered 'regent'. adhikaraṇastha = one holding an office. ārjayadhvam: 2 pl. impv. of the causative of √ṛj (arjayati), 'procure'.",
+  "new": "śūnya-pāla: 'guardian of the empty (capital)', the officer left in charge while the king is away on campaign; rendered 'regent'. adhikaraṇastha = one holding an office. ārjayadhvam: 2 pl. impv. of √arj (cl. 10, arjayati), 'procure'.",
+  "why": "reviewer (minor): Same root error in the note."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "इसी प्रकार वे जानपदों को समाहर्ता (कर-संग्राहक) से फोड़ दें।",
+  "new": "इसी प्रकार वे जानपदों को समाहर्ता से फोड़ दें।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "दोष (असन्तोष) उत्पन्न हो जाने पर वे प्रकृतियों के कोप के द्वारा शून्यपाल या समाहर्ता को मरवा डालें।",
+  "new": "दोष उत्पन्न हो जाने पर वे प्रकृतियों के कोप के द्वारा शून्यपाल या समाहर्ता को मरवा डालें।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi (the explanation is in notes)."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "doṣe",
+  "old": "when the (popular) grievance",
+  "new": "fault (grievance)",
+  "why": "reviewer (minor): The gloss carries 'when', which belongs to the locative absolute, not the noun."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "और वे उसके कुल के किसी व्यक्ति को या किसी अपरुद्ध (राजा के कोप से दूर किए गए राजकुमार) को (उसके स्थान पर) स्थापित करें।",
+  "new": "अथवा वे उसके कुल के किसी व्यक्ति को या किसी अपरुद्ध को (उसके स्थान पर) स्थापित करें।",
+  "why": "reviewer (error): vā = 'or', not 'और' (the English has 'Or'); long bracketed gloss inside the Hindi (explanation is in notes)."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "They should burn the harem, the city gate and the stores of goods and grain, or should kill those (officers); and men speaking as if in distress should tell him (of it).",
+  "new": "They should burn the harem, the city gate and the stores of goods and grain, or should kill those (officers); and, speaking as men in distress, should tell him (of it).",
+  "why": "reviewer (minor): ārta-vādinaḥ (nom. pl.) is most naturally a predicate of the same subject that burns and kills (daheyuḥ ... hanyuḥ ... brūyuḥ share one subject); the draft makes it a separate group of men, which is not in the text."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "वे अन्तःपुर, नगर-द्वार और द्रव्य तथा धान्य के भण्डारों को जला दें, अथवा उन (अधिकारियों) को मार डालें; और आर्त (पीड़ित) बनकर बोलने वाले लोग उसे (यह सब) बताएँ।",
+  "new": "वे अन्तःपुर, नगर-द्वार और द्रव्य तथा धान्य के भण्डारों को जला दें, अथवा उन (अधिकारियों) को मार डालें; और वे आर्त बनकर बोलते हुए उसे (यह सब) बताएँ।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi; same separate-subject reading as above."
+ }
+]
