@@ -1,0 +1,2362 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "avidyā.vinayaḥ",
+      "words": [
+       {
+        "w": "a-vidyā-vinayaḥ",
+        "gloss": "lack of training in the sciences",
+        "gram": "m. nom. sg., nañ-tatpuruṣa"
+       }
+      ]
+     },
+     {
+      "src": "puruṣa.vyasana.hetuḥ",
+      "words": [
+       {
+        "w": "puruṣa-vyasana-hetuḥ",
+        "gloss": "cause of a man's vices",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विद्या द्वारा मिलने वाले विनय का अभाव मनुष्य के व्यसनों का कारण है।",
+  "english": "Lack of training in the sciences is the cause of a man's vices (vyasana).",
+  "text_flags": [],
+  "notes": "avidyāvinayaḥ read as a-(vidyā-vinaya), 'absence of the discipline that comes from learning'; the e-text dot (avidyā.vinayaḥ) could also suggest avidyā + (a)vinaya, 'ignorance and want of discipline'. vyasana here = the king's vices/addictions (anger, desire), the 'calamities' of Book 8 applied to the person. Review: avidyā + avinaya would need the printed form to hide an elided a- (avidyā-'vinayaḥ); the e-text shows none, so the nañ reading a-(vidyā-vinaya) stands. vyasana = 'vice' here as the king's personal vyasana (see GLOSSARY).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "08.03.1"
+  ],
+  "lines_deva": [
+   "अविद्या.विनयः पुरुष.व्यसन.हेतुः"
+  ],
+  "lines_iast": [
+   "avidyā.vinayaḥ puruṣa.vyasana.hetuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "avinīto",
+      "words": [
+       {
+        "w": "avinītaḥ",
+        "gloss": "untrained man",
+        "gram": "m. nom. sg., ppp. a-vi-√nī"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyasana.doṣān",
+      "words": [
+       {
+        "w": "vyasana-doṣān",
+        "gloss": "evils of the vices",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paśyati",
+      "words": [
+       {
+        "w": "paśyati",
+        "gloss": "sees",
+        "gram": "3 sg. pres. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि अविनीत व्यक्ति व्यसनों के दोषों को नहीं देखता।",
+  "english": "For an untrained man does not see the evils of the vices.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.2"
+  ],
+  "lines_deva": [
+   "अविनीतो हि व्यसन.दोषान् न पश्यति"
+  ],
+  "lines_iast": [
+   "avinīto hi vyasana.doṣān na paśyati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tān",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "upadekṣyāmaḥ",
+      "words": [
+       {
+        "w": "upadekṣyāmaḥ",
+        "gloss": "we shall set forth",
+        "gram": "1 pl. fut. upa-√diś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन्हें हम बताएँगे।",
+  "english": "We shall set them forth.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.3"
+  ],
+  "lines_deva": [
+   "तान् उपदेक्ष्यामः"
+  ],
+  "lines_iast": [
+   "tān upadekṣyāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kopajas",
+      "words": [
+       {
+        "w": "kopa-jaḥ",
+        "gloss": "born of anger",
+        "gram": "m. nom. sg., upapada-tatpuruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tri.vargaḥ,",
+      "words": [
+       {
+        "w": "tri-vargaḥ",
+        "gloss": "set of three",
+        "gram": "m. nom. sg., dvigu"
+       }
+      ]
+     },
+     {
+      "src": "kāmajaś",
+      "words": [
+       {
+        "w": "kāma-jaḥ",
+        "gloss": "born of desire",
+        "gram": "m. nom. sg., upapada-tatpuruṣa"
+       }
+      ]
+     },
+     {
+      "src": "catur.vargaḥ",
+      "words": [
+       {
+        "w": "catur-vargaḥ",
+        "gloss": "set of four",
+        "gram": "m. nom. sg., dvigu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्रोध से उत्पन्न वर्ग तीन का है, काम से उत्पन्न वर्ग चार का है।",
+  "english": "The set born of anger is threefold; the set born of desire is fourfold.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.4"
+  ],
+  "lines_deva": [
+   "कोपजस् त्रि.वर्गः, कामजश् चतुर्.वर्गः"
+  ],
+  "lines_iast": [
+   "kopajas tri.vargaḥ, kāmajaś catur.vargaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "of the two",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "kopo",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "anger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garīyān",
+      "words": [
+       {
+        "w": "garīyān",
+        "gloss": "more serious",
+        "gram": "m. nom. sg., compar. of guru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन दोनों में क्रोध अधिक गम्भीर है।",
+  "english": "Of the two, anger is the more serious.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.5"
+  ],
+  "lines_deva": [
+   "तयोः कोपो गरीयान्"
+  ],
+  "lines_iast": [
+   "tayoḥ kopo garīyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvatra",
+      "words": [
+       {
+        "w": "sarvatra",
+        "gloss": "everywhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopaś",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "anger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "operates, moves",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि क्रोध सर्वत्र व्याप्त रहता है।",
+  "english": "For anger operates everywhere.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.6"
+  ],
+  "lines_deva": [
+   "सर्वत्र हि कोपश् चरति"
+  ],
+  "lines_iast": [
+   "sarvatra hi kopaś carati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāyaśaś",
+      "words": [
+       {
+        "w": "prāyaśaḥ",
+        "gloss": "mostly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopa.vaśā",
+      "words": [
+       {
+        "w": "kopa-vaśāḥ",
+        "gloss": "under the sway of anger",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rājānaḥ",
+      "words": [
+       {
+        "w": "rājānaḥ",
+        "gloss": "kings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛti.kopair",
+      "words": [
+       {
+        "w": "prakṛti-kopaiḥ",
+        "gloss": "by uprisings of the constituents",
+        "gram": "m. inst. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hatāḥ",
+      "words": [
+       {
+        "w": "hatāḥ",
+        "gloss": "killed",
+        "gram": "m. nom. pl., ppp. √han"
+       }
+      ]
+     },
+     {
+      "src": "śrūyante,",
+      "words": [
+       {
+        "w": "śrūyante",
+        "gloss": "are heard of",
+        "gram": "3 pl. pres. pass. √śru"
+       }
+      ]
+     },
+     {
+      "src": "kāma.vaśāḥ",
+      "words": [
+       {
+        "w": "kāma-vaśāḥ",
+        "gloss": "under the sway of desire",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.nimittam",
+      "words": [
+       {
+        "w": "kṣaya-nimittam",
+        "gloss": "on account of decline",
+        "gram": "n. acc. sg. (adv.), tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ari.vyādhibhir",
+      "words": [
+       {
+        "w": "ari-vyādhibhiḥ",
+        "gloss": "by enemies and diseases",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और प्रायः यह सुना जाता है कि क्रोध के वश में रहने वाले राजा प्रकृतियों के विद्रोह से मारे गए, और काम के वश में रहने वाले राजा क्षय के कारण शत्रुओं और रोगों से मारे गए।",
+  "english": "And it is mostly heard that kings under the sway of anger were killed by uprisings of the constituents (prakṛti), and those under the sway of desire, on account of their decline, by enemies and diseases.",
+  "text_flags": [],
+  "notes": "kṣaya-nimittam taken adverbially, 'because of (their) wasting away'; it could also be read as 'as a cause of decline'. 'hatāḥ' is supplied again for kāma-vaśāḥ from the first half.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "08.03.7"
+  ],
+  "lines_deva": [
+   "प्रायशश् च कोप.वशा राजानः प्रकृति.कोपैर् हताः श्रूयन्ते, काम.वशाः क्षय.निमित्तम् अरि.व्याधिभिर् इति"
+  ],
+  "lines_iast": [
+   "prāyaśaś ca kopa.vaśā rājānaḥ prakṛti.kopair hatāḥ śrūyante, kāma.vaśāḥ kṣaya.nimittam ari.vyādhibhir iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhāradvājaḥ",
+      "words": [
+       {
+        "w": "bhāradvājaḥ",
+        "gloss": "name of a teacher",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा भारद्वाज कहते हैं।",
+  "english": "\"No,\" says Bharadvaja.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.8"
+  ],
+  "lines_deva": [
+   "न-इति भारद्वाजः"
+  ],
+  "lines_iast": [
+   "na-iti bhāradvājaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"sat.puruṣa.ācāraḥ",
+      "words": [
+       {
+        "w": "sat-puruṣa-ācāraḥ",
+        "gloss": "conduct of good men",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kopo",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "anger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaira.yātanam",
+      "words": [
+       {
+        "w": "vaira-yātanam",
+        "gloss": "requital of enmity",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "avajñā.vadho",
+      "words": [
+       {
+        "w": "avajñā-vadhaḥ",
+        "gloss": "destruction of contempt",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhīta.manuṣyatā",
+      "words": [
+       {
+        "w": "bhīta-manuṣyatā",
+        "gloss": "men being kept in fear",
+        "gram": "f. nom. sg., abstract (-tā) of karmadhāraya bhīta-manuṣya"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“क्रोध सत्पुरुषों का आचार है, वैर का प्रतीकार है, अवज्ञा का नाश है, और मनुष्यों का भयभीत रहना है।",
+  "english": "\"Anger is the conduct of good men; it is the requital of enmity, the destruction of contempt, and a state in which men are afraid.",
+  "text_flags": [],
+  "notes": "Bharadvaja's view begins (opening quote). avajñā-vadhaḥ read as 'destruction of contempt' (anger stops people despising the king; the counterpart of paribhava in 8.3.15); the alternative 'putting to death those who show contempt' is less direct. bhīta-manuṣyatā: literally 'the state of men being afraid'. The four nominatives are predicates of kopaḥ.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "08.03.9"
+  ],
+  "lines_deva": [
+   "\"सत्.पुरुष.आचारः कोपो वैर.यातनम् अवज्ञा.वधो भीत.मनुष्यता च"
+  ],
+  "lines_iast": [
+   "\"sat.puruṣa.ācāraḥ kopo vaira.yātanam avajñā.vadho bhīta.manuṣyatā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nityaś",
+      "words": [
+       {
+        "w": "nityaḥ",
+        "gloss": "constant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopena",
+      "words": [
+       {
+        "w": "kopena",
+        "gloss": "with anger",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sambandhaḥ",
+      "words": [
+       {
+        "w": "sambandhaḥ",
+        "gloss": "association",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāpa.pratiṣedha.arthaḥ",
+      "words": [
+       {
+        "w": "pāpa-pratiṣedha-arthaḥ",
+        "gloss": "for the purpose of preventing evil",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और क्रोध के साथ निरन्तर सम्बन्ध पाप को रोकने के लिए होता है।",
+  "english": "And constant association with anger serves the purpose of preventing evil.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.10"
+  ],
+  "lines_deva": [
+   "नित्यश् च कोपेन सम्बन्धः पाप.प्रतिषेध.अर्थः"
+  ],
+  "lines_iast": [
+   "nityaś ca kopena sambandhaḥ pāpa.pratiṣedha.arthaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāmaḥ",
+      "words": [
+       {
+        "w": "kāmaḥ",
+        "gloss": "desire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddhi.lābhaḥ",
+      "words": [
+       {
+        "w": "siddhi-lābhaḥ",
+        "gloss": "winning of success",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sāntvaṃ",
+      "words": [
+       {
+        "w": "sāntvam",
+        "gloss": "conciliation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tyāga.śīlatā",
+      "words": [
+       {
+        "w": "tyāga-śīlatā",
+        "gloss": "disposition to generosity",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sampriya.bhāvaś",
+      "words": [
+       {
+        "w": "sampriya-bhāvaḥ",
+        "gloss": "state of being well-loved",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काम सिद्धि की प्राप्ति, सान्त्व, त्यागशीलता और प्रियभाव है।",
+  "english": "Desire is the winning of success, conciliation, a disposition to generosity, and being well-loved.",
+  "text_flags": [],
+  "notes": "sampriya-bhāva could also mean 'mutual affection'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "08.03.11"
+  ],
+  "lines_deva": [
+   "कामः सिद्धि.लाभः सान्त्वं त्याग.शीलता सम्प्रिय.भावश् च"
+  ],
+  "lines_iast": [
+   "kāmaḥ siddhi.lābhaḥ sāntvaṃ tyāga.śīlatā sampriya.bhāvaś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nityaś",
+      "words": [
+       {
+        "w": "nityaḥ",
+        "gloss": "constant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāmena",
+      "words": [
+       {
+        "w": "kāmena",
+        "gloss": "with desire",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sambandhaḥ",
+      "words": [
+       {
+        "w": "sambandhaḥ",
+        "gloss": "association",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.karmaṇaḥ",
+      "words": [
+       {
+        "w": "kṛta-karmaṇaḥ",
+        "gloss": "of action done",
+        "gram": "n. gen. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "phala.upabhoga.arthaḥ\"",
+      "words": [
+       {
+        "w": "phala-upabhoga-arthaḥ",
+        "gloss": "for the enjoyment of the fruit",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और काम के साथ निरन्तर सम्बन्ध किए हुए कर्म के फल के उपभोग के लिए होता है।”",
+  "english": "And constant association with desire serves the enjoyment of the fruit of action done.\"",
+  "text_flags": [],
+  "notes": "End of Bharadvaja's view (closing quote before iti).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.12"
+  ],
+  "lines_deva": [
+   "नित्यश् च कामेन सम्बन्धः कृत.कर्मणः फल.उपभोग.अर्थः\" इति"
+  ],
+  "lines_iast": [
+   "nityaś ca kāmena sambandhaḥ kṛta.karmaṇaḥ phala.upabhoga.arthaḥ\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "name of the author",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "\"No,\" says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.13"
+  ],
+  "lines_deva": [
+   "न-इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "na-iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dveṣyatā",
+      "words": [
+       {
+        "w": "dveṣyatā",
+        "gloss": "hatefulness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatru.vedanaṃ",
+      "words": [
+       {
+        "w": "śatru-vedanam",
+        "gloss": "acquisition of enemies",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "duḥkha.āsaṅgaś",
+      "words": [
+       {
+        "w": "duḥkha-āsaṅgaḥ",
+        "gloss": "attachment to sorrow",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopaḥ",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "anger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्रोध का अर्थ है द्वेष का पात्र बनना, शत्रु पैदा करना और दुःख से जुड़े रहना।",
+  "english": "Anger means becoming hateful, acquiring enemies, and attachment to sorrow.",
+  "text_flags": [],
+  "notes": "vedana from √vid 'to find, acquire'; 'śatru-vedana' = the getting of enemies (so also in 18-19).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "08.03.14"
+  ],
+  "lines_deva": [
+   "द्वेष्यता शत्रु.वेदनं दुःख.आसङ्गश् च कोपः"
+  ],
+  "lines_iast": [
+   "dveṣyatā śatru.vedanaṃ duḥkha.āsaṅgaś ca kopaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paribhavo",
+      "words": [
+       {
+        "w": "paribhavaḥ",
+        "gloss": "contempt (being despised)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravya.nāśaḥ",
+      "words": [
+       {
+        "w": "dravya-nāśaḥ",
+        "gloss": "loss of wealth",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pāṭaccara.dyūtakāra.lubdhaka.gāyana.vādakaiś",
+      "words": [
+       {
+        "w": "pāṭaccara-dyūtakāra-lubdhaka-gāyana-vādakaiḥ",
+        "gloss": "with thieves, gamblers, hunters, singers, musicians",
+        "gram": "m. inst. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca-anarthyaiḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anarthyaiḥ",
+        "gloss": "with worthless persons",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "samyogaḥ",
+      "words": [
+       {
+        "w": "saṃyogaḥ",
+        "gloss": "association",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāmaḥ",
+      "words": [
+       {
+        "w": "kāmaḥ",
+        "gloss": "desire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काम का अर्थ है तिरस्कार, धन का नाश, और चोरों, जुआरियों, शिकारियों, गायकों और वादकों जैसे अनर्थकारी लोगों के साथ संगति।",
+  "english": "Desire means contempt, loss of wealth, and association with worthless persons: thieves, gamblers, hunters, singers and musicians.",
+  "text_flags": [],
+  "notes": "The e-text writes 'samyogaḥ' (m before y) for saṃyogaḥ; this is the edition's spelling, not flagged as a typo (same in 20-21). pāṭaccara = thief/robber.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.15"
+  ],
+  "lines_deva": [
+   "परिभवो द्रव्य.नाशः पाटच्चर.द्यूतकार.लुब्धक.गायन.वादकैश् च-अनर्थ्यैः सम्योगः कामः"
+  ],
+  "lines_iast": [
+   "paribhavo dravya.nāśaḥ pāṭaccara.dyūtakāra.lubdhaka.gāyana.vādakaiś ca-anarthyaiḥ samyogaḥ kāmaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tayoḥ",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "of the two",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "paribhavād",
+      "words": [
+       {
+        "w": "paribhavāt",
+        "gloss": "than contempt",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "dveṣyatā",
+      "words": [
+       {
+        "w": "dveṣyatā",
+        "gloss": "hatefulness",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garīyasī",
+      "words": [
+       {
+        "w": "garīyasī",
+        "gloss": "more serious",
+        "gram": "f. nom. sg., compar. of guru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन दोनों में, तिरस्कार की अपेक्षा द्वेष का पात्र बनना अधिक गम्भीर है।",
+  "english": "Of the two, becoming hateful is more serious than contempt.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.16"
+  ],
+  "lines_deva": [
+   "तयोः परिभवाद् द्वेष्यता गरीयसी"
+  ],
+  "lines_iast": [
+   "tayoḥ paribhavād dveṣyatā garīyasī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paribhūtaḥ",
+      "words": [
+       {
+        "w": "paribhūtaḥ",
+        "gloss": "one held in contempt",
+        "gram": "m. nom. sg., ppp. pari-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "svaiḥ",
+      "words": [
+       {
+        "w": "svaiḥ",
+        "gloss": "by his own people",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "paraiś",
+      "words": [
+       {
+        "w": "paraiḥ",
+        "gloss": "by others",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-avagṛhyate,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avagṛhyate",
+        "gloss": "is held in check",
+        "gram": "3 sg. pres. pass. ava-√grah"
+       }
+      ]
+     },
+     {
+      "src": "dveṣyaḥ",
+      "words": [
+       {
+        "w": "dveṣyaḥ",
+        "gloss": "one who is hated",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samucchidyata",
+      "words": [
+       {
+        "w": "samucchidyate",
+        "gloss": "is destroyed",
+        "gram": "3 sg. pres. pass. sam-ud-√chid"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तिरस्कृत व्यक्ति अपनों और परायों द्वारा दबाया जाता है; द्वेष का पात्र पूरी तरह नष्ट कर दिया जाता है।",
+  "english": "One who is held in contempt is held in check by his own people and by others; one who is hated is destroyed.",
+  "text_flags": [],
+  "notes": "avagṛhyate: 'is restrained/obstructed'; alternatively 'is seized'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.17"
+  ],
+  "lines_deva": [
+   "परिभूतः स्वैः परैश् च-अवगृह्यते, द्वेष्यः समुच्छिद्यत इति"
+  ],
+  "lines_iast": [
+   "paribhūtaḥ svaiḥ paraiś ca-avagṛhyate, dveṣyaḥ samucchidyata iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dravya.nāśāt-śatru.vedanaṃ",
+      "words": [
+       {
+        "w": "dravya-nāśāt",
+        "gloss": "than loss of wealth",
+        "gram": "m. abl. sg., tat-puruṣa"
+       },
+       {
+        "w": "śatru-vedanam",
+        "gloss": "acquisition of enemies",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "garīyaḥ",
+      "words": [
+       {
+        "w": "garīyaḥ",
+        "gloss": "more serious",
+        "gram": "n. nom. sg., compar. of guru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन के नाश की अपेक्षा शत्रु पैदा करना अधिक गम्भीर है।",
+  "english": "Acquiring enemies is more serious than loss of wealth.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.18"
+  ],
+  "lines_deva": [
+   "द्रव्य.नाशात्-शत्रु.वेदनं गरीयः"
+  ],
+  "lines_iast": [
+   "dravya.nāśāt-śatru.vedanaṃ garīyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dravya.nāśaḥ",
+      "words": [
+       {
+        "w": "dravya-nāśaḥ",
+        "gloss": "loss of wealth",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kośa.ābādhakaḥ,",
+      "words": [
+       {
+        "w": "kośa-ābādhakaḥ",
+        "gloss": "afflicting the treasury",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śatru.vedanaṃ",
+      "words": [
+       {
+        "w": "śatru-vedanam",
+        "gloss": "acquisition of enemies",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prāṇa.ābādhakam",
+      "words": [
+       {
+        "w": "prāṇa-ābādhakam",
+        "gloss": "afflicting life",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन का नाश कोश को हानि पहुँचाता है, शत्रु पैदा करना प्राणों को हानि पहुँचाता है।",
+  "english": "Loss of wealth harms the treasury; acquiring enemies harms life.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.19"
+  ],
+  "lines_deva": [
+   "द्रव्य.नाशः कोश.आबाधकः, शत्रु.वेदनं प्राण.आबाधकम् इति"
+  ],
+  "lines_iast": [
+   "dravya.nāśaḥ kośa.ābādhakaḥ, śatru.vedanaṃ prāṇa.ābādhakam iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anarthya.samyogād",
+      "words": [
+       {
+        "w": "anarthya-saṃyogāt",
+        "gloss": "than association with the worthless",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "duḥkha.samyogo",
+      "words": [
+       {
+        "w": "duḥkha-saṃyogaḥ",
+        "gloss": "association with sorrow",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "garīyān",
+      "words": [
+       {
+        "w": "garīyān",
+        "gloss": "more serious",
+        "gram": "m. nom. sg., compar. of guru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनर्थकारी लोगों की संगति की अपेक्षा दुःख की संगति अधिक गम्भीर है।",
+  "english": "Association with sorrow is more serious than association with the worthless.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.20"
+  ],
+  "lines_deva": [
+   "अनर्थ्य.सम्योगाद् दुःख.सम्योगो गरीयान्"
+  ],
+  "lines_iast": [
+   "anarthya.samyogād duḥkha.samyogo garīyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anarthya.samyogo",
+      "words": [
+       {
+        "w": "anarthya-saṃyogaḥ",
+        "gloss": "association with the worthless",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "muhūrta.pratīkāro,",
+      "words": [
+       {
+        "w": "muhūrta-pratīkāraḥ",
+        "gloss": "remediable in a moment",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dīrgha.kleśa.karo",
+      "words": [
+       {
+        "w": "dīrgha-kleśa-karaḥ",
+        "gloss": "causing prolonged distress",
+        "gram": "m. nom. sg., upapada-tatpuruṣa"
+       }
+      ]
+     },
+     {
+      "src": "duḥkhānām",
+      "words": [
+       {
+        "w": "duḥkhānām",
+        "gloss": "to sorrows",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "āsaṅga",
+      "words": [
+       {
+        "w": "āsaṅgaḥ",
+        "gloss": "attachment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनर्थकारी लोगों की संगति का प्रतीकार क्षण भर में हो सकता है, किन्तु दुःखों से जुड़े रहना दीर्घकाल तक क्लेश देने वाला है।",
+  "english": "Association with the worthless can be remedied in a moment, but attachment to sorrows causes prolonged distress.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.21"
+  ],
+  "lines_deva": [
+   "अनर्थ्य.सम्योगो मुहूर्त.प्रतीकारो, दीर्घ.क्लेश.करो दुःखानाम् आसङ्ग इति"
+  ],
+  "lines_iast": [
+   "anarthya.samyogo muhūrta.pratīkāro, dīrgha.kleśa.karo duḥkhānām āsaṅga iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāt",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopo",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "anger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garīyān",
+      "words": [
+       {
+        "w": "garīyān",
+        "gloss": "more serious",
+        "gram": "m. nom. sg., compar. of guru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए क्रोध अधिक गम्भीर है।",
+  "english": "Therefore anger is the more serious.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.22"
+  ],
+  "lines_deva": [
+   "तस्मात् कोपो गरीयान्"
+  ],
+  "lines_iast": [
+   "tasmāt kopo garīyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāk.pāruṣyam",
+      "words": [
+       {
+        "w": "vāk-pāruṣyam",
+        "gloss": "harshness of speech",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "artha.dūṣaṇaṃ",
+      "words": [
+       {
+        "w": "artha-dūṣaṇam",
+        "gloss": "injury to property",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.pāruṣyam",
+      "words": [
+       {
+        "w": "daṇḍa-pāruṣyam",
+        "gloss": "harshness of punishment",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वाणी की कठोरता, धन की क्षति और दण्ड की कठोरता — ये हैं।",
+  "english": "Harshness of speech, injury to property, and harshness of punishment: these (are the three born of anger).",
+  "text_flags": [],
+  "notes": "The line is a bare list closed by iti; the subject (the threefold set of 8.3.4) is supplied in brackets in English only. daṇḍa here = punishment, not the army of the glossary.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.23"
+  ],
+  "lines_deva": [
+   "वाक्.पारुष्यम् अर्थ.दूषणं दण्ड.पारुष्यम् इति"
+  ],
+  "lines_iast": [
+   "vāk.pāruṣyam artha.dūṣaṇaṃ daṇḍa.pāruṣyam iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"vāk.pāruṣya.artha.dūṣaṇayor",
+      "words": [
+       {
+        "w": "vāk-pāruṣya-artha-dūṣaṇayoḥ",
+        "gloss": "of harshness of speech and injury to property",
+        "gram": "n. gen. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vāk.pāruṣyaṃ",
+      "words": [
+       {
+        "w": "vāk-pāruṣyam",
+        "gloss": "harshness of speech",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "garīyaḥ\"",
+      "words": [
+       {
+        "w": "garīyaḥ",
+        "gloss": "more serious",
+        "gram": "n. nom. sg., compar. of guru"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśāla.akṣaḥ",
+      "words": [
+       {
+        "w": "viśāla-akṣaḥ",
+        "gloss": "name of a teacher",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“वाणी की कठोरता और धन की क्षति में वाणी की कठोरता अधिक गम्भीर है,” ऐसा विशालाक्ष कहते हैं।",
+  "english": "\"Of harshness of speech and injury to property, harshness of speech is the more serious,\" says Vishalaksha.",
+  "text_flags": [],
+  "notes": "Name viśālākṣa written 'Vishalaksha' in English (plain letters, with sh for ś/kṣ for readability) (fixed spelling, see GLOSSARY).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.24"
+  ],
+  "lines_deva": [
+   "\"वाक्.पारुष्य.अर्थ.दूषणयोर् वाक्.पारुष्यं गरीयः\" इति विशाल.अक्षः"
+  ],
+  "lines_iast": [
+   "\"vāk.pāruṣya.artha.dūṣaṇayor vāk.pāruṣyaṃ garīyaḥ\" iti viśāla.akṣaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"paruṣa.mukto",
+      "words": [
+       {
+        "w": "paruṣa-muktaḥ",
+        "gloss": "struck by harsh words",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tejasvī",
+      "words": [
+       {
+        "w": "tejasvī",
+        "gloss": "a spirited man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tejasā",
+      "words": [
+       {
+        "w": "tejasā",
+        "gloss": "with his spirit",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyārohati",
+      "words": [
+       {
+        "w": "pratyārohati",
+        "gloss": "rises up against",
+        "gram": "3 sg. pres. prati-ā-√ruh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“क्योंकि जिस पर कठोर वचन छोड़े गए हों, वह तेजस्वी व्यक्ति अपने तेज से पलटकर उठ खड़ा होता है।",
+  "english": "\"For a spirited man at whom harsh words have been hurled rises up in return with his spirit.",
+  "text_flags": [],
+  "notes": "paruṣa-mukta: literally 'at whom harshness has been let loose'. Opening quote: Vishalaksha's reasoning continues through 26.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "08.03.25"
+  ],
+  "lines_deva": [
+   "\"परुष.मुक्तो हि तेजस्वी तेजसा प्रत्यारोहति"
+  ],
+  "lines_iast": [
+   "\"paruṣa.mukto hi tejasvī tejasā pratyārohati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durukta.śalyaṃ",
+      "words": [
+       {
+        "w": "durukta-śalyam",
+        "gloss": "dart of an ill-spoken word",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hṛdi",
+      "words": [
+       {
+        "w": "hṛdi",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nikhātaṃ",
+      "words": [
+       {
+        "w": "nikhātam",
+        "gloss": "lodged, buried",
+        "gram": "n. nom. sg., ppp. ni-√khan"
+       }
+      ]
+     },
+     {
+      "src": "tejaḥ.sandīpanam",
+      "words": [
+       {
+        "w": "tejaḥ-sandīpanam",
+        "gloss": "inflaming the spirit",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "indriya.upatāpi",
+      "words": [
+       {
+        "w": "indriya-upatāpi",
+        "gloss": "tormenting the senses",
+        "gram": "n. nom. sg., upapada-tatpuruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca\"",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्वचन का शल्य हृदय में गड़ा हुआ तेज को प्रज्वलित करता है और इन्द्रियों को सन्तप्त करता है।”",
+  "english": "The dart of an ill-spoken word, lodged in the heart, inflames the spirit and torments the senses.\"",
+  "text_flags": [],
+  "notes": "End of Vishalaksha's view.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.26"
+  ],
+  "lines_deva": [
+   "दुरुक्त.शल्यं हृदि निखातं तेजः.सन्दीपनम् इन्द्रिय.उपतापि च\" इति"
+  ],
+  "lines_iast": [
+   "durukta.śalyaṃ hṛdi nikhātaṃ tejaḥ.sandīpanam indriya.upatāpi ca\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "name of the author",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "\"No,\" says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.27"
+  ],
+  "lines_deva": [
+   "न-इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "na-iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "artha.pūjā",
+      "words": [
+       {
+        "w": "artha-pūjā",
+        "gloss": "honouring with wealth",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vāk.śalyam",
+      "words": [
+       {
+        "w": "vāk-śalyam",
+        "gloss": "dart of speech",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "apahanti,",
+      "words": [
+       {
+        "w": "apahanti",
+        "gloss": "removes",
+        "gram": "3 sg. pres. apa-√han"
+       }
+      ]
+     },
+     {
+      "src": "vṛtti.vilopas",
+      "words": [
+       {
+        "w": "vṛtti-vilopaḥ",
+        "gloss": "loss of livelihood",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tv",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "artha.dūṣaṇam",
+      "words": [
+       {
+        "w": "artha-dūṣaṇam",
+        "gloss": "injury to property",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन से किया गया सम्मान वाणी के शल्य को दूर कर देता है, किन्तु धन की क्षति तो जीविका का लोप है।",
+  "english": "Honouring with wealth removes the dart of speech, but injury to property means loss of livelihood.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.28"
+  ],
+  "lines_deva": [
+   "अर्थ.पूजा वाक्.शल्यम् अपहन्ति, वृत्ति.विलोपस् त्व् अर्थ.दूषणम्"
+  ],
+  "lines_iast": [
+   "artha.pūjā vāk.śalyam apahanti, vṛtti.vilopas tv artha.dūṣaṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adānam",
+      "words": [
+       {
+        "w": "adānam",
+        "gloss": "not giving",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādānaṃ",
+      "words": [
+       {
+        "w": "ādānam",
+        "gloss": "taking away",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vināśaḥ",
+      "words": [
+       {
+        "w": "vināśaḥ",
+        "gloss": "destruction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parityāgo",
+      "words": [
+       {
+        "w": "parityāgaḥ",
+        "gloss": "abandonment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-arthasya-ity",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "arthasya",
+        "gloss": "of wealth",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "artha.dūṣaṇam",
+      "words": [
+       {
+        "w": "artha-dūṣaṇam",
+        "gloss": "injury to property",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन का न देना, छीन लेना, नष्ट करना या त्याग देना — यह धन की क्षति है।",
+  "english": "Not giving, taking away, destroying, or giving up wealth: this is injury to property.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.29"
+  ],
+  "lines_deva": [
+   "अदानम् आदानं विनाशः परित्यागो वा-अर्थस्य-इत्य् अर्थ.दूषणम्"
+  ],
+  "lines_iast": [
+   "adānam ādānaṃ vināśaḥ parityāgo vā-arthasya-ity artha.dūṣaṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"artha.dūṣaṇa.daṇḍa.pāruṣyayor",
+      "words": [
+       {
+        "w": "artha-dūṣaṇa-daṇḍa-pāruṣyayoḥ",
+        "gloss": "of injury to property and harshness of punishment",
+        "gram": "n. gen. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "artha.dūṣaṇaṃ",
+      "words": [
+       {
+        "w": "artha-dūṣaṇam",
+        "gloss": "injury to property",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "garīyaḥ\"",
+      "words": [
+       {
+        "w": "garīyaḥ",
+        "gloss": "more serious",
+        "gram": "n. nom. sg., compar. of guru"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pārāśarāḥ",
+      "words": [
+       {
+        "w": "pārāśarāḥ",
+        "gloss": "name (the Parasharas)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“धन की क्षति और दण्ड की कठोरता में धन की क्षति अधिक गम्भीर है,” ऐसा पाराशर कहते हैं।",
+  "english": "\"Of injury to property and harshness of punishment, injury to property is the more serious,\" say the Parasharas.",
+  "text_flags": [],
+  "notes": "pārāśarāḥ (plural) = the school of Parashara.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.30"
+  ],
+  "lines_deva": [
+   "\"अर्थ.दूषण.दण्ड.पारुष्ययोर् अर्थ.दूषणं गरीयः\" इति पाराशराः"
+  ],
+  "lines_iast": [
+   "\"artha.dūṣaṇa.daṇḍa.pāruṣyayor artha.dūṣaṇaṃ garīyaḥ\" iti pārāśarāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"artha.mūlau",
+      "words": [
+       {
+        "w": "artha-mūlau",
+        "gloss": "having wealth as root",
+        "gram": "m. nom. du., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dharma.kāmau",
+      "words": [
+       {
+        "w": "dharma-kāmau",
+        "gloss": "dharma and desire",
+        "gram": "m. nom. du., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“धर्म और काम का मूल अर्थ है।",
+  "english": "\"Dharma and desire have wealth (artha) as their root.",
+  "text_flags": [],
+  "notes": "Opening of the Parasharas' reasoning (quote continues to 33). kāma here is the trivarga member (artha, dharma, kāma); 'desire' kept for consistency with the chapter, where kāma is the king's vice.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.31"
+  ],
+  "lines_deva": [
+   "\"अर्थ.मूलौ धर्म.कामौ"
+  ],
+  "lines_iast": [
+   "\"artha.mūlau dharma.kāmau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "artha.pratibaddhaś",
+      "words": [
+       {
+        "w": "artha-pratibaddhaḥ",
+        "gloss": "bound up with wealth",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "loko",
+      "words": [
+       {
+        "w": "lokaḥ",
+        "gloss": "the world",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vartate",
+      "words": [
+       {
+        "w": "vartate",
+        "gloss": "exists, goes on",
+        "gram": "3 sg. pres. ātm. √vṛt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और संसार अर्थ से बँधा हुआ चलता है।",
+  "english": "And the world goes on bound up with wealth.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.32"
+  ],
+  "lines_deva": [
+   "अर्थ.प्रतिबद्धश् च लोको वर्तते"
+  ],
+  "lines_iast": [
+   "artha.pratibaddhaś ca loko vartate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya.upaghāto",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of it",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upaghātaḥ",
+        "gloss": "injury",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garīyān\"",
+      "words": [
+       {
+        "w": "garīyān",
+        "gloss": "more serious",
+        "gram": "m. nom. sg., compar. of guru"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसकी हानि अधिक गम्भीर है।”",
+  "english": "Injury to it is the more serious.\"",
+  "text_flags": [],
+  "notes": "The e-text dot in 'tasya.upaghāto' joins two separate words (tasya upaghātaḥ), not compound members. End of the Parasharas' view; Kautilya's reply follows in the next chunk.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "08.03.33"
+  ],
+  "lines_deva": [
+   "तस्य.उपघातो गरीयान्\" इति"
+  ],
+  "lines_iast": [
+   "tasya.upaghāto garīyān\" iti"
+  ],
+  "uncertain": []
+ }
+]

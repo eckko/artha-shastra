@@ -1,88 +1,508 @@
 {
  "units": [
-  {"n": "33", "verdict": "fix", "issues": [
-   {"field": "english", "where": "is the graver", "problem": "garīyaḥ is rendered 'more serious' in chunk 1 of this chapter and in p08/ch03; and the supplied predicate should be bracketed as chunk 1 does ('(is more serious)'), since the Sanskrit line has no predicate.", "fix": "that of the treasury (is more serious),", "severity": "minor",
-    "patch": {"n": "33", "op": "replace", "field": "english", "old": "that of the treasury is the graver,”", "new": "that of the treasury (is more serious),”"}}
-  ]},
-  {"n": "34", "verdict": "ok", "issues": []},
-  {"n": "35", "verdict": "ok", "issues": []},
-  {"n": "36", "verdict": "fix", "issues": [
-   {"field": "gram", "where": "durgam", "problem": "durga is masculine in this chapter (35 durgaḥ, labelled m. nom. sg.); labelling durgam here neuter is inconsistent.", "fix": "m. acc. sg.", "severity": "minor",
-    "patch": {"n": "36", "op": "word", "match_w": "durgam", "field": "gram", "value": "m. acc. sg."}}
-  ]},
-  {"n": "37", "verdict": "ok", "issues": []},
-  {"n": "38", "verdict": "ok", "issues": []},
-  {"n": "39", "verdict": "ok", "issues": []},
-  {"n": "40", "verdict": "fix", "issues": [
-   {"field": "english", "where": "— so ends the view.", "problem": "Unsupported addition: the closing iti is not a phrase 'so ends the view'; chunk 1 renders a closing iti by the quotation mark alone, and Kautilya's reply carries no quotation marks in the e-text.", "fix": "For it is seen that those who possess forts are not exterminated.", "severity": "error",
-    "patch": {"n": "40", "op": "replace", "field": "english", "old": " — so ends the view.", "new": "."}},
-   {"field": "hindi", "where": "— इस प्रकार यह मत है", "problem": "Same addition in Hindi.", "fix": "क्योंकि दुर्गवालों का उच्छेद न होना देखा जाता है।", "severity": "error",
-    "patch": {"n": "40", "op": "replace", "field": "hindi", "old": " — इस प्रकार यह मत है", "new": ""}},
-   {"field": "notes", "where": "iti", "problem": "Record that iti is left unrendered.", "fix": "append", "severity": "minor",
-    "patch": {"n": "40", "op": "append_note", "text": "The closing iti is not rendered by a separate phrase (the reply is unquoted in the e-text)."}}
-  ]},
-  {"n": "41", "verdict": "fix", "issues": [
-   {"field": "english", "where": "is the graver", "problem": "Same as 33: fixed rendering 'more serious', supplied predicate in brackets.", "fix": "that of the army (is more serious),", "severity": "minor",
-    "patch": {"n": "41", "op": "replace", "field": "english", "old": "that of the army is the graver,”", "new": "that of the army (is more serious),”"}}
-  ]},
-  {"n": "42", "verdict": "fix", "issues": [
-   {"field": "notes", "where": "sva-daṇḍa-pratigraha", "problem": "pratigraha is also the technical term for the reserve of an army (Book 10); 'keeping a reserve of one's own army' is a live alternative that the note should record. Translation left as drafted; medium confidence is right.", "fix": "append", "severity": "minor",
-    "patch": {"n": "42", "op": "append_note", "text": "pratigraha is also the technical term for the army's reserve force (Book 10), so 'keeping a reserve of one's own army' is another possible reading."}}
-  ]},
-  {"n": "43", "verdict": "ok", "issues": []},
-  {"n": "44", "verdict": "fix", "issues": [
-   {"field": "gram", "where": "piṇḍayitum", "problem": "piṇḍayati is a class-10/denominative stem, not a causative of a primary root.", "fix": "inf. piṇḍ- (cl. 10, piṇḍayati)", "severity": "minor",
-    "patch": {"n": "44", "op": "word", "match_w": "piṇḍayitum", "field": "gram", "value": "inf. piṇḍ- (cl. 10, piṇḍayati)"}}
-  ]},
-  {"n": "45", "verdict": "ok", "issues": []},
-  {"n": "46", "verdict": "ok", "issues": []},
-  {"n": "47", "verdict": "ok", "issues": []},
-  {"n": "48", "verdict": "ok", "issues": []},
-  {"n": "49", "verdict": "ok", "issues": []},
-  {"n": "50", "verdict": "ok", "issues": []},
-  {"n": "51", "verdict": "ok", "issues": []},
-  {"n": "52", "verdict": "fix", "issues": [
-   {"field": "english", "where": "is the graver — so ends the view.", "problem": "garīyaḥ fixed rendering is 'more serious'; '— so ends the view' is an unsupported addition for iti (see 40).", "fix": "Because it sets all things in motion, the calamity of the treasury is the more serious.", "severity": "error",
-    "patch": {"n": "52", "op": "replace", "field": "english", "old": "is the graver — so ends the view.", "new": "is the more serious."}},
-   {"field": "hindi", "where": "— इस प्रकार यह मत है", "problem": "Same addition in Hindi.", "fix": "सब द्रव्यों का प्रयोजक होने के कारण कोश का व्यसन अधिक गम्भीर है।", "severity": "error",
-    "patch": {"n": "52", "op": "replace", "field": "hindi", "old": " — इस प्रकार यह मत है", "new": ""}}
-  ]},
-  {"n": "53", "verdict": "fix", "issues": [
-   {"field": "english", "where": "is the graver", "problem": "Same as 33.", "fix": "that of the ally (is more serious),", "severity": "minor",
-    "patch": {"n": "53", "op": "replace", "field": "english", "old": "that of the ally is the graver,”", "new": "that of the ally (is more serious),”"}}
-  ]},
-  {"n": "54", "verdict": "ok", "issues": []},
-  {"n": "55", "verdict": "ok", "issues": []},
-  {"n": "56", "verdict": "fix", "issues": [
-   {"field": "english", "where": "or even the enemy", "problem": "'even' is not in the Sanskrit (amitro vā).", "fix": "or the enemy comes to be in the condition of an ally", "severity": "minor",
-    "patch": {"n": "56", "op": "replace", "field": "english", "old": "or even the enemy", "new": "or the enemy"}},
-   {"field": "hindi", "where": "शत्रु भी", "problem": "'भी' is not in the Sanskrit.", "fix": "अथवा शत्रु मित्र-भाव में आ जाता है", "severity": "minor",
-    "patch": {"n": "56", "op": "replace", "field": "hindi", "old": "अथवा शत्रु भी", "new": "अथवा शत्रु"}}
-  ]},
-  {"n": "57", "verdict": "fix", "issues": [
-   {"field": "gram", "where": "daṇḍa-mitrayoḥ", "problem": "An itaretara dvandva takes the gender of its last member; mitra is neuter, so the compound is neuter (cf. 33, 53 labelled n.).", "fix": "n. gen. du. (dvandva)", "severity": "minor",
-    "patch": {"n": "57", "op": "word", "match_w": "daṇḍa-mitrayoḥ", "field": "gram", "value": "n. gen. du. (dvandva)"}}
-  ]},
-  {"n": "58", "verdict": "fix", "issues": [
-   {"field": "notes", "where": "anabhyantara", "problem": "The draft reads anabhyantara as an adjective on kopa; it can equally be a third dvandva member ('an enemy, a forest chief or an outsider'), given the Arthashastra's pairing abhyantara-/bāhya-kopa. Translation left as drafted; record the alternative.", "fix": "append", "severity": "minor",
-    "patch": {"n": "58", "op": "append_note", "text": "anabhyantara could also be a third dvandva member: 'in a revolt of the enemy, the forest chief or one not of the interior (an outsider)'."}}
-  ]},
-  {"n": "59", "verdict": "fix", "issues": [
-   {"field": "english", "where": "stands by only in connection with its own advantage", "problem": "'only' and 'its own' are unsupported additions (the note admits 'only' is interpretive); artha-yuktau is simply 'where there is a connection with gain'.", "fix": "When calamities occur simultaneously and when the enemy grows, the ally stands firm where there is a connection with gain.", "severity": "error",
-    "patch": {"n": "59", "op": "set", "field": "english", "value": "When calamities occur simultaneously and when the enemy grows, the ally stands firm where there is a connection with gain."}},
-   {"field": "hindi", "where": "अपने अर्थ के सम्बन्ध के अनुसार ही", "problem": "'अपने' and 'ही' are the same additions.", "fix": "व्यसनों के एक साथ आने पर और शत्रु की वृद्धि होने पर मित्र अर्थ का सम्बन्ध होने पर टिकता है।", "severity": "error",
-    "patch": {"n": "59", "op": "set", "field": "hindi", "value": "व्यसनों के एक साथ आने पर और शत्रु की वृद्धि होने पर मित्र अर्थ का सम्बन्ध होने पर टिकता है।"}},
-   {"field": "gloss", "where": "artha-yuktau", "problem": "'its own' is not in the word.", "fix": "where there is a connection with gain", "severity": "minor",
-    "patch": {"n": "59", "op": "word", "match_w": "artha-yuktau", "field": "gloss", "value": "where there is a connection with gain"}},
-   {"field": "notes", "where": "'only' is interpretive emphasis.", "problem": "Note should say the emphasis is not rendered.", "fix": "artha-yukti 'connection with gain': the sense is that the ally stays while it is in its interest; this emphasis is not rendered in the translation.", "severity": "minor",
-    "patch": {"n": "59", "op": "set", "field": "notes", "value": "artha-yukti 'connection with gain': the sense is that the ally stays while it is in its interest; this emphasis is not rendered in the translation."}}
-  ]},
-  {"n": "60", "verdict": "ok", "issues": []},
-  {"n": "61", "verdict": "ok", "issues": []},
-  {"n": "62", "verdict": "fix", "issues": [
-   {"field": "english", "where": "second half-line", "problem": "The literal rendering is defensible and the low confidence is honest, but the construction of guṇataḥ kṣayāt and of na-avidheyakam (na + avidheyaka 'not unmanageable', i.e. 'manageable', versus na governing syāt) needs a person with Kangle's translation and the commentaries; the e-text's sādguṇya (not ṣāḍguṇya) should also be checked against the printed edition. No patch.", "fix": "human check", "severity": "minor"}
-  ]},
-  {"n": "63", "verdict": "ok", "issues": []}
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is the graver",
+     "problem": "garīyaḥ is rendered 'more serious' in chunk 1 of this chapter and in p08/ch03; and the supplied predicate should be bracketed as chunk 1 does ('(is more serious)'), since the Sanskrit line has no predicate.",
+     "fix": "that of the treasury (is more serious),",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "that of the treasury is the graver,”",
+      "new": "that of the treasury (is more serious),”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "won over by instigation",
+     "problem": "Glossary fixes upajāpa = secret instigation (chunk 1 of this chapter also uses 'secret instigation').",
+     "fix": "The fort can be won over by secret instigation by means of the enemies' treasury.",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "won over by instigation",
+      "new": "won over by secret instigation"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upajāpyaḥ",
+     "problem": "Same glossary rendering.",
+     "fix": "liable to be won over by secret instigation",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "upajāpyaḥ",
+      "field": "gloss",
+      "value": "liable to be won over by secret instigation"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "durgam",
+     "problem": "durga is masculine in this chapter (35 durgaḥ, labelled m. nom. sg.); labelling durgam here neuter is inconsistent.",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "durgam",
+      "field": "gram",
+      "value": "m. acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "— so ends the view.",
+     "problem": "Unsupported addition: the closing iti is not a phrase 'so ends the view'; chunk 1 renders a closing iti by the quotation mark alone, and Kautilya's reply carries no quotation marks in the e-text.",
+     "fix": "For it is seen that those who possess forts are not exterminated.",
+     "severity": "error",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": " — so ends the view.",
+      "new": "."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "— इस प्रकार यह मत है",
+     "problem": "Same addition in Hindi.",
+     "fix": "क्योंकि दुर्गवालों का उच्छेद न होना देखा जाता है।",
+     "severity": "error",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": " — इस प्रकार यह मत है",
+      "new": ""
+     }
+    },
+    {
+     "field": "notes",
+     "where": "iti",
+     "problem": "Record that iti is left unrendered.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "append_note",
+      "text": "The closing iti is not rendered by a separate phrase (the reply is unquoted in the e-text)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is the graver",
+     "problem": "Same as 33: fixed rendering 'more serious', supplied predicate in brackets.",
+     "fix": "that of the army (is more serious),",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "english",
+      "old": "that of the army is the graver,”",
+      "new": "that of the army (is more serious),”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sva-daṇḍa-pratigraha",
+     "problem": "pratigraha is also the technical term for the reserve of an army (Book 10); 'keeping a reserve of one's own army' is a live alternative that the note should record. Translation left as drafted; medium confidence is right.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "append_note",
+      "text": "pratigraha is also the technical term for the army's reserve force (Book 10), so 'keeping a reserve of one's own army' is another possible reading."
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "piṇḍayitum",
+     "problem": "piṇḍayati is a class-10/denominative stem, not a causative of a primary root.",
+     "fix": "inf. piṇḍ- (cl. 10, piṇḍayati)",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "word",
+      "match_w": "piṇḍayitum",
+      "field": "gram",
+      "value": "inf. piṇḍ- (cl. 10, piṇḍayati)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "forest produce",
+     "problem": "Glossary fixes kupya = raw materials (as in 8.1 chunk 1 glossary line, 10.1, 12.1).",
+     "fix": "the army can be held together by means of raw materials, land, ...",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "english",
+      "old": "by means of forest produce",
+      "new": "by means of raw materials"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kupyena",
+     "problem": "Same glossary rendering.",
+     "fix": "with raw materials",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "word",
+      "match_w": "kupyena",
+      "field": "gloss",
+      "value": "with raw materials"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kupya = forest produce / raw materials, kept literal.",
+     "problem": "Align note with the glossary.",
+     "fix": "kupya = raw materials (forest produce), per glossary.",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "notes",
+      "old": "kupya = forest produce / raw materials, kept literal.",
+      "new": "kupya = raw materials (forest produce), per glossary."
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is the graver — so ends the view.",
+     "problem": "garīyaḥ fixed rendering is 'more serious'; '— so ends the view' is an unsupported addition for iti (see 40).",
+     "fix": "Because it sets all things in motion, the calamity of the treasury is the more serious.",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "english",
+      "old": "is the graver — so ends the view.",
+      "new": "is the more serious."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "— इस प्रकार यह मत है",
+     "problem": "Same addition in Hindi.",
+     "fix": "सब द्रव्यों का प्रयोजक होने के कारण कोश का व्यसन अधिक गम्भीर है।",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "hindi",
+      "old": " — इस प्रकार यह मत है",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is the graver",
+     "problem": "Same as 33.",
+     "fix": "that of the ally (is more serious),",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "english",
+      "old": "that of the ally is the graver,”",
+      "new": "that of the ally (is more serious),”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "or even the enemy",
+     "problem": "'even' is not in the Sanskrit (amitro vā).",
+     "fix": "or the enemy comes to be in the condition of an ally",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "replace",
+      "field": "english",
+      "old": "or even the enemy",
+      "new": "or the enemy"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शत्रु भी",
+     "problem": "'भी' is not in the Sanskrit.",
+     "fix": "अथवा शत्रु मित्र-भाव में आ जाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा शत्रु भी",
+      "new": "अथवा शत्रु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "daṇḍa-mitrayoḥ",
+     "problem": "An itaretara dvandva takes the gender of its last member; mitra is neuter, so the compound is neuter (cf. 33, 53 labelled n.).",
+     "fix": "n. gen. du. (dvandva)",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "word",
+      "match_w": "daṇḍa-mitrayoḥ",
+      "field": "gram",
+      "value": "n. gen. du. (dvandva)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "anabhyantara",
+     "problem": "The draft reads anabhyantara as an adjective on kopa; it can equally be a third dvandva member ('an enemy, a forest chief or an outsider'), given the Arthashastra's pairing abhyantara-/bāhya-kopa. Translation left as drafted; record the alternative.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "58",
+      "op": "append_note",
+      "text": "anabhyantara could also be a third dvandva member: 'in a revolt of the enemy, the forest chief or one not of the interior (an outsider)'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "stands by only in connection with its own advantage",
+     "problem": "'only' and 'its own' are unsupported additions (the note admits 'only' is interpretive); artha-yuktau is simply 'where there is a connection with gain'.",
+     "fix": "When calamities occur simultaneously and when the enemy grows, the ally stands firm where there is a connection with gain.",
+     "severity": "error",
+     "patch": {
+      "n": "59",
+      "op": "set",
+      "field": "english",
+      "value": "When calamities occur simultaneously and when the enemy grows, the ally stands firm where there is a connection with gain."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपने अर्थ के सम्बन्ध के अनुसार ही",
+     "problem": "'अपने' and 'ही' are the same additions.",
+     "fix": "व्यसनों के एक साथ आने पर और शत्रु की वृद्धि होने पर मित्र अर्थ का सम्बन्ध होने पर टिकता है।",
+     "severity": "error",
+     "patch": {
+      "n": "59",
+      "op": "set",
+      "field": "hindi",
+      "value": "व्यसनों के एक साथ आने पर और शत्रु की वृद्धि होने पर मित्र अर्थ का सम्बन्ध होने पर टिकता है।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "artha-yuktau",
+     "problem": "'its own' is not in the word.",
+     "fix": "where there is a connection with gain",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "word",
+      "match_w": "artha-yuktau",
+      "field": "gloss",
+      "value": "where there is a connection with gain"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'only' is interpretive emphasis.",
+     "problem": "Note should say the emphasis is not rendered.",
+     "fix": "artha-yukti 'connection with gain': the sense is that the ally stays while it is in its interest; this emphasis is not rendered in the translation.",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "set",
+      "field": "notes",
+      "value": "artha-yukti 'connection with gain': the sense is that the ally stays while it is in its interest; this emphasis is not rendered in the translation."
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "second half-line",
+     "problem": "The literal rendering is defensible and the low confidence is honest, but the construction of guṇataḥ kṣayāt and of na-avidheyakam (na + avidheyaka 'not unmanageable', i.e. 'manageable', versus na governing syāt) needs a person with Kangle's translation and the commentaries; the e-text's sādguṇya (not ṣāḍguṇya) should also be checked against the printed edition. No patch.",
+     "fix": "human check",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  }
  ],
- "summary": "31 units reviewed (8.1.33-63), 13 flagged. Errors: 7 (unsupported additions: '— so ends the view' in 40 and 52, English and Hindi; 'only'/'its own' in 59, English and Hindi, plus the 52 'graver'). Minor: 14 (garīyaḥ rendering 'more serious' with the supplied predicate in brackets in 33/41/53, following chunk 1 and p08/ch03; gender labels in 36 and 57; piṇḍayitum stem in 44; 'even'/'भी' in 56; alternative readings recorded in notes for 42 and 58; 62 needs a person). Tokens, splits and sandhi match the e-text throughout; the 41 compound-dot note is right. No regrouping suggested. Glossary extended with vyasana, garīyas, the 'No, says X' formula, kupya, āṭavika/aṭavī, upajāpa and the handling of a closing iti."
+ "summary": "31 units reviewed (8.1.33-63), 14 flagged, 25 issues: 6 errors (unsupported additions: '— so ends the view' for a closing iti in 40 and 52, English and Hindi; 'only'/'its own' in 59, English and Hindi), 19 minor (garīyaḥ = 'more serious' with the supplied predicate bracketed in 33/41/52/53, per glossary and chunk 1; glossary renderings upajāpa = secret instigation in 35 and kupya = raw materials in 44; gender labels in 36 and 57; piṇḍayitum stem in 44; 'even'/'भी' in 56; alternative readings added to notes in 42 and 58; 62 needs a person). Tokens, splits and sandhi match the e-text throughout; the 41 compound-dot note is right. No regrouping suggested. Glossary extended (bracketed supplied predicate, no 'so ends the view' for iti, āṭavika/aṭavī, pratigraha)."
 }

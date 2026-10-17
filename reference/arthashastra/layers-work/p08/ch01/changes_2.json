@@ -1,0 +1,176 @@
+[
+ {
+  "n": "33",
+  "field": "english",
+  "old": "“Of the calamities of the fort and the treasury, that of the treasury is the graver,” says Pishuna.",
+  "new": "“Of the calamities of the fort and the treasury, that of the treasury (is more serious),” says Pishuna.",
+  "why": "reviewer (minor): garīyaḥ is rendered 'more serious' in chunk 1 of this chapter and in p08/ch03; and the supplied predicate should be bracketed as chunk 1 does ('(is more serious)'), since the Sanskrit line has no predicate."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "The fort can be won over by instigation by means of the enemies' treasury.",
+  "new": "The fort can be won over by secret instigation by means of the enemies' treasury.",
+  "why": "reviewer (minor): Glossary fixes upajāpa = secret instigation (chunk 1 of this chapter also uses 'secret instigation')."
+ },
+ {
+  "n": "35",
+  "field": "word.gloss",
+  "word": "upajāpyaḥ",
+  "old": "liable to be won over by instigation",
+  "new": "liable to be won over by secret instigation",
+  "why": "reviewer (minor): Same glossary rendering."
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "durgam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): durga is masculine in this chapter (35 durgaḥ, labelled m. nom. sg.); labelling durgam here neuter is inconsistent."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "For it is seen that those who possess forts are not exterminated — so ends the view.",
+  "new": "For it is seen that those who possess forts are not exterminated.",
+  "why": "reviewer (error): Unsupported addition: the closing iti is not a phrase 'so ends the view'; chunk 1 renders a closing iti by the quotation mark alone, and Kautilya's reply carries no quotation marks in the e-text."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "क्योंकि दुर्गवालों का उच्छेद न होना देखा जाता है — इस प्रकार यह मत है।",
+  "new": "क्योंकि दुर्गवालों का उच्छेद न होना देखा जाता है।",
+  "why": "reviewer (error): Same addition in Hindi."
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "iti closes Kautilya's reply (8.1.37-40).",
+  "new": "iti closes Kautilya's reply (8.1.37-40). The closing iti is not rendered by a separate phrase (the reply is unquoted in the e-text).",
+  "why": "reviewer (minor): Record that iti is left unrendered."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "“Of the calamities of the treasury and the army, that of the army is the graver,” says Kaunapadanta.",
+  "new": "“Of the calamities of the treasury and the army, that of the army (is more serious),” says Kaunapadanta.",
+  "why": "reviewer (minor): Same as 33: fixed rendering 'more serious', supplied predicate in brackets."
+ },
+ {
+  "n": "42",
+  "field": "notes",
+  "old": "Kaunapadanta's view continues to 8.1.45. pratigraha = 'receiving, keeping hold of'; sva-daṇḍa-pratigraha could also mean 'the winning over of one's own troops'.",
+  "new": "Kaunapadanta's view continues to 8.1.45. pratigraha = 'receiving, keeping hold of'; sva-daṇḍa-pratigraha could also mean 'the winning over of one's own troops'. pratigraha is also the technical term for the army's reserve force (Book 10), so 'keeping a reserve of one's own army' is another possible reading.",
+  "why": "reviewer (minor): pratigraha is also the technical term for the reserve of an army (Book 10); 'keeping a reserve of one's own army' is a live alternative that the note should record. Translation left as drafted; medium confidence is right."
+ },
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "piṇḍayitum",
+  "old": "inf. √piṇḍ (caus.)",
+  "new": "inf. piṇḍ- (cl. 10, piṇḍayati)",
+  "why": "reviewer (minor): piṇḍayati is a class-10/denominative stem, not a causative of a primary root."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "And in the absence of a treasury the army can be held together by means of forest produce, land, or the seizing of the enemy's land for oneself; and by one who possesses an army a treasury can be gathered.",
+  "new": "And in the absence of a treasury the army can be held together by means of raw materials, land, or the seizing of the enemy's land for oneself; and by one who possesses an army a treasury can be gathered.",
+  "why": "reviewer (minor): Glossary fixes kupya = raw materials (as in 8.1 chunk 1 glossary line, 10.1, 12.1)."
+ },
+ {
+  "n": "44",
+  "field": "word.gloss",
+  "word": "kupyena",
+  "old": "with forest produce",
+  "new": "with raw materials",
+  "why": "reviewer (minor): Same glossary rendering."
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "kupya = forest produce / raw materials, kept literal. 'can be gathered' in the last clause is carried over from śakyaḥ ... piṇḍayitum.",
+  "new": "kupya = raw materials (forest produce), per glossary. 'can be gathered' in the last clause is carried over from śakyaḥ ... piṇḍayitum.",
+  "why": "reviewer (minor): Align note with the glossary."
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "Because it sets all things in motion, the calamity of the treasury is the graver — so ends the view.",
+  "new": "Because it sets all things in motion, the calamity of the treasury is the more serious.",
+  "why": "reviewer (error): garīyaḥ fixed rendering is 'more serious'; '— so ends the view' is an unsupported addition for iti (see 40)."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "सब द्रव्यों का प्रयोजक होने के कारण कोश का व्यसन अधिक गम्भीर है — इस प्रकार यह मत है।",
+  "new": "सब द्रव्यों का प्रयोजक होने के कारण कोश का व्यसन अधिक गम्भीर है।",
+  "why": "reviewer (error): Same addition in Hindi."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "“Of the calamities of the army and the ally, that of the ally is the graver,” says Vatavyadhi.",
+  "new": "“Of the calamities of the army and the ally, that of the ally (is more serious),” says Vatavyadhi.",
+  "why": "reviewer (minor): Same as 33."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "For one who possesses an army the ally remains in the condition of an ally, or even the enemy comes to be in the condition of an ally.",
+  "new": "For one who possesses an army the ally remains in the condition of an ally, or the enemy comes to be in the condition of an ally.",
+  "why": "reviewer (minor): 'even' is not in the Sanskrit (amitro vā)."
+ },
+ {
+  "n": "56",
+  "field": "hindi",
+  "old": "दण्डवान् का मित्र मित्र-भाव में बना रहता है, अथवा शत्रु भी मित्र-भाव में आ जाता है।",
+  "new": "दण्डवान् का मित्र मित्र-भाव में बना रहता है, अथवा शत्रु मित्र-भाव में आ जाता है।",
+  "why": "reviewer (minor): 'भी' is not in the Sanskrit."
+ },
+ {
+  "n": "57",
+  "field": "word.gram",
+  "word": "daṇḍa-mitrayoḥ",
+  "old": "m. gen. du. (dvandva)",
+  "new": "n. gen. du. (dvandva)",
+  "why": "reviewer (minor): An itaretara dvandva takes the gender of its last member; mitra is neuter, so the compound is neuter (cf. 33, 53 labelled n.)."
+ },
+ {
+  "n": "58",
+  "field": "notes",
+  "old": "anabhyantara = 'not internal', i.e. an outsider; the sense is that the ally is of no avail in these cases.",
+  "new": "anabhyantara = 'not internal', i.e. an outsider; the sense is that the ally is of no avail in these cases. anabhyantara could also be a third dvandva member: 'in a revolt of the enemy, the forest chief or one not of the interior (an outsider)'.",
+  "why": "reviewer (minor): The draft reads anabhyantara as an adjective on kopa; it can equally be a third dvandva member ('an enemy, a forest chief or an outsider'), given the Arthashastra's pairing abhyantara-/bāhya-kopa. Translation left as drafted; record the alternative."
+ },
+ {
+  "n": "59",
+  "field": "english",
+  "old": "When calamities occur simultaneously and when the enemy grows, the ally stands by only in connection with its own advantage.",
+  "new": "When calamities occur simultaneously and when the enemy grows, the ally stands firm where there is a connection with gain.",
+  "why": "reviewer (error): 'only' and 'its own' are unsupported additions (the note admits 'only' is interpretive); artha-yuktau is simply 'where there is a connection with gain'."
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "व्यसनों के एक साथ आने पर और शत्रु की वृद्धि होने पर मित्र अपने अर्थ के सम्बन्ध के अनुसार ही टिकता है।",
+  "new": "व्यसनों के एक साथ आने पर और शत्रु की वृद्धि होने पर मित्र अर्थ का सम्बन्ध होने पर टिकता है।",
+  "why": "reviewer (error): 'अपने' and 'ही' are the same additions."
+ },
+ {
+  "n": "59",
+  "field": "word.gloss",
+  "word": "artha-yuktau",
+  "old": "in connection with its own advantage",
+  "new": "where there is a connection with gain",
+  "why": "reviewer (minor): 'its own' is not in the word."
+ },
+ {
+  "n": "59",
+  "field": "notes",
+  "old": "artha-yukti 'connection with gain': the ally stays only while it is in its interest. 'only' is interpretive emphasis.",
+  "new": "artha-yukti 'connection with gain': the sense is that the ally stays while it is in its interest; this emphasis is not rendered in the translation.",
+  "why": "reviewer (minor): Note should say the emphasis is not rendered."
+ }
+]
