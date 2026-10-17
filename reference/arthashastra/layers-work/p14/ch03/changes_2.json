@@ -1,0 +1,446 @@
+[
+ {
+  "n": "45",
+  "field": "word.gram",
+  "word": "siddhi-artham",
+  "old": "m. acc. sg., tat-puruṣa",
+  "new": "n. acc. sg. used adverbially, tat-puruṣa",
+  "why": "reviewer (minor): artha in -artham \"for the sake of\" is a neuter accusative used adverbially, not masculine"
+ },
+ {
+  "n": "46",
+  "field": "word.gram",
+  "word": "ayāt",
+  "old": "3 sg opt. √i",
+  "new": "3 sg impf. (injunctive sense after yāvat) √yā",
+  "why": "reviewer (error): ayāt is the 3 sg imperfect/injunctive of √yā (as after yāvat), not an optative of √i (that would be iyāt); gloss \"may go\" asserts a mood"
+ },
+ {
+  "n": "46",
+  "field": "word.gloss",
+  "word": "ayāt",
+  "old": "may go",
+  "new": "goes",
+  "why": "reviewer (minor): see gram"
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "कुत्ते सुख से सोएँ, और जो गाँव में उत्सुक हैं। जिनके प्रयोजन सिद्ध हो गए हैं वे सुख से सोएँ, जिस प्रयोजन को हम खोजते हैं। जब तक उदय अस्त को प्राप्त हो, तब तक प्रयोजन और फल मेरा हो।",
+  "new": "कुत्ते सुख से सोएँ, और जो गाँव में उत्सुक हैं। जिनके प्रयोजन सिद्ध हो गए हैं वे सुख से सोएँ, जिस प्रयोजन को हम खोजते हैं। जब तक उदय अस्त को प्राप्त हो, जब तक प्रयोजन है, फल मेरा हो।",
+  "why": "reviewer (error): Hindi adds \"और\" between artham and phalam (no ca in the Sanskrit; GLOSSARY 14.3 forbids added और) and a correlative \"तब तक\" not matching the English"
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "Third line is obscure; rendered literally with the verb \"be\" supplied in brackets. The two clauses with yāvat are elliptical. siddhārtha also means white mustard seed; here rendered literally as \"those whose aims are accomplished\" (alternative: mustard seeds). kutūhala may also mean \"noisy, restless\".",
+  "new": "Third line is obscure; rendered literally with the verb \"be\" supplied in brackets. The two clauses with yāvat are elliptical. siddhārtha also means white mustard seed; here rendered literally as \"those whose aims are accomplished\" (alternative: mustard seeds). kutūhala may also mean \"noisy, restless\". Alternative for the third line: yāvad-artham as an idiom, \"to the extent of the purpose\", with ayāt read as a subjunctive-like imperfect after yāvat. The Hindi and English \"as long as ... is\" are literal guesses.",
+  "why": "reviewer (minor): yāvad artham may be the idiom \"as far as needed / to the extent of the purpose\"; the draft English \"as long as [there is] the object\" is one guess among several; keep low"
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "catur-bhakta-upavāsī",
+  "old": "m. nom. sg., bahuvrīhi",
+  "new": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+  "why": "reviewer (minor): not a bahuvrīhi: catur-bhakta is the object of the agent noun upavāsin (tat-puruṣa)"
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "asaṅkīrṇe",
+  "old": "m. loc. sg.",
+  "new": "n. loc. sg.",
+  "why": "reviewer (minor): agrees with ādahane, which is neuter"
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "asaṅkīrṇe",
+  "old": "uncrowded",
+  "new": "unmixed",
+  "why": "reviewer (minor): GLOSSARY 14.3: asaṅkīrṇa ādahana = unmixed cremation ground"
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "Fasting for four meals, on the fourteenth of the dark half, in an uncrowded cremation ground, having made an offering and having taken the corpse-śārikā with this mantra, he should tie a pautrī-bundle.",
+  "new": "Fasting for four meals, on the fourteenth of the dark half, in an unmixed cremation ground, having made an offering and having taken the corpse-śārikā with this mantra, he should tie a pautrī-bundle.",
+  "why": "reviewer (minor): GLOSSARY 14.3 fixed rendering \"unmixed cremation ground\""
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "चार भोजन का उपवास करने वाला कृष्ण पक्ष की चतुर्दशी को, भीड़ से रहित श्मशान में बलि देकर, इस मन्त्र से शव-शारिका को लेकर पौत्री-पोट्टलिका बाँधे।",
+  "new": "चार भोजन का उपवास करने वाला कृष्ण पक्ष की चतुर्दशी को, असंकीर्ण दाह-स्थान में बलि देकर, इस मन्त्र से शव-शारिका को लेकर पौत्री-पोट्टलिका बाँधे।",
+  "why": "reviewer (minor): GLOSSARY 14.3: असंकीर्ण दाह-स्थान; \"भीड़ से रहित\" is an interpretation"
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "Fasting for four meals, on the fourteenth of the dark half, in an unmixed cremation ground, having made an offering and having taken the corpse-śārikā with this mantra, he should tie a pautrī-bundle.",
+  "new": "Fasting for four meals, on the dark fourteenth, in an unmixed cremation ground, having made an offering and having taken the corpse-śārikā with this mantra, he should tie a pautrī-bundle.",
+  "why": "reviewer (minor): GLOSSARY 14.3: kṛṣṇa-caturdaśī = the dark fourteenth"
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "चार भोजन का उपवास करने वाला कृष्ण पक्ष की चतुर्दशी को, असंकीर्ण दाह-स्थान में बलि देकर, इस मन्त्र से शव-शारिका को लेकर पौत्री-पोट्टलिका बाँधे।",
+  "new": "चार भोजन का उपवास करने वाला कृष्ण-चतुर्दशी को, असंकीर्ण दाह-स्थान में बलि देकर, इस मन्त्र से शव-शारिका को लेकर पौत्री-पोट्टलिका बाँधे।",
+  "why": "reviewer (minor): GLOSSARY 14.3: कृष्ण-चतुर्दशी"
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "kṛṣṇa-caturdaśyām",
+  "old": "on the fourteenth of the dark half",
+  "new": "on the dark fourteenth",
+  "why": "reviewer (minor): glossary wording"
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "चार भोजन का उपवास करने वाला कृष्ण-चतुर्दशी को, असंकीर्ण दाह-स्थान में बलि देकर, इस मन्त्र से शव-शारिका को लेकर पौत्री-पोट्टलिका बाँधे।",
+  "new": "चार भोजन का उपवास करने वाला कृष्ण-चतुर्दशी को, असंकीर्ण दाह-स्थान में बलि देकर, इस मन्त्र से शव-शारिका को लेकर पौत्री-पोट्टलिक बाँधे।",
+  "why": "reviewer (minor): printed form is poṭṭalikam (not -ā); keep the name as printed"
+ },
+ {
+  "n": "50",
+  "field": "english",
+  "old": "Having pierced it in the middle with the quill of a porcupine, wherever it is buried with this mantra, it puts all that to sleep.",
+  "new": "Having pierced, in the middle of it, with the quill of a porcupine, wherever [it] is buried with this mantra, it puts all that to sleep.",
+  "why": "reviewer (error): tad-madhye = \"in the middle of it\"; the draft moves \"it\" to the object of viddhvā unmarked"
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "उसके बीच में साही के काँटे से बेधकर, जहाँ इस मन्त्र से गाड़ा जाता है, वहाँ वह सबको सुला देता है।",
+  "new": "उसके बीच में साही के काँटे से बेधकर, जहाँ इस मन्त्र से गाड़ा जाता है, उस सबको वह सुला देता है।",
+  "why": "reviewer (error): Hindi turns tat sarvam into \"वहाँ ... सबको\", contradicting the English \"all that\" (the note itself calls \"all there\" an alternative)"
+ },
+ {
+  "n": "54",
+  "field": "word.gram",
+  "word": "tri-rātra-upoṣitaḥ",
+  "old": "m. nom. sg., bahuvrīhi",
+  "new": "m. nom. sg., tat-puruṣa (tri-rātra + upoṣita)",
+  "why": "reviewer (minor): not a bahuvrīhi: a participle with accusative of duration (tat-puruṣa), as in GLOSSARY tri-rātra-upoṣita"
+ },
+ {
+  "n": "54",
+  "field": "hindi",
+  "old": "तीन रात उपवास किए हुए, पुष्य में, इक्कीस बार सम्पात करके, शहद और घी से कंकड़ों पर आहुति दे।",
+  "new": "तीन रात उपवास किया हुआ, पुष्य में, इक्कीस बार सम्पात करके, शहद और घी से कंकड़ों पर आहुति दे।",
+  "why": "reviewer (minor): GLOSSARY 14.3: तीन रात उपवास किया हुआ"
+ },
+ {
+  "n": "54",
+  "field": "hindi",
+  "old": "तीन रात उपवास किया हुआ, पुष्य में, इक्कीस बार सम्पात करके, शहद और घी से कंकड़ों पर आहुति दे।",
+  "new": "तीन रात उपवास किया हुआ, पुष्य में, इक्कीस सम्पात करके, शहद और घी से कंकड़ों पर आहुति दे।",
+  "why": "reviewer (error): \"बार\" is added and \"सम्पात\" is left, while English says \"pourings\"; GLOSSARY 14.3: sampāta stays sampāta"
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "Having fasted for three nights, under Puṣya, having made twenty-one pourings, he should offer upon the pebbles with honey and ghee.",
+  "new": "Having fasted for three nights, under Puṣya, having made twenty-one sampātas, he should offer upon the pebbles with honey and ghee.",
+  "why": "reviewer (error): invented sense for obscure sampāta; GLOSSARY keeps sampāta"
+ },
+ {
+  "n": "54",
+  "field": "word.gloss",
+  "word": "eka-viṃśati-sampātam",
+  "old": "twenty-one pourings",
+  "new": "twenty-one sampātas",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "54",
+  "field": "notes",
+  "old": "Printed uposṣitaḥ is a probable typo for upoṣitaḥ (cf. unit 64). \"śarkarā\" is śarkarāḥ with visarga dropped before e (pebbles, as in units 56-57); śarkarā can also mean sugar. puṣyeṇa is read as the lunar mansion Puṣya (the Sanskrit does not say \"nakṣatra\"). sampāta = pouring/dropping; the exact rite is not stated. The pebbles are the object of abhijuhuyāt (supplied from the context).",
+  "new": "Printed uposṣitaḥ is a probable typo for upoṣitaḥ (cf. unit 64). \"śarkarā\" is śarkarāḥ with visarga dropped before e (pebbles, as in units 56-57); śarkarā can also mean sugar. puṣyeṇa is read as the lunar mansion Puṣya (the Sanskrit does not say \"nakṣatra\"). sampāta = pouring/dropping; the exact rite is not stated. The pebbles are the object of abhijuhuyāt (supplied from the context). Construction: the printed accusative śarkarāḥ may go with sampātaṃ kṛtvā or with abhijuhuyāt; \"offer upon the pebbles\" is one construal. sampāta is kept untranslated (pouring/falling together is only a guess).",
+  "why": "reviewer (minor): The note says the pebbles are supplied from context; in fact śarkarā(ḥ) is printed (acc. pl.) and could be the object of kṛtvā or of abhijuhuyāt; the English choice is one construal"
+ },
+ {
+  "n": "57",
+  "field": "notes",
+  "old": "The printed abhyantarm is a typo (abhyantaram, or abhyantaraṃ). The syntax is obscure: the genitive \"of four pebbles\" may mean \"by (the use of) four pebbles\" or \"as far as (the range of) four pebbles\"; rendered literally.",
+  "new": "The printed abhyantarm is a typo (abhyantaram, or abhyantaraṃ). The syntax is obscure: the genitive \"of four pebbles\" may mean \"by (the use of) four pebbles\" or \"as far as (the range of) four pebbles\"; rendered literally. Alternative: abhyantaram as adjective of dvāram, \"the inner door of four pebbles is opened\".",
+  "why": "reviewer (minor): abhyantaram agrees grammatically with dvāram (n. nom. sg.), so \"the inner door\" is as likely as the adverb \"inside\""
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "Fasting for four meals, on the fourteenth of the dark half, he should have a bull made with the bone of a broken man, and should consecrate [it] with this.",
+  "new": "Fasting for four meals, on the dark fourteenth, he should have a bull made with the bone of a broken man, and should consecrate [it] with this.",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "चार भोजन का उपवास करने वाला कृष्ण पक्ष की चतुर्दशी को टूटे हुए पुरुष की हड्डी से बैल बनवाए, और इससे अभिमन्त्रित करे।",
+  "new": "चार भोजन का उपवास करने वाला कृष्ण-चतुर्दशी को टूटे हुए पुरुष की हड्डी से बैल बनवाए, और इससे अभिमन्त्रित करे।",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "58",
+  "field": "word.gloss",
+  "word": "kṛṣṇa-caturdaśyām",
+  "old": "on the fourteenth of the dark half",
+  "new": "on the dark fourteenth",
+  "why": "reviewer (minor): glossary wording"
+ },
+ {
+  "n": "58",
+  "field": "word.gram",
+  "word": "catur-bhakta-upavāsī",
+  "old": "m. nom. sg., bahuvrīhi",
+  "new": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+  "why": "reviewer (minor): as in 49"
+ },
+ {
+  "n": "59",
+  "field": "word.gram",
+  "word": "dvi-go-yuktam",
+  "old": "n. nom. sg., bahuvrīhi",
+  "new": "n. nom. sg., tat-puruṣa (dvi-go + yukta)",
+  "why": "reviewer (minor): yuktam is governed by an instrumental sense (yoked with two cattle): tat-puruṣa, not bahuvrīhi"
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "दो बैलों से जुती हुई बैलगाड़ी लाई जाती है।",
+  "new": "दो गौओं से जुता हुआ गो-यान लाया जाता है।",
+  "why": "reviewer (minor): Hindi says oxen/bullock-cart, English (and go) say cattle; \"ṛṣabha\" is the word for bull elsewhere"
+ },
+ {
+  "n": "62",
+  "field": "word.gram",
+  "word": "caṇḍālī-kumbhī-tumba-kaṭuka-sāra-oghaḥ",
+  "old": "m. nom. sg., tat-puruṣa",
+  "new": "m. nom. sg., tat-puruṣa (dvandva of the four names + sāra + ogha)",
+  "why": "reviewer (minor): the four names form a dvandva inside the tat-puruṣa"
+ },
+ {
+  "n": "64",
+  "field": "word.gram",
+  "word": "tri-rātra-upoṣitaḥ",
+  "old": "m. nom. sg., bahuvrīhi",
+  "new": "m. nom. sg., tat-puruṣa (tri-rātra + upoṣita)",
+  "why": "reviewer (minor): as in 54"
+ },
+ {
+  "n": "64",
+  "field": "hindi",
+  "old": "तीन रात उपवास किए हुए, पुष्य में, शस्त्र से मारे गए या शूल पर बिंधे हुए पुरुष की खोपड़ी में, मिट्टी में, तुवरी बोकर, जल से सींचे।",
+  "new": "तीन रात उपवास किया हुआ, पुष्य में, शस्त्र से मारे गए या शूल पर बिंधे हुए पुरुष की खोपड़ी में, मिट्टी में, तुवरी बोकर, जल से सींचे।",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "64",
+  "field": "notes",
+  "old": "The printed tuvarī.rāvāsya-udakena is probably tuvarīr āvāpya udakena (tuvarīḥ + āvāpya), by comparison with unit 79 (guñjā āvāsya-udakena); the sya for pya is the likely slip, and the \".\" after tuvarī is a stray compound mark. tuvarī is kept as a plant name (not identified). The object sprinkled is not stated. The editors doubt mark (?) follows the final danda; the verse number 64 is printed inside the line.",
+  "new": "The printed tuvarī.rāvāsya-udakena is probably tuvarīr āvāpya udakena (tuvarīḥ + āvāpya), by comparison with unit 79 (guñjā āvāsya-udakena); the sya for pya is the likely slip, and the \".\" after tuvarī is a stray compound mark. tuvarī is kept as a plant name (not identified). The object sprinkled is not stated. The editors doubt mark (?) follows the final danda; the verse number 64 is printed inside the line. Alternative to the proposed correction: the printed āvāsya (here and in 79) may be a real causative gerund of ā-√vas, \"having had (them) set/planted\"; the gerund of ā-√vap would be āvapya. The rendering \"having sown\" is inferred from context.",
+  "why": "reviewer (minor): The flag is reasonable but its \"why\" is garbled (rāvāsya is tuvarīr + āvāsya, not rāvāpya). Also the same āvāsya in 79 makes a double typo less likely: āvāsya could be the gerund of causative ā-√vas (\"having made to dwell, having planted\"), and the gerund of ā-√vap would be āvapya, not āvāpya. So \"having sown\" is an inferred sense; person to decide"
+ },
+ {
+  "n": "66",
+  "field": "word.gram",
+  "word": "sajyānām",
+  "old": "f./n. gen. pl.",
+  "new": "n. gen. pl. (with dhanuṣām)",
+  "why": "reviewer (minor): agrees with dhanuṣām (n.)"
+ },
+ {
+  "n": "68",
+  "field": "word.w",
+  "word": "ucchvāsamṛttikayā",
+  "old": "ucchvāsamṛttikayā",
+  "new": "ucchvāsa-mṛttikayā",
+  "why": "reviewer (minor): w lacks the hyphen, though the note says it is split like unit 67"
+ },
+ {
+  "n": "68",
+  "field": "english",
+  "old": "Having filled a boar bag with breath-clay, he should bind [it] with monkey sinew; [this is] the cause of ānāha (obstruction).",
+  "new": "Having filled a boar bag with breath-clay, he should bind [it] with monkey sinew; [this is] the cause of ānāha (literally \"binding up\").",
+  "why": "reviewer (error): invented sense for ānāha; unit 71 and the note keep it as a term with the literal sense"
+ },
+ {
+  "n": "68",
+  "field": "hindi",
+  "old": "सूअर की थैली को उच्छ्वास-मिट्टी से भरकर बन्दर की नस से बाँधे; आनाह का कारण।",
+  "new": "सूअर की थैली को उच्छ्वास-मिट्टी से भरकर बन्दर के स्नायु से बाँधे; आनाह का कारण।",
+  "why": "reviewer (error): snāyu is sinew/tendon (English says sinew); नस is vein/nerve"
+ },
+ {
+  "n": "69",
+  "field": "english",
+  "old": "On the fourteenth of the dark half, he should anoint an image of the enemy made of rāja-vṛkṣa wood with the bile of a tawny cow killed by a weapon; [this is] making blind.",
+  "new": "On the dark fourteenth, he should anoint an image of the enemy made of rāja-vṛkṣa wood with the bile of a tawny cow killed by a weapon; [this is] making blind.",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "69",
+  "field": "hindi",
+  "old": "कृष्ण पक्ष की चतुर्दशी को शस्त्र से मारी गई कपिला गाय के पित्त से राजवृक्ष की बनी शत्रु की प्रतिमा का अंजन करे; अन्धा करना।",
+  "new": "कृष्ण-चतुर्दशी को शस्त्र से मारी गई कपिला गाय के पित्त से राजवृक्ष की बनी शत्रु की प्रतिमा का अंजन करे; अन्धा करना।",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "69",
+  "field": "word.gloss",
+  "word": "kṛṣṇa-caturdaśyām",
+  "old": "on the fourteenth of the dark half",
+  "new": "on the dark fourteenth",
+  "why": "reviewer (minor): glossary wording"
+ },
+ {
+  "n": "70",
+  "field": "english",
+  "old": "Fasting for four meals, on the fourteenth of the dark half, having made an offering, he should have pegs made with the bone of a man impaled on a stake.",
+  "new": "Fasting for four meals, on the dark fourteenth, having made an offering, he should have pegs made with the bone of a man impaled on a stake.",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "70",
+  "field": "hindi",
+  "old": "चार भोजन का उपवास करने वाला कृष्ण पक्ष की चतुर्दशी को बलि देकर शूल पर बिंधे हुए पुरुष की हड्डी से कीलें बनवाए।",
+  "new": "चार भोजन का उपवास करने वाला कृष्ण-चतुर्दशी को बलि देकर शूल पर बिंधे हुए पुरुष की हड्डी से कीलें बनवाए।",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "70",
+  "field": "word.gloss",
+  "word": "kṛṣṇa-caturdaśyām",
+  "old": "on the fourteenth of the dark half",
+  "new": "on the dark fourteenth",
+  "why": "reviewer (minor): glossary wording"
+ },
+ {
+  "n": "70",
+  "field": "word.gram",
+  "word": "catur-bhakta-upavāsī",
+  "old": "m. nom. sg., bahuvrīhi",
+  "new": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+  "why": "reviewer (minor): as in 49"
+ },
+ {
+  "n": "71",
+  "field": "word.gloss",
+  "word": "ānāham",
+  "old": "ānāha (obstruction)",
+  "new": "ānāha (lit. binding up)",
+  "why": "reviewer (minor): \"(obstruction)\" in the gloss is an interpretation (see 68)"
+ },
+ {
+  "n": "73",
+  "field": "hindi",
+  "old": "फिर, नया, नीचे की ओर, नीम, और जो काम-मधु है; बन्दर का रोम और मनुष्य की हड्डी मुर्दे के वस्त्र से बाँधकर।",
+  "new": "फिर, नया, नीचे की ओर, नीम, और जो काम-मधु है; बन्दर का रोम, मनुष्य की हड्डी, मृतक के वस्त्र से बाँधकर।",
+  "why": "reviewer (minor): Hindi adds और where the Sanskrit has asyndeton (GLOSSARY 14.3); मुर्दे is colloquial"
+ },
+ {
+  "n": "74",
+  "field": "hindi",
+  "old": "जिसके घर में गाड़ा जाता है, या देखकर जिस स्थान पर वह ले जाए, वह पुत्र और पत्नी तथा धन सहित तीन पक्षों से आगे नहीं जाता।",
+  "new": "जिसके घर में गाड़ा जाता है, या देखकर जिस स्थान पर वह ले जाए, वह पुत्र और पत्नी सहित, धन सहित तीन पक्षों से आगे नहीं जाता।",
+  "why": "reviewer (minor): \"तथा\" is added; sa-putra-dāraḥ / sa-dhanaḥ are two bahuvrīhis"
+ },
+ {
+  "n": "76",
+  "field": "hindi",
+  "old": "घर, सेना, गाँव या नगर के द्वार पर, वह पुत्र और पत्नी तथा धन सहित तीन पक्षों से आगे नहीं जाता।",
+  "new": "घर, सेना, गाँव या नगर के द्वार पर, वह पुत्र और पत्नी सहित, धन सहित तीन पक्षों से आगे नहीं जाता।",
+  "why": "reviewer (minor): as in 74"
+ },
+ {
+  "n": "77",
+  "field": "english",
+  "old": "He should collect hairs of goat and monkey, of cat and mongoose, of brahmins, of dog-cookers, and of crow and owl. By this, crushed excrement is at once a cause of eradication (utsāda).",
+  "new": "He should collect hairs of goat and monkey, and of cat and mongoose, of brahmins, of dog-cookers, and of crow and owl. By this, crushed excrement is at once a cause of eradication (utsāda).",
+  "why": "reviewer (minor): the ca closing line a is dropped"
+ },
+ {
+  "n": "78",
+  "field": "hindi",
+  "old": "प्रेत की माला का अवशेष, किण्व, नेवले के रोम, और वृश्चिक, आल्य तथा सर्प की त्वचा — जिसके पद में गाड़ा जाता है, वह तुरन्त पुरुषत्व से रहित हो जाता है, जब तक वह हटाया नहीं जाता।",
+  "new": "प्रेत की माला का अवशेष, किण्व, नेवले के रोम, और वृश्चिक, आल्य(?) तथा सर्प की त्वचा — जिसके पद में गाड़ा जाता है, वह तुरन्त पुरुषत्व से रहित हो जाता है, जब तक वह हटाया नहीं जाता।",
+  "why": "reviewer (minor): the editors' doubt mark (?) is kept in English but lost in Hindi, so Hindi presents a firm word"
+ },
+ {
+  "n": "79",
+  "field": "hindi",
+  "old": "तीन रात उपवास किए हुए, पुष्य में, शस्त्र से मारे गए या शूल पर बिंधे हुए पुरुष की खोपड़ी में, मिट्टी में, गुञ्जा बोकर, जल से सींचे।",
+  "new": "तीन रात उपवास किया हुआ, पुष्य में, शस्त्र से मारे गए या शूल पर बिंधे हुए पुरुष की खोपड़ी में, मिट्टी में, गुञ्जा बोकर, जल से सींचे।",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "79",
+  "field": "word.gram",
+  "word": "tri-rātra-upoṣitaḥ",
+  "old": "m. nom. sg., bahuvrīhi",
+  "new": "m. nom. sg., tat-puruṣa (tri-rātra + upoṣita)",
+  "why": "reviewer (minor): as in 54"
+ },
+ {
+  "n": "79",
+  "field": "notes",
+  "old": "Printed āvāsya is probably āvāpya (see unit 64, where the same slip occurs). guñjā = guñjāḥ (visarga dropped before ā). guñjā kept as a plant name.",
+  "new": "Printed āvāsya is probably āvāpya (see unit 64, where the same slip occurs). guñjā = guñjāḥ (visarga dropped before ā). guñjā kept as a plant name. The identical printed āvāsya in unit 64 suggests it may be a real form (causative gerund of ā-√vas), not a double typo; \"having sown\" is inferred. See note at unit 64.",
+  "why": "reviewer (minor): see unit 64: the \"same slip\" is not established"
+ },
+ {
+  "n": "82",
+  "field": "word.gram",
+  "word": "pradīpa-agniṣu",
+  "old": "m. loc. pl., dvandva",
+  "new": "m. loc. pl., tat-puruṣa (alternative: dvandva \"lamps and fires\")",
+  "why": "reviewer (minor): label dvandva contradicts the rendering \"lamp-fires\" (that is tat-puruṣa)"
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "कृष्ण पक्ष की चतुर्दशी को, पुष्य के योग में, लगे हुए कुत्ते की योनि में काले लोहे की अँगूठी भेजे। गिरी हुई उसे स्वयं ले ले।",
+  "new": "कृष्ण पक्ष की चतुर्दशी को, पुष्य के योग में, लगे हुए कुत्ते की योनि में काले लोहे की अँगूठी भेजे। अपने आप गिरी हुई उसको ले ले।",
+  "why": "reviewer (error): svayam belongs to patitām (as the English and the note say), but the Hindi attaches it to gṛhṇīyāt: \"he himself should take\""
+ },
+ {
+  "n": "85",
+  "field": "english",
+  "old": "On the fourteenth of the dark half, in conjunction with Puṣya, he should send a ring of black iron into the womb of a dog that is \"clinging\"; he should take that [ring] when it has fallen by itself.",
+  "new": "On the dark fourteenth, in conjunction with Puṣya, he should send a ring of black iron into the womb of a dog that is \"clinging\"; he should take that [ring] when it has fallen by itself.",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "85",
+  "field": "hindi",
+  "old": "कृष्ण पक्ष की चतुर्दशी को, पुष्य के योग में, लगे हुए कुत्ते की योनि में काले लोहे की अँगूठी भेजे। अपने आप गिरी हुई उसको ले ले।",
+  "new": "कृष्ण-चतुर्दशी को, पुष्य के योग में, लगे हुए कुत्ते की योनि में काले लोहे की अँगूठी भेजे। अपने आप गिरी हुई उसको ले ले।",
+  "why": "reviewer (minor): GLOSSARY 14.3"
+ },
+ {
+  "n": "85",
+  "field": "word.gloss",
+  "word": "kṛṣṇa-caturdaśyām",
+  "old": "on the fourteenth of the dark half",
+  "new": "on the dark fourteenth",
+  "why": "reviewer (minor): glossary wording"
+ },
+ {
+  "n": "88",
+  "field": "hindi",
+  "old": "मन्त्र और औषधि से युक्त जो गुप्त योग हैं और जो माया से रचे गए हैं, उनसे शत्रुओं का नाश करे और अपने जन की रक्षा करे।",
+  "new": "मन्त्र और औषधि से युक्त जो योग हैं और जो माया से रचे गए हैं, उनसे शत्रुओं का नाश करे और अपने जन की रक्षा करे।",
+  "why": "reviewer (error): \"गुप्त\" has no Sanskrit counterpart and English says only \"contrivances\""
+ },
+ {
+  "n": "88",
+  "field": "word.gloss",
+  "word": "māyā-kṛtāḥ",
+  "old": "made of illusion",
+  "new": "made by illusion",
+  "why": "reviewer (minor): kṛta takes the instrument: made by illusion (English already says \"by\")"
+ }
+]
