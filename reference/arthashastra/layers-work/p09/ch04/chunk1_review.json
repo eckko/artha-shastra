@@ -1,0 +1,343 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "such is the excellence of gain",
+     "problem": "iti rendered as \"such is\"; closing iti of a list is not rendered",
+     "fix": "this is the excellence of gain",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "such is the excellence of gain",
+      "new": "this is the excellence of gain"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "\"such\" for closing iti",
+     "fix": "(closes the list)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "(closes the list)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सरलता से सँभाला",
+     "problem": "second \"सरलता से\" added; Sanskrit has easily only on suprāpya (anupālya = to be kept)",
+     "fix": "जो सरलता से प्राप्त हो, सँभाला जा सके और दूसरों के द्वारा वापस न लिया जा सके, वह आदेय है।",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "hindi",
+      "value": "जो सरलता से प्राप्त हो, सँभाला जा सके और दूसरों के द्वारा वापस न लिया जा सके, वह आदेय है।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "suprāpya-anupālyaḥ",
+     "problem": "two adjectives joined, not a karmadhāraya",
+     "fix": "dvandva of adjectives, m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "suprāpya-anupālyaḥ",
+      "field": "gram",
+      "value": "dvandva of adjectives, m. nom. sg."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "\"thus\" for iti",
+     "fix": "(closes the definition)",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "(closes the definition)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रतियोग से कुपित",
+     "problem": "पक्ष added to para; English marks \"[party]\" but Hindi cannot bracket",
+     "fix": "उन्हें दूसरा प्रतियोग से कुपित करेगा",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन्हें दूसरा पक्ष प्रतियोग से कुपित करेगा",
+      "new": "उन्हें दूसरा प्रतियोग से कुपित करेगा"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विरोधी पक्ष में इसे",
+     "problem": "asya dropped (English has \"his rival side\")",
+     "fix": "अथवा इसके विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा",
+      "new": "अथवा इसके विरोधी पक्ष में इसे व्यापार की वस्तु बना दूँगा"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इसकी विगुणता",
+     "problem": "Sanskrit has one asya (with mitram āśrayam vā); second \"इसकी\" is an unmarked addition",
+     "fix": "इसके मित्र अथवा आश्रय को विगुणता",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इसके मित्र अथवा आश्रय को इसकी विगुणता",
+      "new": "इसके मित्र अथवा आश्रय को विगुणता"
+     }
+    },
+    {
+     "field": "english",
+     "where": "grasp his defectiveness",
+     "problem": "unmarked \"his\"",
+     "fix": "grasp [his] defectiveness",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "grasp his defectiveness",
+      "new": "grasp [his] defectiveness"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "— इस प्रकार वह",
+     "problem": "closing iti rendered as \"इस प्रकार\" although notes say it is not rendered",
+     "fix": "closing quote then \"वह वापस ...\"",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "\" — इस प्रकार वह वापस",
+      "new": "\" वह वापस"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "param",
+     "problem": "printed paraṃ cannot be m. nom. sg. (that would be paraḥ)",
+     "fix": "as printed; probably for paraḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "param",
+      "field": "gram",
+      "value": "as printed paraṃ (adv. \"further\"?); m. nom. sg. only if paraḥ is meant"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "aparuddham",
+     "problem": "tagged m. while the agreeing mitram is tagged n.",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "aparuddham",
+      "field": "gram",
+      "value": "n. acc. sg."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "mitram aparuddhaṃ vā-asya",
+     "problem": "parallel with \"mitram āśrayaṃ vā-asya\" suggests \"an ally or an aparuddha\" (vā linking two objects); draft reads aparuddha as adjective of mitram; param may be a typo for paraḥ; person to decide",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "append_note",
+      "text": "REVIEW: (a) printed paraṃ may be a typo for paraḥ (subject of kopayiṣyati); no text_flag could be added. (b) In \"mitram aparuddhaṃ vā-asya\" and \"mitram āśrayaṃ vā-asya\" vā may link two objects (\"an ally or an aparuddha / an ally or a support\"); the rendering \"shut-out ally\" is literal and unsettled. (c) khani-dravya-hasti-vana: dravya-vana and hasti-vana may be the pair \"[produce]-forests and elephant forests\"; kept literal. A person should check the whole plan."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "src",
+     "problem": "flag src mixes Devanagari and IAST (\"ह्रस्व.कालह् / hrasva.kālah\"); other flags use IAST only",
+     "fix": "src \"hrasva.kālah\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "मंगल",
+     "problem": "Hindi मंगल could be read as the planet Mars; Sanskrit maṅgala unclear",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "append_note",
+      "text": "REVIEW: Hindi मंगल is kept for maṅgala and may be misread as the planet; ākṣamya may be a typo for akṣamatva (no text_flag could be added); atyāgitva could also be illiberality; all kept literal."
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Patches: unit 4 (2), 5 (3), 8 (8), 25 (1 note). Counts: errors 2 (unit 8), minor 13 incl. non-patch. Other units checked word by word and accepted. No regrouping suggested. Cannot patch: text_flag src format in 16 (and 18 is IAST only, fine); missing text_flags for paraṃ/paraḥ (8) and ākṣamya (25)."
+}
