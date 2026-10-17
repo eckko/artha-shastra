@@ -1890,7 +1890,7 @@
   "hindi": "मेंढक, केकड़े आदि की चर्बी के साथ समान भाग में पकाया हुआ तेल, अंगों का लेप, अग्नि को प्रज्वलित करना है।",
   "english": "Oil cooked in equal parts with the fat of frogs, crabs and the like, as an anointing of the limbs, is the kindling of fire.",
   "text_flags": [],
-  "notes": "kulīra taken as crab. 'sama-bhāgam' = in equal parts (oil and fat). 'agni-prajvālana' = kindling/blazing of fire, as in units 20 and 21 the limbs blaze; the object (the limbs or the fire) is not stated.",
+  "notes": "kulīra taken as crab. 'sama-bhāgam' = in equal parts (oil and fat). 'agni-prajvālana' = kindling/blazing of fire; the object (the limbs or the fire) is not stated.",
   "confidence": "medium"
  },
  {
@@ -2399,7 +2399,7 @@
     "why": "possible: aṅgi (अङ्गि) is probably a misprint for agni"
    }
   ],
-  "notes": "With the correction the line reads 'vaidyutaṃ bhasma agni-śamanam' (ash from lightning, quencher of fire). If aṅgi is kept, no sense is available; the words field gives the corrected form agni. Also possible: 'vaidyuta' = 'of the physician' is unlikely here.",
+  "notes": "With the correction the line reads 'vaidyutaṃ bhasma agni-śamanam' (ash from lightning, quencher of fire). If aṅgi is kept, no sense is available; the words field gives the corrected form agni.",
   "confidence": "low"
  },
  {
@@ -2496,5 +2496,743 @@
   ],
   "notes": "strī-puṣpa literally 'women's flower'; in Sanskrit usage a term for the menstrual flow, kept literal. māṣa beans are a common sense of māṣa; vrajakulī not identified. apācana = non-cooking (i.e. the pot does not cook).",
   "confidence": "low"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cullī.śodhanaṃ",
+      "words": [
+       {
+        "w": "cullī-śodhanam",
+        "gloss": "cleaning of the hearth",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratīkāraḥ",
+      "words": [
+       {
+        "w": "pratīkāraḥ",
+        "gloss": "remedy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चूल्हे की सफ़ाई प्रतीकार है।",
+  "english": "The cleaning of the hearth is the remedy.",
+  "text_flags": [],
+  "notes": "Remedy to unit 32 (the non-cooking). Here cullī is the standard form; unit 32 prints culluyāṃ.",
+  "confidence": "high"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pīlumayo",
+      "words": [
+       {
+        "w": "pīlu-mayaḥ",
+        "gloss": "made of pīlu",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇir",
+      "words": [
+       {
+        "w": "maṇiḥ",
+        "gloss": "jewel, bead",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "agni.garbhaḥ",
+      "words": [
+       {
+        "w": "agni-garbhaḥ",
+        "gloss": "with fire inside",
+        "gram": "cpd. m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "suvarcalā.mūla.granthiḥ",
+      "words": [
+       {
+        "w": "suvarcalā-mūla-granthiḥ",
+        "gloss": "knot of suvarcalā root",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūtra.granthir",
+      "words": [
+       {
+        "w": "sūtra-granthiḥ",
+        "gloss": "knot of thread",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "picu.pariveṣṭito",
+      "words": [
+       {
+        "w": "picu-pariveṣṭitaḥ",
+        "gloss": "wrapped in picu",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhyād",
+      "words": [
+       {
+        "w": "mukhāt",
+        "gloss": "from the mouth",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "agni.dhūma.utsargaḥ",
+      "words": [
+       {
+        "w": "agni-dhūma-utsargaḥ",
+        "gloss": "emission of fire and smoke",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पीलु से बना हुआ मणि, जिसके भीतर अग्नि हो, या सुवर्चला की जड़ की गाँठ, या सूत की गाँठ, पिचु में लिपटी हुई, मुख से अग्नि और धुएँ का निकलना है।",
+  "english": "A jewel made of pīlu with fire inside, or a knot of suvarcalā root, or a knot of thread, wrapped in picu: the emission of fire and smoke from the mouth.",
+  "text_flags": [
+   {
+    "src": "mukhyād",
+    "suggest": "mukhāt",
+    "why": "possible: mukhya (principal) is unlikely; mukhāt (from the mouth) expected"
+   }
+  ],
+  "notes": "The e-text's mukhyād is rendered 'from the mouth' (mukhāt). picu is kept as picu (cotton or a tree name). suvarcalā not identified. The nominative list (jewel, knot, knot) has no verb; the compound 'emission' is the predicate.",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuśa.āmra.phala.taila.sikto",
+      "words": [
+       {
+        "w": "kuśa-āmra-phala-taila-siktaḥ",
+        "gloss": "sprinkled with oil of kuśa and āmra fruit",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'gnir",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṣa.pravāteṣu",
+      "words": [
+       {
+        "w": "varṣa-pravāteṣu",
+        "gloss": "in rain and wind",
+        "gram": "cpd. m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुश और आम्र के फल के तेल से सींचा हुआ अग्नि वर्षा और हवाओं में जलता है।",
+  "english": "Fire sprinkled with oil of kuśa and āmra fruit blazes in rain and winds.",
+  "text_flags": [],
+  "notes": "As in unit 24, the oil may be of the fruit of both kuśa and āmra, or of kuśa and of āmra fruit. 'pravāta' = wind / windy place.",
+  "confidence": "medium"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samudra.phenakas",
+      "words": [
+       {
+        "w": "samudra-phenakaḥ",
+        "gloss": "sea-foam",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "taila.yukto",
+      "words": [
+       {
+        "w": "taila-yuktaḥ",
+        "gloss": "combined with oil",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'mbhasi",
+      "words": [
+       {
+        "w": "ambhasi",
+        "gloss": "on water",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "plavamāno",
+      "words": [
+       {
+        "w": "plavamānaḥ",
+        "gloss": "floating",
+        "gram": "m. nom. sg. pres. part. √plu"
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तेल से युक्त समुद्र-फेनक जल पर तैरता हुआ जलता है।",
+  "english": "Sea-foam combined with oil, floating on water, blazes.",
+  "text_flags": [],
+  "notes": "samudra-phenaka (literal 'sea-foam') is the literal rendering; it may name a substance. See phenaka in unit 24.",
+  "confidence": "medium"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "plavamānānām",
+      "words": [
+       {
+        "w": "plavamānānām",
+        "gloss": "of floating [creatures]",
+        "gram": "m. gen. pl. pres. part. √plu"
+       }
+      ]
+     },
+     {
+      "src": "asthiṣu",
+      "words": [
+       {
+        "w": "asthiṣu",
+        "gloss": "on the bones",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kalmāṣa.veṇunā",
+      "words": [
+       {
+        "w": "kalmāṣa-veṇunā",
+        "gloss": "with a mottled bamboo",
+        "gram": "cpd. m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirmathito",
+      "words": [
+       {
+        "w": "nirmathitaḥ",
+        "gloss": "churned out",
+        "gram": "m. nom. sg. p.p.p. nir-√math"
+       }
+      ]
+     },
+     {
+      "src": "'gnir",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na-udakena",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "udakena",
+        "gloss": "with water",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāmyati,",
+      "words": [
+       {
+        "w": "śāmyati",
+        "gloss": "is quenched",
+        "gram": "3 sg. pres. √śam"
+       }
+      ]
+     },
+     {
+      "src": "udakena",
+      "words": [
+       {
+        "w": "udakena",
+        "gloss": "with water",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तैरने वालों की हड्डियों पर चितकबरे बाँस से मथकर निकाली गई अग्नि जल से शान्त नहीं होती, जल से जल उठती है।",
+  "english": "Fire churned out on the bones of floating [creatures] with a mottled bamboo is not quenched by water; it blazes with water.",
+  "text_flags": [],
+  "notes": "'plavamānānām' is rendered literally as 'of floating [creatures]'; it may mean water-birds or other floaters. kalmāṣa = mottled, spotted. 'na-udakena' is an unsandhied join in the e-text.",
+  "confidence": "medium"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śastra.hatasya",
+      "words": [
+       {
+        "w": "śastra-hatasya",
+        "gloss": "of one killed by a weapon",
+        "gram": "cpd. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūla.protasya",
+      "words": [
+       {
+        "w": "śūla-protasya",
+        "gloss": "of one impaled on a stake",
+        "gram": "cpd. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puruṣasya",
+      "words": [
+       {
+        "w": "puruṣasya",
+        "gloss": "of a man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāma.pārśva.parśuka.asthiṣu",
+      "words": [
+       {
+        "w": "vāma-pārśva-parśuka-asthiṣu",
+        "gloss": "on the left-side rib bones",
+        "gram": "cpd. n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kalmāṣa.veṇunā",
+      "words": [
+       {
+        "w": "kalmāṣa-veṇunā",
+        "gloss": "with a mottled bamboo",
+        "gram": "cpd. m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirmathito",
+      "words": [
+       {
+        "w": "nirmathitaḥ",
+        "gloss": "churned out",
+        "gram": "m. nom. sg. p.p.p. nir-√math"
+       }
+      ]
+     },
+     {
+      "src": "'gniḥ",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "striyāḥ",
+      "words": [
+       {
+        "w": "striyāḥ",
+        "gloss": "of a woman",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣasya",
+      "words": [
+       {
+        "w": "puruṣasya",
+        "gloss": "of a man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-asthiṣu",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asthiṣu",
+        "gloss": "on the bones",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "manuṣya.parśukayā",
+      "words": [
+       {
+        "w": "manuṣya-parśukayā",
+        "gloss": "with a human rib",
+        "gram": "cpd. f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirmathito",
+      "words": [
+       {
+        "w": "nirmathitaḥ",
+        "gloss": "churned out",
+        "gram": "m. nom. sg. p.p.p. nir-√math"
+       }
+      ]
+     },
+     {
+      "src": "'gnir",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trir",
+      "words": [
+       {
+        "w": "triḥ",
+        "gloss": "thrice",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "apasavyaṃ",
+      "words": [
+       {
+        "w": "apasavyam",
+        "gloss": "anticlockwise",
+        "gram": "adv."
+       }
+      ]
+     },
+     {
+      "src": "gacchati",
+      "words": [
+       {
+        "w": "gacchati",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √gam"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca-atra-anyo",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'gnir",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शस्त्र से मारे गए या शूल पर चढ़ाए गए पुरुष की बाईं पसलियों की हड्डियों पर चितकबरे बाँस से मथकर निकाली गई अग्नि, अथवा स्त्री या पुरुष की हड्डियों पर मनुष्य की पसली से मथकर निकाली गई अग्नि जहाँ तीन बार अपसव्य दिशा में जाती है, वहाँ कोई दूसरी अग्नि नहीं जलती।",
+  "english": "The fire churned out with a mottled bamboo on the left-side rib bones of a man killed by a weapon or impaled on a stake, or the fire churned out on the bones of a woman or a man with a human rib: where it goes thrice in the apasavya (anticlockwise) direction, no other fire blazes there.",
+  "text_flags": [],
+  "notes": "The sentence has two kinds of fire; 'yatra' clause applies to the second (assumed), possibly both. apasavya = to the left/anticlockwise, kept with the gloss in English. 'vā-asthiṣu' and 'ca-atra-anyo' are unsandhied joins in the e-text. 'ca-atra' = 'and here'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cuccundarī",
+      "words": [
+       {
+        "w": "cuccundarī",
+        "gloss": "cuccundarī (a small creature)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "khañjarīṭaḥ",
+      "words": [
+       {
+        "w": "khañjarīṭaḥ",
+        "gloss": "khañjarīṭa (a bird)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "khāra.kīṭaś",
+      "words": [
+       {
+        "w": "khāra-kīṭaḥ",
+        "gloss": "khāra insect",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "piṣyate",
+      "words": [
+       {
+        "w": "piṣyate",
+        "gloss": "is ground",
+        "gram": "3 sg. pres. pass. √piṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "aśva.mūtreṇa",
+      "words": [
+       {
+        "w": "aśva-mūtreṇa",
+        "gloss": "with horse urine",
+        "gram": "cpd. n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃsṛṣṭā",
+      "words": [
+       {
+        "w": "saṃsṛṣṭā",
+        "gloss": "mixed",
+        "gram": "f. nom. sg. p.p.p. saṃ-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "nigalānāṃ",
+      "words": [
+       {
+        "w": "nigalānām",
+        "gloss": "of fetters",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhañjanam",
+      "words": [
+       {
+        "w": "bhañjanam",
+        "gloss": "breaking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चुच्चुन्दरी, खञ्जरीट और खार कीट पीसे जाते हैं; घोड़े के मूत्र में मिलाया हुआ यह बेड़ियों को तोड़ना है।",
+  "english": "Cuccundarī, khañjarīṭa and the khāra insect are ground; mixed with horse urine, it is the breaking of fetters.",
+  "text_flags": [],
+  "notes": "cuccundarī and khañjarīṭa are kept as names (a small animal and a bird are usual senses, not stated). khāra-kīṭa = 'khāra insect'. saṃsṛṣṭā (f. sg.) agrees with an implied preparation. The singular verb piṣyate follows the last subject.",
+  "confidence": "medium"
  }
 ]
