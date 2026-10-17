@@ -401,5 +401,290 @@
   ],
   "notes": "Obscure names (kauṇḍinyaka, kṛkaṇa, kuṣṭha, ucci-diṅga, kambalī, śata-kanda/kardama, idhma, kṛkalāsa, golika, kakra, gomārikā, avalgu, jara) are kept as names; citra-bheka 'variegated frog', śata-padī 'hundred-footed' (centipede?), andha-ahi 'blind snake', pūti-kīṭa 'stinking insect' are literal. 'kṛkalāsa' commonly a chameleon-like lizard; left as name. 'idhma' literally kindling; sense here uncertain. 'saṃyuktaṃ' appears as 'samyuktaṃ' in the e-text (m before y written unsandhied), same in later units. Alternative: eteṣāṃ vā dhūmaḥ is a separate sentence 'or the smoke of these'.",
   "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kīṭo",
+      "words": [
+       {
+        "w": "kīṭaḥ",
+        "gloss": "insect",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-anyatamas",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anyatamaḥ",
+        "gloss": "any one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "taptaḥ",
+      "words": [
+       {
+        "w": "taptaḥ",
+        "gloss": "heated",
+        "gram": "m. nom. sg. p.p. √tap"
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇa.sarpa.priyaṅgubhiḥ",
+      "words": [
+       {
+        "w": "kṛṣṇa-sarpa-priyaṅgubhiḥ",
+        "gloss": "with black snake and priyaṅgu",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śoṣayed",
+      "words": [
+       {
+        "w": "śoṣayet",
+        "gloss": "would cause to dry up",
+        "gram": "3 sg. caus. opt. √śuṣ"
+       }
+      ]
+     },
+     {
+      "src": "eṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samyogaḥ",
+      "words": [
+       {
+        "w": "saṃyogaḥ",
+        "gloss": "combination",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadyaḥ.prāṇa.haro",
+      "words": [
+       {
+        "w": "sadyaḥ-prāṇa-haraḥ",
+        "gloss": "taking life at once",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mataḥ",
+      "words": [
+       {
+        "w": "mataḥ",
+        "gloss": "held to be",
+        "gram": "m. nom. sg. p.p. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा कोई एक कीट, काले साँप और प्रियङ्गु के साथ तपाया हुआ, यह संयोग सुखा देता है; यह तत्काल प्राण हर लेने वाला माना गया है।",
+  "english": "Or any one insect, heated with black snake and priyaṅgu: this combination would cause [one] to dry up; it is held to take life at once.",
+  "text_flags": [],
+  "notes": "The object of śoṣayet is not stated ('[one]' supplied in brackets). priyaṅgu kept as a name (a plant name). Verse metre: two 16-syllable lines (anuṣṭubh).",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhāma.argava.yātu.dhāna.mūlaṃ",
+      "words": [
+       {
+        "w": "dhāma-argava-yātu-dhāna-mūlaṃ",
+        "gloss": "root of dhāmārgava and yātudhāna",
+        "gram": "dvandva+tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhallātaka.puṣpa.cūrṇa.yuktam",
+      "words": [
+       {
+        "w": "bhallātaka-puṣpa-cūrṇa-yuktam",
+        "gloss": "joined with powder of bhallātaka flowers",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ārdhamāsikaḥ",
+      "words": [
+       {
+        "w": "ārdhamāsikaḥ",
+        "gloss": "of half a month",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धामार्गव और यातुधान का मूल, भल्लातक के फूलों के चूर्ण से युक्त, आधे मास वाला है।",
+  "english": "Root of dhāmārgava and yātudhāna, joined with powder of bhallātaka flowers: [the one] of half a month (ārdhamāsika).",
+  "text_flags": [],
+  "notes": "The split of dhāma.argava.yātu.dhāna is the e-text's own; dhāmārgava and yātudhāna may each be a single plant name (yātu-dhāna literally 'demon'); kept as names, low certainty on how the members group. ārdhamāsikaḥ is literally 'of/lasting half a month'; what it qualifies (a preparation whose effect or period is half a month) is not stated, so it is rendered literally; alternative: its effect lasts half a month.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyāghātaka.mūlaṃ",
+      "words": [
+       {
+        "w": "vyāghātaka-mūlaṃ",
+        "gloss": "root of vyāghātaka",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhallātaka.puṣpa.cūrṇa.yuktaṃ",
+      "words": [
+       {
+        "w": "bhallātaka-puṣpa-cūrṇa-yuktaṃ",
+        "gloss": "joined with powder of bhallātaka flowers",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kīṭa.yogo",
+      "words": [
+       {
+        "w": "kīṭa-yogaḥ",
+        "gloss": "insect compound",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "māsikaḥ",
+      "words": [
+       {
+        "w": "māsikaḥ",
+        "gloss": "of one month",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्याघातक का मूल, भल्लातक के फूलों के चूर्ण से युक्त, कीट-योग एक मास वाला है।",
+  "english": "Root of vyāghātaka joined with powder of bhallātaka flowers: the insect compound of one month (māsika).",
+  "text_flags": [],
+  "notes": "vyāghātaka is kept as a name (it may also be the name of a bird or tree). māsika is rendered literally ('of one month'); the sense (duration of effect) is not stated. Compare unit 6.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kalā.mātraṃ",
+      "words": [
+       {
+        "w": "kalā-mātram",
+        "gloss": "a kalā in measure",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣāṇām,",
+      "words": [
+       {
+        "w": "puruṣāṇām",
+        "gloss": "for men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvi.guṇaṃ",
+      "words": [
+       {
+        "w": "dvi-guṇam",
+        "gloss": "double",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "khara.aśvānām,",
+      "words": [
+       {
+        "w": "khara-aśvānām",
+        "gloss": "for asses and horses",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "catur.guṇaṃ",
+      "words": [
+       {
+        "w": "catur-guṇam",
+        "gloss": "fourfold",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hasty.uṣṭrāṇām",
+      "words": [
+       {
+        "w": "hasti-uṣṭrāṇām",
+        "gloss": "for elephants and camels",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुरुषों के लिए एक कला भर, गधों और घोड़ों के लिए दुगुना, हाथियों और ऊँटों के लिए चौगुना।",
+  "english": "[A dose of] one kalā in measure for men, double for asses and horses, fourfold for elephants and camels.",
+  "text_flags": [],
+  "notes": "'dose' is supplied (bracketed); kalā is a small unit of measure. The line is elliptical (no verb).",
+  "confidence": "medium"
  }
 ]

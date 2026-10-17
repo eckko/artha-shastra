@@ -1,0 +1,627 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śreṇī.mukhyam",
+      "words": [
+       {
+        "w": "śreṇī-mukhyam",
+        "gloss": "guild chief",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "āptaṃ",
+      "words": [
+       {
+        "w": "āptam",
+        "gloss": "trusted",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niṣpātayet",
+      "words": [
+       {
+        "w": "niṣpātayet",
+        "gloss": "should cause to be expelled",
+        "gram": "opt. 3 sg. caus. nis-√pat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह किसी विश्वसनीय श्रेणी-मुख्य को निकलवा दे।",
+  "english": "He should have a trusted guild chief expelled.",
+  "text_flags": [],
+  "notes": "niṣpātayet: literally \"should cause to fall out\"; \"expel\" is the natural rendering. The subject (the king) is not stated in the unit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "param",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "the other",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āśrtya",
+      "words": [
+       {
+        "w": "āśritya",
+        "gloss": "having resorted to",
+        "gram": "abs. ā-√śri"
+       }
+      ]
+     },
+     {
+      "src": "pakṣa.apadeśena",
+      "words": [
+       {
+        "w": "pakṣa-apadeśena",
+        "gloss": "on the pretext of a party",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sva.viṣayāt",
+      "words": [
+       {
+        "w": "sva-viṣayāt",
+        "gloss": "from his own territory",
+        "gram": "m. abl. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "sācivya.kara.sahāya.upādānaṃ",
+      "words": [
+       {
+        "w": "sācivya-kara-sahāya-upādānam",
+        "gloss": "acquiring of counsel-aid, tax and allies",
+        "gram": "n. acc. sg., dvandva + tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kurvīta",
+      "words": [
+       {
+        "w": "kurvīta",
+        "gloss": "should make",
+        "gram": "opt. 3 sg. mid. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह दूसरे का आश्रय लेकर पक्ष के बहाने से अपने देश से मन्त्रियों की सहायता, कर और सहायकों का संग्रह करे।",
+  "english": "Having resorted to the other, on the pretext of [supporting] a party, he should acquire from his own territory the aid of counsellors, taxes and helpers.",
+  "text_flags": [
+   {
+    "src": "āśrtya",
+    "suggest": "āśritya",
+    "why": "missing vowel i; the sandhi-split form must be the absolute of ā-√śri"
+   }
+  ],
+  "notes": "param = \"the other\" (literally), i.e. the other king, an enemy in this context. sācivya = the office or help of a counsellor (sacivya); the three members sācivya, kara, sahāya are taken as a dvandva of what is acquired. pakṣa-apadeśa: \"pretext of a party/side\"; pakṣa could also be \"wing, faction\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛta.apasarpa.upacayo",
+      "words": [
+       {
+        "w": "kṛta-apasarpa-upacayaḥ",
+        "gloss": "one by whom a build-up of spies has been made",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "param",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "the other",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anumānya",
+      "words": [
+       {
+        "w": "anumānya",
+        "gloss": "having won over",
+        "gram": "abs. anu-√man"
+       }
+      ]
+     },
+     {
+      "src": "svāmino",
+      "words": [
+       {
+        "w": "svāminaḥ",
+        "gloss": "of the king",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dūṣya.grāmaṃ",
+      "words": [
+       {
+        "w": "dūṣya-grāmam",
+        "gloss": "treasonable village",
+        "gram": "m. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vīta.hasty.aśvaṃ",
+      "words": [
+       {
+        "w": "vīta-hasti-aśvam",
+        "gloss": "bereft of elephants and horses",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dūṣya.amātyaṃ",
+      "words": [
+       {
+        "w": "dūṣya-amātyam",
+        "gloss": "treasonable minister",
+        "gram": "m. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍam",
+      "words": [
+       {
+        "w": "daṇḍam",
+        "gloss": "army",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ākrandaṃ",
+      "words": [
+       {
+        "w": "ākrandam",
+        "gloss": "rear ally",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hatvā",
+      "words": [
+       {
+        "w": "hatvā",
+        "gloss": "having killed",
+        "gram": "abs. √han"
+       }
+      ]
+     },
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the other",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "preṣayet",
+      "words": [
+       {
+        "w": "preṣayet",
+        "gloss": "should send",
+        "gram": "opt. 3 sg. caus. pra-√iṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा गुप्तचरों का संचय करने वाला वह दूसरे को मनाकर स्वामी के दूष्य ग्राम, हाथी-घोड़ों से रहित, दूष्य अमात्य, सेना अथवा आक्रन्द को मारकर दूसरे के पास भेजे।",
+  "english": "Or, one who has built up a store of spies, having won over the other, having killed the king's treasonable village, [one] bereft of elephants and horses, the treasonable minister, the army or the rear ally, should send [word/them] to the other.",
+  "text_flags": [
+   {
+    "src": "hasty.aśvaṃ",
+    "suggest": "hasti-aśvam",
+    "why": "printed hasty.aśvam is a sandhi spelling (hasti before a vowel); the compound is hasti-aśva"
+   }
+  ],
+  "notes": "Syntax unclear: the objects of hatvā and of preṣayet are not separated in the text, and parasya preṣayet may mean \"send [word/messengers] to the other\" (cf. unit 9, 17). svāminaḥ is genitive \"of the king\" (an ablative reading \"from the king\" is also possible). vīta-hasty-aśvam may be a separate object (a force) or describe the village. dūṣya = the treasonable, ākranda = the rear ally (glossary). anumānya \"having won over\" is an uncertain sense of anu-√man (alternatively \"having obtained the consent of\").",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jana.pada.eka.deśaṃ",
+      "words": [
+       {
+        "w": "jana-pada-eka-deśam",
+        "gloss": "one part of the country",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śreṇīm",
+      "words": [
+       {
+        "w": "śreṇīm",
+        "gloss": "guild",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṭavīṃ",
+      "words": [
+       {
+        "w": "aṭavīm",
+        "gloss": "forest tribes",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahāya.upādāna.arthaṃ",
+      "words": [
+       {
+        "w": "sahāya-upādāna-artham",
+        "gloss": "for the purpose of obtaining helpers",
+        "gram": "ind. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "saṃśrayeta",
+      "words": [
+       {
+        "w": "saṃśrayeta",
+        "gloss": "should resort to",
+        "gram": "opt. 3 sg. mid. sam-√śri"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सहायकों को प्राप्त करने के लिए वह जनपद के एक भाग, श्रेणी अथवा वन-जातियों का आश्रय ले।",
+  "english": "For the purpose of obtaining helpers, he should resort to one part of the country, a guild or the forest tribes.",
+  "text_flags": [],
+  "notes": "aṭavīm is singular; the glossary rendering \"forest tribes\" is used, literally \"forest\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśvāsam",
+      "words": [
+       {
+        "w": "viśvāsam",
+        "gloss": "confidence",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upagataḥ",
+      "words": [
+       {
+        "w": "upagataḥ",
+        "gloss": "having gained",
+        "gram": "m. nom. sg. p.p. upa-√gam"
+       }
+      ]
+     },
+     {
+      "src": "svāminaḥ",
+      "words": [
+       {
+        "w": "svāminaḥ",
+        "gloss": "from the king",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "preṣayet",
+      "words": [
+       {
+        "w": "preṣayet",
+        "gloss": "should send",
+        "gram": "opt. 3 sg. caus. pra-√iṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विश्वास प्राप्त कर लेने पर वह स्वामी की ओर से भेजे।",
+  "english": "Having gained confidence, he should send [them] from the king.",
+  "text_flags": [],
+  "notes": "The object of preṣayet is not stated. svāminaḥ may be ablative (\"from the king\") or genitive (\"of the king\"); translation follows the ablative, the alternative being \"should send those of the king\". Low confidence.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svāmī",
+      "words": [
+       {
+        "w": "svāmī",
+        "gloss": "the king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hasti.bandhanam",
+      "words": [
+       {
+        "w": "hasti-bandhanam",
+        "gloss": "elephant-capturing",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "aṭavī.ghātaṃ",
+      "words": [
+       {
+        "w": "aṭavī-ghātam",
+        "gloss": "killing of the forest tribes",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā-apadiśya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "apadiśya",
+        "gloss": "having given as a pretext",
+        "gram": "abs. apa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "gūḍham",
+      "words": [
+       {
+        "w": "gūḍham",
+        "gloss": "secretly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praharet",
+      "words": [
+       {
+        "w": "praharet",
+        "gloss": "should strike",
+        "gram": "opt. 3 sg. pra-√hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब स्वामी हाथी पकड़ने अथवा वन-जातियों के संहार को बहाना बनाकर गुप्त रूप से ही प्रहार करे।",
+  "english": "Then the king, giving as pretext the capture of elephants or the killing of the forest tribes, should strike only in secret.",
+  "text_flags": [],
+  "notes": "aṭavī-ghāta: \"killing of the forest tribes\" per glossary; literally \"slaying of the forest\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etena-amātya.aṭavikā",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "amātya-āṭavikāḥ",
+        "gloss": "ministers and forest chiefs",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "explained",
+        "gram": "m. nom. pl. p.p. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे अमात्यों और आटविकों की भी व्याख्या हो गई।",
+  "english": "By this, the ministers and the forest chiefs are explained.",
+  "text_flags": [
+   {
+    "src": "amātya.aṭavikā",
+    "suggest": "amātya-āṭavikāḥ",
+    "why": "possible: initial ā of āṭavika (forest chief) expected; visarga loss before v is regular sandhi"
+   }
+  ],
+  "notes": "\"By this ... are explained\" in the Arthashastra means the same procedure applies; the Sanskrit states only \"are explained\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śatruṇā",
+      "words": [
+       {
+        "w": "śatruṇā",
+        "gloss": "with the enemy",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "maitrīṃ",
+      "words": [
+       {
+        "w": "maitrīm",
+        "gloss": "friendship",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā-amātyān",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having made",
+        "gram": "abs. √kṛ"
+       },
+       {
+        "w": "amātyān",
+        "gloss": "ministers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "avakṣipet",
+      "words": [
+       {
+        "w": "avakṣipet",
+        "gloss": "should cast down",
+        "gram": "opt. 3 sg. ava-√kṣip"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रु के साथ मित्रता करके वह अमात्यों को गिरा दे।",
+  "english": "Having made friendship with the enemy, he should cast down the ministers.",
+  "text_flags": [],
+  "notes": "avakṣipet: literal \"throw down/off\"; the exact sense (discredit, dismiss, denounce) is not given by the line, so the literal rendering is used. The subject of the verb is not stated.",
+  "confidence": "low"
+ }
+]
