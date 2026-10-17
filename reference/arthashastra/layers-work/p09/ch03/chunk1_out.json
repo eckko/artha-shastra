@@ -2676,5 +2676,544 @@
   "text_flags": [],
   "notes": "abhityakta-śāsana is obscure (\"abandoned orders\", literal; sense uncertain). sattrin and gūḍha-puruṣa are both \"secret agent\" per the glossary. ca-enam is an unsandhied join.",
   "confidence": "low"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saha.prasthāyino",
+      "words": [
+       {
+        "w": "saha-prasthāyinaḥ",
+        "gloss": "those who march together",
+        "gram": "tat-puruṣa, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā-asya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravīra.puruṣān",
+      "words": [
+       {
+        "w": "pravīra-puruṣān",
+        "gloss": "valiant men",
+        "gram": "karmadhāraya, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā.abhiprāya.karaṇena-āvāhayet",
+      "words": [
+       {
+        "w": "yathā-abhiprāya-karaṇena",
+        "gloss": "by acting according to wish",
+        "gram": "tat-puruṣa, n. inst. sg."
+       },
+       {
+        "w": "āvāhayet",
+        "gloss": "should summon",
+        "gram": "3 sg. opt. caus. ā-√vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा उसके साथ प्रस्थान करने वालों और वीर पुरुषों को इच्छा के अनुसार करने से बुलाए।",
+  "english": "Or he should summon his fellow-marchers [and] valiant men by acting according to [their] wish.",
+  "text_flags": [],
+  "notes": "saha-prasthāyinaḥ and pravīra-puruṣān are taken as two accusatives (the -inaḥ ending is acc. pl.), joined by vā; they could also be one phrase (\"valiant men marching with him\"). \"their\" in yathā-abhiprāya is supplied. vā-asya, yathā-abhiprāya-karaṇena-āvāhayet are unsandhied joins.",
+  "confidence": "medium"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by him",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇihitān",
+      "words": [
+       {
+        "w": "praṇihitān",
+        "gloss": "those sent",
+        "gram": "m. acc. pl. pp. pra-ni-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "sattrī",
+      "words": [
+       {
+        "w": "sattrī",
+        "gloss": "secret agent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "brūyāt",
+      "words": [
+       {
+        "w": "brūyāt",
+        "gloss": "should speak to",
+        "gram": "3 sg. opt. √brū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके द्वारा भेजे हुए लोगों से गुप्तचर कहे।",
+  "english": "The secret agent should speak to those sent by him.",
+  "text_flags": [],
+  "notes": "The words to be spoken are not given in the e-text; unit 34 follows with \"iti siddhiḥ\". Possible GROUPING/lacuna: a quotation may be missing between units 33 and 34. tena may refer to the man of the previous units or mean \"by that [means]\".",
+  "confidence": "low"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddhiḥ",
+      "words": [
+       {
+        "w": "siddhiḥ",
+        "gloss": "success",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार सिद्धि।",
+  "english": "Thus, success.",
+  "text_flags": [],
+  "notes": "GROUPING: iti siddhiḥ appears to close the section on cases that can be accomplished (siddhi); it may also close the speech of unit 33. Rendered literally.",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-enān",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enān",
+        "gloss": "these",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kopān",
+      "words": [
+       {
+        "w": "kopān",
+        "gloss": "revolts",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "utthāpayet,",
+      "words": [
+       {
+        "w": "utthāpayet,",
+        "gloss": "should raise",
+        "gram": "3 sg. opt. caus. ud-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "ātmanaś",
+      "words": [
+       {
+        "w": "ātmanaḥ",
+        "gloss": "of his own",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śamayet",
+      "words": [
+       {
+        "w": "śamayet",
+        "gloss": "should quell",
+        "gram": "3 sg. opt. caus. √śam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रु के इन कोपों को उठाए, और अपने कोपों को शान्त करे।",
+  "english": "He should raise these revolts of the enemy, and quell [those] of his own.",
+  "text_flags": [],
+  "notes": "The object of śamayet and the noun with ātmanaḥ (kopān) are understood from the first clause; the Hindi repeats कोपों as the ellipsis cannot be left. para = enemy.",
+  "confidence": "high"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kopaṃ",
+      "words": [
+       {
+        "w": "kopaṃ",
+        "gloss": "revolt",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kartuṃ",
+      "words": [
+       {
+        "w": "kartuṃ",
+        "gloss": "to create",
+        "gram": "inf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "śamayituṃ",
+      "words": [
+       {
+        "w": "śamayituṃ",
+        "gloss": "to quell",
+        "gram": "inf. caus. √śam"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaktas",
+      "words": [
+       {
+        "w": "śaktaḥ",
+        "gloss": "able",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tatra-upajāpaḥ",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "upajāpaḥ",
+        "gloss": "secret instigation",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāryaḥ",
+      "words": [
+       {
+        "w": "kāryaḥ",
+        "gloss": "to be done",
+        "gram": "m. nom. sg. gdv. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो कोप करने अथवा शान्त करने में समर्थ है, वहाँ उपजाप किया जाना चाहिए।",
+  "english": "Who is able to create or to quell revolt, there secret instigation is to be done.",
+  "text_flags": [],
+  "notes": "tatra (\"there\") is taken to mean \"in his case\"; the Sanskrit is a relative clause with tatra. tatra-upajāpaḥ is an unsandhied join. kopa = revolt.",
+  "confidence": "medium"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "satya.sandhaḥ",
+      "words": [
+       {
+        "w": "satya-sandhaḥ",
+        "gloss": "true to his pledge",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaktaḥ",
+      "words": [
+       {
+        "w": "śaktaḥ",
+        "gloss": "able",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmaṇi",
+      "words": [
+       {
+        "w": "karmaṇi",
+        "gloss": "in action",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "phala.avāptau",
+      "words": [
+       {
+        "w": "phala-avāptau",
+        "gloss": "in the attainment of the result",
+        "gram": "tat-puruṣa, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-anugrahītuṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anugrahītuṃ",
+        "gloss": "to favour",
+        "gram": "inf. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "vinipāte",
+      "words": [
+       {
+        "w": "vinipāte",
+        "gloss": "in disaster",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trātuṃ",
+      "words": [
+       {
+        "w": "trātuṃ",
+        "gloss": "to protect",
+        "gram": "inf. √trā"
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratijāpaḥ",
+      "words": [
+       {
+        "w": "pratijāpaḥ",
+        "gloss": "counter-instigation",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāryaḥ,",
+      "words": [
+       {
+        "w": "kāryaḥ,",
+        "gloss": "to be done",
+        "gram": "m. nom. sg. gdv. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tarkayitavyaś",
+      "words": [
+       {
+        "w": "tarkayitavyaḥ",
+        "gloss": "to be judged",
+        "gram": "m. nom. sg. gdv. √tark"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kalyāṇa.buddhir",
+      "words": [
+       {
+        "w": "kalyāṇa-buddhiḥ",
+        "gloss": "of good intent",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uta-aho",
+      "words": [
+       {
+        "w": "uta-aho",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaṭha",
+      "words": [
+       {
+        "w": "śaṭhaḥ",
+        "gloss": "rogue",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the clause)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो सत्य-सन्ध है, कर्म में और फल की प्राप्ति में अनुगृहीत करने में तथा विपत्ति में रक्षा करने में समर्थ है, वहाँ प्रतिजाप किया जाना चाहिए; और यह विचार करना चाहिए कि वह कल्याण-बुद्धि है अथवा शठ।",
+  "english": "Who is true to his pledge and able to favour in action and in the attainment of the result, and to protect in disaster, there counter-instigation is to be done; and it is to be judged [whether he is] of good intent or a rogue.",
+  "text_flags": [],
+  "notes": "pratijāpa (prati + jāpa) is rendered literally \"counter-instigation\"; satya-sandha literally \"of true pledge\". The closing iti marks the alternative question and is not rendered separately; \"whether he is\" is supplied. karmaṇi may be \"in the undertaking\". ca-anugrahītuṃ is an unsandhied join.",
+  "confidence": "medium"
  }
 ]

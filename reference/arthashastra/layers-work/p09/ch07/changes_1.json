@@ -1,0 +1,168 @@
+[
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जो अर्थ प्राप्त न होने पर शत्रु की वृद्धि करता है, प्राप्त होने पर दूसरों द्वारा वापस लेने योग्य हो जाता है, अथवा प्राप्त किए जाते समय जिसका परिणाम क्षय और व्यय है, वैसा हो जाता है, वह आपत्तिरूप अर्थ होता है।",
+  "new": "जो अर्थ प्राप्त न होने पर शत्रु की वृद्धि करता है, प्राप्त होने पर दूसरों द्वारा वापस लेने योग्य हो जाता है, अथवा प्राप्त किए जाते समय क्षय और व्यय के परिणाम वाला हो जाता है, वह आपत्तिरूप अर्थ होता है।",
+  "why": "reviewer (minor): Awkward correlative 'जिसका परिणाम ... वैसा हो जाता है' for kṣaya-vyaya-udayo bhavati; the bahuvrīhi is simply the adjective of artha."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "As: an acquisition that is bait for the neighbours, an acquisition born of a neighbour's calamity; or an acquisition sought by the enemy, obtainable through [its] own nature; an acquisition in front, opposed from behind by revolt or by the heel-seizer; an acquisition opposed by the circle through the destruction of allies or a breach of treaty - such is the gain that is an adversity.",
+  "new": "As: an acquisition that has become bait for the neighbours and is born of a neighbour's calamity; an acquisition sought by the enemy or obtainable through [its] own nature; an acquisition in front, opposed from behind by revolt or by the heel-seizer; an acquisition opposed by the circle through the destruction of allies or a breach of treaty - such is the gain that is an adversity.",
+  "why": "reviewer (error): Sanskrit has ONE lābhaḥ qualified by āmiṣa-bhūtaḥ and sāmanta-vyasana-jaḥ (Hindi has it right); English splits it into two 'acquisition's. Also the vā sits inside item 2 (śatru-prārthito vā sva-bhāva-adhigamyo), not before it; the draft moves 'or' to the item boundary in both languages."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जैसे: पड़ोसियों के लिए चारा बना हुआ, पड़ोसी के व्यसन से उत्पन्न लाभ; अथवा शत्रु द्वारा चाहा गया, अपने स्वभाव से प्राप्त करने योग्य लाभ; पीछे से कोप या पार्ष्णिग्राह द्वारा विरोध किया गया, आगे का लाभ; मित्रों के नाश या सन्धि के उल्लंघन से मण्डल द्वारा विरुद्ध किया गया लाभ - यह आपत्तिरूप अर्थ है।",
+  "new": "जैसे: पड़ोसियों के लिए चारा बना हुआ, पड़ोसी के व्यसन से उत्पन्न लाभ; शत्रु द्वारा चाहा गया अथवा अपने स्वभाव से प्राप्त करने योग्य लाभ; पीछे से कोप या पार्ष्णिग्राह द्वारा विरोध किया गया, आगे का लाभ; मित्रों के नाश या सन्धि के उल्लंघन से मण्डल द्वारा विरुद्ध किया गया लाभ - यह आपत्तिरूप अर्थ है।",
+  "why": "reviewer (minor): vā moved to the item boundary (अथवा before शत्रु); it belongs between the two qualifiers."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "Four kinds are read: (1) bait for neighbours / born of a neighbour's calamity; (2) sought by the enemy and obtainable svabhāva-adhigamya; (3) gain in front, opposed behind; (4) opposed by the maṇḍala. The first vā could instead make (2) two alternatives ('sought by the enemy' or 'obtainable by nature'). sva-bhāva-adhigamya is obscure: literally 'to be reached through own nature/state'; sense unclear, not interpreted. āmiṣa literally 'flesh, food'; 'bait' is the usual sense. vigṛhīta = 'opposed' (literally 'seized apart; at strife with'). kopa = revolt as in unit 3; alternative 'by anger'. purastāt-lābha: purastāt 'in front'.",
+  "new": "Four kinds are read: (1) bait for neighbours / born of a neighbour's calamity; (2) sought by the enemy and obtainable svabhāva-adhigamya; (3) gain in front, opposed behind; (4) opposed by the maṇḍala. The first vā could instead make (2) two alternatives ('sought by the enemy' or 'obtainable by nature'). sva-bhāva-adhigamya is obscure: literally 'to be reached through own nature/state'; sense unclear, not interpreted. āmiṣa literally 'flesh, food'; 'bait' is the usual sense. vigṛhīta = 'opposed' (literally 'seized apart; at strife with'). kopa = revolt as in unit 3; alternative 'by anger'. purastāt-lābha: purastāt 'in front'. Reviewer: the vā stands between śatru-prārthitaḥ and sva-bhāva-adhigamyaḥ, so item 2 is rendered 'sought by the enemy or obtainable through its own nature' (one acquisition with two alternative qualifiers); sense of svabhāva-adhigamya still unclear.",
+  "why": "reviewer (minor): Record the vā reading."
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "upasamprāptum",
+  "old": "to attain",
+  "new": "to encounter",
+  "why": "reviewer (error): Glossary 9.7 fixes upasamprāptum = to encounter (not 'attain'); 'preceding' also differs from the 'earlier' used in the same chapter (chunk 2)."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Of these, each preceding one is better to attain.",
+  "new": "Of these, each earlier one is better to encounter.",
+  "why": "reviewer (error): Align with glossary 9.7."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "In those two, success [comes] from the support of the unsteady enemy and the rear ally, or from non-remedy of [what is] mixed with the other.",
+  "new": "In those two, success [comes] from the support of the unsteady enemy and the rear ally, or non-remedy of [what is] mixed with the other.",
+  "why": "reviewer (minor): apratīkāraḥ is nominative; 'from' is an unmarked addition (the Hindi has no such addition)."
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "Obscure and uncertain: 'para-miśra' is rendered literally ('other' + 'mixed'); no sense has been decided. cala-amitra-ākranda: 'cala' (unsteady, wavering) may qualify only amitra or the whole pair; the pair 'enemy and rear ally' is the reading used. sandhi: printed tayoś before c.",
+  "new": "Obscure and uncertain: 'para-miśra' is rendered literally ('other' + 'mixed'); no sense has been decided. cala-amitra-ākranda: 'cala' (unsteady, wavering) may qualify only amitra or the whole pair; the pair 'enemy and rear ally' is the reading used. sandhi: printed tayoś before c. Reviewer: the para-mitra flag is only a conjecture; 9.6 has para-miśrā as a technical name (glossary 9.6), so para-miśra may well be the genuine reading. Printed text kept; a person should check against Kangle's apparatus.",
+  "why": "reviewer (minor): The suggestion is a conjecture; para-miśrā appears as a name in glossary 9.6 (para-miśrā kept as a name), so 'miśra' may be genuine here. The flag cannot be removed by patch; a person should decide."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Acquisition from this side, acquisition from the other side: [so] there is, from both sides, an adversity of gain.",
+  "new": "“Acquisition from this side, acquisition from the other side”: from both sides there is an adversity of gain.",
+  "why": "reviewer (minor): Closing iti of the quoted state is rendered by a bare 'thus/so' (and Hindi 'इस प्रकार'); glossary 13.1/13.5: a bare iti closing a quotation is not rendered. Quote the phrase instead."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "इधर से लाभ, उधर से लाभ - इस प्रकार दोनों ओर से अर्थ की आपत्ति होती है।",
+  "new": "“इधर से लाभ, उधर से लाभ”: दोनों ओर से अर्थ की आपत्ति होती है।",
+  "why": "reviewer (minor): same as English"
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus",
+  "new": "closing particle",
+  "why": "reviewer (minor): gloss 'thus' for a closing iti"
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Loss from this side, loss from the other side: [so there is], from both sides, an adversity of loss.",
+  "new": "“Loss from this side, loss from the other side”: from both sides there is an adversity of loss.",
+  "why": "reviewer (minor): Closing iti of the quoted state is rendered by a bare 'thus/so' (and Hindi 'इस प्रकार'); glossary 13.1/13.5: a bare iti closing a quotation is not rendered. Quote the phrase instead."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "इधर से अनर्थ, उधर से अनर्थ - इस प्रकार दोनों ओर से अनर्थ की आपत्ति है।",
+  "new": "“इधर से अनर्थ, उधर से अनर्थ”: दोनों ओर से अनर्थ की आपत्ति है।",
+  "why": "reviewer (minor): same as English"
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus",
+  "new": "closing particle",
+  "why": "reviewer (minor): gloss 'thus' for a closing iti"
+ },
+ {
+  "n": "36",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): Name stem uncertain (w keeps ā, Hindi/English give Suyatra, source ambiguous between suyātra-/suyātrā- before udayana: a+u and ā+u both give o); 'high' is not honest."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "Acquisition from this side, assault on the kingdom from the other side: [so there is], from both sides, an adversity of gain and loss.",
+  "new": "“Acquisition from this side, assault on the kingdom from the other side”: from both sides there is an adversity of gain and loss.",
+  "why": "reviewer (minor): Closing iti of the quoted state is rendered by a bare 'thus/so' (and Hindi 'इस प्रकार'); glossary 13.1/13.5: a bare iti closing a quotation is not rendered. Quote the phrase instead."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "इधर से लाभ, उधर से राज्य पर आक्रमण - इस प्रकार दोनों ओर से अर्थ और अनर्थ की आपत्ति होती है।",
+  "new": "“इधर से लाभ, उधर से राज्य पर आक्रमण”: दोनों ओर से अर्थ और अनर्थ की आपत्ति होती है।",
+  "why": "reviewer (minor): same as English"
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus",
+  "new": "closing particle",
+  "why": "reviewer (minor): gloss 'thus' for a closing iti"
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "Loss from this side, doubt about gain from the other side: [so the adversity is] one of loss and of doubt about gain from both sides.",
+  "new": "“Loss from this side, doubt about gain from the other side”: [the adversity is] one of loss and of doubt about gain from both sides.",
+  "why": "reviewer (minor): Closing iti of the quoted state is rendered by a bare 'thus/so' (and Hindi 'इस प्रकार'); glossary 13.1/13.5: a bare iti closing a quotation is not rendered. Quote the phrase instead."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "इधर से अनर्थ, उधर से अर्थ का संशय - इस प्रकार दोनों ओर से अनर्थ और अर्थ के संशय वाली।",
+  "new": "“इधर से अनर्थ, उधर से अर्थ का संशय”: दोनों ओर से अनर्थ और अर्थ के संशय वाली।",
+  "why": "reviewer (minor): same as English"
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus",
+  "new": "closing particle",
+  "why": "reviewer (minor): gloss 'thus' for a closing iti"
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "The last word is a feminine adjective; āpad (f.) and the verb are not stated (supplied in brackets in English). The compound is parsed as anartha + artha-saṃśaya; it could instead read 'doubt about loss and gain'.",
+  "new": "The last word is a feminine adjective; āpad (f.) and the verb are not stated (supplied in brackets in English). The compound is parsed as anartha + artha-saṃśaya; it could instead read 'doubt about loss and gain'. Reviewer: 'saṃśayā' is probably a truncation of saṃśaya-āpad (cf. units 24, 37): the e-text may have dropped -pad. Draft's feminine-adjective reading is a fallback only; text_flag suggested but not addable by patch.",
+  "why": "reviewer (error): The final word saṃśayā cannot be a feminine nominative of saṃśaya (m.) and the unit lacks the noun that its parallels 24, 26, 37 have (…-āpad). Very probably the print dropped the end: anartha-artha-saṃśaya-āpad (saṃśayāpad). Cannot be fixed by patch (no word/flag can be added). Draft reading kept as a literal fallback."
+ },
+ {
+  "n": "41",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): Labelled dvandva f. nom. sg.; no such dvandva-with-ā-ending exists; the form is unexplained."
+ }
+]
