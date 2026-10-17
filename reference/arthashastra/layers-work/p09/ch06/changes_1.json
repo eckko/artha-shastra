@@ -1,0 +1,136 @@
+[
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "sāma-ādibhiḥ",
+  "old": "m. inst. pl.; dvandva",
+  "new": "m. inst. pl.; bahuvrīhi",
+  "why": "reviewer (minor): sāma-ādi is a bahuvrīhi (sāma etc.), not a dvandva"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "शत्रु से शुद्ध होने पर जहाँ से शत्रु प्रधान हो या बनाया जाना हो, वहाँ से साम आदि उपायों द्वारा सिद्धि पाने का यत्न करे।",
+  "new": "शत्रु से शुद्ध होने पर जहाँ से शत्रु प्रधान हो या बनाया जाना हो, वहाँ से साम आदि के द्वारा सिद्धि पाने का यत्न करे।",
+  "why": "reviewer (minor): 'उपायों' is not in the Sanskrit (sāma-ādibhiḥ)"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Because of the mixing of the treasonable and the non-treasonable, [it is] āmiśrā (the 'mixed' one).",
+  "new": "Because of the treasonable and the non-treasonable being mixed, [it is] āmiśrā (the 'mixed' one).",
+  "why": "reviewer (minor): āmiśrita-tva is 'state of being mixed' (as the gloss says), not 'mixing'"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "iccheta",
+  "old": "iccheta",
+  "new": "icchet",
+  "why": "reviewer (error): Printed 'icched' can only be parasmaipada icchet (√iṣ, icchati); iccheta (ātmanepada) would not give 'icched'"
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "upakārān is accusative while the other means are instrumental: the grammar may need a supplied verb ('recalling the benefits'), or the reading may be a slip for the instrumental; left as printed, not flagged as an error. apakārābhyām is dual (literally 'by two injuries'); which two is not stated. pūrveṣām 'of the earlier ones' (ancestors or predecessors) is left open.",
+  "new": "upakārān is accusative while the other means are instrumental: the grammar may need a supplied verb ('recalling the benefits'), or the reading may be a slip for the instrumental; left as printed, not flagged as an error. apakārābhyām is dual (literally 'by two injuries'); which two is not stated. pūrveṣām 'of the earlier ones' (ancestors or predecessors) is left open. Reviewer: 'traikālya.upakārān apakārābhyāṃ' may be one compound 'traikālya-upakāra-apakārābhyām' (by benefits and injuries of the three times) mis-typed; left as printed, a person should check the edition.",
+  "why": "reviewer (minor): Case mismatch (acc. vs dual) is odd; the printed pair may be a typed split of one compound upakāra-apakārābhyām ('by benefits and injuries of the three times'); the draft has no text_flag for it (cannot be added by patch)"
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "Then the secret agents should make [it] grasped among the others: “This was given by the enemy.”",
+  "new": "Then the secret agents should cause [it] to be seized among the others: “This was given by the enemy.”",
+  "why": "reviewer (minor): unnatural; use settled rendering for grāhayet (as chunk 2 unit 38-48: cause to be seized)"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "तब गुप्तचर दूसरों में ग्रहण कराएँ — “यह शत्रु द्वारा दिया गया है।”",
+  "new": "तब गुप्तचर दूसरों में पकड़वाएँ — “यह शत्रु द्वारा दिया गया है।”",
+  "why": "reviewer (minor): use पकड़वाएँ as in chunk 2"
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "grāhayeyuḥ",
+  "old": "should make grasp",
+  "new": "should cause to be seized",
+  "why": "reviewer (minor): gloss 'should make grasp'"
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "paṇyam",
+  "old": "n. nom. sg.",
+  "new": "n. nom. or acc. sg.",
+  "why": "reviewer (minor): neuter -am is nom. or acc.; the clause is unclear (paṇyam may be an object of an implied verb), so a firm 'nom.' is not safe"
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "śatru-prakhyātam",
+  "old": "n. nom. sg.; tat-puruṣa",
+  "new": "n. nom. or acc. sg.",
+  "why": "reviewer (minor): neuter -am is nom. or acc.; the clause is unclear (paṇyam may be an object of an implied verb), so a firm 'nom.' is not safe"
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "avijñātam",
+  "old": "n. nom. sg.",
+  "new": "n. nom. or acc. sg.",
+  "why": "reviewer (minor): neuter -am is nom. or acc.; the clause is unclear (paṇyam may be an object of an implied verb), so a firm 'nom.' is not safe"
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "Then the secret agents should make [it] grasped among the others: “This ware was given by the enemy.”",
+  "new": "Then the secret agents should cause [it] to be seized among the others: “This ware was given by the enemy.”",
+  "why": "reviewer (minor): as unit 30"
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "तब गुप्तचर दूसरों में ग्रहण कराएँ — “यह माल शत्रु द्वारा दिया गया है।”",
+  "new": "तब गुप्तचर दूसरों में पकड़वाएँ — “यह माल शत्रु द्वारा दिया गया है।”",
+  "why": "reviewer (minor): as unit 30"
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "grāhayeyuḥ",
+  "old": "should make grasp",
+  "new": "should cause to be seized",
+  "why": "reviewer (minor): as unit 30"
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "mahā-aparādhān",
+  "old": "m. acc. pl.; karmadhāraya",
+  "new": "m. acc. pl.; bahuvrīhi",
+  "why": "reviewer (minor): Labelled m. acc. pl. 'karmadhāraya' with gloss 'those with great offences' while the note says it means 'great offences': persons are the object of upagṛhya/praṇidadhyāt, so it is a bahuvrīhi 'those of great offences'; no bracket needed"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "Or, having supported [those guilty of] great offences with wealth and honour, [he] should set [them] upon the enemy with weapon, poison and fire.",
+  "new": "Or, having supported those of great offences with wealth and honour, [he] should set [them] upon the enemy with weapon, poison and fire.",
+  "why": "reviewer (minor): bracketed supply unnecessary if bahuvrīhi"
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "mahā-aparādhān is accusative plural 'great offences'; the persons guilty are supplied in brackets. upagṛhya follows the glossary 'having supported'; alternatives 'having taken hold of, embraced'. rasa with śastra and agni = poison (glossary). praṇidadhyāt literally 'should place/set'; the object (them) is implied.",
+  "new": "mahā-aparādhān is accusative plural 'great offences'; the persons guilty are supplied in brackets. upagṛhya follows the glossary 'having supported'; alternatives 'having taken hold of, embraced'. rasa with śastra and agni = poison (glossary). praṇidadhyāt literally 'should place/set'; the object (them) is implied. Reviewer: mahā-aparādha-ān is read as a bahuvrīhi 'those of great offences' (persons), so no persons are supplied.",
+  "why": "reviewer (minor): note contradicts reading"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "उसके पुत्र और पत्नी को अपने अधिकार में लेकर प्रसिद्ध कराए कि रात में मारा गया।",
+  "new": "उसके पुत्र और पत्नी को पकड़कर प्रसिद्ध कराए कि रात में मारा गया।",
+  "why": "reviewer (minor): adds 'अपने अधिकार' (possession) not in upa-√grah 'taken hold of'"
+ }
+]

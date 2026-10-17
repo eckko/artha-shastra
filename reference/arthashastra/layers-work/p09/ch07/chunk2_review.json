@@ -1,0 +1,392 @@
+{
+ "units": [
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "— thus the adversity",
+     "problem": "iti closes the quoted pair; rendered as a bare 'thus'",
+     "fix": "“Gain on this side, doubt of loss on the other” — the adversity of doubt of gain and loss on both sides.",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "set",
+      "field": "english",
+      "value": "“Gain on this side, doubt of loss on the other” — the adversity of doubt of gain and loss on both sides."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इस प्रकार",
+     "problem": "same: bare 'इस प्रकार' for closing iti",
+     "fix": "“इधर अर्थ, उधर अनर्थ का संशय” — दोनों ओर अर्थ और अनर्थ के संशय की आपत्ति।",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "set",
+      "field": "hindi",
+      "value": "“इधर अर्थ, उधर अनर्थ का संशय” — दोनों ओर अर्थ और अनर्थ के संशय की आपत्ति।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "gloss 'thus' wrong for a quotation-closing iti",
+     "fix": "closing quotation",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing quotation"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "For better the ally",
+     "problem": "ungrammatical; bare copula needed",
+     "fix": "For better is the ally standing in doubt of loss, not the army; or the army, not the treasury.",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "replace",
+      "field": "english",
+      "old": "For better the ally",
+      "new": "For better is the ally"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tīkṣṇa",
+     "problem": "Settled with 9.6: tīkṣṇa as an adjective of persons (here beside lubdha, 'excluding the fierce and the greedy') stays 'fierce'; 'assassin' is only the agent class (12.x). Draft is right.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "append_note",
+      "text": "Review: tīkṣṇa kept 'fierce' (adjective of persons beside lubdha), as in 9.6 where the target is 'fierce'; 'assassin' only for the agent class."
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sandhi / āsana",
+     "problem": "sandhi = peace follows 8.5/12.5 (12.1 has 'treaty'); āsana = staying quiet settled",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "append_note",
+      "text": "Review: sandhi = peace (as 8.5, 12.5); āsana = staying quiet; dvaidhī-bhāva = the dual policy. laghūni/gurūṇi left without a stated noun."
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "viśeṣa",
+     "problem": "kept literal 'difference'; sense 'advantage' in notes only. Fine, but record.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "append_note",
+      "text": "Review: viśeṣa kept literal ('difference'); the whole is obscure (choosing among decline, stagnation, growth by the later outcome)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "upasamprāpti",
+     "problem": "'encountering' settled in glossary; three items (gain, loss, doubt) confirmed by plural saṃśayānām",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "54",
+      "op": "append_note",
+      "text": "Review: upasamprāpti = encountering (glossary 9.7); three items read, as in 55 and 57."
+     }
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अर्थ, अनर्थ और संशयों में",
+     "problem": "artha-anartha-saṃśayānām is genitive (of ... the continuous connection), Hindi has a locative 'में' which changes the sense; also initial 'ca' (and) dropped",
+     "fix": "और अर्थ, अनर्थ और संशयों का निरन्तर सम्बन्ध होने से यात्रा के आरम्भ में ...",
+     "severity": "error",
+     "patch": {
+      "n": "55",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निरन्तर सम्बन्ध होने से अर्थ, अनर्थ और संशयों में, यात्रा",
+      "new": "और अर्थ, अनर्थ और संशयों का निरन्तर सम्बन्ध होने से यात्रा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "whole unit",
+     "problem": "Reviewed: split plausible; sāmavāyikānām apurogasya read as a genitive pair ('of the associates, of the non-leader'), rendered 'for one who is not the leader of the associates'. Hindi 'में' for the first genitive is loose. Confidence low stays.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "append_note",
+      "text": "Review: the two genitives sāmavāyikānām apurogasya may also be read separately; Hindi 'सामवायिकों में' is loose for a genitive. Low confidence kept; sense of -ga and anirbandha unresolved."
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "65",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "uttara-pakṣa / pūrva-pakṣa",
+     "problem": "Not the 15.1 tantra-yukti senses; read as latter/former side of the doubt pair of 64. Low confidence kept.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "65",
+      "op": "append_note",
+      "text": "Review: uttara-pakṣa/pūrva-pakṣa here = latter/former side (alternative) of a doubt pair, not the 15.1 technical 'reply/objection'. Low confidence kept."
+     }
+    }
+   ]
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "āpadām",
+     "problem": "genitive āpadām may instead go with niyoga-vikalpa-samuccayāḥ ('the niyoga etc. of the adversities'); draft reading is acceptable",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "append_note",
+      "text": "Review: alternative construction: āpadām with niyoga-vikalpa-samuccayāḥ ('of/for the adversities'), 'from the connection of heaviness and lightness'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "77",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "78",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "79",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भगदड़",
+     "problem": "'stampede/panic' goes beyond vidrava (flight, running away); keep literal",
+     "fix": "पलायन",
+     "severity": "minor",
+     "patch": {
+      "n": "82",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भगदड़",
+      "new": "पलायन"
+     }
+    }
+   ]
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 2 (9.7, units 43-84), 42 units. Words and tokens checked against src: all splits sound. Both text_flags confirmed (siddhayah -> siddhayaḥ; rpaṇipātataḥ -> praṇipātataḥ, r/p swap). Unit 67 grouping sound as printed (one source line; ity āpadaḥ closes the previous section, tāsāṃ siddhiḥ heads the next). Unit 77 bracketed second 'four' is permissible (English only; Hindi adds nothing). tīkṣṇa 'fierce' in 49 consistent with 9.6. Errors 1 (unit 55 Hindi case), minor 9. No regrouping suggested. Closing iti: bare 'thus' fixed in 44; section-closing iti + noun (53, 66, 67, 78, 81, 82) left as 'Thus' per the glossary's section-closing practice."
+}
