@@ -1,0 +1,102 @@
+[
+ {
+  "n": "42",
+  "field": "word.gram",
+  "word": "urasyam",
+  "old": "m. nom. sg.",
+  "new": "n. nom. sg.",
+  "why": "reviewer (minor): urasyam is printed with -am and listed as the nominative of a list with pakṣau and pratigrahaḥ; labelled m. but the form is neuter nom. sg."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Description of the excess (atiśaya) is explanation (vyākhyāna).",
+  "new": "Description of excess (atiśaya) is explanation (vyākhyāna).",
+  "why": "reviewer (minor): 'the excess' inserts an article the Sanskrit does not support (atiśaya-varṇanā, no determiner); keep the literal rendering and the note."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "“और विशेष रूप से संघों का, संघ-धर्म वालों का और राजकुलों का जुए के कारण भेद और उसके कारण विनाश — इस प्रकार शासन की दुर्बलता के कारण असत् का प्रग्रह व्यसनों में सबसे अधिक पापिष्ठ है।”",
+  "new": "“और विशेष रूप से संघों का, संघ-धर्म वालों का और राजकुलों का जुए के कारण भेद और उसके कारण विनाश — इस प्रकार शासन की दुर्बलता के कारण असत् का प्रग्रह व्यसनों में सबसे बुरा है।”",
+  "why": "reviewer (minor): पापिष्ठ is itself a superlative; 'सबसे अधिक पापिष्ठ' doubles it and keeps an untranslated Sanskrit adjective where English says 'worst'."
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "Drawing away of what has been overrun is apavarga.",
+  "new": "Drawing away of the overrun is apavarga.",
+  "why": "reviewer (minor): 'what has been overrun' assumes a neuter object; abhipluta has no stated gender and the Hindi and gloss say 'the overrun'."
+ },
+ {
+  "n": "52",
+  "field": "hindi",
+  "old": "“पहली प्रकृति; उसकी भूमि के अनुसार अनन्तर दूसरी, एक भूमि के अन्तर वाली तीसरी।”",
+  "new": "“पहली प्रकृति; उसकी, भूमि में अनन्तर वाली दूसरी, एक भूमि के अन्तर वाली तीसरी।”",
+  "why": "reviewer (error): 'उसकी भूमि के अनुसार अनन्तर' adds 'according to' and garbles bhūmy-anantarā (next in land); prakṛti is the noun, not predicate."
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "“The first [is] the constituent element; of him the one next in land [is] the second, the one with one land between [is] the third.”",
+  "new": "“The first constituent element; of him the one next in land [is] the second, the one with one land between [is] the third.”",
+  "why": "reviewer (error): 'The first [is] the constituent element' makes prakṛti a predicate; Sanskrit is 'the first prakṛti' (prathamā agrees with prakṛtiḥ). Keeping glossary 'constituent element' (this is the 6.2 ari/mitra-prakṛti usage, where Kangle also says constituent)."
+ },
+ {
+  "n": "52",
+  "field": "notes",
+  "old": "prakṛti here refers to the members of the ring of kings, not to the seven constituents of 6.1; glossary 'constituent element' kept. Whether prakṛti means 'constituent' or 'member of the circle' is for the reviewer.",
+  "new": "prakṛti here refers to the members of the ring of kings, not to the seven constituents of 6.1; glossary 'constituent element' kept. Whether prakṛti means 'constituent' or 'member of the circle' is for the reviewer. Reviewer: prathamā agrees with prakṛtiḥ ('the first constituent element'); the glossary term is kept for the members of the circle.",
+  "why": "reviewer (minor): Remove the open question about the glossary term; settled."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "A statement to be refuted is the pūrva-pakṣa (the first side).",
+  "new": "A statement to be rejected is the pūrva-pakṣa (the first side).",
+  "why": "reviewer (minor): pratiṣidh is 'reject' in unit 41 (apratiṣiddham) and Hindi uses निषेध in both; 'refuted' is inconsistent."
+ },
+ {
+  "n": "53",
+  "field": "word.gloss",
+  "word": "pratiṣeddhavyam",
+  "old": "to be refuted",
+  "new": "to be rejected",
+  "why": "reviewer (minor): same as above"
+ },
+ {
+  "n": "61",
+  "field": "notes",
+  "old": "The word-order 'aveṣkaṇam' is read as avekṣaṇam.",
+  "new": "The printed spelling 'aveṣkaṇam' is read as avekṣaṇam.",
+  "why": "reviewer (minor): 'word-order' is wrong: the issue is the printed spelling. Text flag aveṣkaṇam -> avekṣaṇam confirmed (ṣk for kṣ; parallel to unit 59)."
+ },
+ {
+  "n": "63",
+  "field": "hindi",
+  "old": "“ऐसे ही, अन्यथा नहीं” — यह नियोग है।",
+  "new": "“ऐसे, अन्यथा नहीं” — यह नियोग है।",
+  "why": "reviewer (minor): 'ऐसे ही' adds emphasis (ही) not in evam na anyathā."
+ },
+ {
+  "n": "68",
+  "field": "notes",
+  "old": "svayañjāta is rendered literally; its technical sense (a son born of himself / of his own accord) is not given in the line.",
+  "new": "svayañjāta is rendered literally; its technical sense is not given in the line and is not guessed here.",
+  "why": "reviewer (minor): The note asserts a technical sense ('a son born of himself') that the line does not give; unsupported."
+ },
+ {
+  "n": "72",
+  "field": "notes",
+  "old": "pravartayati may be 'promotes'. anartha is rendered 'loss' (opposite of artha, as anarthya in unit 64). The object of pāti is not stated.",
+  "new": "pravartayati may be 'promotes'. anartha is rendered 'loss' (opposite of artha; compare anarthyam 'unprofitable' in unit 64). The object of pāti is not stated.",
+  "why": "reviewer (minor): Inconsistent with unit 64, where anarthyam is rendered 'unprofitable', not 'loss'."
+ },
+ {
+  "n": "73",
+  "field": "hindi",
+  "old": "जिसने अमर्ष से शास्त्र, शस्त्र और नन्द राजा के पास गई पृथ्वी का शीघ्र उद्धार किया, उसी ने यह शास्त्र बनाया।",
+  "new": "जिसने अमर्ष से शास्त्र, शस्त्र और नन्द राजा के पास गई पृथ्वी का शीघ्र उद्धार किया, उसने यह शास्त्र बनाया।",
+  "why": "reviewer (minor): 'उसी ने' adds emphasis (ही); Sanskrit has plain tena."
+ }
+]
