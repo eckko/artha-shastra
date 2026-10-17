@@ -1928,5 +1928,753 @@
   "text_flags": [],
   "notes": "atidurga is rendered literally (\"very strong fort\"); pratiṣṭabdha = propped up / made firm (could also be \"obstinate\"). \"if he is\" and \"him\" are supplied. anyatamena-avagrāhayet is one token.",
   "confidence": "medium"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitreṇa-upagrāhayed",
+      "words": [
+       {
+        "w": "mitreṇa",
+        "gloss": "by an ally",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upagrāhayet",
+        "gloss": "should have supported",
+        "gram": "3 sg. opt. caus. upa-√grah"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na-amitraṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "amitraṃ",
+        "gloss": "enemy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gacchet",
+      "words": [
+       {
+        "w": "gacchet",
+        "gloss": "should go",
+        "gram": "3 sg. opt. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा मित्र के द्वारा सहारा दिलवाए, जिससे वह शत्रु के पास न जाए।",
+  "english": "Or he should have him supported by an ally, so that he does not go to the enemy.",
+  "text_flags": [],
+  "notes": "mitreṇa-upagrāhayed and na-amitram are unsandhied joins in the e-text. \"him\" is the offender of units 22-24. mitra = ally.",
+  "confidence": "high"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "amitrād",
+      "words": [
+       {
+        "w": "amitrāt",
+        "gloss": "from the enemy",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sattrī",
+      "words": [
+       {
+        "w": "sattrī",
+        "gloss": "secret agent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhedayed",
+      "words": [
+       {
+        "w": "bhedayet",
+        "gloss": "should cause to split",
+        "gram": "3 sg. opt. caus. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "enaṃ",
+      "words": [
+       {
+        "w": "enaṃ",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "(dash)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "\"ayaṃ",
+      "words": [
+       {
+        "w": "\"ayaṃ",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "yoga.puruṣaṃ",
+      "words": [
+       {
+        "w": "yoga-puruṣaṃ",
+        "gloss": "secret agent",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "manyamāno",
+      "words": [
+       {
+        "w": "manyamānaḥ",
+        "gloss": "thinking",
+        "gram": "pres. part. mid. √man"
+       }
+      ]
+     },
+     {
+      "src": "bhartary",
+      "words": [
+       {
+        "w": "bhartari",
+        "gloss": "against the master",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikramayiṣyati,",
+      "words": [
+       {
+        "w": "vikramayiṣyati,",
+        "gloss": "will make attack",
+        "gram": "3 sg. fut. caus. vi-√kram"
+       }
+      ]
+     },
+     {
+      "src": "avāpta.artho",
+      "words": [
+       {
+        "w": "avāpta-arthaḥ",
+        "gloss": "having gained his object",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.cāriṇam",
+      "words": [
+       {
+        "w": "daṇḍa-cāriṇam",
+        "gloss": "the one who goes with the army",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitra.āṭavikeṣu",
+      "words": [
+       {
+        "w": "amitra-āṭavikeṣu",
+        "gloss": "among enemies and forest chiefs",
+        "gram": "dvandva, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛcchre",
+      "words": [
+       {
+        "w": "kṛcchre",
+        "gloss": "in hardship",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayāse",
+      "words": [
+       {
+        "w": "prayāse",
+        "gloss": "in toil",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yokṣyati,",
+      "words": [
+       {
+        "w": "yokṣyati,",
+        "gloss": "will engage",
+        "gram": "3 sg. fut. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "viputra.dāram",
+      "words": [
+       {
+        "w": "viputra-dāram",
+        "gloss": "bereft of sons and wife",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ante",
+      "words": [
+       {
+        "w": "ante",
+        "gloss": "at the frontier",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāsayiṣyati",
+      "words": [
+       {
+        "w": "vāsayiṣyati",
+        "gloss": "will make dwell",
+        "gram": "3 sg. fut. caus. √vas"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा शत्रु की ओर से गुप्तचर इसमें फूट डाले — “यह तुम्हें गुप्त पुरुष मानता हुआ स्वामी पर ही आक्रमण कराएगा; अपना प्रयोजन पा लेने पर सेना के साथ चलने वाले को शत्रुओं और आटविकों के बीच कष्ट अथवा परिश्रम में लगाएगा, अथवा पुत्र और स्त्री से रहित सीमा पर बसाएगा।",
+  "english": "Or a secret agent from the enemy should cause dissension in him — “This one, thinking you a secret agent, will make [you] attack your master alone; having gained his object he will engage the one who goes with the army among enemies and forest chiefs in hardship or toil, or will make [him] dwell at the frontier bereft of sons and wife.",
+  "text_flags": [],
+  "notes": "GROUPING: the quotation opened here runs on through units 27 and 28 and closes at \"gaccha\" iti in unit 28 (the e-text closes it there). amitrāt = \"from the enemy\" (the enemy’s side); who \"this one\" (ayam) is, is not stated. daṇḍa-cārin (the person addressed, third person here) rendered \"the one who goes with the army\". \"-\" is the dash printed before the quotation. The object of vāsayiṣyati is supplied.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratihata.vikramaṃ",
+      "words": [
+       {
+        "w": "pratihata-vikramaṃ",
+        "gloss": "whose valour is repulsed",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvāṃ",
+      "words": [
+       {
+        "w": "tvāṃ",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhartary",
+      "words": [
+       {
+        "w": "bhartari",
+        "gloss": "with the master",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṇyaṃ",
+      "words": [
+       {
+        "w": "paṇyaṃ",
+        "gloss": "article of trade",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kariṣyati,",
+      "words": [
+       {
+        "w": "kariṣyati,",
+        "gloss": "will make",
+        "gram": "3 sg. fut. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tvayā",
+      "words": [
+       {
+        "w": "tvayā",
+        "gloss": "with you",
+        "gram": "inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sandhiṃ",
+      "words": [
+       {
+        "w": "sandhiṃ",
+        "gloss": "treaty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having made",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "bhartāram",
+      "words": [
+       {
+        "w": "bhartāram",
+        "gloss": "master",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasādayiṣyati",
+      "words": [
+       {
+        "w": "prasādayiṣyati",
+        "gloss": "will propitiate",
+        "gram": "3 sg. fut. caus. pra-√sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका पराक्रम रोक दिया गया है ऐसे तुम्हें स्वामी के प्रति बेचने की वस्तु बना देगा, अथवा तुम्हारे साथ सन्धि करके स्वामी को ही प्रसन्न कर लेगा,",
+  "english": "will make you, whose valour is repulsed, an article of trade with your master, or, having made a treaty with you, will propitiate the master alone,",
+  "text_flags": [],
+  "notes": "Continues the quotation of unit 26 (the subject is still \"this one\"). paṇya (literally \"article of trade\") — sense \"a bargaining counter with the master\"; rendered literally. bhartari is printed bhartary in the e-text (sandhi before paṇyam without a space; not flagged).",
+  "confidence": "medium"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upakṛṣṭaṃ",
+      "words": [
+       {
+        "w": "upakṛṣṭaṃ",
+        "gloss": "drawn near",
+        "gram": "n. acc. sg. pp. upa-√kṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "vā-asya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaccha\"",
+      "words": [
+       {
+        "w": "gaccha\"",
+        "gloss": "go",
+        "gram": "2 sg. imper. √gam"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा उसके खिंचे हुए मित्र के पास जाओ।”",
+  "english": "or go to his ally, [who is] drawn near.”",
+  "text_flags": [],
+  "notes": "upakṛṣṭa is obscure: literally \"drawn towards\"; alternatives \"near\" or \"remote\" are possible, so the sense of the whole phrase is uncertain. Closes the quotation of units 26-27; the bare iti is not rendered (glossary). The e-text prints mitram upakṛṣṭaṃ vā-asya, whose order is also possible as \"his ally, or the drawn-near one\"; kept literal.",
+  "confidence": "low"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratipannam",
+      "words": [
+       {
+        "w": "pratipannam",
+        "gloss": "the one who has accepted",
+        "gram": "m. acc. sg. pp. prati-√pad"
+       }
+      ]
+     },
+     {
+      "src": "iṣṭa.abhiprāyaiḥ",
+      "words": [
+       {
+        "w": "iṣṭa-abhiprāyaiḥ",
+        "gloss": "with desired aims",
+        "gram": "karmadhāraya, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pūjayet",
+      "words": [
+       {
+        "w": "pūjayet",
+        "gloss": "should honour",
+        "gram": "3 sg. opt. caus. √pūj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वीकार कर लेने वाले को इष्ट अभिप्रायों से सम्मानित करे।",
+  "english": "The one who has accepted he should honour with desired aims.",
+  "text_flags": [],
+  "notes": "pratipanna = the one who has accepted (the offer of unit 26-28, as glossary 13.4). iṣṭa-abhiprāya is rendered literally (\"desired aims/wishes\", i.e. fulfilment of them is probably meant).",
+  "confidence": "medium"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apratipannasya",
+      "words": [
+       {
+        "w": "apratipannasya",
+        "gloss": "of the one who has not accepted",
+        "gram": "m. gen. sg. pp."
+       }
+      ]
+     },
+     {
+      "src": "saṃśrayaṃ",
+      "words": [
+       {
+        "w": "saṃśrayaṃ",
+        "gloss": "refuge",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhedayed",
+      "words": [
+       {
+        "w": "bhedayet",
+        "gloss": "should cause to split",
+        "gram": "3 sg. opt. caus. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "\"asau",
+      "words": [
+       {
+        "w": "\"asau",
+        "gloss": "that man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat./gen. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "yoga.puruṣaḥ",
+      "words": [
+       {
+        "w": "yoga-puruṣaḥ",
+        "gloss": "secret agent",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇihitaḥ\"",
+      "words": [
+       {
+        "w": "praṇihitaḥ\"",
+        "gloss": "planted",
+        "gram": "m. nom. sg. pp. pra-ni-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न स्वीकार करने वाले के आश्रय में फूट डाले — “वह तुम्हारे प्रति लगाया हुआ गुप्त पुरुष है।”",
+  "english": "Of the one who has not accepted he should cause a split in his refuge: “That man is a secret agent planted on you.”",
+  "text_flags": [],
+  "notes": "saṃśraya = refuge / alliance on which he relies; sense of \"split his refuge\" uncertain. te taken as dative/genitive \"to/for you\" (planted upon you). The bare iti is not rendered.",
+  "confidence": "medium"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sattrī",
+      "words": [
+       {
+        "w": "sattrī",
+        "gloss": "secret agent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-enam",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhityakta.śāsanair",
+      "words": [
+       {
+        "w": "abhityakta-śāsanaiḥ",
+        "gloss": "by abandoned orders",
+        "gram": "tat-puruṣa, n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "ghātayet,",
+      "words": [
+       {
+        "w": "ghātayet,",
+        "gloss": "should have killed",
+        "gram": "3 sg. opt. caus. √han"
+       }
+      ]
+     },
+     {
+      "src": "gūḍha.puruṣair",
+      "words": [
+       {
+        "w": "gūḍha-puruṣaiḥ",
+        "gloss": "by secret agents",
+        "gram": "tat-puruṣa, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और गुप्तचर इसे परित्यक्त आदेशों द्वारा मरवाए, अथवा गूढ़ पुरुषों द्वारा।",
+  "english": "And the secret agent should have him killed by abandoned orders, or by secret agents.",
+  "text_flags": [],
+  "notes": "abhityakta-śāsana is obscure (\"abandoned orders\", literal; sense uncertain). sattrin and gūḍha-puruṣa are both \"secret agent\" per the glossary. ca-enam is an unsandhied join.",
+  "confidence": "low"
  }
 ]

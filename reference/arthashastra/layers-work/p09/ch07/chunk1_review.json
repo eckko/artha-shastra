@@ -539,5 +539,5 @@
    "issues": []
   }
  ],
- "summary": "Counts: errors 5 (u6 english, u21 gloss, u21 english, u41 split/truncation, ...) see issues; minor otherwise. Patches applied for u5, u6, u21, u28, u29, u32, u36, u37, u41. No regrouping suggested. Unpatchable: u41 probable truncation saṃśayā for saṃśaya-āpad; u28 para.miśra flag looks wrong (9.6 has para-miśrā as a name); u12, u26, u34 text_flags confirmed (jyāyasā; samantato; laghīyasyā). Glossary: artha=gain, anartha=loss, lābha=acquisition (differs from 9.4 lābha=gain), āpad-artha=gain that is an adversity."
+ "summary": "Issues: 4 error, 21 minor; no regrouping. Patched u5,u6,u21,u28,u29,u32,u36,u37,u41. Not patchable: u41 'saṃśayā' is probably a truncated saṃśaya-āpad; u28 flag para.miśra->para.mitra looks unfounded (9.6 has para-miśrā as a name); flags u12 jyāyasā, u26 samantato, u34 laghīyasyā confirmed; sādh rendered 'overcome' is uncertain (u34,38,42); u15/16/17/13 stay literal and low."
 }
