@@ -1,0 +1,2660 @@
+[
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yena",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vākyaṃ",
+      "words": [
+       {
+        "w": "vākyam",
+        "gloss": "sentence",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samāpyate",
+      "words": [
+       {
+        "w": "samāpyate",
+        "gloss": "is completed",
+        "gram": "3 sg. pass. sam-√āp"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vākya.śeṣaḥ",
+      "words": [
+       {
+        "w": "vākya-śeṣaḥ",
+        "gloss": "remainder of a sentence",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिससे वाक्य पूरा किया जाता है, वह वाक्यशेष है।",
+  "english": "That by which a sentence is completed is the remainder of the sentence (vākya-śeṣa).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"chinna.pakṣasya-iva",
+      "words": [
+       {
+        "w": "chinna-pakṣasya",
+        "gloss": "of one whose wings are cut",
+        "gram": "bahuvrīhi, m. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājñaś",
+      "words": [
+       {
+        "w": "rājñaḥ",
+        "gloss": "of the king",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceṣṭā.nāśaś",
+      "words": [
+       {
+        "w": "ceṣṭā-nāśaḥ",
+        "gloss": "loss of movement",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca\"",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“कटे पंखों वाले के समान, और राजा की चेष्टा का नाश।”",
+  "english": "“Like one whose wings are cut, and the king's loss of movement.”",
+  "text_flags": [],
+  "notes": "The quotation is incomplete; the next unit says the missing word is śakuneḥ ('of a bird'). Hindi/English supply nothing beyond the quoted words.",
+  "confidence": "high"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"śakuneḥ\"",
+      "words": [
+       {
+        "w": "śakuneḥ",
+        "gloss": "of a bird",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vākya.śeṣaḥ",
+      "words": [
+       {
+        "w": "vākya-śeṣaḥ",
+        "gloss": "remainder of a sentence",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ “पक्षी का” यह वाक्यशेष है।",
+  "english": "There “of a bird” is the remainder of the sentence.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "para.vākyam",
+      "words": [
+       {
+        "w": "para-vākyam",
+        "gloss": "another's statement",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "apratiṣiddham",
+      "words": [
+       {
+        "w": "apratiṣiddham",
+        "gloss": "not rejected",
+        "gram": "n. nom. sg. p.p.p. a-prati-√sidh"
+       }
+      ]
+     },
+     {
+      "src": "anumatam",
+      "words": [
+       {
+        "w": "anumatam",
+        "gloss": "approved",
+        "gram": "n. nom. sg. p.p.p. anu-√man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे का वाक्य, जिसका निषेध नहीं किया गया, अनुमत है।",
+  "english": "Another's statement that is not rejected is approved (anumata).",
+  "text_flags": [],
+  "notes": "para may also be 'the opponent's'; rendered literally as 'another's'.",
+  "confidence": "high"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"pakṣāv",
+      "words": [
+       {
+        "w": "pakṣau",
+        "gloss": "two wings",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "urasyaṃ",
+      "words": [
+       {
+        "w": "urasyam",
+        "gloss": "centre",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratigraha",
+      "words": [
+       {
+        "w": "pratigrahaḥ",
+        "gloss": "reserve",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "auśanaso",
+      "words": [
+       {
+        "w": "auśanasaḥ",
+        "gloss": "of the school of Usanas",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyūha.vibhāgaḥ\"",
+      "words": [
+       {
+        "w": "vyūha-vibhāgaḥ",
+        "gloss": "division of the array",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“दो पक्ष, उरस्य, प्रतिग्रह — यह औशनस मत का व्यूह-विभाग है।”",
+  "english": "“Two wings, the centre, the reserve: thus [is] the division of the array of the school of Usanas.”",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atiśaya.varṇanā",
+      "words": [
+       {
+        "w": "atiśaya-varṇanā",
+        "gloss": "description of the excess",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyānam",
+      "words": [
+       {
+        "w": "vyākhyānam",
+        "gloss": "explanation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अतिशय का वर्णन व्याख्यान है।",
+  "english": "Description of the excess (atiśaya) is explanation (vyākhyāna).",
+  "text_flags": [],
+  "notes": "atiśaya is rendered literally as 'excess'; the sense may be 'detailed/further description' or 'description of the special point'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"viśeṣataś",
+      "words": [
+       {
+        "w": "viśeṣataḥ",
+        "gloss": "especially",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṅghānāṃ",
+      "words": [
+       {
+        "w": "saṅghānām",
+        "gloss": "of the saṅghas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṅgha.dharmiṇāṃ",
+      "words": [
+       {
+        "w": "saṅgha-dharmiṇām",
+        "gloss": "of those following the dharma of a saṅgha",
+        "gram": "bahuvrīhi, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rāja.kulānāṃ",
+      "words": [
+       {
+        "w": "rāja-kulānām",
+        "gloss": "of royal houses",
+        "gram": "tat-puruṣa, n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dyūta.nimitto",
+      "words": [
+       {
+        "w": "dyūta-nimittaḥ",
+        "gloss": "caused by gambling",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhedas",
+      "words": [
+       {
+        "w": "bhedaḥ",
+        "gloss": "dissension",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tan.nimitto",
+      "words": [
+       {
+        "w": "tad-nimittaḥ",
+        "gloss": "caused by that",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vināśa",
+      "words": [
+       {
+        "w": "vināśaḥ",
+        "gloss": "destruction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "asat.pragrahaḥ",
+      "words": [
+       {
+        "w": "asat-pragrahaḥ",
+        "gloss": "favouring of the bad",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāpiṣṭhatamo",
+      "words": [
+       {
+        "w": "pāpiṣṭhatamaḥ",
+        "gloss": "worst",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyasanānāṃ",
+      "words": [
+       {
+        "w": "vyasanānām",
+        "gloss": "of the vices",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tantra.daurbalyāt\"",
+      "words": [
+       {
+        "w": "tantra-daurbalyāt",
+        "gloss": "from weakness of the administration",
+        "gram": "tat-puruṣa, abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“और विशेष रूप से संघों का, संघ-धर्म वालों का और राजकुलों का जुए के कारण भेद और उसके कारण विनाश — इस प्रकार शासन की दुर्बलता के कारण असत् का प्रग्रह व्यसनों में सबसे अधिक पापिष्ठ है।”",
+  "english": "“And especially of saṅghas, of those following the dharma of a saṅgha, and of royal houses, [there is] dissension caused by gambling, [and] destruction caused by that; thus favouring of the bad is the worst of the vices (vyasana), owing to weakness of the administration.”",
+  "text_flags": [],
+  "notes": "vyasana here = vice (the king's own), not calamity of a constituent element. saṅgha-dharmin is rendered literally; it may mean 'having the constitution of a saṅgha'. asat-pragraha follows the glossary ('favouring of the bad'); 'association with the bad' is possible. The genitives are rendered literally ('of saṅghas ...').",
+  "confidence": "medium"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "guṇataḥ",
+      "words": [
+       {
+        "w": "guṇataḥ",
+        "gloss": "from quality",
+        "gram": "ind. (abl. suffix)"
+       }
+      ]
+     },
+     {
+      "src": "śabda.niṣpattir",
+      "words": [
+       {
+        "w": "śabda-niṣpattiḥ",
+        "gloss": "derivation of a word",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirvacanam",
+      "words": [
+       {
+        "w": "nirvacanam",
+        "gloss": "etymology",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुण से शब्द की निष्पत्ति निर्वचन है।",
+  "english": "Derivation of a word from quality is etymology (nirvacana).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"vyasyaty",
+      "words": [
+       {
+        "w": "vyasyati",
+        "gloss": "throws away",
+        "gram": "3 sg. pres. vi-√as"
+       }
+      ]
+     },
+     {
+      "src": "enaṃ",
+      "words": [
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyasa",
+      "words": [
+       {
+        "w": "śreyasaḥ",
+        "gloss": "from the better",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyasanam\"",
+      "words": [
+       {
+        "w": "vyasanam",
+        "gloss": "vyasana",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“यह इसे श्रेय से दूर फेंकता है — इस प्रकार व्यसन।”",
+  "english": "“It throws him away from the better; thus [it is] vyasana.”",
+  "text_flags": [],
+  "notes": "An etymology of vyasana (vi-√as). Rendered 'from the better' for śreyas; 'from the good/welfare' is the alternative.",
+  "confidence": "high"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dṛṣṭa.anto",
+      "words": [
+       {
+        "w": "dṛṣṭa-antaḥ",
+        "gloss": "example (lit. seen end)",
+        "gram": "karmadhāraya, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭa.anta.yukto",
+      "words": [
+       {
+        "w": "dṛṣṭa-anta-yuktaḥ",
+        "gloss": "joined with an example",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nidarśanam",
+      "words": [
+       {
+        "w": "nidarśanam",
+        "gloss": "illustration",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दृष्टान्त, दृष्टान्त से युक्त, निदर्शन है।",
+  "english": "An example, one joined with an example, is illustration (nidarśana).",
+  "text_flags": [],
+  "notes": "The relation of the three words is not certain (the second may mean 'accompanied by its application'). Rendered literally.",
+  "confidence": "medium"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"vigṛhīto",
+      "words": [
+       {
+        "w": "vigṛhītaḥ",
+        "gloss": "at war, attacked",
+        "gram": "p.p.p. m. nom. sg. vi-√grah"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jyāyasā",
+      "words": [
+       {
+        "w": "jyāyasā",
+        "gloss": "by a greater one",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hastinā",
+      "words": [
+       {
+        "w": "hastinā",
+        "gloss": "with an elephant",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāda.yuddham",
+      "words": [
+       {
+        "w": "pāda-yuddham",
+        "gloss": "fight on foot",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "iva.abhyupaiti\"",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyupaiti",
+        "gloss": "enters upon",
+        "gram": "3 sg. pres. abhi-upa-√i"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“क्योंकि बड़े से विग्रह में पड़ा हुआ मानो हाथी के साथ पैदल युद्ध को अपनाता है।”",
+  "english": "“For one who is at war with a greater one takes on, as it were, a fight on foot with an elephant.”",
+  "text_flags": [],
+  "notes": "jyāyas = greater (stronger, older); 'greater' kept. The e-text writes 'iva.abhyupaiti' with a dot though iva + abhyupaiti is two words. hastinā is taken with pāda-yuddham ('fight on foot with an elephant').",
+  "confidence": "medium"
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "abhipluta.vyapakarṣaṇam",
+      "words": [
+       {
+        "w": "abhipluta-vyapakarṣaṇam",
+        "gloss": "drawing away of the overrun",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "apavargaḥ",
+      "words": [
+       {
+        "w": "apavargaḥ",
+        "gloss": "apavarga",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आक्रान्त को अलग खींच लेना अपवर्ग है।",
+  "english": "Drawing away of what has been overrun is apavarga.",
+  "text_flags": [],
+  "notes": "abhipluta = overrun, overwhelmed (p.p.p. abhi-√plu); vyapakarṣaṇa = drawing away. The technical sense is not certain; apavarga is left untranslated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"nityam",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "āsannam",
+      "words": [
+       {
+        "w": "āsannam",
+        "gloss": "near",
+        "gram": "n. acc. sg. p.p.p. ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "ari.balaṃ",
+      "words": [
+       {
+        "w": "ari-balam",
+        "gloss": "enemy's army",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsayed",
+      "words": [
+       {
+        "w": "vāsayet",
+        "gloss": "should settle",
+        "gram": "3 sg. opt. caus. √vas"
+       }
+      ]
+     },
+     {
+      "src": "anyatra-abhyantara.kopa.śaṅkāyāḥ\"",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       },
+       {
+        "w": "abhyantara-kopa-śaṅkāyāḥ",
+        "gloss": "from suspicion of internal revolt",
+        "gram": "tat-puruṣa, f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“पास की शत्रु-सेना को सदा बसाए, सिवाय भीतरी कोप की आशंका के।”",
+  "english": "“One should always settle the near army of the enemy, except for suspicion of internal revolt.”",
+  "text_flags": [],
+  "notes": "vāsayet = causes to dwell; the object and purpose are not stated. anyatra + ablative = 'except (for)'. kopa = revolt as in glossary 8.2.",
+  "confidence": "medium"
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parair",
+      "words": [
+       {
+        "w": "paraiḥ",
+        "gloss": "by others",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "asamitaḥ",
+      "words": [
+       {
+        "w": "asamitaḥ",
+        "gloss": "not agreed",
+        "gram": "m. nom. sg. p.p.p. a-sam-√i"
+       }
+      ]
+     },
+     {
+      "src": "śabdaḥ",
+      "words": [
+       {
+        "w": "śabdaḥ",
+        "gloss": "word",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.sañjñā",
+      "words": [
+       {
+        "w": "sva-sañjñā",
+        "gloss": "own designation",
+        "gram": "karmadhāraya, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरों द्वारा स्वीकार न किया गया शब्द अपनी संज्ञा है।",
+  "english": "A word not agreed by others is an own designation (sva-sañjñā).",
+  "text_flags": [],
+  "notes": "asamita is obscure: 'not agreed upon / not shared / not used by others'. A misprint for asaṃmita ('not approved') is possible. Rendered literally.",
+  "confidence": "medium"
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"prathamā",
+      "words": [
+       {
+        "w": "prathamā",
+        "gloss": "first",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtiḥ,",
+      "words": [
+       {
+        "w": "prakṛtiḥ",
+        "gloss": "constituent element",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmy.anantarā",
+      "words": [
+       {
+        "w": "bhūmi-anantarā",
+        "gloss": "next in land",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvitīyā,",
+      "words": [
+       {
+        "w": "dvitīyā",
+        "gloss": "second",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmy.eka.antarā",
+      "words": [
+       {
+        "w": "bhūmi-eka-antarā",
+        "gloss": "with one land between",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛtīyā\"",
+      "words": [
+       {
+        "w": "tṛtīyā",
+        "gloss": "third",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“पहली प्रकृति; उसकी भूमि के अनुसार अनन्तर दूसरी, एक भूमि के अन्तर वाली तीसरी।”",
+  "english": "“The first [is] the constituent element; of him the one next in land [is] the second, the one with one land between [is] the third.”",
+  "text_flags": [],
+  "notes": "prakṛti here refers to the members of the ring of kings, not to the seven constituents of 6.1; glossary 'constituent element' kept. Whether prakṛti means 'constituent' or 'member of the circle' is for the reviewer.",
+  "confidence": "medium"
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratiṣeddhavyaṃ",
+      "words": [
+       {
+        "w": "pratiṣeddhavyam",
+        "gloss": "to be refuted",
+        "gram": "n. nom. sg. gerundive prati-√sidh"
+       }
+      ]
+     },
+     {
+      "src": "vākyaṃ",
+      "words": [
+       {
+        "w": "vākyam",
+        "gloss": "statement",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrva.pakṣaḥ",
+      "words": [
+       {
+        "w": "pūrva-pakṣaḥ",
+        "gloss": "first side",
+        "gram": "karmadhāraya, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस वाक्य का निषेध किया जाना है, वह पूर्वपक्ष है।",
+  "english": "A statement to be refuted is the pūrva-pakṣa (the first side).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "54",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"svāmy.amātya.vyasanayor",
+      "words": [
+       {
+        "w": "svāmi-amātya-vyasanayoḥ",
+        "gloss": "of the calamities of the king and the minister",
+        "gram": "dvandva in tat-puruṣa, n. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "amātya.vyasanaṃ",
+      "words": [
+       {
+        "w": "amātya-vyasanam",
+        "gloss": "calamity of the minister",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garīyaḥ\"",
+      "words": [
+       {
+        "w": "garīyaḥ",
+        "gloss": "more serious",
+        "gram": "n. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“राजा और अमात्य के व्यसनों में अमात्य का व्यसन अधिक गम्भीर है।”",
+  "english": "“Of the calamities of the king and the minister, the calamity of the minister is more serious.”",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "55",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirṇayana.vākyam",
+      "words": [
+       {
+        "w": "nirṇayana-vākyam",
+        "gloss": "statement of decision",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uttara.pakṣaḥ",
+      "words": [
+       {
+        "w": "uttara-pakṣaḥ",
+        "gloss": "later side",
+        "gram": "karmadhāraya, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका निर्णय करने वाला वाक्य उत्तरपक्ष है।",
+  "english": "The statement deciding that is the uttara-pakṣa (the later side).",
+  "text_flags": [],
+  "notes": "uttara may also be 'reply'; rendered literally as 'later'.",
+  "confidence": "high"
+ },
+ {
+  "n": "56",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tad.āyattatvāt,",
+      "words": [
+       {
+        "w": "tad-āyattatvāt",
+        "gloss": "because of dependence on that",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "tat.kūṭa.sthānīyo",
+      "words": [
+       {
+        "w": "tat-kūṭa-sthānīyaḥ",
+        "gloss": "standing in the place of the peak of that",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svāmī\"",
+      "words": [
+       {
+        "w": "svāmī",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“उस पर निर्भर होने के कारण; क्योंकि राजा उसके शिखर के स्थान पर है।”",
+  "english": "“Because of dependence on that; for the king stands in the place of the peak of that.”",
+  "text_flags": [],
+  "notes": "'that' (tad) is not named in the unit; it refers back to the minister of the preceding quotation. kūṭa = peak/top; 'heap' or 'chief part' are alternatives.",
+  "confidence": "medium"
+ },
+ {
+  "n": "57",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvatra.āyattam",
+      "words": [
+       {
+        "w": "sarvatra",
+        "gloss": "everywhere",
+        "gram": "ind."
+       },
+       {
+        "w": "āyattam",
+        "gloss": "dependent",
+        "gram": "n. nom. sg. p.p.p. ā-√yat"
+       }
+      ]
+     },
+     {
+      "src": "eka.antaḥ",
+      "words": [
+       {
+        "w": "eka-antaḥ",
+        "gloss": "one-ended (ekānta)",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो सर्वत्र आश्रित है, वह एकान्त है।",
+  "english": "[That which is] dependent everywhere is ekānta (lit. 'one-ended').",
+  "text_flags": [],
+  "notes": "The sense of āyatta ('dependent / holding good') and of ekānta ('exclusive, absolute') in this definition is uncertain; rendered literally. Hindi supplies the relative 'jo/vah' for the missing subject.",
+  "confidence": "medium"
+ },
+ {
+  "n": "58",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tasmād",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "utthānam",
+      "words": [
+       {
+        "w": "utthānam",
+        "gloss": "exertion",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ātmanaḥ",
+      "words": [
+       {
+        "w": "ātmanaḥ",
+        "gloss": "of oneself",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kurvīta\"",
+      "words": [
+       {
+        "w": "kurvīta",
+        "gloss": "should make",
+        "gram": "3 sg. opt. ātmanepada √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“इसलिए अपना उद्योग करे।”",
+  "english": "“Therefore one should make one's own exertion.”",
+  "text_flags": [],
+  "notes": "utthāna = rising, exertion; 'exertion' chosen. The subject of kurvīta is not stated.",
+  "confidence": "high"
+ },
+ {
+  "n": "59",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paścād",
+      "words": [
+       {
+        "w": "paścāt",
+        "gloss": "afterwards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vihitam",
+      "words": [
+       {
+        "w": "vihitam",
+        "gloss": "laid down",
+        "gram": "n. nom. sg. p.p.p. vi-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anāgata.avekṣaṇam",
+      "words": [
+       {
+        "w": "anāgata-avekṣaṇam",
+        "gloss": "looking to what has not yet come",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“बाद में ऐसा विहित है” — यह अनागत का अवलोकन है।",
+  "english": "“Afterwards it is thus laid down”: [this is] looking to what has not yet come (anāgata-avekṣaṇa).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "60",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tulā.pratimānaṃ",
+      "words": [
+       {
+        "w": "tulā-pratimānam",
+        "gloss": "balance and weights",
+        "gram": "dvandva, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pautava.adhyakṣe",
+      "words": [
+       {
+        "w": "pautava-adhyakṣe",
+        "gloss": "in the pautava superintendent",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vakṣyāmaḥ\"",
+      "words": [
+       {
+        "w": "vakṣyāmaḥ",
+        "gloss": "we shall state",
+        "gram": "1 pl. fut. √vac"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“तुला और प्रतिमान को पौतव-अध्यक्ष के विषय में कहेंगे।”",
+  "english": "“We shall state balance and weights in [the section on] the pautava superintendent.”",
+  "text_flags": [],
+  "notes": "pautava is left untranslated (traditionally a department of weights and measures, but the line does not say so). The locative is rendered with a bracketed supply in English.",
+  "confidence": "medium"
+ },
+ {
+  "n": "61",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "purastād",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "before",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vihitam",
+      "words": [
+       {
+        "w": "vihitam",
+        "gloss": "laid down",
+        "gram": "n. nom. sg. p.p.p. vi-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "atikrānta.aveṣkaṇam",
+      "words": [
+       {
+        "w": "atikrānta-avekṣaṇam",
+        "gloss": "looking to what has gone by",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“पहले ऐसा विहित है” — यह अतीत का अवलोकन है।",
+  "english": "“Before, it is thus laid down”: [this is] looking to what has gone by (atikrānta-avekṣaṇa).",
+  "text_flags": [
+   {
+    "src": "atikrānta.aveṣkaṇam",
+    "suggest": "atikrānta.avekṣaṇam",
+    "why": "possible typo: ṣk for kṣ; compare anāgata.avekṣaṇam in unit 59 and the sense 'looking'"
+   }
+  ],
+  "notes": "The word-order 'aveṣkaṇam' is read as avekṣaṇam.",
+  "confidence": "high"
+ },
+ {
+  "n": "62",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"amātya.sampad",
+      "words": [
+       {
+        "w": "amātya-sampad",
+        "gloss": "excellence of the minister",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uktā",
+      "words": [
+       {
+        "w": "uktā",
+        "gloss": "stated",
+        "gram": "f. nom. sg. p.p.p. √vac"
+       }
+      ]
+     },
+     {
+      "src": "purastāt\"",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "before",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“अमात्य की सम्पत् पहले कही जा चुकी है।”",
+  "english": "“The excellence of the minister has been stated before.”",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "63",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na-anyathā-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niyogaḥ",
+      "words": [
+       {
+        "w": "niyogaḥ",
+        "gloss": "command",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“ऐसे ही, अन्यथा नहीं” — यह नियोग है।",
+  "english": "“Thus, not otherwise”: this [is] niyoga (command).",
+  "text_flags": [],
+  "notes": "niyoga = binding command / appointment; kept as a term.",
+  "confidence": "high"
+ },
+ {
+  "n": "64",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tasmād",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dharmyam",
+      "words": [
+       {
+        "w": "dharmyam",
+        "gloss": "in accordance with dharma",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "arthyaṃ",
+      "words": [
+       {
+        "w": "arthyam",
+        "gloss": "profitable",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya-upadiśet,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "to him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upadiśet",
+        "gloss": "should advise",
+        "gram": "3 sg. opt. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "na-adharmyam",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "adharmyam",
+        "gloss": "contrary to dharma",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anarthaym",
+      "words": [
+       {
+        "w": "anarthyam",
+        "gloss": "unprofitable",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca\"",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“इसलिए इसे धर्म्य और अर्थ्य का उपदेश दे, अधर्म्य और अनर्थ्य का नहीं।”",
+  "english": "“Therefore one should advise him [what is] in accordance with dharma and profitable, and not [what is] contrary to dharma and unprofitable.”",
+  "text_flags": [
+   {
+    "src": "anarthaym",
+    "suggest": "anarthyam",
+    "why": "typo: letters ay transposed; parallel to arthyam earlier in the line"
+   }
+  ],
+  "notes": "asya is taken as 'to him' (dative sense of the genitive); the subject of upadiśet is not stated.",
+  "confidence": "high"
+ },
+ {
+  "n": "65",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anena",
+      "words": [
+       {
+        "w": "anena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-anena",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-iti",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikalpaḥ",
+      "words": [
+       {
+        "w": "vikalpaḥ",
+        "gloss": "option",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“इससे या इससे” — यह विकल्प है।",
+  "english": "“By this or by this”: [this is] option (vikalpa).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "66",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"duhitaro",
+      "words": [
+       {
+        "w": "duhitaraḥ",
+        "gloss": "daughters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dharmiṣṭheṣu",
+      "words": [
+       {
+        "w": "dharmiṣṭheṣu",
+        "gloss": "most righteous",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vivāheṣu",
+      "words": [
+       {
+        "w": "vivāheṣu",
+        "gloss": "in marriages",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jātāḥ\"",
+      "words": [
+       {
+        "w": "jātāḥ",
+        "gloss": "born",
+        "gram": "f. nom. pl. p.p.p. √jan"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“अथवा सबसे धर्मिष्ठ विवाहों में उत्पन्न पुत्रियाँ।”",
+  "english": "“Or daughters born in the most righteous marriages.”",
+  "text_flags": [],
+  "notes": "A fragment of a longer quotation.",
+  "confidence": "high"
+ },
+ {
+  "n": "67",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anena",
+      "words": [
+       {
+        "w": "anena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-anena",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anena",
+        "gloss": "by this",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-iti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samuccayaḥ",
+      "words": [
+       {
+        "w": "samuccayaḥ",
+        "gloss": "combination",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“इससे और इससे” — यह समुच्चय है।",
+  "english": "“By this and by this”: [this is] combination (samuccaya).",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "68",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"svayañjātaḥ",
+      "words": [
+       {
+        "w": "svayam-jātaḥ",
+        "gloss": "self-born",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pitur",
+      "words": [
+       {
+        "w": "pituḥ",
+        "gloss": "of the father",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bandhūnāṃ",
+      "words": [
+       {
+        "w": "bandhūnām",
+        "gloss": "of the kinsmen",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dāyādaḥ\"",
+      "words": [
+       {
+        "w": "dāyādaḥ",
+        "gloss": "heir",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“स्वयंजात पिता का और बन्धुओं का दायाद है।”",
+  "english": "“The self-born is heir of the father and of the kinsmen.”",
+  "text_flags": [],
+  "notes": "svayañjāta is rendered literally; its technical sense (a son born of himself / of his own accord) is not given in the line.",
+  "confidence": "medium"
+ },
+ {
+  "n": "69",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anukta.karaṇam",
+      "words": [
+       {
+        "w": "anukta-karaṇam",
+        "gloss": "doing of what is unsaid",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ūhyam",
+      "words": [
+       {
+        "w": "ūhyam",
+        "gloss": "to be inferred (ūhya)",
+        "gram": "n. nom. sg. gerundive ūh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न कहे हुए का करना ऊह्य है।",
+  "english": "The doing of what is unsaid is ūhya (to be inferred).",
+  "text_flags": [],
+  "notes": "ūhya may be the name of the device or the gerundive 'to be inferred'; both are kept.",
+  "confidence": "medium"
+ },
+ {
+  "n": "70",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dātā",
+      "words": [
+       {
+        "w": "dātā",
+        "gloss": "giver",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratigrahītā",
+      "words": [
+       {
+        "w": "pratigrahītā",
+        "gloss": "receiver",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na-upahatau",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "upahatau",
+        "gloss": "harmed",
+        "gram": "m. nom. du. p.p.p. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "syātāṃ",
+      "words": [
+       {
+        "w": "syātām",
+        "gloss": "may be",
+        "gram": "3 du. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "tathā-anuśayaṃ",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "anuśayam",
+        "gloss": "anuśaya",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuśalāḥ",
+      "words": [
+       {
+        "w": "kuśalāḥ",
+        "gloss": "skilled men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kalpayeyuḥ\"",
+      "words": [
+       {
+        "w": "kalpayeyuḥ",
+        "gloss": "should arrange",
+        "gram": "3 pl. opt. caus. √kḷp"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“जिस प्रकार दाता और प्रतिग्रहीता की हानि न हो, उसी प्रकार कुशल लोग अनुशय की व्यवस्था करें।”",
+  "english": "“In such a way that the giver and the receiver may not be harmed, so should the skilled arrange the anuśaya.”",
+  "text_flags": [],
+  "notes": "anuśaya is kept untranslated: it may mean 'regret/remorse' or the revocation of a transaction. kalpayeyuḥ rendered 'arrange'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "71",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śāstram",
+      "words": [
+       {
+        "w": "śāstram",
+        "gloss": "treatise",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "idaṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktam",
+      "words": [
+       {
+        "w": "yuktam",
+        "gloss": "furnished",
+        "gram": "n. nom. sg. p.p.p. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "etābhis",
+      "words": [
+       {
+        "w": "etābhiḥ",
+        "gloss": "with these",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "tantra.yuktibhiḥ",
+      "words": [
+       {
+        "w": "tantra-yuktibhiḥ",
+        "gloss": "with the tantra-yuktis (methods of the treatise)",
+        "gram": "tat-puruṣa, f. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "avāptau",
+      "words": [
+       {
+        "w": "avāptau",
+        "gloss": "in the acquisition",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pālane",
+      "words": [
+       {
+        "w": "pālane",
+        "gloss": "in the protection",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-uktaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uktam",
+        "gloss": "stated",
+        "gram": "n. nom. sg. p.p.p. √vac"
+       }
+      ]
+     },
+     {
+      "src": "lokasya-asya",
+      "words": [
+       {
+        "w": "lokasya",
+        "gloss": "of the world",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the other",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार यह शास्त्र इन तन्त्रयुक्तियों से युक्त है; इस लोक और परलोक की प्राप्ति और रक्षा के लिए कहा गया है।",
+  "english": "Thus this treatise, furnished with these tantra-yuktis (methods of the treatise), has been stated for the acquisition and the protection of this world and the other.",
+  "text_flags": [],
+  "notes": "tantra here is 'treatise/system', not 'administration' as in the glossary for 8.3. 'for' renders the locatives avāptau pālane. parasya is taken as 'of the other [world]'.",
+  "confidence": "high"
+ },
+ {
+  "n": "72",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dharmam",
+      "words": [
+       {
+        "w": "dharmam",
+        "gloss": "dharma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "arthaṃ",
+      "words": [
+       {
+        "w": "artham",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāmaṃ",
+      "words": [
+       {
+        "w": "kāmam",
+        "gloss": "desire",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravartayati",
+      "words": [
+       {
+        "w": "pravartayati",
+        "gloss": "sets in motion",
+        "gram": "3 sg. pres. caus. pra-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "pāti",
+      "words": [
+       {
+        "w": "pāti",
+        "gloss": "protects",
+        "gram": "3 sg. pres. √pā"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "adharma.anartha.vidveṣān",
+      "words": [
+       {
+        "w": "adharma-anartha-vidveṣān",
+        "gloss": "unrighteousness, loss and hatred",
+        "gram": "dvandva, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "idaṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāstraṃ",
+      "words": [
+       {
+        "w": "śāstram",
+        "gloss": "treatise",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nihanti",
+      "words": [
+       {
+        "w": "nihanti",
+        "gloss": "destroys",
+        "gram": "3 sg. pres. ni-√han"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह शास्त्र धर्म, अर्थ और काम को प्रवृत्त करता है और रक्षा करता है; और अधर्म, अनर्थ और विद्वेष का नाश करता है।",
+  "english": "This treatise sets in motion dharma, wealth and desire, and protects [them]; and it destroys unrighteousness, loss and hatred.",
+  "text_flags": [],
+  "notes": "pravartayati may be 'promotes'. anartha is rendered 'loss' (opposite of artha, as anarthya in unit 64). The object of pāti is not stated.",
+  "confidence": "high"
+ },
+ {
+  "n": "73",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yena",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by whom",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāstraṃ",
+      "words": [
+       {
+        "w": "śāstram",
+        "gloss": "śāstra",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śastraṃ",
+      "words": [
+       {
+        "w": "śastram",
+        "gloss": "weapon",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nanda.rāja.gatā",
+      "words": [
+       {
+        "w": "nanda-rāja-gatā",
+        "gloss": "gone to the Nanda king",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūḥ",
+      "words": [
+       {
+        "w": "bhūḥ",
+        "gloss": "earth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "amarṣeṇa-uddhṛtāny",
+      "words": [
+       {
+        "w": "amarṣeṇa",
+        "gloss": "through indignation",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "uddhṛtāni",
+        "gloss": "rescued",
+        "gram": "n. nom. pl. p.p.p. ud-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "āśu",
+      "words": [
+       {
+        "w": "āśu",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by him",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāstram",
+      "words": [
+       {
+        "w": "śāstram",
+        "gloss": "treatise",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "idaṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtam",
+      "words": [
+       {
+        "w": "kṛtam",
+        "gloss": "made",
+        "gram": "n. nom. sg. p.p.p. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने अमर्ष से शास्त्र, शस्त्र और नन्द राजा के पास गई पृथ्वी का शीघ्र उद्धार किया, उसी ने यह शास्त्र बनाया।",
+  "english": "By whom the śāstra, the weapon and the earth that had gone to the Nanda king were quickly rescued through indignation, by him this treatise was made.",
+  "text_flags": [],
+  "notes": "The person is not named in the unit. The first śāstra (learning) is kept as 'śāstra' to keep it apart from 'this treatise'.",
+  "confidence": "high"
+ }
+]
