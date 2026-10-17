@@ -1,0 +1,320 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "शिरीष, उदुम्बर और शमी का चूर्ण घी के साथ मिलाकर तैयार किया हुआ आधे मास का क्षुद्-योग।",
+  "new": "शिरीष, उदुम्बर और शमी का चूर्ण घी के साथ मिलाकर: आधे मास का क्षुद्-योग।",
+  "why": "reviewer (minor): Hindi adds 'prepared' (तैयार किया हुआ) which is not in the Sanskrit; saṃhṛtya is only 'having combined'."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Powder of śirīṣa, udumbara and śamī, having been combined with ghee: the half-month hunger preparation.",
+  "new": "Having combined powder of śirīṣa, udumbara and śamī with ghee: the half-month hunger preparation.",
+  "why": "reviewer (minor): Absolutive saṃhṛtya is active 'having combined'; the passive 'having been combined' does not match the gloss."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "उड़द, जौ, कुलत्थ और दर्भ की जड़ों का चूर्ण दूध और घी के साथ, या बेल, दूध और घी समान भाग में पकाया हुआ, या साल और पृश्निपर्णी की जड़ों की कल्क को दूध के साथ पीकर, या उससे पकाया हुआ दूध शहद और घी के साथ खाकर, वह एक मास तक उपवास करता है।",
+  "new": "उड़द, जौ, कुलत्थ और दर्भ की जड़ों का चूर्ण दूध और घी के साथ, या लता, दूध और घी समान भाग में पकाया हुआ, या साल और पृश्निपर्णी की जड़ों की कल्क को दूध के साथ पीकर, या उससे पकाया हुआ दूध शहद और घी के साथ खाकर, वह एक मास तक उपवास करता है।",
+  "why": "reviewer (minor): बेल is ambiguous in Hindi (the bael tree/fruit, bilva); vallī is 'creeper'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "उड़द, जौ, कुलत्थ और दर्भ की जड़ों का चूर्ण दूध और घी के साथ, या लता, दूध और घी समान भाग में पकाया हुआ, या साल और पृश्निपर्णी की जड़ों की कल्क को दूध के साथ पीकर, या उससे पकाया हुआ दूध शहद और घी के साथ खाकर, वह एक मास तक उपवास करता है।",
+  "new": "उड़द, जौ, कुलत्थ और दर्भ की जड़ों का चूर्ण दूध और घी के साथ, या लता, दूध और घी समान भाग में पकाया हुआ, या साल और पृश्निपर्णी की जड़ों के कल्क को दूध के साथ पीकर, या उससे पकाया हुआ दूध शहद और घी के साथ खाकर, वह एक मास तक उपवास करता है।",
+  "why": "reviewer (minor): कल्क is masculine in Hindi."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "kaṭuka-ālābau",
+  "old": "cpd. m. loc. sg.",
+  "new": "cpd. f. loc. sg.",
+  "why": "reviewer (minor): ālābu/alābu is feminine (or neuter), not masculine."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "sapta-rātrāt",
+  "old": "cpd. f. abl. sg.",
+  "new": "cpd. m./n. abl. sg.",
+  "why": "reviewer (minor): Labelled f.; a compound in -rātra is masculine/neuter (ablative -āt)."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "takra-yava-bhakṣasya",
+  "old": "cpd. m. gen. sg.",
+  "new": "cpd. bahuvrīhi m. gen. sg.",
+  "why": "reviewer (minor): A bahuvrīhi (qualifying gardabhasya) is not marked as such."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "kaṭuka-ālābau",
+  "old": "cpd. m. loc. sg.",
+  "new": "cpd. f. loc. sg.",
+  "why": "reviewer (minor): ālābu/alābu is feminine (or neuter), not masculine."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "जिसके अंग गोबर से या तिन्दुक और अरिष्ट की कल्क से मले गए हों और भल्लातक के रस से लेप किए गए हों, उसके लिए मासिक कुष्ठ-योग।",
+  "new": "जिसके अंग गोबर से या तिन्दुक और अरिष्ट के कल्क से मले गए हों और भल्लातक के रस से लेप किए गए हों, उसके लिए मासिक कुष्ठ-योग।",
+  "why": "reviewer (minor): कल्क is masculine in Hindi."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Anointing with the bile and egg-juice of a parrot: a kuṣṭha preparation.",
+  "new": "Anointing with parrot's bile and egg-juice: a kuṣṭha preparation.",
+  "why": "reviewer (minor): 'of a parrot' is made to govern both bile and egg; the compound śuka-pitta-aṇḍa-rasa does not decide this (the note admits it)."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "कुष्ठ का प्रतीकार प्रियाल की कल्क का काढ़ा है।",
+  "new": "कुष्ठ का प्रतिकार प्रियाल के कल्क का काढ़ा है।",
+  "why": "reviewer (minor): GLOSSARY (14.4) fixes pratīkāra = प्रतिकार; कल्क is masculine."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "मुर्गा, कोश, अतकी और शतावरी की जड़ से युक्त आहार लेने वाला मनुष्य एक मास में गौर हो जाता है।",
+  "new": "जो कुक्कुट, कोश, अतकी और शतावरी की जड़ से युक्त आहार लेता है, वह एक मास में गौर हो जाता है।",
+  "why": "reviewer (error): Hindi commits to 'cock' while English keeps kukkuṭa and the note says it may be a plant; also मनुष्य is an unmarked addition (the note mentions it only for the subject)."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "वट के काढ़े से स्नान किया हुआ और सहचर की कल्क से लिप्त मनुष्य काला हो जाता है।",
+  "new": "जो वट के काढ़े से स्नान करता है और सहचर के कल्क से लिप्त होता है, वह काला हो जाता है।",
+  "why": "reviewer (minor): Unmarked addition 'man'; English has only 'One'."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "kha-dyota-gaṇḍū-pada-cūrṇam",
+  "old": "powder of fireflies and earthworms",
+  "new": "powder of fireflies and gaṇḍūpada (a worm)",
+  "why": "reviewer (minor): Gloss says 'earthworms' while English and Hindi keep gaṇḍūpada as a name; gloss imports an identification."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "खद्योत और गण्डूपद का चूर्ण, समुद्री जीवों का, भृङ्ग के कपालों का, या खदिर और कर्णिकार के फूलों का चूर्ण, शकुन और कङ्गु के तेल से युक्त, तेजन चूर्ण है।",
+  "new": "खद्योत और गण्डूपद का चूर्ण, समुद्री जीवों का, भृङ्ग-कपालों का, या खदिर और कर्णिकार के फूलों का चूर्ण, शकुन और कङ्गु के तेल से युक्त, तेजन चूर्ण है।",
+  "why": "reviewer (minor): Hindi makes bhṛṅga-kapāla a genitive relation while English keeps it as an unexplained pair."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "पारिभद्रक की छाल की कालिख, मेंढक की चर्बी से युक्त, अग्नि से अंगों को जला देना है।",
+  "new": "पारिभद्रक की छाल की कालिख, मेंढक की चर्बी से युक्त, अग्नि से अंगों को प्रज्वलित करना है।",
+  "why": "reviewer (error): 'burn up/destroy' is not prajvālana ('setting ablaze, kindling'); English says 'setting ablaze'."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "परिभद्रक की छाल और तिल की कल्क से लिप्त शरीर अग्नि से जल उठता है।",
+  "new": "परिभद्रक की छाल और तिल के कल्क से लिप्त शरीर अग्नि से जल उठता है।",
+  "why": "reviewer (minor): कल्क is masculine."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "'tena' refers back to the frog fat of unit 23 (assumed). 'kuśa-āmra-phala-taila' could be oil of the fruit of kuśa and āmra, or oil of kuśa and of āmra fruit. samudra-maṇḍūkī = sea-frog (literal); phenaka and sarja not identified; sarja-rasa = sarja juice/resin (rasa not read as poison here). The alternatives are joined by vā.",
+  "new": "'tena' refers back to the frog fat of unit 23 (assumed). 'kuśa-āmra-phala-taila' could be oil of the fruit of kuśa and āmra, or oil of kuśa and of āmra fruit. samudra-maṇḍūkī = sea-frog (literal); phenaka and sarja not identified; sarja-rasa = sarja juice/resin (rasa not read as poison here). The alternatives are joined by vā. Reviewer: tena is masc./neut., so it cannot refer to the feminine vasā of unit 23; its referent is unclear (perhaps the oil or the preparation of the preceding units).",
+  "why": "reviewer (minor): Note says tena refers back to the frog fat of unit 23, but tena is masculine/neuter and vasā is feminine (it would be tayā); the referent is unclear."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "abhyaṅgam",
+  "old": "m. nom. sg.",
+  "new": "m. acc. sg. (or n. nom. sg.)",
+  "why": "reviewer (minor): Labelled m. nom. sg., but the form abhyaṅgam is acc. sg. (m.) or nom. sg. (n.)."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "With a paste of the roots of pāribhadraka, pratibalā, vañjula, vajra and kadalī, [and] with oil cooked with frog fat, one whose feet are anointed goes on embers.",
+  "new": "One whose feet are anointed with oil cooked with a paste of the roots of pāribhadraka, pratibalā, vañjula, vajra and kadalī and with frog fat goes on embers.",
+  "why": "reviewer (error): kalka is an ingredient cooked into the oil (unit 29 repeats 'mūla-kalkena maṇḍūka-vasayā saha sādhayet tailam'), not a separate anointing; the draft splits the instrumentals into two and adds [and]."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "पारिभद्रक, प्रतिबला, वञ्जुल, वज्र और कदली की जड़ों की कल्क से और मेंढक की चर्बी के साथ पकाए तेल से जिसके पैर लिप्त हों, वह अंगारों पर चलता है।",
+  "new": "पारिभद्रक, प्रतिबला, वञ्जुल, वज्र और कदली की जड़ों के कल्क और मेंढक की चर्बी के साथ पकाए गए तेल से जिसके पैर लिप्त हों, वह अंगारों पर चलता है।",
+  "why": "reviewer (error): Same construction in Hindi; कल्क masculine."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "उपोदका, प्रतिबला, वञ्जुल और पारिभद्रक, इनकी जड़ों की कल्क के साथ मेंढक की चर्बी मिलाकर",
+  "new": "उपोदका, प्रतिबला, वञ्जुल और पारिभद्रक, इनकी जड़ों के कल्क और मेंढक की चर्बी के साथ",
+  "why": "reviewer (minor): 'mixing' (मिलाकर) is not in the Sanskrit (saha = together with); it supplies a verb."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "etena",
+  "old": "m. inst. sg.",
+  "new": "n. inst. sg.",
+  "why": "reviewer (minor): tailam is neuter; etena is not 'm.' here."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "bhasma-aṅgi-śamanam",
+  "old": "ash [and] quenching",
+  "new": "ash, the quencher of fire",
+  "why": "reviewer (minor): Garbled gloss."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "bhasma-aṅgi-śamanam",
+  "old": "cpd. n. nom. sg.",
+  "new": "cpd. n. nom. sg. (bhasma + agni-śamana, with aṅgi corrected to agni)",
+  "why": "reviewer (minor): Add the correction to gram."
+ },
+ {
+  "n": "31",
+  "field": "word.w",
+  "word": "bhasma-aṅgi-śamanam",
+  "old": "bhasma-aṅgi-śamanam",
+  "new": "bhasma-agni-śamanam",
+  "why": "reviewer (error): Use the corrected form in w, as with kaṅgu (17) and guñjā (12)."
+ },
+ {
+  "n": "32",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "culluyāṃ",
+    "suggest": "cullyām",
+    "why": "possible: culluyāṃ is not a regular locative of cullī; cullyām (or cullīyām) expected"
+   },
+   {
+    "src": "pāyitā māṣā",
+    "suggest": "pāyitāḥ māṣāḥ",
+    "why": "possible: visarga missing in both words"
+   }
+  ],
+  "new": [
+   {
+    "src": "culluyāṃ",
+    "suggest": "cullyām",
+    "why": "possible: culluyāṃ is not a regular locative of cullī; cullyām (or cullīyām) expected"
+   }
+  ],
+  "why": "reviewer (error): This flag is wrong: pāyitā māṣā vrajakulī is correct sandhi (visarga drops after -ā before a voiced consonant). Drop the second flag, keep culluyāṃ (cullyām expected)."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "चूल्हे की सफ़ाई प्रतीकार है।",
+  "new": "चूल्हे की सफ़ाई प्रतिकार है।",
+  "why": "reviewer (minor): GLOSSARY (14.4) pratīkāra = प्रतिकार."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "पीलु से बना हुआ मणि, जिसके भीतर अग्नि हो, या सुवर्चला की जड़ की गाँठ, या सूत की गाँठ, पिचु में लिपटी हुई, मुख से अग्नि और धुएँ का निकलना है।",
+  "new": "पीलु से बनी हुई मणि, जिसके भीतर अग्नि हो, या सुवर्चला की जड़ की गाँठ, या सूत की गाँठ, पिचु में लिपटी हुई, मुख से अग्नि और धुएँ का निकलना है।",
+  "why": "reviewer (minor): मणि is feminine in Hindi."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "कुश और आम्र के फल के तेल से सींचा हुआ अग्नि वर्षा और हवाओं में जलता है।",
+  "new": "कुश और आम्र के फल के तेल से सींची हुई अग्नि वर्षा और हवाओं में जलती है।",
+  "why": "reviewer (minor): अग्नि is feminine in Hindi (units 37 uses the feminine)."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "The fire churned out with a mottled bamboo on the left-side rib bones of a man killed by a weapon or impaled on a stake, or the fire churned out on the bones of a woman or a man with a human rib: where it goes thrice in the apasavya (anticlockwise) direction, no other fire blazes there.",
+  "new": "The fire churned out with a mottled bamboo on the left-side rib bones of a man killed by a weapon or impaled on a stake; the fire churned out on the bones of a woman or a man with a human rib: where it goes thrice in the apasavya (anticlockwise) direction, no other fire blazes there.",
+  "why": "reviewer (minor): The Sanskrit has no 'or' between the two fires (only vā inside each phrase); the draft adds one in English and अथवा in Hindi."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "शस्त्र से मारे गए या शूल पर चढ़ाए गए पुरुष की बाईं पसलियों की हड्डियों पर चितकबरे बाँस से मथकर निकाली गई अग्नि, अथवा स्त्री या पुरुष की हड्डियों पर मनुष्य की पसली से मथकर निकाली गई अग्नि जहाँ तीन बार अपसव्य दिशा में जाती है, वहाँ कोई दूसरी अग्नि नहीं जलती।",
+  "new": "शस्त्र से मारे गए या शूल पर चढ़ाए गए पुरुष की बाईं पसलियों की हड्डियों पर चितकबरे बाँस से मथकर निकाली गई अग्नि, स्त्री या पुरुष की हड्डियों पर मनुष्य की पसली से मथकर निकाली गई अग्नि जहाँ तीन बार अपसव्य दिशा में जाती है, वहाँ कोई दूसरी अग्नि नहीं जलती।",
+  "why": "reviewer (minor): Same unmarked addition in Hindi."
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "cuccundarī",
+  "old": "cuccundarī (a small creature)",
+  "new": "cuccundarī (name)",
+  "why": "reviewer (minor): Gloss 'a small creature' is an unstated identification."
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "khañjarīṭaḥ",
+  "old": "khañjarīṭa (a bird)",
+  "new": "khañjarīṭa (name)",
+  "why": "reviewer (minor): Gloss 'a bird' is an unstated identification."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "चुच्चुन्दरी, खञ्जरीट और खार कीट पीसे जाते हैं; घोड़े के मूत्र में मिलाया हुआ यह बेड़ियों को तोड़ना है।",
+  "new": "चुच्चुन्दरी, खञ्जरीट और खार कीट पीसे जाते हैं; घोड़े के मूत्र से मिला हुआ यह बेड़ियों को तोड़ना है।",
+  "why": "reviewer (minor): aśva-mūtreṇa is instrumental: mixed with, not in."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "अयस्कान्त पत्थर, केकड़े, दर्दुर और खार कीट की चर्बी के लेप से, दुगुना हो जाता है।",
+  "new": "या अयस्कान्त पत्थर केकड़े, दर्दुर और खार कीट की चर्बी के लेप से दुगुना हो जाता है।",
+  "why": "reviewer (minor): Hindi omits vā (English has 'Or')."
+ },
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "abhiṣūya",
+  "old": "abs. abhi-√su",
+  "new": "abs. (abhi-√sū 'bring forth' is the regular source; abhi-√su 'press, soak' would give abhiṣutya; sense uncertain)",
+  "why": "reviewer (minor): abhi-√su would give abhiṣutya; abhiṣūya is the regular absolutive of abhi-√sū. The draft's firm 'steeped' (and Hindi भिगोकर) is therefore an unsupported sense; keep literal but mark uncertain."
+ },
+ {
+  "n": "44",
+  "field": "word.gloss",
+  "word": "abhiṣūya",
+  "old": "having steeped",
+  "new": "having steeped (sense uncertain)",
+  "why": "reviewer (minor): Mark the gloss uncertain."
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "Obscure. 'abhiṣūya' is taken as an absolutive of abhi-√su (steep, soak); an alternative is √sū (bring forth), giving 'having caused to bring forth'. uṣṭrikā kept as a word (she-camel or camel-hide vessel). 'sārvavarṇika' = of all classes; 'of women' is supplied in brackets. Where 'in the cremation ground' attaches is not clear. The predicate is supplied in brackets.",
+  "new": "Obscure. 'abhiṣūya' is taken as an absolutive of abhi-√su (steep, soak); an alternative is √sū (bring forth), giving 'having caused to bring forth'. uṣṭrikā kept as a word (she-camel or camel-hide vessel). 'sārvavarṇika' = of all classes; 'of women' is supplied in brackets. Where 'in the cremation ground' attaches is not clear. The predicate is supplied in brackets. Reviewer: abhiṣūya is the regular absolutive of abhi-√sū (bring forth); abhi-√su would give abhiṣutya. The English 'having steeped' and Hindi भिगोकर follow the √su reading and are not secure; a person should decide.",
+  "why": "reviewer (minor): State the morphology in notes; a person must decide the sense."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "By undesirable, marvellous portents one should bring about agitation of the enemy. \"For ārājya\": thus the nirvāda is called equal anger.",
+  "new": "By undesirable, marvellous portents one should bring about agitation of the enemy. \"For ārājya\"—the nirvāda is called equal anger.",
+  "why": "reviewer (minor): A closing iti of a quotation is not rendered 'thus' (GLOSSARY 13.1)."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "अशुभ और अद्भुत उत्पातों से शत्रु में उद्वेग उत्पन्न करे। 'आराज्य के लिए' इस प्रकार निर्वाद को समान क्रोध कहा जाता है।",
+  "new": "अनिष्ट, अद्भुत उत्पातों से शत्रु में उद्वेग उत्पन्न करे। “आराज्य के लिए”— निर्वाद को समान क्रोध कहा जाता है।",
+  "why": "reviewer (minor): Hindi renders iti as इस प्रकार, and adds और between aniṣṭa and adbhuta (no connective in the text; aniṣṭa = अनिष्ट)."
+ }
+]

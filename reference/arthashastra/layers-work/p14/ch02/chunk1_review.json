@@ -1,0 +1,836 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तैयार किया हुआ",
+     "problem": "Hindi adds 'prepared' (तैयार किया हुआ) which is not in the Sanskrit; saṃhṛtya is only 'having combined'.",
+     "fix": "शिरीष, उदुम्बर और शमी का चूर्ण घी के साथ मिलाकर: आधे मास का क्षुद्-योग।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "शिरीष, उदुम्बर और शमी का चूर्ण घी के साथ मिलाकर: आधे मास का क्षुद्-योग।",
+      "n": "1"
+     }
+    },
+    {
+     "field": "english",
+     "where": "having been combined",
+     "problem": "Absolutive saṃhṛtya is active 'having combined'; the passive 'having been combined' does not match the gloss.",
+     "fix": "Having combined powder of śirīṣa, udumbara and śamī with ghee: the half-month hunger preparation.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Having combined powder of śirīṣa, udumbara and śamī with ghee: the half-month hunger preparation.",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बेल",
+     "problem": "बेल is ambiguous in Hindi (the bael tree/fruit, bilva); vallī is 'creeper'.",
+     "fix": "लता",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "या बेल, दूध",
+      "new": "या लता, दूध",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जड़ों की कल्क को",
+     "problem": "कल्क is masculine in Hindi.",
+     "fix": "जड़ों के कल्क को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जड़ों की कल्क को",
+      "new": "जड़ों के कल्क को",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kaṭuka-ālābau",
+     "problem": "ālābu/alābu is feminine (or neuter), not masculine.",
+     "fix": "cpd. f. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kaṭuka-ālābau",
+      "field": "gram",
+      "value": "cpd. f. loc. sg.",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sapta-rātrāt",
+     "problem": "Labelled f.; a compound in -rātra is masculine/neuter (ablative -āt).",
+     "fix": "cpd. m./n. abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sapta-rātrāt",
+      "field": "gram",
+      "value": "cpd. m./n. abl. sg.",
+      "n": "5"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "takra-yava-bhakṣasya",
+     "problem": "A bahuvrīhi (qualifying gardabhasya) is not marked as such.",
+     "fix": "cpd. bahuvrīhi m. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "takra-yava-bhakṣasya",
+      "field": "gram",
+      "value": "cpd. bahuvrīhi m. gen. sg.",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kaṭuka-ālābau",
+     "problem": "ālābu/alābu is feminine (or neuter), not masculine.",
+     "fix": "cpd. f. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kaṭuka-ālābau",
+      "field": "gram",
+      "value": "cpd. f. loc. sg.",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तिन्दुक और अरिष्ट की कल्क से",
+     "problem": "कल्क is masculine in Hindi.",
+     "fix": "तिन्दुक और अरिष्ट के कल्क से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अरिष्ट की कल्क से",
+      "new": "अरिष्ट के कल्क से",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the bile and egg-juice of a parrot",
+     "problem": "'of a parrot' is made to govern both bile and egg; the compound śuka-pitta-aṇḍa-rasa does not decide this (the note admits it).",
+     "fix": "Anointing with parrot's bile and egg-juice: a kuṣṭha preparation.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the bile and egg-juice of a parrot",
+      "new": "parrot's bile and egg-juice",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रतीकार / की कल्क",
+     "problem": "GLOSSARY (14.4) fixes pratīkāra = प्रतिकार; कल्क is masculine.",
+     "fix": "कुष्ठ का प्रतिकार प्रियाल के कल्क का काढ़ा है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "कुष्ठ का प्रतिकार प्रियाल के कल्क का काढ़ा है।",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मुर्गा",
+     "problem": "Hindi commits to 'cock' while English keeps kukkuṭa and the note says it may be a plant; also मनुष्य is an unmarked addition (the note mentions it only for the subject).",
+     "fix": "जो कुक्कुट, कोश, अतकी और शतावरी की जड़ से युक्त आहार लेता है, वह एक मास में गौर हो जाता है।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "जो कुक्कुट, कोश, अतकी और शतावरी की जड़ से युक्त आहार लेता है, वह एक मास में गौर हो जाता है।",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मनुष्य",
+     "problem": "Unmarked addition 'man'; English has only 'One'.",
+     "fix": "जो वट के काढ़े से स्नान करता है और सहचर के कल्क से लिप्त होता है, वह काला हो जाता है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "जो वट के काढ़े से स्नान करता है और सहचर के कल्क से लिप्त होता है, वह काला हो जाता है।",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kha-dyota-gaṇḍū-pada-cūrṇam",
+     "problem": "Gloss says 'earthworms' while English and Hindi keep gaṇḍūpada as a name; gloss imports an identification.",
+     "fix": "powder of fireflies and gaṇḍūpada (a worm)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kha-dyota-gaṇḍū-pada-cūrṇam",
+      "field": "gloss",
+      "value": "powder of fireflies and gaṇḍūpada (a worm)",
+      "n": "19"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भृङ्ग के कपालों का",
+     "problem": "Hindi makes bhṛṅga-kapāla a genitive relation while English keeps it as an unexplained pair.",
+     "fix": "भृङ्ग-कपालों का",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "भृङ्ग के कपालों का",
+      "new": "भृङ्ग-कपालों का",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जला देना",
+     "problem": "'burn up/destroy' is not prajvālana ('setting ablaze, kindling'); English says 'setting ablaze'.",
+     "fix": "प्रज्वलित करना",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जला देना है",
+      "new": "प्रज्वलित करना है",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तिल की कल्क",
+     "problem": "कल्क is masculine.",
+     "fix": "तिल के कल्क",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "छाल और तिल की कल्क",
+      "new": "छाल और तिल के कल्क",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "tena",
+     "problem": "Note says tena refers back to the frog fat of unit 23, but tena is masculine/neuter and vasā is feminine (it would be tayā); the referent is unclear.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: tena is masc./neut., so it cannot refer to the feminine vasā of unit 23; its referent is unclear (perhaps the oil or the preparation of the preceding units).",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "abhyaṅgam",
+     "problem": "Labelled m. nom. sg., but the form abhyaṅgam is acc. sg. (m.) or nom. sg. (n.).",
+     "fix": "m. acc. sg. (or n. nom. sg.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "abhyaṅgam",
+      "field": "gram",
+      "value": "m. acc. sg. (or n. nom. sg.)",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "With a paste … [and] with oil",
+     "problem": "kalka is an ingredient cooked into the oil (unit 29 repeats 'mūla-kalkena maṇḍūka-vasayā saha sādhayet tailam'), not a separate anointing; the draft splits the instrumentals into two and adds [and].",
+     "fix": "One whose feet are anointed with oil cooked with a paste of the roots of pāribhadraka, pratibalā, vañjula, vajra and kadalī and with frog fat goes on embers.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "One whose feet are anointed with oil cooked with a paste of the roots of pāribhadraka, pratibalā, vañjula, vajra and kadalī and with frog fat goes on embers.",
+      "n": "27"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "same",
+     "problem": "Same construction in Hindi; कल्क masculine.",
+     "fix": "पारिभद्रक, प्रतिबला, वञ्जुल, वज्र और कदली की जड़ों के कल्क और मेंढक की चर्बी के साथ पकाए गए तेल से जिसके पैर लिप्त हों, वह अंगारों पर चलता है।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "पारिभद्रक, प्रतिबला, वञ्जुल, वज्र और कदली की जड़ों के कल्क और मेंढक की चर्बी के साथ पकाए गए तेल से जिसके पैर लिप्त हों, वह अंगारों पर चलता है।",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मिलाकर",
+     "problem": "'mixing' (मिलाकर) is not in the Sanskrit (saha = together with); it supplies a verb.",
+     "fix": "उपोदका, प्रतिबला, वञ्जुल और पारिभद्रक, इनकी जड़ों के कल्क और मेंढक की चर्बी के साथ",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "उपोदका, प्रतिबला, वञ्जुल और पारिभद्रक, इनकी जड़ों के कल्क और मेंढक की चर्बी के साथ",
+      "n": "28"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "etena",
+     "problem": "tailam is neuter; etena is not 'm.' here.",
+     "fix": "n. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "etena",
+      "field": "gram",
+      "value": "n. inst. sg.",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "bhasma-aṅgi-śamanam",
+     "problem": "The note says the words field gives the corrected agni, but w keeps the misprint aṅgi; gloss 'ash [and] quenching' is also garbled. Correction agni accepted as the only workable reading, still low confidence and needs a person.",
+     "fix": "w bhasma-agni-śamanam; gloss 'ash, the quencher of fire'",
+     "severity": "error"
+    },
+    {
+     "field": "gloss",
+     "where": "bhasma-aṅgi-śamanam",
+     "problem": "Garbled gloss.",
+     "fix": "ash, the quencher of fire",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhasma-aṅgi-śamanam",
+      "field": "gloss",
+      "value": "ash, the quencher of fire",
+      "n": "31"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhasma-aṅgi-śamanam",
+     "problem": "Add the correction to gram.",
+     "fix": "cpd. n. nom. sg. (bhasma + agni-śamana, with aṅgi corrected to agni)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhasma-aṅgi-śamanam",
+      "field": "gram",
+      "value": "cpd. n. nom. sg. (bhasma + agni-śamana, with aṅgi corrected to agni)",
+      "n": "31"
+     }
+    },
+    {
+     "field": "w",
+     "where": "bhasma-aṅgi-śamanam",
+     "problem": "Use the corrected form in w, as with kaṅgu (17) and guñjā (12).",
+     "fix": "bhasma-agni-śamanam",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "bhasma-aṅgi-śamanam",
+      "field": "w",
+      "value": "bhasma-agni-śamanam",
+      "n": "31"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pāyitā māṣā",
+     "problem": "This flag is wrong: pāyitā māṣā vrajakulī is correct sandhi (visarga drops after -ā before a voiced consonant). Drop the second flag, keep culluyāṃ (cullyām expected).",
+     "fix": "[culluyāṃ flag only]",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "culluyāṃ",
+        "suggest": "cullyām",
+        "why": "possible: culluyāṃ is not a regular locative of cullī; cullyām (or cullīyām) expected"
+       }
+      ],
+      "n": "32"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रतीकार",
+     "problem": "GLOSSARY (14.4) pratīkāra = प्रतिकार.",
+     "fix": "चूल्हे की सफ़ाई प्रतिकार है।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रतीकार",
+      "new": "प्रतिकार",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बना हुआ मणि",
+     "problem": "मणि is feminine in Hindi.",
+     "fix": "पीलु से बनी हुई मणि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीलु से बना हुआ मणि",
+      "new": "पीलु से बनी हुई मणि",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सींचा हुआ अग्नि … जलता है",
+     "problem": "अग्नि is feminine in Hindi (units 37 uses the feminine).",
+     "fix": "कुश और आम्र के फल के तेल से सींची हुई अग्नि वर्षा और हवाओं में जलती है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "कुश और आम्र के फल के तेल से सींची हुई अग्नि वर्षा और हवाओं में जलती है।",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "stake, or the fire churned",
+     "problem": "The Sanskrit has no 'or' between the two fires (only vā inside each phrase); the draft adds one in English and अथवा in Hindi.",
+     "fix": "…impaled on a stake; the fire churned out on the bones of a woman or a man…",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "on a stake, or the fire churned out",
+      "new": "on a stake; the fire churned out",
+      "n": "38"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अथवा",
+     "problem": "Same unmarked addition in Hindi.",
+     "fix": "; स्त्री या पुरुष",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": ", अथवा स्त्री या पुरुष",
+      "new": ", स्त्री या पुरुष",
+      "n": "38"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "cuccundarī",
+     "problem": "Gloss 'a small creature' is an unstated identification.",
+     "fix": "cuccundarī (name)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "cuccundarī",
+      "field": "gloss",
+      "value": "cuccundarī (name)",
+      "n": "39"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "khañjarīṭaḥ",
+     "problem": "Gloss 'a bird' is an unstated identification.",
+     "fix": "khañjarīṭa (name)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "khañjarīṭaḥ",
+      "field": "gloss",
+      "value": "khañjarīṭa (name)",
+      "n": "39"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "में मिलाया हुआ",
+     "problem": "aśva-mūtreṇa is instrumental: mixed with, not in.",
+     "fix": "घोड़े के मूत्र से मिला हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "घोड़े के मूत्र में मिलाया हुआ",
+      "new": "घोड़े के मूत्र से मिला हुआ",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "dropped vā",
+     "problem": "Hindi omits vā (English has 'Or').",
+     "fix": "या अयस्कान्त पत्थर केकड़े, दर्दुर और खार कीट की चर्बी के लेप से दुगुना हो जाता है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "या अयस्कान्त पत्थर केकड़े, दर्दुर और खार कीट की चर्बी के लेप से दुगुना हो जाता है।",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "abhiṣūya",
+     "problem": "abhi-√su would give abhiṣutya; abhiṣūya is the regular absolutive of abhi-√sū. The draft's firm 'steeped' (and Hindi भिगोकर) is therefore an unsupported sense; keep literal but mark uncertain.",
+     "fix": "abs. (abhi-√sū 'bring forth' regular; abhi-√su 'press, soak' would be abhiṣutya; sense uncertain)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "abhiṣūya",
+      "field": "gram",
+      "value": "abs. (abhi-√sū 'bring forth' is the regular source; abhi-√su 'press, soak' would give abhiṣutya; sense uncertain)",
+      "n": "44"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "abhiṣūya",
+     "problem": "Mark the gloss uncertain.",
+     "fix": "having steeped (sense uncertain)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "abhiṣūya",
+      "field": "gloss",
+      "value": "having steeped (sense uncertain)",
+      "n": "44"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "abhiṣūya",
+     "problem": "State the morphology in notes; a person must decide the sense.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: abhiṣūya is the regular absolutive of abhi-√sū (bring forth); abhi-√su would give abhiṣutya. The English 'having steeped' and Hindi भिगोकर follow the √su reading and are not secure; a person should decide.",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "thus",
+     "problem": "A closing iti of a quotation is not rendered 'thus' (GLOSSARY 13.1).",
+     "fix": "\"For ārājya\"—the nirvāda is called equal anger.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "\"For ārājya\": thus the nirvāda",
+      "new": "\"For ārājya\"—the nirvāda",
+      "n": "45"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इस प्रकार / अशुभ और",
+     "problem": "Hindi renders iti as इस प्रकार, and adds और between aniṣṭa and adbhuta (no connective in the text; aniṣṭa = अनिष्ट).",
+     "fix": "अनिष्ट, अद्भुत उत्पातों से शत्रु में उद्वेग उत्पन्न करे। “आराज्य के लिए”— निर्वाद को समान क्रोध कहा जाता है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अनिष्ट, अद्भुत उत्पातों से शत्रु में उद्वेग उत्पन्न करे। “आराज्य के लिए”— निर्वाद को समान क्रोध कहा जाता है।",
+      "n": "45"
+     }
+    }
+   ]
+  }
+ ],
+ "glossary_additions": [
+  "(14.2) jvalati = blazes (जल उठता है); of the firefly powder in 14.2.18 only, 'glows' (चमकता है); prajvālana = setting ablaze (प्रज्वलित करना), never 'burning up'",
+  "(14.2) leṇḍa = dung (लीद); kulīra = crab (केकड़ा); apasavya = anticlockwise (अपसव्य); pratīkāra = remedy (प्रतिकार) as in 14.4",
+  "(14.2) X-karaṇam = the making X: virūpa-karaṇa = the making misshapen (कुरूप करना), śvetī-karaṇa = the whitening (सफेद करना), śyāmī-karaṇa = the making dark-hued (श्याम करना)",
+  "(14.2) yoga in the 14.2 recipes (kṣud-yoga, kuṣṭha-yoga) = preparation (योग); NOTE a person must decide: 14.4 says 'compound', 12.4 'contrivance'; keep one rendering for Book 14 once decided",
+  "(14.2) kalka = paste (कल्क, masculine in Hindi: के कल्क); Hindi अग्नि is feminine; Hindi never uses a bracket or Latin letters"
+ ],
+ "summary": "45 units reviewed; 28 units need a change, 42 issues (7 error, 35 minor), 41 machine-applicable patches. No regrouping: 28+29 stay one sentence (28 has no verb). Text flags: confirmed leṇda (6), piṣtena (10), kaṇgu (17), tvan (20, 22), ppatibalā (27), mukhyād (34), aṅgi/agni (31, accepted as only workable repair, still low); culluyāṃ (32) kept, but the second flag in 32 (pāyitā māṣā, visarga missing) is REJECTED because the sandhi is correct. Errors: 15 (Hindi commits to cock/man), 20 (Hindi 'burn up' for prajvālana), 27 (kalka wrongly split from the cooked oil, EN+HI), 31 (w kept misprint contrary to note), 32 (wrong flag), 38 not error but unmarked 'or' added. Other: Hindi कल्क/अग्नि/मणि gender, ālābu gender, invented identifications in glosses (39), abhiṣūya morphology (44, a person must decide), iti rendered 'thus' (45). Units 8, 9, 24, 41, 45 stay low/medium honestly; no firmer reading recommended. Drafter glossary suggestions: agree on jvalati=blazes (18 'glows'), leṇḍa=dung, kulīra=crab, apasavya=anticlockwise, X-karaṇam; yoga=preparation kept but conflicts with GLOSSARY 14.4 'compound' and 12.4 'contrivance': needs a person. See glossary_additions (GLOSSARY.md not edited, per brief only this file is written)."
+}
