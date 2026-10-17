@@ -1,0 +1,473 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपनी सम्पत्ति के कारु",
+     "problem": "sampatti collides with the glossary use of sampat (excellence); vitta is wealth",
+     "fix": "अपने धन के कारु",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपनी सम्पत्ति के कारु",
+      "new": "अपने धन के कारु"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kārya-apadeśam",
+     "problem": "apadeśa is masculine",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "kārya-apadeśam",
+      "field": "gram",
+      "value": "tat-puruṣa, m. acc. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसमें कार्य का अपदेश हो।",
+     "problem": "Sanskrit has no verb; 'हो' is an interpretive subjunctive, only a bare copula may be supplied",
+     "fix": "उसमें कार्य का अपदेश है।",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसमें कार्य का अपदेश हो।",
+      "new": "उसमें कार्य का अपदेश है।"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ca",
+     "problem": "ca ('and') dropped in Hindi",
+     "fix": "और जिस कर्म में देश, काल और कार्य",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस कर्म में देश, काल और कार्य",
+      "new": "और जिस कर्म में देश, काल और कार्य"
+     }
+    },
+    {
+     "field": "english",
+     "where": "They should do work",
+     "problem": "ca dropped in English",
+     "fix": "And they should do work",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "They should do work whose place, time and task",
+      "new": "And they should do work whose place, time and task"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "last phrase",
+     "problem": "accusative apadeśam may mean '[stating] a designation of the task' with kuryuḥ understood; kept as a bare copula",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "Review: apadeśam is accusative, so the clause may instead be 'they should do work of unspecified place and time, [giving] a designation of the task'; the copula reading is kept only as the least interpretive. A person should decide."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pattra.ūrṇā",
+     "problem": "possible typo for patra.ūrṇā (single t); cannot be set by patch, needs a person",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कमी के अनुसार",
+     "problem": "'in proportion' is an addition; hīna-avahīna is 'lessened by the shortfall'",
+     "fix": "वेतन कमी से घटा हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कमी के अनुसार घटा हुआ",
+      "new": "कमी से घटा हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tena",
+     "problem": "tena is a pronoun form, not an indeclinable",
+     "fix": "pron. inst. sg. (tad)",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "tena",
+      "field": "gram",
+      "value": "pron. n. inst. sg. (tad)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "hair-cut",
+     "problem": "reads as 'haircut'; roma is body hair",
+     "fix": "a cut of hair (roma-cheda)",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "a hair-cut (roma-cheda)",
+      "new": "a cut of hair (roma-cheda)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "para-vastra-vikraya-avakraya-ādhāneṣu",
+     "problem": "dvandva ends in neuter ādhāna, and para-vastra qualifies the whole",
+     "fix": "tat-puruṣa with dvandva, n. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "para-vastra-vikraya-avakraya-ādhāneṣu",
+      "field": "gram",
+      "value": "tat-puruṣa with dvandva, n. loc. pl."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "avakraya",
+     "problem": "aligned with 5.2 avakrītaka = hired (confirmed)",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "append_note",
+      "text": "Review: avakraya = hire is kept, aligned with 5.2 avakrītaka = hired; the alternative is 'purchase'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "छह रात का नीला; और फूल",
+     "problem": "'और' has no counterpart in the Sanskrit list",
+     "fix": "छह रात का नीला; फूल",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "छह रात का नीला; और फूल",
+      "new": "छह रात का नीला; फूल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tena",
+     "problem": "tena is a pronoun form, not an indeclinable",
+     "fix": "pron. inst. sg. (tad)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "tena",
+      "field": "gram",
+      "value": "pron. n. inst. sg. (tad)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "By that, what follows is explained.",
+     "problem": "fixed formula for 4.1",
+     "fix": "By that the following [matter] is explained.",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "english",
+      "value": "By that the following [matter] is explained."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "uttaram",
+     "problem": "align with formula",
+     "fix": "the following [matter]",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "uttaram",
+      "field": "gloss",
+      "value": "the following [matter]"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और चोर के हाथ से",
+     "problem": "added conjunction in a list without ca",
+     "fix": "चोर के हाथ से",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पण, और चोर के हाथ से",
+      "new": "पण, चोर के हाथ से"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dvādaśapaṇo",
+     "problem": "text flag confirmed: missing compound dot; suvarṇa here is the metal (gold) beside rūpya",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "append_note",
+      "text": "Review: the flag on dvādaśapaṇo is confirmed (missing dot). suvarṇa here is the metal, gold; in 4.1.28 and 4.1.32 it is the unit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "suvarṇa",
+     "problem": "unit sense is parallel to rūpya-dharaṇa",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "append_note",
+      "text": "Review: suvarṇa is read as the weight unit because it stands parallel to rūpya-dharaṇāt; suvarṇa, dharaṇa and māṣaka stay unit names."
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tena",
+     "problem": "tena is a pronoun form, not an indeclinable",
+     "fix": "pron. inst. sg. (tad)",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "tena",
+      "field": "gram",
+      "value": "pron. n. inst. sg. (tad)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "By that, what follows is explained.",
+     "problem": "fixed formula for 4.1",
+     "fix": "By that the following [matter] is explained.",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "english",
+      "value": "By that the following [matter] is explained."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "uttaram",
+     "problem": "align with formula",
+     "fix": "the following [matter]",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "uttaram",
+      "field": "gloss",
+      "value": "the following [matter]"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Draft is faithful and literal. Mostly small Hindi/gram/formula fixes: 24 minor patches, 0 errors. No regrouping. Needs a person: unit 10 possible typo pattra for patra (flag cannot be added by patch); unit 4 clause reading; unit 22 sthūlaka/raktaka kept literal; unit 18 and 13 kept literal; unit 31 referent of tayoḥ."
+}
