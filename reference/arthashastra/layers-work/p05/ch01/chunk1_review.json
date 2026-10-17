@@ -1,0 +1,860 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो मुख्य राज्य को",
+     "problem": "tu ('but') is dropped in the Hindi",
+     "fix": "किन्तु जो मुख्य राज्य को",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो मुख्य राज्य को",
+      "new": "किन्तु जो मुख्य राज्य को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "protsāhya",
+     "problem": "root: protsāhya is pra-ut-√sah caus., not pra-√sah",
+     "fix": "abs. pra-ut-√sah caus.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "protsāhya",
+      "field": "gram",
+      "value": "abs. pra-ut-√sah caus."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "dharma literature",
+     "problem": "notes import a sense from other books (śūdra woman's son); the line gives no definition",
+     "fix": "pāraśava is kept as a term: the line itself gives no definition.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "notes",
+      "old": "in the dharma literature the word is used of the son of a śūdra woman, but the line itself gives no definition",
+      "new": "the line itself gives no definition"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "dūṣyaṃ.mahāmātraṃ",
+     "problem": "Draft flag accepted as real. The reading as one compound is not safe: vā after the group and the anusvāras on both members would also fit two alternatives ('from the treasonable one or the high official'). Cannot be decided from the line; a person should check the printed edition.",
+     "fix": "keep literal reading; person to decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो तीक्ष्ण मारने वाला हो",
+     "problem": "Hindi garbles hantā/tīkṣṇa ('whoever is sharp, a killer'); tīkṣṇa is the assassin",
+     "fix": "रात में दूष्य के घर के द्वार पर सोते हुए, अथवा अन्यत्र रहते हुए उसे मारने वाला तीक्ष्ण कहे — \"दाय चाहने वाला यह मारा गया।\"",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "रात में दूष्य के घर के द्वार पर सोते हुए, अथवा अन्यत्र रहते हुए उसे मारने वाला तीक्ष्ण कहे — \"दाय चाहने वाला यह मारा गया।\""
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the quarrel between those two",
+     "problem": "tayoḥ is genitive 'of those two'; 'between' is an unmarked change",
+     "fix": "the quarrel of those two",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "the quarrel between those two",
+      "new": "the quarrel of those two"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कापटिक-मुख कलह",
+     "problem": "kāpaṭika-mukha left as a bare compound that reads as a name; give the bahuvrīhi sense literally",
+     "fix": "उन दोनों का कलह, जिसका मुख कापटिक है, पहले वाले से व्याख्यात है।",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन दोनों का कापटिक-मुख कलह पहले वाले से व्याख्यात है।",
+      "new": "उन दोनों का कलह, जिसका मुख कापटिक है, पहले वाले से व्याख्यात है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऐसा कहकर",
+     "problem": "closing iti rendered 'ऐसा कहकर' (adds 'saying'); glossary: closing iti of a quotation is not rendered",
+     "fix": "dash form as in units 7, 10, 16",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "hindi",
+      "value": "गुप्तचर दूष्य महामात्र के पुत्र को, अथवा अपने द्वारा सम्मानित को गुप्त रूप से उकसाए — \"तुम राजपुत्र हो, शत्रु के भय से यहाँ रखे गए हो।\""
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pūjayet",
+     "problem": "pūj is a 10th-class root (pūjayati), not a causative",
+     "fix": "3 sg. opt. √pūj (10th cl.)",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "pūjayet",
+      "field": "gram",
+      "value": "3 sg. opt. √pūj (10th cl.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "so confidence is medium",
+     "problem": "notes say medium, confidence field says low",
+     "fix": "so confidence is low",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "notes",
+      "old": "so confidence is medium",
+      "new": "so confidence is low"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "छले",
+     "problem": "glossary 9.1: atisandhā = outwit (छल लेना)",
+     "fix": "विष से छल ले",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विष से छले",
+      "new": "विष से छल ले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "iti",
+     "problem": "stray '|' in gram",
+     "fix": "ind.",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gram",
+      "value": "ind."
+     }
+    },
+    {
+     "field": "split",
+     "where": "āpya",
+     "problem": "āpya (or a misprint, e.g. for āpta) cannot be settled from the line; keep literal",
+     "fix": "person to check; possible text_flag cannot be added by a patch",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसे मार डालें",
+     "problem": "Hindi supplies the object 'उसे' unmarked (English brackets it)",
+     "fix": "रात या दिन में युद्ध छिड़ जाने पर तीक्ष्ण अथवा प्रतिरोधक के वेश वाले गुप्तचर मार डालें — \"आक्रमण में मारा गया।\"",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसे मार डालें",
+      "new": "मार डालें"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tad.abhivikhyāpya",
+     "problem": "tat and abhivikhyāpya are one w; tatra-eva style split into two words would be cleaner (also unit 32)",
+     "fix": "two words tat / abhivikhyāpya (a patch cannot add a word)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विहार के लिए गया",
+     "problem": "'के लिए' unmarked (unit 23 says 'पर')",
+     "fix": "बाहर विहार पर गया हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बाहर विहार के लिए गया हुआ",
+      "new": "बाहर विहार पर गया हुआ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pūjayet",
+     "problem": "pūj is a 10th-class root, not a causative",
+     "fix": "3 sg. opt. √pūj (10th cl.)",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "pūjayet",
+      "field": "gram",
+      "value": "3 sg. opt. √pūj (10th cl.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उनके निवासों में रात को",
+     "problem": "vā ('or') is dropped in the Hindi",
+     "fix": "अथवा उनके निवासों में रात को",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनके निवासों में रात को",
+      "new": "अथवा उनके निवासों में रात को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इस प्रकार स्तुति करके",
+     "problem": "'इस प्रकार' renders the closing iti as 'thus' (glossary forbids)",
+     "fix": "अथवा दूष्य महामात्र से — \"तुम्हारा रसोइया अथवा भक्ष-कार उत्तम है\" — इस स्तुति से भक्ष्य-भोज्य माँगे, अथवा बाहर कहीं मार्ग पर गया हुआ पेय माँगे।",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा दूष्य महामात्र से — \"तुम्हारा रसोइया अथवा भक्ष-कार उत्तम है\" — इस स्तुति से भक्ष्य-भोज्य माँगे, अथवा बाहर कहीं मार्ग पर गया हुआ पेय माँगे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रसद",
+     "problem": "glossary 5.2 fixes rasada = poisoner, Hindi विष देने वाला (रसद = supplies in Hindi)",
+     "fix": "उसे प्रसिद्ध करके — \"दोनों विष देने वाले हैं\" — मरवा दे।",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "32",
+       "op": "set",
+       "field": "hindi",
+       "value": "उसे प्रसिद्ध करके — \"दोनों विष देने वाले हैं\" — मरवा दे।"
+      },
+      {
+       "n": "32",
+       "op": "replace",
+       "field": "notes",
+       "old": "rasada = poisoner (glossary 12.2); the Hindi form रसद is fixed by the glossary and clashes with रसद 'supplies' in other books.",
+       "new": "rasada = poisoner; Hindi विष देने वाला as in glossary 5.2 (रसद would read as 'supplies')."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "लक्षण वाले में से",
+     "problem": "lakṣaṇyānām qualifies the four animals/kūṭa ('the marked ones'); Hindi reads as 'having the marks of kūṭa'",
+     "fix": "गोह, कछुआ, केकड़ा और कूट — लक्षणों वाले इन में से किसी एक के भक्षण से",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गोह, कछुआ, केकड़ा और कूट के लक्षण वाले में से किसी एक के भक्षण से",
+      "new": "गोह, कछुआ, केकड़ा और कूट — लक्षणों वाले इन में से किसी एक के भक्षण से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "छले",
+     "problem": "glossary 9.1: atisandhā = outwit (छल लेना)",
+     "fix": "विष से छल ले",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विष से छले",
+      "new": "विष से छल ले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सूद",
+     "problem": "सूद in Hindi means interest; cook is रसोइया (unit 30)",
+     "fix": "रसोइयों और आरालिक",
+     "severity": "error",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सूद और आरालिक",
+      "new": "रसोइयों और आरालिक"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "छलें",
+     "problem": "glossary 9.1",
+     "fix": "विष से छल लें",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विष से छलें",
+      "new": "विष से छल लें"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "upaniṣad",
+     "problem": "'secret teaching' is a guess for an obscure label; Hindi उपनिषद् will read as the Upanishads. Keep, person to decide",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Split as printed is correct: 38 is an introductory fragment of 39 (ubhaya-dūṣya-pratiṣedhas tu | yatra dūṣyaḥ ...). No regrouping suggested; keep two units.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "or gold",
+     "problem": "glossary 5.2: hiraṇya = money (धन), 'gold' only in notes",
+     "fix": "raise an army, or money; or fetch money from the favourite",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "39",
+       "op": "replace",
+       "field": "english",
+       "old": "raise an army, or gold;",
+       "new": "raise an army, or money;"
+      },
+      {
+       "n": "39",
+       "op": "replace",
+       "field": "english",
+       "old": "fetch gold from the favourite",
+       "new": "fetch money from the favourite"
+      },
+      {
+       "n": "39",
+       "op": "replace",
+       "field": "hindi",
+       "old": "सेना खड़ी करो, अथवा हिरण्य;",
+       "new": "सेना खड़ी करो, अथवा धन;"
+      },
+      {
+       "n": "39",
+       "op": "replace",
+       "field": "hindi",
+       "old": "वल्लभ से हिरण्य ले आओ",
+       "new": "वल्लभ से धन ले आओ"
+      },
+      {
+       "n": "39",
+       "op": "word",
+       "match_w": "hiraṇyam",
+       "field": "gloss",
+       "value": "money",
+       "occurrence": "all"
+      },
+      {
+       "n": "39",
+       "op": "append_note",
+       "text": "hiraṇya rendered 'money' per glossary 5.2 ('gold' is the alternative). Text flag on the missing opening quotation mark before gaccha is confirmed."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "अन्त का पालन",
+     "problem": "'अन्त' means 'end' in Hindi; anta-pālya is the guarding of the frontier",
+     "fix": "अथवा राष्ट्र का पालन या सीमान्त का पालन",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "या अन्त का पालन",
+      "new": "या सीमान्त का पालन"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अमुक की अविनय",
+     "problem": "अविनय is masculine",
+     "fix": "अमुक के अविनय को रोकना चाहिए",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अमुक की अविनय",
+      "new": "अमुक के अविनय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तीक्ष्ण शस्त्र गिराकर",
+     "problem": "reads as 'a sharp weapon'; tīkṣṇāḥ is the subject (assassins)",
+     "fix": "उसे तीक्ष्ण पुरुष शस्त्र गिराकर",
+     "severity": "error",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसे तीक्ष्ण शस्त्र गिराकर",
+      "new": "उसे तीक्ष्ण पुरुष शस्त्र गिराकर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तीक्ष्ण शस्त्र गिराकर",
+     "problem": "reads as 'a sharp weapon'",
+     "fix": "तीक्ष्ण पुरुष शस्त्र गिराकर कहें",
+     "severity": "error",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीक्ष्ण शस्त्र गिराकर कहें",
+      "new": "तीक्ष्ण पुरुष शस्त्र गिराकर कहें"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "kalahāyante:",
+     "problem": "Confirmed: opening quote stands before evaṃ, closing mark missing, colon is a misprint for it. Flag is right.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तथा बन्धु-सम्बन्धियों",
+     "problem": "'तथा' is an unmarked addition, and 'तीक्ष्ण शस्त्र' reads as 'sharp weapon' (subject tīkṣṇāḥ is lost)",
+     "fix": "अथवा जिन दूष्यों के कलह जड़ पकड़ चुके हों, उनके खेत, खलिहान और घरों में आग लगाकर, बन्धु-सम्बन्धियों में या वाहनों में शस्त्र गिराकर, तीक्ष्ण पुरुष वैसे ही कहें — \"हम इसके द्वारा लगाए गए हैं।\"",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा जिन दूष्यों के कलह जड़ पकड़ चुके हों, उनके खेत, खलिहान और घरों में आग लगाकर, बन्धु-सम्बन्धियों में या वाहनों में शस्त्र गिराकर, तीक्ष्ण पुरुष वैसे ही कहें — \"हम इसके द्वारा लगाए गए हैं।\""
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "āveśanikān",
+     "problem": "kept untranslated; sense unknown. Person to check.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रसद",
+     "problem": "glossary 5.2: rasada = विष देने वाला, never रसद",
+     "fix": "वहाँ विष देने वाले विष दें।",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "48",
+       "op": "set",
+       "field": "hindi",
+       "value": "वहाँ विष देने वाले विष दें।"
+      },
+      {
+       "n": "48",
+       "op": "replace",
+       "field": "notes",
+       "old": "the Hindi रसद is the glossary form and could be misread as 'supplies'",
+       "new": "Hindi विष देने वाला as in glossary 5.2 (रसद would read as 'supplies')"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "second dūṣya chief",
+     "problem": "Notes assert that the genitive chief is a second person; the line does not say (same words as the object)",
+     "fix": "Whether the genitive chief is the same man or a second one is not stated; the line gives no further detail.",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "notes",
+      "old": "The speaker speaks of a second dūṣya chief (the one named in the genitive) to the first; the line gives no further detail.",
+      "new": "Whether the genitive chief is the same man as the one addressed or a second one is not stated; the line gives no further detail."
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यौवन के मद में चूर",
+     "problem": "'intoxicated' is stronger than utsikta (elated, puffed up)",
+     "fix": "यौवन से गर्वित",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यौवन के मद में चूर",
+      "new": "यौवन से गर्वित"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "anukṣiyatsu",
+     "problem": "Possibly corrupt, as the drafter says, but no text_flag was entered; a patch cannot add one. Person to add a flag.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tadātve",
+     "problem": "-tva derivatives are neuter",
+     "fix": "n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "word",
+      "match_w": "tadātve",
+      "field": "gram",
+      "value": "n. loc. sg."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 1 (5.1): 39 issues, 8 errors, 31 minor. Main faults: Hindi रसद for rasada (glossary 5.2 says विष देने वाला), hiraṇya as gold (glossary 5.2: money), Hindi 'तीक्ष्ण शस्त्र' reading as a sharp weapon (41,43,45), Hindi सूद for cook, dropped vā/tu in Hindi, 'ऐसा कहकर'/'इस प्रकार' for closing iti. mahā-mātra settled as 'high official(s)' (महामात्र), matching glossary 12.2/5.6. No regrouping suggested; the 38/39 split is as printed. Needs a person: units 9, 20, 37, 55, 21, 31, 33, 47, 52 (obscure terms); merged w in 26 and 32; possible extra text_flags (55 anukṣiyatsu, 39 vā-yaś hyphen, 9 sattri) which patches cannot add."
+}

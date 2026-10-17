@@ -1,0 +1,504 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "bahula-anurakta-sampāte",
+     "problem": "sampāte is a plain noun head; the compound is not a bahuvrīhi",
+     "fix": "m. loc. sg., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bahula-anurakta-sampāte",
+      "field": "gram",
+      "value": "m. loc. sg., tat-puruṣa",
+      "n": "2"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record doubts and the unsplit word",
+     "fix": "Review: 'atyāvāpa-yuktāḥ' (provided with surplus addition) and 'sampāta' (encounter) stay literal and doubtful. 'yātavyasya-upajāpa-bhayāt' is kept as one word in the draft although the printed hyphen joins yātavyasya and upajāpa-bhayāt (two words); a person may split it.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: 'atyāvāpa-yuktāḥ' (provided with surplus addition) and 'sampāta' (encounter) stay literal and doubtful. 'yātavyasya-upajāpa-bhayāt' is kept as one word in the draft although the printed hyphen joins yātavyasya and upajāpa-bhayāt (two words); a person may split it.",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अत्यावाप थोड़ा है",
+     "problem": "src has alpa-āvāpam, not atyāvāpa; Hindi wrongly says अत्यावाप",
+     "fix": "आवाप थोड़ा है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अत्यावाप थोड़ा है",
+      "new": "आवाप थोड़ा है",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "has little surplus addition",
+     "problem": "src is alpa-āvāpa; glossary keeps āvāpa in Sanskrit and 'surplus addition' belongs to atyāvāpa",
+     "fix": "has little āvāpa",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "has little surplus addition",
+      "new": "has little āvāpa",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "alpa-āvāpam",
+     "problem": "same as above",
+     "fix": "with little āvāpa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "alpa-āvāpam",
+      "field": "gloss",
+      "value": "with little āvāpa",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pratiyoddhu-kāmaḥ",
+     "problem": "'fighting back' is an interpretation; pratiyoddhum = to fight against",
+     "fix": "desirous of fighting against",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pratiyoddhu-kāmaḥ",
+      "field": "gloss",
+      "value": "desirous of fighting against",
+      "n": "4"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "subject doubt",
+     "fix": "Review: the subject of 'pratiyoddhu-kāmaḥ' may be the king himself (desirous of fighting against the opponent) rather than the opponent; 'daṇḍa-bala-vyavahāraḥ' stays literal and doubtful.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: the subject of 'pratiyoddhu-kāmaḥ' may be the king himself (desirous of fighting against the opponent) rather than the opponent; 'daṇḍa-bala-vyavahāraḥ' stays literal and doubtful.",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अथवा इसके अत्यावाप",
+     "problem": "asya refers to the enemy; 'इसके' is vague",
+     "fix": "अथवा उसके अत्यावाप",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा इसके अत्यावाप",
+      "new": "अथवा उसके अत्यावाप",
+      "n": "5"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "uncertain correction",
+     "fix": "Review: the correction yotsyāmi for printed 'yoddhayiṣyāmi' is uncertain. The causative yodhayiṣyāmi (as in unit 6, 'X-balena yodhayiṣyāmi') is the one-letter correction and would read 'with my own troops I shall make [them] fight'; a person should decide. Draft reading kept.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: the correction yotsyāmi for printed 'yoddhayiṣyāmi' is uncertain. The causative yodhayiṣyāmi (as in unit 6, 'X-balena yodhayiṣyāmi') is the one-letter correction and would read 'with my own troops I shall make [them] fight'; a person should decide. Draft reading kept.",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भीतरी कोप की आशंका वाले को छोड़कर",
+     "problem": "'वाले को' adds an object; Sanskrit has 'except for suspicion of internal revolt'",
+     "fix": "भीतरी कोप की आशंका को छोड़कर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "भीतरी कोप की आशंका वाले को छोड़कर",
+      "new": "भीतरी कोप की आशंका को छोड़कर",
+      "n": "6"
+     }
+    },
+    {
+     "field": "english",
+     "where": "grown excessively [strong]",
+     "problem": "bracketed [strong] is an addition; atyupacita = excessively grown/accumulated",
+     "fix": "excessively grown",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "grown excessively [strong]",
+      "new": "excessively grown",
+      "n": "6"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record doubts",
+     "fix": "Review: kopa in 'kopa-bhayāt' (rendered anger) and in 'abhyantara-kopa-śaṅkāyāḥ' (rendered revolt) may be one sense; the sentence after the second quotation (atyupacitam ... vāsayet, anyatra ..., and the time of war with the enemy and lesser war) is read tentatively. Confidence stays low.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: kopa in 'kopa-bhayāt' (rendered anger) and in 'abhyantara-kopa-śaṅkāyāḥ' (rendered revolt) may be one sense; the sentence after the second quotation (atyupacitam ... vāsayet, anyatra ..., and the time of war with the enemy and lesser war) is read tentatively. Confidence stays low.",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बिना भक्त और वेतन की",
+     "problem": "Hindi भक्त means devotee; Sanskrit bhakta here is food/ration",
+     "fix": "बिना भोजन और वेतन की",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बिना भक्त और वेतन की",
+      "new": "बिना भोजन और वेतन की",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pareṣām",
+     "problem": "para is rendered literally 'other' (glossary 9.6 pareṣu = among the others); 'enemies' is interpretation",
+     "fix": "of the others",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pareṣām",
+      "field": "gloss",
+      "value": "of the others",
+      "n": "9"
+     }
+    },
+    {
+     "field": "english",
+     "where": "divisible by the enemies",
+     "problem": "same",
+     "fix": "divisible by the others",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "divisible by the enemies",
+      "new": "divisible by the others",
+      "n": "9"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शत्रुओं द्वारा",
+     "problem": "same",
+     "fix": "दूसरों द्वारा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रुओं द्वारा",
+      "new": "दूसरों द्वारा",
+      "n": "9"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record doubts",
+     "fix": "Review: 'viṣṭi' here may be forced labour or the labour corps, and 'pratāpa' (burning/might) is doubtful; 'aneka-stha' literally 'standing in many', 'places' is supplied. Confidence stays low.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: 'viṣṭi' here may be forced labour or the labour corps, and 'pratāpa' (burning/might) is doubtful; 'aneka-stha' literally 'standing in many', 'places' is supplied. Confidence stays low.",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "preṣayet",
+     "problem": "root is pra-√iṣ (glossary 9.6)",
+     "fix": "3 sg. opt. caus. pra-√iṣ",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "preṣayet",
+      "field": "gram",
+      "value": "3 sg. opt. caus. pra-√iṣ",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "alternative correction",
+     "fix": "Review: since the three qualities of the hired troops are cumulative, the printed 'va' may stand for 'ca' (and) rather than vā (or); draft reading vā kept, a person should decide.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: since the three qualities of the hired troops are cumulative, the printed 'va' may stand for 'ca' (and) rather than vā (or); draft reading vā kept, a person should decide.",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "देश के लोगों की",
+     "problem": "English says 'of the country'; 'लोगों' adds people, and जनपद is the glossary word",
+     "fix": "जनपद की",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "देश के लोगों की",
+      "new": "जनपद की",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आर्य के अधिष्ठित",
+     "problem": "ungrammatical Hindi agent for adhiṣṭhita",
+     "fix": "आर्य द्वारा अधिष्ठित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आर्य के अधिष्ठित",
+      "new": "आर्य द्वारा अधिष्ठित",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "साँप का भय होगा",
+     "problem": "syāt is optative, not a plain future",
+     "fix": "साँप का भय हो सकता है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "साँप का भय होगा",
+      "new": "साँप का भय हो सकता है",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "— इस प्रकार सेना",
+     "problem": "closing iti must not be rendered as 'इस प्रकार'; the quotation marks carry it",
+     "fix": "— सेना",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "— इस प्रकार सेना",
+      "new": "— सेना",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by choosing among the arms [of the army]",
+     "problem": "vikalpa = option (glossary 9.7); 'choosing' is an addition",
+     "fix": "by options of the arms [of the army]",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by choosing among the arms [of the army]",
+      "new": "by options of the arms [of the army]",
+      "n": "30"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "alternative construction",
+     "fix": "Review: 'vibhavena sva-sainyānām' may instead mean 'according to the means of his own troops'; draft construction kept.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: 'vibhavena sva-sainyānām' may instead mean 'according to the means of his own troops'; draft construction kept.",
+      "n": "30"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "3 errors, 22 minor; no regrouping suggested. Errors: unit 3 Hindi atyāvāpa for alpa-āvāpa, unit 9 Hindi bhakta read as devotee, unit 25 Hindi renders closing iti. Open items: unit 5 yotsyāmi vs yodhayiṣyāmi, unit 15 va as vā or ca, unit 2 unsplit yātavyasya-upajāpa-bhayāt. Unreviewed AI draft."
+}
