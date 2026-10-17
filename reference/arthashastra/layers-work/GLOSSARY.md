@@ -31,3 +31,8 @@
 - (10.4) yuddha = battle (युद्ध); niveśa = encampment (पड़ाव); bhūmi = ground (भूमि); atiśaya = special advantage (विशेष लाभ); pratyāsāra = place of retreat (पीछे हटने का स्थान)
 - (10.4) grahaṇa/mokṣaṇa = capturing/releasing (पकड़ना/छुड़ाना); bhinna-sandhāna = reuniting the broken (ranks) (टूटी हुई सेना को जोड़ना); abhinna-bhedana = breaking the unbroken (ranks) (अटूट सेना को तोड़ना); trāsana = frightening (डराना); audārya = imposing grandeur (भव्यता); bāhu-utsāra = driving off (the enemy) on the flanks (पार्श्वों से खदेड़ना)
 - (10.4) vyāyāma in Book 10 = exertion (in fighting) (व्यायाम), not the 6.2 sense 'activity'; vīvadha = supply-line (रसद); āsāra here = reinforcements (सहायक सेना)
+- (8.1) vyasana = calamity (व्यसन) wherever it is the vyasana of a constituent element (prakṛti-vyasana, the subject of Book 8); the king's own vyasanas born of desire and anger (8.3: kāma-ja, krodha-ja) = vice (व्यसन); Hindi is always व्यसन, never a bracket
+- (8.1) vyasana-pratīkāra = remedying of calamities (व्यसन-प्रतीकार); garīyas = more serious (अधिक गम्भीर); āpad = adversity (आपत्ति); ācāryāḥ (unnamed authorities) = the teachers (आचार्य)
+- (8.1) upajāpa = secret instigation (उपजाप); kupya = raw materials (कुप्य), as in 10.1/12.1; viṣṭi as a resource of the country = forced labour (विष्टि), as a unit of the army (10.1, 10.4) = the labour corps; setu = embankments (सेतु); vārttā = economic activity (वार्ता)
+- (8.1) paura = townsmen (नगरवासी); jānapada (people) = country people (जनपदवासी); jana-pada (the element) stays country (जनपद)
+- (8.1) daṇḍa-praṇayana = administration of punishment (दण्ड का प्रणयन), alternative 'use of force' in notes only; daṇḍa in daṇḍa-kara = fines (दण्ड) with kara = taxes (कर)
