@@ -1,0 +1,527 @@
+[
+ {
+  "n": "2",
+  "field": "word.w",
+  "word": "tato",
+  "old": "tato",
+  "new": "tataḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "āvāsya",
+  "old": "abs. ā-√vap (possible)",
+  "new": "abs. ā-√vap, caus. (āvāpya, emended from printed āvāsya; see flag)",
+  "why": "reviewer (minor): `w` keeps the unemended printed form with a gloss for the emended word; LAYER_NOTES: src as printed, corrected form in words, plus a flag"
+ },
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "āvāsya",
+  "old": "āvāsya",
+  "new": "āvāpya",
+  "why": "reviewer (minor): `w` keeps the unemended printed form with a gloss for the emended word; LAYER_NOTES: src as printed, corrected form in words, plus a flag"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Having fasted three nights, under Puṣya, one should sow barley in earth in the skull of a man killed by a weapon or impaled on a stake, and sprinkle it with sheep's milk.",
+  "new": "Having fasted three nights, under Puṣya, having sown barley in earth in the skull of a man killed by a weapon or impaled on a stake, one should sprinkle it with sheep's milk.",
+  "why": "reviewer (minor): Sanskrit has an absolutive (āvāpya) then the finite secayet; the English turns it into two finite verbs"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Puṣya is a lunar mansion (nakṣatra); inst. puṣyeṇa taken as 'under/at Puṣya'. 'sow it in earth in the skull' is the literal order; 'it' in the English is the sown barley. If āvāsya is kept, the sense is unclear ('having made them stay'). The whole recipe is given as a bare description; no effect is claimed in this unit.",
+  "new": "Puṣya is a lunar mansion (nakṣatra); inst. puṣyeṇa taken as 'under/at Puṣya'. 'sow it in earth in the skull' is the literal order; 'it' in the English is the sown barley. If āvāsya is kept, the sense is unclear ('having made them stay'). The whole recipe is given as a bare description; no effect is claimed in this unit. The translation 'sown' follows the emended reading āvāpya; with the printed āvāsya the sense is not established.",
+  "why": "reviewer (minor): 'sow' rests on the emendation; say so"
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "tato",
+  "old": "tato",
+  "new": "tataḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "naṣṭac-chāyā-rūpaḥ",
+  "old": "naṣṭac-chāyā-rūpaḥ",
+  "new": "naṣṭa-chāyā-rūpaḥ",
+  "why": "reviewer (minor): `w` keeps the sandhi cc, but the draft's own notes (unit 5) say the split is naṣṭa-chāyā-rūpaḥ, as printed in unit 13"
+ },
+ {
+  "n": "7",
+  "field": "word.w",
+  "word": "tato",
+  "old": "tato",
+  "new": "tataḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "7",
+  "field": "word.w",
+  "word": "naṣṭac-chāyā-rūpaḥ",
+  "old": "naṣṭac-chāyā-rūpaḥ",
+  "new": "naṣṭa-chāyā-rūpaḥ",
+  "why": "reviewer (minor): `w` keeps the sandhi cc, but the draft's own notes (unit 5) say the split is naṣṭa-chāyā-rūpaḥ, as printed in unit 13"
+ },
+ {
+  "n": "9",
+  "field": "word.w",
+  "word": "tato",
+  "old": "tato",
+  "new": "tataḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "9",
+  "field": "word.w",
+  "word": "naṣṭac-chāyā-rūpaḥ",
+  "old": "naṣṭac-chāyā-rūpaḥ",
+  "new": "naṣṭa-chāyā-rūpaḥ",
+  "why": "reviewer (minor): `w` keeps the sandhi cc, but the draft's own notes (unit 5) say the split is naṣṭa-chāyā-rūpaḥ, as printed in unit 13"
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "kāla-ayasīm",
+  "old": "karmadhāraya, f. acc. sg.",
+  "new": "karmadhāraya, f. acc. sg. (āyasī, fem. of āyasa 'made of iron')",
+  "why": "reviewer (error): wrong split: kālāyasī is kāla + āyasī (āyasa, 'made of iron', from ayas), not kāla + ayasīm; the notes repeat it"
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "kāla-ayasīm",
+  "old": "kāla-ayasīm",
+  "new": "kāla-āyasīm",
+  "why": "reviewer (error): wrong split: kālāyasī is kāla + āyasī (āyasa, 'made of iron', from ayas), not kāla + ayasīm; the notes repeat it"
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "kālāyasīm = kāla-ayasīm 'black-iron' (feminine, agreeing with añjanīm and śalākām).",
+  "new": "kālāyasīm = kāla-āyasīm 'of black iron' (āyasa 'made of iron') (feminine, agreeing with añjanīm and śalākām).",
+  "why": "reviewer (error): wrong split: kālāyasī is kāla + āyasī (āyasa, 'made of iron', from ayas), not kāla + ayasīm; the notes repeat it"
+ },
+ {
+  "n": "11",
+  "field": "word.w",
+  "word": "tato",
+  "old": "tato",
+  "new": "tataḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "striyā",
+  "old": "f. gen. sg. (see flag)",
+  "new": "f. gen. sg. (emended from printed striyā; see flag)",
+  "why": "reviewer (minor): printed form kept in `w`; the emended form belongs in words"
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "striyā",
+  "old": "woman",
+  "new": "woman",
+  "why": "reviewer (minor): printed form kept in `w`; the emended form belongs in words"
+ },
+ {
+  "n": "11",
+  "field": "word.w",
+  "word": "striyā",
+  "old": "striyā",
+  "new": "striyāḥ",
+  "why": "reviewer (minor): printed form kept in `w`; the emended form belongs in words"
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "tad",
+  "old": "tad",
+  "new": "tat",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "naṣṭac-chāyā-rūpaḥ",
+  "old": "naṣṭac-chāyā-rūpaḥ",
+  "new": "naṣṭa-chāyā-rūpaḥ",
+  "why": "reviewer (minor): `w` keeps the sandhi cc, but the draft's own notes (unit 5) say the split is naṣṭa-chāyā-rūpaḥ, as printed in unit 13"
+ },
+ {
+  "n": "15",
+  "field": "word.w",
+  "word": "yo",
+  "old": "yo",
+  "new": "yaḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "15",
+  "field": "word.w",
+  "word": "gaur",
+  "old": "gaur",
+  "new": "gauḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "ulūka-vāgulī-puccha-purīṣa-jānu-asthi-cūrṇa-pūrṇā",
+  "old": "bahuvrīhi, f. nom. sg.",
+  "new": "tat-puruṣa (inst. 'filled with ...'), f. nom. sg.",
+  "why": "reviewer (minor): 'bahuvrīhi' is wrong: X-pūrṇā 'filled with X' is an instrumental tat-puruṣa qualifying bhastrā"
+ },
+ {
+  "n": "18",
+  "field": "word.w",
+  "word": "ity",
+  "old": "ity",
+  "new": "iti",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "antar-dhāna-yogaḥ",
+  "old": "tat-puruṣa, m. nom. sg. (see flag)",
+  "new": "tat-puruṣa, m. nom. pl. (emended from printed yogaḥ; see flag)",
+  "why": "reviewer (minor): printed form kept in `w`; emended form belongs in words (aṣṭau needs a plural)"
+ },
+ {
+  "n": "18",
+  "field": "word.w",
+  "word": "antar-dhāna-yogaḥ",
+  "old": "antar-dhāna-yogaḥ",
+  "new": "antar-dhāna-yogāḥ",
+  "why": "reviewer (minor): printed form kept in `w`; emended form belongs in words (aṣṭau needs a plural)"
+ },
+ {
+  "n": "21",
+  "field": "word.w",
+  "word": "puruṣā",
+  "old": "puruṣā",
+  "new": "puruṣāḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Just as pythons sleep, and army-scoundrels sleep too, so let the men sleep who are curious in the village.",
+  "new": "Just as pythons sleep, and camū-khalas sleep too, so let men sleep, and those who are curious in the village.",
+  "why": "reviewer (error): khala is given a sense ('scoundrel') the passage does not establish; camū-khala is obscure and the glossary/standing rule is literal rendering kept as printed + note"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "जैसे अजगर सोते हैं और सेना के खल भी सोते हैं, वैसे ही वे पुरुष सोएँ जो गाँव में उत्सुक हैं।",
+  "new": "जैसे अजगर सोते हैं और चमू-खल भी सोते हैं, वैसे ही पुरुष सोएँ, और जो गाँव में उत्सुक हैं।",
+  "why": "reviewer (error): khala is given a sense ('scoundrel') the passage does not establish; camū-khala is obscure and the glossary/standing rule is literal rendering kept as printed + note"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "camū-khalāḥ",
+  "old": "army-scoundrels",
+  "new": "camū-khalas (obscure: camū 'army'; khala 'threshing floor' or 'wicked person')",
+  "why": "reviewer (error): khala is given a sense ('scoundrel') the passage does not establish; camū-khala is obscure and the glossary/standing rule is literal rendering kept as printed + note"
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "camū-khalāḥ",
+  "old": "tat-puruṣa, m. nom. pl.",
+  "new": "compound (type not decided; obscure), m. nom. pl.",
+  "why": "reviewer (error): khala is given a sense ('scoundrel') the passage does not establish; camū-khala is obscure and the glossary/standing rule is literal rendering kept as printed + note"
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "camū-khala is obscure; camū = army, khala = base or wicked person (also 'threshing floor'), so 'army-scoundrels' is a literal guess; low confidence. ajagara = python (large snake). kutūhala = curiosity, eagerness; 'curious' chosen, alternative 'restless, agitated'.",
+  "new": "camū-khala is obscure; camū = army, khala = base or wicked person (also 'threshing floor'), so 'army-scoundrels' is a literal guess; low confidence. ajagara = python (large snake). kutūhala = curiosity, eagerness; 'curious' chosen, alternative 'restless, agitated'. Revised: 'army-scoundrels' / 'सेना के खल' removed; camū-khala is kept untranslated. The particle ca in 'ye ca' is now rendered ('and those who ...').",
+  "why": "reviewer (error): khala is given a sense ('scoundrel') the passage does not establish; camū-khala is obscure and the glossary/standing rule is literal rendering kept as printed + note"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "imaṃ",
+  "old": "m. acc. sg.",
+  "new": "n. acc. sg. (agrees with gṛhaṃ)",
+  "why": "reviewer (minor): gender: imaṃ qualifies gṛham, which is neuter"
+ },
+ {
+  "n": "22",
+  "field": "text_flags.0.why",
+  "old": "possible: bhaṇḍaka is unattested to me and the line ends with bhāṇḍakāḥ; the two may be one word",
+  "new": "possible: bhaṇḍaka is not a known word, whereas bhāṇḍaka (from bhāṇḍa 'vessel, goods') is; the line ends with bhāṇḍakāḥ and the Devanagari has भण्डकानां; the two may be one word. Not confirmed.",
+  "why": "reviewer (minor): 'unattested to me' is a statement about the drafter, not the text"
+ },
+ {
+  "n": "23",
+  "field": "word.w",
+  "word": "devā",
+  "old": "devā",
+  "new": "devāḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "śunaka-phelakāḥ",
+  "old": "m. acc./nom. pl. (obscure)",
+  "new": "m. nom. pl. (or voc.) (obscure)",
+  "why": "reviewer (error): 'acc. pl.' is impossible: an a-stem accusative plural ends in -ān; -āḥ is nominative (or vocative). The English/Hindi make it the object of baddhvā, which the form does not allow"
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "śunaka-phelakāḥ",
+  "old": "śunaka-phelakas",
+  "new": "śunaka-phelakas (obscure)",
+  "why": "reviewer (error): 'acc. pl.' is impossible: an a-stem accusative plural ends in -ān; -āḥ is nominative (or vocative). The English/Hindi make it the object of baddhvā, which the form does not allow"
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Having made obeisance to Manu, having bound the śunaka-phelakas; the gods who are in the worlds of the gods, and the brāhmaṇas among humans,",
+  "new": "Having made obeisance to Manu, having bound — śunaka-phelakas —; the gods who are in the worlds of the gods, and the brāhmaṇas among humans,",
+  "why": "reviewer (error): 'acc. pl.' is impossible: an a-stem accusative plural ends in -ān; -āḥ is nominative (or vocative). The English/Hindi make it the object of baddhvā, which the form does not allow"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मनु को नमस्कार करके, शुनक-फेलकों को बाँधकर; जो देव देवलोकों में हैं और मनुष्यों में जो ब्राह्मण हैं,",
+  "new": "मनु को नमस्कार करके, बाँधकर — शुनक-फेलक —; जो देव देवलोकों में हैं और मनुष्यों में जो ब्राह्मण हैं,",
+  "why": "reviewer (error): 'acc. pl.' is impossible: an a-stem accusative plural ends in -ān; -āḥ is nominative (or vocative). The English/Hindi make it the object of baddhvā, which the form does not allow"
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "śunaka-phelaka is obscure (śunaka 'dog, little dog'; phelaka may relate to 'leavings'); kept as printed and not translated; the printed -ḥ could be nominative (subject) or an object of baddhvā. The sentence continues in unit 24 (the relative ye ... is completed there by etebhyaḥ).",
+  "new": "śunaka-phelaka is obscure (śunaka 'dog, little dog'; phelaka may relate to 'leavings'); kept as printed and not translated; the printed -ḥ could be nominative (subject) or an object of baddhvā. The sentence continues in unit 24 (the relative ye ... is completed there by etebhyaḥ). Revised: the ending -āḥ is not an accusative, so 'bound the śunaka-phelakas' is not supported; the grammatical role of śunaka-phelakāḥ (and what is bound) is unclear. Needs a person.",
+  "why": "reviewer (error): 'acc. pl.' is impossible: an a-stem accusative plural ends in -ān; -āḥ is nominative (or vocative). The English/Hindi make it the object of baddhvā, which the form does not allow"
+ },
+ {
+  "n": "24",
+  "field": "text_flags.0.why",
+  "old": "possible: 'ascetics of Kailāsa' would fit tāpasāḥ; kaulāsa is not a word I know",
+  "new": "possible: 'ascetics of Kailāsa' would fit tāpasāḥ; kaulāsa is not a known word. Not confirmed; the Devanagari has कौलास.",
+  "why": "reviewer (minor): 'not a word I know' is a statement about the drafter; the flag itself (kailāsa) is plausible and stands as 'possible'"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "And they go past; let them go away from me, assembled.",
+  "new": "And they go past; let them go away, assembled, at me.",
+  "why": "reviewer (error): Hindi reads atigacchanti as a participle ('passing'), English as a finite verb; 'from me' renders locative mayi as an ablative without marking it. The two languages must give one reading"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "और पार जाते हुए, वे एकत्र होकर मुझसे दूर चले जाएँ।",
+  "new": "और वे पार जाते हैं; वे एकत्र होकर मुझ पर दूर चले जाएँ।",
+  "why": "reviewer (error): Hindi reads atigacchanti as a participle ('passing'), English as a finite verb; 'from me' renders locative mayi as an ablative without marking it. The two languages must give one reading"
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "Obscure and possibly corrupt: atigacchanti may be a verb ('they go past, transgress') or a neuter participle ('[things] going past'); the subject is not stated, and 'away from me' renders the locative mayi loosely ('in me'). Rendered literally; low confidence.",
+  "new": "Obscure and possibly corrupt: atigacchanti may be a verb ('they go past, transgress') or a neuter participle ('[things] going past'); the subject is not stated, and 'away from me' renders the locative mayi loosely ('in me'). Rendered literally; low confidence. Revised: Hindi and English now give the same literal reading (finite 'they go past'; mayi rendered 'at me', locative kept). The line may be corrupt or elliptical; needs a person.",
+  "why": "reviewer (error): Hindi reads atigacchanti as a participle ('passing'), English as a finite verb; 'from me' renders locative mayi as an ablative without marking it. The two languages must give one reading"
+ },
+ {
+  "n": "28",
+  "field": "word.w",
+  "word": "śva-pākī-hastād",
+  "old": "śva-pākī-hastād",
+  "new": "śva-pākī-hastāt",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "29",
+  "field": "word.w",
+  "word": "tan-māṣaiḥ",
+  "old": "tan-māṣaiḥ",
+  "new": "tat-māṣaiḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "31",
+  "field": "word.w",
+  "word": "tata",
+  "old": "tata",
+  "new": "tataḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "34",
+  "field": "word.w",
+  "word": "devatā",
+  "old": "devatā",
+  "new": "devatāḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "35",
+  "field": "word.w",
+  "word": "brāhmaṇā",
+  "old": "brāhmaṇā",
+  "new": "brāhmaṇāḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "vayu-cāre",
+  "old": "vayu-moving",
+  "new": "vayu-cāre",
+  "why": "reviewer (error): 'vayu-moving' invents a sense (vayu is not a word; vāyu is) for a mantra word"
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "vayu-cāre",
+  "old": "mantra word (obscure), voc. sg. f.",
+  "new": "mantra word (obscure)",
+  "why": "reviewer (error): 'vayu-moving' invents a sense (vayu is not a word; vāyu is) for a mantra word"
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "prayoge",
+  "old": "mantra word, voc./loc. sg.",
+  "new": "mantra word (obscure; looks like a locative of prayoga but taken as a mantra name)",
+  "why": "reviewer (minor): case labels (voc./loc.) assigned to mantra words without support"
+ },
+ {
+  "n": "36",
+  "field": "word.gram",
+  "word": "danta-kaṭake",
+  "old": "mantra word (obscure), voc. sg.",
+  "new": "mantra word (obscure)",
+  "why": "reviewer (minor): case labels (voc./loc.) assigned to mantra words without support"
+ },
+ {
+  "n": "37",
+  "field": "word.w",
+  "word": "śunakā",
+  "old": "śunakā",
+  "new": "śunakāḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "Let the dogs sleep comfortably, those that are curious in the village; and this three-white quill of the porcupine is made by Brahma.",
+  "new": "Let the dogs sleep comfortably, and those who are curious in the village; and this three-white quill of the porcupine is made by Brahma.",
+  "why": "reviewer (minor): ca in 'ye ca' dropped; the draft makes the relative qualify the dogs"
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "गाँव में जो उत्सुक कुत्ते हैं, वे सुख से सोएँ; और साही का यह तीन-श्वेत काँटा ब्रह्मा द्वारा बनाया हुआ है।",
+  "new": "कुत्ते सुख से सोएँ, और जो गाँव में उत्सुक हैं; और साही का यह तीन-श्वेत काँटा ब्रह्मा द्वारा बनाया हुआ है।",
+  "why": "reviewer (minor): ca in 'ye ca' dropped; the draft makes the relative qualify the dogs"
+ },
+ {
+  "n": "38",
+  "field": "word.w",
+  "word": "sarva-siddhā",
+  "old": "sarva-siddhā",
+  "new": "sarva-siddhāḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "38",
+  "field": "word.w",
+  "word": "yāvad",
+  "old": "yāvad",
+  "new": "yāvat",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "38",
+  "field": "word.w",
+  "word": "udgamanād",
+  "old": "udgamanād",
+  "new": "udgamanāt",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "सब सिद्ध सो गए हैं; यह स्वापन तुम्हारे लिए किया गया है, जहाँ तक गाँव की सीमा का अन्त है, सूर्य के उदय तक।",
+  "new": "सब सिद्ध सचमुच सो गए हैं; यह स्वापन तुम्हारे लिए किया गया है, जहाँ तक गाँव की सीमा का अन्त है, सूर्य के उदय तक।",
+  "why": "reviewer (minor): hi (indeed) is in the English but dropped in the Hindi"
+ },
+ {
+  "n": "41",
+  "field": "word.w",
+  "word": "samidhābhir",
+  "old": "samidhābhir",
+  "new": "samidhābhiḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "41",
+  "field": "word.w",
+  "word": "tri-śvetāni,",
+  "old": "tri-śvetāni,",
+  "new": "tri-śvetāni",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "aṣṭa-śata-sampātaṃ",
+  "old": "having a hundred and eight sampātas",
+  "new": "having aṣṭa-śata sampātas (aṣṭa-śata usually 108; literally 'eight-hundred')",
+  "why": "reviewer (minor): aṣṭa-śata is rendered '108' as fact; the compound is literally 'eight-hundred' and 108 is the conventional reading (contested count). Translations keep 108 with a note; a person should confirm"
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "Syntax uncertain. The quills are in the accusative/nominative plural and are taken as the things offered ('[them]' supplied). agnim ... aṣṭa-śata-sampātaṃ kṛtvā is literally 'having made the fire have 108 sampātas'; sampāta (here an act of the rite, possibly a repetition or a pouring, 'falling together') is kept untranslated. It may mean reciting the mantra 108 times over the fire. abhijuhuyāt = offer into/over (the fire). khādira: of khadira wood (a tree name, not identified).",
+  "new": "Syntax uncertain. The quills are in the accusative/nominative plural and are taken as the things offered ('[them]' supplied). agnim ... aṣṭa-śata-sampātaṃ kṛtvā is literally 'having made the fire have 108 sampātas'; sampāta (here an act of the rite, possibly a repetition or a pouring, 'falling together') is kept untranslated. It may mean reciting the mantra 108 times over the fire. abhijuhuyāt = offer into/over (the fire). khādira: of khadira wood (a tree name, not identified). Count: aṣṭa-śata is read as 108 (the usual ritual number) in English and Hindi; literally it could be 800. Needs a person.",
+  "why": "reviewer (minor): aṣṭa-śata is rendered '108' as fact; the compound is literally 'eight-hundred' and 108 is the conventional reading (contested count). Translations keep 108 with a note; a person should confirm"
+ },
+ {
+  "n": "42",
+  "field": "word.w",
+  "word": "tata",
+  "old": "tata",
+  "new": "tataḥ",
+  "why": "reviewer (minor): sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)"
+ },
+ {
+  "n": "42",
+  "field": "word.gram",
+  "word": "grāma-dvāri",
+  "old": "tat-puruṣa, n. loc. sg.",
+  "new": "tat-puruṣa, f. loc. sg.",
+  "why": "reviewer (minor): gender: dvār is feminine, not neuter"
+ },
+ {
+  "n": "42",
+  "field": "word.gram",
+  "word": "gṛha-dvāri",
+  "old": "tat-puruṣa, n. loc. sg.",
+  "new": "tat-puruṣa, f. loc. sg.",
+  "why": "reviewer (minor): gender: dvār is feminine, not neuter"
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "“वैरोचन बलि की, शतमाय और शम्बर की मैं वन्दना करता हूँ; निकुम्भ, नरक, कुम्भ, तन्तुकच्छ और महान् असुर की भी।",
+  "new": "“वैरोचन बलि की, शतमाय और शम्बर की मैं वन्दना करता हूँ; निकुम्भ, नरक, कुम्भ, तन्तुकच्छ, महान् असुर की।",
+  "why": "reviewer (minor): 'और' before the last name and 'भी' are not in the Sanskrit (no ca/eva in this line; the English correctly has neither)"
+ }
+]

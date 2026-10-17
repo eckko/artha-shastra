@@ -414,16 +414,16 @@
       {
        "n": "18",
        "op": "word",
-       "match_w": "yogaḥ",
+       "match_w": "antar-dhāna-yogaḥ",
        "field": "gram",
        "value": "tat-puruṣa, m. nom. pl. (emended from printed yogaḥ; see flag)"
       },
       {
        "n": "18",
        "op": "word",
-       "match_w": "yogaḥ",
+       "match_w": "antar-dhāna-yogaḥ",
        "field": "w",
-       "value": "yogāḥ"
+       "value": "antar-dhāna-yogāḥ"
       }
      ]
     }
@@ -589,20 +589,6 @@
        "text": "Revised: the ending -āḥ is not an accusative, so 'bound the śunaka-phelakas' is not supported; the grammatical role of śunaka-phelakāḥ (and what is bound) is unclear. Needs a person."
       }
      ]
-    },
-    {
-     "field": "split",
-     "where": "devā",
-     "problem": "sandhi not undone",
-     "fix": "devāḥ",
-     "severity": "minor",
-     "patch": {
-      "n": "23",
-      "op": "word",
-      "match_w": "devā",
-      "field": "w",
-      "value": "devāḥ"
-     }
     }
    ]
   },
