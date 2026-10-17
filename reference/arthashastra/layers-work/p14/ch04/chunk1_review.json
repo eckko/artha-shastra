@@ -1,0 +1,304 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'Alternative ... three members'",
+     "problem": "The note contradicts itself: the gloss and word list take two members (dūṣī-viṣa + gara), the note says 'three members'.",
+     "fix": "Division read here: dūṣī-viṣa + gara (two members, as in the gloss); alternative: three members dūṣī, viṣa, gara.",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "notes",
+      "old": "Alternative: a two-member list 'dūṣī-viṣa' and 'gara' (the compound is read here as three members).",
+      "new": "Division read here: dūṣī-viṣa + gara (two members, as in the gloss); alternative: three members dūṣī, viṣa, gara."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "first word of token 1 (śleṣmātaka-...-balā-syonāga)",
+     "problem": "Labelled 'gen. sg.; dvandva (list)' but the token ends with '.-', i.e. the compound continues into 'punar-navā-...-kvātha-yuktam'; the members are not a separate genitive.",
+     "fix": "compound members (continued in the next token); dvandva list",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "śleṣmātaka-kapittha-danti-danta-śaṭha-goji-śirīṣa-pāṭalī-balā-syonāga",
+      "field": "gram",
+      "value": "compound members (continued in the next token); dvandva list"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "punar-navā-śveta-vāraṇa-kvātha-yuktam",
+     "problem": "Gloss names only punarnavā, śveta, vāraṇa, but the decoction is of the whole list including the preceding token.",
+     "fix": "mixed with a decoction of the herbs in the previous token and of punarnavā, śveta and vāraṇa",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "punar-navā-śveta-vāraṇa-kvātha-yuktam",
+      "field": "gloss",
+      "value": "mixed with a decoction of the herbs in the previous token and of punarnavā, śveta and vāraṇa"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "danti/danta/śaṭha; syonāga",
+     "problem": "Draft doubt on danti/danta: 'danta-śaṭha' may be one plant name, and 'syonāga' may be a variant of syonāka; both only possible, so no change to the split or translation.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "append_note",
+      "text": "'danta-śaṭha' may be a single plant name (so 'danta' and 'śaṭha' would not be separate members); 'syonāga' may be a variant of 'syonāka'. Both are only possible; the split follows the edition's dots. The genitives 'rāja-upabhogyānām', 'strīṇām', 'senāyāḥ' are read as objective genitives of nejana / prakṣālana / pratīkāra respectively; the scope of 'viṣa-pratīkāraḥ' (army only, or all three) is not settled, so confidence stays low."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'Only yogaḥ is nominative'",
+     "problem": "Wrong reasoning: 'cūrṇam' is also nominative/accusative (neuter); the real point is that 'haraḥ' is masculine and agrees only with 'yogaḥ'.",
+     "fix": "The predicate 'haraḥ' is masculine and agrees only with 'yogaḥ'; the neuter 'cūrṇam' does not agree with it, so its relation is uncertain; it is read here as a second subject, and both are taken as removers of madana's ill effect.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "notes",
+      "old": "Only 'yogaḥ' is nominative, so the powder may be a second subject or part of the compound's description; both are read as removers of madana's ill effect.",
+      "new": "The predicate 'haraḥ' is masculine and agrees only with 'yogaḥ'; the neuter 'cūrṇam' does not agree with it, so its relation is uncertain; it is read here as a second subject, and both are taken as removers of madana's ill effect."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nīla-kaṇṭha",
+     "problem": "'Peacock' is the first lexical sense but 'blue-necked' also names other birds; the draft states the literal sense but not the alternative.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "append_note",
+      "text": "'nīla-kaṇṭha' is also a name of other blue-necked birds (e.g. the blue jay); 'peacock' is the common lexical sense, kept with that reservation."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "valī -> vallī",
+     "problem": "The word list, English and Hindi follow the flagged correction 'vallī' without saying so; the flag is only possible, so the translation should say which spelling it follows.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "The word list, English and Hindi follow the suggested spelling 'vallī' (vāraṇa-vallī); the printed 'valī' is kept in src. The flag is only possible."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "mañjiṣṭhāta.garalā.kṣāra.samadhuka",
+     "problem": "Flag confirmed as 'possible': the suggested division mañjiṣṭhā-tagara-lākṣā-rasa-madhuka has exactly the same letters (mañjiṣṭhātagaralākṣārasamadhuka) and replaces the non-words 'mañjiṣṭhāta' and 'garalā' with known drug names. Not certain, so words/translation correctly stay with the printed division.",
+     "fix": "none (flag kept)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "Checked letter for letter: 'mañjiṣṭhā-tagara-lākṣā-rasa-madhuka' gives the same string as the printed 'mañjiṣṭhāta.garalā.kṣāra.samadhuka'; the translation keeps the printed division, so 'mañjiṣṭhāta' and 'garalā' are unattested names kept as printed, not identified."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "nihsañjñānāṃ",
+     "problem": "Not a text error (the draft itself says so); a flag should mark a suspected typo. Reject this flag; the word list already has niḥsañjñānām. Needs a person only if flags must be removed (no patch op for that).",
+     "fix": "remove this text_flags entry",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "hastī-uṣṭrāṇām",
+     "problem": "Wrong compound form: the stem of hastin in compounds is 'hasti-', not 'hastī' (the nominative); the note repeats the error.",
+     "fix": "hasti-uṣṭrāṇām",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "hastī-uṣṭrāṇām",
+      "field": "w",
+      "value": "hasti-uṣṭrāṇām"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'hasty.uṣṭrāṇām' is hastī + uṣṭrāṇām",
+     "problem": "Same error in the note.",
+     "fix": "'hasty.uṣṭrāṇām' is hasti + uṣṭrāṇām",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "notes",
+      "old": "is hastī + uṣṭrāṇām",
+      "new": "is hasti + uṣṭrāṇām"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अक्ष मात्र",
+     "problem": "In Hindi 'मात्र' means 'only', so 'अक्ष मात्र' reads 'merely an akṣa'; 'गायों' narrows 'gava' (cattle) to cows.",
+     "fix": "मनुष्यों के लिए अक्ष की मात्रा, गौओं और घोड़ों के लिए दुगुनी, हाथियों और ऊँटों के लिए चौगुनी।",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "मनुष्यों के लिए अक्ष की मात्रा, गौओं और घोड़ों के लिए दुगुनी, हाथियों और ऊँटों के लिए चौगुनी।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "And the jewel of these",
+     "problem": "'the' is not in the Sanskrit (no article); and the note claims 'eṣām' refers to the earlier ingredients, which the line does not establish (it may equally point to the men and animals of the previous unit).",
+     "fix": "And a jewel of these",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "And the jewel of these",
+      "new": "And a jewel of these"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "eṣām reference",
+     "problem": "Unsupported certainty about the referent.",
+     "fix": "replacement note",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "notes",
+      "old": "'eṣām' refers back to the earlier ingredients; 'jewel of these' may mean a jewel (amulet) made of them. The reference is not stated in the line.",
+      "new": "The referent of 'eṣām' is not fixed by the line: it may point to the men and animals of the previous unit or to the ingredients named earlier; 'jewel of these' is kept literal."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "; or, having seen",
+     "problem": "'or' is added: 'vā' joins 'dhvaja' and 'patākā' only; the second line has no clause-level 'or'.",
+     "fix": "poison; having seen",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "poison; or, having seen",
+      "new": "poison; having seen"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अथवा लेपे",
+     "problem": "Same addition ('अथवा') in Hindi, which also uses 'या' for the real 'vā'.",
+     "fix": "वाला है; लेपे",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वाला है; अथवा लेपे",
+      "new": "वाला है; लेपे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "viṣa-dhūma-ambu-dūṣaṇān",
+     "problem": "English 'tainters of poison, smoke and water' reads as if poison etc. are what is tainted, while the gloss says 'by'; also 'dūṣaṇa' is normally neuter, so masculine accusative plural 'dūṣaṇān' is odd (possible 'dūṣaṇāni'). Reading of the compound needs a person.",
+     "fix": "append note (no patch to the translation)",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "append_note",
+      "text": "'dūṣaṇān' is masculine accusative plural, whereas 'dūṣaṇa' is normally neuter (one would expect 'dūṣaṇāni'); the relation of poison, smoke and water to 'dūṣaṇa' (tainting by them, or tainting of them) is not settled."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "14 units reviewed; 17 issues (1 error, 16 minor); no regrouping suggested. Main error: unit 2 first token mislabelled as separate genitive (compound continues). Confirmed: unit 4 flag (possible), unit 9 re-division flag (possible, letters match exactly); rejected: unit 9 nihsañjñānāṃ flag (not a typo). Needs a person: unit 2 scope of viṣa-pratīkāraḥ and danti/danta/śaṭha, unit 9 re-division, unit 12 genitive list/vandāka, unit 14 dūṣaṇān gender and compound relation, unit 11 referent of eṣām."
+}
