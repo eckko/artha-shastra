@@ -1,0 +1,3147 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "muṣita.sannidhau",
+      "words": [
+       {
+        "w": "muṣita-sannidhau",
+        "gloss": "in the presence of the robbed",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhyānām",
+      "words": [
+       {
+        "w": "bāhya",
+        "gloss": "outer",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhyantarāṇāṃ",
+      "words": [
+       {
+        "w": "abhyantarāṇām",
+        "gloss": "inner",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sākṣiṇām",
+      "words": [
+       {
+        "w": "sākṣiṇām",
+        "gloss": "witnesses",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhiśastasya",
+      "words": [
+       {
+        "w": "abhiśastasya",
+        "gloss": "of the accused",
+        "gram": "ppp. m. gen. sg. abhi-√śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "deśa.jāti.gotra.nāma.karma.sāra.sahāya.nivāsān",
+      "words": [
+       {
+        "w": "deśa-jāti-gotra-nāma-karma-sāra-sahāya-nivāsān",
+        "gloss": "country, caste, lineage, name, action, valuables, associates, residence",
+        "gram": "dvandva, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "anuyuñjīta",
+      "words": [
+       {
+        "w": "anuyuñjīta",
+        "gloss": "should question",
+        "gram": "3 sg. opt. mid. anu-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लुटे हुए की और बाहरी तथा भीतरी साक्षियों की उपस्थिति में, अभियुक्त से उसके देश, जाति, गोत्र, नाम, कर्म, बहुमूल्य वस्तुओं, सहायकों और निवास के विषय में पूछताछ करे।",
+  "english": "In the presence of the robbed, and of witnesses, outer and inner, he should question the accused about [his] country, caste, lineage, name, action, valuables, associates and residence.",
+  "text_flags": [],
+  "notes": "muṣita (ppp. of √muṣ) is taken as 'the robbed [person]' (plain substantive). bāhya/abhyantara sākṣin = witnesses 'outer and inner' (the text does not say who they are). karma in the list is the glossary 'action'; 'occupation' is the likely sense. sāra = valuables per glossary (also 'property, substance'). The subject of anuyuñjīta (the investigating officer) is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.1"
+  ],
+  "lines_deva": [
+   "मुषित.सन्निधौ बाह्यानाम् अभ्यन्तराणां च साक्षिणाम् अभिशस्तस्य देश.जाति.गोत्र.नाम.कर्म.सार.सहाय.निवासान् अनुयुञ्जीत"
+  ],
+  "lines_iast": [
+   "muṣita.sannidhau bāhyānām abhyantarāṇāṃ ca sākṣiṇām abhiśastasya deśa.jāti.gotra.nāma.karma.sāra.sahāya.nivāsān anuyuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāṃś",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl. (tad)"
+       }
+      ]
+     },
+     {
+      "src": "ca-apadeśaiḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "apadeśaiḥ",
+        "gloss": "pretexts (apadeśa)",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratisamānayet",
+      "words": [
+       {
+        "w": "pratisamānayet",
+        "gloss": "should compare",
+        "gram": "3 sg. opt. prati-sam-ā-√nī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उनका अपदेशों से मिलान करे।",
+  "english": "And he should compare those with the apadeśas (pretexts).",
+  "text_flags": [],
+  "notes": "apadeśa is left as a literal 'pretext' (also 'reference, assigned statement'); the exact sense (the statements given by the accused or by the persons he names) is not settled by the line. 'Those' (tān) refers back to the particulars of unit 1 only by inference; nothing is supplied. pratisamānayet is literally 'bring together (to match) with'. Reviewer: apadeśa shares its root (apa-√diś, 'point out') with apadiṣṭaka in unit 7; 'pretexts' is kept as the literal, sense (statements/references named by the accused) unsettled.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.2"
+  ],
+  "lines_deva": [
+   "तांश् च-अपदेशैः प्रतिसमानयेत्"
+  ],
+  "lines_iast": [
+   "tāṃś ca-apadeśaiḥ pratisamānayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūrvasya-ahnaḥ",
+      "words": [
+       {
+        "w": "pūrvasya",
+        "gloss": "of the previous",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "ahnaḥ",
+        "gloss": "day",
+        "gram": "n. gen. sg. (ahan)"
+       }
+      ]
+     },
+     {
+      "src": "pracāraṃ",
+      "words": [
+       {
+        "w": "pracāram",
+        "gloss": "movement",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rātrau",
+      "words": [
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nivāsaṃ",
+      "words": [
+       {
+        "w": "nivāsam",
+        "gloss": "stay",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ā",
+        "gloss": "up to",
+        "gram": "ind. (prep. + abl.)"
+       }
+      ]
+     },
+     {
+      "src": "grahaṇād",
+      "words": [
+       {
+        "w": "grahaṇāt",
+        "gloss": "the arrest (seizing)",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anuyuñjīta",
+      "words": [
+       {
+        "w": "anuyuñjīta",
+        "gloss": "should question",
+        "gram": "3 sg. opt. mid. anu-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर पिछले दिन के विचरण और रात में निवास के विषय में, पकड़े जाने तक, पूछताछ करे।",
+  "english": "Then he should question [him] about the previous day's movement and [his] stay at night, up to the arrest.",
+  "text_flags": [],
+  "notes": "'cā grahaṇāt' = ca + ā grahaṇāt ('and up to the seizing'). The closing iti is not rendered (it closes the list of matters of inquiry). The object 'him' is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.08.3"
+  ],
+  "lines_deva": [
+   "ततः पूर्वस्य-अह्नः प्रचारं रात्रौ निवासं चा ग्रहणाद् इत्य् अनुयुञ्जीत"
+  ],
+  "lines_iast": [
+   "tataḥ pūrvasya-ahnaḥ pracāraṃ rātrau nivāsaṃ cā grahaṇād ity anuyuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya-apasāra.pratisandhāne",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "apasāra-pratisandhāne",
+        "gloss": "in the matching of the apasāra (retreat)",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuddhaḥ",
+      "words": [
+       {
+        "w": "śuddhaḥ",
+        "gloss": "cleared (pure)",
+        "gram": "ppp. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāt,",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "anyathā",
+      "words": [
+       {
+        "w": "anyathā",
+        "gloss": "otherwise",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karma.prāptaḥ",
+      "words": [
+       {
+        "w": "karma-prāptaḥ",
+        "gloss": "one who has reached action",
+        "gram": "tat-puruṣa, ppp. m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके अपसार का मिलान होने पर वह निर्दोष हो; अन्यथा कर्म को प्राप्त है।",
+  "english": "If his apasāra is matched up, he would be cleared; otherwise, [he is] one who has reached action.",
+  "text_flags": [],
+  "notes": "apasāra is taken literally as 'going away' (his departure/movements); the glossary has 'place of retreat' for 10.2, a different sense. pratisandhāna = joining, matching. śuddha is literally 'pure' (cleared of the charge). karma-prāpta = 'one who has come to action', i.e. liable to the 'action' of unit 14ff.; the text does not say more. The verb is supplied only as the copula. Reviewer: apasāra stays untranslated (अपसार) as in 4.6; literal 'retreat' only in the gloss; whether it is the place resorted to or the person pointed to is unsettled (4.6 takes the person pointed to). The earlier note 'going away' is withdrawn.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.4"
+  ],
+  "lines_deva": [
+   "तस्य-अपसार.प्रतिसन्धाने शुद्धः स्यात्, अन्यथा कर्म.प्राप्तः"
+  ],
+  "lines_iast": [
+   "tasya-apasāra.pratisandhāne śuddhaḥ syāt, anyathā karma.prāptaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tri.rātrād",
+      "words": [
+       {
+        "w": "tri-rātrāt",
+        "gloss": "after three nights",
+        "gram": "dvigu, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ūrdhvam",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "beyond",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "agrāhyaḥ",
+      "words": [
+       {
+        "w": "agrāhyaḥ",
+        "gloss": "not to be seized",
+        "gram": "gerundive m. nom. sg. a-√grah"
+       }
+      ]
+     },
+     {
+      "src": "śaṅkitakaḥ",
+      "words": [
+       {
+        "w": "śaṅkitakaḥ",
+        "gloss": "the suspected one",
+        "gram": "ppp. + -ka, m. nom. sg. √śaṅk"
+       }
+      ]
+     },
+     {
+      "src": "pṛcchā.abhāvād",
+      "words": [
+       {
+        "w": "pṛcchā-abhāvāt",
+        "gloss": "from the absence of questioning",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyatra-upakaraṇa.darśanāt",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       },
+       {
+        "w": "upakaraṇa-darśanāt",
+        "gloss": "on seeing the implements",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन रात के बाद संदिग्ध पकड़ने योग्य नहीं है, पूछताछ के अभाव से; उपकरण के दिखाई देने को छोड़कर।",
+  "english": "After three nights the suspected one is not to be seized, from the absence of questioning, except on seeing the implements.",
+  "text_flags": [],
+  "notes": "The sentence is elliptical. agrāhya is literally 'not to be seized' (held, kept in custody); the reason clause 'from absence of questioning' could instead qualify the exception. upakaraṇa = implements/equipment (burglars' tools or stolen articles are both possible; the text does not say).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.5"
+  ],
+  "lines_deva": [
+   "त्रि.रात्राद् ऊर्ध्वम् अग्राह्यः शङ्कितकः पृच्छा.अभावाद् अन्यत्र-उपकरण.दर्शनात्"
+  ],
+  "lines_iast": [
+   "tri.rātrād ūrdhvam agrāhyaḥ śaṅkitakaḥ pṛcchā.abhāvād anyatra-upakaraṇa.darśanāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "acoraṃ",
+      "words": [
+       {
+        "w": "acoram",
+        "gloss": "a non-thief",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cora",
+      "words": [
+       {
+        "w": "coraḥ",
+        "gloss": "thief",
+        "gram": "m. nom. sg. (quoted)"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "abhivyāharataś",
+      "words": [
+       {
+        "w": "abhivyāharataḥ",
+        "gloss": "of one who declares",
+        "gram": "pres. part. m. gen. sg. abhi-vi-ā-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "cora.samo",
+      "words": [
+       {
+        "w": "cora-samaḥ",
+        "gloss": "equal to a thief's",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "punishment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "coraṃ",
+      "words": [
+       {
+        "w": "coram",
+        "gloss": "thief",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pracchādayataś",
+      "words": [
+       {
+        "w": "pracchādayataḥ",
+        "gloss": "of one who hides",
+        "gram": "pres. part. caus. m. gen. sg. pra-√chad"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो चोर नहीं है उसे “चोर” कहने वाले को चोर के समान दण्ड है, और चोर को छिपाने वाले को भी।",
+  "english": "For one who declares a non-thief “a thief”, the punishment is equal to a thief's; and for one who hides a thief.",
+  "text_flags": [],
+  "notes": "The closing iti closes the quoted word 'thief' and is shown by the quotation marks only. 'Equal to a thief's' is the punishment (daṇḍa) of a thief, not specified. The final 'and for one who hides a thief' takes the same punishment by ellipsis.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.08.6"
+  ],
+  "lines_deva": [
+   "अचोरं चोर इत्य् अभिव्याहरतश् चोर.समो दण्डः, चोरं प्रच्छादयतश् च"
+  ],
+  "lines_iast": [
+   "acoraṃ cora ity abhivyāharataś cora.samo daṇḍaḥ, coraṃ pracchādayataś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "coreṇa-abhiśasto",
+      "words": [
+       {
+        "w": "coreṇa",
+        "gloss": "by a thief",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "abhiśastaḥ",
+        "gloss": "accused",
+        "gram": "ppp. m. nom. sg. abhi-√śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "vaira.dveṣābhyām",
+      "words": [
+       {
+        "w": "vaira-dveṣābhyām",
+        "gloss": "out of enmity and hatred",
+        "gram": "dvandva, m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "apadiṣṭakaḥ",
+      "words": [
+       {
+        "w": "apadiṣṭakaḥ",
+        "gloss": "the one named",
+        "gram": "ppp. + -ka, m. nom. sg. apa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "śuddhaḥ",
+      "words": [
+       {
+        "w": "śuddhaḥ",
+        "gloss": "cleared (pure)",
+        "gram": "ppp. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चोर द्वारा अभियुक्त किया गया, वैर और द्वेष से नामजद किया गया, निर्दोष हो।",
+  "english": "One accused by a thief, named out of enmity and hatred, would be cleared.",
+  "text_flags": [],
+  "notes": "apadiṣṭaka (apa-√diś, 'pointed out, named') is taken as 'the one named'; 'falsely pointed at' is an alternative colouring. The instrumental dual vaira-dveṣābhyām is read as the reason ('out of').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.7"
+  ],
+  "lines_deva": [
+   "चोरेण-अभिशस्तो वैर.द्वेषाभ्याम् अपदिष्टकः शुद्धः स्यात्"
+  ],
+  "lines_iast": [
+   "coreṇa-abhiśasto vaira.dveṣābhyām apadiṣṭakaḥ śuddhaḥ syāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuddhaṃ",
+      "words": [
+       {
+        "w": "śuddham",
+        "gloss": "the cleared (pure) one",
+        "gram": "ppp. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parivāsayataḥ",
+      "words": [
+       {
+        "w": "parivāsayataḥ",
+        "gloss": "of one who keeps detained",
+        "gram": "pres. part. caus. m. gen. sg. pari-√vas"
+       }
+      ]
+     },
+     {
+      "src": "pūrvaḥ",
+      "words": [
+       {
+        "w": "pūrvaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāhasa.daṇḍaḥ",
+      "words": [
+       {
+        "w": "sāhasa-daṇḍaḥ",
+        "gloss": "fine for rashness",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निर्दोष को रोके रखने वाले को प्रथम साहस-दण्ड है।",
+  "english": "For one who keeps a cleared man detained, [there is] the first fine for rashness.",
+  "text_flags": [],
+  "notes": "parivāsayati is literally 'causes to stay around' (keeps confined, detains); the sense of confinement is inferred from the context. 'First' (pūrva) fine = the first grade of the sāhasa fines; the text does not define it in this line. Only the copula is supplied.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.8"
+  ],
+  "lines_deva": [
+   "शुद्धं परिवासयतः पूर्वः साहस.दण्डः"
+  ],
+  "lines_iast": [
+   "śuddhaṃ parivāsayataḥ pūrvaḥ sāhasa.daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śaṅkā.niṣpannam",
+      "words": [
+       {
+        "w": "śaṅkā-niṣpannam",
+        "gloss": "established through suspicion",
+        "gram": "tat-puruṣa, ppp. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upakaraṇa.mantri.sahāya.rūpa.vaiyāvṛtya.karān",
+      "words": [
+       {
+        "w": "upakaraṇa-mantri-sahāya-rūpa-vaiyāvṛtya-karān",
+        "gloss": "the doers of implement, counsellor, associate, form and service",
+        "gram": "dvandva + tat-puruṣa, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "niṣpādayet",
+      "words": [
+       {
+        "w": "niṣpādayet",
+        "gloss": "should bring about",
+        "gram": "3 sg. opt. caus. niḥ-√pad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शंका से सिद्ध हुए को, उपकरण, मन्त्री, सहायक, रूप और वैयावृत्य करने वालों को निष्पादित करे।",
+  "english": "One established through suspicion — he should bring about the doers of implement, counsellor, associate, form and service.",
+  "text_flags": [],
+  "notes": "DOUBTFUL. The syntax is unclear: śaṅkā-niṣpanna may be the object of niṣpādayet, or the whole may mean 'in the case of one established through suspicion, he should have [him/them] produce...'. -kara is read as 'doer, maker'; rūpa may be 'form' (appearance) or, as in 5.2, 'coin'; vaiyāvṛtya = service, attendance. The rendering is deliberately literal and no sense has been chosen between these.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.08.9"
+  ],
+  "lines_deva": [
+   "शङ्का.निष्पन्नम् उपकरण.मन्त्रि.सहाय.रूप.वैयावृत्य.करान् निष्पादयेत्"
+  ],
+  "lines_iast": [
+   "śaṅkā.niṣpannam upakaraṇa.mantri.sahāya.rūpa.vaiyāvṛtya.karān niṣpādayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "karmaṇaś",
+      "words": [
+       {
+        "w": "karmaṇaḥ",
+        "gloss": "of the action",
+        "gram": "n. gen. sg. (karman)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pradeśa.dravya.ādāna.aṃśa.vibhāgaiḥ",
+      "words": [
+       {
+        "w": "pradeśa-dravya-ādāna-aṃśa-vibhāgaiḥ",
+        "gloss": "by place, goods, taking, share and division",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratisamānayet",
+      "words": [
+       {
+        "w": "pratisamānayet",
+        "gloss": "should compare",
+        "gram": "3 sg. opt. prati-sam-ā-√nī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और कर्म का स्थान, द्रव्य, ग्रहण, अंश और विभाग से मिलान करे।",
+  "english": "And he should compare the action with the place, goods, taking, share and division.",
+  "text_flags": [],
+  "notes": "karmaṇaḥ is taken as the deed (the act charged) in the genitive, 'compare [the account] of the action'; an ablative reading ('from the action') is possible. 'The account' is not supplied in the translation.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.10"
+  ],
+  "lines_deva": [
+   "कर्मणश् च प्रदेश.द्रव्य.आदान.अंश.विभागैः प्रतिसमानयेत्"
+  ],
+  "lines_iast": [
+   "karmaṇaś ca pradeśa.dravya.ādāna.aṃśa.vibhāgaiḥ pratisamānayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eteṣāṃ",
+      "words": [
+       {
+        "w": "eteṣām",
+        "gloss": "of these",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇānām",
+      "words": [
+       {
+        "w": "kāraṇānām",
+        "gloss": "grounds",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anabhisandhāne",
+      "words": [
+       {
+        "w": "anabhisandhāne",
+        "gloss": "on non-connection",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vipralapantam",
+      "words": [
+       {
+        "w": "vipralapantam",
+        "gloss": "one who babbles",
+        "gram": "pres. part. m. acc. sg. vi-pra-√lap"
+       }
+      ]
+     },
+     {
+      "src": "acoraṃ",
+      "words": [
+       {
+        "w": "acoram",
+        "gloss": "a non-thief",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन कारणों का मेल न होने पर बकवास करने वाले को चोर न होने वाला जाने।",
+  "english": "When these grounds are not connected up, he should know one who babbles [to be] a non-thief.",
+  "text_flags": [],
+  "notes": "kāraṇa is rendered 'grounds' (also 'causes, means, instruments'); the line does not say which. vipralap = to talk wildly/inconsistently; 'babble' is literal. anabhisandhāna = non-joining (the particulars do not tally).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.11"
+  ],
+  "lines_deva": [
+   "एतेषां कारणानाम् अनभिसन्धाने विप्रलपन्तम् अचोरं विद्यात्"
+  ],
+  "lines_iast": [
+   "eteṣāṃ kāraṇānām anabhisandhāne vipralapantam acoraṃ vidyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dṛśyate",
+      "words": [
+       {
+        "w": "dṛśyate",
+        "gloss": "is seen",
+        "gram": "3 sg. pass. pres. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "hy",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "acoro",
+      "words": [
+       {
+        "w": "acoraḥ",
+        "gloss": "a non-thief",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'pi",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cora.mārge",
+      "words": [
+       {
+        "w": "cora-mārge",
+        "gloss": "on a thieves' path",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadṛcchayā",
+      "words": [
+       {
+        "w": "yadṛcchayā",
+        "gloss": "by chance",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sannipāte",
+      "words": [
+       {
+        "w": "sannipāte",
+        "gloss": "on meeting",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cora.veṣa.śastra.bhāṇḍa.sāmānyena",
+      "words": [
+       {
+        "w": "cora-veṣa-śastra-bhāṇḍa-sāmānyena",
+        "gloss": "by similarity of a thief's dress, weapons and goods",
+        "gram": "dvandva + tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛhyamāṇaś",
+      "words": [
+       {
+        "w": "gṛhyamāṇaḥ",
+        "gloss": "being seized",
+        "gram": "pres. pass. part. m. nom. sg. √grah"
+       }
+      ]
+     },
+     {
+      "src": "cora.bhāṇḍasya-upavāsena",
+      "words": [
+       {
+        "w": "cora-bhāṇḍasya",
+        "gloss": "of a thief's goods",
+        "gram": "tat-puruṣa, n. gen. sg."
+       },
+       {
+        "w": "upavāsena",
+        "gloss": "by dwelling near",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā-aṇi.māṇḍavyaḥ",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       },
+       {
+        "w": "aṇi-māṇḍavyaḥ",
+        "gloss": "name (Aṇi-Māṇḍavya)",
+        "gram": "name, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma.kleśa.bhayād",
+      "words": [
+       {
+        "w": "karma-kleśa-bhayāt",
+        "gloss": "from fear of the affliction of action",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "acoraḥ",
+      "words": [
+       {
+        "w": "acoraḥ",
+        "gloss": "a non-thief",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "\"coro",
+      "words": [
+       {
+        "w": "coraḥ",
+        "gloss": "a thief",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'smi\"",
+      "words": [
+       {
+        "w": "asmi",
+        "gloss": "I am",
+        "gram": "1 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bruvāṇaḥ",
+      "words": [
+       {
+        "w": "bruvāṇaḥ",
+        "gloss": "saying",
+        "gram": "pres. part. mid. m. nom. sg. √brū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि देखा जाता है कि चोर न होने वाला भी चोरों के मार्ग में संयोग से मिल जाने पर चोर के वेश, शस्त्र और सामान की समानता से पकड़ा जाता है, अथवा चोर के सामान के पास रहने से; जैसे अणि-माण्डव्य ने, चोर न होते हुए भी, कर्म के क्लेश के भय से “मैं चोर हूँ” कहा।",
+  "english": "For it is seen that even a non-thief, on a chance meeting on a thieves' path, is seized because of similarity in a thief's dress, weapons and goods, or by dwelling near a thief's goods; as Ani-Mandavya, a non-thief, from fear of the affliction of action, saying “I am a thief”.",
+  "text_flags": [],
+  "notes": "upavāsa (upa-√vas) is literally 'dwelling near' (alternative: fasting/staying with); the sense 'being found staying beside the thief's goods' is not stated. karma-kleśa = 'affliction of action' (the torture of units 14ff.). The quotation “coro 'smi” is opened and closed. In English the participle bruvāṇaḥ is left hanging from 'as Ani-Mandavya', following the Sanskrit; the Hindi turns it into a finite verb. The name is the only person named; nothing of his story is imported.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.12"
+  ],
+  "lines_deva": [
+   "दृश्यते ह्य् अचोरो ऽपि चोर.मार्गे यदृच्छया सन्निपाते चोर.वेष.शस्त्र.भाण्ड.सामान्येन गृह्यमाणश् चोर.भाण्डस्य-उपवासेन वा, यथा-अणि.माण्डव्यः कर्म.क्लेश.भयाद् अचोरः \"चोरो ऽस्मि\" इति ब्रुवाणः"
+  ],
+  "lines_iast": [
+   "dṛśyate hy acoro 'pi cora.mārge yadṛcchayā sannipāte cora.veṣa.śastra.bhāṇḍa.sāmānyena gṛhyamāṇaś cora.bhāṇḍasya-upavāsena vā, yathā-aṇi.māṇḍavyaḥ karma.kleśa.bhayād acoraḥ \"coro 'smi\" iti bruvāṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāt",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl. of tad)"
+       }
+      ]
+     },
+     {
+      "src": "samāpta.karaṇaṃ",
+      "words": [
+       {
+        "w": "samāpta-karaṇam",
+        "gloss": "one whose karaṇa is complete",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niyamayet",
+      "words": [
+       {
+        "w": "niyamayet",
+        "gloss": "should restrain",
+        "gram": "3 sg. opt. caus. ni-√yam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए जिसका करण समाप्त हो चुका है उसे नियन्त्रित करे।",
+  "english": "Therefore he should restrain [him] whose karaṇa is complete.",
+  "text_flags": [],
+  "notes": "DOUBTFUL. samāpta-karaṇam may be a bahuvrīhi 'one whose karaṇa (procedure/means) is completed' or a neuter object 'the completed karaṇa' (the finished procedure) with niyamayet 'should regulate'. karaṇa is left as the Sanskrit word. The adjacent units give no sure help. Reviewer: karaṇa kept untranslated; it is not the 4.1 sva-karaṇa 'means of proof' without a person's decision (here perhaps the investigation/procedure).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.08.13"
+  ],
+  "lines_deva": [
+   "तस्मात् समाप्त.करणं नियमयेत्"
+  ],
+  "lines_iast": [
+   "tasmāt samāpta.karaṇaṃ niyamayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "manda.aparādhaṃ",
+      "words": [
+       {
+        "w": "manda-aparādham",
+        "gloss": "of slight offence",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bālaṃ",
+      "words": [
+       {
+        "w": "bālam",
+        "gloss": "a child",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhaṃ",
+      "words": [
+       {
+        "w": "vṛddham",
+        "gloss": "the aged",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyādhitaṃ",
+      "words": [
+       {
+        "w": "vyādhitam",
+        "gloss": "the sick",
+        "gram": "ppp. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mattam",
+      "words": [
+       {
+        "w": "mattam",
+        "gloss": "the intoxicated",
+        "gram": "ppp. m. acc. sg. √mad"
+       }
+      ]
+     },
+     {
+      "src": "unmattaṃ",
+      "words": [
+       {
+        "w": "unmattam",
+        "gloss": "the insane",
+        "gram": "ppp. m. acc. sg. ud-√mad"
+       }
+      ]
+     },
+     {
+      "src": "kṣut.pipāsā.adhva.klāntam",
+      "words": [
+       {
+        "w": "kṣut-pipāsā-adhva-klāntam",
+        "gloss": "tired by hunger, thirst and the road",
+        "gram": "tat-puruṣa, ppp. m. acc. sg. √klam"
+       }
+      ]
+     },
+     {
+      "src": "atyāśitam",
+      "words": [
+       {
+        "w": "atyāśitam",
+        "gloss": "one who has overeaten",
+        "gram": "ppp. m. acc. sg. ati-√aś"
+       }
+      ]
+     },
+     {
+      "src": "āmaka.aśitaṃ",
+      "words": [
+       {
+        "w": "āmaka-aśitam",
+        "gloss": "one who has eaten raw [food]",
+        "gram": "tat-puruṣa, ppp. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "durbalaṃ",
+      "words": [
+       {
+        "w": "durbalam",
+        "gloss": "the weak",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have done",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मन्द अपराध वाले, बालक, वृद्ध, रोगी, मत्त, उन्मत्त, भूख, प्यास और मार्ग से थके हुए, अधिक खाए हुए, कच्चा खाए हुए अथवा दुर्बल को कर्म न कराए।",
+  "english": "He should not have action done to one of slight offence, a child, the aged, the sick, the intoxicated, the insane, one tired by hunger, thirst or the road, one who has overeaten, one who has eaten raw [food], or the weak.",
+  "text_flags": [],
+  "notes": "āmaka-aśita: āmaka is 'raw, unripe' (āma + -ka); 'food' is supplied in brackets in English only; 'undigested' is an alternative sense. mattam and unmattam are both ppp. of √mad (intoxicated; mad). The Hindi uses 'कच्चा खाए हुए' literally. 'Action' (karma) is the glossary word; the sense is torture, which is not stated here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.14"
+  ],
+  "lines_deva": [
+   "मन्द.अपराधं बालं वृद्धं व्याधितं मत्तम् उन्मत्तं क्षुत्.पिपासा.अध्व.क्लान्तम् अत्याशितम् आमक.अशितं दुर्बलं वा न कर्म कारयेत्"
+  ],
+  "lines_iast": [
+   "manda.aparādhaṃ bālaṃ vṛddhaṃ vyādhitaṃ mattam unmattaṃ kṣut.pipāsā.adhva.klāntam atyāśitam āmaka.aśitaṃ durbalaṃ vā na karma kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulya",
+      "words": [
+       {
+        "w": "tulya",
+        "gloss": "similar",
+        "gram": "adj. (compound-initial)"
+       }
+      ]
+     },
+     {
+      "src": "śīla.puṃścalī.prāpāvika.kathā.avakāśa.bhojana.dātṛbhir",
+      "words": [
+       {
+        "w": "śīla-puṃścalī-prāpāvika-kathā-avakāśa-bhojana-dātṛbhiḥ",
+        "gloss": "by [those of] character, unchaste women, prāpāvikas, givers of an opportunity for talk, and givers of food",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "apasarpayet",
+      "words": [
+       {
+        "w": "apasarpayet",
+        "gloss": "should cause to go away",
+        "gram": "3 sg. opt. caus. apa-√sṛp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "समान शील वालों, पुंश्चलियों, प्रापाविकों, बातचीत का अवसर देने वालों और भोजन देने वालों के द्वारा अपसर्पण कराए।",
+  "english": "By [those of] similar character, unchaste women, prāpāvikas, givers of an opportunity for talk and givers of food, he should cause apasarpa (literally 'going away').",
+  "text_flags": [
+   {
+    "src": "tulya",
+    "suggest": "tulya.śīla",
+    "why": "possible: tulya stands alone while the other members are joined by '.'; likely a missing compound mark so that tulya-śīla (of similar character) is one member"
+   }
+  ],
+  "notes": "DOUBTFUL. apasarpa is 'spy' in the glossary; apasarpayet is the causative of apa-√sṛp ('cause to go away/creep'), probably 'set apasarpas (agents) going' but the object and sense are not stated, so it is left literal. prāpāvika is obscure (from prāpā 'water-hut'; keeper?) and is kept untranslated. The dvandva list may also be read as 'through persons of like character, namely unchaste women, ... '.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.08.15"
+  ],
+  "lines_deva": [
+   "तुल्य शील.पुंश्चली.प्रापाविक.कथा.अवकाश.भोजन.दातृभिर् अपसर्पयेत्"
+  ],
+  "lines_iast": [
+   "tulya śīla.puṃścalī.prāpāvika.kathā.avakāśa.bhojana.dātṛbhir apasarpayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evam",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "in this way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "atisandadhyāt,",
+      "words": [
+       {
+        "w": "atisandadhyāt",
+        "gloss": "should outwit",
+        "gram": "3 sg. opt. ati-sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nikṣepa.apahāre",
+      "words": [
+       {
+        "w": "nikṣepa-apahāre",
+        "gloss": "in the misappropriation of a deposit",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātam",
+      "words": [
+       {
+        "w": "vyākhyātam",
+        "gloss": "explained",
+        "gram": "ppp. n. nom. sg. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार छल ले, अथवा जैसी निक्षेप के अपहार में व्याख्या की गई है।",
+  "english": "In this way he should outwit [him], or as has been explained in the misappropriation of a deposit.",
+  "text_flags": [],
+  "notes": "atisandadhyāt = 'outwit' per glossary 9.1/9.3; the object is not stated. The reference is to an earlier explanation about deposits (not imported here). apahāra = taking away, misappropriation.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.08.16"
+  ],
+  "lines_deva": [
+   "एवम् अतिसन्दध्यात्, यथा वा निक्षेप.अपहारे व्याख्यातम्"
+  ],
+  "lines_iast": [
+   "evam atisandadhyāt, yathā vā nikṣepa.apahāre vyākhyātam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āpta.doṣaṃ",
+      "words": [
+       {
+        "w": "āpta-doṣam",
+        "gloss": "one whose fault is established",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayet,",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have done",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tv",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "at all",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "striyaṃ",
+      "words": [
+       {
+        "w": "striyam",
+        "gloss": "a woman",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "garbhiṇīṃ",
+      "words": [
+       {
+        "w": "garbhiṇīm",
+        "gloss": "pregnant",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūtikāṃ",
+      "words": [
+       {
+        "w": "sūtikām",
+        "gloss": "newly delivered",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "māsa.avara.prajātām",
+      "words": [
+       {
+        "w": "māsa-avara-prajātām",
+        "gloss": "delivered less than a month",
+        "gram": "tat-puruṣa, ppp. f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका दोष सिद्ध हो चुका है उसको कर्म कराए, किन्तु स्त्री को कदापि नहीं, गर्भवती को, सूतिका को, अथवा एक मास से कम पहले प्रसव करने वाली को।",
+  "english": "He should have action done to one whose fault is established, but never to a woman — a pregnant one, a sūtikā, or one delivered [less than] a month [ago].",
+  "text_flags": [],
+  "notes": "māsa-avara-prajātā is uncertain: avara can mean 'lower, less' (delivered less than a month ago) or 'at the lowest, at least'; the rendering 'less than a month' is a choice and the brackets in English mark the supplied words. sūtikā = a woman recently delivered / in childbed. āpta-doṣa: āpta = obtained, established (also 'trustworthy'); 'one whose fault is established'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.17"
+  ],
+  "lines_deva": [
+   "आप्त.दोषं कर्म कारयेत्, न त्व् एव स्त्रियं गर्भिणीं सूतिकां वा मास.अवर.प्रजाताम्"
+  ],
+  "lines_iast": [
+   "āpta.doṣaṃ karma kārayet, na tv eva striyaṃ garbhiṇīṃ sūtikāṃ vā māsa.avara.prajātām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "striyās",
+      "words": [
+       {
+        "w": "striyāḥ",
+        "gloss": "of a woman",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tv",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ardha.karma,",
+      "words": [
+       {
+        "w": "ardha-karma",
+        "gloss": "half the action",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vākya.anuyogo",
+      "words": [
+       {
+        "w": "vākya-anuyogaḥ",
+        "gloss": "questioning by words",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्त्री के लिए तो आधा कर्म, अथवा वाक्य से पूछताछ।",
+  "english": "For a woman, however, half the action, or questioning by words.",
+  "text_flags": [],
+  "notes": "anuyoga is rendered 'questioning', in line with anuyuñjīta in unit 1 (the 5.4 glossary 'instruction' does not fit here). Only the genitive 'for a woman' and the bare nominatives are given; no verb is supplied. 'Half the action' is the half of the action stated for others (literal).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.18"
+  ],
+  "lines_deva": [
+   "स्त्रियास् त्व् अर्ध.कर्म, वाक्य.अनुयोगो वा"
+  ],
+  "lines_iast": [
+   "striyās tv ardha.karma, vākya.anuyogo vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brāhmaṇasya",
+      "words": [
+       {
+        "w": "brāhmaṇasya",
+        "gloss": "of a brāhmaṇa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sattri.parigrahaḥ",
+      "words": [
+       {
+        "w": "sattri-parigrahaḥ",
+        "gloss": "the taking up of a secret agent",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrutavatas",
+      "words": [
+       {
+        "w": "śrutavataḥ",
+        "gloss": "of one who has learning",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tapasvinaś",
+      "words": [
+       {
+        "w": "tapasvinaḥ",
+        "gloss": "of an ascetic",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "श्रुतवान् और तपस्वी ब्राह्मण का गुप्तचर-परिग्रह है।",
+  "english": "For a brāhmaṇa — a learned one and an ascetic — the sattri-parigraha.",
+  "text_flags": [],
+  "notes": "DOUBTFUL. sattri = sattrin (secret agent); parigraha = taking, seizing, surrounding; the compound is kept as a term in English (literally 'the taking up of a secret agent'); the Hindi follows the glossary (गुप्तचर). Whether it means keeping the brāhmaṇa under watch by agents or something else is not stated. The words śrutavat and tapasvin are both genitive, parallel to brāhmaṇasya; the 'and' joins the learned and the ascetic (they may be two persons).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.08.19"
+  ],
+  "lines_deva": [
+   "ब्राह्मणस्य सत्त्रि.परिग्रहः श्रुतवतस् तपस्विनश् च"
+  ],
+  "lines_iast": [
+   "brāhmaṇasya sattri.parigrahaḥ śrutavatas tapasvinaś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya-atikrama",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "atikramaḥ",
+        "gloss": "transgression",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "uttamo",
+      "words": [
+       {
+        "w": "uttamaḥ",
+        "gloss": "highest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "punishment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kartuḥ",
+      "words": [
+       {
+        "w": "kartuḥ",
+        "gloss": "of the doer",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayituś",
+      "words": [
+       {
+        "w": "kārayituḥ",
+        "gloss": "of the causer",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karmaṇā",
+      "words": [
+       {
+        "w": "karmaṇā",
+        "gloss": "by action",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyāpādanena",
+      "words": [
+       {
+        "w": "vyāpādanena",
+        "gloss": "by killing",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसका अतिक्रम करने पर सर्वोच्च दण्ड है, कर्ता और करवाने वाले के लिए, कर्म से और वध से।",
+  "english": "For a transgression of that, [there is] the highest punishment, for the doer and for the causer, by action and by killing.",
+  "text_flags": [],
+  "notes": "'That' (tasya) refers to the preceding rule on the brāhmaṇa (unit 19). The two instrumentals are read as the manner of the punishment ('by action, and by killing'); it could also mean the offence ('for action and for killing'). 'Highest' (uttama) punishment is not defined here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.20"
+  ],
+  "lines_deva": [
+   "तस्य-अतिक्रम उत्तमो दण्डः कर्तुः कारयितुश् च, कर्मणा व्यापादनेन च"
+  ],
+  "lines_iast": [
+   "tasya-atikrama uttamo daṇḍaḥ kartuḥ kārayituś ca, karmaṇā vyāpādanena ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyāvahārikaṃ",
+      "words": [
+       {
+        "w": "vyāvahārikam",
+        "gloss": "relating to legal procedure",
+        "gram": "adj. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma.catuṣkaṃ",
+      "words": [
+       {
+        "w": "karma-catuṣkam",
+        "gloss": "group of four actions",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "dash (punctuation)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍ",
+      "words": [
+       {
+        "w": "ṣaṭ",
+        "gloss": "six",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍāḥ,",
+      "words": [
+       {
+        "w": "daṇḍāḥ",
+        "gloss": "rods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sapta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "kaśāḥ,",
+      "words": [
+       {
+        "w": "kaśāḥ",
+        "gloss": "whips",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvāv",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "num. m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "upari.nibandhau,",
+      "words": [
+       {
+        "w": "upari-nibandhau",
+        "gloss": "upari-nibandhas (bindings above?)",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "udaka.nālikā",
+      "words": [
+       {
+        "w": "udaka-nālikā",
+        "gloss": "water-tube",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्यावहारिक कर्म-चतुष्क — छह डंडे, सात कशाएँ, दो उपरि-निबन्ध और उदक-नालिका।",
+  "english": "The vyāvahārika group of four actions — six rods, seven whips, two upari-nibandhas, and the water-tube.",
+  "text_flags": [],
+  "notes": "vyāvahārika is left as the word (here 'relating to legal procedure'); the Hindi keeps व्यावहारिक as in the glossary. daṇḍa = rod (not 'army' or 'punishment' here); kaśā = whip (strokes are possible). upari-nibandha is obscure (literally 'binding above/upon') and kept untranslated. udaka-nālikā = literally 'water-tube', its use is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.21"
+  ],
+  "lines_deva": [
+   "व्यावहारिकं कर्म.चतुष्कं - षड् दण्डाः, सप्त कशाः, द्वाव् उपरि.निबन्धौ, उदक.नालिका च"
+  ],
+  "lines_iast": [
+   "vyāvahārikaṃ karma.catuṣkaṃ - ṣaḍ daṇḍāḥ, sapta kaśāḥ, dvāv upari.nibandhau, udaka.nālikā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāpa.karmaṇāṃ",
+      "words": [
+       {
+        "w": "pāpa-karmaṇām",
+        "gloss": "of those of evil action",
+        "gram": "bahuvrīhi, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "nava",
+      "words": [
+       {
+        "w": "nava",
+        "gloss": "nine",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "vetra.latāḥ,",
+      "words": [
+       {
+        "w": "vetra-latāḥ",
+        "gloss": "cane-lashes",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa",
+      "words": [
+       {
+        "w": "dvādaśa",
+        "gloss": "twelve",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "kaśāḥ,",
+      "words": [
+       {
+        "w": "kaśāḥ",
+        "gloss": "whips",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvāv",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "num. m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ūru.veṣṭau,",
+      "words": [
+       {
+        "w": "ūru-veṣṭau",
+        "gloss": "thigh-bindings",
+        "gram": "tat-puruṣa, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "viṃśatir",
+      "words": [
+       {
+        "w": "viṃśatiḥ",
+        "gloss": "twenty",
+        "gram": "num. f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nakta.māla.latāḥ,",
+      "words": [
+       {
+        "w": "nakta-māla-latāḥ",
+        "gloss": "nakta-māla lashes",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvātriṃśat.talāḥ,",
+      "words": [
+       {
+        "w": "dvātriṃśat-talāḥ",
+        "gloss": "thirty-two palm [blows]",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvau",
+      "words": [
+       {
+        "w": "dvau",
+        "gloss": "two",
+        "gram": "num. m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vṛścika.bandhau,",
+      "words": [
+       {
+        "w": "vṛścika-bandhau",
+        "gloss": "scorpion-bindings",
+        "gram": "tat-puruṣa, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ullambane",
+      "words": [
+       {
+        "w": "ullambane",
+        "gloss": "hangings",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dve,",
+      "words": [
+       {
+        "w": "dve",
+        "gloss": "two",
+        "gram": "num. n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "sūcī",
+      "words": [
+       {
+        "w": "sūcī",
+        "gloss": "needle",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hastasya,",
+      "words": [
+       {
+        "w": "hastasya",
+        "gloss": "of the hand",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavāgū.pītasya",
+      "words": [
+       {
+        "w": "yavāgū-pītasya",
+        "gloss": "of one who has drunk gruel",
+        "gram": "tat-puruṣa, ppp. m. gen. sg. √pā"
+       }
+      ]
+     },
+     {
+      "src": "eka.parva.dahanam",
+      "words": [
+       {
+        "w": "eka-parva-dahanam",
+        "gloss": "burning of one joint",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṅgulyāḥ,",
+      "words": [
+       {
+        "w": "aṅgulyāḥ",
+        "gloss": "of a finger",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sneha.pītasya",
+      "words": [
+       {
+        "w": "sneha-pītasya",
+        "gloss": "of one who has drunk oil",
+        "gram": "tat-puruṣa, ppp. m. gen. sg. √pā"
+       }
+      ]
+     },
+     {
+      "src": "pratāpanam",
+      "words": [
+       {
+        "w": "pratāpanam",
+        "gloss": "heating",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ekam",
+      "words": [
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "num. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ahaḥ,",
+      "words": [
+       {
+        "w": "ahaḥ",
+        "gloss": "day",
+        "gram": "n. acc. sg. (ahan)"
+       }
+      ]
+     },
+     {
+      "src": "śiśira.rātrau",
+      "words": [
+       {
+        "w": "śiśira-rātrau",
+        "gloss": "in a cold night",
+        "gram": "karmadhāraya, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "balbaja.agra.śayyā",
+      "words": [
+       {
+        "w": "balbaja-agra-śayyā",
+        "gloss": "a bed of balbaja tips",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आगे, पापकर्म करने वालों के लिए: नौ वेत्र-लताएँ, बारह कशाएँ, जाँघों के दो वेष्टन, बीस नक्त-माल-लताएँ, बत्तीस तल, दो वृश्चिक-बन्ध, दो उल्लम्बन, हाथ की सूई; यवागू पिए हुए की अँगुली के एक पोर का जलाना; स्नेह पिए हुए का एक दिन तपाना; और शिशिर की रात में बल्बज के अग्रभागों की शय्या।",
+  "english": "Further, for those of evil action: nine cane-lashes, twelve whips, two thigh-bindings, twenty nakta-māla lashes, thirty-two palm [blows], two scorpion-bindings, and two hangings, a needle [for] the hand; for one who has drunk gruel, the burning of one joint of a finger; for one who has drunk oil, heating for one day; and, on a cold night, a bed of balbaja tips.",
+  "text_flags": [],
+  "notes": "param pāpa-karmaṇām could also be 'for the worst of those of evil action'. vetra-latā = cane (rattan) switch; nakta-māla is a tree name kept as a name; tala = palm (slap), 'blows' is bracketed; balbaja is a grass (name kept, not identified in Hindi). sūcī hastasya is literally 'a needle of the hand' (the exact use is not stated). 'Gruel' (yavāgū) and 'oil/fat' (sneha) are literal. The list is a numbered litany, no explanation added. The unit's items are counted in unit 23 as 'eighteenfold'; no count is checked here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.22"
+  ],
+  "lines_deva": [
+   "परं पाप.कर्मणां नव वेत्र.लताः, द्वादश कशाः, द्वाव् ऊरु.वेष्टौ, विंशतिर् नक्त.माल.लताः, द्वात्रिंशत्.तलाः, द्वौ वृश्चिक.बन्धौ, उल्लम्बने च द्वे, सूची हस्तस्य, यवागू.पीतस्य एक.पर्व.दहनम् अङ्गुल्याः, स्नेह.पीतस्य प्रतापनम् एकम् अहः, शिशिर.रात्रौ बल्बज.अग्र.शय्या च"
+  ],
+  "lines_iast": [
+   "paraṃ pāpa.karmaṇāṃ nava vetra.latāḥ, dvādaśa kaśāḥ, dvāv ūru.veṣṭau, viṃśatir nakta.māla.latāḥ, dvātriṃśat.talāḥ, dvau vṛścika.bandhau, ullambane ca dve, sūcī hastasya, yavāgū.pītasya eka.parva.dahanam aṅgulyāḥ, sneha.pītasya pratāpanam ekam ahaḥ, śiśira.rātrau balbaja.agra.śayyā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aṣṭādaśakaṃ",
+      "words": [
+       {
+        "w": "aṣṭādaśakam",
+        "gloss": "consisting of eighteen",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह अठारह का कर्म है।",
+  "english": "Such is the action [group] of eighteen.",
+  "text_flags": [],
+  "notes": "Closing iti before a label: shown as 'Such is' / 'यह', not 'thus'. aṣṭādaśaka = a group of eighteen (aṣṭādaśan + -ka). The brackets in English supply 'group' only.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.23"
+  ],
+  "lines_deva": [
+   "इत्य् अष्टादशकं कर्म"
+  ],
+  "lines_iast": [
+   "ity aṣṭādaśakaṃ karma"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya.upakaraṇaṃ",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upakaraṇam",
+        "gloss": "implement",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramāṇaṃ",
+      "words": [
+       {
+        "w": "pramāṇam",
+        "gloss": "measure",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praharaṇaṃ",
+      "words": [
+       {
+        "w": "praharaṇam",
+        "gloss": "striking",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pradharaṇam",
+      "words": [
+       {
+        "w": "pradharaṇam",
+        "gloss": "pradharaṇa (bearing?)",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avadhāraṇaṃ",
+      "words": [
+       {
+        "w": "avadhāraṇam",
+        "gloss": "fixing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khara.paṭṭād",
+      "words": [
+       {
+        "w": "khara-paṭṭāt",
+        "gloss": "from the khara-paṭṭa",
+        "gram": "karmadhāraya, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "āgamayet",
+      "words": [
+       {
+        "w": "āgamayet",
+        "gloss": "should cause to come",
+        "gram": "3 sg. opt. caus. ā-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका उपकरण, माप, प्रहरण, प्रधरण और अवधारण खर-पट्ट से प्राप्त कराए।",
+  "english": "He should have its implement, measure, striking, pradharaṇa and fixing brought from the khara-paṭṭa.",
+  "text_flags": [
+   {
+    "src": "tasya.upakaraṇaṃ",
+    "suggest": "tasya-upakaraṇaṃ",
+    "why": "possible: '.' marks compound members but tasya is a separate word (genitive); the e-text elsewhere uses '-' for such an unsandhied join (tasya-apasāra)"
+   }
+  ],
+  "notes": "khara-paṭṭa is literally 'rough/hard slab or cloth'; it is kept as a word. pradharaṇa is obscure (pra-dhṛ; 'bearing, holding') and left untranslated. āgamayet (caus. of ā-√gam) = 'cause to come', i.e. have brought out/made known; 'have learned' is an alternative. 'That' (tasya) refers to the action of unit 23. Reviewer: praharaṇa is literally 'striking'; 'weapon, instrument of striking' is the usual noun sense and is possible; pramāṇa is 'measure' (Hindi माप), not 'proof'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.08.24"
+  ],
+  "lines_deva": [
+   "तस्य.उपकरणं प्रमाणं प्रहरणं प्रधरणम् अवधारणं च खर.पट्टाद् आगमयेत्"
+  ],
+  "lines_iast": [
+   "tasya.upakaraṇaṃ pramāṇaṃ praharaṇaṃ pradharaṇam avadhāraṇaṃ ca khara.paṭṭād āgamayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "divasa.antaram",
+      "words": [
+       {
+        "w": "divasa-antaram",
+        "gloss": "with a day's interval",
+        "gram": "tat-puruṣa, ind."
+       }
+      ]
+     },
+     {
+      "src": "eka.ekaṃ",
+      "words": [
+       {
+        "w": "eka-ekam",
+        "gloss": "one each",
+        "gram": "repetition, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have done",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और एक-एक कर्म, एक दिन के अन्तर से, कराए।",
+  "english": "And he should have action done one at a time, with a day's interval.",
+  "text_flags": [],
+  "notes": "eka-ekam is read as 'one by one' (one kind at a time); that the kinds are those of units 21-22 is inferred and not stated. divasa-antaram is adverbial, 'with an interval of a day'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.25"
+  ],
+  "lines_deva": [
+   "दिवस.अन्तरम् एक.एकं च कर्म कारयेत्"
+  ],
+  "lines_iast": [
+   "divasa.antaram eka.ekaṃ ca karma kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pūrva.kṛta.apadānaṃ",
+      "words": [
+       {
+        "w": "pūrva-kṛta-apadānam",
+        "gloss": "a deed done earlier",
+        "gram": "karmadhāraya, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratijñāya-apaharantam",
+      "words": [
+       {
+        "w": "pratijñāya",
+        "gloss": "having admitted",
+        "gram": "abs. prati-√jñā"
+       },
+       {
+        "w": "apaharantam",
+        "gloss": "one who withdraws",
+        "gram": "pres. part. m. acc. sg. apa-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "eka.deśa.dṛṣṭa.dravyaṃ",
+      "words": [
+       {
+        "w": "eka-deśa-dṛṣṭa-dravyam",
+        "gloss": "one in whom goods are seen in one place",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karmaṇā",
+      "words": [
+       {
+        "w": "karmaṇā",
+        "gloss": "by action",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūpeṇa",
+      "words": [
+       {
+        "w": "rūpeṇa",
+        "gloss": "by form",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛhītaṃ",
+      "words": [
+       {
+        "w": "gṛhītam",
+        "gloss": "seized",
+        "gram": "ppp. m. acc. sg. √grah"
+       }
+      ]
+     },
+     {
+      "src": "rāja.kośam",
+      "words": [
+       {
+        "w": "rāja-kośam",
+        "gloss": "the royal treasury",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avastṛṇantaṃ",
+      "words": [
+       {
+        "w": "avastṛṇantam",
+        "gloss": "one who covers over",
+        "gram": "pres. part. m. acc. sg. ava-√stṛ"
+       }
+      ]
+     },
+     {
+      "src": "karma.vadhyaṃ",
+      "words": [
+       {
+        "w": "karma-vadhyam",
+        "gloss": "one to be killed by action",
+        "gram": "tat-puruṣa, gerundive m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rāja.vacanāt",
+      "words": [
+       {
+        "w": "rāja-vacanāt",
+        "gloss": "on the king's word",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "samastaṃ",
+      "words": [
+       {
+        "w": "samastam",
+        "gloss": "combined",
+        "gram": "ppp. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyastam",
+      "words": [
+       {
+        "w": "vyastam",
+        "gloss": "separate",
+        "gram": "ppp. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhyastaṃ",
+      "words": [
+       {
+        "w": "abhyastam",
+        "gloss": "repeated",
+        "gram": "ppp. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have done",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "राजा की आज्ञा से, पहले किए हुए अपदान को स्वीकार करके उसे वापस लेने वाले को, जिसका सामान एक स्थान पर दिखाई दिया हो उसको, कर्म या रूप से पकड़े गए को, राजकोश को ढँकने वाले को, अथवा कर्म से वध्य को कर्म कराए — संयुक्त, पृथक् या बार-बार।",
+  "english": "On the king's word he should have action done — combined, separate or repeated — to one who, having admitted a deed done earlier, withdraws [it]; to one in whom goods are seen in one place; to one seized by action or by form; to one covering over the royal treasury; or to one to be killed by action.",
+  "text_flags": [],
+  "notes": "Several doubtful words, rendered literally: apadāna (a deed, exploit); apaharantam (apa-√hṛ: withdraws; alternatives 'denies, conceals, carries off'); karmaṇā rūpeṇa vā gṛhīta ('seized by action or by form': in the act, or by appearance/token; rūpa as 'coin' in 5.2 is another possibility); avastṛṇantam ('covering over', the sense 'embezzling/concealing' is not stated); karma-vadhya ('to be killed by action' or 'to be killed for the deed'). samasta/vyasta/abhyasta are read as the manner of the action (combined, separate, repeated). The Hindi is a free-standing sentence with the manner placed last.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.08.26"
+  ],
+  "lines_deva": [
+   "पूर्व.कृत.अपदानं प्रतिज्ञाय-अपहरन्तम् एक.देश.दृष्ट.द्रव्यं कर्मणा रूपेण वा गृहीतं राज.कोशम् अवस्तृणन्तं कर्म.वध्यं वा राज.वचनात् समस्तं व्यस्तम् अभ्यस्तं वा कर्म कारयेत्"
+  ],
+  "lines_iast": [
+   "pūrva.kṛta.apadānaṃ pratijñāya-apaharantam eka.deśa.dṛṣṭa.dravyaṃ karmaṇā rūpeṇa vā gṛhītaṃ rāja.kośam avastṛṇantaṃ karma.vadhyaṃ vā rāja.vacanāt samastaṃ vyastam abhyastaṃ vā karma kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarva.aparādheṣv",
+      "words": [
+       {
+        "w": "sarva-aparādheṣu",
+        "gloss": "in all offences",
+        "gram": "karmadhāraya, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "apīḍanīyo",
+      "words": [
+       {
+        "w": "apīḍanīyaḥ",
+        "gloss": "not to be afflicted",
+        "gram": "gerundive m. nom. sg. a-√pīḍ"
+       }
+      ]
+     },
+     {
+      "src": "brāhmaṇaḥ",
+      "words": [
+       {
+        "w": "brāhmaṇaḥ",
+        "gloss": "a brāhmaṇa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सब अपराधों में ब्राह्मण पीड़ित करने योग्य नहीं है।",
+  "english": "In all offences a brāhmaṇa is not to be afflicted.",
+  "text_flags": [],
+  "notes": "apīḍanīya = 'not to be afflicted' (pīḍana = affliction in the glossary); the extent (the 'action' of the previous units, or any pain) is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.08.27"
+  ],
+  "lines_deva": [
+   "सर्व.अपराधेष्व् अपीडनीयो ब्राह्मणः"
+  ],
+  "lines_iast": [
+   "sarva.aparādheṣv apīḍanīyo brāhmaṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya-abhiśasta.aṅko",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "for him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "abhiśasta-aṅkaḥ",
+        "gloss": "mark of the accused",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lalāṭe",
+      "words": [
+       {
+        "w": "lalāṭe",
+        "gloss": "on the forehead",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "syād",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "should be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "vyavahāra.patanāya,",
+      "words": [
+       {
+        "w": "vyavahāra-patanāya",
+        "gloss": "for the fall from legal dealings",
+        "gram": "tat-puruṣa, n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "steyo",
+      "words": [
+       {
+        "w": "steye",
+        "gloss": "in theft",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvā,",
+      "words": [
+       {
+        "w": "śvā",
+        "gloss": "a dog",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "manuṣya.vadhe",
+      "words": [
+       {
+        "w": "manuṣya-vadhe",
+        "gloss": "in the killing of a man",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kabandhaḥ,",
+      "words": [
+       {
+        "w": "kabandhaḥ",
+        "gloss": "a headless trunk",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guru.talpe",
+      "words": [
+       {
+        "w": "guru-talpe",
+        "gloss": "in the teacher's bed",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhagam,",
+      "words": [
+       {
+        "w": "bhagam",
+        "gloss": "the female organ",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "surā.pāne",
+      "words": [
+       {
+        "w": "surā-pāne",
+        "gloss": "in drinking surā",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madya.dhvajaḥ",
+      "words": [
+       {
+        "w": "madya-dhvajaḥ",
+        "gloss": "a liquor-banner",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके ललाट पर अभिशस्त का चिह्न हो, व्यवहार से पतन के लिए: चोरी में कुत्ता, मनुष्य-वध में कबन्ध, गुरु-शय्या में भग, सुरापान में मद्य-ध्वज।",
+  "english": "For him there should be on the forehead the mark of the accused, for the fall from legal dealings (vyavahāra): in theft a dog, in the killing of a man a headless trunk, in the teacher's bed the female organ (bhaga), in drinking surā a liquor-banner.",
+  "text_flags": [
+   {
+    "src": "steyo",
+    "suggest": "steye",
+    "why": "possible: loc. sg. steye (in theft) is expected beside the parallel locatives manuṣya-vadhe, guru-talpe, surā-pāne; 'steyo śvā' is ungrammatical sandhi (steyaḥ would stay steyaḥ before ś)"
+   }
+  ],
+  "notes": "'For him' (tasya) is the brāhmaṇa of unit 27. vyavahāra-patana is literally 'falling from legal dealing' (exclusion from legal proceedings and dealings). Only the copula is supplied. guru-talpa is left as 'the teacher's bed'. dhvaja = banner/flag.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.08.28"
+  ],
+  "lines_deva": [
+   "तस्य-अभिशस्त.अङ्को ललाटे स्याद् व्यवहार.पतनाय, स्तेयो श्वा, मनुष्य.वधे कबन्धः, गुरु.तल्पे भगम्, सुरा.पाने मद्य.ध्वजः"
+  ],
+  "lines_iast": [
+   "tasya-abhiśasta.aṅko lalāṭe syād vyavahāra.patanāya, steyo śvā, manuṣya.vadhe kabandhaḥ, guru.talpe bhagam, surā.pāne madya.dhvajaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brāhmaṇaṃ",
+      "words": [
+       {
+        "w": "brāhmaṇam",
+        "gloss": "a brāhmaṇa",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāpa.karmāṇam",
+      "words": [
+       {
+        "w": "pāpa-karmāṇam",
+        "gloss": "of evil action",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "udghuṣya-aṅka.kṛta.vraṇam",
+      "words": [
+       {
+        "w": "udghuṣya",
+        "gloss": "having proclaimed",
+        "gram": "abs. ud-√ghuṣ"
+       },
+       {
+        "w": "aṅka-kṛta-vraṇam",
+        "gloss": "with a wound made by the brand",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kuryān",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should make",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "nirviṣayaṃ",
+      "words": [
+       {
+        "w": "nirviṣayam",
+        "gloss": "one without a country (exiled)",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "the king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsayed",
+      "words": [
+       {
+        "w": "vāsayet",
+        "gloss": "should settle",
+        "gram": "3 sg. opt. caus. √vas"
+       }
+      ]
+     },
+     {
+      "src": "ākareṣu",
+      "words": [
+       {
+        "w": "ākareṣu",
+        "gloss": "in the mines",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पापकर्म करने वाले ब्राह्मण को, जिसके अंक से घाव बना दिया गया हो, घोषित करके राजा उसे देश से बाहर कर दे अथवा खानों में बसाए।",
+  "english": "Having proclaimed a brāhmaṇa of evil action, with the wound made by the brand, the king should make him one without a country, or settle him in the mines.",
+  "text_flags": [],
+  "notes": "The two lines form one sentence (a verse). aṅka-kṛta-vraṇa is read as 'the wound made by the brand' (the mark of unit 28). nirviṣaya = literally 'without a territory', i.e. banished. ākara = mine (place of working). vāsayet = literally 'cause to dwell'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.08.29a",
+   "04.08.29b"
+  ],
+  "lines_deva": [
+   "ब्राह्मणं पाप.कर्माणम् उद्घुष्य-अङ्क.कृत.व्रणम्",
+   "कुर्यान् निर्विषयं राजा वासयेद् आकरेषु वा"
+  ],
+  "lines_iast": [
+   "brāhmaṇaṃ pāpa.karmāṇam udghuṣya-aṅka.kṛta.vraṇam",
+   "kuryān nirviṣayaṃ rājā vāsayed ākareṣu vā"
+  ],
+  "uncertain": []
+ }
+]

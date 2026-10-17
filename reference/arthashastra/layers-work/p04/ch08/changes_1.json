@@ -1,0 +1,138 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "लुटे हुए की उपस्थिति में, बाहरी और भीतरी साक्षियों की उपस्थिति में, अभियुक्त से उसके देश, जाति, गोत्र, नाम, कर्म, बहुमूल्य वस्तुओं, सहायकों और निवास के विषय में पूछताछ करे।",
+  "new": "लुटे हुए की और बाहरी तथा भीतरी साक्षियों की उपस्थिति में, अभियुक्त से उसके देश, जाति, गोत्र, नाम, कर्म, बहुमूल्य वस्तुओं, सहायकों और निवास के विषय में पूछताछ करे।",
+  "why": "reviewer (minor): sannidhau occurs once; the Hindi repeats 'उपस्थिति में' (unmarked doubling)"
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "apadeśa is left as a literal 'pretext' (also 'reference, assigned statement'); the exact sense (the statements given by the accused or by the persons he names) is not settled by the line. 'Those' (tān) refers back to the particulars of unit 1 only by inference; nothing is supplied. pratisamānayet is literally 'bring together (to match) with'.",
+  "new": "apadeśa is left as a literal 'pretext' (also 'reference, assigned statement'); the exact sense (the statements given by the accused or by the persons he names) is not settled by the line. 'Those' (tān) refers back to the particulars of unit 1 only by inference; nothing is supplied. pratisamānayet is literally 'bring together (to match) with'. Reviewer: apadeśa shares its root (apa-√diś, 'point out') with apadiṣṭaka in unit 7; 'pretexts' is kept as the literal, sense (statements/references named by the accused) unsettled.",
+  "why": "reviewer (minor): cognate of apadiṣṭaka (unit 7, apa-√diś) not cross-referenced"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "If his apasāra (going away) is matched up, he would be cleared; otherwise, [he is] one who has reached action.",
+  "new": "If his apasāra is matched up, he would be cleared; otherwise, [he is] one who has reached action.",
+  "why": "reviewer (error): invented sense 'going away' against 4.6 (apasāra kept untranslated, the one/place pointed to) and 10.2 'place of retreat'"
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "apasāra-pratisandhāne",
+  "old": "in the matching of the going-away (apasāra)",
+  "new": "in the matching of the apasāra (retreat)",
+  "why": "reviewer (error): same"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "apasāra is taken literally as 'going away' (his departure/movements); the glossary has 'place of retreat' for 10.2, a different sense. pratisandhāna = joining, matching. śuddha is literally 'pure' (cleared of the charge). karma-prāpta = 'one who has come to action', i.e. liable to the 'action' of unit 14ff.; the text does not say more. The verb is supplied only as the copula.",
+  "new": "apasāra is taken literally as 'going away' (his departure/movements); the glossary has 'place of retreat' for 10.2, a different sense. pratisandhāna = joining, matching. śuddha is literally 'pure' (cleared of the charge). karma-prāpta = 'one who has come to action', i.e. liable to the 'action' of unit 14ff.; the text does not say more. The verb is supplied only as the copula. Reviewer: apasāra stays untranslated (अपसार) as in 4.6; literal 'retreat' only in the gloss; whether it is the place resorted to or the person pointed to is unsettled (4.6 takes the person pointed to). The earlier note 'going away' is withdrawn.",
+  "why": "reviewer (minor): settle apasāra"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "इन कारणों का मेल न होने पर बकवास करने वाले को अचोर जाने।",
+  "new": "इन कारणों का मेल न होने पर बकवास करने वाले को चोर न होने वाला जाने।",
+  "why": "reviewer (minor): 'अचोर' is not natural Hindi; unit 12 already uses 'चोर न होने वाला'"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "DOUBTFUL. samāpta-karaṇam may be a bahuvrīhi 'one whose karaṇa (procedure/means) is completed' or a neuter object 'the completed karaṇa' (the finished procedure) with niyamayet 'should regulate'. karaṇa is left as the Sanskrit word. The adjacent units give no sure help.",
+  "new": "DOUBTFUL. samāpta-karaṇam may be a bahuvrīhi 'one whose karaṇa (procedure/means) is completed' or a neuter object 'the completed karaṇa' (the finished procedure) with niyamayet 'should regulate'. karaṇa is left as the Sanskrit word. The adjacent units give no sure help. Reviewer: karaṇa kept untranslated; it is not the 4.1 sva-karaṇa 'means of proof' without a person's decision (here perhaps the investigation/procedure).",
+  "why": "reviewer (minor): relation to 4.1 glossary karaṇa = means of proof not recorded"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "By [those of] similar character, unchaste women, prāpāvikas, givers of an opportunity for talk and givers of food, he should cause apasarpa (secret going-about).",
+  "new": "By [those of] similar character, unchaste women, prāpāvikas, givers of an opportunity for talk and givers of food, he should cause apasarpa (literally 'going away').",
+  "why": "reviewer (error): 'secret going-about' is an invented sense; apa-√sṛp caus. is literally 'cause to go away'"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "apasarpayet",
+  "old": "should cause apasarpa",
+  "new": "should cause to go away",
+  "why": "reviewer (minor): gloss 'should cause apasarpa' is not a meaning"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इस प्रकार छल ले, अथवा जैसा निक्षेप के अपहार में बताया गया है।",
+  "new": "इस प्रकार छल ले, अथवा जैसी निक्षेप के अपहार में व्याख्या की गई है।",
+  "why": "reviewer (minor): glossary (4.1): vyākhyāta = 'व्याख्या की गई'"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "जिसका दोष सिद्ध हो चुका है उससे कर्म कराए, किन्तु स्त्री से कदापि नहीं, गर्भवती से, सूतिका से, अथवा एक मास से कम पहले प्रसव करने वाली से।",
+  "new": "जिसका दोष सिद्ध हो चुका है उसको कर्म कराए, किन्तु स्त्री को कदापि नहीं, गर्भवती को, सूतिका को, अथवा एक मास से कम पहले प्रसव करने वाली को।",
+  "why": "reviewer (minor): 'उससे कर्म कराए' reads as the person doing the action; the object of kārayet is the person, so 'को'"
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "इसका अतिक्रम करने पर उत्तम दण्ड है, कर्ता और करवाने वाले के लिए, कर्म से और वध से।",
+  "new": "इसका अतिक्रम करने पर सर्वोच्च दण्ड है, कर्ता और करवाने वाले के लिए, कर्म से और वध से।",
+  "why": "reviewer (minor): 'उत्तम' reads as 'excellent' to a modern reader; uttama = highest"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "व्यावहारिक कर्म-चतुष्क — छह डंडे, सात कशा, दो उपरि-निबन्ध और उदक-नालिका।",
+  "new": "व्यावहारिक कर्म-चतुष्क — छह डंडे, सात कशाएँ, दो उपरि-निबन्ध और उदक-नालिका।",
+  "why": "reviewer (minor): plural of कशा"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "आगे, पापकर्म करने वालों के लिए: नौ वेत्र-लताएँ, बारह कशा, जाँघों के दो वेष्टन, बीस नक्त-माल-लताएँ, बत्तीस तल, दो वृश्चिक-बन्ध, दो उल्लम्बन, हाथ की सूई; यवागू पिए हुए की अँगुली के एक पोर का जलाना; स्नेह पिए हुए का एक दिन तपाना; और शिशिर की रात में बल्बज के अग्रभागों की शय्या।",
+  "new": "आगे, पापकर्म करने वालों के लिए: नौ वेत्र-लताएँ, बारह कशाएँ, जाँघों के दो वेष्टन, बीस नक्त-माल-लताएँ, बत्तीस तल, दो वृश्चिक-बन्ध, दो उल्लम्बन, हाथ की सूई; यवागू पिए हुए की अँगुली के एक पोर का जलाना; स्नेह पिए हुए का एक दिन तपाना; और शिशिर की रात में बल्बज के अग्रभागों की शय्या।",
+  "why": "reviewer (minor): plural of कशा"
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "He should have its implement, measure, striking, pradharaṇa and fixing brought out from the khara-paṭṭa.",
+  "new": "He should have its implement, measure, striking, pradharaṇa and fixing brought from the khara-paṭṭa.",
+  "why": "reviewer (minor): 'out' is not in the Sanskrit (āgamayet = cause to come, ablative 'from')"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "āgamayet",
+  "old": "should have brought out",
+  "new": "should cause to come",
+  "why": "reviewer (minor): 'have brought out' adds 'out'"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "उसका उपकरण, प्रमाण, प्रहरण, प्रधरण और अवधारण खर-पट्ट से प्राप्त कराए।",
+  "new": "उसका उपकरण, माप, प्रहरण, प्रधरण और अवधारण खर-पट्ट से प्राप्त कराए।",
+  "why": "reviewer (error): English 'measure' but Hindi प्रमाण means 'proof' (the 4.1 sense)"
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "khara-paṭṭa is literally 'rough/hard slab or cloth'; it is kept as a word. pradharaṇa is obscure (pra-dhṛ; 'bearing, holding') and left untranslated. āgamayet (caus. of ā-√gam) = 'cause to come', i.e. have brought out/made known; 'have learned' is an alternative. 'That' (tasya) refers to the action of unit 23.",
+  "new": "khara-paṭṭa is literally 'rough/hard slab or cloth'; it is kept as a word. pradharaṇa is obscure (pra-dhṛ; 'bearing, holding') and left untranslated. āgamayet (caus. of ā-√gam) = 'cause to come', i.e. have brought out/made known; 'have learned' is an alternative. 'That' (tasya) refers to the action of unit 23. Reviewer: praharaṇa is literally 'striking'; 'weapon, instrument of striking' is the usual noun sense and is possible; pramāṇa is 'measure' (Hindi माप), not 'proof'.",
+  "why": "reviewer (minor): alternative sense missing"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "राजा की आज्ञा से, पहले किए हुए अपदान को स्वीकार करके उसे वापस लेने वाले से, जिसका सामान एक स्थान पर दिखाई दिया हो उससे, कर्म या रूप से पकड़े गए से, राजकोश को ढँकने वाले से, अथवा कर्म से वध्य से कर्म कराए — संयुक्त, पृथक् या बार-बार।",
+  "new": "राजा की आज्ञा से, पहले किए हुए अपदान को स्वीकार करके उसे वापस लेने वाले को, जिसका सामान एक स्थान पर दिखाई दिया हो उसको, कर्म या रूप से पकड़े गए को, राजकोश को ढँकने वाले को, अथवा कर्म से वध्य को कर्म कराए — संयुक्त, पृथक् या बार-बार।",
+  "why": "reviewer (minor): 'से' after each person reads as if the person performs the action; objects of kārayet take 'को'"
+ }
+]
