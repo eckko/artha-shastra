@@ -120,11 +120,11 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1.
 | 07 | 16 | 36 | S1 | -- | -- | pass |  |
 | 07 | 17 | 62 | S1 | -- | -- | pass |  |
 | 07 | 18 | 59 | S1 | -- | -- | pass |  |
-| 08 | 01 | 66 | S1 | -- | -- | pass |  |
-| 08 | 02 | 27 | S1 | -- | -- | pass |  |
-| 08 | 03 | 68 | S1 | -- | -- | pass |  |
-| 08 | 04 | 51 | S1 | -- | -- | pass |  |
-| 08 | 05 | 42 | S1 | -- | -- | pass |  |
+| 08 | 01 | 66 | S1 | AI draft, reviewed (p08-hindi.md) | AI draft, reviewed (p08-english.md) | pass | word split in p08-sandhi.md |
+| 08 | 02 | 27 | S1 | AI draft, reviewed (p08-hindi.md) | AI draft, reviewed (p08-english.md) | pass | word split in p08-sandhi.md |
+| 08 | 03 | 68 | S1 | AI draft, reviewed (p08-hindi.md) | AI draft, reviewed (p08-english.md) | pass | word split in p08-sandhi.md |
+| 08 | 04 | 51 | S1 | AI draft, reviewed (p08-hindi.md) | AI draft, reviewed (p08-english.md) | pass | word split in p08-sandhi.md |
+| 08 | 05 | 42 | S1 | AI draft, reviewed (p08-hindi.md) | AI draft, reviewed (p08-english.md) | pass | word split in p08-sandhi.md |
 | 09 | 01 | 53 | S1 | -- | -- | pass |  |
 | 09 | 02 | 31 | S1 | -- | -- | pass |  |
 | 09 | 03 | 43 | S1 | -- | -- | pass |  |
@@ -132,18 +132,18 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1.
 | 09 | 05 | 33 | S1 | -- | -- | pass |  |
 | 09 | 06 | 74 | S1 | -- | -- | pass |  |
 | 09 | 07 | 85 | S1 | -- | -- | pass |  |
-| 10 | 01 | 18 | S1 | -- | -- | pass |  |
-| 10 | 02 | 21 | S1 | -- | -- | pass |  |
-| 10 | 03 | 60 | S1 | -- | -- | pass |  |
-| 10 | 04 | 19 | S1 | -- | -- | pass |  |
-| 10 | 05 | 60 | S1 | -- | -- | pass |  |
-| 10 | 06 | 55 | S1 | -- | -- | pass |  |
-| 11 | 01 | 57 | S1 | -- | -- | pass |  |
-| 12 | 01 | 33 | S1 | -- | -- | pass |  |
-| 12 | 02 | 34 | S1 | -- | -- | pass |  |
-| 12 | 03 | 22 | S1 | -- | -- | pass |  |
-| 12 | 04 | 30 | S1 | -- | -- | pass |  |
-| 12 | 05 | 52 | S1 | -- | -- | pass |  |
+| 10 | 01 | 18 | S1 | AI draft, reviewed (p10-hindi.md) | AI draft, reviewed (p10-english.md) | pass | word split in p10-sandhi.md |
+| 10 | 02 | 21 | S1 | AI draft, reviewed (p10-hindi.md) | AI draft, reviewed (p10-english.md) | pass | word split in p10-sandhi.md |
+| 10 | 03 | 60 | S1 | AI draft, reviewed (p10-hindi.md) | AI draft, reviewed (p10-english.md) | pass | word split in p10-sandhi.md |
+| 10 | 04 | 19 | S1 | AI draft, reviewed (p10-hindi.md) | AI draft, reviewed (p10-english.md) | pass | word split in p10-sandhi.md |
+| 10 | 05 | 60 | S1 | AI draft, reviewed (p10-hindi.md) | AI draft, reviewed (p10-english.md) | pass | word split in p10-sandhi.md |
+| 10 | 06 | 55 | S1 | AI draft, reviewed (p10-hindi.md) | AI draft, reviewed (p10-english.md) | pass | word split in p10-sandhi.md |
+| 11 | 01 | 57 | S1 | AI draft, reviewed (p11-hindi.md) | AI draft, reviewed (p11-english.md) | pass | word split in p11-sandhi.md |
+| 12 | 01 | 33 | S1 | AI draft, reviewed (p12-hindi.md) | AI draft, reviewed (p12-english.md) | pass | word split in p12-sandhi.md |
+| 12 | 02 | 34 | S1 | AI draft, reviewed (p12-hindi.md) | AI draft, reviewed (p12-english.md) | pass | word split in p12-sandhi.md |
+| 12 | 03 | 22 | S1 | AI draft, reviewed (p12-hindi.md) | AI draft, reviewed (p12-english.md) | pass | word split in p12-sandhi.md |
+| 12 | 04 | 30 | S1 | AI draft, reviewed (p12-hindi.md) | AI draft, reviewed (p12-english.md) | pass | word split in p12-sandhi.md |
+| 12 | 05 | 52 | S1 | AI draft, reviewed (p12-hindi.md) | AI draft, reviewed (p12-english.md) | pass | word split in p12-sandhi.md |
 | 13 | 01 | 22 | S1 | -- | -- | pass |  |
 | 13 | 02 | 56 | S1 | -- | -- | pass |  |
 | 13 | 03 | 59 | S1 | -- | -- | pass |  |
@@ -156,5 +156,5 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1.
 | 15 | 01 | 76 | S1 | -- | -- | pass |  |
 
 ## Next
-- Layers (word split, Hindi, English): done for Part 06 only (pilot), as AI drafts that went through an independent AI review; no person has read them. Parts 01-05 and 07-15 are not started (see layers-work/STATUS.md). No outside translation was found.
+- Layers (word split, Hindi, English): done for Parts 06, 08, 10, 11 and 12 (pilot plus the short parts), as AI drafts that went through an independent AI review; no person has read them. Parts 01-05, 07, 09 and 13-15 are not started (see layers-work/STATUS.md). No outside translation was found.
 - Proofreading stage: compare against Kangle's print edition, resolve ISSUES.md, decide on compound marks.

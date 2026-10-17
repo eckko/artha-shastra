@@ -59,3 +59,26 @@ Coverage and rate: 199 lines read by AI (3 stray, 93 typo candidates, 66 metre, 
 | 06.01.6 | other | `bhrukuṭī.kṣaṇaḥ`: the e-text's own split implies bhrukuṭī + kṣaṇa, the draft reads īkṣaṇa ("glance"); also śakla meaning unclear (glossed "pleasant" tentatively) and `samyama` flagged as possible saṃyama (may be the e-text's own spelling) | S1 | a person decides against Kangle's print |
 | 06.02.19 | other | `bhūmy.anantaraḥ prakṛti.mitraḥ`: drafter and reviewer read prakṛti-amitraḥ (natural enemy), as units 14 and 20 imply; src kept as printed, correction only in the word split and text_flags | S1 | check print |
 | 06.02.36, 06.02.38 | other | sādhāraṇaḥ ambiguous; nested quotation in 38 (prārthitasya, sādhyo me) read with medium confidence | S1 | a person reads |
+
+## Layers, Parts 08, 10, 11, 12 (AI drafts, reviewed by a second AI; not read by a person)
+
+Settled in `layers-work/GLOSSARY.md` by the reviewers; the owner may want to confirm: vyasana = "calamity" (Books 8.1 etc.) but "vice" for the king's personal vices in 8.3; two Hindi punctuations for the "na iti X" formula; closing "iti" and Hindi quoting style differ between chunks of 8.1/8.3/8.4 (cosmetic).
+
+| Line ID | Kind | What | Source(s) | Suggested check |
+|---|---|---|---|---|
+| 08.01.11, 08.01.18, 08.01.62 | other | `vaiguṇya` (defectiveness vs hostility), `tat-kūṭa-sthānīya`, and the construction of `guṇataḥ kṣayāt / na-avidheyakam` (low confidence, also sādguṇya vs ṣāḍguṇya in the e-text) | S1 | check Kangle's translation |
+| 08.02.23, 08.02.25 | other | `aiśvarya-prakṛti` read as "sovereignty by its nature" (glossary otherwise fixes prakṛti = constituent element); `muṣṭi` sense | S1 | a person decides |
+| 08.03.9 | other | `avajñā-vadha`: reviewer chose "destruction of contempt" over "slaying of those who show contempt" | S1 | check print and translation |
+| 08.05.2, 08.05.28, 08.05.29 | other | `aniyatayor` in the compound (drafter's possible flag); whether śaktitaḥ goes with mānitam or nivāritam; irregular `bhedituṃ` (bheditaṃ "estranged" suspected) | S1 | check print |
+| 08.04 (all) | other | 10 text_flags are drafter/reviewer suggestions on typos (e.g. 41 pratyantara -> pratyanta and 43 yodino -> yodhino stay "possible") | S1 | check print |
+| 10.01.1 | other | missing compound mark: e-text has a space between `nāyaka.vardhaki` and `mauhūrtikāḥ` (one compound) | S1 | decide whether to flag/correct |
+| 10.02.16 | other | water carried BY or FOR the vehicles and animals (ca favours FOR; no patch) | S1 | a person reads |
+| 10.03.3, 10.03.31, 10.03.39 | other | `prakṛti-pragraha` (constituent element vs own support); funeral-water reading and the verse number `|| 31 ||` printed inside the line; `muṇḍa-anīka` uncertain | S1 | check print and translation |
+| 10.05.39, 10.05.45, 10.05.53 | other | what `dvi-aṅga` refers to; unknown word `vega-abhihūlika`; `unmathya-avadhāna` and its three adverbs | S1 | check Kangle's notes |
+| 10.06.3, 10.06.36, 10.06.48 | other | referent of `ubhayoḥ`; `uddhānakaḥ` (an older translation may read udyānaka, unverified); samyogaiḥ -> saṃyogaiḥ needs a text_flags entry the patch format cannot add | S1 | check print |
+| 11.01.42, 11.01.44, 11.01.55 | other | meaning of `aditi-kauśika` women left open; `kullam` -> `kulam` (possible); line 55 `etebhyo 'tisaṅghān ebhyo` does not parse as printed | S1 | check print |
+| 12.01.- | other | no item needs a person | S1 | -- |
+| 12.02.26 | other | `āhārayeyuḥ`: "have the citizens robbed" vs "carried off" | S1 | a person reads |
+| 12.03.1, 12.03.13, 12.03.14 | other | reviewer reversed the draft: patty-aśva-ratha-dvipa-mukhyānām taken with mitra-sthānīyeṣu (agents tell the friendly chiefs); `asya` (officer's vs king's); `prakṛti-puruṣa` "men of the constituent elements" | S1 | check translation |
+| 12.04.1, 12.04.23, 12.04.25, 12.04.28, 12.04.29 | other | `paṇya-āgāra-pūrvam`, `sattra`/`stambha-vāṭa`, `khañjana`, `nidhāna-gata`, `yoga-vāmana-yoga` (low confidence) | S1 | check Kangle's notes |
+| 12.05.1, 12.05.42, 12.05.43 | other | corrupt first compound (daivata.ijyāyāṃ is the editors' proposal); `dūṣya-vyañjanaiḥ` construal; `prāśya-prāśam` obscure | S1 | check print |
