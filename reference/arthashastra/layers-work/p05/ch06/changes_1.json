@@ -1,0 +1,135 @@
+[
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "yathā-ucitām",
+  "old": "f. acc. sg., avyayībhāva",
+  "new": "f. acc. sg., compound (yathā + ucita), qualifying sambhāṣām",
+  "why": "reviewer (minor): avyayībhāva is wrong: the form is feminine -ām and agrees with sambhāṣām"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "And, with the doorkeeper and the antarvaṃśika at the head, he should keep up the king's praṇidhi (routine) as stated.",
+  "new": "And, with the doorkeeper and the antarvaṃśika at the head, he should keep up the king's routine as stated.",
+  "why": "reviewer (minor): glossary: rāja-praṇidhi = the king's routine (Kangle title of 1.19); keep the plain term"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "और द्वारपाल तथा अन्तर्वंशिक को प्रमुख रखकर, जैसा कहा गया है वैसे राजा के प्रणिधि को चलाए रखे।",
+  "new": "और द्वारपाल तथा अन्तर्वंशिक को प्रमुख रखकर, जैसा कहा गया है वैसे राजा की दिनचर्या को चलाए रखे।",
+  "why": "reviewer (minor): bare untranslated word; use the settled rendering"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "rāja-praṇidhim",
+  "old": "the king's praṇidhi (routine)",
+  "new": "the king's routine (praṇidhi)",
+  "why": "reviewer (minor): match English"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Toward wrongdoers he should show anger or favour, whichever is liked by the constituent elements; toward benefactors, favour only.",
+  "new": "Toward wrongdoers he should show anger or favour liked by the constituent elements; toward benefactors, favour only.",
+  "why": "reviewer (minor): 'whichever' is an unmarked addition"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "heḍam",
+  "old": "anger, disfavour",
+  "new": "anger",
+  "why": "reviewer (minor): settled: heḍa = anger"
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "The object of preṣayet (the chief of unit 8) is not stated; 'him' supplied in brackets. mitra-kulam is taken as a goal ('to the family of an ally'); the e-text has it in the accusative without a postposition. ābādha = hardship, trouble.",
+  "new": "The object of preṣayet (the chief of unit 8) is not stated; 'him' supplied in brackets. mitra-kulam is taken as a goal ('to the family of an ally'); the e-text has it in the accusative without a postposition. ābādha = hardship, trouble. Reviewer: bahv.ābādhaṃ is printed with -aṃ although it agrees with feminine yātrām (expected bahv.ābādhāṃ); possible typo, not flagged by the drafter; the word is glossed as the feminine form.",
+  "why": "reviewer (minor): printed -aṃ (m./n.) but agrees with feminine yātrām; expected bahv.ābādhāṃ; possible typo, no flag was raised (patch cannot add one)"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "“राजा के मरते समय अमात्य कुल्यों, कुमारों और मुख्यों को आपस में, अथवा मुख्यों पर, आक्रमण करवाए।",
+  "new": "“अथवा राजा के मरते समय अमात्य कुल्यों, कुमारों और मुख्यों को आपस में, अथवा मुख्यों पर, आक्रमण करवाए।",
+  "why": "reviewer (minor): the vā (rendered 'Or' in English) is dropped in Hindi"
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "kim aṅga punar is an idiom, 'how much more (then)'. pragraha = control, hold (the reins); alternative 'sole holder of the kingdom'. amātya-prakṛti = the constituent element that is the minister.",
+  "new": "kim aṅga punar is an idiom, 'how much more (then)'. pragraha = control, hold (the reins); alternative 'sole holder of the kingdom'. amātya-prakṛti = the constituent element that is the minister. Reviewer: 'rājya.kāraṇādd hi' has the letters of kāraṇād dhi (kāraṇāt + hi); the word space is misplaced, there is no extra d. The word 'hi' is therefore really 'dhi' (= hi).",
+  "why": "reviewer (minor): diagnosis is wrong: letters are the same as kāraṇād dhi (hi is dhi); only the word space is misplaced, no spurious d; flag should say 'kāraṇādd hi -> kāraṇād dhi'"
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "aṅga",
+  "old": "(particle) dear sir",
+  "new": "(particle of address) my dear",
+  "why": "reviewer (minor): 'dear sir' is an invented sense"
+ },
+ {
+  "n": "28",
+  "field": "word.gram",
+  "word": "eka-pragrahaḥ",
+  "old": "m. nom. sg., bahuvrīhi",
+  "new": "m. nom. sg., karmadhāraya (predicate noun)",
+  "why": "reviewer (minor): masculine form for a feminine subject: a predicate noun, not a bahuvrīhi"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "सम्पन्न के अभाव में व्यसनरहित कुमार को, अथवा राजकन्या को, अथवा गर्भवती रानी को आगे करके और महामात्रों को एकत्र करके कहे: “यह तुम्हारी धरोहर है; इसके पिता को, इसके सत्त्व और कुल को, और अपने आपको देखो; यह केवल ध्वज है, आप ही स्वामी हैं; अथवा क्या किया जाए?”",
+  "new": "सम्पन्न के अभाव में व्यसनरहित कुमार को, अथवा राजकन्या को, अथवा गर्भवती रानी को आगे करके और महामात्रों को एकत्र करके कहे: “यह तुम्हारी धरोहर है; इसके पिता को, इसके सत्त्व और कुल को, और अपने आपको देखो; यह केवल ध्वज है, आप ही स्वामी हैं; अथवा कैसे किया जाए?”",
+  "why": "reviewer (minor): katham means 'how'; English says 'how'"
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "Saying “So be it,” the minister should put the prince, or the king's daughter, or the pregnant queen in authority, and should show [him or her] to kinsmen and relatives and to the envoys of allies and enemies.",
+  "new": "[Saying] “So be it,” the minister should put the prince, or the king's daughter, or the pregnant queen in authority, and should show [him or her] to kinsmen and relatives and to the envoys of allies and enemies.",
+  "why": "reviewer (minor): 'Saying' is supplied without a bracket"
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "और ऋतुकाल में उसकी रक्षा करे।",
+  "new": "और ऋतु में उसकी रक्षा करे।",
+  "why": "reviewer (minor): ऋतुकाल states the fertile-period sense that English only brackets; keep literal"
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "And he should ask the one who is in youth for rest, for the sake of the mind. He should abandon the one who is not satisfied, and look after the one who is satisfied.",
+  "new": "And he should ask the one who is in youth for rest, on account of the mind. He should abandon the one who is not satisfied, and look after the one who is satisfied.",
+  "why": "reviewer (minor): Hindi has 'के कारण' (on account of) and kāraṇāt means on account of"
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "citta-kāraṇāt",
+  "old": "for the sake of the mind",
+  "new": "on account of the mind",
+  "why": "reviewer (minor): match"
+ },
+ {
+  "n": "47",
+  "field": "english",
+  "old": "Or the king restrained by the chiefs — one who has resorted to those dear to him, a knower of the artha-śāstra, should instruct [him] by itihāsa and purāṇa.",
+  "new": "Or, [if] the king [is] restrained by the chiefs, one who has resorted to those dear to him, a knower of the artha-śāstra, should instruct [him] by itihāsa and purāṇa.",
+  "why": "reviewer (minor): awkward: the relative status of 'king restrained' and the instructor is unclear; no 'if' in the Sanskrit, supplied only in brackets"
+ },
+ {
+  "n": "47",
+  "field": "word.gram",
+  "word": "itihāsa-purāṇābhyām",
+  "old": "m. inst. du., dvandva",
+  "new": "inst. du., dvandva",
+  "why": "reviewer (minor): dvandva of itihāsa (m.) and purāṇa (n.): gender label m. is not right"
+ }
+]
