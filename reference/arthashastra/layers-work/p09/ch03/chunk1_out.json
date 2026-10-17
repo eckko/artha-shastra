@@ -1,0 +1,681 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpaḥ",
+      "words": [
+       {
+        "w": "alpaḥ",
+        "gloss": "small",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paścāt.kopo",
+      "words": [
+       {
+        "w": "paścāt-kopaḥ",
+        "gloss": "later revolt",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahān",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "purastāl.lābha",
+      "words": [
+       {
+        "w": "purastāt-lābhaḥ",
+        "gloss": "earlier gain",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "alpaḥ",
+      "words": [
+       {
+        "w": "alpaḥ",
+        "gloss": "small",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paścāt.kopo",
+      "words": [
+       {
+        "w": "paścāt-kopaḥ",
+        "gloss": "later revolt",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "garīyān",
+      "words": [
+       {
+        "w": "garīyān",
+        "gloss": "more serious",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“पीछे का छोटा कोप और पहले का बड़ा लाभ” — इसमें पीछे का छोटा कोप अधिक गम्भीर है।",
+  "english": "“A small revolt later, a great gain earlier” — [in this case] the small revolt later is the more serious.",
+  "text_flags": [],
+  "notes": "Opening of a quoted view; no teacher is named and the bare iti is not rendered. kopa = revolt (glossary 8.2). The bracketed [in this case] only links the quoted phrase to the comparison. Sentence continues in unit 2.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpaṃ",
+      "words": [
+       {
+        "w": "alpaṃ",
+        "gloss": "small",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paścāt.kopaṃ",
+      "words": [
+       {
+        "w": "paścāt-kopaṃ",
+        "gloss": "later revolt",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayātassya",
+      "words": [
+       {
+        "w": "prayātasya",
+        "gloss": "of one who has marched",
+        "gram": "m. gen. sg. pp. pra-√yā"
+       }
+      ]
+     },
+     {
+      "src": "dūṣya.amitra.āṭavikā",
+      "words": [
+       {
+        "w": "dūṣya-amitra-āṭavikāḥ",
+        "gloss": "the treasonable, enemies and forest chiefs",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvataḥ",
+      "words": [
+       {
+        "w": "sarvataḥ",
+        "gloss": "from all sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samedhayanti,",
+      "words": [
+       {
+        "w": "samedhayanti,",
+        "gloss": "make grow",
+        "gram": "3 pl. caus. pres. sam-√edh"
+       }
+      ]
+     },
+     {
+      "src": "prakṛti.kopo",
+      "words": [
+       {
+        "w": "prakṛti-kopaḥ",
+        "gloss": "uprising of the constituents",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "छोटे पीछे के कोप के रहते प्रस्थान किए हुए (राजा) के दूष्य, शत्रु और वन के सरदार सब ओर से उसे बढ़ावा देते हैं, अथवा प्रकृतियों का विद्रोह होता है।",
+  "english": "For one who has marched out with a small revolt later [in prospect], the treasonable, enemies and forest chiefs foster [it] from all sides — or an uprising of the constituents.",
+  "text_flags": [
+   {
+    "src": "prayātassya",
+    "suggest": "prayātasya",
+    "why": "doubled s: sandhi-less typo for prayātasya (gen. sg. of prayāta)"
+   }
+  ],
+  "notes": "Syntax of alpaṃ paścāt-kopaṃ prayātasya is loose (accusative with a participle); taken as \"who has set out with a small later revolt [behind/awaiting]\". Object of samedhayanti is not stated; \"it\" is supplied in English brackets. Hindi (राजा) is the understood person, not a gloss. Closing \"prakṛti-kopo vā\" has no predicate.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "labdham",
+      "words": [
+       {
+        "w": "labdham",
+        "gloss": "obtained",
+        "gram": "n. acc. sg. pp. √labh"
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahāntaṃ",
+      "words": [
+       {
+        "w": "mahāntaṃ",
+        "gloss": "great",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "purastāl.lāham",
+      "words": [
+       {
+        "w": "purastāt-lāham",
+        "gloss": "earlier gain",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "evaṃ.bhūte",
+      "words": [
+       {
+        "w": "evaṃ-bhūte",
+        "gloss": "in such a state",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhṛtya.mitra.kṣaya.vyayā",
+      "words": [
+       {
+        "w": "bhṛtya-mitra-kṣaya-vyayāḥ",
+        "gloss": "servants, allies, losses and expenditure",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "grasante",
+      "words": [
+       {
+        "w": "grasante",
+        "gloss": "swallow up",
+        "gram": "3 pl. pres. √gras"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऐसी स्थिति में प्राप्त हुए बड़े पहले के लाभ को भी भृत्य, मित्र, क्षय और व्यय निगल जाते हैं।",
+  "english": "In such a state, even a great earlier gain that has been obtained is swallowed up by servants, allies, losses and expenditure.",
+  "text_flags": [
+   {
+    "src": "purastāl.lāham",
+    "suggest": "purastāl.lābham",
+    "why": "lāham looks like a typo for lābham (lābha, gain), cf. units 1, 4, 7, 8"
+   }
+  ],
+  "notes": "Possible alternative: bhṛtya-mitra-kṣaya-vyayāḥ as \"loss and expenditure on servants and allies\" (one compound). labdham is placed with mahāntaṃ lābham in the sense \"even a great gain once obtained\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāt",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahasra.ekīyaḥ",
+      "words": [
+       {
+        "w": "sahasra-ekīyaḥ",
+        "gloss": "one in a thousand",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "purastāl.lābhasya-ayogaḥ",
+      "words": [
+       {
+        "w": "purastāt-lābhasya",
+        "gloss": "of the earlier gain",
+        "gram": "tat-puruṣa, m. gen. sg."
+       },
+       {
+        "w": "ayogaḥ",
+        "gloss": "non-attainment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śata.ekīyo",
+      "words": [
+       {
+        "w": "śata-ekīyaḥ",
+        "gloss": "one in a hundred",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paścāt.kopa",
+      "words": [
+       {
+        "w": "paścāt-kopaḥ",
+        "gloss": "later revolt",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "(closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए “पहले के लाभ का अयोग हज़ार में एक है” अथवा “पीछे का कोप सौ में एक है” — ऐसे विचार से न जाए।",
+  "english": "Therefore he should not march [on the ground that] “the failure of the earlier gain is one in a thousand” or “the later revolt is one in a hundred”.",
+  "text_flags": [],
+  "notes": "Literal sense of sahasra-ekīya / śata-ekīya is \"of one (part) in a thousand / a hundred\"; the reading as odds (one in a thousand / hundred) is the most natural but not certain. Alternatively the sense may be that the risk, however small, forbids marching. The lābhasya-ayogaḥ join is unsandhied in the e-text. \"on the ground that\" is supplied in brackets; the Hindi \"ऐसे विचार से\" carries the same link to iti.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sūcī.mukhā",
+      "words": [
+       {
+        "w": "sūcī-mukhāḥ",
+        "gloss": "needle-pointed",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hy",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anarthā",
+      "words": [
+       {
+        "w": "anarthāḥ",
+        "gloss": "misfortunes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "loka.pravādaḥ",
+      "words": [
+       {
+        "w": "loka-pravādaḥ",
+        "gloss": "popular saying",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि अनर्थ सुई की नोक जैसे मुख वाले होते हैं — ऐसा लोकप्रवाद है।",
+  "english": "For misfortunes have the point of a needle for a mouth — such is the popular saying.",
+  "text_flags": [],
+  "notes": "sūcī-mukha = \"needle-faced\"; i.e. misfortunes begin as a needle-point (that is the commonly given sense; the text only says needle-mouthed).",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paścāt.kope",
+      "words": [
+       {
+        "w": "paścāt-kope",
+        "gloss": "in a later revolt",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāma.dāna.bheda.daṇḍān",
+      "words": [
+       {
+        "w": "sāma-dāna-bheda-daṇḍān",
+        "gloss": "conciliation, gifts, dissension and force",
+        "gram": "dvandva, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पीछे के कोप में साम, दान, भेद और दण्ड का प्रयोग करे।",
+  "english": "In the case of a later revolt he should employ conciliation, gifts, dissension and force.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "purastāl.lābhe",
+      "words": [
+       {
+        "w": "purastāt-lābhe",
+        "gloss": "in the case of the earlier gain",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "senā.patiṃ",
+      "words": [
+       {
+        "w": "senā-patiṃ",
+        "gloss": "commander of the army",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kumāraṃ",
+      "words": [
+       {
+        "w": "kumāraṃ",
+        "gloss": "prince",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.cāriṇaṃ",
+      "words": [
+       {
+        "w": "daṇḍa-cāriṇaṃ",
+        "gloss": "one who goes with the army",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kurvīta",
+      "words": [
+       {
+        "w": "kurvīta",
+        "gloss": "should make",
+        "gram": "3 sg. opt. mid. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पहले के लाभ की स्थिति में सेनापति अथवा कुमार को सेना के साथ चलने वाला बनाए।",
+  "english": "In the case of the earlier gain he should make the commander of the army or a prince the one who goes with the army.",
+  "text_flags": [],
+  "notes": "daṇḍa-cārin rendered literally with daṇḍa = army (the force sent out); some take it as \"moving in charge of the force\". Alternative: kumāra = youth/prince.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balavān",
+      "words": [
+       {
+        "w": "balavān",
+        "gloss": "strong",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paścāt.kopa.avagraha.samarthaḥ",
+      "words": [
+       {
+        "w": "paścāt-kopa-avagraha-samarthaḥ",
+        "gloss": "capable of restraining a later revolt",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "purastāl.lābham",
+      "words": [
+       {
+        "w": "purastāt-lābham",
+        "gloss": "earlier gain",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādātuṃ",
+      "words": [
+       {
+        "w": "ādātuṃ",
+        "gloss": "to take",
+        "gram": "inf. ā-√dā"
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा बलवान राजा, जो पीछे के कोप को रोकने में समर्थ हो, पहले के लाभ को लेने के लिए जाए।",
+  "english": "Or a strong king, capable of restraining a later revolt, should march to take the earlier gain.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ }
+]
