@@ -126,3 +126,7 @@
 - (9.6) closing iti on a section label (iti bheda-karma, ity upāya-catur-vargaḥ, ity abhiyuñjāneṣu-uktam) is not rendered, no 'thus' and no इस प्रकार; the word is glossed "closing marker"
 - (9.6) tīkṣṇa as accusative in a list of persons dealt with (unit 53) = fierce (तीक्ष्ण); as the agent class (unit 54) = assassin (तीक्ष्ण); ubhaya-vetana = one paid by both (दोनों से वेतन पाने वाला); sattrin = secret agent (गुप्तचर); gūḍha-puruṣa = secret agent (गूढ़ पुरुष)
 - (9.6) aṭavī in the place-list sārtha-vraja-aṭavī (unit 71) = forests (वन), a place, not the force sense 'forest tribes' of 8.1; sārtha = caravan (सार्थ); vraja = cattle-station (व्रज); sva-bhūmiṣṭha = standing on one's own ground (अपनी भूमि पर स्थित)
+- (5.4) anuyoga = instruction (शिक्षा) in both 5.4.4 and 5.4.7; 'inquiry/questioning/reproof' only in notes
+- (5.4) anarthya = worthless (निरर्थक); arthya (5.4.10 only) = petitioners (याचक), doubtful; ghora = harsh (कठोर) of speech, terrible (भयंकर) in ghora-hāsa
+- (5.4) priya-hita = the agreeable and beneficial (प्रिय और हित), kept literal though persons are possible; loka-yātrā = ways of the world (लोकयात्रा); mithaḥ = privately (एकान्त में); tadātve/āyatyām = in the present/in the future (वर्तमान में/भविष्य में)
+- (5.4) artha in rāja-/sva-/para-artha = interest (प्रयोजन), in dharma-artha = wealth (अर्थ); a closing iti of a quotation is not rendered; typed-text slips in w use the corrected stem form, final-consonant sandhi undone (brūyāt, not brūyād)
