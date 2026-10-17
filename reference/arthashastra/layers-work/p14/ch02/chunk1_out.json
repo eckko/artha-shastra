@@ -1288,5 +1288,515 @@
   "text_flags": [],
   "notes": "vaṭa and sahacara are plant names, not identified; sahacara literally 'companion'. kṛṣṇa = dark/black.",
   "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śakuna.kaṇgu.taila.yuktā",
+      "words": [
+       {
+        "w": "śakuna-kaṅgu-taila-yuktā",
+        "gloss": "combined with oil of śakuna and kaṅgu",
+        "gram": "cpd. f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hari.tāla.manaḥ.śilāḥ",
+      "words": [
+       {
+        "w": "hari-tāla-manaḥ-śilāḥ",
+        "gloss": "haritāla and manaḥśilā",
+        "gram": "cpd. f. nom. pl. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "śyāmī.karaṇam",
+      "words": [
+       {
+        "w": "śyāmī-karaṇam",
+        "gloss": "making dark-hued",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शकुन और कङ्गु के तेल से युक्त हरिताल और मनःशिला श्याम करना है।",
+  "english": "Haritāla and manaḥśilā combined with oil of śakuna and kaṅgu: the making dark-hued.",
+  "text_flags": [
+   {
+    "src": "śakuna.kaṇgu.taila.yuktā",
+    "suggest": "śakuna-kaṅgu-taila-yuktāḥ",
+    "why": "typo: kaṇgu has ṇ (कण्गु); kaṅgu (ṅ) is printed in unit 19. Also yuktā (f. sg.) beside plural subject: possibly yuktāḥ"
+   }
+  ],
+  "notes": "haritāla and manaḥśilā are mineral names, not identified (hari.tāla is split as printed). 'śakuna-kaṅgu-taila' read as oil of śakuna and kaṅgu; alternative: a single oil called 'śakuna-kaṅgu'. śyāma = dark-hued, swarthy.",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kha.dyota.cūrṇaṃ",
+      "words": [
+       {
+        "w": "kha-dyota-cūrṇam",
+        "gloss": "powder of fireflies",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarṣapa.taila.yuktaṃ",
+      "words": [
+       {
+        "w": "sarṣapa-taila-yuktam",
+        "gloss": "combined with mustard oil",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rātrau",
+      "words": [
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "glows",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खद्योत का चूर्ण सरसों के तेल से युक्त रात में चमकता है।",
+  "english": "Powder of fireflies combined with mustard oil glows at night.",
+  "text_flags": [],
+  "notes": "kha-dyota (sky-luminary) taken as firefly. jvalati = blazes/glows; 'glows' chosen because the context is night.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kha.dyota.gaṇḍū.pada.cūrṇaṃ",
+      "words": [
+       {
+        "w": "kha-dyota-gaṇḍū-pada-cūrṇam",
+        "gloss": "powder of fireflies and earthworms",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samudra.jantūnāṃ",
+      "words": [
+       {
+        "w": "samudra-jantūnām",
+        "gloss": "of sea-creatures",
+        "gram": "cpd. m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhṛṅga.kapālānāṃ",
+      "words": [
+       {
+        "w": "bhṛṅga-kapālānām",
+        "gloss": "of bhṛṅga kapālas",
+        "gram": "cpd. n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "khadira.karṇikārāṇāṃ",
+      "words": [
+       {
+        "w": "khadira-karṇikārāṇām",
+        "gloss": "of khadira and karṇikāra",
+        "gram": "cpd. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "puṣpa.cūrṇaṃ",
+      "words": [
+       {
+        "w": "puṣpa-cūrṇam",
+        "gloss": "flower powder",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śakuna.kaṅgu.taila.yuktaṃ",
+      "words": [
+       {
+        "w": "śakuna-kaṅgu-taila-yuktam",
+        "gloss": "combined with oil of śakuna and kaṅgu",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tejana.cūrṇam",
+      "words": [
+       {
+        "w": "tejana-cūrṇam",
+        "gloss": "the brightening powder",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खद्योत और गण्डूपद का चूर्ण, समुद्री जीवों का, भृङ्ग के कपालों का, या खदिर और कर्णिकार के फूलों का चूर्ण, शकुन और कङ्गु के तेल से युक्त, तेजन चूर्ण है।",
+  "english": "Powder of fireflies and gaṇḍūpada worms, of sea-creatures, of bhṛṅga kapālas, or powder of the flowers of khadira and karṇikāra, combined with oil of śakuna and kaṅgu: the brightening powder.",
+  "text_flags": [],
+  "notes": "gaṇḍū-pada (printed gaṇḍū.pada) = a worm, rendered as the name gaṇḍūpada. bhṛṅga-kapāla taken literally (bhṛṅga: bee/bird/plant; kapāla: skull/shell/potsherd): sense uncertain. 'Puṣpa-cūrṇa' governs only the khadira/karṇikāra flowers by reading; alternative: all items are 'or' alternatives. tejana = brightening/sharpening; rendered 'brightening powder'.",
+  "confidence": "low"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pāribhadraka.tvan.maṣī",
+      "words": [
+       {
+        "w": "pāribhadraka-tvak-maṣī",
+        "gloss": "soot of the bark of pāribhadraka",
+        "gram": "cpd. f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇḍūka.vasayā",
+      "words": [
+       {
+        "w": "maṇḍūka-vasayā",
+        "gloss": "with frog fat",
+        "gram": "cpd. f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuktā",
+      "words": [
+       {
+        "w": "yuktā",
+        "gloss": "combined",
+        "gram": "f. nom. sg. p.p.p. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "gātra.prajvālanam",
+      "words": [
+       {
+        "w": "gātra-prajvālanam",
+        "gloss": "setting the limbs ablaze",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "agninā",
+      "words": [
+       {
+        "w": "agninā",
+        "gloss": "with fire",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पारिभद्रक की छाल की कालिख, मेंढक की चर्बी से युक्त, अग्नि से अंगों को जला देना है।",
+  "english": "Soot of pāribhadraka bark, combined with frog fat: the setting of the limbs ablaze with fire.",
+  "text_flags": [
+   {
+    "src": "pāribhadraka.tvan.maṣī",
+    "suggest": "pāribhadraka-tvak-maṣī",
+    "why": "typo: tvan for tvak (त्वन्), as tvak is printed in unit 21"
+   }
+  ],
+  "notes": "pāribhadraka is a tree name, not identified. maṣī = soot/ink; 'soot' is the literal sense, the bark may be burnt. 'Setting ablaze' says the limbs blaze; whether of the user or others is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paribhadraka.tvak.tila.kalka.pradigdhaṃ",
+      "words": [
+       {
+        "w": "paribhadraka-tvak-tila-kalka-pradigdham",
+        "gloss": "smeared with paste of paribhadraka bark and sesame",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarīram",
+      "words": [
+       {
+        "w": "śarīram",
+        "gloss": "the body",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "agninā",
+      "words": [
+       {
+        "w": "agninā",
+        "gloss": "with fire",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परिभद्रक की छाल और तिल की कल्क से लिप्त शरीर अग्नि से जल उठता है।",
+  "english": "The body smeared with a paste of paribhadraka bark and sesame blazes with fire.",
+  "text_flags": [],
+  "notes": "paribhadraka here and pāribhadraka in unit 20 are the same plant name by the context; the print differs (not flagged as a typo). tila = sesame.",
+  "confidence": "medium"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pīlu.tvan.maṣīmayaḥ",
+      "words": [
+       {
+        "w": "pīlu-tvak-maṣīmayaḥ",
+        "gloss": "made of soot of pīlu bark",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "piṇḍo",
+      "words": [
+       {
+        "w": "piṇḍaḥ",
+        "gloss": "lump",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "haste",
+      "words": [
+       {
+        "w": "haste",
+        "gloss": "in the hand",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पीलु की छाल की कालिख से बना पिण्ड हाथ में जल उठता है।",
+  "english": "A lump made of soot of pīlu bark blazes in the hand.",
+  "text_flags": [
+   {
+    "src": "pīlu.tvan.maṣīmayaḥ",
+    "suggest": "pīlu-tvak-maṣīmayaḥ",
+    "why": "typo: tvan for tvak (त्वन्)"
+   }
+  ],
+  "notes": "pīlu is a tree name, not identified.",
+  "confidence": "medium"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "maṇḍūka.vasā.digdho",
+      "words": [
+       {
+        "w": "maṇḍūka-vasā-digdhaḥ",
+        "gloss": "smeared with frog fat",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'gninā",
+      "words": [
+       {
+        "w": "agninā",
+        "gloss": "with fire",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मेंढक की चर्बी से लिप्त हुआ अग्नि से जल उठता है।",
+  "english": "[One] smeared with frog fat blazes with fire.",
+  "text_flags": [],
+  "notes": "The text gives no noun; 'one' is supplied (the person or the limb as in unit 24). The e-text's \"'gninā\" is agninā with avagraha after ō.",
+  "confidence": "medium"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pradigdham",
+      "words": [
+       {
+        "w": "pradigdham",
+        "gloss": "smeared",
+        "gram": "n. nom. sg. p.p.p. pra-√dih"
+       }
+      ]
+     },
+     {
+      "src": "aṅgaṃ",
+      "words": [
+       {
+        "w": "aṅgam",
+        "gloss": "limb",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuśa.āmra.phala.taila.siktaṃ",
+      "words": [
+       {
+        "w": "kuśa-āmra-phala-taila-siktam",
+        "gloss": "sprinkled with oil of kuśa and āmra fruit",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samudra.maṇḍūkī.phenaka.sarja.rasa.cūrṇa.yuktaṃ",
+      "words": [
+       {
+        "w": "samudra-maṇḍūkī-phenaka-sarja-rasa-cūrṇa-yuktam",
+        "gloss": "combined with powder of sea-frog, phenaka and sarja juice",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jvalati",
+      "words": [
+       {
+        "w": "jvalati",
+        "gloss": "blazes",
+        "gram": "3 sg. pres. √jval"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे लिप्त अंग, या कुश और आम्र के फल के तेल से सींचा हुआ, या समुद्री मेंढकी, फेनक और सर्ज के रस के चूर्ण से युक्त अंग जल उठता है।",
+  "english": "The limb smeared with that, or sprinkled with oil of kuśa and āmra fruit, or combined with powder of sea-frog, phenaka and sarja juice, blazes.",
+  "text_flags": [],
+  "notes": "'tena' refers back to the frog fat of unit 23 (assumed). 'kuśa-āmra-phala-taila' could be oil of the fruit of kuśa and āmra, or oil of kuśa and of āmra fruit. samudra-maṇḍūkī = sea-frog (literal); phenaka and sarja not identified; sarja-rasa = sarja juice/resin (rasa not read as poison here). The alternatives are joined by vā.",
+  "confidence": "low"
  }
 ]

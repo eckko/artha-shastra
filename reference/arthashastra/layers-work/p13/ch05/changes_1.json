@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The conqueror's rising is of two kinds: that beginning with the forest, and that beginning with a single village.",
+  "new": "The conqueror's rising is of two kinds: that beginning with a forest, and that beginning with a single village.",
+  "why": "reviewer (minor): Definite article \"the forest\" is an addition; aṭavī-ādika has no article."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "And by acts of favour for their own dharma and action, of exemption, of gift and of honour, he should follow what is dear and beneficial to the constituent elements.",
+  "new": "And by acts of favour for one's own dharma and action, of exemption, of gift and of honour, he should follow what is dear and beneficial to the constituent elements.",
+  "why": "reviewer (minor): \"their\" is unmarked: sva- only says \"own\"; whose dharma (subjects' or king's) is not stated in the compound."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "sva-dharma-karma-anugraha-parihāra-dāna-māna-karmabhiḥ",
+  "old": "by acts of favour for their own dharma and action, of exemption, gift and honour",
+  "new": "by acts of favour for one's own dharma and action, of exemption, gift and honour",
+  "why": "reviewer (minor): Same \"their own\" in the word gloss."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "अपने धर्म और कर्म के प्रति अनुग्रह, परिहार, दान और मान के कर्मों द्वारा वह प्रकृतियों के प्रिय और हित का अनुसरण करे।",
+  "new": "अपने धर्म और कर्म के प्रति अनुग्रह, छूट, दान और मान के कर्मों द्वारा वह प्रकृतियों के प्रिय और हित का अनुसरण करे।",
+  "why": "reviewer (minor): Hindi keeps परिहार here but uses छूट for parihāra in u10 and u11; English is \"exemption\" in all three. Make one rendering."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "और देश के देवताओं, समाजों, उत्सवों और विहारों में भक्ति का अनुसरण करे।",
+  "new": "और देश के देवताओं, सभाओं, उत्सवों और विहारों में भक्ति का अनुसरण करे।",
+  "why": "reviewer (minor): Modern Hindi समाज means \"society\"; for samāja (festive gathering/assembly) it misleads."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "And in the deities of the region, in gatherings, festivals and outings, he should keep up devotion.",
+  "new": "And in the deities of the region, in gatherings, festivals and amusements, he should keep up devotion.",
+  "why": "reviewer (minor): GLOSSARY (8.4): vihāra = amusement (विहार). English \"outings\" departs from it."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "deśa-daivata-samāja-utsava-vihāreṣu",
+  "old": "in the deities of the region, gatherings, festivals and outings",
+  "new": "in the deities of the region, gatherings, festivals and amusements",
+  "why": "reviewer (minor): Follow the same glossary rendering."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "The verb (kārayet, as in 13.5.11) and the object of the non-slaughter (living beings) are not stated; nothing supplied except \"[lasting]\". rāja-deśa-nakṣatra: \"the king's and the country's nakṣatras\" (birth-stars), not \"nakṣatras of the king and country\" as a single compound; Cāturmāsya = the four-monthly seasonal observances, kept as a name.",
+  "new": "The verb (kārayet, as in 13.5.11) and the object of the non-slaughter (living beings) are not stated; nothing supplied except \"[lasting]\". rāja-deśa-nakṣatra: \"the king's and the country's nakṣatras\" (birth-stars), not \"nakṣatras of the king and country\" as a single compound; Cāturmāsya = the four-monthly seasonal observances, kept as a name. Correction: \"birth-stars\" is an interpretation, not in the text; rāja-deśa-nakṣatra is read as the nakṣatras of the king and of the country (rāja and deśa a dvandva inside the compound).",
+  "why": "reviewer (minor): Note says nakṣatras are \"(birth-stars)\", which is an interpretation not in the text, and the sentence \"not … as a single compound\" contradicts itself (it describes the same reading as the English)."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "He should prohibit the killing of yoni and young, and injury to virility.",
+  "new": "He should prohibit the killing of the womb and of the young, and injury to virility.",
+  "why": "reviewer (minor): \"yoni\" is left untranslated and \"young\" is vague, so the English says nothing. Brief: literal rendering plus note when obscure."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "वह योनि और बाल के वध तथा पुंस्त्व के उपघात का निषेध करे।",
+  "new": "वह योनि और बालकों के वध तथा पुंस्त्व के उपघात का निषेध करे।",
+  "why": "reviewer (minor): Singular बाल in Hindi means \"hair\"; bāla here is \"young/immature ones\"."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "yoni-bāla-vadham",
+  "old": "the killing of yoni and young",
+  "new": "the killing of the womb and of the young",
+  "why": "reviewer (minor): Match the English."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "He should have a change of place [made] for those of thievish nature and for mleccha tribes, located in several places, and also for the chiefs of the fort, the country and the army.",
+  "new": "He should have a change of place, located in several places, [made] for those of thievish nature and for mleccha tribes, and also for the chiefs of the fort, the country and the army.",
+  "why": "reviewer (minor): The comma placement makes \"located in several places\" qualify the mleccha tribes; the draft's own note takes anekastham with sthāna-viparyāsam (the change of place)."
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "cora-prakṛtīnām",
+  "old": "f. gen. pl., bahuvrīhi",
+  "new": "gen. pl. (persons), bahuvrīhi",
+  "why": "reviewer (minor): A bahuvrīhi describing persons is not feminine just because prakṛti is; gender is that of the persons (unstated)."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "anukṣiyataḥ",
+  "old": "(obscure) of those wasting after",
+  "new": "(obscure; sense not established)",
+  "why": "reviewer (minor): Gloss \"of those wasting after\" invents a sense and a genitive; the form -ataḥ before vā is equally acc. pl. (parallel to samarthān) or gen./abl. sg. The sense of anu-√kṣi is not established."
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "anukṣiyataḥ",
+  "old": "obscure; pres. part. anu-√kṣi?",
+  "new": "pres. part. of anu-√kṣi (?), acc. pl. or gen./abl. sg.",
+  "why": "reviewer (minor): Case ambiguity should be stated."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "aparuddha: the glossary sense \"prince in disfavour\" is not clearly intended here (no prince is mentioned); rendered \"shut out\" and the technical sense is possible. apavāhita-sthāna lit. \"places carried away / removed\"; \"cleared\" is the nearest rendering, and what was cleared is not stated. \"pareṇa\" = by the enemy.",
+  "new": "aparuddha: the glossary sense \"prince in disfavour\" is not clearly intended here (no prince is mentioned); rendered \"shut out\" and the technical sense is possible. apavāhita-sthāna lit. \"places carried away / removed\"; \"cleared\" is the nearest rendering, and what was cleared is not stated. \"pareṇa\" = by the enemy. Hindi निकाले हुए follows the glossary Hindi for aparuddha; English \"shut out\" is the literal apa-√rudh (kept off). A person should decide whether aparuddha is one term throughout Book 13. Hindi हटाए गए is closer to apavāhita than English \"cleared\".",
+  "why": "reviewer (minor): Draft departs from GLOSSARY (aparuddha = prince in disfavour / निकाला गया राजकुमार) with a reasonable argument (no prince mentioned; pareṇa aparuddha = kept out by the enemy), so \"shut out\" is accepted for this unit. But Hindi निकाले हुए (expelled) is stronger than English \"shut out\", and apavāhita-sthāna is \"cleared\" in English but हटाए गए (removed) in Hindi. Needs a person to fix one term for Book 13."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "The subject of apavṛtta and upāvṛtta is not stated (the former holder, the constituents or the acquisition); \"[it/he]\" is supplied. Closing iti not rendered separately. bhūta-pūrva = the second kind of acquisition in 13.5.2.",
+  "new": "The subject of apavṛtta and upāvṛtta is not stated (the former holder, the constituents or the acquisition); \"[it/he]\" is supplied. Closing iti not rendered separately. bhūta-pūrva = the second kind of acquisition in 13.5.2. Hindi पूर्व लाभ में supplies लाभ (acquisition) from the threefold list in 13.5.2; the Sanskrit has bhūta-pūrve with no noun.",
+  "why": "reviewer (minor): Hindi supplies the noun लाभ (\"acquisition\") unbracketed; English marks the supply as \"[case]\" and the Sanskrit has bhūta-pūrve with no noun (inferred from the threefold list in u2)."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "Closing iti not rendered separately. \"[his]\" supplied: the virtues are taken as the father's. The text says pitrye (\"in the ancestral\") without a noun.",
+  "new": "Closing iti not rendered separately. \"[his]\" supplied: the virtues are taken as the father's. The text says pitrye (\"in the ancestral\") without a noun. Hindi पैतृक लाभ में supplies लाभ (acquisition) from the threefold list in 13.5.2; the Sanskrit has pitrye with no noun.",
+  "why": "reviewer (minor): Same unmarked Hindi supply of लाभ."
+ }
+]
