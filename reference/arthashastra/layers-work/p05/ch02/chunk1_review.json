@@ -1,0 +1,619 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "according to its quality, middling or lower",
+     "problem": "\"its\" is not in the Sanskrit (yathā-sāram has no pronoun); unmarked addition",
+     "fix": "according to quality, middling or lower",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "according to its quality, middling or lower",
+      "new": "according to quality, middling or lower",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसकी गुणवत्ता के अनुसार",
+     "problem": "\"उसकी\" (its) is an unmarked addition; sāra may also be strength/capacity, see notes",
+     "fix": "गुणवत्ता के अनुसार",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसकी गुणवत्ता के अनुसार",
+      "new": "गुणवत्ता के अनुसार",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yathā-sāram",
+     "problem": "\"its\" added in gloss",
+     "fix": "according to quality",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yathā-sāram",
+      "field": "gloss",
+      "value": "according to quality",
+      "n": "2"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Reading of madhyam avaram vā accepted as adverbial (middling or lower) with doubt; sāra may also mean strength or capacity of the country. No firm sense; a person should check against Kangle.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reading of madhyam avaram vā accepted as adverbial (middling or lower) with doubt; sāra may also mean strength or capacity of the country. No firm sense; a person should check against Kangle.",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Review: the draft groups the long compound in five chunks (a hyphenated chunk is one word entry) instead of one entry per member; accepted as readable, flagged for a person. Alternative reading: karma governs every member (work on forts, embankments, trade routes, ..., material forests, elephant forests).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: the draft groups the long compound in five chunks (a hyphenated chunk is one word entry) instead of one entry per member; accepted as readable, flagged for a person. Alternative reading: karma governs every member (work on forts, embankments, trade routes, ..., material forests, elephant forests).",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "",
+     "fix": "Review: udvāpa and tasya both left open; kept literal, no sense built (confidence low is right).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: udvāpa and tasya both left open; kept literal, no sense built (confidence low is right).",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "केवल शाक-कट-भङ्ग",
+     "problem": "\"केवल\" (only) is not in the Sanskrit; anyatra means \"except\", and \"केवल ... को छोड़कर\" changes the sense",
+     "fix": "शाक-कट-भङ्ग",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "केवल शाक-कट-भङ्ग",
+      "new": "शाक-कट-भङ्ग",
+      "n": "10"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Review: the printed -bhyāṃ is the dual ablative (anyatra takes the ablative), so two exceptions are read; the grouping of the first four members as one word in the split is the drafter's judgment (not every member listed separately). The Hindi/English wording of the final purpose phrases leaves open whether they limit only the exceptions.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: the printed -bhyāṃ is the dual ablative (anyatra takes the ablative), so two exceptions are read; the grouping of the first four members as one word in the split is the drafter's judgment (not every member listed separately). The Hindi/English wording of the final purpose phrases leaves open whether they limit only the exceptions.",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शाक की वस्तुओं का",
+     "problem": "paṇyānām closes the whole dvandva (as the English has it: \"wares of ...\"); \"शाक की वस्तुओं\" attaches the wares to śāka alone",
+     "fix": "शाक, इन सबके पण्य का",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शाक की वस्तुओं का",
+      "new": "शाक, इन सबके पण्य का",
+      "n": "14"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Review: kauṣadha accepted as a probable typo for auṣadha (kauśeya + auṣadha), kept as a possible typo; a person should check the printed edition. rauma stays untranslated (woollen product or a salt are only guesses).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: kauṣadha accepted as a probable typo for auṣadha (kauśeya + auṣadha), kept as a possible typo; a person should check the printed edition. rauma stays untranslated (woollen product or a salt are only guesses).",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "praṇaya (request)",
+     "problem": "glossary decision (5.2): praṇaya = request (याचना); English gives the plain word first",
+     "fix": "request (praṇaya)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "praṇaya (request)",
+      "new": "request (praṇaya)",
+      "n": "16"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "praṇayaḥ",
+     "problem": "glossary decision (5.2): praṇaya = request",
+     "fix": "request (praṇaya)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "praṇayaḥ",
+      "field": "gloss",
+      "value": "request (praṇaya)",
+      "n": "16"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "modern Hindi प्रणय means love/affection and misleads; glossary decision (5.2): praṇaya = याचना",
+     "fix": "यह किसानों के विषय में याचना है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "यह किसानों के विषय में याचना है।",
+      "n": "16"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Glossary (5.2): praṇaya = request (याचना); closing \"iti X-eṣu praṇayaḥ\" = \"Such is the request (praṇaya) among X\" / \"यह X के विषय में याचना है\"; iti rendered \"such is\", never a bare \"thus\".",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Glossary (5.2): praṇaya = request (याचना); closing \"iti X-eṣu praṇayaḥ\" = \"Such is the request (praṇaya) among X\" / \"यह X के विषय में याचना है\"; iti rendered \"such is\", never a bare \"thus\".",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pakva",
+     "problem": "pakva and anna are not two dvandva members: \"pakva-anna\" is one compound (cooked food), as the translation has it",
+     "fix": "adj.; first member of karmadhāraya pakva-anna",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pakva",
+      "field": "gram",
+      "value": "adj.; first member of karmadhāraya pakva-anna",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "anna",
+     "problem": "see pakva",
+     "fix": "n.; with pakva = \"cooked food\"",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "anna",
+      "field": "gram",
+      "value": "n.; with pakva = \"cooked food\"",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mṛd",
+     "problem": "mṛd and bhāṇḍa form \"earthen vessels\" as the translation has it, not two separate dvandva members",
+     "fix": "f.; first member of tat-puruṣa mṛd-bhāṇḍa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mṛd",
+      "field": "gram",
+      "value": "f.; first member of tat-puruṣa mṛd-bhāṇḍa",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhāṇḍa",
+     "problem": "see mṛd",
+     "fix": "n.; mṛd-bhāṇḍa = earthen vessels",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhāṇḍa",
+      "field": "gram",
+      "value": "n.; mṛd-bhāṇḍa = earthen vessels",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "absolutive abhinīya precedes and aparigṛhītam is the object of both; the draft word order \"sell [it], having brought forward ...\" reads as if the object were a different unnamed thing",
+     "fix": "For, having brought forward what has not been taken up (aparigṛhīta), they might sell [it].",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "For, having brought forward what has not been taken up (aparigṛhīta), they might sell [it].",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "praṇaya (request)",
+     "problem": "glossary decision (5.2): praṇaya = request (याचना); English gives the plain word first",
+     "fix": "request (praṇaya)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "praṇaya (request)",
+      "new": "request (praṇaya)",
+      "n": "26"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "praṇayaḥ",
+     "problem": "glossary decision (5.2): praṇaya = request",
+     "fix": "request (praṇaya)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "praṇayaḥ",
+      "field": "gloss",
+      "value": "request (praṇaya)",
+      "n": "26"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "modern Hindi प्रणय means love/affection and misleads; glossary decision (5.2): praṇaya = याचना",
+     "fix": "यह व्यवहारियों के विषय में याचना है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "यह व्यवहारियों के विषय में याचना है।",
+      "n": "26"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Glossary (5.2): praṇaya = request (याचना), as in unit 16.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Glossary (5.2): praṇaya = request (याचना), as in unit 16.",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "daśa-bhāgam",
+     "problem": "\"a tenth part\" is a numeral compound (dvigu), not a bahuvrīhi",
+     "fix": "dvigu, m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daśa-bhāgam",
+      "field": "gram",
+      "value": "dvigu, m. acc. sg.",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ṣaṣ-bhāgam",
+     "problem": "\"a sixth part\" is a numeral compound (dvigu), not a bahuvrīhi",
+     "fix": "dvigu, m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ṣaṣ-bhāgam",
+      "field": "gram",
+      "value": "dvigu, m. acc. sg.",
+      "n": "27"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ṣaṣ-bhāgam",
+     "problem": "ṣaṣ becomes ṣaḍ before bh; the printed token is ṣaḍ.bhāgam, so the dictionary form must be ṣaḍ-bhāgam",
+     "fix": "ṣaḍ-bhāgam",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "ṣaṣ-bhāgam",
+      "field": "w",
+      "value": "ṣaḍ-bhāgam",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "praṇaya (request)",
+     "problem": "glossary decision (5.2): praṇaya = request (याचना); English gives the plain word first",
+     "fix": "request (praṇaya)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "praṇaya (request)",
+      "new": "request (praṇaya)",
+      "n": "29"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "praṇayaḥ",
+     "problem": "glossary decision (5.2): praṇaya = request",
+     "fix": "request (praṇaya)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "praṇayaḥ",
+      "field": "gloss",
+      "value": "request (praṇaya)",
+      "n": "29"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "modern Hindi प्रणय means love/affection and misleads; glossary decision (5.2): praṇaya = याचना",
+     "fix": "यह योनि-पोषकों के विषय में याचना है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "यह योनि-पोषकों के विषय में याचना है।",
+      "n": "29"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record decision",
+     "fix": "Glossary (5.2): praṇaya = request (याचना), as in unit 16. yoni-poṣaka stays literal; no sense built.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Glossary (5.2): praṇaya = request (याचना), as in unit 16. yoni-poṣaka stays literal; no sense built.",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "word order \"थोड़ा देने वाले इनकी\" is ungrammatical; the participle agrees with enān (these who give little)",
+     "fix": "और कापटिक इन थोड़ा देने वालों की निन्दा करें।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "और कापटिक इन थोड़ा देने वालों की निन्दा करें।",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "the first vā (\"sārato vā\") is dropped in the Hindi though the English has \"Or ... or ... or\"; three vā in the Sanskrit",
+     "fix": "अथवा सार के अनुसार धनवानों से सोना माँगे, अथवा उपकार के अनुसार, अथवा जो वे अपनी इच्छा से भेंट करें।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा सार के अनुसार धनवानों से सोना माँगे, अथवा उपकार के अनुसार, अथवा जो वे अपनी इच्छा से भेंट करें।",
+      "n": "35"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Patches: 32 issues (1 error, 31 minor). Decisions: praṇaya = request (याचना); kauṣadha kept as a possible typo for auṣadha; madhyam avaram vā adverbial accepted with doubt; udvāpa, pratipāta, rauma, śāka-kaṭa-bhaṅga, vṛtta, sītā-atyaya, yoni-poṣaka, aparigṛhīta stay literal. No regrouping suggested. Cannot be patched (need a person): unit 3 and 10 compound chunks are grouped words, not every member listed; unit 14 flag for kauṣadha stays a possible typo (checked-edition needed); units 2, 8, 10, 12, 13, 25, 29 keep low or medium confidence."
+}
