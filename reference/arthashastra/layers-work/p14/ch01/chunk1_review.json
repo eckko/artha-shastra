@@ -1,0 +1,1032 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "mleccha-jātīyaiḥ",
+     "problem": "mleccha is a name kept as such (glossary 13.5); \"foreign-tribe\" is an unmarked reinterpretation",
+     "fix": "of mleccha kind",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "mleccha-jātīyaiḥ",
+      "field": "gloss",
+      "value": "of mleccha kind"
+     }
+    },
+    {
+     "field": "english",
+     "where": "women and men of foreign-tribe kind",
+     "problem": "same: keep mleccha",
+     "fix": "women and men of mleccha kind",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "women and men of foreign-tribe kind",
+      "new": "women and men of mleccha kind"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विश्वसनीय देश, वेश, शिल्प, भाषा और कुल के बहानों से",
+     "problem": "śraddheya heads the whole compound (credible pretexts of country, dress ...); the Hindi order makes only देश credible",
+     "fix": "देश, वेश, शिल्प, भाषा और कुल के विश्वसनीय बहानों से",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विश्वसनीय देश, वेश, शिल्प, भाषा और कुल के बहानों से",
+      "new": "देश, वेश, शिल्प, भाषा और कुल के विश्वसनीय बहानों से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "playthings, vessels, deposits and articles of use",
+     "problem": "English merges dravya+upabhoga into \"articles of use\" while Hindi makes upabhoga the head noun of the whole list (\"in the enjoyment of ...\"); the two languages disagree on the grouping",
+     "fix": "English: \"in the king's playthings, vessels, deposits, articles and objects of enjoyment\"; Hindi to match",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "in the king's playthings, vessels, deposits and articles of use;",
+      "new": "in the king's playthings, vessels, deposits, articles and objects of enjoyment;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राजा के क्रीड़ा-साधनों, पात्रों, निधियों और द्रव्यों के उपभोग में",
+     "problem": "see above; Hindi aligned to English",
+     "fix": "राजा के क्रीड़ा-साधनों, पात्रों, निधियों, द्रव्यों और उपभोग की वस्तुओं में",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राजा के क्रीड़ा-साधनों, पात्रों, निधियों और द्रव्यों के उपभोग में",
+      "new": "राजा के क्रीड़ा-साधनों, पात्रों, निधियों, द्रव्यों और उपभोग की वस्तुओं में"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rāja-krīḍā-bhāṇḍa-nidhāna-dravya-upabhogeṣu",
+     "problem": "gloss aligned to English",
+     "fix": "in the king's playthings, vessels, deposits, articles and objects of enjoyment",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "rāja-krīḍā-bhāṇḍa-nidhāna-dravya-upabhogeṣu",
+      "field": "gloss",
+      "value": "in the king's playthings, vessels, deposits, articles and objects of enjoyment"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "grouping",
+     "problem": "record the alternative grouping",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "append_note",
+      "text": "Alternative grouping of the first compound: 'in the use of the king's play-vessels, deposits and goods' (upabhoga as head noun); English and Hindi now both take the list reading. text_flag upabbhogeṣu confirmed: typo for upabhogeṣu."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शतकन्द (या कर्दम)",
+     "problem": "round brackets inside the Hindi (the print has an editor's doubt mark kanda(kardama?)); brackets are not allowed in the Hindi",
+     "fix": "शतकन्द अथवा कर्दम (doubt kept in notes)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शतकन्द (या कर्दम)",
+      "new": "शतकन्द अथवा कर्दम"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(centipede?)",
+     "problem": "guessed identification of an obscure creature in notes (glossary 13.2/14.3: no guessed sense)",
+     "fix": "delete",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": "'hundred-footed' (centipede?), andha-ahi",
+      "new": "'hundred-footed', andha-ahi"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'kṛkalāsa' commonly a chameleon-like lizard",
+     "problem": "identification imported from outside the line",
+     "fix": "delete",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": "'kṛkalāsa' commonly a chameleon-like lizard; left as name. ",
+      "new": ""
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "samyuktaṃ",
+     "problem": "the unsandhied m before y (samyuktaṃ, also samyogaḥ in unit 5 and samyuktaś in unit 29) is only mentioned in notes; the brief wants a text_flags entry for each such printed form (low value, e-text spelling convention)",
+     "fix": "add flag entries (needs a human; no patch)",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "avalgu.jara",
+     "problem": "flag is acceptable as \"possible\" only: avalguja is a well-known drug name, which supports avalgu.ja; the draft translation correctly keeps jara as printed",
+     "fix": "keep flag; no change to words",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "subject and object of śoṣayet are not given; the combination as subject \"would cause [one] to dry up\" is only one reading. Equally possible: kīṭa is the object, \"one should dry (it); this combination is held to take life at once\". Medium is too firm",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "śoṣayet",
+     "problem": "record the alternative reading",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "append_note",
+      "text": "Alternative reading of śoṣayet: 'one should dry (the heated insect)', with kīṭaḥ as its object and eṣa saṃyogaḥ as the subject of mataḥ only."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(it may also be the name of a bird or tree)",
+     "problem": "unsupported guess about an obscure name",
+     "fix": "(sense unknown)",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "notes",
+      "old": "(it may also be the name of a bird or tree)",
+      "new": "(sense unknown)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "yāvat carati tāvat mārayati",
+     "problem": "yāvat can be spatial as well as temporal; \"for as long as it moves\" is only one reading (same in units 13 and 33)",
+     "fix": "add alternative",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "yāvat may also be spatial: 'as far as it spreads, so far it kills' (same in units 13 and 33 with paśyati: 'as far as it sees')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "(a name of a red insect)",
+     "problem": "identification imported from outside the line; glossary candidate keeps indra-gopa literal",
+     "fix": "delete",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "notes",
+      "old": " (a name of a red insect); kept literal.",
+      "new": "; kept as a name."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "pūki.kīṭa",
+     "problem": "weak: pūti-kīṭa occurs again in the second powder of the same sentence, which argues against pūki being a slip for pūti; the flag is acceptable only as \"possible\" and the translation correctly keeps pūki as printed. mastya -> matsya confirmed.",
+     "fix": "keep as possible",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kārpāsa.-",
+     "problem": "the stray \".-\" join mark inside the token is explained in notes but not flagged",
+     "fix": "add flag (needs a human)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नीम, सहिजन, फणिर्ज",
+     "problem": "Hindi identifies nimba and śigru (नीम, सहिजन) while English and the glossary rule keep drug names as printed, unidentified",
+     "fix": "निम्ब, शिग्रु, फणिर्ज",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नीम, सहिजन, फणिर्ज",
+      "new": "निम्ब, शिग्रु, फणिर्ज"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "plavaka 'a water-bird?'",
+     "problem": "guessed sense in notes",
+     "fix": "delete the guess",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "notes",
+      "old": "plavaka 'a water-bird?' left as name;",
+      "new": "plavaka left as name;"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bhaṅga could be 'hemp'",
+     "problem": "guessed identification",
+     "fix": "plant name",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "notes",
+      "old": "bhaṅga could be 'hemp' or 'breaking'",
+      "new": "bhaṅga could be a plant name or 'breaking'"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पहले बताई विधि से",
+     "problem": "\"बताई\" (stated) is added; pūrva-kalpena is just \"by the former procedure\"",
+     "fix": "पूर्व विधि से",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पहले बताई विधि से",
+      "new": "पूर्व विधि से"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kṛta-nejana-udaka-akṣi-pratīkāraiḥ",
+     "problem": "the note says \"by those for whom ... has been made\" while English/Hindi say \"by those who have made\"; reading kept at low confidence, which is right",
+     "fix": "add alternative",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "append_note",
+      "text": "Reading check: the bahuvrīhi may also be 'those by whom the eye-remedy of washing with water has been done'; English and Hindi use the active form. Stays low confidence."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आक, अक्षिपीलु और थूहर के दूध",
+     "problem": "Hindi identifies arka and snuhi (आक, थूहर); English keeps the printed names",
+     "fix": "अर्क, अक्षिपीलु और स्नुही के दूध",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आक, अक्षिपीलु और थूहर के दूध",
+      "new": "अर्क, अक्षिपीलु और स्नुही के दूध"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kṛta, kaṇḍala",
+     "problem": "the split into two separate names is itself a guess; the printed kṛta.kaṇḍala is an unexplained word. Keep it undivided",
+     "fix": "The smoke of kṛta-kaṇḍala, kṛkalāsa, ...",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "The smoke of kṛta, kaṇḍala, kṛkalāsa,",
+      "new": "The smoke of kṛta-kaṇḍala, kṛkalāsa,"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कृत, कण्डल",
+     "problem": "same",
+     "fix": "कृत-कण्डल",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कृत, कण्डल, कृकलास",
+      "new": "कृत-कण्डल, कृकलास"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṛta-kaṇḍala-...",
+     "problem": "same",
+     "fix": "smoke of kṛta-kaṇḍala (obscure), kṛkalāsa, house-golika, blind snake",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "kṛta-kaṇḍala-kṛkalāsa-gṛha-golika-andha-ahika-dhūmaḥ",
+      "field": "gloss",
+      "value": "smoke of kṛta-kaṇḍala (obscure), kṛkalāsa, house-golika, blind snake"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "citram",
+     "problem": "\"n. acc. sg.\" gives citram a function it does not have in the sentence (the object of āpādayati is prameham); it is probably a corrupt compound member citra- (see flag) or an unexplained word. The translation \"joined with citra\" is a guess; also eka.antra might be a slip for ekāntara (alternate), not flagged",
+     "fix": "state the uncertainty in gram",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "citram",
+      "field": "gram",
+      "value": "n. acc. sg. as printed; no clear function, perhaps compound member citra-, see text_flags"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "citram / eka.antra",
+     "problem": "citram flag accepted as \"possible\"; eka.antra could also be a slip (ekāntara) and deserves a flag",
+     "fix": "human decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Dūṣī poison",
+     "problem": "glossary 14.4 fixes dūṣī-viṣa = tainting poison (दूषी-विष)",
+     "fix": "Tainting poison (dūṣī-viṣa), powder of madana and kodrava: the apajihvikā compound.",
+     "severity": "error",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "Dūṣī poison, powder",
+      "new": "Tainting poison (dūṣī-viṣa), powder"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दूषी विष",
+     "problem": "should be the glossary term",
+     "fix": "दूषी-विष",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दूषी विष,",
+      "new": "दूषी-विष,"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dūṣī-viṣam",
+     "problem": "same",
+     "fix": "tainting poison (dūṣī-viṣa)",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "dūṣī-viṣam",
+      "field": "gloss",
+      "value": "tainting poison (dūṣī-viṣa)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'slow-acting/vitiated poison' in later usage",
+     "problem": "imports later usage and the apajihvikā \"uvula\" sense is not literal",
+     "fix": "follow the glossary",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "notes",
+      "old": "dūṣī-viṣa (a technical term, 'slow-acting/vitiated poison' in later usage) kept as 'dūṣī poison'; apajihvikā (literally 'uvula, lit. off-tongue') kept as a name.",
+      "new": "dūṣī-viṣa = tainting poison (glossary 14.4); apajihvikā (literally 'off-tongue') kept as a name."
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "करांज",
+     "problem": "Hindi silently changes the printed karāja to karañja (करांज)",
+     "fix": "कराज",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "करांज",
+      "new": "कराज"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "mūka.badhira..karo",
+     "problem": "flag accepted; a better suggestion than a placeholder X is mūka.badhirī.karo, by analogy with andhī.karo in this chunk (cvi formation). māsa-ardha-māsikaḥ: dvandva gives \"and\" as readily as \"or\"; the \"or\" is interpretive",
+     "fix": "human decision on the flag",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "thus the same as the former",
+     "problem": "iti closes the quoted dose \"kalā-mātraṃ puruṣāṇām\", it does not mean \"thus\"; \"इस प्रकार\" is an unmarked addition (glossary 13.1: bare iti closing a quotation is not rendered)",
+     "fix": "“[A dose of] one kalā in measure for men”: the same as the former.",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "set",
+      "field": "english",
+      "value": "“[A dose of] one kalā in measure for men”: the same as the former."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इस प्रकार पहले के समान",
+     "problem": "same",
+     "fix": "“पुरुषों के लिए एक कला भर”: पहले के समान।",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "set",
+      "field": "hindi",
+      "value": "“पुरुषों के लिए एक कला भर”: पहले के समान।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "gloss \"thus\"",
+     "fix": "closes the quoted dose (not rendered)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closes the quoted dose (not rendered)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "का योग (twice)",
+     "problem": "योग renders upanayana (adding) but योग is the fixed term for yoga = compound in this book; the reader would take it as the technical word",
+     "fix": "मिलाना",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "set",
+      "field": "hindi",
+      "value": "औषधियों के लिए भङ्ग और क्वाथ मिलाना, प्राणियों के लिए चूर्ण, अथवा सबके लिए क्वाथ मिलाना; इस प्रकार यह अधिक वीर्यवान् हो जाता है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(hemp)",
+     "problem": "guessed identification",
+     "fix": "plant name",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "notes",
+      "old": "the plant bhaṅga (hemp) as in unit 13",
+      "new": "bhaṅga as a plant name, as in unit 13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Śālmalī boiled ... the arrow",
+     "problem": "grammar: siddhaḥ, saṃyuktaḥ, digdhaḥ are masculine and agree with bāṇaḥ; they cannot agree with the feminine śālmalī. The draft makes śālmalī the thing that is boiled and joined, and then the arrow smeared, which does not parse",
+     "fix": "Śālmalī: the arrow, boiled with vidārī and grain, joined with the root of vatsa-nābha and smeared with a smear of the blood of a musk-rat — whomever it pierces, he, pierced, bites ten other men; they, bitten, bite ten other men.",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "english",
+      "value": "Śālmalī: the arrow, boiled with vidārī and grain, joined with the root of vatsa-nābha and smeared with a smear of the blood of a musk-rat — whomever it pierces, he, pierced, bites ten other men; they, bitten, bite ten other men."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मूल और वत्सनाभ से युक्त",
+     "problem": "Hindi (\"root and vatsa-nābha\") contradicts English (\"root of vatsa-nābha\"); also same agreement problem",
+     "fix": "शाल्मली: विदारी और अन्न के साथ पकाया हुआ, वत्सनाभ की जड़ से युक्त, चुच्छुन्दरी के रक्त के लेप से लिप्त बाण जिसे बेधता है, वह बिंधा हुआ दूसरे दस पुरुषों को काटता है; वे काटे गए दस अन्य पुरुषों को काटते हैं।",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "hindi",
+      "value": "शाल्मली: विदारी और अन्न के साथ पकाया हुआ, वत्सनाभ की जड़ से युक्त, चुच्छुन्दरी के रक्त के लेप से लिप्त बाण जिसे बेधता है, वह बिंधा हुआ दूसरे दस पुरुषों को काटता है; वे काटे गए दस अन्य पुरुषों को काटते हैं।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śālmalī",
+     "problem": "keep the printed word, state that its relation to the arrow is unresolved",
+     "fix": "śālmalī (silk-cotton), printed apart from the next compound",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "śālmalī",
+      "field": "gloss",
+      "value": "śālmalī (silk-cotton), printed apart from the next compound; relation to the arrow unresolved"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "grammar",
+     "problem": "replace the draft grammar remark",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "append_note",
+      "text": "Review: śālmalī stands apart before the compound; it is left as an unresolved opening word. Either it is a member of the compound (a dropped dot: boiled with śālmalī, vidārī and grain) or it names the arrow's wood. The masculine participles siddhaḥ, saṃyuktaḥ, digdhaḥ agree with bāṇaḥ, so the earlier reading of śālmalī as the thing boiled is rejected. mūla-vatsa-nābha is rendered 'root of vatsa-nābha' in both languages; alternative: 'root and vatsa-nābha'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "yātudhāna, dhānāva",
+     "problem": "the printed word is yātu.dhānāva; the draft lists both \"yātudhāna\" and \"dhānāva\", counting dhāna twice and inventing a form not printed",
+     "fix": "bhallātaka, yātu-dhānāva, anudhā, mārgava and bāṇa",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "bhallātaka, yātudhāna, dhānāva, anudhā, mārgava and bāṇa",
+      "new": "bhallātaka, yātu-dhānāva, anudhā, mārgava and bāṇa"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यातुधान, धानाव",
+     "problem": "same",
+     "fix": "यातु-धानाव",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भल्लातक, यातुधान, धानाव, अनुधा",
+      "new": "भल्लातक, यातु-धानाव, अनुधा"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhallātaka-yātu-dhānāva-...",
+     "problem": "same",
+     "fix": "of bhallātaka, yātu-dhānāva, anudhā, mārgava, bāṇa",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "bhallātaka-yātu-dhānāva-anudhā-mārgava-bāṇānām",
+      "field": "gloss",
+      "value": "of bhallātaka, yātu-dhānāva, anudhā, mārgava, bāṇa"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kaṣāyam",
+     "problem": "-aṃ nominative agreeing with neuter yuktam must be neuter",
+     "fix": "n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "kaṣāyam",
+      "field": "gram",
+      "value": "n. nom. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "basta-nara-śoṇita-yuktam",
+     "problem": "yuktam is neuter, not masculine",
+     "fix": "dvandva+tat-puruṣa, n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "basta-nara-śoṇita-yuktam",
+      "field": "gram",
+      "value": "dvandva+tat-puruṣa, n. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आधे धरणिक का योग",
+     "problem": "ardha-dharaṇika is \"of half a dharaṇa\"; \"धरणिक\" is not a unit name",
+     "fix": "आधे धरण का योग",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आधे धरणिक का योग",
+      "new": "आधे धरण का योग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[likewise]",
+     "problem": "the Sanskrit relative clause has no predicate; glossary 13.2 allows only a bare copula, never an interpretive supply, and 14.3 forbids an added भी in Hindi",
+     "fix": "and whoever drinks or touches this water —",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "and whoever drinks or touches this water [likewise].",
+      "new": "and whoever drinks or touches this water —"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वह भी",
+     "problem": "same",
+     "fix": "और जो इस जल को पीता या छूता है —",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और जो इस जल को पीता या छूता है, वह भी।",
+      "new": "और जो इस जल को पीता या छूता है —"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "supplied",
+     "problem": "update note and correct the reference of etena",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "notes",
+      "old": "'[likewise]' is supplied in English and 'वह भी' in Hindi. 'etena' is taken as the polluted water/fish;",
+      "new": "nothing is supplied in English or Hindi; probably viṣī-bhavati ('becomes poisonous') carries over to the relative clause. 'etena' (by this) refers back to the compound of unit 31 or to the water;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "godhā (iguana)",
+     "problem": "godhā is the Indian monitor lizard; iguana is not a Indian animal and the Hindi गोह already says monitor lizard",
+     "fix": "A godhā (monitor lizard)",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "A godhā (iguana)",
+      "new": "A godhā (monitor lizard)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "godhā",
+     "problem": "same",
+     "fix": "monitor lizard",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "godhā",
+      "field": "gloss",
+      "value": "monitor lizard"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "yāvat paśyati",
+     "problem": "see unit 9: spatial reading possible",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "append_note",
+      "text": "yāvat may be spatial: 'as far as it sees'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कलवार",
+     "problem": "कलवार is a caste name; śauṇḍika is \"distiller\" as in the English",
+     "fix": "शराब बनाने वाले से अग्नि को सुरा से",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कलवार से अग्नि को सुरा से",
+      "new": "शराब बनाने वाले से अग्नि को सुरा से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one-wife woman",
+     "problem": "\"a one-wife woman\" suggests a woman with one wife; eka-patnī is obscure (one husband, or sole wife). Do not invent a sense: keep the word and give the literal \"one wife\"",
+     "fix": "Fire of an eka-patnī (literally 'one wife') with a garland",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "[Fire] of a one-wife woman with a garland",
+      "new": "Fire of an eka-patnī (literally 'one wife') with a garland"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "eka-patnī-agnim",
+     "problem": "same",
+     "fix": "fire of an eka-patnī (literally 'one wife')",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "eka-patnī-agnim",
+      "field": "gloss",
+      "value": "fire of an eka-patnī (literally 'one wife')"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "rendered one-wife woman",
+     "problem": "update",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "notes",
+      "old": "rendered 'one-wife woman', low-medium. The English bracket '[Fire]' supplies the first noun from the compound agni.",
+      "new": "kept as eka-patnī, low confidence."
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "niṣpratikāro",
+     "problem": "printed with short i (pratikāra) whereas unit 34 has pratīkāra and the glossary pratīkāra; probably a typo, not flagged",
+     "fix": "add flag (needs a human)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "40 units reviewed. Issue counts: error 3, minor 59, 55 machine patches. Errors: unit 22 (dūṣī-viṣa must follow glossary 14.4 tainting poison), unit 29 (masculine participles cannot agree with feminine śālmalī; Hindi/English also disagree on mūla-vatsa-nābha). Main minor classes: unmarked additions (unit 26 'thus', unit 32 '[likewise]'/'वह भी', unit 27 योग for upanayana), identification of obscure names (units 4, 7, 10, 13, 15, 27 notes and Hindi), invented split (units 19, 30), eka-patnī (unit 36), Hindi brackets (unit 4), mleccha (unit 2), grouping (unit 3). Flags: confirmed as typos: upabbhogeṣu, diṇga, mastya, madna, 'it', bhavti, ballātaka, nispratīkāro, namāste; accepted only as 'possible': pūki.kīṭa (weak, pūti-kīṭa recurs in the same sentence), avalgu.jara (avalguja is a real drug name), citram, kanda(kardama?) (editor's doubt mark, not a typo), mūka.badhira..karo (better suggestion mūka.badhirī.karo). Not flagged by the drafter but should be: samyuktaṃ/samyogaḥ (units 4, 5, 29), kārpāsa.- (11), niṣpratikāro (38), eka.antra (21). No regrouping of any unit. dhanus settled as 'dhanus' (glossary appended). Confidence: unit 5 lowered to low; others honest. No patch touches a token or src."
+}
