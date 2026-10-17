@@ -1,0 +1,209 @@
+[
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "pañca-dhanuḥ-śata-apakṛṣṭam",
+  "old": "removed five hundred bows away",
+  "new": "drawn back five hundred bows",
+  "why": "reviewer (minor): 'removed five hundred bows away' is not English; apakṛṣṭa = drawn back, withdrawn (by that distance)."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "The commander-in-chief and the leader should array the army, with its chiefs assigned to separate units, after moving it out in a place out of sight (of the enemy).",
+  "new": "The commander of the army and the leader should array the army, with its chiefs assigned to separate units, after moving it out in a place out of sight (of the enemy).",
+  "why": "reviewer (minor): Glossary (10.2): senā-pati = the commander of the army; nāyaka = the leader. Keep the fixed rendering."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "senā-pati-nāyakau",
+  "old": "commander-in-chief and leader",
+  "new": "the commander of the army and the leader",
+  "why": "reviewer (minor): Same glossary rendering in the gloss."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "सेनापति और नायक, जिसके मुख्य अधिकारी अलग-अलग नियुक्त हों ऐसी सेना को शत्रु की दृष्टि से ओझल स्थान में निकालकर, उसे व्यूह में खड़ा करें।",
+  "new": "सेनापति और नायक, जिसके मुख्य अधिकारी अलग-अलग नियुक्त हों ऐसी सेना को दृष्टि से ओझल स्थान में निकालकर, उसे व्यूह में खड़ा करें।",
+  "why": "reviewer (minor): 'शत्रु की' is not in acakṣur-viṣaye; the English brackets '(of the enemy)' and the note already says the enemy is implied."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "इस प्रकार सुखपूर्वक, बिना भीड़-भाड़ के युद्ध कर सकेगी।",
+  "new": "इस प्रकार सुखपूर्वक, बिना भीड़-भाड़ के युद्ध करे।",
+  "why": "reviewer (minor): yudhyeta is a plain optative 'one would/should fight'; 'कर सकेगी' adds ability and a future tense, and the feminine subject (the army) is not in the Sanskrit. The English has 'one would fight'."
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "tri-dhanuṣi",
+  "old": "n. loc. sg., tat-puruṣa",
+  "new": "n. loc. sg., dvigu",
+  "why": "reviewer (minor): A numeral-first compound (tri + dhanus, 'a space of three bows') is a dvigu, not a plain tat-puruṣa (same convention as the p10 ch01 review)."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "pakṣa-kakṣa-urasyānām",
+  "old": "gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva",
+  "why": "reviewer (minor): Gender missing; a dvandva takes the gender of its last member, and urasya is neuter in this chapter (urasyam, 10.5.12, 32)."
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "ojāḥ",
+  "old": "m. nom. pl.",
+  "new": "f. nom. pl.",
+  "why": "reviewer (minor): ojāḥ agrees with prakṛtayaḥ (f.), so it is f. nom. pl., not m."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इस प्रकार सम-व्यूह की दस ओज अर्थात् विषम संख्या वाली प्रकृतियाँ होती हैं।",
+  "new": "इस प्रकार सम-व्यूह की विषम संख्या वाली दस प्रकृतियाँ होती हैं।",
+  "why": "reviewer (minor): 'ओज अर्थात् ...' puts an explanatory gloss inside the Hindi (the glossary rule puts explanations in notes, where this one already is). Translate ojāḥ once, as the English does ('odd-numbered')."
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "pakṣa-kakṣa-urasyānām",
+  "old": "gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva",
+  "why": "reviewer (minor): Gender missing (see unit 8)."
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "ojāḥ",
+  "old": "m. nom. pl.",
+  "new": "f. nom. pl.",
+  "why": "reviewer (minor): Agrees with prakṛtayaḥ (f.); see unit 16."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "इस प्रकार विषम-व्यूह की दस ओज अर्थात् विषम संख्या वाली प्रकृतियाँ होती हैं।",
+  "new": "इस प्रकार विषम-व्यूह की विषम संख्या वाली दस प्रकृतियाँ होती हैं।",
+  "why": "reviewer (minor): Explanatory 'अर्थात्' gloss inside the Hindi; see unit 16."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "Sense disputed: taken as 'the āvāpa is to be made with a third less (in the centre than in the limbs)'. Confidence medium on the exact arithmetic.",
+  "new": "tri-bhāga-ūna 'short by a third': most simply, the āvāpa placed in the limbs is the whole less the third stationed in the centre (10.5.21). The exact arithmetic is not certain.",
+  "why": "reviewer (minor): The note's arithmetic does not match 10.5.21: with two thirds in the limbs and one third in the centre, the centre is half of the limbs, not 'a third less'. The simplest reading of tri-bhāga-ūna is that the āvāpa placed (in the limbs) is the total short by the third kept for the centre. The translation itself is literal and fine; medium confidence is honest."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "The e-text's dot after yāvad joins it to the compound; yāvat is the correlative of tāvat and is split off here.",
+  "new": "The e-text's dot after yāvad joins it to the compound; yāvat is the correlative of tāvat and is split off here. The typo could equally be sambādhanam (n. acc. sg. of sambādhana 'crowding') with a dropped a; the sense is the same either way.",
+  "why": "reviewer (minor): The flag is right that sambādhanm is no form, but the typed 'nm' is at least as easily a dropped a in sambādhanam (n., 'crowding', also a real word) as a mistyped anusvāra. Both give the same sense and the same translation; record the alternative in the note so the flag is not treated as certain."
+ },
+ {
+  "n": "29",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): The construction of the four ablatives (para-āvāpāt pratyāvāpāt ca as standard of comparison for catur-guṇāt ... ā aṣṭa-guṇāt) is the draft's own reading and the note says so; 'should be' is also supplied. Honest confidence is medium."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "किन्तु केवल हाथियों का शुद्ध व्यूह: उरस्य कवचधारी युद्ध-हाथियों का, पिछला भाग सवारी के हाथियों का, दोनों सिरे दुष्ट हाथियों के।",
+  "new": "किन्तु केवल हाथियों का शुद्ध व्यूह: उरस्य कवचधारी हाथियों का, पिछला भाग सवारी के हाथियों का, दोनों सिरे दुष्ट हाथियों के।",
+  "why": "reviewer (minor): 'युद्ध-' is not in sāmnāhyānām (armoured ones); the English has only 'armoured elephants'."
+ },
+ {
+  "n": "39",
+  "field": "notes",
+  "old": "dvi-aṅga 'two-limbed': arrays combining two of the four arms, as in 10.5.31-38 taken pairwise; literal rendering kept.",
+  "new": "dvi-aṅga 'two-armed': what the two arms refer to is unclear, since 10.5.31-33 describe arrays of three arms, 34-37 of one arm each and 38 of all four; literal rendering kept, cf. tri-aṅga in 10.5.40.",
+  "why": "reviewer (minor): 'taken pairwise' is invented: 31-33 are arrays of three arms, 34-37 of one arm each, 38 of all four; nothing in the text pairs them. The note should say the reference of dvi-aṅga is unclear rather than supply one. The literal translation and medium confidence are right. A person should check Kangle's note on 10.5.39-40."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "हाथियों और घोड़ों की विशेषता: कुल, जाति, सत्त्व, पूर्ण आयु में होना, प्राण-शक्ति, डील-डौल, वेग, तेज, प्रशिक्षण, स्थिरता, ऊँचा कद, आज्ञाकारिता, और शुभ लक्षण तथा अच्छा आचरण — ये हैं।",
+  "new": "हाथियों और घोड़ों की विशेषता ये हैं: कुल, जाति, सत्त्व, पूर्ण आयु में होना, प्राण-शक्ति, डील-डौल, वेग, तेज, प्रशिक्षण, स्थिरता, ऊँचा कद, आज्ञाकारिता, और शुभ लक्षण तथा अच्छा आचरण।",
+  "why": "reviewer (minor): The dangling '— ये हैं' after a thirteen-item list is not readable Hindi; put the copula before the list (same thirteen items, same order)."
+ },
+ {
+  "n": "45",
+  "field": "notes",
+  "old": "abhihūlika is a rare word (from √hūl 'to strike, attack'); rendered 'making an assault'. The subject is the array (vyūha) understood. Reading and sense doubtful.",
+  "new": "abhihūlika is a rare word (from √hūl 'to strike, attack'); rendered 'making an assault'. The subject is the array (vyūha) understood. Reading and sense doubtful. The parallel result-clause in 10.5.47 (sahiṣṇu, 'able to endure') leaves open whether vega here is the array's own charge or the enemy's shock that it meets; the e-text's reading needs checking against the printed edition.",
+  "why": "reviewer (minor): abhihūlika is not a dictionary word and the draft rightly gives low confidence; but the note should also record that the parallel 10.5.47 (evam etat sahiṣṇu bhavati, the result of the opposite placement) suggests the result here may be the array's capacity to deliver or to meet a charge (vega), so 'making a swift assault' is one guess among two. Needs a person with Kangle's text and note."
+ },
+ {
+  "n": "48",
+  "field": "word.gram",
+  "word": "pakṣa-kakṣa-urasyānām",
+  "old": "gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva",
+  "why": "reviewer (minor): Gender missing (see unit 8)."
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "tat-prabhūta-sāreṇa",
+  "old": "n. inst. sg., tat-puruṣa",
+  "new": "m. inst. sg., tat-puruṣa",
+  "why": "reviewer (minor): sāra is masculine (sāraḥ); the compound ending in it is m. inst. sg."
+ },
+ {
+  "n": "50",
+  "field": "word.gram",
+  "word": "tad-dvi-guṇa-sāreṇa",
+  "old": "n. inst. sg., tat-puruṣa",
+  "new": "m. inst. sg., tat-puruṣa",
+  "why": "reviewer (minor): sāra is masculine; see unit 49."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "Charging forward, riding around, riding past, withdrawing, crushing and holding, the ring, the zigzag (go-mūtrikā), the circle, the scattered attack (prakīrṇikā), turning the back, following in column, (attack) from the front, from the two sides and from behind, protection of the broken troops, pursuit of the broken troops: these are the modes of cavalry fighting.",
+  "new": "Charging forward, riding around, riding past, withdrawing, crushing and holding, the ring, the zigzag (go-mūtrikā), the circle, the scattered attack (prakīrṇikā), turning the back, following in column, protection of the broken troops from the front, from the two sides and from behind, pursuit of the broken troops: these are the modes of cavalry fighting.",
+  "why": "reviewer (error): The draft makes agrataḥ pārśvābhyām pṛṣṭhataḥ a separate manoeuvre by supplying 'attack', which the text does not name, so the list gets one invented item. The three adverbs stand directly before bhagna-rakṣā and are best taken with it: protection of the broken troops from the front, the sides and the rear (every other item in the list is a noun, not a bare adverb). The Hindi even writes 'आक्रमण' without brackets."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "आगे धावा करना, चारों ओर घूमना, आगे निकल जाना, पीछे हटना, मथकर दबाना, वलय, गोमूत्रिका, मण्डल, प्रकीर्णिका, पीठ फेरना, पंक्ति में पीछे-पीछे चलना, आगे से, दोनों पार्श्वों से और पीछे से आक्रमण, टूटी हुई सेना की रक्षा, टूटी हुई सेना का पीछा — ये अश्व-युद्ध हैं।",
+  "new": "आगे धावा करना, चारों ओर घूमना, आगे निकल जाना, पीछे हटना, मथकर दबाना, वलय, गोमूत्रिका, मण्डल, प्रकीर्णिका, पीठ फेरना, पंक्ति में पीछे-पीछे चलना, आगे से, दोनों पार्श्वों से और पीछे से टूटी हुई सेना की रक्षा, टूटी हुई सेना का पीछा — ये अश्व-युद्ध हैं।",
+  "why": "reviewer (error): Same as the English: 'आक्रमण' is an added item."
+ },
+ {
+  "n": "53",
+  "field": "notes",
+  "old": "Names of manoeuvres rendered literally: valaya 'bracelet/ring', go-mūtrikā 'cow's-urine line' (a zigzag), prakīrṇikā 'the scattered one', vyāvṛtta-pṛṣṭha 'with back turned' (wheeling about), anuvaṃśa 'along the line'. agrataḥ, pārśvābhyām, pṛṣṭhataḥ are directions of attack; unmathya-avadhāna 'having crushed, holding down' is uncertain.",
+  "new": "Names of manoeuvres rendered literally: valaya 'bracelet/ring', go-mūtrikā 'cow's-urine line' (a zigzag), prakīrṇikā 'the scattered one', vyāvṛtta-pṛṣṭha 'with back turned' (wheeling about), anuvaṃśa 'along the line'. agrataḥ, pārśvābhyām, pṛṣṭhataḥ are taken with bhagna-rakṣā (protecting the broken troops from the front, the sides and the rear); reading them as a separate manoeuvre would require supplying 'attack', which the text does not name; unmathya-avadhāna 'having crushed, holding down' is uncertain.",
+  "why": "reviewer (minor): The note must match the corrected reading and admit the alternative."
+ },
+ {
+  "n": "54",
+  "field": "word.gram",
+  "word": "pakṣa-kakṣa-urasyānām",
+  "old": "gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva",
+  "why": "reviewer (minor): Gender missing (see unit 8)."
+ },
+ {
+  "n": "57",
+  "field": "hindi",
+  "old": "इस विधि से वह ओज और युग्म व्यूह बनवाए, जब तक चारों अंगों के साधन उसके अनुरूप हों।",
+  "new": "इस विधि से वह विषम और सम संख्या वाले व्यूह बनवाए, जब तक चारों अंगों के साधन उसके अनुरूप हों।",
+  "why": "reviewer (minor): ojān / yugmān are translated in the English ('odd and even') and in units 16/19 Hindi ('विषम संख्या वाली'); leaving the Sanskrit words untranslated here is inconsistent and 'ओज' is not Hindi for 'odd'."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "दो सौ धनुष पीछे जाकर राजा प्रतिग्रह में रहे; क्योंकि उसी से टूटी हुई सेना फिर जुटती है, इसलिए बिना प्रतिग्रह के युद्ध न करे।",
+  "new": "दो सौ धनुष की दूरी पर जाकर राजा प्रतिग्रह में रहे; क्योंकि उसी से टूटी हुई सेना फिर जुटती है, इसलिए बिना प्रतिग्रह के युद्ध न करे।",
+  "why": "reviewer (minor): 'पीछे' is interpretation (the English brackets '(to the rear)'); the Sanskrit has only 'having gone two hundred bows'."
+ }
+]

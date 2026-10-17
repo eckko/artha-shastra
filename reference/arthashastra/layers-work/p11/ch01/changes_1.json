@@ -1,0 +1,284 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "उनमें से अनुकूल संघों का साम और दान से उपयोग करे, प्रतिकूल संघों का भेद और दण्ड से।",
+  "new": "उन अनुकूल संघों का साम और दान से उपयोग करे, प्रतिकूल संघों का भेद और दण्ड से।",
+  "why": "reviewer (minor): tān anuguṇān = 'those (saṅghas) that are favourable'; 'उनमें से' (out of them) is a small shift and an addition."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "सब संघों के पास नियुक्त सत्त्री नामक गुप्तचर उनके आपसी अपमान, द्वेष, वैर और कलह के अवसरों को जानकर क्रम से बढ़ाया हुआ भेद चलाएँ — 'वह तुम्हारी निन्दा करता है' इस प्रकार।",
+  "new": "सब संघों के पास नियुक्त गुप्तचर उनके आपसी अपमान, द्वेष, वैर और कलह के अवसरों को जानकर क्रमशः लाया हुआ भेद चलाएँ — 'वह तुम्हारी निन्दा करता है' इस प्रकार।",
+  "why": "reviewer (minor): Glossary (12.3): sattrin = गुप्तचर. 'सत्त्री नामक' is an inline gloss, which the Hindi rule forbids; 'क्रम से बढ़ाया हुआ' for krama-abhinīta (brought about step by step) says 'increased'."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Thus, when anger has been fixed on both sides, agents in the guise of teachers should stir up quarrels among the young in matters of learning, crafts, gaming and amusements.",
+  "new": "Thus agents in the guise of teachers should stir up quarrels, in matters of learning, crafts, gaming and amusements, among the young of those whose anger has been roused on both sides.",
+  "why": "reviewer (minor): ubhayato-baddha-roṣāṇām is a genitive plural construed with bāla-kalahān: quarrels among the young OF those whose anger has been roused on both sides. The draft turns the genitive into a free temporal clause and loses the link."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "इस प्रकार दोनों ओर रोष बँध जाने पर आचार्य के वेश वाले गुप्तचर विद्या, शिल्प, द्यूत और विहार के विषयों में बालकों के कलह उत्पन्न करें।",
+  "new": "इस प्रकार जिनका रोष दोनों ओर बँध गया हो उनके बालकों में आचार्य के वेश वाले गुप्तचर विद्या, शिल्प, द्यूत और विहार के विषयों में कलह उत्पन्न करें।",
+  "why": "reviewer (minor): Same: the genitive relation (young of those parties) is dropped."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "अथवा वेश्यालयों और मदिरालयों में तीक्ष्ण नामक गुप्तचर प्रतिपक्ष की प्रशंसा करके संघ-मुख्यों के मनुष्यों में कलह उत्पन्न करें, अथवा कृत्य पक्ष को अपने वश में करके।",
+  "new": "अथवा वेश्यालयों और मदिरालयों में तीक्ष्ण प्रतिपक्ष की प्रशंसा करके संघ-मुख्यों के मनुष्यों में कलह उत्पन्न करें, अथवा कृत्य पक्ष को अपने वश में करके।",
+  "why": "reviewer (minor): Glossary: tīkṣṇa = तीक्ष्ण; 'नामक गुप्तचर' is an inline gloss (units 14, 36, 43 correctly use तीक्ष्ण alone)."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "They should incite the young men who get an inferior share by means of the superior share of others.",
+  "new": "They should incite the young men who get an inferior share by means of the superior share.",
+  "why": "reviewer (minor): 'of others' is an unmarked addition; the Sanskrit has only viśiṣṭa-chindikayā 'by the superior share'. The Hindi is faithful."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "hīnebhyaḥ",
+  "old": "m. dat. pl.",
+  "new": "m. abl. pl.",
+  "why": "reviewer (minor): With vārayati (keep X away from Y) the person is ablative, not dative: 'should keep (common eating or marriage with the superior) away from the inferior'. Same form, wrong label."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "hīnebhyaḥ",
+  "old": "for the inferior",
+  "new": "from the inferior",
+  "why": "reviewer (minor): See gram issue."
+ },
+ {
+  "n": "13",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): The note itself admits two readings of niśāmayeyuḥ. ni-√śam in the causative is primarily 'cause to perceive, make known' (niśāmayati = observes/perceives); 'quell' is the less common sense. 'They should make a settled dispute (vyavahāra) known again by setting up the contrary (decision)' is at least as likely. Confidence cannot be high."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "niśāmayeyuḥ taken from ni-√śam (caus.) 'quell'; some may read it as 'make them notice' (√śam/√dṛś sense), but 'quash' fits pratiloma-sthāpana.",
+  "new": "niśāmayeyuḥ: taken from ni-√śam caus. in the sense 'quell, bring to an end'. The commoner sense of niśāmayati is 'make perceived / make known', giving 'make a settled dispute (vyavahāra, lawsuit or transaction) an issue again by setting up the contrary (decision)'. Both fit pratiloma-sthāpana; the translation follows the first.",
+  "why": "reviewer (minor): Record the alternative fairly instead of dismissing it."
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "kārtāntika-ādiḥ",
+  "old": "the astrologer and others",
+  "new": "the soothsayer and others",
+  "why": "reviewer (minor): kārtāntika (from kṛtānta, fate) is the soothsayer / fortune-teller; the glossary already fixes mauhūrtika = astrologer (10.1), so a different English word keeps the two apart. Added to GLOSSARY.md: kārtāntika = soothsayer (कार्तान्तिक)."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "And his group, the astrologer and others, should proclaim in the saṅghas his possession of the marks of a king.",
+  "new": "And his group, the soothsayer and others, should proclaim in the saṅghas his possession of the marks of a king.",
+  "why": "reviewer (minor): See gloss issue."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "kārtāntika: astrologer / reader of fate.",
+  "new": "kārtāntika: soothsayer, reader of fate (kṛtānta); distinct from mauhūrtika, the astrologer of 10.1.",
+  "why": "reviewer (minor): Align with the glossary."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "उनके स्वीकार कर लेने पर कृत्य पक्ष को वश में करने के लिए धन और सेना भेजे।",
+  "new": "उनके स्वीकार कर लेने पर कृत्य पक्ष को वश में करने के लिए धन और दण्ड भेजे।",
+  "why": "reviewer (minor): Glossary: daṇḍa = army (दण्ड); units 15, 32, 53 of this chunk use दण्ड. Keep the fixed word."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "When they have agreed, he should send money and troops for the purpose of winning over the seducible party.",
+  "new": "When they have agreed, he should send money and an army for the purpose of winning over the seducible party.",
+  "why": "reviewer (minor): Glossary: daṇḍa = army."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "daṇḍam",
+  "old": "troops",
+  "new": "an army",
+  "why": "reviewer (minor): Glossary: daṇḍa = army."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "और चैत्य, देवालय, द्वार और रक्षा-स्थानों में सत्त्री समय-कर्म की धरोहर, सोने सहित पहचान-चिह्न और मुद्राएँ तथा सोने के पात्र दिखाएँ।",
+  "new": "और चैत्य, देवालय, द्वार और रक्षा-स्थानों में गुप्तचर समय-कर्म की धरोहर, सोने सहित पहचान-चिह्न और मुद्राएँ तथा सोने के पात्र दिखाएँ।",
+  "why": "reviewer (minor): Glossary: sattrin = गुप्तचर."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "And when these are seen, they should announce in the saṅghas: 'These are the king's men.'",
+  "new": "And when the saṅghas are seen (there), they should report: 'They are the king's men.'",
+  "why": "reviewer (error): dṛśyamāneṣu and saṅgheṣu are adjacent, both loc. pl., joined as one phrase by the ca in second position: 'when the saṅghas (their members) are seen (at those places)'. The plural rājakīyāḥ then refers to the saṅgha members seen there, which is the point of planting the deposits: to make the chiefs look like men in the king's pay. The draft's reading (loc. abs. with the neuter objects of unit 25, then 'in the saṅghas') breaks the agreement and leaves 'these' without a referent."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "और उन वस्तुओं के देखे जाने पर संघों में 'ये राजा के लोग हैं' ऐसा सूचित करें।",
+  "new": "और संघों के देखे जाने पर 'ये राजा के लोग हैं' ऐसा सूचित करें।",
+  "why": "reviewer (error): Same misconstruction; 'उन वस्तुओं' is also an unmarked addition."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "dṛśyamāneṣu",
+  "old": "when these are being seen",
+  "new": "when (they) are being seen",
+  "why": "reviewer (minor): Agrees with saṅgheṣu (m.), not with the objects of unit 25."
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "dṛśyamāneṣu",
+  "old": "n. loc. pl. (loc. abs.), pres. pass. part. √dṛś",
+  "new": "m. loc. pl. (loc. abs. with saṅgheṣu), pres. pass. part. √dṛś",
+  "why": "reviewer (minor): Masculine, agreeing with saṅgheṣu."
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "dṛśyamāneṣu taken with the planted objects of unit 25; alternatively 'among the saṅghas that are seen (observed)'. rājakīyāḥ: 'in the king's pay'.",
+  "new": "dṛśyamāneṣu saṅgheṣu taken together (both loc. pl.): when members of the saṅghas are seen at the places where the deposits, tokens and gold vessels of unit 25 were planted, the agents report them as men in the king's pay. Alternative (less likely, breaks the agreement): dṛśyamāneṣu with the planted objects, 'when these are seen'. rājakīyāḥ: 'in the king's pay'.",
+  "why": "reviewer (minor): Record the chosen construction and the alternative."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "इससे सेना के शिविर और अटवी के लोगों में भेद डालना समझा दिया गया।",
+  "new": "इससे सेना-शिविर और आटविकों में भेद डालना समझा दिया गया।",
+  "why": "reviewer (minor): Glossary (12.1): aṭavī as a force = forest tribes (आटविक); skandhāvāra = सेना-शिविर."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "अथवा सत्त्री अपने को बड़ा समझने वाले किसी संघ-मुख्य के पुत्र को यह विश्वास दिलाए — 'तुम उस राजा के पुत्र हो, शत्रु के भय से यहाँ रखे गए हो'।",
+  "new": "अथवा गुप्तचर अपने को बड़ा समझने वाले किसी संघ-मुख्य के पुत्र को यह विश्वास दिलाए — 'तुम उस राजा के पुत्र हो, शत्रु के भय से यहाँ रखे गए हो'।",
+  "why": "reviewer (minor): Glossary: sattrin = गुप्तचर."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "Having created confidence in one of those in whom desire has arisen, they should stir up quarrels by the woman's going elsewhere or by forcible abduction.",
+  "new": "Having created confidence in one of those in whom desire has arisen, they should stir up quarrels by (her) going elsewhere or by forcible abduction.",
+  "why": "reviewer (minor): 'the woman's' is an unmarked addition in the text (only confessed in the note). Mark it or drop it."
+ },
+ {
+  "n": "35",
+  "field": "notes",
+  "old": "'the woman's' is supplied in English for clarity; the Sanskrit has only 'going elsewhere'.",
+  "new": "'(her)' is supplied: the Sanskrit has only 'going elsewhere' (the woman leaving the man she has encouraged).",
+  "why": "reviewer (minor): Match the marked form."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "Or, when carried off by force, she should have the abductor killed by an assassin at night at the edge of a forest or in a pleasure-house, or kill him herself with poison.",
+  "new": "Or, when carried off by force, she should have the abductor killed by an assassin at night at the edge of a forest or in a pleasure-house, or (do so) herself with poison.",
+  "why": "reviewer (minor): 'kill him' is supplied for the elliptical 'svayaṃ vā rasena'; the Hindi ('अथवा स्वयं विष से') keeps the ellipsis. Mark the supplement."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "उसके चले जाने पर सत्त्री यह आरोप लगाएँ कि यह शत्रु का प्रयोग था।",
+  "new": "उसके चले जाने पर गुप्तचर यह आरोप लगाएँ कि यह शत्रु का प्रयोग था।",
+  "why": "reviewer (minor): Glossary: sattrin = गुप्तचर."
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "Rich widows with a secret livelihood, or women agents, disputing over an inheritance or a deposit, should infatuate the chiefs of the saṅghas; or women of the Aditi and Kauśika performers, or dancing-girls and singers.",
+  "new": "Women agents, rich widows with a secret livelihood, disputing over an inheritance or a deposit, should infatuate the chiefs of the saṅghas; or women of the Aditi-Kausika (class), or dancing-girls and singers.",
+  "why": "reviewer (error): The three nominatives āḍhya-vidhavāḥ gūḍha-ājīvāḥ yoga-striyaḥ are in apposition: women agents (yoga-striyaḥ, glossary 12.1 yoga-puruṣa = secret agent) posing as rich widows whose means of livelihood are concealed. The vā after yoga-striyaḥ pairs with the final vā of the sentence (aditi-kauśika women / dancers and singers), not with the widows. The draft makes the widows a separate class of real widows."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "गुप्त आजीविका वाली धनी विधवाएँ अथवा योग-स्त्रियाँ दाय या धरोहर के लिए विवाद करती हुई संघ-मुख्यों को उन्मत्त कर दें, अथवा अदिति और कौशिक वर्ग की स्त्रियाँ या नर्तकियाँ और गायिकाएँ।",
+  "new": "योग-स्त्रियाँ, गुप्त आजीविका वाली धनी विधवाएँ, दाय या धरोहर के लिए विवाद करती हुई संघ-मुख्यों को उन्मत्त कर दें, अथवा अदिति-कौशिक स्त्रियाँ या नर्तकियाँ और गायिकाएँ।",
+  "why": "reviewer (error): Same construction; 'वर्ग' is an addition."
+ },
+ {
+  "n": "42",
+  "field": "word.gloss",
+  "word": "aditi-kauśika-striyaḥ",
+  "old": "women of the Aditi and Kauśika performers",
+  "new": "women of the Aditi-Kausika (class)",
+  "why": "reviewer (minor): 'performers' is invented; nothing in the line says what the Aditi-Kauśika are (the note admits it). Names in English without diacritics."
+ },
+ {
+  "n": "42",
+  "field": "notes",
+  "old": "aditi-kauśika: a class of show-people (puppeteers/jugglers?) named after Aditi and Kauśika; exact sense uncertain, gloss kept literal. yoga-strī: a woman employed as a secret agent.",
+  "new": "āḍhya-vidhavāḥ gūḍha-ājīvāḥ yoga-striyaḥ taken as one group: women agents in the role of rich widows with a hidden source of income; the two vā mark the alternative groups (agents / Aditi-Kauśika women / dancers and singers). aditi-kauśika: a class of women named after Aditi and Kauśika (mendicants or show-people?); sense uncertain, kept as a name. yoga-strī: a woman employed as a secret agent.",
+  "why": "reviewer (minor): Record the construction and keep the open question honest."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Or a secret agent should tell a chief of a saṅgha who is greedy for women: 'In that village a poor family has withdrawn to live; its woman is worthy of a king; take her.'",
+  "new": "Or a secret agent should tell a chief of a saṅgha who is greedy for women: 'In that village a poor family has withdrawn; the woman of that family is worthy of a king; take her.'",
+  "why": "reviewer (minor): 'to live' is an unmarked addition (apasṛtam = has gone away / withdrawn); 'its woman' is not English for tasya strī."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "अथवा सत्त्री स्त्री-लोलुप संघ-मुख्य को बताए — 'उस गाँव में एक दरिद्र कुल अलग जाकर रह रहा है; उसकी स्त्री राजा के योग्य है; उसे ले लो'।",
+  "new": "अथवा गुप्तचर स्त्री-लोलुप संघ-मुख्य को बताए — 'उस गाँव में एक दरिद्र कुल अलग जा बसा है; उसकी स्त्री राजा के योग्य है; उसे ले लो'।",
+  "why": "reviewer (minor): Glossary: sattrin = गुप्तचर; 'जाकर रह रहा है' adds 'living' to apasṛtam."
+ },
+ {
+  "n": "49",
+  "field": "word.gloss",
+  "word": "kārtāntika-vyañjanaḥ",
+  "old": "an agent in the guise of an astrologer",
+  "new": "an agent in the guise of a soothsayer",
+  "why": "reviewer (minor): Glossary: kārtāntika = soothsayer (see unit 21)."
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "Or an agent in the guise of an astrologer should describe to one man a maiden betrothed to another: 'The daughter of that man will become a king's wife and the mother of a king; obtain her with all your property or by force.'",
+  "new": "Or an agent in the guise of a soothsayer should describe to one man a maiden betrothed to another: 'The daughter of that man will become a king's wife and the mother of a king; obtain her with all your property or by force.'",
+  "why": "reviewer (minor): Glossary: kārtāntika = soothsayer."
+ },
+ {
+  "n": "54",
+  "field": "hindi",
+  "old": "संघों के प्रति अकेला शासन करने वाला राजा इस प्रकार व्यवहार करे।",
+  "new": "संघों के प्रति एकराज इस प्रकार व्यवहार करे।",
+  "why": "reviewer (minor): eka-rāja is a term (the single ruler as against the saṅgha); unit 55 Hindi already has एकराज. Use the term, not an explanation. Added to GLOSSARY.md: eka-rāja = sole king (एकराज)."
+ },
+ {
+  "n": "55",
+  "field": "word.gloss",
+  "word": "atisaṅghān",
+  "old": "overreachings of a saṅgha",
+  "new": "(form as printed, unattested; sense 'overreachings, deceptions' taken from context)",
+  "why": "reviewer (minor): 'overreachings of a saṅgha' is an invented meaning for an unattested form; say so."
+ },
+ {
+  "n": "55",
+  "field": "notes",
+  "old": "The construction 'etebhyo 'tisaṅghān ebhyo' is awkward (two ablative demonstratives around an accusative). Other editions are reported to read 'etebhyo 'tisandhānebhyo rakṣeyuḥ' (from these deceptions); text kept as printed, translated by sense.",
+  "new": "The line as printed does not parse: two ablative demonstratives (etebhyaḥ, ebhyaḥ) around an accusative 'atisaṅghān', a form not otherwise attested. A reading etebhyo 'tisandhānebhyo rakṣeyuḥ ('should guard themselves against these deceptions', atisandhāna as in atisandhāya of unit 40) would give regular syntax; to be checked against the printed Kangle text. Text kept as printed and translated by sense; 'themselves' is supplied.",
+  "why": "reviewer (minor): Do not assert a variant as a report; state it as a conjecture to be checked."
+ }
+]
