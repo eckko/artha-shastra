@@ -1,0 +1,133 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "उस पृथ्वी की प्राप्ति और पालन के उपाय का शास्त्र अर्थशास्त्र है — ऐसा।",
+  "new": "उस पृथ्वी की प्राप्ति और पालन के उपाय का शास्त्र अर्थशास्त्र कहलाता है।",
+  "why": "reviewer (minor): Closing 'iti' (naming) left as a dangling 'ऐसा'; English says 'is called'."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "The thirty-two names are technical terms; the glosses in the word split are literal and are explained, largely in the order listed, in the following units (4-37). 'tad.dvātriṃśad' is joined by the editors with '.', but tat and dvātriṃśat are read as two words (it / thirty-two). Closing 'iti' ends the list and is not translated. Spelling 'samyogaḥ' etc. is as printed. The list has 32 names.",
+  "new": "The thirty-two names are technical terms; the glosses in the word split are literal and are explained, largely in the order listed, in the following units (4-37). 'tad.dvātriṃśad' is joined by the editors with '.', but tat and dvātriṃśat are read as two words (it / thirty-two). Closing 'iti' ends the list and is not translated. The list has 32 names.",
+  "why": "reviewer (minor): Stray sentence: u3 contains no 'samyogaḥ' (that is u7)."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "eka-antaḥ",
+  "old": "ekānta (sole end)",
+  "new": "ekānta (technical term; literally 'one end')",
+  "why": "reviewer (minor): 'sole end' is an invented sense for the technical term ekānta; keep it unglossed."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जिस विषय को आधार बनाकर कुछ कहा जाता है, वह अधिकरण है।",
+  "new": "जिस विषय को लेकर कुछ कहा जाता है, वह अधिकरण है।",
+  "why": "reviewer (minor): 'basis' is not in adhikṛtya (English: 'with reference to'); Hindi and English diverge."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "kṛtam",
+  "old": "pp. √kṛ",
+  "new": "n. nom. sg. pp. √kṛ (agrees with artha-śāstram)",
+  "why": "reviewer (minor): Gender/case/number missing; agrees with artha-śāstram."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "“विद्याओं का उल्लेख, वृद्धों का संयोग, इन्द्रियों पर विजय, अमात्यों की उत्पत्ति” — इस प्रकार से आरम्भ होने वाला (क्रम)।",
+  "new": "“विद्याओं का उल्लेख, वृद्धों का संयोग, इन्द्रियों पर विजय, अमात्यों की उत्पत्ति” — इस प्रकार से आरम्भ होने वाला।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi is forbidden (the supplied word belongs in notes; note already says the predicate is vidhānam of u6)."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "mūla-haraḥ",
+  "old": "m. (tat-puruṣa, stem)",
+  "new": "m. (quoted word, stem form as printed; not nominative)",
+  "why": "reviewer (minor): The quoted word is a stem (printed 'mūla.hara'); w/gram suggest a nominative that is not in the text."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "pitṛ-paitāmaham",
+  "old": "n. acc. sg. (dvandva)",
+  "new": "m. acc. sg. (dvandva; adjective agreeing with artham)",
+  "why": "reviewer (error): Labelled n. acc. sg. but it qualifies artham, which the draft itself labels m.; paitāmaha is an adjective agreeing with artham."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "“मन्त्रिपरिषद् के रूप में बारह अमात्यों को रखे,” ऐसा मानव कहते हैं; “सोलह,” ऐसा बार्हस्पत्य कहते हैं; “बीस,” ऐसा औशनस कहते हैं; “सामर्थ्य के अनुसार,” ऐसा कौटिल्य कहते हैं।",
+  "new": "“बारह अमात्यों की मन्त्रिपरिषद् बनाए,” ऐसा मानव कहते हैं; “सोलह,” ऐसा बार्हस्पत्य कहते हैं; “बीस,” ऐसा औशनस कहते हैं; “सामर्थ्य के अनुसार,” ऐसा कौटिल्य कहते हैं।",
+  "why": "reviewer (minor): 'के रूप में ... रखे' is looser than kurvīta and differs from the English 'form a council ... of twelve ministers'; 'के रूप में' is an interpretive addition."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "“लोक-व्यवहार को जानने वाला, आत्मा, द्रव्य और प्रकृति से सम्पन्न राजा का आश्रय प्रिय और हित के द्वारा ले।”",
+  "new": "“लोक-व्यवहार को जानने वाला, स्वयं, द्रव्य और प्रकृति से सम्पन्न राजा का आश्रय प्रिय और हित के द्वारा ले।”",
+  "why": "reviewer (minor): 'आत्मा' reads as 'soul'; ātman here is 'self/the man himself'."
+ },
+ {
+  "n": "30",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): A dvandva 'endowed with self' is a poor reading (self is not an endowment); likely '(excellence of) self, resources/material elements'. Not settled; literal rendering is kept, so confidence should be low."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "apriya-hita-dvāreṇa",
+  "old": "n. inst. sg. (dvandva + tat-puruṣa)",
+  "new": "n. inst. sg. (apriya-hita + dvāra; apriya-hita read as dvandva, or as 'disagreeable yet beneficial': uncertain)",
+  "why": "reviewer (error): Calling apriya-hita a dvandva 'disagreeable and beneficial' is unsupported; as the implied negation of priya-hita it may be 'disagreeable [yet] beneficial' (karmadhāraya). Label should not assert the dvandva."
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "'apriya-hita' is read as a dvandva (disagreeable-and-beneficial), the implied negation of the priya-hita of unit 30; the alternative a-priya-a-hita is not supported by the printed form.",
+  "new": "'apriya-hita' is read as a dvandva (disagreeable-and-beneficial), the implied negation of the priya-hita of unit 30; the alternative a-priya-a-hita is not supported by the printed form. Compound analysis of apriya-hita is uncertain (dvandva 'disagreeable and beneficial' as drafted, or 'disagreeable yet beneficial'); English keeps the literal members. The final iti after bhavati closes the sentence and is not rendered.",
+  "why": "reviewer (minor): Closing 'iti' after bhavati is dropped silently; the dvandva reading is presented too firmly."
+ },
+ {
+  "n": "31",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): Compound relation uncertain; literal rendering only."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "“On the land assigned for the work of farming — thus; the same as the former.”",
+  "new": "“‘On the land assigned for the work of farming’ — this is the same as the former.”",
+  "why": "reviewer (minor): Closing 'iti' of the cited phrase is rendered as the word 'thus', contrary to the glossary (iti closing a quotation = quotation mark only); the sentence is left with a dangling 'thus'."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "“कृषि-कर्म के लिए निर्दिष्ट भूमि पर — ऐसा; पहले के समान।”",
+  "new": "“‘कृषि-कर्म के लिए निर्दिष्ट भूमि पर’ — यह पहले के समान है।”",
+  "why": "reviewer (minor): Same dangling 'ऐसा' for iti."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "“असन्तुष्ट के लिए इसका उलटा।”",
+  "new": "“असन्तुष्ट के लिए उलटा।”",
+  "why": "reviewer (minor): 'इसका' adds a referent absent from the Sanskrit."
+ },
+ {
+  "n": "37",
+  "field": "notes",
+  "old": "Elliptical; 'viparīta' means the reverse of the preceding statement (of the satisfied) and no verb is stated.",
+  "new": "Elliptical; no verb is stated. viparīta = opposite, reversed. What is reversed is not stated in this unit, so '[holds]' is only a bracketed placeholder.",
+  "why": "reviewer (minor): Notes state as fact that the preceding statement concerns the satisfied; nothing in the unit or chunk gives that antecedent (invented context)."
+ }
+]

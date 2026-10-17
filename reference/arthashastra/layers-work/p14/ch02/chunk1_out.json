@@ -534,7 +534,13 @@
   ],
   "hindi": "इन दोनों में से किसी एक के मूत्र, लीद और रस के साथ पकाया हुआ सिद्धार्थक का तेल, जिसमें अर्क की रुई और पतंग का चूर्ण मिलाया गया हो, सफेद करना है।",
   "english": "Siddhārthaka oil cooked with the urine, dung and juice of either of these two, with an admixture of powder of arka floss and pataṅga, is the whitening.",
-  "text_flags": [],
+  "text_flags": [
+   {
+    "src": "mūtra.leṇda.rasa.siddhaṃ",
+    "suggest": "mūtra-leṇḍa-rasa-siddham",
+    "why": "typo: leṇda has dental d (Devanagari द); leṇḍa with retroflex ḍ is used elsewhere in this chunk (units 5, 7)"
+   }
+  ],
   "notes": "'etayor anyatarasya' = of either of these two (the goat and donkey of units 4-5); the animal is not named here. rasa rendered 'juice' literally (Glossary: rasa = poison only in poisoning contexts). arka-tūla = floss of arka (not identified); pataṅga left as name (insect or plant). pratīvāpa = admixture.",
   "confidence": "medium"
  },
@@ -686,5 +692,601 @@
   ],
   "notes": "Damaged token (the editors mark '(?)'). Reading uṣitāḥ + takra + arka-kṣīra + lavaṇa is only a possible repair; the English brackets show a supplied 'kept'. Alternative: 'astakra' is a different word. 'arka milk' = milky sap or milk of arka (plant not identified).",
   "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kaṭuka.alābau",
+      "words": [
+       {
+        "w": "kaṭuka-ālābau",
+        "gloss": "in a bitter gourd",
+        "gram": "cpd. m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "valī.gate",
+      "words": [
+       {
+        "w": "valī-gate",
+        "gloss": "gone to wrinkles",
+        "gram": "cpd. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gataṃ.ardha.māsa.sthitaṃ",
+      "words": [
+       {
+        "w": "gata-ardha-māsa-sthitam",
+        "gloss": "kept until half a month has passed",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaura.sarṣapa.piṣṭaṃ",
+      "words": [
+       {
+        "w": "gaura-sarṣapa-piṣṭam",
+        "gloss": "ground pale mustard",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "romṇāṃ",
+      "words": [
+       {
+        "w": "romṇām",
+        "gloss": "of hairs",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śvetī.karaṇam",
+      "words": [
+       {
+        "w": "śvetī-karaṇam",
+        "gloss": "whitening",
+        "gram": "cpd. n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कड़वी लौकी में, जो झुर्रीदार हो गई हो, आधा मास बीतने तक रखा हुआ पिसा हुआ गौर सरसों रोमों को सफेद करना है।",
+  "english": "Ground pale mustard, kept in a bitter gourd that has gone to wrinkles until half a month has passed, is the whitening of hairs.",
+  "text_flags": [
+   {
+    "src": "gataṃ.ardha.māsa.sthitaṃ",
+    "suggest": "gata-ardha-māsa-sthitam",
+    "why": "possible: the anusvāra after gata looks like a typo for a compound join (gata-ardha)"
+   },
+   {
+    "src": "valī.gate",
+    "suggest": "vallī-gate",
+    "why": "possible: valī (fold, wrinkle) is rendered literally; vallī (creeper) is the alternative"
+   }
+  ],
+  "notes": "'valī-gate' is obscure: rendered literally as 'gone to wrinkles' (i.e. wrinkled); alternative 'gone to creepers/vine'. 'gata-ardha-māsa-sthita' read as 'kept [until] half a month has gone'; alternative 'kept for a half-month'.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alojuneti",
+      "words": [
+       {
+        "w": "alojuna",
+        "gloss": "alojuna (name of an insect)",
+        "gram": "name"
+       },
+       {
+        "w": "iti",
+        "gloss": "called",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kīṭaḥ",
+      "words": [
+       {
+        "w": "kīṭaḥ",
+        "gloss": "insect",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvetā",
+      "words": [
+       {
+        "w": "śvetā",
+        "gloss": "white",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛha.golikā",
+      "words": [
+       {
+        "w": "gṛha-golikā",
+        "gloss": "house-golikā",
+        "gram": "cpd. f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "etena",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "with this",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "piṣtena-abhyaktāḥ",
+      "words": [
+       {
+        "w": "piṣṭena",
+        "gloss": "ground",
+        "gram": "m. inst. sg. p.p.p. √piṣ"
+       },
+       {
+        "w": "abhyaktāḥ",
+        "gloss": "anointed",
+        "gram": "m. nom. pl. p.p.p. abhi-√añj"
+       }
+      ]
+     },
+     {
+      "src": "keśāḥ",
+      "words": [
+       {
+        "w": "keśāḥ",
+        "gloss": "hairs",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "syuḥ",
+      "words": [
+       {
+        "w": "syuḥ",
+        "gloss": "would be",
+        "gram": "3 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "śaṅkha.pāṇḍarāḥ",
+      "words": [
+       {
+        "w": "śaṅkha-pāṇḍarāḥ",
+        "gloss": "white as a conch",
+        "gram": "cpd. m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो कीट अलोजुन कहलाता है और सफेद गृह-गोलिका, इस पिसे हुए से लेप किए गए केश शंख के समान श्वेत हो जाएँ।",
+  "english": "The insect that is called alojuna, and the white house-golikā: hairs anointed with this, [once] ground, would be conch-white.",
+  "text_flags": [
+   {
+    "src": "piṣtena-abhyaktāḥ",
+    "suggest": "piṣṭena-abhyaktāḥ",
+    "why": "typo: piṣtena has dental t (पिष्तेन); piṣṭena (retroflex ṭ) is expected"
+   }
+  ],
+  "notes": "'alojuneti' = alojuna + iti; alojuna is a name, not identified. 'gṛha-golikā' kept literally (house-golikā); a house-lizard is a possible sense but is not stated. The ground mass is of the insect and the golikā together (not stated). 'abhyaktāḥ' with '-' is an unsandhied join in the e-text.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gomayena",
+      "words": [
+       {
+        "w": "gomayena",
+        "gloss": "with cow-dung",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tinduka.ariṣṭa.kalkena",
+      "words": [
+       {
+        "w": "tinduka-ariṣṭa-kalkena",
+        "gloss": "with a paste of tinduka and ariṣṭa",
+        "gram": "cpd. m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mardita.aṅgasya",
+      "words": [
+       {
+        "w": "mardita-aṅgasya",
+        "gloss": "of one whose limbs are rubbed",
+        "gram": "cpd. m. gen. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhallātaka.rasa.anuliptasya",
+      "words": [
+       {
+        "w": "bhallātaka-rasa-anuliptasya",
+        "gloss": "smeared with bhallātaka juice",
+        "gram": "cpd. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "māsikaḥ",
+      "words": [
+       {
+        "w": "māsikaḥ",
+        "gloss": "of a month",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭha.yogaḥ",
+      "words": [
+       {
+        "w": "kuṣṭha-yogaḥ",
+        "gloss": "kuṣṭha preparation",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके अंग गोबर से या तिन्दुक और अरिष्ट की कल्क से मले गए हों और भल्लातक के रस से लेप किए गए हों, उसके लिए मासिक कुष्ठ-योग।",
+  "english": "For one whose limbs are rubbed with cow-dung or with a paste of tinduka and ariṣṭa, and smeared with bhallātaka juice: the monthly kuṣṭha preparation.",
+  "text_flags": [],
+  "notes": "tinduka, ariṣṭa, bhallātaka are plant names; not identified. rasa = juice. kuṣṭha kept as kuṣṭha. 'For one whose ...' follows the genitives mardita-aṅgasya / anuliptasya; the construction is elliptical.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛṣṇa.sarpa.mukhe",
+      "words": [
+       {
+        "w": "kṛṣṇa-sarpa-mukhe",
+        "gloss": "in the mouth of a black snake",
+        "gram": "cpd. n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛha.golikā.mukhe",
+      "words": [
+       {
+        "w": "gṛha-golikā-mukhe",
+        "gloss": "in the mouth of a house-golikā",
+        "gram": "cpd. n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sapta.rātra.uṣitā",
+      "words": [
+       {
+        "w": "sapta-rātra-uṣitāḥ",
+        "gloss": "stayed seven nights",
+        "gram": "cpd. f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gujjāḥ",
+      "words": [
+       {
+        "w": "guñjāḥ",
+        "gloss": "guñjā seeds",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭha.yogaḥ",
+      "words": [
+       {
+        "w": "kuṣṭha-yogaḥ",
+        "gloss": "kuṣṭha preparation",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काले सर्प के मुख में या गृह-गोलिका के मुख में सात रात रखी गई गुञ्जाएँ कुष्ठ-योग हैं।",
+  "english": "Guñjā [seeds] that have stayed seven nights in the mouth of a black snake or in the mouth of a house-golikā: a kuṣṭha preparation.",
+  "text_flags": [
+   {
+    "src": "gujjāḥ",
+    "suggest": "guñjāḥ",
+    "why": "possible: gujjā may be a genuine Prakrit-like form; guñjā is the standard spelling"
+   }
+  ],
+  "notes": "guñjā seeds kept as name, not identified; 'seeds' is the usual sense but is a supplied word and is not stated in the text — rendered 'guñjā [seeds]'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuka.pitta.aṇḍa.rasa.abhyaṅgaḥ",
+      "words": [
+       {
+        "w": "śuka-pitta-aṇḍa-rasa-abhyaṅgaḥ",
+        "gloss": "anointing with parrot bile and egg-juice",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuṣṭha.yogaḥ",
+      "words": [
+       {
+        "w": "kuṣṭha-yogaḥ",
+        "gloss": "kuṣṭha preparation",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तोते के पित्त और अण्डे के रस का लेप कुष्ठ-योग है।",
+  "english": "Anointing with the bile and egg-juice of a parrot: a kuṣṭha preparation.",
+  "text_flags": [],
+  "notes": "śuka taken as parrot (could be a plant name); pitta = bile (literal, not the humour). aṇḍa-rasa = egg-juice; whether 'parrot' governs the egg as well as the bile is not stated; alternative: 'bile, egg [and] juice'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kuṣṭhasya.priyāla.kalka.kaṣāyaḥ",
+      "words": [
+       {
+        "w": "kuṣṭhasya",
+        "gloss": "of kuṣṭha",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "priyāla-kalka-kaṣāyaḥ",
+        "gloss": "decoction of priyāla paste",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratīkāraḥ",
+      "words": [
+       {
+        "w": "pratīkāraḥ",
+        "gloss": "remedy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुष्ठ का प्रतीकार प्रियाल की कल्क का काढ़ा है।",
+  "english": "A decoction of priyāla paste is the remedy of kuṣṭha.",
+  "text_flags": [
+   {
+    "src": "kuṣṭhasya.priyāla.kalka.kaṣāyaḥ",
+    "suggest": "kuṣṭhasya priyāla-kalka-kaṣāyaḥ",
+    "why": "possible: the editors' compound dot after the genitive kuṣṭhasya; it is probably a separate word"
+   }
+  ],
+  "notes": "priyāla is a plant name, not identified. 'kalka-kaṣāya' = decoction of paste (alternative: paste and decoction). pratīkāra = remedy.",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kukkuṭa.kośa.atakī(?).śatāvarī.mūla.yuktam",
+      "words": [
+       {
+        "w": "kukkuṭa-kośa-atakī-śatāvarī-mūla-yuktam",
+        "gloss": "combined with kukkuṭa, kośa, atakī and śatāvarī root",
+        "gram": "cpd. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āhārayamāṇo",
+      "words": [
+       {
+        "w": "āhārayamāṇaḥ",
+        "gloss": "one taking as food",
+        "gram": "m. nom. sg. pres. part. caus. ā-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "māsena",
+      "words": [
+       {
+        "w": "māsena",
+        "gloss": "in a month",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gauro",
+      "words": [
+       {
+        "w": "gauraḥ",
+        "gloss": "fair",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "he becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मुर्गा, कोश, अतकी और शतावरी की जड़ से युक्त आहार लेने वाला मनुष्य एक मास में गौर हो जाता है।",
+  "english": "One who takes food combined with kukkuṭa, kośa, atakī and the root of śatāvarī becomes fair in a month.",
+  "text_flags": [
+   {
+    "src": "kukkuṭa.kośa.atakī(?).śatāvarī.mūla.yuktam",
+    "suggest": "kukkuṭa-kośātakī-śatāvarī-mūla-yuktam",
+    "why": "possible: the editors' doubt mark at atakī; 'kośa.atakī' may be one name, kośātakī"
+   }
+  ],
+  "notes": "Damaged word (doubt mark on atakī). Rendered literally as separate items; alternative: kukkuṭa and kośātakī (a plant name). 'kukkuṭa' could be the cock or a plant. The English object 'food' is supplied by āhārayamāṇaḥ. 'Man' in Hindi is supplied as the subject.",
+  "confidence": "low"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaṭa.kaṣāya.snātaḥ",
+      "words": [
+       {
+        "w": "vaṭa-kaṣāya-snātaḥ",
+        "gloss": "bathed in a decoction of vaṭa",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha.cara.kalka.digdhaḥ",
+      "words": [
+       {
+        "w": "saha-cara-kalka-digdhaḥ",
+        "gloss": "smeared with a paste of sahacara",
+        "gram": "cpd. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇo",
+      "words": [
+       {
+        "w": "kṛṣṇaḥ",
+        "gloss": "dark",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "he becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वट के काढ़े से स्नान किया हुआ और सहचर की कल्क से लिप्त मनुष्य काला हो जाता है।",
+  "english": "One bathed in a decoction of vaṭa and smeared with a paste of sahacara becomes dark.",
+  "text_flags": [],
+  "notes": "vaṭa and sahacara are plant names, not identified; sahacara literally 'companion'. kṛṣṇa = dark/black.",
+  "confidence": "medium"
  }
 ]

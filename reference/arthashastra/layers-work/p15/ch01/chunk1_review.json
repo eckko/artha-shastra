@@ -1,0 +1,447 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अर्थशास्त्र है — ऐसा।",
+     "problem": "Closing 'iti' (naming) left as a dangling 'ऐसा'; English says 'is called'.",
+     "fix": "उस पृथ्वी की प्राप्ति और पालन के उपाय का शास्त्र अर्थशास्त्र कहलाता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अर्थशास्त्र है — ऐसा।",
+      "new": "अर्थशास्त्र कहलाता है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Spelling 'samyogaḥ' etc. is as printed.",
+     "problem": "Stray sentence: u3 contains no 'samyogaḥ' (that is u7).",
+     "fix": "delete the sentence",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "notes",
+      "old": " Spelling 'samyogaḥ' etc. is as printed.",
+      "new": ""
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "eka-antaḥ",
+     "problem": "'sole end' is an invented sense for the technical term ekānta; keep it unglossed.",
+     "fix": "ekānta",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "eka-antaḥ",
+      "field": "gloss",
+      "value": "ekānta (technical term; literally 'one end')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आधार बनाकर",
+     "problem": "'basis' is not in adhikṛtya (English: 'with reference to'); Hindi and English diverge.",
+     "fix": "जिस विषय को लेकर कुछ कहा जाता है",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आधार बनाकर कुछ कहा जाता है",
+      "new": "लेकर कुछ कहा जाता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kṛtam",
+     "problem": "Gender/case/number missing; agrees with artha-śāstram.",
+     "fix": "n. nom. sg. pp. √kṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "kṛtam",
+      "field": "gram",
+      "value": "n. nom. sg. pp. √kṛ (agrees with artha-śāstram)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(क्रम)",
+     "problem": "Bracketed gloss inside the Hindi is forbidden (the supplied word belongs in notes; note already says the predicate is vidhānam of u6).",
+     "fix": "“…” — इस प्रकार से आरम्भ होने वाला।",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आरम्भ होने वाला (क्रम)।",
+      "new": "आरम्भ होने वाला।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mūla-haraḥ",
+     "problem": "The quoted word is a stem (printed 'mūla.hara'); w/gram suggest a nominative that is not in the text.",
+     "fix": "m. (quoted word, stem form as printed)",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "mūla-haraḥ",
+      "field": "gram",
+      "value": "m. (quoted word, stem form as printed; not nominative)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pitṛ-paitāmaham",
+     "problem": "Labelled n. acc. sg. but it qualifies artham, which the draft itself labels m.; paitāmaha is an adjective agreeing with artham.",
+     "fix": "m. acc. sg. (dvandva, agrees with artham)",
+     "severity": "error",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "pitṛ-paitāmaham",
+      "field": "gram",
+      "value": "m. acc. sg. (dvandva; adjective agreeing with artham)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मन्त्रिपरिषद् के रूप में बारह अमात्यों को रखे",
+     "problem": "'के रूप में ... रखे' is looser than kurvīta and differs from the English 'form a council ... of twelve ministers'; 'के रूप में' is an interpretive addition.",
+     "fix": "बारह अमात्यों की मन्त्रिपरिषद् बनाए",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मन्त्रिपरिषद् के रूप में बारह अमात्यों को रखे",
+      "new": "बारह अमात्यों की मन्त्रिपरिषद् बनाए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आत्मा, द्रव्य और प्रकृति",
+     "problem": "'आत्मा' reads as 'soul'; ātman here is 'self/the man himself'.",
+     "fix": "स्वयं, द्रव्य और प्रकृति",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आत्मा, द्रव्य और प्रकृति से सम्पन्न",
+      "new": "स्वयं, द्रव्य और प्रकृति से सम्पन्न"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "ātma-dravya-prakṛti-sampanna",
+     "problem": "A dvandva 'endowed with self' is a poor reading (self is not an endowment); likely '(excellence of) self, resources/material elements'. Not settled; literal rendering is kept, so confidence should be low.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "apriya-hita-dvāreṇa",
+     "problem": "Calling apriya-hita a dvandva 'disagreeable and beneficial' is unsupported; as the implied negation of priya-hita it may be 'disagreeable [yet] beneficial' (karmadhāraya). Label should not assert the dvandva.",
+     "fix": "n. inst. sg. (apriya-hita + dvāra; apriya-hita as dvandva or 'disagreeable yet beneficial', uncertain)",
+     "severity": "error",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "apriya-hita-dvāreṇa",
+      "field": "gram",
+      "value": "n. inst. sg. (apriya-hita + dvāra; apriya-hita read as dvandva, or as 'disagreeable yet beneficial': uncertain)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "closing iti",
+     "problem": "Closing 'iti' after bhavati is dropped silently; the dvandva reading is presented too firmly.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "append_note",
+      "text": "Compound analysis of apriya-hita is uncertain (dvandva 'disagreeable and beneficial' as drafted, or 'disagreeable yet beneficial'); English keeps the literal members. The final iti after bhavati closes the sentence and is not rendered."
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Compound relation uncertain; literal rendering only.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "— thus;",
+     "problem": "Closing 'iti' of the cited phrase is rendered as the word 'thus', contrary to the glossary (iti closing a quotation = quotation mark only); the sentence is left with a dangling 'thus'.",
+     "fix": "“‘On the land assigned for the work of farming’ — this is the same as the former.”",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "set",
+      "field": "english",
+      "value": "“‘On the land assigned for the work of farming’ — this is the same as the former.”"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "— ऐसा;",
+     "problem": "Same dangling 'ऐसा' for iti.",
+     "fix": "“‘कृषि-कर्म के लिए निर्दिष्ट भूमि पर’ — यह पहले के समान है।”",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "set",
+      "field": "hindi",
+      "value": "“‘कृषि-कर्म के लिए निर्दिष्ट भूमि पर’ — यह पहले के समान है।”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इसका",
+     "problem": "'इसका' adds a referent absent from the Sanskrit.",
+     "fix": "असन्तुष्ट के लिए उलटा।",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "असन्तुष्ट के लिए इसका उलटा।",
+      "new": "असन्तुष्ट के लिए उलटा।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(of the satisfied)",
+     "problem": "Notes state as fact that the preceding statement concerns the satisfied; nothing in the unit or chunk gives that antecedent (invented context).",
+     "fix": "Elliptical; no verb stated; viparīta = opposite, reversed. What is reversed is not stated here, so '[holds]' is a bracketed placeholder.",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "notes",
+      "value": "Elliptical; no verb is stated. viparīta = opposite, reversed. What is reversed is not stated in this unit, so '[holds]' is only a bracketed placeholder."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "37 units reviewed; 18 issues (3 error, 15 minor) in 12 units; no regrouping. Confirmed text_flags: u18 missing space before iti; u20 virodhena->avirodhena (sense requires it) and nihsukhaḥ->niḥsukhaḥ. Accepted as drafted (honest medium, literal): u1, u10, u13, u18 avipratipatti, u20, u24 ṛṇa-ādāna, u28, u33, u22 names (Manavas etc., consistent with glossary Parasharas). u30/u31 lowered to low. Not reviewed against the contract but noted: u3 w 'sva-saṃjñā' normalises printed 'sañjñā'."
+}
