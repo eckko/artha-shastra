@@ -1,0 +1,507 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "statements of country, caste",
+     "problem": "English 'country' differs from the word gloss 'place' for deśa (country = jana-pada in the glossary).",
+     "fix": "statements of place, caste",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "statements of country, caste",
+      "new": "statements of place, caste",
+      "n": "2"
+     }
+    },
+    {
+     "field": "english",
+     "where": "liquor, delicacies, food",
+     "problem": "'delicacies' is an unmarked embellishment of bhakṣya (eatables).",
+     "fix": "liquor, eatables, food",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "liquor, delicacies, food",
+      "new": "liquor, eatables, food",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "māṃsa-surā-bhakṣya-bhojana-gandha-mālya-vastra-vibhūṣaṇeṣu",
+     "problem": "'delicacies' for bhakṣya is an embellishment.",
+     "fix": "in meat, liquor, eatables, food, scents, garlands, clothes, ornaments",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "māṃsa-surā-bhakṣya-bhojana-gandha-mālya-vastra-vibhūṣaṇeṣu",
+      "field": "gloss",
+      "value": "in meat, liquor, eatables, food, scents, garlands, clothes, ornaments",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hiṃsra-stena-nidhi-nikṣepa-apahāra-para-prayoga-gūḍha-ājīvinām",
+     "problem": "gloss drops nidhi and nikṣepa that the English and Hindi translate.",
+     "fix": "of those living by violence, theft, misappropriation of treasure-troves and deposits, para-prayoga, secrecy",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hiṃsra-stena-nidhi-nikṣepa-apahāra-para-prayoga-gūḍha-ājīvinām",
+      "field": "gloss",
+      "value": "of those living by violence, theft, misappropriation of treasure-troves and deposits, para-prayoga, secrecy",
+      "n": "2"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Several doubtful words are recorded only in part; the śāstra/śastra and gūḍha-ājīvin doubts need a person.",
+     "fix": "Reviewer: (a) the typed 'śāstra' in kutsita.karma.śāstra.upakaraṇa is probably a typo for śastra (weapon): śastra recurs two lines later in the same unit and a thief's 'treatises' make poor sense; the flag is 'possible' but should be treated as likely. (b) The chain gūḍha-ājīvinām may be read 'those who secretly live by violence, theft, ...' (gūḍha adverbial to the whole list) rather than 'secrecy' as the last item; sense unsettled, left as drafted. (c) abhyadhigantāram: 'one who approaches' has no stated object; low confidence. (d) 'nāgarika-mahā-mātra' kept as 'the nāgarika and high officials' (title kept).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: (a) the typed 'śāstra' in kutsita.karma.śāstra.upakaraṇa is probably a typo for śastra (weapon): śastra recurs two lines later in the same unit and a thief's 'treatises' make poor sense; the flag is 'possible' but should be treated as likely. (b) The chain gūḍha-ājīvinām may be read 'those who secretly live by violence, theft, ...' (gūḍha adverbial to the whole list) rather than 'secrecy' as the last item; sense unsettled, left as drafted. (c) abhyadhigantāram: 'one who approaches' has no stated object; low confidence. (d) 'nāgarika-mahā-mātra' kept as 'the nāgarika and high officials' (title kept).",
+      "n": "2"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "Several unsettled words (abhyadhigantāram, liṅgena āliṅginam, śāstra/śastra, nirveśa, niṣkuṭa, sa-āmiṣa, para-prayoga) make 'medium' too firm.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "confidence",
+      "value": "low",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुराने बर्तन-सामान को",
+     "problem": "'बर्तन-सामान' narrows bhāṇḍa (wares) to vessels, an unmarked addition; English says 'wares'.",
+     "fix": "पुराने माल को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुराने बर्तन-सामान को",
+      "new": "पुराने माल को",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "upasamprāpteḥ",
+     "problem": "'encountering' (9.7 sense) reads awkwardly for the acquisition of an article; context-specific 'receiving' recorded in the glossary.",
+     "fix": "of the receiving",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "upasamprāpteḥ",
+      "field": "gloss",
+      "value": "of the receiving",
+      "n": "8"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the encountering of it",
+     "problem": "Same: 'encountering' is the 9.7 sense; in 4.6.8 the sense is getting the article (Hindi already says प्राप्त होना).",
+     "fix": "the receiving of it",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the encountering of it",
+      "new": "the receiving of it",
+      "n": "8"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Draft note says 'encountering' per glossary; no longer true after the patch.",
+     "fix": "Reviewer: upasamprāpti = 'receiving' here (context-specific, see GLOSSARY 4.6); the 9.7 line 'encountering' is kept for 9.7. ādhi-pracchannam: 'pledged or concealed' is an interpretive split of one compound; kept, doubt stands. This supersedes the draft remark that 'encountering' is used.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: upasamprāpti = 'receiving' here (context-specific, see GLOSSARY 4.6); the 9.7 line 'encountering' is kept for 9.7. ādhi-pracchannam: 'pledged or concealed' is an interpretive split of one compound; kept, doubt stands. This supersedes the draft remark that 'encountering' is used.",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "Typo yasyā plus loose syntax and the unclear 'śuci deśa' make 'medium' too firm.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "confidence",
+      "value": "low",
+      "n": "9"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वह द्रव्य उसी का है",
+     "problem": "'उसी' adds emphasis not in tasya.",
+     "fix": "वह द्रव्य उसका है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह द्रव्य उसी का है",
+      "new": "वह द्रव्य उसका है",
+      "n": "9"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Typo and root-consistency doubts cannot be handled by the other ops.",
+     "fix": "Reviewer: 'yasyā' is almost certainly a typo for yasya (no feminine noun is present); a text_flag exists (possible) and should read likely. pratisandadhyāt is glossed 'identify' here but pratisandhāna is 'connecting' in unit 11 (same root prati-sam-√dhā): a person should unify (literal 'connect/trace'). 'śuci deśa' kept literal 'pure place'.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: 'yasyā' is almost certainly a typo for yasya (no feminine noun is present); a text_flag exists (possible) and should read likely. pratisandadhyāt is glossed 'identify' here but pratisandhāna is 'connecting' in unit 11 (same root prati-sam-√dhā): a person should unify (literal 'connect/trace'). 'śuci deśa' kept literal 'pure place'.",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक ही योनि के",
+     "problem": "Hindi 'योनि' mainly means 'womb' and misleads for yoni = source/origin.",
+     "fix": "एक ही उद्गम के",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक ही योनि के",
+      "new": "एक ही उद्गम के",
+      "n": "10"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बर्तन-सामान",
+     "problem": "'बर्तन-सामान' narrows bhāṇḍa to vessels (as in unit 6).",
+     "fix": "माल",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बर्तन-सामान",
+      "new": "माल",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "upanidhim",
+     "problem": "'sealed deposit' imports commentary; literal sense only.",
+     "fix": "deposit (upanidhi, literally 'placed near')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "upanidhim",
+      "field": "gloss",
+      "value": "deposit (upanidhi, literally 'placed near')",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a deposit; a sealed deposit",
+     "problem": "'sealed deposit' imports a commentarial sense; keep upanidhi as a term (obscure-term rule).",
+     "fix": "a deposit; an upanidhi",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "a deposit; a sealed deposit",
+      "new": "a deposit; an upanidhi",
+      "n": "11"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "avakrītaka sense is not marked as doubtful in the draft.",
+     "fix": "Reviewer: avakrītaka is glossed 'bought' like krīta in unit 8, but ava-√krī also means 'to hire/buy off' ('hired' possible; avakraya = hire in Arthaśāstra usage); sense unsettled, a person should check. upanidhi kept as a term (GLOSSARY 4.6). pratisandhāna 'connecting' vs 'identify' in unit 9: see unit 9 note.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: avakrītaka is glossed 'bought' like krīta in unit 8, but ava-√krī also means 'to hire/buy off' ('hired' possible; avakraya = hire in Arthaśāstra usage); sense unsettled, a person should check. upanidhi kept as a term (GLOSSARY 4.6). pratisandhāna 'connecting' vs 'identify' in unit 9: see unit 9 note.",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यदि अपसार कहे",
+     "problem": "The vā (or) that joins this rule to unit 11 is dropped in Hindi (English has 'Or').",
+     "fix": "अथवा यदि अपसार कहे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यदि अपसार कहे",
+      "new": "अथवा यदि अपसार कहे",
+      "n": "12"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मिलाकर सिद्ध करे",
+     "problem": "'सिद्ध करे' (prove) is an invented sense; pratisamānayet is kept literal.",
+     "fix": "मिलान करे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मिलाकर सिद्ध करे",
+      "new": "मिलान करे",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और उतना ही दण्ड",
+     "problem": "'ही' adds emphasis not in the Sanskrit.",
+     "fix": "और उतना दण्ड",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और उतना ही दण्ड",
+      "new": "और उतना दण्ड",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दरवाज़े का जोड़ पर",
+     "problem": "Hindi grammar: 'का' cannot precede 'जोड़ पर'.",
+     "fix": "दरवाज़े के जोड़ पर",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दरवाज़े का जोड़ पर",
+      "new": "दरवाज़े के जोड़ पर",
+      "n": "16"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जाली, वात-अयन और नीप्र",
+     "problem": "The compound vātāyana is split oddly in Hindi; वातायन is the Hindi form.",
+     "fix": "जाली, वातायन और नीप्र",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जाली, वात-अयन और नीप्र",
+      "new": "जाली, वातायन और नीप्र",
+      "n": "16"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उत्कर, मसलना",
+     "problem": "English says 'heap' for utkara; Hindi left it untranslated and so inconsistent.",
+     "fix": "ढेर, मसलना",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्कर, मसलना",
+      "new": "ढेर, मसलना",
+      "n": "16"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ārohaṇa-avataraṇe",
+     "problem": "'loc. du.' is wrong: a neuter dvandva loc. dual ends in -ayoḥ; -e is acc./nom. dual or loc. sg.",
+     "fix": "n. dvandva, acc. du. or loc. sg. (case unsettled)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "ārohaṇa-avataraṇe",
+      "field": "gram",
+      "value": "n. dvandva, acc. du. or loc. sg. (case unsettled)",
+      "n": "16"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Case and parse doubts that no op can settle.",
+     "fix": "Reviewer: ārohaṇa-avataraṇe is perhaps an accusative dual in the list of accusatives governed by vidyāt ('the climbing up and down'), not 'in climbing'; the draft English/Hindi read it as locative; left as drafted, case unsettled. The English parse ('what is found by indication, the inner cutting ...') and the Hindi parse (upadeśa-upalabhya as adjective of the list) differ; adjective reading is more natural. The 'if' at the start (both languages) is supplied, not in the Sanskrit.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: ārohaṇa-avataraṇe is perhaps an accusative dual in the list of accusatives governed by vidyāt ('the climbing up and down'), not 'in climbing'; the draft English/Hindi read it as locative; left as drafted, case unsettled. The English parse ('what is found by indication, the inner cutting ...') and the Hindi parse (upadeśa-upalabhya as adjective of the list) differ; adjective reading is more natural. The 'if' at the start (both languages) is supplied, not in the Sanskrit.",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वैसे ही आचरण वाले",
+     "problem": "'ही' adds emphasis not in tad-vidha.",
+     "fix": "वैसे आचरण वाले",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वैसे ही आचरण वाले",
+      "new": "वैसे आचरण वाले",
+      "n": "18"
+     }
+    },
+    {
+     "field": "split",
+     "where": "sadyaḥ-dauta-hasta-pādam",
+     "problem": "Typed 'sadyo.dauta' is a typo for dhauta (washed); w should use the corrected stem. No text_flag was made (the draft missed it).",
+     "fix": "sadyaḥ-dhauta-hasta-pādam",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "sadyaḥ-dauta-hasta-pādam",
+      "field": "w",
+      "value": "sadyaḥ-dhauta-hasta-pādam",
+      "n": "18"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Missed typo and confirmation of the draft's flag.",
+     "fix": "Reviewer: typo not flagged by the draft: 'sadyo.dauta.hasta.pādaṃ' should be 'sadyo.dhauta.hasta.pādaṃ' (dhauta 'washed'); w corrected by patch, text_flag needs a person. The stray '.' in 'āvignaṃ.' is a genuine typo (the unit 2 parallel has no mark there).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: typo not flagged by the draft: 'sadyo.dauta.hasta.pādaṃ' should be 'sadyo.dhauta.hasta.pādaṃ' (dhauta 'washed'); w corrected by patch, text_flag needs a person. The stray '.' in 'āvignaṃ.' is a genuine typo (the unit 2 parallel has no mark there).",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Counts: minor 26, error 3. No regrouping suggested. Patches made for units 2,6,8,9,10,11,12,14,16,18 (translation tightening, Hindi fixes, one wrong gram, one missed typo in w). Cannot be patched (need a person): add text_flag for 18 'sadyo.dauta' (-> dhauta); upgrade unit 2 'śāstra' (likely śastra), unit 9 'yasyā' and unit 18 'āvignaṃ.' from possible to likely; 'guhamānam' (unit 2) is a valid form, the flag is unneeded; 'vairaśayaṃ' flag is right. Unit 17 'ubhayata' is correct sandhi, no typo. Other typos/unclosed quotes: none found. Unresolved doubts: unit 16 case/parse; avakrītaka (unit 11); pratisandadhyāt vs pratisandhāna (9, 11); ādhi-pracchanna; apasāra as person."
+}

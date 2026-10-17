@@ -1,0 +1,3404 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daivāny",
+      "words": [
+       {
+        "w": "daivāni",
+        "gloss": "the divine",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "aṣṭau",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "mahā.bhayāni",
+      "words": [
+       {
+        "w": "mahā-bhayāni",
+        "gloss": "great fears",
+        "gram": "karmadhāraya, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "join mark (unsandhied)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "agnir",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "fire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "udakaṃ",
+      "words": [
+       {
+        "w": "udakam",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyādhir",
+      "words": [
+       {
+        "w": "vyādhiḥ",
+        "gloss": "disease",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "durbhikṣaṃ",
+      "words": [
+       {
+        "w": "durbhikṣam",
+        "gloss": "famine",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūṣikā",
+      "words": [
+       {
+        "w": "mūṣikāḥ",
+        "gloss": "rats",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyālāḥ",
+      "words": [
+       {
+        "w": "vyālāḥ",
+        "gloss": "beasts of prey",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarpā",
+      "words": [
+       {
+        "w": "sarpāḥ",
+        "gloss": "snakes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rakṣāṃsi-iti",
+      "words": [
+       {
+        "w": "rakṣāṃsi",
+        "gloss": "demons",
+        "gram": "n. nom. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दैव आठ महाभय हैं: अग्नि, जल, रोग, अकाल, चूहे, हिंस्र पशु, साँप और राक्षस।",
+  "english": "The divine [ones] are eight great fears: fire, water, disease, famine, rats, beasts of prey, snakes and demons.",
+  "text_flags": [],
+  "notes": "daiva = 'the divine' (glossary); daivāni is neuter plural agreeing with bhayāni. vyāla = beasts of prey (listed apart from sarpa); the word can also mean snake in general. The closing iti is not rendered.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.1"
+  ],
+  "lines_deva": [
+   "दैवान्य् अष्टौ महा.भयानि - अग्निर् उदकं व्याधिर् दुर्भिक्षं मूषिका व्यालाः सर्पा रक्षांसि-इति"
+  ],
+  "lines_iast": [
+   "daivāny aṣṭau mahā.bhayāni - agnir udakaṃ vyādhir durbhikṣaṃ mūṣikā vyālāḥ sarpā rakṣāṃsi-iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tebhyo",
+      "words": [
+       {
+        "w": "tebhyaḥ",
+        "gloss": "from them",
+        "gram": "abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "jana.padaṃ",
+      "words": [
+       {
+        "w": "jana-padam",
+        "gloss": "country",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣet",
+      "words": [
+       {
+        "w": "rakṣet",
+        "gloss": "should protect",
+        "gram": "3 sg. opt. √rakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनसे जनपद की रक्षा करे।",
+  "english": "[He] should protect the country from them.",
+  "text_flags": [],
+  "notes": "No subject expressed; the king is understood from context.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.2"
+  ],
+  "lines_deva": [
+   "तेभ्यो जन.पदं रक्षेत्"
+  ],
+  "lines_iast": [
+   "tebhyo jana.padaṃ rakṣet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "grīṣme",
+      "words": [
+       {
+        "w": "grīṣme",
+        "gloss": "in summer",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahir.adhiśrayaṇaṃ",
+      "words": [
+       {
+        "w": "bahiḥ-adhiśrayaṇam",
+        "gloss": "outside hearth",
+        "gram": "n. acc. sg., compound"
+       }
+      ]
+     },
+     {
+      "src": "grāmāḥ",
+      "words": [
+       {
+        "w": "grāmāḥ",
+        "gloss": "villages",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuryuḥ,",
+      "words": [
+       {
+        "w": "kuryuḥ",
+        "gloss": "should make",
+        "gram": "3 pl. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "daśa.mūlī.saṅgraheṇa-adhiṣṭhitā",
+      "words": [
+       {
+        "w": "daśa-mūlī-saṅgraheṇa",
+        "gloss": "with a collection of daśamūlī",
+        "gram": "tat-puruṣa, m. inst. sg."
+       },
+       {
+        "w": "adhiṣṭhitāḥ",
+        "gloss": "presided over",
+        "gram": "pp. m. nom. pl. adhi-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गर्मी में गाँव बाहर चूल्हा बनाएँ, अथवा दशमूली-संग्रह से अधिष्ठित रहें।",
+  "english": "In summer the villages should make an outside hearth, or [be] presided over with a collection of daśamūlī.",
+  "text_flags": [],
+  "notes": "adhiśrayaṇa (from adhi-√śri, 'placing on [the fire]') is rendered 'hearth'; a cooking-place or a fire-vessel is possible. daśa-mūlī-saṅgraha is obscure: 'collection of daśamūlī' kept literal ('ten roots' / 'a group of ten' are possible); sense not fixed. adhiṣṭhita could mean guarded, supervised or provided.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.03.3"
+  ],
+  "lines_deva": [
+   "ग्रीष्मे बहिर्.अधिश्रयणं ग्रामाः कुर्युः, दश.मूली.सङ्ग्रहेण-अधिष्ठिता वा"
+  ],
+  "lines_iast": [
+   "grīṣme bahir.adhiśrayaṇaṃ grāmāḥ kuryuḥ, daśa.mūlī.saṅgraheṇa-adhiṣṭhitā vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nāgarika.praṇidhāv",
+      "words": [
+       {
+        "w": "nāgarika-praṇidhau",
+        "gloss": "in the nāgarika-praṇidhi",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "agni.pratiṣedho",
+      "words": [
+       {
+        "w": "agni-pratiṣedhaḥ",
+        "gloss": "prevention of fire",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātaḥ,",
+      "words": [
+       {
+        "w": "vyākhyātaḥ",
+        "gloss": "is explained",
+        "gram": "pp. m. nom. sg. vi-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "niśānta.praṇidhau",
+      "words": [
+       {
+        "w": "niśānta-praṇidhau",
+        "gloss": "in the niśānta-praṇidhi",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.parigrahe",
+      "words": [
+       {
+        "w": "rāja-parigrahe",
+        "gloss": "in the king's parigraha",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नागरिक-प्रणिधि में अग्नि-प्रतिषेध की व्याख्या की गई, निशान्त-प्रणिधि में और राज-परिग्रह में।",
+  "english": "The prevention of fire is explained in the nāgarika-praṇidhi, in the niśānta-praṇidhi and in the rāja-parigraha.",
+  "text_flags": [],
+  "notes": "The three terms look like references to earlier sections (the town officer's conduct, the palace/night conduct, the royal household) but are kept as printed names; praṇidhi is not translated. parigraha (taking, possession, household) left untranslated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.4"
+  ],
+  "lines_deva": [
+   "नागरिक.प्रणिधाव् अग्नि.प्रतिषेधो व्याख्यातः, निशान्त.प्रणिधौ राज.परिग्रहे च"
+  ],
+  "lines_iast": [
+   "nāgarika.praṇidhāv agni.pratiṣedho vyākhyātaḥ, niśānta.praṇidhau rāja.parigrahe ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bali.homa.svasti.vācanaiḥ",
+      "words": [
+       {
+        "w": "bali-homa-svasti-vācanaiḥ",
+        "gloss": "with offerings, oblations, benedictions",
+        "gram": "dvandva, n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "parvasu",
+      "words": [
+       {
+        "w": "parvasu",
+        "gloss": "on festival days",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-agni.pūjāḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "agni-pūjāḥ",
+        "gloss": "worship of fire",
+        "gram": "tat-puruṣa, f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और पर्वों पर बलि, होम और स्वस्तिवाचन के साथ अग्नि-पूजा कराए।",
+  "english": "And on festival days [he] should have worship of fire performed with offerings, oblations and benedictions.",
+  "text_flags": [],
+  "notes": "parvan = festival/junction day (new and full moon etc.). Agni may be read as the fire-god; rendered 'fire'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.5"
+  ],
+  "lines_deva": [
+   "बलि.होम.स्वस्ति.वाचनैः पर्वसु च-अग्नि.पूजाः कारयेत्"
+  ],
+  "lines_iast": [
+   "bali.homa.svasti.vācanaiḥ parvasu ca-agni.pūjāḥ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varṣā.rātram",
+      "words": [
+       {
+        "w": "varṣā-rātram",
+        "gloss": "the rainy season",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ānūpa.grāmāḥ",
+      "words": [
+       {
+        "w": "ānūpa-grāmāḥ",
+        "gloss": "villages of watery land",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pūra.velām",
+      "words": [
+       {
+        "w": "pūra-velām",
+        "gloss": "flood-shore",
+        "gram": "tat-puruṣa, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "utsṛjya",
+      "words": [
+       {
+        "w": "utsṛjya",
+        "gloss": "having left",
+        "gram": "abs. ut-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "vaseyuḥ",
+      "words": [
+       {
+        "w": "vaseyuḥ",
+        "gloss": "should dwell",
+        "gram": "3 pl. opt. √vas"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वर्षा ऋतु में जलप्रधान प्रदेश के गाँव बाढ़ के तट को छोड़कर बसें।",
+  "english": "During the rainy season the villages of watery land should dwell, having left the flood-shore.",
+  "text_flags": [],
+  "notes": "ānūpa = of watery or marshy ground. pūra-velā: velā can be shore, limit or time; 'flood-shore' (the line reached by the flood) is the literal rendering, 'flood-level' possible.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.6"
+  ],
+  "lines_deva": [
+   "वर्षा.रात्रम् आनूप.ग्रामाः पूर.वेलाम् उत्सृज्य वसेयुः"
+  ],
+  "lines_iast": [
+   "varṣā.rātram ānūpa.grāmāḥ pūra.velām utsṛjya vaseyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāṣṭha.veṇu.nāvaś",
+      "words": [
+       {
+        "w": "kāṣṭha-veṇu-nāvaḥ",
+        "gloss": "timber, bamboo, boats",
+        "gram": "dvandva, f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-upagṛhṇīyuḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upagṛhṇīyuḥ",
+        "gloss": "should collect",
+        "gram": "3 pl. opt. upa-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और काष्ठ, बाँस और नावें एकत्र करें।",
+  "english": "And [they] should collect timber, bamboo and boats.",
+  "text_flags": [],
+  "notes": "upa-√grah rendered 'collect'; 'take in hand, provide' also possible.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.7"
+  ],
+  "lines_deva": [
+   "काष्ठ.वेणु.नावश् च-उपगृह्णीयुः"
+  ],
+  "lines_iast": [
+   "kāṣṭha.veṇu.nāvaś ca-upagṛhṇīyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uhyamānam",
+      "words": [
+       {
+        "w": "uhyamānam",
+        "gloss": "being carried away",
+        "gram": "pres. pass. part. √vah, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "alābu.dṛti.plava.gaṇḍikā.veṇikābhis",
+      "words": [
+       {
+        "w": "alābu-dṛti-plava-gaṇḍikā-veṇikābhiḥ",
+        "gloss": "with gourds, skin-bags, floats, gaṇḍikās, veṇikās",
+        "gram": "dvandva, f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "tārayeyuḥ",
+      "words": [
+       {
+        "w": "tārayeyuḥ",
+        "gloss": "should cause to cross",
+        "gram": "3 pl. caus. opt. √tṝ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बहते हुए को तुम्बी, मशक, बेड़े, गण्डिका और वेणिका से पार कराएँ।",
+  "english": "They should cause [one] being carried away to cross with gourds, skin-bags, floats, gaṇḍikās and veṇikās.",
+  "text_flags": [],
+  "notes": "gaṇḍikā and veṇikā are obscure here (log/trunk? bamboo-raft/bundle?) and are kept as printed. alābu = bottle-gourd, dṛti = leather bag, plava = float/raft. The participle is used as a noun; 'one' is supplied.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.8"
+  ],
+  "lines_deva": [
+   "उह्यमानम् अलाबु.दृति.प्लव.गण्डिका.वेणिकाभिस् तारयेयुः"
+  ],
+  "lines_iast": [
+   "uhyamānam alābu.dṛti.plava.gaṇḍikā.veṇikābhis tārayeyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anabhisaratāṃ",
+      "words": [
+       {
+        "w": "anabhisaratām",
+        "gloss": "of those not going toward",
+        "gram": "neg. pres. part. an-abhi-√sṛ, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa.paṇo",
+      "words": [
+       {
+        "w": "dvādaśa-paṇaḥ",
+        "gloss": "of twelve paṇas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "fine",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "plava.hīnebhyaḥ",
+      "words": [
+       {
+        "w": "plava-hīnebhyaḥ",
+        "gloss": "those without floats",
+        "gram": "tat-puruṣa, m. abl. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पास न जाने वालों के लिए बारह पण का दण्ड है; बेड़े से रहित लोगों को छोड़कर।",
+  "english": "For those who do not go toward [them], the fine is twelve paṇas, except for those without floats.",
+  "text_flags": [],
+  "notes": "abhi-√sṛ 'go toward/approach'; the object (the person carried away, unit 8) is not expressed. 'Go to the rescue' would be commentary.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.9"
+  ],
+  "lines_deva": [
+   "अनभिसरतां द्वादश.पणो दण्डः, अन्यत्र प्लव.हीनेभ्यः"
+  ],
+  "lines_iast": [
+   "anabhisaratāṃ dvādaśa.paṇo daṇḍaḥ, anyatra plava.hīnebhyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parvasu",
+      "words": [
+       {
+        "w": "parvasu",
+        "gloss": "on festival days",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nadī.pūjāḥ",
+      "words": [
+       {
+        "w": "nadī-pūjāḥ",
+        "gloss": "worship of rivers",
+        "gram": "tat-puruṣa, f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और पर्वों पर नदियों की पूजा कराए।",
+  "english": "And on festival days [he] should have worship of rivers performed.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.10"
+  ],
+  "lines_deva": [
+   "पर्वसु च नदी.पूजाः कारयेत्"
+  ],
+  "lines_iast": [
+   "parvasu ca nadī.pūjāḥ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "māyā.yogavido",
+      "words": [
+       {
+        "w": "māyā-yoga-vidaḥ",
+        "gloss": "knowers of illusion-contrivance",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vedavido",
+      "words": [
+       {
+        "w": "veda-vidaḥ",
+        "gloss": "knowers of the Veda",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varṣam",
+      "words": [
+       {
+        "w": "varṣam",
+        "gloss": "rain",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhicareyuḥ",
+      "words": [
+       {
+        "w": "abhicareyuḥ",
+        "gloss": "should perform abhicāra",
+        "gram": "3 pl. opt. abhi-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "माया-योग के जानकार अथवा वेद के जानकार वर्षा पर अभिचार करें।",
+  "english": "Those who know illusion-contrivance (māyā-yoga) or those who know the Veda should perform abhicāra upon the rain.",
+  "text_flags": [],
+  "notes": "abhi-√car is the technical verb for magical practice; 'for rain' (to bring it) is the sense in context but the Sanskrit has the accusative. māyā-yoga = contrivances/applications of illusion; yoga rendering not fixed (see glossary: contrivance vs compound). Book 4 decision: yoga in māyā-yoga = contrivance (Hindi योग), as in 4.4 mantra-yoga and 12.4; not 'compound'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.11"
+  ],
+  "lines_deva": [
+   "माया.योगविदो वेदविदो वा वर्षम् अभिचरेयुः"
+  ],
+  "lines_iast": [
+   "māyā.yogavido vedavido vā varṣam abhicareyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varṣa.avagrahe",
+      "words": [
+       {
+        "w": "varṣa-avagrahe",
+        "gloss": "when rain is withheld",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śacī.nātha.gaṅgā.parvata.mahā.kaccha.pūjāḥ",
+      "words": [
+       {
+        "w": "śacī-nātha-gaṅgā-parvata-mahā-kaccha-pūjāḥ",
+        "gloss": "worship of the lord of Shachi, the Ganga, the mountain, the Mahakaccha",
+        "gram": "dvandva + tat-puruṣa, f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वर्षा के रुक जाने पर शचीनाथ, गङ्गा, पर्वत और महाकच्छ की पूजा कराए।",
+  "english": "When rain is withheld, [he] should have worship performed of the Lord of Shachi, the Ganga, the mountain and the Mahakaccha.",
+  "text_flags": [],
+  "notes": "śacī-nātha is an epithet of Indra (lord of Śacī). mahā-kaccha: kaccha = bank, marshy ground; 'great marsh' is uncertain (could be a proper name). 'The mountain' is unspecified. Mahakaccha kept as a term in both languages; literal 'great marsh' (kaccha = marshy bank) is only a possibility, it could be a proper name.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.12"
+  ],
+  "lines_deva": [
+   "वर्ष.अवग्रहे शची.नाथ.गङ्गा.पर्वत.महा.कच्छ.पूजाः कारयेत्"
+  ],
+  "lines_iast": [
+   "varṣa.avagrahe śacī.nātha.gaṅgā.parvata.mahā.kaccha.pūjāḥ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyādhi.bhayam",
+      "words": [
+       {
+        "w": "vyādhi-bhayam",
+        "gloss": "fear of disease",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aupaniṣadikaiḥ",
+      "words": [
+       {
+        "w": "aupaniṣadikaiḥ",
+        "gloss": "upaniṣad-type",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratīkāraiḥ",
+      "words": [
+       {
+        "w": "pratīkāraiḥ",
+        "gloss": "with remedies",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratikuryuḥ,",
+      "words": [
+       {
+        "w": "pratikuryuḥ",
+        "gloss": "should counteract",
+        "gram": "3 pl. opt. prati-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "auṣadhaiś",
+      "words": [
+       {
+        "w": "auṣadhaiḥ",
+        "gloss": "with medicines",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "cikitsakāḥ",
+      "words": [
+       {
+        "w": "cikitsakāḥ",
+        "gloss": "physicians",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śānti.prāyaścittair",
+      "words": [
+       {
+        "w": "śānti-prāyaścittaiḥ",
+        "gloss": "with pacifications and expiations",
+        "gram": "dvandva, n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddha.tāpasāḥ",
+      "words": [
+       {
+        "w": "siddha-tāpasāḥ",
+        "gloss": "holy men and ascetics",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोग के भय का औपनिषदिक प्रतिकारों से प्रतिकार करें; चिकित्सक औषधियों से, अथवा सिद्ध और तापस शान्ति और प्रायश्चित्त से।",
+  "english": "[They] should counteract the fear of disease with aupaniṣadika remedies; physicians [should do so] with medicines, or holy men and ascetics with pacifications and expiations.",
+  "text_flags": [],
+  "notes": "aupaniṣadika (of the upaniṣad, 'secret' kind) kept as printed; commentators read secret or occult remedies. The verb pratikuryuḥ is shared by the three groups; the bracket marks the supplied repetition.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.13"
+  ],
+  "lines_deva": [
+   "व्याधि.भयम् औपनिषदिकैः प्रतीकारैः प्रतिकुर्युः, औषधैश् चिकित्सकाः शान्ति.प्रायश्चित्तैर् वा सिद्ध.तापसाः"
+  ],
+  "lines_iast": [
+   "vyādhi.bhayam aupaniṣadikaiḥ pratīkāraiḥ pratikuryuḥ, auṣadhaiś cikitsakāḥ śānti.prāyaścittair vā siddha.tāpasāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "marako",
+      "words": [
+       {
+        "w": "marakaḥ",
+        "gloss": "pestilence",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātaḥ",
+      "words": [
+       {
+        "w": "vyākhyātaḥ",
+        "gloss": "is explained",
+        "gram": "pp. m. nom. sg. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे महामारी की व्याख्या की गई।",
+  "english": "By that, pestilence is explained.",
+  "text_flags": [],
+  "notes": "maraka = mortality, epidemic; rendered 'pestilence'. The sense (the same remedies apply) is commentary and is not added.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.14"
+  ],
+  "lines_deva": [
+   "तेन मरको व्याख्यातः"
+  ],
+  "lines_iast": [
+   "tena marako vyākhyātaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tīrtha.abhiṣecanaṃ",
+      "words": [
+       {
+        "w": "tīrtha-abhiṣecanam",
+        "gloss": "sprinkling at holy fords",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahā.kaccha.vardhanaṃ",
+      "words": [
+       {
+        "w": "mahā-kaccha-vardhanam",
+        "gloss": "increase of the Mahakaccha",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gavāṃ",
+      "words": [
+       {
+        "w": "gavām",
+        "gloss": "of cows",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śmaśāna.avadohanaṃ",
+      "words": [
+       {
+        "w": "śmaśāna-avadohanam",
+        "gloss": "milking at the cremation ground",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kabandha.dahanaṃ",
+      "words": [
+       {
+        "w": "kabandha-dahanam",
+        "gloss": "burning of a headless trunk",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deva.rātriṃ",
+      "words": [
+       {
+        "w": "deva-rātrim",
+        "gloss": "night of the gods",
+        "gram": "tat-puruṣa, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीर्थ-अभिषेचन, महाकच्छ-वर्धन, गायों का श्मशान-दोहन, कबन्ध-दहन और देव-रात्रि कराए।",
+  "english": "[He] should have performed the sprinkling at holy fords, the increase of the Mahakaccha, the cremation-ground milking of cows, the burning of a headless trunk, and the night of the gods.",
+  "text_flags": [],
+  "notes": "All items are literal; the rites are not explained. mahā-kaccha-vardhana (as in unit 12, mahā-kaccha) is uncertain. kabandha = headless trunk (figure or corpse). deva-rātri 'night of the gods' (a night vigil?) left literal.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.03.15"
+  ],
+  "lines_deva": [
+   "तीर्थ.अभिषेचनं महा.कच्छ.वर्धनं गवां श्मशान.अवदोहनं कबन्ध.दहनं देव.रात्रिं च कारयेत्"
+  ],
+  "lines_iast": [
+   "tīrtha.abhiṣecanaṃ mahā.kaccha.vardhanaṃ gavāṃ śmaśāna.avadohanaṃ kabandha.dahanaṃ deva.rātriṃ ca kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paśu.vyādhi.marake",
+      "words": [
+       {
+        "w": "paśu-vyādhi-marake",
+        "gloss": "in a pestilence of animal disease",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthāna.artha.nīrājanaṃ",
+      "words": [
+       {
+        "w": "sthāna-artha-nīrājanam",
+        "gloss": "lustration for the place",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.daivata.pūjanaṃ",
+      "words": [
+       {
+        "w": "sva-daivata-pūjanam",
+        "gloss": "worship of one's own deity",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पशुओं के रोग की महामारी में स्थान के निमित्त नीराजन और अपने देवता की पूजा कराए।",
+  "english": "In a pestilence of animal disease, [he] should have performed the lustration (nīrājana) for the sake of the place, and the worship of [their] own deity.",
+  "text_flags": [],
+  "notes": "sthāna = place, stall or station; 'for the stall' possible. nīrājana = lustral waving of lights/ lustration of animals. sva- refers to an unstated owner; 'their' is supplied.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.16"
+  ],
+  "lines_deva": [
+   "पशु.व्याधि.मरके स्थान.अर्थ.नीराजनं स्व.दैवत.पूजनं च कारयेत्"
+  ],
+  "lines_iast": [
+   "paśu.vyādhi.marake sthāna.artha.nīrājanaṃ sva.daivata.pūjanaṃ ca kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbhikṣe",
+      "words": [
+       {
+        "w": "durbhikṣe",
+        "gloss": "in famine",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bīja.bhakta.upagrahaṃ",
+      "words": [
+       {
+        "w": "bīja-bhakta-upagraham",
+        "gloss": "provision of seed and food",
+        "gram": "dvandva + tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā-anugrahaṃ",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having made",
+        "gram": "abs. √kṛ"
+       },
+       {
+        "w": "anugraham",
+        "gloss": "favour",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt,",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should do",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "durga.setu.karma",
+      "words": [
+       {
+        "w": "durga-setu-karma",
+        "gloss": "work on forts and embankments",
+        "gram": "dvandva + tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhakta.anugraheṇa,",
+      "words": [
+       {
+        "w": "bhakta-anugraheṇa",
+        "gloss": "through the favour of food",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhakta.saṃvibhāgaṃ",
+      "words": [
+       {
+        "w": "bhakta-saṃvibhāgam",
+        "gloss": "sharing out of food",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deśa.nikṣepaṃ",
+      "words": [
+       {
+        "w": "deśa-nikṣepam",
+        "gloss": "depositing in a region",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अकाल में राजा बीज और भोजन का प्रबन्ध करके अनुग्रह करे, अथवा भोजन के अनुग्रह से दुर्ग और सेतु का कर्म करे, अथवा भोजन का बँटवारा करे, अथवा प्रदेश में निक्षेप करे।",
+  "english": "In famine the king, having made provision of seed and food, should do a favour; or the work on forts and embankments through the favour of food; or a sharing out of food; or depositing in a region.",
+  "text_flags": [],
+  "notes": "All the accusatives are taken with kuryāt. upagraha = taking up, support, provision. deśa-nikṣepa literal ('placing in a region'); commentators read it as settling people elsewhere; not applied.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.17"
+  ],
+  "lines_deva": [
+   "दुर्भिक्षे राजा बीज.भक्त.उपग्रहं कृत्वा-अनुग्रहं कुर्यात्, दुर्ग.सेतु.कर्म वा भक्त.अनुग्रहेण, भक्त.संविभागं वा, देश.निक्षेपं वा"
+  ],
+  "lines_iast": [
+   "durbhikṣe rājā bīja.bhakta.upagrahaṃ kṛtvā-anugrahaṃ kuryāt, durga.setu.karma vā bhakta.anugraheṇa, bhakta.saṃvibhāgaṃ vā, deśa.nikṣepaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitrāṇi",
+      "words": [
+       {
+        "w": "mitrāṇi",
+        "gloss": "allies",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyapāśrayeta,",
+      "words": [
+       {
+        "w": "vyapāśrayeta",
+        "gloss": "should take refuge in",
+        "gram": "3 sg. opt. mid. vi-apa-ā-√śri"
+       }
+      ]
+     },
+     {
+      "src": "karśanaṃ",
+      "words": [
+       {
+        "w": "karśanam",
+        "gloss": "weakening",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vamanaṃ",
+      "words": [
+       {
+        "w": "vamanam",
+        "gloss": "vomiting",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should do",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा मित्रों का आश्रय ले, या क्षीण करने अथवा वमन की क्रिया करे।",
+  "english": "Or [he] should take refuge with allies, or do weakening or vomiting.",
+  "text_flags": [],
+  "notes": "karśana and vamana kept literal as in the glossary; in this context commentators take them as thinning out and sending away of people (not applied). Subject not expressed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.18"
+  ],
+  "lines_deva": [
+   "मित्राणि वा व्यपाश्रयेत, कर्शनं वमनं वा कुर्यात्"
+  ],
+  "lines_iast": [
+   "mitrāṇi vā vyapāśrayeta, karśanaṃ vamanaṃ vā kuryāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "niṣpanna.sasyam",
+      "words": [
+       {
+        "w": "niṣpanna-sasyam",
+        "gloss": "with crops ripened",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anya.viṣayaṃ",
+      "words": [
+       {
+        "w": "anya-viṣayam",
+        "gloss": "another territory",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sajana.pado",
+      "words": [
+       {
+        "w": "sa-jana-padaḥ",
+        "gloss": "together with the country",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāyāt,",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should go",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     },
+     {
+      "src": "samudra.saras.taṭākāni",
+      "words": [
+       {
+        "w": "samudra-saras-taṭākāni",
+        "gloss": "sea, lakes, tanks",
+        "gram": "dvandva, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃśrayeta",
+      "words": [
+       {
+        "w": "saṃśrayeta",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. mid. sam-√śri"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा पके हुए अन्न वाले दूसरे प्रदेश को जनपद सहित जाए, अथवा समुद्र, सरोवर और तालाबों का आश्रय ले।",
+  "english": "Or [he], together with the country, should go to another territory with ripened crops, or should resort to the sea, lakes and tanks.",
+  "text_flags": [],
+  "notes": "Alternative: niṣpanna-sasyam could stand alone ('a place with ripe crops') beside anya-viṣayam ('or another territory'). sa-jana-pada: jana-pada here is the people of the country; the king is the understood subject.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.19"
+  ],
+  "lines_deva": [
+   "निष्पन्न.सस्यम् अन्य.विषयं वा सजन.पदो यायात्, समुद्र.सरस्.तटाकानि वा संश्रयेत"
+  ],
+  "lines_iast": [
+   "niṣpanna.sasyam anya.viṣayaṃ vā sajana.pado yāyāt, samudra.saras.taṭākāni vā saṃśrayeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhānya.śāka.mūla.phala.āvāpān",
+      "words": [
+       {
+        "w": "dhānya-śāka-mūla-phala-āvāpān",
+        "gloss": "sowings of grain, vegetables, roots, fruits",
+        "gram": "dvandva + tat-puruṣa, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "setuṣu",
+      "words": [
+       {
+        "w": "setuṣu",
+        "gloss": "on the embankments",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kurvīta,",
+      "words": [
+       {
+        "w": "kurvīta",
+        "gloss": "should make",
+        "gram": "3 sg. opt. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "mṛga.paśu.pakṣi.vyāla.matsya.ārambhān",
+      "words": [
+       {
+        "w": "mṛga-paśu-pakṣi-vyāla-matsya-ārambhān",
+        "gloss": "undertakings of game, cattle, birds, beasts of prey, fish",
+        "gram": "dvandva + tat-puruṣa, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा सेतुओं पर अन्न, शाक, मूल और फल की बुवाई करे, अथवा मृग, पशु, पक्षी, हिंस्र पशु और मत्स्य के उद्यम करे।",
+  "english": "Or [he] should make sowings of grain, vegetables, roots and fruits on the embankments, or undertakings of game, cattle, birds, beasts of prey and fish.",
+  "text_flags": [],
+  "notes": "āvāpa is the plain sowing/planting sense (not the 9.2/10.5 military sense of the glossary). ārambha = undertaking, start (rearing/stocking is commentary). vyāla in this list may mean snakes or beasts of prey.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.20"
+  ],
+  "lines_deva": [
+   "धान्य.शाक.मूल.फल.आवापान् वा सेतुषु कुर्वीत, मृग.पशु.पक्षि.व्याल.मत्स्य.आरम्भान् वा"
+  ],
+  "lines_iast": [
+   "dhānya.śāka.mūla.phala.āvāpān vā setuṣu kurvīta, mṛga.paśu.pakṣi.vyāla.matsya.ārambhān vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūṣika.bhaye",
+      "words": [
+       {
+        "w": "mūṣika-bhaye",
+        "gloss": "in fear of rats",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mārjāra.nakula.utsargaḥ",
+      "words": [
+       {
+        "w": "mārjāra-nakula-utsargaḥ",
+        "gloss": "release of cats and mongooses",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चूहों के भय में बिल्लियों और नेवलों को छोड़ना।",
+  "english": "In fear of rats: the release of cats and mongooses.",
+  "text_flags": [],
+  "notes": "Nominal sentence; no copula supplied.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.21"
+  ],
+  "lines_deva": [
+   "मूषिक.भये मार्जार.नकुल.उत्सर्गः"
+  ],
+  "lines_iast": [
+   "mūṣika.bhaye mārjāra.nakula.utsargaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "grahaṇa.hiṃsāyāṃ",
+      "words": [
+       {
+        "w": "grahaṇa-hiṃsāyām",
+        "gloss": "in capturing and injuring",
+        "gram": "dvandva, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa.paṇo",
+      "words": [
+       {
+        "w": "dvādaśa-paṇaḥ",
+        "gloss": "of twelve paṇas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "fine",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śunām",
+      "words": [
+       {
+        "w": "śunām",
+        "gloss": "of dogs",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anigrahe",
+      "words": [
+       {
+        "w": "anigrahe",
+        "gloss": "in non-restraint",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-anyatra-araṇya.carebhyaḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       },
+       {
+        "w": "araṇya-carebhyaḥ",
+        "gloss": "forest-roamers",
+        "gram": "tat-puruṣa, m. abl. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके पकड़ने और चोट पहुँचाने में बारह पण का दण्ड है, और कुत्तों को न रोकने में, जंगल में घूमने वालों को छोड़कर।",
+  "english": "In the capture and injury of them the fine is twelve paṇas, and in the non-restraint of dogs, except for forest-roamers.",
+  "text_flags": [],
+  "notes": "The fine of the first clause is understood for the dogs clause too. araṇya-cara may refer to dogs (hunting dogs) or to persons; literal 'forest-roamers' kept. teṣām = the cats and mongooses of unit 21.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.22"
+  ],
+  "lines_deva": [
+   "तेषां ग्रहण.हिंसायां द्वादश.पणो दण्डः, शुनाम् अनिग्रहे च-अन्यत्र-अरण्य.चरेभ्यः"
+  ],
+  "lines_iast": [
+   "teṣāṃ grahaṇa.hiṃsāyāṃ dvādaśa.paṇo daṇḍaḥ, śunām anigrahe ca-anyatra-araṇya.carebhyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "snuhi.kṣīra.liptāni",
+      "words": [
+       {
+        "w": "snuhi-kṣīra-liptāni",
+        "gloss": "smeared with snuhi milk",
+        "gram": "tat-puruṣa, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhānyāni",
+      "words": [
+       {
+        "w": "dhānyāni",
+        "gloss": "grains",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "visṛjed,",
+      "words": [
+       {
+        "w": "visṛjet",
+        "gloss": "should put out",
+        "gram": "3 sg. opt. vi-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "upaniṣad.yoga.yuktāni",
+      "words": [
+       {
+        "w": "upaniṣad-yoga-yuktāni",
+        "gloss": "joined with upaniṣad-contrivance",
+        "gram": "tat-puruṣa, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्नुहि के दूध से लिपे अनाज डाल दे, अथवा उपनिषद्-योग से युक्त।",
+  "english": "[He] should put out grains smeared with snuhi milk, or joined with upaniṣad-contrivance.",
+  "text_flags": [],
+  "notes": "snuhi is a plant name, not identified. vi-√sṛj literally 'let go, release, scatter'. upaniṣad-yoga: yoga rendering (contrivance vs compound) is a glossary decision pending; 'joined with' is literal for yukta. Book 4 decision: yoga in upaniṣad-yoga = contrivance (Hindi योग), as māyā-yoga in unit 11.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.23"
+  ],
+  "lines_deva": [
+   "स्नुहि.क्षीर.लिप्तानि धान्यानि विसृजेद्, उपनिषद्.योग.युक्तानि वा"
+  ],
+  "lines_iast": [
+   "snuhi.kṣīra.liptāni dhānyāni visṛjed, upaniṣad.yoga.yuktāni vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mūṣika.karaṃ",
+      "words": [
+       {
+        "w": "mūṣika-karam",
+        "gloss": "mūṣika-kara",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा मूषिक-कर का प्रयोग करे।",
+  "english": "Or [he] should employ the mūṣika-kara.",
+  "text_flags": [],
+  "notes": "mūṣika-kara is obscure and kept as printed: kara may be 'hand', 'maker/doer' or 'tax'; a thing or a person that acts on rats is likely but not certain.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.03.24"
+  ],
+  "lines_deva": [
+   "मूषिक.करं वा प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "mūṣika.karaṃ vā prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śāntiṃ",
+      "words": [
+       {
+        "w": "śāntim",
+        "gloss": "pacification",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddha.tāpasāḥ",
+      "words": [
+       {
+        "w": "siddha-tāpasāḥ",
+        "gloss": "holy men and ascetics",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuryuḥ",
+      "words": [
+       {
+        "w": "kuryuḥ",
+        "gloss": "should perform",
+        "gram": "3 pl. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा सिद्ध और तापस शान्ति करें।",
+  "english": "Or holy men and ascetics should perform a pacification.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.25"
+  ],
+  "lines_deva": [
+   "शान्तिं वा सिद्ध.तापसाः कुर्युः"
+  ],
+  "lines_iast": [
+   "śāntiṃ vā siddha.tāpasāḥ kuryuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parvasu",
+      "words": [
+       {
+        "w": "parvasu",
+        "gloss": "on festival days",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mūṣika.pūjāḥ",
+      "words": [
+       {
+        "w": "mūṣika-pūjāḥ",
+        "gloss": "worship of rats",
+        "gram": "tat-puruṣa, f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और पर्वों पर चूहों की पूजा कराए।",
+  "english": "And on festival days [he] should have worship of rats performed.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.26"
+  ],
+  "lines_deva": [
+   "पर्वसु च मूषिक.पूजाः कारयेत्"
+  ],
+  "lines_iast": [
+   "parvasu ca mūṣika.pūjāḥ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śalabha.pakṣi.krimi.bhaya.pratīkārā",
+      "words": [
+       {
+        "w": "śalabha-pakṣi-krimi-bhaya-pratīkārāḥ",
+        "gloss": "remedies for fear of locusts, birds, worms",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "are explained",
+        "gram": "pp. m. nom. pl. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे टिड्डी, पक्षी और कृमि के भय के प्रतिकारों की व्याख्या की गई।",
+  "english": "By that, the remedies for fear of locusts, birds and worms are explained.",
+  "text_flags": [],
+  "notes": "śalabha = locust (also moth/grasshopper); krimi = worm, insect.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.27"
+  ],
+  "lines_deva": [
+   "तेन शलभ.पक्षि.क्रिमि.भय.प्रतीकारा व्याख्याताः"
+  ],
+  "lines_iast": [
+   "tena śalabha.pakṣi.krimi.bhaya.pratīkārā vyākhyātāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyāla.bhaye",
+      "words": [
+       {
+        "w": "vyāla-bhaye",
+        "gloss": "in fear of beasts of prey",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madana.rasa.yuktāni",
+      "words": [
+       {
+        "w": "madana-rasa-yuktāni",
+        "gloss": "joined with madana poison",
+        "gram": "tat-puruṣa, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "paśu.śavāni",
+      "words": [
+       {
+        "w": "paśu-śavāni",
+        "gloss": "carcasses of animals",
+        "gram": "tat-puruṣa, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prasṛjet,",
+      "words": [
+       {
+        "w": "prasṛjet",
+        "gloss": "should send out",
+        "gram": "3 sg. opt. pra-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "madana.kodrava.pūrṇāny",
+      "words": [
+       {
+        "w": "madana-kodrava-pūrṇāni",
+        "gloss": "filled with madana and kodrava",
+        "gram": "dvandva + tat-puruṣa, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "audaryāṇi",
+      "words": [
+       {
+        "w": "audaryāṇi",
+        "gloss": "belly-[things]",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हिंस्र पशुओं के भय में मदन के विष से युक्त पशुओं के शव छोड़े, अथवा मदन और कोद्रव से भरे औदर्य।",
+  "english": "In fear of beasts of prey, [he] should send out animal carcasses joined with madana poison, or audarya [things] filled with madana and kodrava.",
+  "text_flags": [],
+  "notes": "madana is a plant name and kodrava a grain name, neither identified. rasa could be juice or poison; 'juice' is literal. audarya (of the belly) is obscure; the noun is not supplied by the text, 'things' is bracketed. madana-rasa = madana poison, aligned with 4.5; 'juice' is the literal sense of rasa.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.28"
+  ],
+  "lines_deva": [
+   "व्याल.भये मदन.रस.युक्तानि पशु.शवानि प्रसृजेत्, मदन.कोद्रव.पूर्णान्य् औदर्याणि वा"
+  ],
+  "lines_iast": [
+   "vyāla.bhaye madana.rasa.yuktāni paśu.śavāni prasṛjet, madana.kodrava.pūrṇāny audaryāṇi vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lubdhakāḥ",
+      "words": [
+       {
+        "w": "lubdhakāḥ",
+        "gloss": "hunters",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śva.gaṇino",
+      "words": [
+       {
+        "w": "śva-gaṇinaḥ",
+        "gloss": "owners of dog-packs",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kūṭa.pañjara.avapātaiś",
+      "words": [
+       {
+        "w": "kūṭa-pañjara-avapātaiḥ",
+        "gloss": "with traps, cages and pitfalls",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "careyuḥ",
+      "words": [
+       {
+        "w": "careyuḥ",
+        "gloss": "should go about",
+        "gram": "3 pl. opt. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिकारी अथवा कुत्तों के झुंड वाले फन्दों, पिंजरों और गड्ढों से विचरें।",
+  "english": "Hunters or those with packs of dogs should go about with traps, cages and pitfalls.",
+  "text_flags": [],
+  "notes": "√car with the instrumental: 'operate with'. kūṭa = trap, snare (sense medium).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.29"
+  ],
+  "lines_deva": [
+   "लुब्धकाः श्व.गणिनो वा कूट.पञ्जर.अवपातैश् चरेयुः"
+  ],
+  "lines_iast": [
+   "lubdhakāḥ śva.gaṇino vā kūṭa.pañjara.avapātaiś careyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āvaraṇinaḥ",
+      "words": [
+       {
+        "w": "āvaraṇinaḥ",
+        "gloss": "those with a covering",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śastra.pāṇayo",
+      "words": [
+       {
+        "w": "śastra-pāṇayaḥ",
+        "gloss": "weapon in hand",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyālān",
+      "words": [
+       {
+        "w": "vyālān",
+        "gloss": "beasts of prey",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhihanyuḥ",
+      "words": [
+       {
+        "w": "abhihanyuḥ",
+        "gloss": "should strike",
+        "gram": "3 pl. opt. abhi-√han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आवरण वाले, हाथ में शस्त्र लिए हुए, हिंस्र पशुओं पर प्रहार करें।",
+  "english": "Those with a covering [and] weapons in hand should strike the beasts of prey.",
+  "text_flags": [],
+  "notes": "āvaraṇin = having a covering, i.e. armoured/shielded; kept literal.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.30"
+  ],
+  "lines_deva": [
+   "आवरणिनः शस्त्र.पाणयो व्यालान् अभिहन्युः"
+  ],
+  "lines_iast": [
+   "āvaraṇinaḥ śastra.pāṇayo vyālān abhihanyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anabhisartur",
+      "words": [
+       {
+        "w": "anabhisartuḥ",
+        "gloss": "of one not going toward",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa.paṇo",
+      "words": [
+       {
+        "w": "dvādaśa-paṇaḥ",
+        "gloss": "of twelve paṇas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "fine",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो पास नहीं जाता उसका बारह पण का दण्ड है।",
+  "english": "The fine of one who does not go toward [them] is twelve paṇas.",
+  "text_flags": [],
+  "notes": "As in unit 9; the object is not expressed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.31"
+  ],
+  "lines_deva": [
+   "अनभिसर्तुर् द्वादश.पणो दण्डः"
+  ],
+  "lines_iast": [
+   "anabhisartur dvādaśa.paṇo daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "same",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lābho",
+      "words": [
+       {
+        "w": "lābhaḥ",
+        "gloss": "gain",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyāla.ghātinaḥ",
+      "words": [
+       {
+        "w": "vyāla-ghātinaḥ",
+        "gloss": "of the killer of beasts of prey",
+        "gram": "tat-puruṣa, m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही लाभ हिंस्र पशु को मारने वाले का है।",
+  "english": "That same is the gain of the killer of beasts of prey.",
+  "text_flags": [],
+  "notes": "'That' is most naturally the twelve paṇas of the previous unit (commentary reading, not added).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.32"
+  ],
+  "lines_deva": [
+   "स एव लाभो व्याल.घातिनः"
+  ],
+  "lines_iast": [
+   "sa eva lābho vyāla.ghātinaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parvasu",
+      "words": [
+       {
+        "w": "parvasu",
+        "gloss": "on festival days",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parvata.pūjāḥ",
+      "words": [
+       {
+        "w": "parvata-pūjāḥ",
+        "gloss": "worship of the mountain",
+        "gram": "tat-puruṣa, f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और पर्वों पर पर्वत की पूजा कराए।",
+  "english": "And on festival days [he] should have worship of the mountain performed.",
+  "text_flags": [],
+  "notes": "parvata may be plural 'mountains' in sense; no number is marked in the compound.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.33"
+  ],
+  "lines_deva": [
+   "पर्वसु च पर्वत.पूजाः कारयेत्"
+  ],
+  "lines_iast": [
+   "parvasu ca parvata.pūjāḥ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛga.paśu.pakṣi.saṅgha.grāha.pratīkārā",
+      "words": [
+       {
+        "w": "mṛga-paśu-pakṣi-saṅgha-grāha-pratīkārāḥ",
+        "gloss": "remedies for the seizing of herds of game, cattle, birds",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "are explained",
+        "gram": "pp. m. nom. pl. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे मृग, पशु और पक्षियों के झुंडों के पकड़ने के प्रतिकारों की व्याख्या की गई।",
+  "english": "By that, the remedies for the seizing of herds of game, cattle and birds are explained.",
+  "text_flags": [],
+  "notes": "The compound is ambiguous: saṅgha = herd/flock (not the political saṅgha); grāha = seizing, capture (also crocodile; seizing by or of the herds is unclear). Rendered literally.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.03.34"
+  ],
+  "lines_deva": [
+   "तेन मृग.पशु.पक्षि.सङ्घ.ग्राह.प्रतीकारा व्याख्याताः"
+  ],
+  "lines_iast": [
+   "tena mṛga.paśu.pakṣi.saṅgha.grāha.pratīkārā vyākhyātāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarpa.bhaye",
+      "words": [
+       {
+        "w": "sarpa-bhaye",
+        "gloss": "in fear of snakes",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantrair",
+      "words": [
+       {
+        "w": "mantraiḥ",
+        "gloss": "with mantras",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "oṣadhibhiś",
+      "words": [
+       {
+        "w": "oṣadhibhiḥ",
+        "gloss": "with herbs",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jāṅgulīvidaś",
+      "words": [
+       {
+        "w": "jāṅgulī-vidaḥ",
+        "gloss": "knowers of jāṅgulī",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "careyuḥ",
+      "words": [
+       {
+        "w": "careyuḥ",
+        "gloss": "should go about",
+        "gram": "3 pl. opt. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सर्पों के भय में जाङ्गुली के जानकार मन्त्रों और औषधियों से विचरें।",
+  "english": "In fear of snakes, those who know jāṅgulī should go about with mantras and herbs.",
+  "text_flags": [],
+  "notes": "jāṅgulī is the lore of poisons (snake-poison) and is kept as printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.35"
+  ],
+  "lines_deva": [
+   "सर्प.भये मन्त्रैर् ओषधिभिश् च जाङ्गुलीविदश् चरेयुः"
+  ],
+  "lines_iast": [
+   "sarpa.bhaye mantrair oṣadhibhiś ca jāṅgulīvidaś careyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sambhūya",
+      "words": [
+       {
+        "w": "sambhūya",
+        "gloss": "having come together",
+        "gram": "abs. sam-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "vā-api",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarpān",
+      "words": [
+       {
+        "w": "sarpān",
+        "gloss": "snakes",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "hanyuḥ",
+      "words": [
+       {
+        "w": "hanyuḥ",
+        "gloss": "should kill",
+        "gram": "3 pl. opt. √han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा मिलकर साँपों को भी मारें।",
+  "english": "Or, having come together, they should even kill the snakes.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.36"
+  ],
+  "lines_deva": [
+   "सम्भूय वा-अपि सर्पान् हन्युः"
+  ],
+  "lines_iast": [
+   "sambhūya vā-api sarpān hanyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atharva.vedavido",
+      "words": [
+       {
+        "w": "atharva-veda-vidaḥ",
+        "gloss": "knowers of the Atharvaveda",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā-abhicareyuḥ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "abhicareyuḥ",
+        "gloss": "should perform abhicāra",
+        "gram": "3 pl. opt. abhi-√car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा अथर्ववेद के जानकार अभिचार करें।",
+  "english": "Or those who know the Atharvaveda should perform abhicāra.",
+  "text_flags": [],
+  "notes": "abhi-√car without object, as in unit 11, rendered 'perform abhicāra' (magical practice).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.37"
+  ],
+  "lines_deva": [
+   "अथर्व.वेदविदो वा-अभिचरेयुः"
+  ],
+  "lines_iast": [
+   "atharva.vedavido vā-abhicareyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parvasu",
+      "words": [
+       {
+        "w": "parvasu",
+        "gloss": "on festival days",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nāga.pūjāḥ",
+      "words": [
+       {
+        "w": "nāga-pūjāḥ",
+        "gloss": "worship of Nagas",
+        "gram": "tat-puruṣa, f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और पर्वों पर नागों की पूजा कराए।",
+  "english": "And on festival days [he] should have worship of Nagas performed.",
+  "text_flags": [],
+  "notes": "nāga here = serpent (-deities), in the snake context; elephant is not meant.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.38"
+  ],
+  "lines_deva": [
+   "पर्वसु च नाग.पूजाः कारयेत्"
+  ],
+  "lines_iast": [
+   "parvasu ca nāga.pūjāḥ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena-udaka.prāṇi.bhaya.pratīkārā",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "udaka-prāṇi-bhaya-pratīkārāḥ",
+        "gloss": "remedies for fear of water-creatures",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "are explained",
+        "gram": "pp. m. nom. pl. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे जल के प्राणियों के भय के प्रतिकारों की व्याख्या की गई।",
+  "english": "By that, the remedies for fear of creatures of the water are explained.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.39"
+  ],
+  "lines_deva": [
+   "तेन-उदक.प्राणि.भय.प्रतीकारा व्याख्याताः"
+  ],
+  "lines_iast": [
+   "tena-udaka.prāṇi.bhaya.pratīkārā vyākhyātāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rakṣo.bhaye",
+      "words": [
+       {
+        "w": "rakṣas-bhaye",
+        "gloss": "in fear of demons",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣo.ghnāny",
+      "words": [
+       {
+        "w": "rakṣas-ghnāni",
+        "gloss": "demon-destroying",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "atharva.vedavido",
+      "words": [
+       {
+        "w": "atharva-veda-vidaḥ",
+        "gloss": "knowers of the Atharvaveda",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "māyā.yogavido",
+      "words": [
+       {
+        "w": "māyā-yoga-vidaḥ",
+        "gloss": "knowers of illusion-contrivance",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karmāṇi",
+      "words": [
+       {
+        "w": "karmāṇi",
+        "gloss": "actions",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuryuḥ",
+      "words": [
+       {
+        "w": "kuryuḥ",
+        "gloss": "should perform",
+        "gram": "3 pl. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "राक्षसों के भय में अथर्ववेद के जानकार अथवा माया-योग के जानकार राक्षस-नाशक कर्म करें।",
+  "english": "In fear of demons, those who know the Atharvaveda or those who know illusion-contrivance (māyā-yoga) should perform demon-destroying actions.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.40"
+  ],
+  "lines_deva": [
+   "रक्षो.भये रक्षो.घ्नान्य् अथर्व.वेदविदो माया.योगविदो वा कर्माणि कुर्युः"
+  ],
+  "lines_iast": [
+   "rakṣo.bhaye rakṣo.ghnāny atharva.vedavido māyā.yogavido vā karmāṇi kuryuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parvasu",
+      "words": [
+       {
+        "w": "parvasu",
+        "gloss": "on festival days",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vitardic.chatra.ullopikā.hasta.patākāc.chāga.upahāraiś",
+      "words": [
+       {
+        "w": "vitardi-chatra-ullopikā-hasta-patākā-chāga-upahāraiḥ",
+        "gloss": "with platforms, parasols, ullopikās, hand-banners, goat-offerings",
+        "gram": "dvandva + tat-puruṣa, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "caitya.pūjāḥ",
+      "words": [
+       {
+        "w": "caitya-pūjāḥ",
+        "gloss": "worship of caityas",
+        "gram": "tat-puruṣa, f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have performed",
+        "gram": "3 sg. caus. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और पर्वों पर वितर्दि, छत्र, उल्लोपिका, हस्त-पताका और छाग-उपहारों से चैत्य-पूजा कराए।",
+  "english": "And on festival days [he] should have worship of caityas performed with platforms, parasols, ullopikās, hand-banners and goat-offerings.",
+  "text_flags": [],
+  "notes": "ullopikā is obscure and kept as printed. 'hand-banners' (hasta-patākā) could also divide differently (e.g. ullopikā-hasta, patākā). vitardi = raised platform or terrace. caitya kept untranslated (glossary). In the e-text vitardic.chatra and patākāc.chāga carry the sandhi consonant.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "04.03.41"
+  ],
+  "lines_deva": [
+   "पर्वसु च वितर्दिच्.छत्र.उल्लोपिका.हस्त.पताकाच्.छाग.उपहारैश् चैत्य.पूजाः कारयेत्"
+  ],
+  "lines_iast": [
+   "parvasu ca vitardic.chatra.ullopikā.hasta.patākāc.chāga.upahāraiś caitya.pūjāḥ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"caruṃ",
+      "words": [
+       {
+        "w": "carum",
+        "gloss": "caru",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaś",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "for you",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "carāmaḥ\"",
+      "words": [
+       {
+        "w": "carāmaḥ",
+        "gloss": "we perform",
+        "gram": "1 pl. pres. √car"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "in this manner",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarva.bhayeṣv",
+      "words": [
+       {
+        "w": "sarva-bhayeṣu",
+        "gloss": "in all fears",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "aho.rātraṃ",
+      "words": [
+       {
+        "w": "aho-rātram",
+        "gloss": "day and night",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "careyuḥ",
+      "words": [
+       {
+        "w": "careyuḥ",
+        "gloss": "should perform",
+        "gram": "3 pl. opt. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सब भयों में दिन-रात ऐसे करें: “हम तुम्हारे लिए चरु करते हैं।”",
+  "english": "In all fears they should perform, day and night, in this manner: “We perform a caru for you.”",
+  "text_flags": [],
+  "notes": "The quotation opens and closes in the e-text. caru is an oblation of boiled grain, kept as caru; the verb √car 'perform' is the same in the formula and in careyuḥ. vaḥ may be dative ('for you') or genitive ('your caru'). Closing iti is not rendered.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "04.03.42"
+  ],
+  "lines_deva": [
+   "\"चरुं वश् चरामः\" इत्य् एवं सर्व.भयेष्व् अहो.रात्रं चरेयुः"
+  ],
+  "lines_iast": [
+   "\"caruṃ vaś carāmaḥ\" ity evaṃ sarva.bhayeṣv aho.rātraṃ careyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvatra",
+      "words": [
+       {
+        "w": "sarvatra",
+        "gloss": "everywhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca-upahatān",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upahatān",
+        "gloss": "afflicted",
+        "gram": "pp. upa-√han, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pitā-iva-anugṛhṇīyāt",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "anugṛhṇīyāt",
+        "gloss": "should favour",
+        "gram": "3 sg. opt. anu-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और सब जगह पीड़ितों पर पिता की भाँति अनुग्रह करे।",
+  "english": "And everywhere [he] should favour the afflicted like a father.",
+  "text_flags": [],
+  "notes": "upahata = struck, afflicted (by the calamities above).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.43"
+  ],
+  "lines_deva": [
+   "सर्वत्र च-उपहतान् पिता-इव-अनुगृह्णीयात्"
+  ],
+  "lines_iast": [
+   "sarvatra ca-upahatān pitā-iva-anugṛhṇīyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "māyā.yogavidas",
+      "words": [
+       {
+        "w": "māyā-yoga-vidaḥ",
+        "gloss": "knowers of illusion-contrivance",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tasmād",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viṣaye",
+      "words": [
+       {
+        "w": "viṣaye",
+        "gloss": "in the territory",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddha.tāpasāḥ",
+      "words": [
+       {
+        "w": "siddha-tāpasāḥ",
+        "gloss": "holy men and ascetics",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vaseyuḥ",
+      "words": [
+       {
+        "w": "vaseyuḥ",
+        "gloss": "should dwell",
+        "gram": "3 pl. opt. √vas"
+       }
+      ]
+     },
+     {
+      "src": "pūjitā",
+      "words": [
+       {
+        "w": "pūjitāḥ",
+        "gloss": "honoured",
+        "gram": "pp. m. nom. pl. √pūj"
+       }
+      ]
+     },
+     {
+      "src": "rājñā",
+      "words": [
+       {
+        "w": "rājñā",
+        "gloss": "by the king",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "daiva.āpat.pratikāriṇaḥ",
+      "words": [
+       {
+        "w": "daiva-āpat-pratikāriṇaḥ",
+        "gloss": "counteracting divine adversity",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए प्रदेश में माया-योग के जानकार, सिद्ध और तापस राजा से पूजित होकर दैव आपत्ति का प्रतिकार करते हुए बसें।",
+  "english": "Therefore, in the territory, those who know illusion-contrivance (māyā-yoga), holy men and ascetics should dwell, honoured by the king, counteracting adversity from the divine.",
+  "text_flags": [],
+  "notes": "Closing verse (anuṣṭubh) of the chapter. The e-text leaves daiva.āpat unjoined (daivāpat in print).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "04.03.44a",
+   "04.03.44b"
+  ],
+  "lines_deva": [
+   "माया.योगविदस् तस्माद् विषये सिद्ध.तापसाः",
+   "वसेयुः पूजिता राज्ञा दैव.आपत्.प्रतिकारिणः"
+  ],
+  "lines_iast": [
+   "māyā.yogavidas tasmād viṣaye siddha.tāpasāḥ",
+   "vaseyuḥ pūjitā rājñā daiva.āpat.pratikāriṇaḥ"
+  ],
+  "uncertain": []
+ }
+]
