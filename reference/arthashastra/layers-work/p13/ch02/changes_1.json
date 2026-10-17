@@ -1,0 +1,434 @@
+[
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "vṛṣīṣva",
+  "old": "(editors' doubtful variant of vṛṇīṣva)",
+  "new": "(editors' doubtful alternative reading, same word as the preceding vṛṇīṣva)",
+  "why": "reviewer (minor): w must carry the corrected, real form (LAYER_NOTES 2): vṛṣīṣva is not a Sanskrit form; the editors' doubtful reading is kept in src and the flag, the word is vṛṇīṣva"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "vṛṣīṣva",
+  "old": "vṛṣīṣva",
+  "new": "vṛṇīṣva",
+  "why": "reviewer (minor): w must carry the corrected, real form (LAYER_NOTES 2): vṛṣīṣva is not a Sanskrit form; the editors' doubtful reading is kept in src and the flag, the word is vṛṇīṣva"
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "kathayet",
+  "old": "3 sg. caus. opt. √kath",
+  "new": "3 sg. opt. (10th class) √kath",
+  "why": "reviewer (minor): kath (kathayati) is a 10th-class verb, not a causative"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "prahavaṇa is obscure (some kind of festive gathering); kept untranslated. prekṣā = spectacle, show. dāra is normally plural; here the singular is taken as 'wife (and family)' in the literal 'son and wife'.",
+  "new": "prahavaṇa is obscure and its sense is not settled; kept untranslated. prekṣā = spectacle, show. dāra is normally plural; the bahuvrīhi saputra-dāra is singular and is rendered literally 'together with son and wife'.",
+  "why": "reviewer (minor): 'some kind of festive gathering' is an invented sense for an obscure word; also the dāra remark is muddled"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "sthānika-vyañjanaḥ",
+  "old": "tat-puruṣa, m. nom. sg.",
+  "new": "bahuvrīhi (internal tat-puruṣa), m. nom. sg.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "kathayet",
+  "old": "3 sg. caus. opt. √kath",
+  "new": "3 sg. opt. (10th class) √kath",
+  "why": "reviewer (minor): 10th-class verb, not causative"
+ },
+ {
+  "n": "9",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): confidence 'high' although the draft's own note says nāga may be 'elephant' here"
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "sthānika-vyañjanam",
+  "old": "tat-puruṣa, m. acc. sg.",
+  "new": "bahuvrīhi (internal tat-puruṣa), m. acc. sg.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "kathayeyuḥ",
+  "old": "3 pl. caus. opt. √kath",
+  "new": "3 pl. opt. (10th class) √kath",
+  "why": "reviewer (minor): 10th-class verb, not causative"
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "siddha-vyañjanaḥ",
+  "old": "tat-puruṣa, m. nom. sg.",
+  "new": "bahuvrīhi (internal tat-puruṣa), m. nom. sg.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "jambhaka-vidyā is kept literal ('jambhaka lores'); vidyā is not rendered 'spells'.",
+  "new": "jambhaka-vidyā is kept literal ('jambhaka sciences'); jambhaka is obscure and vidyā is not rendered 'spells'.",
+  "why": "reviewer (minor): note says 'jambhaka lores' but the English says 'jambhaka sciences'"
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "siddha-vyañjanaḥ",
+  "old": "tat-puruṣa, m. nom. sg.",
+  "new": "bahuvrīhi (internal tat-puruṣa), m. nom. sg.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "prahavaṇaiḥ",
+  "old": "n. inst. pl.",
+  "new": "inst. pl. (m. or n.; gender not determinable)",
+  "why": "reviewer (minor): gender of the obscure word prahavaṇa cannot be told from -aiḥ (m. or n.); 'n.' is a guess"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "jaṭila-vyañjanam",
+  "old": "tat-puruṣa, m. acc. sg.",
+  "new": "bahuvrīhi (internal tat-puruṣa), m. acc. sg.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "kathayeyuḥ",
+  "old": "3 pl. caus. opt. √kath",
+  "new": "3 pl. opt. (10th class) √kath",
+  "why": "reviewer (minor): 10th-class verb, not causative"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "क्रम से लाए गए, जटाधारी के वेश वाले, अथवा जल के भीतर रहने वाले, सब ओर से श्वेत, तट, सुरंग और भूमिगृह से निकल भागने वाले, वरुण या नागराज के रूप में प्रस्तुत गुप्तचर के विषय में गुप्तचर राजा से कहें।",
+  "new": "क्रम से लाए गए, जटाधारी के वेश वाले, अथवा जल के भीतर रहने वाले, सब ओर से श्वेत, तट, सुरंग और भूमिगृह से निकल भागने वाले, वरुण या नागराज के रूप में उस गुप्तचर के विषय में गुप्तचर राजा से कहें।",
+  "why": "reviewer (minor): 'प्रस्तुत' is an unmarked addition (it duplicates abhinīta); English only has bracketed [as]"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "siddha-vyañjanaḥ",
+  "old": "tat-puruṣa, m. nom. sg.",
+  "new": "bahuvrīhi (internal tat-puruṣa), m. nom. sg.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "अथवा देश की सीमा पर रहने वाला, सिद्ध के वेश वाला गुप्तचर राजा को शत्रु को देखने के लिए प्रवृत्त करे।",
+  "new": "अथवा जनपद की सीमा पर रहने वाला, सिद्ध के वेश वाला गुप्तचर राजा को शत्रु को देखने के लिए प्रवृत्त करे।",
+  "why": "reviewer (minor): jana-pada (territory) is 'country (जनपद)' in the glossary; Hindi must not use देश (= deśa) for it"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "स्वीकार कर लेने पर बिम्ब बनाकर, शत्रु को बुलाकर, रुके हुए स्थान में मरवा दे।",
+  "new": "स्वीकार कर लेने पर बिम्ब बनाकर, शत्रु को बुलाकर, बन्द स्थान में मरवा दे।",
+  "why": "reviewer (minor): niruddha deśa = shut-in, confined place; 'रुके हुए' means halted/blocked"
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "āvāhayitvā",
+  "old": "caus. abs. ā-√vah",
+  "new": "caus. abs. in -tvā (irregular after prefix ā-) ā-√vah",
+  "why": "reviewer (minor): absolutive of a prefixed causative printed with -tvā (irregular; expected -ya); label should say so"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Agents in the guise of traders, come with horses as merchandise, having invited the king on the occasion of presenting the goods, should kill him, engrossed in examining the goods or mingled among horses, and should strike with horses.",
+  "new": "Agents in the guise of traders, come with horses as merchandise, having invited the king for the purpose of presenting the goods, should kill him, engrossed in examining the goods or mingled among horses, and should strike with horses.",
+  "why": "reviewer (minor): nimitta in acc. adverbial use is 'for the sake of / for the purpose of' (Hindi निमित्त is right, English not)"
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "paṇya-upāyana-nimittam",
+  "old": "on the occasion of presenting goods",
+  "new": "for the purpose of presenting goods",
+  "why": "reviewer (minor): nimitta in acc. adverbial use is 'for the sake of / for the purpose of' (Hindi निमित्त is right, English not)"
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "vaidehaka-vyañjanāḥ",
+  "old": "tat-puruṣa, m. nom. pl.",
+  "new": "bahuvrīhi (internal tat-puruṣa), m. nom. pl.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Or, having climbed a caitya near the city at night, assassins, blowing into pots, or tubes, or vidulas, should say indistinctly: “We shall eat the flesh of the king or of the chiefs; let there be worship for us.”",
+  "new": "Or, having climbed a caitya near the city at night, assassins, blowing tubes or vidulas in pots, should say indistinctly: “We shall eat the flesh of the king or of the chiefs; let there be worship for us.”",
+  "why": "reviewer (error): kumbheṣu is locative but nālīn and vidulāni are accusatives, the objects of dhamantaḥ; the draft makes all three places blown into, contradicting its own case labels"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "अथवा नगर के समीप रात में चैत्य पर चढ़कर तीक्ष्ण घड़ों में, नलिकाओं में या विदुलों में फूँकते हुए अस्पष्ट रूप से कहें, “हम स्वामी या मुख्यों का मांस खाएँगे; हमारे लिए पूजा हो।”",
+  "new": "अथवा नगर के समीप रात में चैत्य पर चढ़कर तीक्ष्ण, घड़ों में नलिकाओं या विदुलों को फूँकते हुए, अस्पष्ट रूप से कहें, “हम स्वामी या मुख्यों का मांस खाएँगे; हमारे लिए पूजा हो।”",
+  "why": "reviewer (error): kumbheṣu is locative but nālīn and vidulāni are accusatives, the objects of dhamantaḥ; the draft makes all three places blown into, contradicting its own case labels"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "kumbheṣu",
+  "old": "into pots",
+  "new": "in pots",
+  "why": "reviewer (error): kumbheṣu is locative but nālīn and vidulāni are accusatives, the objects of dhamantaḥ; the draft makes all three places blown into, contradicting its own case labels"
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "caitya (sacred tree or shrine) is kept as a name. vidula is obscure (perhaps a cane or reed); kept untranslated. The construction 'into pots ... or tubes' is loose. 'pūjā no vartatām' is literally 'let worship be/go on for us'. svāmin = king per glossary.",
+  "new": "caitya (a sacred shrine or tree) is kept as a name. vidula is obscure and left untranslated. kumbheṣu is locative; nālīn and vidulāni are the accusative objects of dhamantaḥ ('blowing tubes or vidulas in pots'). In Hindi तीक्ष्ण stands alone (glossary), set off by commas. 'pūjā no vartatām' is literally 'let worship be/go on for us'. svāmin = king per glossary.",
+  "why": "reviewer (error): kumbheṣu is locative but nālīn and vidulāni are accusatives, the objects of dhamantaḥ; the draft makes all three places blown into, contradicting its own case labels"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "naimittika-mauhūrtika-vyañjanāḥ",
+  "old": "tat-puruṣa, m. nom. pl.",
+  "new": "bahuvrīhi (first member a dvandva), m. nom. pl.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "अथवा मंगलकारी सरोवर में या तालाब के बीच रात में तेजन तेल से लिपे हुए, नागों का रूप धारण किए, शक्ति और लोहे के मूसलों को घिसते हुए उसी प्रकार कहें।",
+  "new": "अथवा मंगलकारी सरोवर में या तालाब के बीच रात में तेजन तेल से लिपे हुए, नागों का रूप धारण किए, लोहे की बनी शक्तियों और मूसलों को घिसते हुए उसी प्रकार कहें।",
+  "why": "reviewer (minor): ayomayāni (n. pl.) agrees with the dvandva śakti-musalāni, so both are of iron, as the English says; the Hindi makes only the clubs iron"
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "सन्धि-रात्रियों में अथवा श्मशान के सामने चैत्य को ऊपर से खाए हुए मनुष्यों के साथ प्रकट करें।",
+  "new": "सन्धि-रात्रियों में अथवा श्मशान के सामने चैत्य को ऊपर की ओर खाए हुए मनुष्यों के साथ प्रकट करें।",
+  "why": "reviewer (minor): English says 'eaten upwards', Hindi says 'from above'; the obscure compound must be rendered the same way in both"
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "prarūpayeyuḥ",
+  "old": "3 pl. caus. opt. pra-√rūp",
+  "new": "3 pl. opt. (denominative) pra-√rūp",
+  "why": "reviewer (minor): rūpayati is denominative, not a causative"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "तब राक्षस का रूप धारण किए हुए मनुष्य को माँगे।",
+  "new": "तब राक्षस का रूप धारण करने वाला, मनुष्य को माँगे।",
+  "why": "reviewer (minor): as written it reads 'ask for a man who has assumed a demon form'; rakṣo-rūpī is the subject and manuṣyaka the thing asked for"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "उस अद्भुत घटना को उसे देखने वाले और गुप्तचर राजा से कहें।",
+  "new": "उस आश्चर्य को उसे देखने वाले और गुप्तचर राजा से कहें।",
+  "why": "reviewer (minor): 'घटना' (event) is an unmarked addition; adbhuta here is the noun 'marvel'"
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "naimittika-mauhūrtika-vyañjanāḥ",
+  "old": "tat-puruṣa, m. nom. pl.",
+  "new": "bahuvrīhi (first member a dvandva), m. nom. pl.",
+  "why": "reviewer (minor): vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "To the one who has agreed they should say: “In these, for seven nights, [a rite] with one mantra, offering (bali) and oblation (homa) each must be performed by the king himself.”",
+  "new": "To the one who has agreed they should say: “In these, for seven nights, one mantra, offering (bali) and oblation (homa) each must be performed by the king himself.”",
+  "why": "reviewer (error): the supplied noun 'rite' (English, bracketed) and Hindi 'कर्म' (unbracketed) are additions; eka-eka-mantra-bali-homam is a neuter collective dvandva (distributive eka-eka), the subject of kartavyam, which needs no noun"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "स्वीकार करने वाले से वे कहें, “इन में सात रात तक एक-एक मन्त्र, बलि और होम वाला कर्म स्वयं राजा को करना चाहिए।”",
+  "new": "स्वीकार करने वाले से वे कहें, “इन में सात रात तक एक-एक मन्त्र, बलि और होम स्वयं राजा को करना चाहिए।”",
+  "why": "reviewer (error): the supplied noun 'rite' (English, bracketed) and Hindi 'कर्म' (unbracketed) are additions; eka-eka-mantra-bali-homam is a neuter collective dvandva (distributive eka-eka), the subject of kartavyam, which needs no noun"
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "eka-eka-mantra-bali-homam",
+  "old": "with one mantra, offering and oblation each",
+  "new": "one mantra, offering and oblation each",
+  "why": "reviewer (error): the supplied noun 'rite' (English, bracketed) and Hindi 'कर्म' (unbracketed) are additions; eka-eka-mantra-bali-homam is a neuter collective dvandva (distributive eka-eka), the subject of kartavyam, which needs no noun"
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "eka-eka-mantra-bali-homam",
+  "old": "bahuvrīhi, n. nom. sg.",
+  "new": "dvandva (with distributive eka-eka), n. collective, nom. sg.",
+  "why": "reviewer (error): the supplied noun 'rite' (English, bracketed) and Hindi 'कर्म' (unbracketed) are additions; eka-eka-mantra-bali-homam is a neuter collective dvandva (distributive eka-eka), the subject of kartavyam, which needs no noun"
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "eka-eka-mantra-bali-homam is read 'with one mantra, offering and oblation for each'; the noun it qualifies (a rite) is supplied. The exact distribution (one for each portent, or one per night) is not stated. eteṣu = in these [portents of 21-29].",
+  "new": "eka-eka-mantra-bali-homam is read as a dvandva (n., collective) with distributive eka-eka and taken as the subject of kartavyam: 'one mantra, offering and oblation each'; no noun such as 'rite' is supplied. The exact distribution (one for each portent, or one per night) is not stated. eteṣu = in these (presumably the portents of units 21-29).",
+  "why": "reviewer (error): the supplied noun 'rite' (English, bracketed) and Hindi 'कर्म' (unbracketed) are additions; eka-eka-mantra-bali-homam is a neuter collective dvandva (distributive eka-eka), the subject of kartavyam, which needs no noun"
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "Having led the one who has agreed into a thicket or a single-track path, they should have him killed, or, having bound him, should carry him off.",
+  "new": "Having led the one who has agreed through a thicket or a single-track path, they should have him killed, or, having bound him, should carry him off.",
+  "why": "reviewer (minor): atinīya (ati-√nī) is 'led across / through'; gahanam and ekāyanam are accusatives of the way, 'into' is not in the text"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "स्वीकार करने वाले को घने वन में या एक ही मार्ग वाले स्थान में ले जाकर मरवा दें, अथवा बाँधकर हर ले जाएँ।",
+  "new": "स्वीकार करने वाले को घने वन या एक ही मार्ग वाले स्थान से होकर ले जाकर मरवा दें, अथवा बाँधकर हर ले जाएँ।",
+  "why": "reviewer (minor): atinīya (ati-√nī) is 'led across / through'; gahanam and ekāyanam are accusatives of the way, 'into' is not in the text"
+ },
+ {
+  "n": "43",
+  "field": "word.w",
+  "word": "sattra-cchannāḥ",
+  "old": "sattra-cchannāḥ",
+  "new": "sattra-channāḥ",
+  "why": "reviewer (minor): w should be the dictionary stem with the sandhi undone (tuk-augment ch -> cch), as in unit 25 (paṭala-channena)"
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Or, on the frequent visits to holy men, ascetics, caityas, stūpas and images of deities, assassins who have come up by way of underground chambers and tunnels, or entered into walls, should strike down the enemy.",
+  "new": "Or, on the frequent visits to holy men, ascetics, caityas, stūpas and images of deities, assassins who have come up by way of underground chambers and tunnels, and entered into walls, should strike down the enemy.",
+  "why": "reviewer (minor): there is no vā inside the compound bhūmi-gṛha-suruṅgā-ārūḍha-bhitti-praviṣṭāḥ; 'or' (and Hindi 'या') is an unmarked addition"
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "अथवा सिद्धों, प्रव्रजितों, चैत्यों, स्तूपों और देवताओं की प्रतिमाओं के बार-बार दर्शन करने जाने पर, तीक्ष्ण, जो भूमिगृह और सुरंग से चढ़कर आए हों या दीवार में घुसे हों, शत्रु पर प्रहार करें।",
+  "new": "अथवा सिद्धों, प्रव्रजितों, चैत्यों, स्तूपों और देवताओं की प्रतिमाओं के बार-बार दर्शन करने जाने पर, तीक्ष्ण, जो भूमिगृह और सुरंग से चढ़कर आकर दीवार में घुसे हों, शत्रु पर प्रहार करें।",
+  "why": "reviewer (minor): there is no vā inside the compound bhūmi-gṛha-suruṅgā-ārūḍha-bhitti-praviṣṭāḥ; 'or' (and Hindi 'या') is an unmarked addition"
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "अथवा सिद्धों, प्रव्रजितों, चैत्यों, स्तूपों और देवताओं की प्रतिमाओं के बार-बार दर्शन करने जाने पर, तीक्ष्ण, जो भूमिगृह और सुरंग से चढ़कर आकर दीवार में घुसे हों, शत्रु पर प्रहार करें।",
+  "new": "अथवा सिद्धों, प्रव्रजितों, चैत्यों, स्तूपों और देवताओं की प्रतिमाओं के बार-बार जाने पर, तीक्ष्ण, जो भूमिगृह और सुरंग से चढ़कर आकर दीवार में घुसे हों, शत्रु पर प्रहार करें।",
+  "why": "reviewer (minor): 'दर्शन' (seeing) is not in abhigamana (approach, visit)"
+ },
+ {
+  "n": "44",
+  "field": "notes",
+  "old": "The compound bhūmi-gṛha-suruṅgā-ārūḍha-bhitti-praviṣṭāḥ is loose: ārūḍha (mounted, risen) is read 'come up'. param is 'other', i.e. the enemy.",
+  "new": "The compound bhūmi-gṛha-suruṅgā-ārūḍha-bhitti-praviṣṭāḥ is loose: ārūḍha (mounted, risen) is read 'come up'. param is 'other', i.e. the enemy. The dvandva reading of siddha-pravrajita-caitya-stūpa-daivata-pratimānām is kept; pratimā could instead govern the series ('images of holy men, ascetics, ...'), cf. daivata-pratimā 'image of a deity' in units 25 and 27.",
+  "why": "reviewer (minor): the dvandva reading is one of two; pratimā may govern the series"
+ },
+ {
+  "n": "45",
+  "field": "word.gram",
+  "word": "yātrā-vihāre",
+  "old": "dvandva, m. loc. sg.",
+  "new": "dvandva (samāhāra) or tat-puruṣa, loc. sg.",
+  "why": "reviewer (minor): a dvandva of two items cannot end in a singular locative unless it is a neuter samāhāra; the label 'dvandva, m. loc. sg.' is unsafe"
+ },
+ {
+  "n": "46",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "dhig.ukty.ādiṣu",
+    "suggest": "dhik-ukti-ādiṣu",
+    "why": "not an error: the print dhig.ukty is the sandhi form of dhik-ukti-ādiṣu; noted only because the sense of dhik-ukti-ādi is obscure"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): rejected: not a typo, only the regular sandhi of dhik-ukti-ādiṣu (k -> g before a vowel, i -> y); a non-error entry does not belong in text_flags"
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "Continuity: units 45 to 50 are one long sentence (the occasions for the assassins' attack) that ends at 49b/50; the edition's grouping into numbered verses is kept. dhik-ukti-ādi is obscure (perhaps a series of occasions marked by reproaches); rendered literally. sūtikā = a woman in childbed / childbirth; preta = the dead, a deceased person.",
+  "new": "Continuity: units 45 to 50 are one long sentence (the occasions for the assassins' attack) that ends at 49b/50; the edition's grouping into numbered verses is kept. dhik-ukti-ādi is obscure and is rendered literally ('beginning with the utterance of fie'). sūtikā = a woman in childbed / childbirth; preta = the dead, a deceased person.",
+  "why": "reviewer (minor): speculative sense for an obscure compound"
+ },
+ {
+  "n": "46",
+  "field": "word.gram",
+  "word": "sūtikā-preta-rogeṣu",
+  "old": "dvandva, m. loc. pl.",
+  "new": "dvandva, loc. pl.",
+  "why": "reviewer (minor): mixed-gender dvandvas given an arbitrary gender (m., n.)"
+ },
+ {
+  "n": "46",
+  "field": "word.gram",
+  "word": "prīti-śoka-bhayeṣu",
+  "old": "dvandva, n. loc. pl.",
+  "new": "dvandva, loc. pl.",
+  "why": "reviewer (minor): mixed-gender dvandvas given an arbitrary gender (m., n.)"
+ },
+ {
+  "n": "47",
+  "field": "english",
+  "old": "or at a festival of his own people at which, out of trust, he falls into carelessness; where the movement of his guards [is hindered] in bad weather or in crowds,",
+  "new": "or at a festival of his own people at which, out of trust, he falls into carelessness; where [there is] movement of his guards in bad weather or in crowds,",
+  "why": "reviewer (error): the predicate is missing and 'hindered/difficult' is an invented sense (Hindi states it without any mark); the Hindi of the first half is also garbled (double locative 'जिसमें ... उत्सव में')"
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "अथवा जिसमें वह विश्वास के कारण स्वजनों के उत्सव में प्रमाद करता है, जहाँ दुर्दिन में या भीड़ में उसके रक्षकों का चलना-फिरना कठिन होता है,",
+  "new": "अथवा स्वजनों के उत्सव में, जिसमें वह विश्वास के कारण प्रमाद में पड़ जाता है, जहाँ दुर्दिन में या भीड़ में उसके रक्षकों का चलना-फिरना होता है,",
+  "why": "reviewer (error): the predicate is missing and 'hindered/difficult' is an invented sense (Hindi states it without any mark); the Hindi of the first half is also garbled (double locative 'जिसमें ... उत्सव में')"
+ },
+ {
+  "n": "47",
+  "field": "notes",
+  "old": "Continuity: units 45 to 50 are one long sentence (the occasions for the assassins' attack) that ends at 49b/50; the edition's grouping into numbered verses is kept. The predicate of the second line is missing; '[is hindered]' is supplied (the other possibility is 'is present'). saṅkula can also be 'crowded places'.",
+  "new": "Continuity: units 45 to 50 are one long sentence (the occasions for the assassins' attack) that ends at 49b/50; the edition's grouping into numbered verses is kept. The predicate of the second line is missing; only a bare copula is supplied. The likely intent (that the guards' movement is hindered there) is an interpretation and is not rendered. saṅkula can also be 'crowded places'.",
+  "why": "reviewer (error): the predicate is missing and 'hindered/difficult' is an invented sense (Hindi states it without any mark); the Hindi of the first half is also garbled (double locative 'जिसमें ... उत्सव में')"
+ },
+ {
+  "n": "47",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (error): the predicate is missing and 'hindered/difficult' is an invented sense (Hindi states it without any mark); the Hindi of the first half is also garbled (double locative 'जिसमें ... उत्सव में')"
+ },
+ {
+  "n": "48",
+  "field": "word.gloss",
+  "word": "phelābhiḥ",
+  "old": "with phelās (leavings?)",
+  "new": "with phelās (obscure)",
+  "why": "reviewer (minor): guessed senses for an obscure word, put even in the gloss"
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "Continuity: units 45 to 50 are one long sentence (the occasions for the assassins' attack) that ends at 49b/50; the edition's grouping into numbered verses is kept. phelā (perhaps 'leavings, remnants'; here possibly presents or food) is obscure and left untranslated. vipra-sthāna read 'a Brahmin's place'. 'he' in praviṣṭe is supplied.",
+  "new": "Continuity: units 45 to 50 are one long sentence (the occasions for the assassins' attack) that ends at 49b/50; the edition's grouping into numbered verses is kept. phelā is obscure and left untranslated; no sense is assumed. vipra-sthāna read 'a Brahmin's place'. 'he' in praviṣṭe is supplied.",
+  "why": "reviewer (minor): guessed senses for an obscure word, put even in the gloss"
+ }
+]

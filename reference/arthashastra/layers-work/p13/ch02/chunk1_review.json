@@ -1,0 +1,1005 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vṛṣīṣva (second word of the last token)",
+     "problem": "w must carry the corrected, real form (LAYER_NOTES 2): vṛṣīṣva is not a Sanskrit form; the editors' doubtful reading is kept in src and the flag, the word is vṛṇīṣva",
+     "fix": "w = vṛṇīṣva; gloss = (editors' doubtful alternative reading of the printed vṛṇīṣva)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "3",
+       "op": "word",
+       "match_w": "vṛṣīṣva",
+       "field": "gloss",
+       "value": "(editors' doubtful alternative reading, same word as the preceding vṛṇīṣva)"
+      },
+      {
+       "n": "3",
+       "op": "word",
+       "match_w": "vṛṣīṣva",
+       "field": "w",
+       "value": "vṛṇīṣva"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "kathayet",
+     "problem": "kath (kathayati) is a 10th-class verb, not a causative",
+     "fix": "3 sg. opt. (10th class) √kath",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "kathayet",
+      "field": "gram",
+      "value": "3 sg. opt. (10th class) √kath"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "prahavaṇa is obscure (some kind of festive gathering)",
+     "problem": "'some kind of festive gathering' is an invented sense for an obscure word; also the dāra remark is muddled",
+     "fix": "no sense assumed; literal dvandva bahuvrīhi singular",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "notes",
+      "value": "prahavaṇa is obscure and its sense is not settled; kept untranslated. prekṣā = spectacle, show. dāra is normally plural; the bahuvrīhi saputra-dāra is singular and is rendered literally 'together with son and wife'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sthānika-vyañjanaḥ",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (internal tat-puruṣa), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "sthānika-vyañjanaḥ",
+      "field": "gram",
+      "value": "bahuvrīhi (internal tat-puruṣa), m. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kathayet",
+     "problem": "10th-class verb, not causative",
+     "fix": "3 sg. opt. (10th class) √kath",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "kathayet",
+      "field": "gram",
+      "value": "3 sg. opt. (10th class) √kath"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "confidence 'high' although the draft's own note says nāga may be 'elephant' here",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sthānika-vyañjanam",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (internal tat-puruṣa), m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "sthānika-vyañjanam",
+      "field": "gram",
+      "value": "bahuvrīhi (internal tat-puruṣa), m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kathayeyuḥ",
+     "problem": "10th-class verb, not causative",
+     "fix": "3 pl. opt. (10th class) √kath",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "kathayeyuḥ",
+      "field": "gram",
+      "value": "3 pl. opt. (10th class) √kath"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "krama.abhīnītaṃ",
+     "problem": "flag confirmed: long ī is a typo; unit 16 prints krama.abhinītaṃ and abhi-nīta is the p.p. of abhi-√nī",
+     "fix": "none (flag stands, abhinītam correctly used in words)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "siddha-vyañjano",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (internal tat-puruṣa), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "siddha-vyañjanaḥ",
+      "field": "gram",
+      "value": "bahuvrīhi (internal tat-puruṣa), m. nom. sg."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "jambhaka-vidyā",
+     "problem": "note says 'jambhaka lores' but the English says 'jambhaka sciences'",
+     "fix": "align the note",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "notes",
+      "value": "jambhaka-vidyā is kept literal ('jambhaka sciences'); jambhaka is obscure and vidyā is not rendered 'spells'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "siddha-vyañjano",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (internal tat-puruṣa), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "siddha-vyañjanaḥ",
+      "field": "gram",
+      "value": "bahuvrīhi (internal tat-puruṣa), m. nom. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "prahavaṇaiḥ",
+     "problem": "gender of the obscure word prahavaṇa cannot be told from -aiḥ (m. or n.); 'n.' is a guess",
+     "fix": "inst. pl. (gender not determinable)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "prahavaṇaiḥ",
+      "field": "gram",
+      "value": "inst. pl. (m. or n.; gender not determinable)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jaṭila-vyañjanam",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (internal tat-puruṣa), m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "jaṭila-vyañjanam",
+      "field": "gram",
+      "value": "bahuvrīhi (internal tat-puruṣa), m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kathayeyuḥ",
+     "problem": "10th-class verb, not causative",
+     "fix": "3 pl. opt. (10th class) √kath",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "kathayeyuḥ",
+      "field": "gram",
+      "value": "3 pl. opt. (10th class) √kath"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वरुण या नागराज के रूप में प्रस्तुत गुप्तचर",
+     "problem": "'प्रस्तुत' is an unmarked addition (it duplicates abhinīta); English only has bracketed [as]",
+     "fix": "drop 'प्रस्तुत'",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "के रूप में प्रस्तुत गुप्तचर के विषय में",
+      "new": "के रूप में उस गुप्तचर के विषय में"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "krama.abhinītaṃ",
+     "problem": "printed with short i here, which confirms the flag on unit 11",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "siddha-vyañjano",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (internal tat-puruṣa), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "siddha-vyañjanaḥ",
+      "field": "gram",
+      "value": "bahuvrīhi (internal tat-puruṣa), m. nom. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "देश की सीमा पर",
+     "problem": "jana-pada (territory) is 'country (जनपद)' in the glossary; Hindi must not use देश (= deśa) for it",
+     "fix": "जनपद की सीमा पर",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "देश की सीमा पर",
+      "new": "जनपद की सीमा पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रुके हुए स्थान में",
+     "problem": "niruddha deśa = shut-in, confined place; 'रुके हुए' means halted/blocked",
+     "fix": "बन्द स्थान में",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रुके हुए स्थान में",
+      "new": "बन्द स्थान में"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āvāhayitvā",
+     "problem": "absolutive of a prefixed causative printed with -tvā (irregular; expected -ya); label should say so",
+     "fix": "caus. abs. in -tvā (irregular after prefix) ā-√vah",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "āvāhayitvā",
+      "field": "gram",
+      "value": "caus. abs. in -tvā (irregular after prefix ā-) ā-√vah"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "on the occasion of presenting the goods",
+     "problem": "nimitta in acc. adverbial use is 'for the sake of / for the purpose of' (Hindi निमित्त is right, English not)",
+     "fix": "for the purpose of presenting the goods",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "20",
+       "op": "replace",
+       "field": "english",
+       "old": "on the occasion of presenting the goods",
+       "new": "for the purpose of presenting the goods"
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "paṇya-upāyana-nimittam",
+       "field": "gloss",
+       "value": "for the purpose of presenting goods"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "vaidehaka-vyañjanāḥ",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (internal tat-puruṣa), m. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "vaidehaka-vyañjanāḥ",
+      "field": "gram",
+      "value": "bahuvrīhi (internal tat-puruṣa), m. nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "blowing into pots, or tubes, or vidulas",
+     "problem": "kumbheṣu is locative but nālīn and vidulāni are accusatives, the objects of dhamantaḥ; the draft makes all three places blown into, contradicting its own case labels",
+     "fix": "assassins, blowing tubes or vidulas in pots",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "21",
+       "op": "set",
+       "field": "english",
+       "value": "Or, having climbed a caitya near the city at night, assassins, blowing tubes or vidulas in pots, should say indistinctly: “We shall eat the flesh of the king or of the chiefs; let there be worship for us.”"
+      },
+      {
+       "n": "21",
+       "op": "set",
+       "field": "hindi",
+       "value": "अथवा नगर के समीप रात में चैत्य पर चढ़कर तीक्ष्ण, घड़ों में नलिकाओं या विदुलों को फूँकते हुए, अस्पष्ट रूप से कहें, “हम स्वामी या मुख्यों का मांस खाएँगे; हमारे लिए पूजा हो।”"
+      },
+      {
+       "n": "21",
+       "op": "word",
+       "match_w": "kumbheṣu",
+       "field": "gloss",
+       "value": "in pots"
+      },
+      {
+       "n": "21",
+       "op": "set",
+       "field": "notes",
+       "value": "caitya (a sacred shrine or tree) is kept as a name. vidula is obscure and left untranslated. kumbheṣu is locative; nālīn and vidulāni are the accusative objects of dhamantaḥ ('blowing tubes or vidulas in pots'). In Hindi तीक्ष्ण stands alone (glossary), set off by commas. 'pūjā no vartatām' is literally 'let worship be/go on for us'. svāmin = king per glossary."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "naimittika-mauhūrtika-vyañjanāḥ",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (first member a dvandva), m. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "naimittika-mauhūrtika-vyañjanāḥ",
+      "field": "gram",
+      "value": "bahuvrīhi (first member a dvandva), m. nom. pl."
+     }
+    },
+    {
+     "field": "english",
+     "where": "naimittikas (omen-readers)",
+     "problem": "naimittika settled: derived from nimitta (omen, portent); 'omen-reader' is the literal sense and is accepted; Hindi keeps नैमित्तिक. Added to the glossary.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शक्ति और लोहे के मूसलों को",
+     "problem": "ayomayāni (n. pl.) agrees with the dvandva śakti-musalāni, so both are of iron, as the English says; the Hindi makes only the clubs iron",
+     "fix": "लोहे की बनी शक्तियों और मूसलों को",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शक्ति और लोहे के मूसलों को",
+      "new": "लोहे की बनी शक्तियों और मूसलों को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऊपर से खाए हुए",
+     "problem": "English says 'eaten upwards', Hindi says 'from above'; the obscure compound must be rendered the same way in both",
+     "fix": "ऊपर की ओर खाए हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऊपर से खाए हुए",
+      "new": "ऊपर की ओर खाए हुए"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "prarūpayeyuḥ",
+     "problem": "rūpayati is denominative, not a causative",
+     "fix": "3 pl. opt. (denominative) pra-√rūp",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "prarūpayeyuḥ",
+      "field": "gram",
+      "value": "3 pl. opt. (denominative) pra-√rūp"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "राक्षस का रूप धारण किए हुए मनुष्य को माँगे",
+     "problem": "as written it reads 'ask for a man who has assumed a demon form'; rakṣo-rūpī is the subject and manuṣyaka the thing asked for",
+     "fix": "तब राक्षस का रूप धारण करने वाला, मनुष्य को माँगे।",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "set",
+      "field": "hindi",
+      "value": "तब राक्षस का रूप धारण करने वाला, मनुष्य को माँगे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अद्भुत घटना",
+     "problem": "'घटना' (event) is an unmarked addition; adbhuta here is the noun 'marvel'",
+     "fix": "उस आश्चर्य को",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उस अद्भुत घटना को",
+      "new": "उस आश्चर्य को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "naimittika-mauhūrtika-vyañjanāḥ",
+     "problem": "vyañjana is a neuter noun; a masculine person-ending (-aḥ/-am agreeing with a masculine participle) shows a bahuvrīhi, not a plain tat-puruṣa",
+     "fix": "bahuvrīhi (first member a dvandva), m. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "naimittika-mauhūrtika-vyañjanāḥ",
+      "field": "gram",
+      "value": "bahuvrīhi (first member a dvandva), m. nom. pl."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "naimititka",
+     "problem": "flag confirmed: transposition for naimittika (Devanagari नैमितित्क likewise); the correction is used in words",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[a rite] with one mantra, offering and oblation each",
+     "problem": "the supplied noun 'rite' (English, bracketed) and Hindi 'कर्म' (unbracketed) are additions; eka-eka-mantra-bali-homam is a neuter collective dvandva (distributive eka-eka), the subject of kartavyam, which needs no noun",
+     "fix": "one mantra, offering and oblation each must be performed by the king himself",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "34",
+       "op": "set",
+       "field": "english",
+       "value": "To the one who has agreed they should say: “In these, for seven nights, one mantra, offering (bali) and oblation (homa) each must be performed by the king himself.”"
+      },
+      {
+       "n": "34",
+       "op": "set",
+       "field": "hindi",
+       "value": "स्वीकार करने वाले से वे कहें, “इन में सात रात तक एक-एक मन्त्र, बलि और होम स्वयं राजा को करना चाहिए।”"
+      },
+      {
+       "n": "34",
+       "op": "word",
+       "match_w": "eka-eka-mantra-bali-homam",
+       "field": "gloss",
+       "value": "one mantra, offering and oblation each"
+      },
+      {
+       "n": "34",
+       "op": "word",
+       "match_w": "eka-eka-mantra-bali-homam",
+       "field": "gram",
+       "value": "dvandva (with distributive eka-eka), n. collective, nom. sg."
+      },
+      {
+       "n": "34",
+       "op": "set",
+       "field": "notes",
+       "value": "eka-eka-mantra-bali-homam is read as a dvandva (n., collective) with distributive eka-eka and taken as the subject of kartavyam: 'one mantra, offering and oblation each'; no noun such as 'rite' is supplied. The exact distribution (one for each portent, or one per night) is not stated. eteṣu = in these (presumably the portents of units 21-29)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "into a thicket or a single-track path",
+     "problem": "atinīya (ati-√nī) is 'led across / through'; gahanam and ekāyanam are accusatives of the way, 'into' is not in the text",
+     "fix": "through a thicket or a single-track path",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "40",
+       "op": "replace",
+       "field": "english",
+       "old": "into a thicket or a single-track path",
+       "new": "through a thicket or a single-track path"
+      },
+      {
+       "n": "40",
+       "op": "replace",
+       "field": "hindi",
+       "old": "घने वन में या एक ही मार्ग वाले स्थान में ले जाकर",
+       "new": "घने वन या एक ही मार्ग वाले स्थान से होकर ले जाकर"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sattra-cchannāḥ",
+     "problem": "w should be the dictionary stem with the sandhi undone (tuk-augment ch -> cch), as in unit 25 (paṭala-channena)",
+     "fix": "sattra-channāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "word",
+      "match_w": "sattra-cchannāḥ",
+      "field": "w",
+      "value": "sattra-channāḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "or entered into walls",
+     "problem": "there is no vā inside the compound bhūmi-gṛha-suruṅgā-ārūḍha-bhitti-praviṣṭāḥ; 'or' (and Hindi 'या') is an unmarked addition",
+     "fix": "who have come up by way of underground chambers and tunnels and entered into walls",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "44",
+       "op": "replace",
+       "field": "english",
+       "old": "or entered into walls",
+       "new": "and entered into walls"
+      },
+      {
+       "n": "44",
+       "op": "replace",
+       "field": "hindi",
+       "old": "जो भूमिगृह और सुरंग से चढ़कर आए हों या दीवार में घुसे हों",
+       "new": "जो भूमिगृह और सुरंग से चढ़कर आकर दीवार में घुसे हों"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "दर्शन करने जाने",
+     "problem": "'दर्शन' (seeing) is not in abhigamana (approach, visit)",
+     "fix": "बार-बार जाने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बार-बार दर्शन करने जाने पर",
+      "new": "बार-बार जाने पर"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "siddha-pravrajita-caitya-stūpa-daivata-pratimānām",
+     "problem": "the dvandva reading is one of two; pratimā may govern the series",
+     "fix": "note the alternative",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "append_note",
+      "text": "The dvandva reading of siddha-pravrajita-caitya-stūpa-daivata-pratimānām is kept; pratimā could instead govern the series ('images of holy men, ascetics, ...'), cf. daivata-pratimā 'image of a deity' in units 25 and 27."
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yātrā-vihāre",
+     "problem": "a dvandva of two items cannot end in a singular locative unless it is a neuter samāhāra; the label 'dvandva, m. loc. sg.' is unsafe",
+     "fix": "samāhāra-dvandva or tat-puruṣa, loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "word",
+      "match_w": "yātrā-vihāre",
+      "field": "gram",
+      "value": "dvandva (samāhāra) or tat-puruṣa, loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "dhig.ukty.ādiṣu",
+     "problem": "rejected: not a typo, only the regular sandhi of dhik-ukti-ādiṣu (k -> g before a vowel, i -> y); a non-error entry does not belong in text_flags",
+     "fix": "[]",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dhik-ukti-ādi ... (perhaps a series of occasions marked by reproaches)",
+     "problem": "speculative sense for an obscure compound",
+     "fix": "literal rendering only",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "notes",
+      "old": "dhik-ukti-ādi is obscure (perhaps a series of occasions marked by reproaches); rendered literally.",
+      "new": "dhik-ukti-ādi is obscure and is rendered literally ('beginning with the utterance of fie')."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sūtikā-preta-rogeṣu, prīti-śoka-bhayeṣu",
+     "problem": "mixed-gender dvandvas given an arbitrary gender (m., n.)",
+     "fix": "dvandva, loc. pl.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "46",
+       "op": "word",
+       "match_w": "sūtikā-preta-rogeṣu",
+       "field": "gram",
+       "value": "dvandva, loc. pl."
+      },
+      {
+       "n": "46",
+       "op": "word",
+       "match_w": "prīti-śoka-bhayeṣu",
+       "field": "gram",
+       "value": "dvandva, loc. pl."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[is hindered] / कठिन होता है",
+     "problem": "the predicate is missing and 'hindered/difficult' is an invented sense (Hindi states it without any mark); the Hindi of the first half is also garbled (double locative 'जिसमें ... उत्सव में')",
+     "fix": "supply only a bare copula; fix the Hindi syntax",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "47",
+       "op": "set",
+       "field": "english",
+       "value": "or at a festival of his own people at which, out of trust, he falls into carelessness; where [there is] movement of his guards in bad weather or in crowds,"
+      },
+      {
+       "n": "47",
+       "op": "set",
+       "field": "hindi",
+       "value": "अथवा स्वजनों के उत्सव में, जिसमें वह विश्वास के कारण प्रमाद में पड़ जाता है, जहाँ दुर्दिन में या भीड़ में उसके रक्षकों का चलना-फिरना होता है,"
+      },
+      {
+       "n": "47",
+       "op": "set",
+       "field": "notes",
+       "value": "Continuity: units 45 to 50 are one long sentence (the occasions for the assassins' attack) that ends at 49b/50; the edition's grouping into numbered verses is kept. The predicate of the second line is missing; only a bare copula is supplied. The likely intent (that the guards' movement is hindered there) is an interpretation and is not rendered. saṅkula can also be 'crowded places'."
+      },
+      {
+       "n": "47",
+       "op": "set",
+       "field": "confidence",
+       "value": "low"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "phelābhiḥ 'leavings?' and note 'perhaps leavings, remnants; possibly presents or food'",
+     "problem": "guessed senses for an obscure word, put even in the gloss",
+     "fix": "phelā (obscure), no sense assumed",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "48",
+       "op": "word",
+       "match_w": "phelābhiḥ",
+       "field": "gloss",
+       "value": "with phelās (obscure)"
+      },
+      {
+       "n": "48",
+       "op": "replace",
+       "field": "notes",
+       "old": "phelā (perhaps 'leavings, remnants'; here possibly presents or food) is obscure and left untranslated.",
+       "new": "phelā is obscure and left untranslated; no sense is assumed."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sattra-hetubhiḥ",
+     "problem": "glossary (8.5) gives sattra = hiding-place and unit 43 follows it, but here sattra is left untranslated; the two should be decided together by a person (renderings 'by means of hiding-places' vs untranslated 'sattra')",
+     "fix": "needs a person",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 50 units (13.2.1-50). Issues: 3 error, 43 minor; units with a patch: 27. Errors: 21 (objects of dhamantaḥ turned into places), 34 (unmarked 'rite'/'कर्म' added; the dvandva needs no noun), 47 (invented predicate 'hindered' and garbled Hindi). Flags: 3 samāgatāś confirmed (singular kathayet), 3 (vṛṣīṣva?) confirmed as not applied (w corrected to vṛṇīṣva); 8 pṛṣṭhaḥ confirmed; 11 abhīnītaṃ confirmed (unit 16 prints abhinītaṃ); 33 naimititka confirmed; 46 dhig.ukty rejected (plain sandhi, flag emptied). naimittika settled as 'omen-reader' (नैमित्तिक), added to the glossary. Systematic fixes: X-vyañjana compounds are bahuvrīhi, not tat-puruṣa; kath is 10th class, not causative; speculative senses removed from notes of 4, 46, 48. No regrouping suggested for any unit; 45-50 stay as the edition groups them. Needs a person: 50 sattra-hetubhiḥ vs glossary 'hiding-place' (43); the sense of 47b (guards' movement) and 44 compound; 11/16 krama-abhinīta; 12/14/17 back-references; 19 pratipannam/bimba; 29 ūrdhva-bhakṣita; 48/49 phelā. All layers remain unreviewed AI drafts."
+}
