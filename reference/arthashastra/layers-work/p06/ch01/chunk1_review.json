@@ -1,0 +1,325 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्वामी (राजा) ... दण्ड (सेना) ... प्रकृतियाँ (राज्य के अंग)",
+     "problem": "bracketed glosses in the Hindi (brief forbids them); 'राज्य के अंग' is also an addition not in the line",
+     "fix": "स्वामी, अमात्य, जनपद, दुर्ग, कोश, दण्ड और मित्र — ये प्रकृतियाँ हैं।",
+     "severity": "minor",
+     "patch": {"n": "1", "op": "set", "field": "hindi", "value": "स्वामी, अमात्य, जनपद, दुर्ग, कोश, दण्ड और मित्र — ये प्रकृतियाँ हैं।"}
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्वामी (राजा) की सम्पत् (उत्तम गुण-सम्पन्नता)",
+     "problem": "bracketed glosses in the Hindi",
+     "fix": "उनमें स्वामी की सम्पत् यह है —",
+     "severity": "minor",
+     "patch": {"n": "2", "op": "set", "field": "hindi", "value": "उनमें स्वामी की सम्पत् यह है —"}
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ये (राजा के) आभिगामिक गुण हैं, जो लोगों को उसकी ओर आकृष्ट करते हैं",
+     "problem": "the relative clause 'जो लोगों को उसकी ओर आकृष्ट करते हैं' is an explanation added to the translation (it belongs in notes, where it already is); also bracketed glosses दैव (भाग्य), उदार (बड़े लक्ष्य वाला), विनय (शिक्षा), (राजा के)",
+     "fix": "उच्च कुल में उत्पन्न, दैव, बुद्धि और सत्त्व से सम्पन्न, वृद्धों का आदर करने वाला, धार्मिक, सत्यवादी, वचन न तोड़ने वाला, कृतज्ञ, उदार, महान उत्साह वाला, काम में विलम्ब न करने वाला, वश में रखने योग्य सामन्तों वाला, दृढ़ बुद्धि वाला, क्षुद्र परिषद् से रहित, विनय का इच्छुक — ये आभिगामिक गुण हैं।",
+     "severity": "minor",
+     "patch": {"n": "3", "op": "set", "field": "hindi", "value": "उच्च कुल में उत्पन्न, दैव, बुद्धि और सत्त्व से सम्पन्न, वृद्धों का आदर करने वाला, धार्मिक, सत्यवादी, वचन न तोड़ने वाला, कृतज्ञ, उदार, महान उत्साह वाला, काम में विलम्ब न करने वाला, वश में रखने योग्य सामन्तों वाला, दृढ़ बुद्धि वाला, क्षुद्र परिषद् से रहित, विनय का इच्छुक — ये आभिगामिक गुण हैं।"}
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऊह (तर्क से आगे बढ़ना), अपोह (गलत को हटाना)",
+     "problem": "bracketed glosses in the Hindi",
+     "fix": "सुनने की इच्छा, सुनना, ग्रहण करना, धारण करना, विशेष रूप से जानना, ऊह, अपोह और तत्त्व के प्रति निष्ठा — ये प्रज्ञा के गुण हैं।",
+     "severity": "minor",
+     "patch": {"n": "4", "op": "set", "field": "hindi", "value": "सुनने की इच्छा, सुनना, ग्रहण करना, धारण करना, विशेष रूप से जानना, ऊह, अपोह और तत्त्व के प्रति निष्ठा — ये प्रज्ञा के गुण हैं।"}
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अमर्ष (अपमान न सहना)",
+     "problem": "bracketed gloss in the Hindi",
+     "fix": "शौर्य, अमर्ष, शीघ्रता और दक्षता — ये उत्साह के गुण हैं।",
+     "severity": "minor",
+     "patch": {"n": "5", "op": "set", "field": "hindi", "value": "शौर्य, अमर्ष, शीघ्रता और दक्षता — ये उत्साह के गुण हैं।"}
+    },
+    {
+     "field": "english",
+     "where": "indignation (not tolerating injury)",
+     "problem": "parenthetical explanation added to the translation; put it in notes",
+     "fix": "indignation",
+     "severity": "minor",
+     "patch": {"n": "5", "op": "replace", "field": "english", "old": "indignation (not tolerating injury)", "new": "indignation"}
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "'dīna.abhihāsya.jihma.bhrukuṭī.kṣaṇaḥ -> adīna-abhihāsya-jihma-bhrukuṭī-īkṣaṇaḥ",
+     "problem": "the e-text writes vowels unsandhied at every dot (mahā.utsāho, sva.ārakṣaḥ, vijñāna.ūha), so 'bhrukuṭī.kṣaṇaḥ' is the editors' analysis bhrukuṭī + kṣaṇa, not + īkṣaṇa; the draft's 'īkṣaṇa' (glance) is a common reading but departs from the printed analysis and adds a vowel not in src. Either reading gives the same sandhi form; a person should decide which analysis to keep (if īkṣaṇa is kept, the departure from the editors' split should be stated in notes as such, which it partly is).",
+     "fix": "human decision: keep īkṣaṇa with an explicit note that the e-text's own split implies kṣaṇa, or follow the e-text (bhrukuṭī-kṣaṇaḥ 'whose moments/looks are ...')",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "employing men rightly in adversity",
+     "problem": "'rightly' is not in the Sanskrit (viniyoktā = one who employs)",
+     "fix": "employing men in adversity",
+     "severity": "minor",
+     "patch": {"n": "6", "op": "replace", "field": "english", "old": "employing men rightly in adversity", "new": "employing men in adversity"}
+    },
+    {
+     "field": "hindi",
+     "where": "जड़ता (for stambha); शक्ल (प्रिय); यथोचित; brackets",
+     "problem": "stambha here is obstinacy/arrogance, not 'जड़ता' (inertia, dullness); 'शक्ल' in Hindi reads as 'face' and carries a bracketed gloss; 'यथोचित' is an addition; several bracketed glosses (कलाओं, सौदा, कमजोरियों, भेद, राजा की व्यक्तिगत उत्कृष्टता)",
+     "fix": "see patch: हठ for stambha, सौम्य for śakla (tentative, as in English 'pleasant'), brackets removed, 'यथोचित' dropped",
+     "severity": "minor",
+     "patch": {"n": "6", "op": "set", "field": "hindi", "value": "वाक्पटु, निर्भीक, स्मृति, मति और बल से युक्त, उन्नत, आत्मसंयमी, शिल्पों में प्रशिक्षित, व्यसन-रहित, सेना का नेतृत्व करने वाला, उपकार और अपकार का उचित प्रतिकार देखने वाला, लज्जाशील, आपत्ति और सामान्य स्थिति में लोगों को नियुक्त करने वाला, दीर्घ और दूर तक देखने वाला, देश, काल, पुरुषार्थ और कार्य को प्रधानता देने वाला, सन्धि, विक्रम, त्याग, संयम, पण और शत्रु के छिद्रों का भेद जानने वाला, गुप्त बातें छिपाकर रखने वाला, जिसकी दृष्टि दीन, उपहास-पूर्ण, कुटिल या भृकुटी वाली न हो, काम, क्रोध, लोभ, हठ, चंचलता, दूसरों को कष्ट देने और चुगली से रहित, सौम्य, मुस्कान और गौरव के साथ बोलने वाला, वृद्धों के उपदेश के अनुसार आचरण करने वाला — यह आत्म-सम्पत् है।"}
+    },
+    {
+     "field": "notes",
+     "where": "śaklaḥ",
+     "problem": "Hindi now renders śakla tentatively as 'सौम्य'; record that in notes so the uncertainty is visible in both languages",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {"n": "6", "op": "append_note", "text": "Hindi renders śakla tentatively as 'सौम्य' (pleasant); the word's meaning is unsettled."}
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सम्पत् (उत्तम गुण)",
+     "problem": "bracketed gloss in the Hindi",
+     "fix": "अमात्य की सम्पत् पहले कही जा चुकी है।",
+     "severity": "minor",
+     "patch": {"n": "7", "op": "set", "field": "hindi", "value": "अमात्य की सम्पत् पहले कही जा चुकी है।"}
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(दोनों जगह), दृढ़ स्थानों (दुर्गों), (लुटेरों के) दलों, पण्य (माल), कर (का भार), स्वामी (भूमिपति), भक्त (राजनिष्ठ), शुचि (ईमानदार)",
+     "problem": "bracketed glosses and small additions ('दोनों जगह', 'लुटेरों के', 'भार') in the Hindi",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {"n": "8", "op": "set", "field": "hindi", "value": "मध्य में और सीमा पर दृढ़ स्थानों से युक्त, आपत्ति में अपना और दूसरों का भरण करने में समर्थ, अपनी रक्षा स्वयं करने योग्य, अपनी आजीविका स्वयं चलाने वाला, शत्रु से द्वेष रखने वाला, वश में रखने योग्य सामन्तों वाला, कीचड़, पत्थर, ऊसर, ऊँची-नीची भूमि, काँटों, दलों, हिंस्र पशुओं और वन्य जातियों से रहित, रमणीय, कृषि-भूमि, खानों, लकड़ी के वनों और हाथियों के वनों से युक्त, गायों के लिए उपयुक्त, मनुष्यों के लिए उपयुक्त, सुरक्षित चरागाहों वाला, पशुओं से भरा, वर्षा पर निर्भर न रहने वाला, जल-मार्गों और स्थल-मार्गों से युक्त, मूल्यवान, विविध और प्रचुर पण्य वाला, सेना और कर सहने में समर्थ, परिश्रमी किसानों वाला, जिसके स्वामी मूर्ख न हों और जिसमें अधिकतर निम्न वर्णों के लोग हों, तथा जहाँ के मनुष्य भक्त और शुचि हों — यह जनपद की सम्पत् है।"}
+    },
+    {
+     "field": "english",
+     "where": "bands (of robbers)",
+     "problem": "'of robbers' is an interpretation of śreṇī (already discussed in notes); keep the translation bare",
+     "fix": "bands",
+     "severity": "minor",
+     "patch": {"n": "8", "op": "replace", "field": "english", "old": "bands (of robbers)", "new": "bands"}
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Acquired righteously",
+     "problem": "glossary fixes dharma = dharma; dharma-adhigata should keep the word (Hindi already has धर्मपूर्वक)",
+     "fix": "Acquired through dharma",
+     "severity": "minor",
+     "patch": {"n": "10", "op": "replace", "field": "english", "old": "Acquired righteously", "new": "Acquired through dharma"}
+    },
+    {
+     "field": "gloss",
+     "where": "dharma-adhigataḥ",
+     "problem": "same: gloss should keep 'dharma'",
+     "fix": "acquired through dharma",
+     "severity": "minor",
+     "patch": {"n": "10", "op": "word", "match_w": "dharma-adhigataḥ", "field": "gloss", "value": "acquired through dharma"}
+    },
+    {
+     "field": "hindi",
+     "where": "(ऐसा कि); स्वर्ण-मुद्रा",
+     "problem": "bracketed insertion; 'स्वर्ण-मुद्रा' (gold coin) narrows hiraṇya more than the English 'bullion'",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {"n": "10", "op": "set", "field": "hindi", "value": "पूर्वजों द्वारा या स्वयं धर्मपूर्वक अर्जित, अधिकतर सोने और चाँदी से युक्त, विविध और बड़े रत्नों तथा स्वर्ण वाला, जो बिना आय के लम्बी आपत्ति को भी सह सके — यह कोश की सम्पत् है।"}
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(सैनिकों के), विदेश-यात्राओं (अभियानों), (राजा के साथ), दण्ड (सेना)",
+     "problem": "bracketed glosses and additions in the Hindi",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {"n": "11", "op": "set", "field": "hindi", "value": "पिता-पितामह से चली आई, स्थायी, आज्ञाकारी, जिसके पुत्र और स्त्रियाँ सन्तुष्ट और भरण-पोषण से युक्त हों, अभियानों में निराश न की गई, सर्वत्र अप्रतिहत, दुःख सहने वाली, अनेक युद्धों का अनुभव रखने वाली, सब प्रकार के युद्ध और शस्त्र-विद्या में निपुण, वृद्धि और क्षय में साझेदार होने के कारण द्विधा-भाव से रहित, अधिकतर क्षत्रियों से बनी — यह दण्ड की सम्पत् है।"}
+    },
+    {
+     "field": "english",
+     "where": "(of the soldiers); (the king's)",
+     "problem": "parenthetical additions; the Sanskrit names neither; notes can carry them",
+     "fix": "with sons and wives content and provided for ... because it shares prosperity and decline",
+     "severity": "minor",
+     "patch": {"n": "11", "op": "set", "field": "english", "value": "Inherited from father and grandfather, permanent, obedient, with sons and wives content and provided for, not disappointed on expeditions abroad, unchecked everywhere, enduring hardship, having fought many battles, skilled in the science of all fighting and weapons, not of divided loyalty because it shares prosperity and decline, consisting mostly of Kṣatriyas: this is the excellence of the army."}
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "mahal.laghu.samuttham",
+     "problem": "'laghu' as adverb 'quickly' is one reading; mahat-laghu may equally be a dvandva 'great and small', i.e. rising (to help) in great and small matters or with large and small forces; the draft presents one reading as settled",
+     "fix": "append alternative to notes; confidence could stay high for the rest",
+     "severity": "minor",
+     "patch": {"n": "12", "op": "append_note", "text": "Alternative: mahat-laghu as a dvandva 'great and small', i.e. an ally that rises (to help) in great and small matters alike, or with a large or a small force."}
+    },
+    {
+     "field": "hindi",
+     "where": "बड़े (बल के साथ)",
+     "problem": "bracketed insertion in the Hindi",
+     "fix": "बड़े बल के साथ और शीघ्र उठ खड़ा होने वाला",
+     "severity": "minor",
+     "patch": {"n": "12", "op": "set", "field": "hindi", "value": "पिता-पितामह से चला आया, स्थायी, वश में रहने वाला, द्विधा-भाव से रहित, बड़े बल के साथ और शीघ्र उठ खड़ा होने वाला — यह मित्र की सम्पत् है।"}
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(i.e. the ideal enemy)",
+     "problem": "interpretive addition in the translation; the notes already explain it",
+     "fix": "this is the excellence of the enemy.",
+     "severity": "minor",
+     "patch": {"n": "13", "op": "replace", "field": "english", "old": "this is the excellence of the enemy (i.e. the ideal enemy).", "new": "this is the excellence of the enemy."}
+    },
+    {
+     "field": "hindi",
+     "where": "दैव (भाग्य), (दूसरों का), अमित्र (शत्रु)",
+     "problem": "bracketed glosses in the Hindi",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {"n": "13", "op": "set", "field": "hindi", "value": "राजवंश में उत्पन्न न हुआ, लोभी, क्षुद्र परिषद् वाला, जिसकी प्रजा विरक्त हो, अन्यायपूर्ण आचरण वाला, काम में असावधान, व्यसनी, उत्साहहीन, दैव पर भरोसा करने वाला, कार्यों में जैसे-तैसे चलने वाला, अनुयायियों से रहित, कायर और सदा अपकार करने वाला — यह अमित्र की सम्पत् है।"}
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "being its limbs",
+     "problem": "'its' has no referent in the sentence (the Sanskrit pratyaṅga-bhūtāḥ names none)",
+     "fix": "being the limbs",
+     "severity": "minor",
+     "patch": {"n": "15", "op": "replace", "field": "english", "old": "being its limbs", "new": "being the limbs"}
+    },
+    {
+     "field": "hindi",
+     "where": "(राज्य के) अंग-रूप; सम्पत् (उत्कृष्टताएँ)",
+     "problem": "bracketed insertion and gloss in the Hindi",
+     "fix": "see patch",
+     "severity": "minor",
+     "patch": {"n": "15", "op": "set", "field": "hindi", "value": "शत्रु को छोड़कर ये सात प्रकृतियाँ, अपने-अपने गुणों के उत्कर्ष से युक्त, अपने स्वाभाविक रूप में राजा की सम्पत् कही गई हैं, जो अंग-रूप हैं।"}
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रकृतियों को भी ... प्रकृतियों को भी; आत्मवान् (संयमी), अनात्मवान् (असंयमी)",
+     "problem": "'भी' (even) is added twice for emphasis; the verse has no api; bracketed glosses",
+     "fix": "आत्मवान् राजा सम्पत्-हीन प्रकृतियों को सम्पन्न बना देता है; और अनात्मवान् राजा समृद्ध और अनुरक्त प्रकृतियों को नष्ट कर देता है।",
+     "severity": "error",
+     "patch": {"n": "16", "op": "set", "field": "hindi", "value": "आत्मवान् राजा सम्पत्-हीन प्रकृतियों को सम्पन्न बना देता है; और अनात्मवान् राजा समृद्ध और अनुरक्त प्रकृतियों को नष्ट कर देता है।"}
+    },
+    {
+     "field": "english",
+     "where": "though lacking excellence",
+     "problem": "'though' adds a concessive nuance not in asampannāḥ; plain attributive is faithful",
+     "fix": "brings constituent elements that lack excellence to excellence",
+     "severity": "minor",
+     "patch": {"n": "16", "op": "replace", "field": "english", "old": "brings the constituent elements, though lacking excellence, to excellence", "new": "brings constituent elements that lack excellence to excellence"}
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कभी हीन (पराजित) नहीं होता",
+     "problem": "'कभी' (never) is an added emphasis; bracketed gloss",
+     "fix": "... समस्त पृथ्वी को अवश्य जीत लेता है, पराजित नहीं होता।",
+     "severity": "minor",
+     "patch": {"n": "18", "op": "set", "field": "hindi", "value": "किन्तु आत्मवान् राजा, छोटे से देश का स्वामी होने पर भी, प्रकृतियों की सम्पत् से युक्त और नीति को जानने वाला होकर समस्त पृथ्वी को अवश्य जीत लेता है, पराजित नहीं होता।"}
+    }
+   ]
+  }
+ ],
+ "summary": "18 units reviewed: 14 fix, 4 ok. 1 error (unit 16 Hindi adds 'भी' twice as emphasis), 25 minor. Word splits, cases, roots and compound types are sound throughout; token coverage matches the e-text. The recurring problem is bracketed glosses inside the Hindi (units 1-8, 10-13, 15, 16, 18) and small interpretive additions in English ('rightly', 'of robbers', 'i.e. the ideal enemy', 'of the soldiers', 'the king's'); patches supply bracket-free Hindi for each. Glossary now fixes prakṛti, sampat, the seven constituents, ātmavān and naya. Needs a person: unit 6 'bhrukuṭī.kṣaṇaḥ' (the e-text's dot convention implies bhrukuṭī + kṣaṇa; the draft reads īkṣaṇa) and the word śakla, whose meaning is unsettled; also the 'samyama' text flag (may be the e-text's own spelling, not a typo). No regrouping suggested."
+}
