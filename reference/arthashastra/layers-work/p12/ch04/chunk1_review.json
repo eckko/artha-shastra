@@ -1,0 +1,632 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(दुर्बल राजा के), वैदेहक (व्यापारी), उस (शत्रु) के, अपरुद्धों (अप्रसन्न किये गये लोगों), आगार (भेंट)",
+     "problem": "bracketed glosses and insertions in the Hindi (brief forbids them); the explanations are already in notes",
+     "fix": "और उसके जो गुप्तचर दुर्गों में वैदेहक के वेष में, गाँवों में गृहपति के वेष में और जनपद की सीमाओं पर गोरक्षक और तापस के वेष में रहते हैं, वे सामन्तों, आटविकों, उसके कुलीनों और अपरुद्धों के पास पहले पण्य और आगार भेजकर यह सन्देश भेजें कि \"यह देश हरण करने योग्य है\"।",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "और उसके जो गुप्तचर दुर्गों में वैदेहक के वेष में, गाँवों में गृहपति के वेष में और जनपद की सीमाओं पर गोरक्षक और तापस के वेष में रहते हैं, वे सामन्तों, आटविकों, उसके कुलीनों और अपरुद्धों के पास पहले पण्य और आगार भेजकर यह सन्देश भेजें कि \"यह देश हरण करने योग्य है\"।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "paṇya-āgāra-pūrvam",
+     "problem": "'goods and dwellings' as gifts is implausible; paṇya-āgāra is the ordinary compound 'shop, warehouse' (MW), so the adverb more naturally means 'with a shop set up first' (the merchant-spies open a trading house as cover, then send word). The draft's note already gives this alternative; which reading to adopt needs a person, so no translation patch",
+     "fix": "a person decides between 'preceded by (gifts of) goods and dwellings' and 'after first (setting up) a shop'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इनके (सामन्त आदि के), (शत्रु की), छिद्र (दुर्बल स्थान); गुप्तचर for gūḍha-puruṣa",
+     "problem": "bracketed insertions and gloss in the Hindi; gūḍha-puruṣa rendered गुप्तचर here but गुप्त पुरुष in unit 18 (glossary now fixes गूढ़ पुरुष)",
+     "fix": "और इनके जो गूढ़ पुरुष दुर्ग में आयें, उनका धन और मान से सत्कार करके वे उन्हें प्रकृतियों के छिद्र दिखायें।",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "hindi",
+      "value": "और इनके जो गूढ़ पुरुष दुर्ग में आयें, उनका धन और मान से सत्कार करके वे उन्हें प्रकृतियों के छिद्र दिखायें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उन (छिद्रों) पर",
+     "problem": "bracketed insertion in the Hindi",
+     "fix": "उन छिद्रों पर वे उनके साथ मिलकर प्रहार करें।",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "hindi",
+      "value": "उन छिद्रों पर वे उनके साथ मिलकर प्रहार करें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उस (शत्रु) के, स्कन्धावार (शिविर), शौण्डिक (मद्य-विक्रेता), अभित्यक्त (प्राणदण्ड पाये), नैषेचनिक (मृतक के निमित्त दान)",
+     "problem": "bracketed glosses in the Hindi; the quoted word is only naiṣecanikam, not 'यह ... है'",
+     "fix": "अथवा उसके स्कन्धावार में शौण्डिक के वेष में रहने वाला गुप्तचर किसी अभित्यक्त पुरुष को अपना पुत्र बनाकर रखे, आक्रमण के समय उसे विष से मरवा दे, और \"नैषेचनिक\" कहकर मदन-रस से युक्त सैकड़ों मद्य के घड़े बाँटे।",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा उसके स्कन्धावार में शौण्डिक के वेष में रहने वाला गुप्तचर किसी अभित्यक्त पुरुष को अपना पुत्र बनाकर रखे, आक्रमण के समय उसे विष से मरवा दे, और \"नैषेचनिक\" कहकर मदन-रस से युक्त सैकड़ों मद्य के घड़े बाँटे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विष से सिद्ध (विषमिश्रित)",
+     "problem": "bracketed gloss in the Hindi",
+     "fix": "अथवा वह एक दिन शुद्ध मद्य या चौथाई मिलाया हुआ मद्य दे, और उसके बाद विष से सिद्ध मद्य दे।",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा वह एक दिन शुद्ध मद्य या चौथाई मिलाया हुआ मद्य दे, और उसके बाद विष से सिद्ध मद्य दे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(दण्डमुख्यों); पहले",
+     "problem": "bracketed gloss in the Hindi; 'पहले' is an addition (the absolutive pradāya already orders the acts)",
+     "fix": "अथवा सेना के मुख्यों को शुद्ध मद्य देकर, नशे के समय विष से सिद्ध मद्य दे।",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा सेना के मुख्यों को शुद्ध मद्य देकर, नशे के समय विष से सिद्ध मद्य दे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(पहले कहा हुआ)",
+     "problem": "bracketed insertion in the Hindi",
+     "fix": "अथवा सेना-मुख्य के वेष में रहने वाला गुप्तचर \"अभित्यक्त पुरुष को पुत्र बनाकर\" इत्यादि वही उपाय करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा सेना-मुख्य के वेष में रहने वाला गुप्तचर \"अभित्यक्त पुरुष को पुत्र बनाकर\" इत्यादि वही उपाय करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pākva.māṃsika → pakva.māṃsika",
+     "problem": "not a typo: pākva-māṃsika is the regular taddhita (ṭhak, -ika) of the compound pakva-māṃsa, 'dealer in cooked meat', with vṛddhi of the first syllable of the whole compound, exactly like audanika (odana), āpūpika (apūpa) and auṇḍika beside it; the e-text's dot inside pākva.māṃsika is only its segmentation. The flag invents a variant and the corrected w no longer matches the printed word",
+     "fix": "remove the text flag; w = pākva-māṃsika-audanika-auṇḍika-āpūpika-vyañjanāḥ",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "8",
+       "op": "set",
+       "field": "text_flags",
+       "value": []
+      },
+      {
+       "n": "8",
+       "op": "word",
+       "match_w": "pakva-māṃsika-audanika-auṇḍika-āpūpika-vyañjanāḥ",
+       "field": "w",
+       "value": "pākva-māṃsika-audanika-auṇḍika-āpūpika-vyañjanāḥ"
+      },
+      {
+       "n": "8",
+       "op": "set",
+       "field": "notes",
+       "value": "pākva-māṃsika: taddhita -ika on the compound pakva-māṃsa with vṛddhi of the first syllable (like audanika, āpūpika), 'dealer in cooked meat'; the printed pākva is correct. auṇḍika: seller of some cooked food (uṇḍa?), exact meaning uncertain; name kept. kālikam taken as sale on time (credit); 'for the occasion / for a limited time' is an equally possible sense."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "औण्डिक (एक प्रकार का भोज्य); के बहाने",
+     "problem": "bracketed gloss in the Hindi; 'के बहाने' (under the pretext of) is an addition, the instrumental says only 'through mutual rivalry'",
+     "fix": "अथवा पके मांस, पके भात, औण्डिक और पूए बेचने वालों के वेष में रहने वाले गुप्तचर विशेष पण्य की घोषणा करके, आपसी होड़ से \"उधार पर\" या \"अधिक सस्ता\" कहकर शत्रुओं को बुलाकर अपने पण्य को विष से दूषित कर दें।",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा पके मांस, पके भात, औण्डिक और पूए बेचने वालों के वेष में रहने वाले गुप्तचर विशेष पण्य की घोषणा करके, आपसी होड़ से \"उधार पर\" या \"अधिक सस्ता\" कहकर शत्रुओं को बुलाकर अपने पण्य को विष से दूषित कर दें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "gṛhītā",
+     "problem": "the draft reads gṛhītāḥ (f. nom. pl. with striyaḥ) but the print has gṛhītā: before s- a visarga is kept in sandhi (gṛhītāḥ striyo), so the printed form lacks it. Correcting it silently in w without a text flag breaks the witness rule; it should be flagged as a possible typing error (the alternative, that gṛhītā is a stray singular, gives no better sense)",
+     "fix": "add text flag gṛhītā → gṛhītāḥ (possible)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "9",
+       "op": "set",
+       "field": "text_flags",
+       "value": [
+        {
+         "src": "gṛhītā",
+         "suggest": "gṛhītāḥ",
+         "why": "possible: nom. pl. f. agreeing with striyaḥ needs the visarga, which sandhi keeps before s- (gṛhītāḥ striyo); the print has none"
+        }
+       ]
+      },
+      {
+       "n": "9",
+       "op": "append_note",
+       "text": "The printed gṛhītā has no visarga though one is expected before striyaḥ; read as gṛhītāḥ and flagged."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(व्यापारी के पात्र में)",
+     "problem": "bracketed insertion in the Hindi",
+     "fix": "\"इसी दाम पर, या इससे अच्छा फिर से दो\" कहकर वे उसे वहीं उड़ेल दें।",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "\"इसी दाम पर, या इससे अच्छा फिर से दो\" कहकर वे उसे वहीं उड़ेल दें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(कार्य), वैदेहक (व्यापारी), (माल)",
+     "problem": "bracketed gloss and insertions in the Hindi",
+     "fix": "ये ही कार्य वैदेहक के वेष में रहने वाले गुप्तचर करें, अथवा पण्य के विक्रय के द्वारा माल लाने वाले करें।",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "set",
+      "field": "hindi",
+      "value": "ये ही कार्य वैदेहक के वेष में रहने वाले गुप्तचर करें, अथवा पण्य के विक्रय के द्वारा माल लाने वाले करें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(शत्रु के) पास",
+     "problem": "bracketed insertion in the Hindi",
+     "fix": "समीप रहने वाले गुप्तचर हाथियों और घोड़ों के आहार और चारे में विष डाल दें।",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "set",
+      "field": "hindi",
+      "value": "समीप रहने वाले गुप्तचर हाथियों और घोड़ों के आहार और चारे में विष डाल दें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(शत्रु-पक्ष से), (जहाँ वे घबरा जायें), (बिगड़ैल)",
+     "problem": "bracketed insertions and glosses in the Hindi",
+     "fix": "अथवा लम्बे समय से मिले-जुले रहने वाले गो-व्यापारी आक्रमण के समयों में शत्रुओं के मोह-स्थानों में गायों या बकरियों-भेड़ों के झुण्ड छोड़ दें, और घोड़ों, गधों, ऊँटों, भैंसों आदि में से दुष्ट पशु भी छोड़ दें।",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा लम्बे समय से मिले-जुले रहने वाले गो-व्यापारी आक्रमण के समयों में शत्रुओं के मोह-स्थानों में गायों या बकरियों-भेड़ों के झुण्ड छोड़ दें, और घोड़ों, गधों, ऊँटों, भैंसों आदि में से दुष्ट पशु भी छोड़ दें।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in places where the enemies would be thrown into confusion",
+     "problem": "paraphrase of pareṣāṃ moha-sthāneṣu 'in the enemies' places of confusion'; the explanation is already in notes",
+     "fix": "in the enemies' places of confusion",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "in places where the enemies would be thrown into confusion",
+      "new": "in the enemies' places of confusion"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उनके (गो-व्यापारियों के), (पशु)",
+     "problem": "bracketed insertions in the Hindi",
+     "fix": "अथवा उनके वेष में रहने वाले गुप्तचर छछूँदर के रक्त से आँखें लिपे हुए पशु छोड़ें।",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा उनके वेष में रहने वाले गुप्तचर छछूँदर के रक्त से आँखें लिपे हुए पशु छोड़ें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विमुख (असावधान); गुप्त पुरुष",
+     "problem": "bracketed gloss in the Hindi; gūḍha-puruṣa = गूढ़ पुरुष (glossary)",
+     "fix": "अथवा गूढ़ पुरुष पैदल, घुड़सवार, रथ और हाथी सेना के मुख्यों को, जब वे विमुख हों, मार डालें, या मुख्यों के आवासों में आग लगा दें।",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा गूढ़ पुरुष पैदल, घुड़सवार, रथ और हाथी सेना के मुख्यों को, जब वे विमुख हों, मार डालें, या मुख्यों के आवासों में आग लगा दें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रतिग्रह (सामना)",
+     "problem": "bracketed gloss in the Hindi",
+     "fix": "अथवा दूष्यों, अमित्रों और आटविकों के वेष में पहले से नियुक्त किये गये गुप्तचर पीछे से प्रहार करें या आक्रमण का प्रतिग्रह करें।",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा दूष्यों, अमित्रों और आटविकों के वेष में पहले से नियुक्त किये गये गुप्तचर पीछे से प्रहार करें या आक्रमण का प्रतिग्रह करें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(गुप्तचर), (संकरे रास्ते), आसार (सहायक सेना)",
+     "problem": "bracketed insertions and gloss in the Hindi",
+     "fix": "अथवा वन में छिपे हुए सीमा पर स्थित टुकड़ी को बाहर खींचकर उस पर प्रहार करें, या एक ही मार्ग पर रसद, आसार और चारा लाने वाले दलों पर प्रहार करें।",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा वन में छिपे हुए सीमा पर स्थित टुकड़ी को बाहर खींचकर उस पर प्रहार करें, या एक ही मार्ग पर रसद, आसार और चारा लाने वाले दलों पर प्रहार करें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तूर्य (रणवाद्य), (भीतर)",
+     "problem": "bracketed gloss and insertion in the Hindi",
+     "fix": "अथवा रात्रि-युद्ध में पूर्व-संकेत के अनुसार बहुत से तूर्य बजाकर वे कहें: \"हम घुस गये हैं, राज्य ले लिया गया है।\"",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा रात्रि-युद्ध में पूर्व-संकेत के अनुसार बहुत से तूर्य बजाकर वे कहें: \"हम घुस गये हैं, राज्य ले लिया गया है।\""
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कोलाहल (भगदड़)",
+     "problem": "bracketed gloss in the Hindi",
+     "fix": "अथवा राजा के आवास में घुसकर वे कोलाहल के बीच राजा को मार डालें।",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा राजा के आवास में घुसकर वे कोलाहल के बीच राजा को मार डालें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह (शत्रु), (योद्धा)",
+     "problem": "bracketed insertions in the Hindi",
+     "fix": "अथवा जब वह बाहर निकल चुका हो, तब म्लेच्छ, आटविक और सेना के साथ चलने वाले योद्धा घात-स्थान का आश्रय लेकर या खंभों की बाड़ का आश्रय लेकर उसे चारों ओर से मार डालें।",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा जब वह बाहर निकल चुका हो, तब म्लेच्छ, आटविक और सेना के साथ चलने वाले योद्धा घात-स्थान का आश्रय लेकर या खंभों की बाड़ का आश्रय लेकर उसे चारों ओर से मार डालें।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(eva?), sattra, stambha-vāṭa",
+     "problem": "checked: '(eva?)' is the e-text's own query mark, not a word of the line, and splitting it as eva with a note is the right handling; daṇṭa → daṇḍa is a true typo (no such word; cf. daṇḍa-mukhya in 6-7). sattra 'concealed station' and stambha-vāṭa 'enclosure of posts' remain tentative (stambha-vāṭa recurs in 25 as a kind of terrain); the draft says so honestly. Needs a person only if a firmer rendering is wanted",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(उस पर)",
+     "problem": "bracketed insertion in the Hindi",
+     "fix": "अथवा शिकारियों के वेष में रहने वाले गुप्तचर आक्रमण की भगदड़ में गूढ़ युद्ध के साधनों से उस पर प्रहार करें।",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा शिकारियों के वेष में रहने वाले गुप्तचर आक्रमण की भगदड़ में गूढ़ युद्ध के साधनों से उस पर प्रहार करें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śaila-stambha-vāṭa-khañjana-antar-udake",
+     "problem": "a dvandva of five members cannot be loc. sg.; the gloss itself reads it as '(a place) having rock ... water in between', i.e. a bahuvrīhi (dvandva inside)",
+     "fix": "n. loc. sg., bahuvrīhi (dvandva inside)",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "śaila-stambha-vāṭa-khañjana-antar-udake",
+      "field": "gram",
+      "value": "n. loc. sg., bahuvrīhi (dvandva inside)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपनी भूमि (के अनुकूल) सेना",
+     "problem": "bracketed insertion in the Hindi",
+     "fix": "अथवा एक ही मार्ग पर, या चट्टान, खंभों की बाड़, दलदल या बीच में पानी वाले स्थान पर, वे अपनी भूमि की सेना से प्रहार करें।",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा एक ही मार्ग पर, या चट्टान, खंभों की बाड़, दलदल या बीच में पानी वाले स्थान पर, वे अपनी भूमि की सेना से प्रहार करें।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "khañjana",
+     "problem": "khañjana 'mire' is a guess from √khañj 'limp' (the dictionary word khañjana is the wagtail); the draft marks it uncertain, which is right. Needs a person with Kangle's notes",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(जल के)",
+     "problem": "bracketed insertion in the Hindi",
+     "fix": "अथवा नदी, सरोवर या तालाब के बाँध को तोड़कर उसके वेग से उसे डुबो दें।",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा नदी, सरोवर या तालाब के बाँध को तोड़कर उसके वेग से उसे डुबो दें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "धान्वन (मरुभूमि), निम्न (जल), उस (शत्रु), योग (गुप्त उपाय)",
+     "problem": "bracketed glosses and insertion in the Hindi",
+     "fix": "अथवा धान्वन दुर्ग, वन दुर्ग या निम्न दुर्ग में स्थित उसको योग से उत्पन्न अग्नि और धूम से नष्ट कर दें।",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा धान्वन दुर्ग, वन दुर्ग या निम्न दुर्ग में स्थित उसको योग से उत्पन्न अग्नि और धूम से नष्ट कर दें।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ādīpta-āvāsān",
+     "problem": "the draft rightly reads the printed ādīpta.āvāsān as abl. sg. ādīpta-āvāsāt with t > n before niṣpatantam (gram says m. abl. sg., translation 'from his burning quarters'), but w keeps the sandhi form; w must be the form with sandhi undone",
+     "fix": "ādīpta-āvāsāt",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "ādīpta-āvāsān",
+      "field": "w",
+      "value": "ādīpta-āvāsāt"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तीक्ष्ण (घातक), संकट-स्थान (संकरी जगह), निधान (भण्डार या गुप्त स्थान), (गोताखोरों), (मार डालें)",
+     "problem": "bracketed glosses and insertions in the Hindi; तीक्ष्ण = assassin (glossary)",
+     "fix": "तीक्ष्ण पुरुष संकट-स्थान में गये हुए को अग्नि से, मरुभूमि में गये हुए को धुएँ से, निधान में गये हुए को विष से, पानी में उतरे हुए को दुष्ट ग्राहों से या पानी में चलने वालों से मार डालें, अथवा जलते हुए आवास से निकलते हुए को मार डालें।",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "set",
+      "field": "hindi",
+      "value": "तीक्ष्ण पुरुष संकट-स्थान में गये हुए को अग्नि से, मरुभूमि में गये हुए को धुएँ से, निधान में गये हुए को विष से, पानी में उतरे हुए को दुष्ट ग्राहों से या पानी में चलने वालों से मार डालें, अथवा जलते हुए आवास से निकलते हुए को मार डालें।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "nidhāna-gata, udaka-caraṇa",
+     "problem": "checked: nidhāna 'place of deposit, store-room / hidden chamber' is the plain sense and the note marks it tentative; udaka-caraṇa 'men moving in water' (divers) is reasonable. Nothing to change; a person may want to confirm against Kangle",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "योग (गुप्त उपाय)",
+     "problem": "bracketed gloss in the Hindi",
+     "fix": "योग और वामन-योग के द्वारा, अथवा किसी अन्य योग के द्वारा, ऊपर कही गई भूमियों में फँसे हुए शत्रु को वह छल से पराजित करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "hindi",
+      "value": "योग और वामन-योग के द्वारा, अथवा किसी अन्य योग के द्वारा, ऊपर कही गई भूमियों में फँसे हुए शत्रु को वह छल से पराजित करे।"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "yoga-vāmana-yoga",
+     "problem": "checked: the dual yoga-vāmana-yogābhyām is genuinely obscure; the split, the dual dvandva reading and 'low' confidence are honest, and the second line (amitram atisandadhyāt saktam uktāsu bhūmiṣu) is right. The sense of vāmana-yoga needs a person with Kangle's notes; no change",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "29 units reviewed: 26 fix, 3 ok. 1 error, 34 minor; all but five advisory items carry machine patches; no regrouping suggested. Tokens, splits, cases, roots and compound types are sound; the one real error is unit 8, where the draft flags pākva.māṃsika as a typo for pakva-: pākva-māṃsika is the regular -ika taddhita of the compound pakva-māṃsa with initial vṛddhi (like audanika, āpūpika beside it), so the flag is removed and w restored to the printed form. The other four text flags are right (grāmeṣu, rasa.siddhaṃ, daṇḍa; vikrayeṇa plausible and honestly marked 'possible'). Unit 9 needs a text flag the draft lacks (printed gṛhītā for gṛhītāḥ before striyaḥ, silently corrected in w). Unit 28: w ādīpta-āvāsān should be the unsandhied ablative ādīpta-āvāsāt that the draft itself reads. Unit 25: five-member compound labelled dvandva loc. sg. is a bahuvrīhi. The recurring problem is bracketed glosses and insertions inside the Hindi of 25 units (1-8, 10-12, 14, 15, 18-29); patches supply bracket-free Hindi, with gūḍha-puruṣa = गूढ़ पुरुष made consistent. Small additions removed: 'पहले' (6), 'के बहाने' (8), the English paraphrase of moha-sthāneṣu (14). Checked as asked and left as drafted (honest notes, no firm reading): 12.4.1 paṇya-āgāra-pūrvam (I think 'with a shop set up first' is likelier than 'gifts of goods and dwellings'; a person should choose), 12.4.4 naiṣecanikam and 12.4.5 pādyam, 12.4.8 auṇḍika and kālikam ('on credit' vs 'for the occasion'), 12.4.23 (eva?) mark, sattra and stambha-vāṭa, 12.4.25 khañjana, 12.4.28 nidhāna-gata, 12.4.29 yoga-vāmana-yoga (low confidence is right). Glossary extended with Book 12 terms (gūḍha-puruṣa, X-vyañjana, tīkṣṇa, rasa = poison, abhityakta, skandha-āvāra, avaskanda, yoga in Book 12)."
+}

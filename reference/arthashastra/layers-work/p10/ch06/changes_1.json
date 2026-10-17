@@ -1,0 +1,157 @@
+[
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "prapakṣa: the prefix pra- ('fore-wing') is unusual here; the sense required is simply pakṣa, so 'pra' may be a slip of the typed text or a variant (possible; not flagged firmly). 'prakṛti' here = basic/primary form, not the 'constituent element' of the state. Array names kept in both languages: daṇḍa = staff (दण्ड), bhoga = snake (भोग), maṇḍala = circle (मण्डल), asaṃhata = loose array (असंहत).",
+  "new": "prapakṣa = fore-wing (the outer end of a wing), an attested term of this text; not a slip. ubhayoḥ 'of both': the referent is not stated (the two schools of units 1-2, the two sides, or the two wings) and is left open. 'prakṛti' here = basic/primary form, not the 'constituent element' of the state. Array names kept in both languages: daṇḍa = staff (दण्ड), bhoga = snake (भोग), maṇḍala = circle (मण्डल), asaṃhata = loose array (असंहत).",
+  "why": "reviewer (error): The note treats pra- as a possible slip of the typed text. prapakṣa is an attested word (the outer end / fore-part of a wing; MW cites it from this very text), so the draft must not hint at a typo. The referent of ubhayoḥ is also not discussed although the translation commits to 'both (schools)'."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "prapakṣa-kakṣa-urasyāḥ",
+  "old": "the (fore-)wings, flanks and centre",
+  "new": "the fore-wings, flanks and centre",
+  "why": "reviewer (error): Gloss '(fore-)wings' hedges on a real word; prapakṣa should be glossed as it stands."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Wings, flanks and centre are (common) to both (schools); the staff (danda), the snake (bhoga), the circle (mandala) and the loose array (asamhata) are the basic arrays.",
+  "new": "The fore-wings, flanks and centre (are) of both; the staff (danda), the snake (bhoga), the circle (mandala) and the loose array (asamhata) are the basic arrays.",
+  "why": "reviewer (error): Drops 'pra-' (fore-wings) and adds an interpretation '(common) ... (schools)' that the line does not state."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "पक्ष, कक्ष और उरस्य दोनों (मतों) में समान हैं; दण्ड, भोग, मण्डल और असंहत — ये मूल व्यूह हैं।",
+  "new": "प्रपक्ष, कक्ष और उरस्य दोनों के हैं; दण्ड, भोग, मण्डल और असंहत — ये मूल व्यूह हैं।",
+  "why": "reviewer (error): Same as English: 'प्रपक्ष' rendered as पक्ष, and 'दोनों (मतों) में समान' is an added interpretation."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "उनमें जिसकी स्थिति आड़ी (तिरछी एक पंक्ति में) हो, वह दण्ड है।",
+  "new": "उनमें जिसकी स्थिति आड़ी हो, वह दण्ड है।",
+  "why": "reviewer (minor): Bracketed explanation inside the Hindi; the glossary rule puts explanations in notes (the note already has it)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Among these, the one whose disposition is transverse (in a line across the front) is the staff.",
+  "new": "Among these, the one whose disposition is transverse is the staff.",
+  "why": "reviewer (minor): Added explanation not in the Sanskrit; it is already in notes."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "पक्षों, कक्षों और उरस्य के साथ समान रूप से (एक पंक्ति में) खड़ा हुआ (व्यूह) दण्ड है।",
+  "new": "पक्षों, कक्षों और उरस्य के साथ समान रूप से खड़ा हुआ (व्यूह) दण्ड है।",
+  "why": "reviewer (minor): Bracketed explanation inside the Hindi."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "The (array) standing evenly (in one line) with wings, flanks and centre is the staff.",
+  "new": "The (array) standing evenly with wings, flanks and centre is the staff.",
+  "why": "reviewer (minor): Added explanation not in the Sanskrit."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "जिसके पक्ष चाप (धनुष) के आकार के हों, वह सञ्जय है।",
+  "new": "जिसके पक्ष चाप के आकार के हों, वह सञ्जय है।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "जिसके पक्षों के कर्ण (किनारे) मोटे हों, वह स्थूणाकर्ण है।",
+  "new": "जिसके पक्षों के कर्ण मोटे हों, वह स्थूणाकर्ण है।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi; the sense of karṇa is in notes."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "जिसके पक्षों की स्थूणाएँ (स्तम्भ) दुगुनी हों, वह विशालविजय है।",
+  "new": "जिसके पक्षों की स्थूणाएँ दुगुनी हों, वह विशालविजय है।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi; the sense is in notes."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "पक्षों, कक्षों और उरस्य के साथ विषम रूप से (असमान पंक्ति में) खड़ा हुआ (व्यूह) भोग है।",
+  "new": "पक्षों, कक्षों और उरस्य के साथ विषम रूप से खड़ा हुआ (व्यूह) भोग है।",
+  "why": "reviewer (minor): Bracketed explanation inside the Hindi."
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "uddhānaka: the literal sense is unclear (perhaps 'the raised/upturned'); kept as a name.",
+  "new": "uddhānaka: the literal sense is unclear (perhaps 'the raised/upturned'); kept as a name. Reviewer: a reading udyānaka ('garden') for this name is recalled from an older translation but could not be verified; the typed uddhānakaḥ is kept as given and should be checked against the printed edition by a person.",
+  "why": "reviewer (minor): The name is kept unexplained, which is right, but a person should check it against the printed edition: an older translation is recalled as reading udyānaka ('garden') here; this could not be verified in this review and must not be entered as a variant without that check."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "Of foot-soldiers, horses, chariots and elephants, he should strike down each earlier one with the one following it, and (a force) deficient in a limb with (one) having that limb in excess.",
+  "new": "Of foot-soldiers, horses, chariots and elephants, he should strike down each earlier one with the one following it, and (a force) deficient in a limb with (one) having a limb in excess.",
+  "why": "reviewer (minor): 'that limb' narrows adhika-aṅga ('having a limb in excess / a superior limb') beyond the Sanskrit."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "दस अंगों (इकाइयों) का एक पति, पतिक (कहलाता) है; दस पतिकों का एक सेनापति; उन (सेनापतियों) के दस का एक नायक — इस प्रकार (व्यवस्था) है।",
+  "new": "दस अंगों का एक पति, पतिक (कहलाता) है; दस पतिकों का एक सेनापति; उन (सेनापतियों) के दस का एक नायक — इस प्रकार (व्यवस्था) है।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi; the sense of aṅga is in notes."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Of a group of ten units, one chief is the patika; of a group of ten patikas, one is the senapati (army commander); of a group of ten of those, one is the nayaka (leader). Thus (is the chain of command).",
+  "new": "Of a group of ten units, one chief is the patika; of a group of ten patikas, one is the senapati (army commander); of a group of ten of those, one is the nayaka (leader) — thus.",
+  "why": "reviewer (minor): '(is the chain of command)' is an added explanation; iti only closes the statement."
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "व्यूह समान होने पर देश, काल और सार (बल) के प्रयोग से सिद्धि होती है।",
+  "new": "व्यूह समान होने पर देश, काल और सार के प्रयोग से सिद्धि होती है।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi; the sense of sāra is in notes."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "यन्त्रों से, उपनिषद् (गुप्त) प्रयोगों से, असावधान (व्यस्त) लोगों पर प्रहार करने वाले तीक्ष्णों से, मायाओं से, देवताओं से सम्बद्ध प्रयोगों से, हाथियों को डराने वाले शकटों से —",
+  "new": "यन्त्रों से, गुप्त प्रयोगों से, असावधान लोगों पर प्रहार करने वाले तीक्ष्णों से, मायाओं से, देवताओं से सम्बद्ध प्रयोगों से, हाथियों को डराने वाले शकटों से —",
+  "why": "reviewer (minor): Two bracketed glosses inside the Hindi."
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "with revolts stirred up among the treasonable, with herds of cattle, with the setting of the camp on fire, with blows on the extremities and the rear, or with the sowing of dissension by agents disguised as envoys —",
+  "new": "with revolts of the treasonable, with herds of cattle, with the setting of the camp on fire, with blows on the extremities and the rear, or with the sowing of dissension by agents disguised as envoys —",
+  "why": "reviewer (minor): 'stirred up among' is added; dūṣya-prakopa is 'revolt(s) of the treasonable'."
+ },
+ {
+  "n": "49",
+  "field": "hindi",
+  "old": "दूष्यों के विद्रोह कराने से, गायों के झुण्डों से, स्कन्धावार (छावनी) में आग लगाने से, कोटि (पार्श्वों के सिरों) और पिछले भाग पर प्रहार से, अथवा दूत के वेष वाले (गुप्तचरों) द्वारा फूट डालने से —",
+  "new": "दूष्यों के विद्रोहों से, गायों के झुण्डों से, स्कन्धावार में आग लगाने से, कोटि और पिछले भाग पर प्रहार से, अथवा दूत के वेष वालों द्वारा फूट डालने से —",
+  "why": "reviewer (minor): 'कराने' (causing) is added, and three bracketed glosses stand inside the Hindi."
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "dūṣya = the treasonable (glossary). koṭī = extremity, tip (of the array's wings); jaghana = rear. dūta-vyañjana = one wearing the guise of an envoy.",
+  "new": "dūṣya = the treasonable (glossary). koṭī = extremity, tip (of the array's wings); jaghana = rear. dūta-vyañjana = one wearing the guise of an envoy. skandhāvāra = camp (छावनी); koṭī = tip of the wings (पार्श्वों के सिरे).",
+  "why": "reviewer (minor): The sense moved out of the Hindi brackets should be in notes."
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "धनुर्धारी के द्वारा छोड़ा हुआ बाण एक को मारे या न मारे; परन्तु प्रज्ञावान् के द्वारा छोड़ी हुई बुद्धि (युक्ति) गर्भ में स्थित (अजन्मे) लोगों को भी मार देती है।",
+  "new": "धनुर्धारी के द्वारा छोड़ा हुआ बाण एक को मारे या न मारे; परन्तु प्रज्ञावान् के द्वारा छोड़ी हुई बुद्धि गर्भ में स्थित लोगों को भी मार देती है।",
+  "why": "reviewer (minor): Two bracketed glosses inside the Hindi; the sense of mati is in notes."
+ }
+]
