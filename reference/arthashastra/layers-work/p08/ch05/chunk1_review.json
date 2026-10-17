@@ -1,0 +1,257 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "chinna-dhānya-puruṣa-vīvadham",
+     "problem": "vīvadha is the supply line; the compound is dhānya-vīvadha + puruṣa-vīvadha (supply of grain, supply of men), as 8.5.14 shows: chinna-puruṣa-vīvadha is explained there by anabhisāra 'no reinforcement coming'. 'grain, men and supplies' makes three separate things.",
+     "fix": "with its supplies of grain and men cut off",
+     "severity": "minor",
+     "patch": {"n": "1", "op": "word", "match_w": "chinna-dhānya-puruṣa-vīvadham", "field": "gloss", "value": "with its supplies of grain and men cut off"}
+    },
+    {
+     "field": "english",
+     "where": "with its grain, men and supplies cut off",
+     "problem": "same as the gloss: three items instead of two supply lines",
+     "fix": "with its supplies of grain and men cut off",
+     "severity": "minor",
+     "patch": {"n": "1", "op": "replace", "field": "english", "old": "with its grain, men and supplies cut off", "new": "with its supplies of grain and men cut off"}
+    },
+    {
+     "field": "hindi",
+     "where": "जिसके धान्य, पुरुष और रसद कट गए हों",
+     "problem": "same as the gloss",
+     "fix": "जिसकी धान्य और पुरुषों की रसद कट गई हो",
+     "severity": "minor",
+     "patch": {"n": "1", "op": "replace", "field": "hindi", "old": "जिसके धान्य, पुरुष और रसद कट गए हों", "new": "जिसकी धान्य और पुरुषों की रसद कट गई हो"}
+    }
+   ]
+  },
+  {"n": "2", "verdict": "ok", "issues": []},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "ok", "issues": []},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "ok", "issues": []},
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "ok", "issues": []},
+  {"n": "11", "verdict": "ok", "issues": []},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "chinna-dhānya-puruṣa-vīvadhayoḥ",
+     "problem": "the second member is chinna-puruṣa-vīvadha 'with the supply of men cut off' (explained by anabhisāra), not 'men and supplies'",
+     "fix": "of the one with its grain cut off and the one with its supply of men cut off",
+     "severity": "minor",
+     "patch": {"n": "14", "op": "word", "match_w": "chinna-dhānya-puruṣa-vīvadhayoḥ", "field": "gloss", "value": "of the one with its grain cut off and the one with its supply of men cut off"}
+    },
+    {
+     "field": "gloss",
+     "where": "chinna-puruṣa-vīvadham",
+     "problem": "puruṣa-vīvadha = supply of men (reinforcements)",
+     "fix": "the one with its supply of men cut off",
+     "severity": "minor",
+     "patch": {"n": "14", "op": "word", "match_w": "chinna-puruṣa-vīvadham", "field": "gloss", "value": "the one with its supply of men cut off"}
+    },
+    {
+     "field": "english",
+     "where": "whose men and supplies are cut off (twice)",
+     "problem": "same; 'supply of men' keeps the link with 'no reinforcement coming'",
+     "fix": "Between the one whose grain is cut off and the one whose supply of men is cut off, the one whose grain is cut off would fight after bringing grain from elsewhere, or living on food from moving and stationary things, not the one whose supply of men is cut off, which has no reinforcement coming.",
+     "severity": "minor",
+     "patch": {"n": "14", "op": "set", "field": "english", "value": "Between the one whose grain is cut off and the one whose supply of men is cut off, the one whose grain is cut off would fight after bringing grain from elsewhere, or living on food from moving and stationary things, not the one whose supply of men is cut off, which has no reinforcement coming."}
+    },
+    {
+     "field": "hindi",
+     "where": "जिसके पुरुष और रसद कट गए हों (twice)",
+     "problem": "same",
+     "fix": "जिसका धान्य कट गया हो और जिसकी पुरुषों की रसद कट गई हो, इन दोनों के बीच, जिसका धान्य कट गया हो वह सेना दूसरी जगह से धान्य लाकर, अथवा चर और अचर वस्तुओं का आहार करके लड़ेगी, पर जिसकी पुरुषों की रसद कट गई हो वह सेना नहीं, जिसे कोई सहायता नहीं पहुँचती।",
+     "severity": "minor",
+     "patch": {"n": "14", "op": "set", "field": "hindi", "value": "जिसका धान्य कट गया हो और जिसकी पुरुषों की रसद कट गई हो, इन दोनों के बीच, जिसका धान्य कट गया हो वह सेना दूसरी जगह से धान्य लाकर, अथवा चर और अचर वस्तुओं का आहार करके लड़ेगी, पर जिसकी पुरुषों की रसद कट गई हो वह सेना नहीं, जिसे कोई सहायता नहीं पहुँचती।"}
+    }
+   ]
+  },
+  {"n": "15", "verdict": "ok", "issues": []},
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दूष्यों को संगठित न होने देकर",
+     "problem": "asaṃhatam is n. nom. sg. agreeing with the army: the army is 'not kept in one body / not massed'. The Hindi supplies 'दूष्यों को' as object, an interpretation not in the text (and not in the English).",
+     "fix": "दूष्यों से युक्त और दुष्ट पार्ष्णिग्राह वाली के बीच, दूष्यों से युक्त सेना विश्वस्त पुरुषों के अधीन रखी जाकर और एक साथ संगठित न रखी जाकर लड़ेगी, पर दुष्ट पार्ष्णिग्राह वाली सेना नहीं, जो पीठ पीछे से आघात से डरी हुई है।",
+     "severity": "minor",
+     "patch": {"n": "16", "op": "set", "field": "hindi", "value": "दूष्यों से युक्त और दुष्ट पार्ष्णिग्राह वाली के बीच, दूष्यों से युक्त सेना विश्वस्त पुरुषों के अधीन रखी जाकर और एक साथ संगठित न रखी जाकर लड़ेगी, पर दुष्ट पार्ष्णिग्राह वाली सेना नहीं, जो पीठ पीछे से आघात से डरी हुई है।"}
+    },
+    {
+     "field": "english",
+     "where": "and kept from combining",
+     "problem": "'kept from combining' reads as if the traitors are the subject; the participle describes the army as not massed in one body",
+     "fix": "and not kept in one body",
+     "severity": "minor",
+     "patch": {"n": "16", "op": "replace", "field": "english", "old": "and kept from combining", "new": "and not kept in one body"}
+    },
+    {
+     "field": "gloss",
+     "where": "asaṃhatam",
+     "problem": "same",
+     "fix": "not kept in one body",
+     "severity": "minor",
+     "patch": {"n": "16", "op": "word", "match_w": "asaṃhatam", "field": "gloss", "value": "not kept in one body"}
+    }
+   ]
+  },
+  {"n": "17", "verdict": "ok", "issues": []},
+  {"n": "18", "verdict": "ok", "issues": []},
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "uttara-pakṣasya",
+     "problem": "the word is genitive; the gloss should show the case even though the translation says 'peace with'",
+     "fix": "of the stronger side",
+     "severity": "minor",
+     "patch": {"n": "19", "op": "word", "match_w": "uttara-pakṣasya", "field": "gloss", "value": "of the stronger side"}
+    }
+   ]
+  },
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "ok", "issues": []},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "abhiyuñjāne",
+     "problem": "vi-√krī takes the locative of the buyer; 'vikrītam abhiyuñjāne' is most naturally 'sold to the one attacking (it)', not a subjectless locative absolute 'when (someone) is attacking'. The draft's own note lists this as the alternative; it should be the main reading.",
+     "fix": "to the one attacking (it)",
+     "severity": "minor",
+     "patch": {"n": "23", "op": "word", "match_w": "abhiyuñjāne", "field": "gloss", "value": "to the one attacking (it)"}
+    },
+    {
+     "field": "english",
+     "where": "one sold out, when someone is attacking it or in battle, by one who turns away from it",
+     "problem": "same; and 'from it' is added. saṅgrāme vā apavartinā = 'or in battle, by one who turns away (deserts)'.",
+     "fix": "one sold to the one attacking it, or in battle by one who turns away; or through the dual policy, or by one who is about to go over to the enemy, or to another from elsewhere;",
+     "severity": "minor",
+     "patch": {"n": "23", "op": "set", "field": "english", "value": "one sold to the one attacking it, or in battle by one who turns away; or through the dual policy, or by one who is about to go over to the enemy, or to another from elsewhere;"}
+    },
+    {
+     "field": "hindi",
+     "where": "जब कोई उस पर आक्रमण कर रहा हो",
+     "problem": "same",
+     "fix": "जो मित्र आक्रमण करने वाले को बेच दिया गया हो, या युद्ध में मुँह मोड़ लेने वाले के द्वारा; या द्वैधीभाव के द्वारा, या शत्रु के पास जाने वाले के द्वारा, या अन्यत्र से किसी दूसरे के पास जाने वाले के द्वारा;",
+     "severity": "minor",
+     "patch": {"n": "23", "op": "set", "field": "hindi", "value": "जो मित्र आक्रमण करने वाले को बेच दिया गया हो, या युद्ध में मुँह मोड़ लेने वाले के द्वारा; या द्वैधीभाव के द्वारा, या शत्रु के पास जाने वाले के द्वारा, या अन्यत्र से किसी दूसरे के पास जाने वाले के द्वारा;"}
+    },
+    {
+     "field": "notes",
+     "where": "abhiyuñjāne",
+     "problem": "the note should state the reverse of what it now says (locative of the buyer as main reading, locative absolute as alternative)",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {"n": "23", "op": "append_note", "text": "Reviewer: vi-√krī takes the locative of the buyer, so 'sold to the attacker' is taken as the main reading and 'when under attack' as the alternative. anyam anyataḥ remains terse: 'to another (king) from another quarter'."}
+    }
+   ]
+  },
+  {"n": "24", "verdict": "ok", "issues": []},
+  {"n": "25", "verdict": "ok", "issues": []},
+  {"n": "26", "verdict": "ok", "issues": []},
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो याचना करने के बाद विरोध किया गया हो",
+     "problem": "Hindi and English disagree on the agent of prārthayitvā: the English has the ally solicited (by the king) and then antagonised; the Hindi has the ally making a request and then being opposed. The absolutive shares its agent with the main (passive) verb virodhitam, i.e. the king: 'having solicited (it), antagonised (it)'. The Hindi must say so.",
+     "fix": "जो उपेक्षित किया गया हो, या असमर्थता से; जिससे याचना करके फिर उसका विरोध किया गया हो — ऐसा मित्र कठिनाई से वश में आता है और वश में आकर भी शीघ्र ही विरक्त हो जाता है।",
+     "severity": "error",
+     "patch": {"n": "27", "op": "set", "field": "hindi", "value": "जो उपेक्षित किया गया हो, या असमर्थता से; जिससे याचना करके फिर उसका विरोध किया गया हो — ऐसा मित्र कठिनाई से वश में आता है और वश में आकर भी शीघ्र ही विरक्त हो जाता है।"}
+    },
+    {
+     "field": "notes",
+     "where": "prārthayitvā virodhitam",
+     "problem": "the ambiguity should be recorded",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {"n": "27", "op": "append_note", "text": "prārthayitvā virodhitam: the absolutive's agent is taken as the king's (he solicited the ally's help, then antagonised it); the other reading, 'the ally asked for something and was refused', is possible but makes the absolutive change subject."}
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "or honoured, but not suitably; or held back to the extent of one's power",
+     "problem": "The parse 'mānitaṃ vā na sadṛśaṃ śaktito vā | nivāritam' (honoured neither in a fitting way nor according to its power; or prevented [from its object]) is at least as natural as the draft's 'śaktito nivāritam', and 'held back to the extent of one's power' has no clear sense for an ally. The two vā coordinate sadṛśam and śaktitaḥ under na; nivāritam then stands alone like the other participles in 28-29. Not patched: needs a person to choose; confidence 'medium' is right.",
+     "fix": "or honoured, but neither suitably nor according to its power; or held back;",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "śaktito nivāritam",
+     "problem": "record the alternative parse",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {"n": "28", "op": "append_note", "text": "Reviewer: alternative parse 'mānitaṃ vā na sadṛśaṃ śaktito vā' = honoured neither suitably nor according to its power, with nivāritam ('prevented [from its object]') as a separate item; this may be preferable, since 'held back to the extent of one's power' gives no clear sense."}
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "mitra-upaghāta-trastam",
+     "problem": "glossary: mitra = ally",
+     "fix": "frightened by injury done to an ally",
+     "severity": "minor",
+     "patch": {"n": "29", "op": "word", "match_w": "mitra-upaghāta-trastam", "field": "gloss", "value": "frightened by injury done to an ally"}
+    },
+    {
+     "field": "english",
+     "where": "injury done to a friend",
+     "problem": "glossary: mitra = ally",
+     "fix": "injury done to an ally",
+     "severity": "minor",
+     "patch": {"n": "29", "op": "replace", "field": "english", "old": "injury done to a friend", "new": "injury done to an ally"}
+    },
+    {
+     "field": "text_flags",
+     "where": "bhedituṃ",
+     "problem": "'bhedituṃ' is not a regular form: the infinitive of √bhid is bhettum (aniṭ) and of the causative bhedayitum. The regular form that fits the line is the causative past participle bheditaṃ ('estranged [by traitors]'), parallel to trastam and śaṅkitam, with mitraṃ sādhyaṃ as the predicate. Possible typo in the e-text; check Kangle's printed text before flagging. Not patched.",
+     "fix": "text_flag: src 'bhedituṃ' -> suggest 'bheditaṃ' (possible); if adopted, gloss 'estranged', gram 'n. nom. sg. (caus. p.p.p.)', English 'or estranged by treasonable persons', Hindi 'या जो दूष्यों के द्वारा फोड़ा गया हो'",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "bhedituṃ",
+     "problem": "record the form problem",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {"n": "29", "op": "append_note", "text": "Reviewer: bhedituṃ is an irregular form (expected bhettum or bhedayitum); bheditaṃ, the causative past participle 'estranged', would parallel trastam/śaṅkitam. To be checked against the printed edition."}
+    }
+   ]
+  },
+  {"n": "30", "verdict": "ok", "issues": []}
+ ],
+ "summary": "30 units reviewed; 9 units marked fix, 23 issues (1 error, 22 minor), 21 with machine patches. Error: 27 Hindi gives the ally as the agent of prārthayitvā while the English (correctly) gives the king. Minor: vīvadha read as 'supply line' (puruṣa-vīvadha = supply of men, matching anabhisāra) in 1 and 14; 16 Hindi adds 'दूष्यों को' as object of asaṃhatam, which describes the army; 23 'vikrītam abhiyuñjāne' should be 'sold to the attacker' (locative of buyer); 29 friend -> ally per glossary; 19 genitive gloss. Items needing a person: 8.5.2 'aniyatayor' (drafter's flag kept as 'possible'; cannot be settled from the e-text), 8.5.28 parse of 'śaktito' (with mānitam or with nivāritam), 8.5.29 'bhedituṃ' (irregular form; bheditaṃ suspected). Drafter's 8.5.4 flag dūra.āyatam -> dūra.āyātam agreed. 8.5.9 antar-amitram agreed (the e-text's dot is its own segmentation). 8.5.26 'bhaṅktvā param upasthitam' with the ally as subject of both agreed, confidence medium is honest. No regrouping suggested. Hindi contains no brackets or Latin letters. GLOSSARY.md extended with 8.5 terms."
+}

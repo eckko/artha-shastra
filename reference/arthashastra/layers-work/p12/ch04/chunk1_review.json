@@ -8,14 +8,51 @@
      "field": "hindi",
      "where": "(दुर्बल राजा के), वैदेहक (व्यापारी), उस (शत्रु) के, अपरुद्धों (अप्रसन्न किये गये लोगों), आगार (भेंट)",
      "problem": "bracketed glosses and insertions in the Hindi (brief forbids them); the explanations are already in notes",
-     "fix": "और उसके जो गुप्तचर दुर्गों में वैदेहक के वेष में, गाँवों में गृहपति के वेष में और जनपद की सीमाओं पर गोरक्षक और तापस के वेष में रहते हैं, वे सामन्तों, आटविकों, उसके कुलीनों और अपरुद्धों के पास पहले पण्य और आगार भेजकर यह सन्देश भेजें कि \"यह देश हरण करने योग्य है\"।",
+     "fix": "और उसके जो गुप्तचर दुर्गों में व्यापारी के वेष में, गाँवों में गृहपति के वेष में और जनपद की सीमाओं पर गोरक्षक और तापस के वेष में रहते हैं, वे सामन्तों, आटविकों, उसके कुलीनों और अपरुद्धों के पास पहले पण्य और आगार भेजकर यह सन्देश भेजें कि \"यह देश हरण करने योग्य है\"।",
      "severity": "minor",
      "patch": {
       "n": "1",
       "op": "set",
       "field": "hindi",
-      "value": "और उसके जो गुप्तचर दुर्गों में वैदेहक के वेष में, गाँवों में गृहपति के वेष में और जनपद की सीमाओं पर गोरक्षक और तापस के वेष में रहते हैं, वे सामन्तों, आटविकों, उसके कुलीनों और अपरुद्धों के पास पहले पण्य और आगार भेजकर यह सन्देश भेजें कि \"यह देश हरण करने योग्य है\"।"
+      "value": "और उसके जो गुप्तचर दुर्गों में व्यापारी के वेष में, गाँवों में गृहपति के वेष में और जनपद की सीमाओं पर गोरक्षक और तापस के वेष में रहते हैं, वे सामन्तों, आटविकों, उसके कुलीनों और अपरुद्धों के पास पहले पण्य और आगार भेजकर यह सन्देश भेजें कि \"यह देश हरण करने योग्य है\"।"
      }
+    },
+    {
+     "field": "english",
+     "where": "merchants; forest chiefs; those in disfavour",
+     "problem": "glossary renderings: vaidehaka = trader (12.2), āṭavika = forest chieftain (12.3), aparuddha = prince in disfavour (12.1, 12.3)",
+     "fix": "disguised as traders ... the forest chieftains ... princes in disfavour",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "1",
+       "op": "replace",
+       "field": "english",
+       "old": "disguised as merchants",
+       "new": "disguised as traders"
+      },
+      {
+       "n": "1",
+       "op": "replace",
+       "field": "english",
+       "old": "the forest chiefs",
+       "new": "the forest chieftains"
+      },
+      {
+       "n": "1",
+       "op": "replace",
+       "field": "english",
+       "old": "those in disfavour",
+       "new": "princes in disfavour"
+      },
+      {
+       "n": "1",
+       "op": "word",
+       "match_w": "vaidehaka-vyañjanāḥ",
+       "field": "gloss",
+       "value": "disguised as traders"
+      }
+     ]
     },
     {
      "field": "gloss",
@@ -246,14 +283,37 @@
      "field": "hindi",
      "where": "(कार्य), वैदेहक (व्यापारी), (माल)",
      "problem": "bracketed gloss and insertions in the Hindi",
-     "fix": "ये ही कार्य वैदेहक के वेष में रहने वाले गुप्तचर करें, अथवा पण्य के विक्रय के द्वारा माल लाने वाले करें।",
+     "fix": "ये ही कार्य व्यापारी के वेष में रहने वाले गुप्तचर करें, अथवा पण्य के विक्रय के द्वारा माल लाने वाले करें।",
      "severity": "minor",
      "patch": {
       "n": "11",
       "op": "set",
       "field": "hindi",
-      "value": "ये ही कार्य वैदेहक के वेष में रहने वाले गुप्तचर करें, अथवा पण्य के विक्रय के द्वारा माल लाने वाले करें।"
+      "value": "ये ही कार्य व्यापारी के वेष में रहने वाले गुप्तचर करें, अथवा पण्य के विक्रय के द्वारा माल लाने वाले करें।"
      }
+    },
+    {
+     "field": "english",
+     "where": "disguised as merchants",
+     "problem": "glossary: vaidehaka = trader",
+     "fix": "disguised as traders",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "11",
+       "op": "replace",
+       "field": "english",
+       "old": "disguised as merchants",
+       "new": "disguised as traders"
+      },
+      {
+       "n": "11",
+       "op": "word",
+       "match_w": "vaidehaka-vyañjanāḥ",
+       "field": "gloss",
+       "value": "disguised as traders"
+      }
+     ]
     }
    ]
   },
@@ -378,6 +438,29 @@
       "field": "hindi",
       "value": "अथवा दूष्यों, अमित्रों और आटविकों के वेष में पहले से नियुक्त किये गये गुप्तचर पीछे से प्रहार करें या आक्रमण का प्रतिग्रह करें।"
      }
+    },
+    {
+     "field": "english",
+     "where": "of forest tribes",
+     "problem": "glossary: āṭavika = forest chieftain (12.3); here it is a class of persons the agents impersonate",
+     "fix": "of forest chieftains",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "19",
+       "op": "replace",
+       "field": "english",
+       "old": "of forest tribes",
+       "new": "of forest chieftains"
+      },
+      {
+       "n": "19",
+       "op": "word",
+       "match_w": "dūṣya-amitra-āṭavika-vyañjanāḥ",
+       "field": "gloss",
+       "value": "appearing as the treasonable, enemies and forest chieftains"
+      }
+     ]
     }
    ]
   },
@@ -389,14 +472,37 @@
      "field": "hindi",
      "where": "(गुप्तचर), (संकरे रास्ते), आसार (सहायक सेना)",
      "problem": "bracketed insertions and gloss in the Hindi",
-     "fix": "अथवा वन में छिपे हुए सीमा पर स्थित टुकड़ी को बाहर खींचकर उस पर प्रहार करें, या एक ही मार्ग पर रसद, आसार और चारा लाने वाले दलों पर प्रहार करें।",
+     "fix": "अथवा वन में छिपे हुए सीमान्त की सैन्य-टुकड़ी को बाहर खींचकर उस पर प्रहार करें, या एक ही मार्ग पर रसद, आसार और चारा लाने वाले दलों पर प्रहार करें।",
      "severity": "minor",
      "patch": {
       "n": "20",
       "op": "set",
       "field": "hindi",
-      "value": "अथवा वन में छिपे हुए सीमा पर स्थित टुकड़ी को बाहर खींचकर उस पर प्रहार करें, या एक ही मार्ग पर रसद, आसार और चारा लाने वाले दलों पर प्रहार करें।"
+      "value": "अथवा वन में छिपे हुए सीमान्त की सैन्य-टुकड़ी को बाहर खींचकर उस पर प्रहार करें, या एक ही मार्ग पर रसद, आसार और चारा लाने वाले दलों पर प्रहार करें।"
      }
+    },
+    {
+     "field": "english",
+     "where": "the detachment on the outskirts",
+     "problem": "glossary (12.3): pratyanta-skandha = frontier contingent",
+     "fix": "the frontier contingent",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "20",
+       "op": "replace",
+       "field": "english",
+       "old": "the detachment on the outskirts",
+       "new": "the frontier contingent"
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "pratyanta-skandham",
+       "field": "gloss",
+       "value": "the frontier contingent"
+      }
+     ]
     }
    ]
   },
@@ -628,5 +734,5 @@
    ]
   }
  ],
- "summary": "29 units reviewed: 26 fix, 3 ok. 1 error, 34 minor; all but five advisory items carry machine patches; no regrouping suggested. Tokens, splits, cases, roots and compound types are sound; the one real error is unit 8, where the draft flags pākva.māṃsika as a typo for pakva-: pākva-māṃsika is the regular -ika taddhita of the compound pakva-māṃsa with initial vṛddhi (like audanika, āpūpika beside it), so the flag is removed and w restored to the printed form. The other four text flags are right (grāmeṣu, rasa.siddhaṃ, daṇḍa; vikrayeṇa plausible and honestly marked 'possible'). Unit 9 needs a text flag the draft lacks (printed gṛhītā for gṛhītāḥ before striyaḥ, silently corrected in w). Unit 28: w ādīpta-āvāsān should be the unsandhied ablative ādīpta-āvāsāt that the draft itself reads. Unit 25: five-member compound labelled dvandva loc. sg. is a bahuvrīhi. The recurring problem is bracketed glosses and insertions inside the Hindi of 25 units (1-8, 10-12, 14, 15, 18-29); patches supply bracket-free Hindi, with gūḍha-puruṣa = गूढ़ पुरुष made consistent. Small additions removed: 'पहले' (6), 'के बहाने' (8), the English paraphrase of moha-sthāneṣu (14). Checked as asked and left as drafted (honest notes, no firm reading): 12.4.1 paṇya-āgāra-pūrvam (I think 'with a shop set up first' is likelier than 'gifts of goods and dwellings'; a person should choose), 12.4.4 naiṣecanikam and 12.4.5 pādyam, 12.4.8 auṇḍika and kālikam ('on credit' vs 'for the occasion'), 12.4.23 (eva?) mark, sattra and stambha-vāṭa, 12.4.25 khañjana, 12.4.28 nidhāna-gata, 12.4.29 yoga-vāmana-yoga (low confidence is right). Glossary extended with Book 12 terms (gūḍha-puruṣa, X-vyañjana, tīkṣṇa, rasa = poison, abhityakta, skandha-āvāra, avaskanda, yoga in Book 12)."
+ "summary": "29 units reviewed: 26 fix, 3 ok. 1 error, 38 minor; all but five advisory items carry machine patches; no regrouping suggested. Tokens, splits, cases, roots and compound types are sound; the one real error is unit 8, where the draft flags pākva.māṃsika as a typo for pakva-: pākva-māṃsika is the regular -ika taddhita of the compound pakva-māṃsa with initial vṛddhi (like audanika, āpūpika beside it), so the flag is removed and w restored to the printed form. The other four text flags are right (grāmeṣu, rasa.siddhaṃ, daṇḍa; vikrayeṇa plausible and honestly marked 'possible'). Unit 9 needs a text flag the draft lacks (printed gṛhītā for gṛhītāḥ before striyaḥ, silently corrected in w). Unit 28: w ādīpta-āvāsān should be the unsandhied ablative ādīpta-āvāsāt that the draft itself reads. Unit 25: five-member compound labelled dvandva loc. sg. is a bahuvrīhi. The recurring problem is bracketed glosses and insertions inside the Hindi of 25 units (1-8, 10-12, 14, 15, 18-29); patches supply bracket-free Hindi, with gūḍha-puruṣa = गूढ़ पुरुष made consistent. Small additions removed: 'पहले' (6), 'के बहाने' (8), the English paraphrase of moha-sthāneṣu (14). Checked as asked and left as drafted (honest notes, no firm reading): 12.4.1 paṇya-āgāra-pūrvam (I think 'with a shop set up first' is likelier than 'gifts of goods and dwellings'; a person should choose), 12.4.4 naiṣecanikam and 12.4.5 pādyam, 12.4.8 auṇḍika and kālikam ('on credit' vs 'for the occasion'), 12.4.23 (eva?) mark, sattra and stambha-vāṭa, 12.4.25 khañjana, 12.4.28 nidhāna-gata, 12.4.29 yoga-vāmana-yoga (low confidence is right). Existing glossary renderings applied (vaidehaka = trader, āṭavika = forest chieftain, aparuddha = prince in disfavour, pratyanta-skandha = frontier contingent; units 1, 11, 19, 20). Glossary extended with gūḍha-puruṣa, abhityakta, avaskanda, yoga in Book 12 and madana."
 }

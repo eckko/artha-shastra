@@ -53,3 +53,11 @@
 - (8.1) vyasana (of a prakṛti) = calamity (व्यसन); (8.3) vyasana (of the king's conduct) = vice (व्यसन); garīyas = the more serious (अधिक गम्भीर); "iti" closing a view = — so ends the view (— इस प्रकार यह मत है)
 - (8.3) kopa = anger (क्रोध); kāma = desire (काम); kopa-ja/kāma-ja = born of anger/desire; mṛgayā = hunting (मृगया); dyūta = gambling (द्यूत); strī-vyasana = the vice of women (स्त्री-व्यसन); pāna = drink (पान); madya = liquor (मद्य)
 - (8.3) tantra = the administration (शासन); tantra-daurbalya = weakness of the administration; asat-pragraha / asatāṃ pragrahaḥ = favouring of the bad (असत् का प्रग्रह); saṅgha = confederacy (संघ); vyāyāma (bodily) = exercise (व्यायाम), unlike the 6.2 pair
+- (12.4) gūḍha-puruṣa = secret agent (गूढ़ पुरुष); abhityakta = condemned man (अभित्यक्त); avaskanda = assault (आक्रमण); yoga in Book 12 (yoga-agni, yoga-vāmana-yoga) = secret contrivance (योग), not 'acquisition' as in 6.2; madana (poison plant) = madana (मदन), name kept
+- (8.5) bala-vyasana = calamity of the army (सेना का व्यसन); vyasana = calamity (व्यसन); bala/daṇḍa/sainya (as the force) = army (सेना)
+- (8.5) sattra = hiding-place, ambush position (गुप्त स्थान); vīvadha = supply line, supplies (रसद); puruṣa-vīvadha = supply of men; abhisāra = reinforcement (सहायता)
+- (8.5) sāma-ādi = conciliation and the rest, the four means (साम आदि); dvaidhī-bhāva = the dual policy (द्वैधीभाव); sandhi = peace (सन्धि); atisaṃhita = outwitted (छला गया)
+- (8.5) mitra in the ally verses = ally (मित्र), never "friend"
+- (12.5) rasa (in stratagems) = poison (विष); rasa-viddha = mixed with poison (विष-मिला); suruṅgā = tunnel (सुरंग); sandhi = peace (सन्धि); vīvadha = supplies (रसद)
+- (12.5) anta-pāla = frontier officer (अन्तपाल); tīkṣṇa (agent class) = assassin (तीक्ष्ण); X-vyañjana = in the guise of X (X का रूप धारण किया हुआ); abhityakta = man given up to death (मरने के लिए छोड़ा हुआ); gūḍha = secret agent when a person (गुप्तचर)
+- (12.5) kṣāra in supply lists (dhānya, sneha, kṣāra, lavaṇa) = sugar (क्षार); pravāsita = put to death (मारा हुआ); daṇḍa-upanata = one submitting with his army (सेना सहित समर्पण करने वाला); jana-pada when it means the people = the country people (जनपद के लोग)
