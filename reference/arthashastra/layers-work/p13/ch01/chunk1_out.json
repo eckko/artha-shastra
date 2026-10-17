@@ -1,0 +1,2192 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vijigīṣuḥ",
+      "words": [
+       {
+        "w": "vijigīṣuḥ",
+        "gloss": "the conqueror",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "para.grāmam",
+      "words": [
+       {
+        "w": "para-grāmam",
+        "gloss": "enemy's village",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "avāptu.kāmaḥ",
+      "words": [
+       {
+        "w": "avāptu-kāmaḥ",
+        "gloss": "desirous of obtaining",
+        "gram": "m. nom. sg., bahuvrīhi (inf. √āp)"
+       }
+      ]
+     },
+     {
+      "src": "sarvajña.daivata.samyoga.khyāpanābhyāṃ",
+      "words": [
+       {
+        "w": "sarvajña-daivata-saṃyoga-khyāpanābhyām",
+        "gloss": "by proclaiming omniscience and association with deities",
+        "gram": "inst. du."
+       }
+      ]
+     },
+     {
+      "src": "sva.pakṣam",
+      "words": [
+       {
+        "w": "sva-pakṣam",
+        "gloss": "own party",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "uddharṣayet,",
+      "words": [
+       {
+        "w": "uddharṣayet",
+        "gloss": "should elate",
+        "gram": "3 sg. opt. caus. ud-√hṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "para.pakṣaṃ",
+      "words": [
+       {
+        "w": "para-pakṣam",
+        "gloss": "enemy's party",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-udvejayet",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "udvejayet",
+        "gloss": "should alarm",
+        "gram": "3 sg. opt. caus. ud-√vij"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विजिगीषु, शत्रु के ग्राम को पाने की इच्छा वाला, सर्वज्ञता और देवताओं के साथ सम्बन्ध की घोषणा से अपने पक्ष को हर्षित करे और शत्रु के पक्ष को उद्विग्न करे।",
+  "english": "The conqueror, desiring to obtain an enemy's village, should elate his own party by proclaiming [his] omniscience and [his] association with deities, and should alarm the enemy's party.",
+  "text_flags": [],
+  "notes": "para = 'other/enemy's' (rendered 'enemy's' as the context is hostile). grāma rendered literally as 'village'; it may mean a settlement or territory generally. The compound sarvajña-daivata-saṃyoga-khyāpana is read as two proclamations (of omniscience; of association with deities), as units 2 and 3 describe them separately. The e-text writes 'samyoga' with m; split restores ṃ.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarvajña.khyāpanaṃ",
+      "words": [
+       {
+        "w": "sarvajña-khyāpanam",
+        "gloss": "proclamation of omniscience",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "(punctuation mark)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "gṛha.guhya.pravṛtti.jñānena",
+      "words": [
+       {
+        "w": "gṛha-guhya-pravṛtti-jñānena",
+        "gloss": "by knowledge of secret doings in houses",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyādeśo",
+      "words": [
+       {
+        "w": "pratyādeśaḥ",
+        "gloss": "pointing out",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhyānām,",
+      "words": [
+       {
+        "w": "mukhyānām",
+        "gloss": "of the chiefs",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaṇṭaka.śodhana.apasarpa.avagamena",
+      "words": [
+       {
+        "w": "kaṇṭaka-śodhana-apasarpa-avagamena",
+        "gloss": "by knowledge through spies of the removal of thorns",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakāśanaṃ",
+      "words": [
+       {
+        "w": "prakāśanam",
+        "gloss": "exposure",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.dviṣṭa.kāriṇām,",
+      "words": [
+       {
+        "w": "rāja-dviṣṭa-kāriṇām",
+        "gloss": "of those who do what the king dislikes",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vijñāpya.upāyana.khyāpanam",
+      "words": [
+       {
+        "w": "vijñāpya-upāyana-khyāpanam",
+        "gloss": "proclamation of the present to be reported",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adṛṣṭa.saṃsarga.vidyā.sañjñā.ādibhiḥ,",
+      "words": [
+       {
+        "w": "adṛṣṭa-saṃsarga-vidyā-sañjñā-ādibhiḥ",
+        "gloss": "by unseen contact, lore, signals and so on",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "videśa.pravṛtti.jñānaṃ",
+      "words": [
+       {
+        "w": "videśa-pravṛtti-jñānam",
+        "gloss": "knowledge of events abroad",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ahar",
+      "words": [
+       {
+        "w": "ahar",
+        "gloss": "day",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛha.kapotena",
+      "words": [
+       {
+        "w": "gṛha-kapotena",
+        "gloss": "by a house-pigeon",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mudrā.samyuktena",
+      "words": [
+       {
+        "w": "mudrā-saṃyuktena",
+        "gloss": "furnished with a seal",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सर्वज्ञता की घोषणा तो — घरों की गुप्त घटनाओं के ज्ञान से मुखियों को बताना; कण्टक-शोधन के गुप्तचरों से प्राप्त जानकारी द्वारा राजा के अप्रिय कार्य करने वालों को प्रकट करना; अदृष्ट सम्पर्क, विद्या, संकेत आदि के द्वारा बताए जाने योग्य उपहार की घोषणा; और विदेश की घटनाओं का ज्ञान उसी दिन मुहर से युक्त घरेलू कबूतर के द्वारा।",
+  "english": "The proclamation of omniscience, however, [consists in]: through knowledge of the secret doings in houses, the pointing out [of them] to the chiefs; through knowledge [obtained] from the spies of the removal of thorns, the exposure of those who do what the king dislikes; the proclamation of the present to be reported, by unseen contact, lore, signals and the like; and knowledge of events abroad on that very day, by a house-pigeon furnished with a seal.",
+  "text_flags": [],
+  "notes": "The lone '-' token is punctuation in the e-text. pratyādeśa: literally 'pointing out, declaration' (also 'rejection'); medium confidence; 'mukhyānām' is a genitive ('of the chiefs'), rendered 'to the chiefs'. kaṇṭaka-śodhana: literally 'cleansing/removal of thorns'. vijñāpya-upāyana: obscure; literally 'present (upāyana) to be reported/made known (vijñāpya)'; alternative: 'what is to be reported and the present'. adṛṣṭa-saṃsarga: 'unseen contact'; vidyā: 'lore/knowledge'; sañjñā: 'signal/sign'. mudrā rendered 'seal' here (not 'pass' as in 10.1). The e-text writes 'samyuktena' with m.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daivata.samyoga.khyāpanaṃ",
+      "words": [
+       {
+        "w": "daivata-saṃyoga-khyāpanam",
+        "gloss": "proclamation of association with deities",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "(punctuation mark)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "suruṅgā.mukhena-agni.caitya.daivata.pratimāc.chidrān",
+      "words": [
+       {
+        "w": "suruṅgā-mukhena",
+        "gloss": "through the mouth of a tunnel",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "agni-caitya-daivata-pratimā-chidrān",
+        "gloss": "hollows of the images of fire, shrine and deity",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "anupraviṣṭair",
+      "words": [
+       {
+        "w": "anupraviṣṭaiḥ",
+        "gloss": "who have entered",
+        "gram": "m. inst. pl., p.p. anu-√viś"
+       }
+      ]
+     },
+     {
+      "src": "agni.caitya.daivata.vyañjanaiḥ",
+      "words": [
+       {
+        "w": "agni-caitya-daivata-vyañjanaiḥ",
+        "gloss": "in the guise of fire, shrine and deity",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sambhāṣaṇaṃ",
+      "words": [
+       {
+        "w": "sambhāṣaṇam",
+        "gloss": "conversation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūjanaṃ",
+      "words": [
+       {
+        "w": "pūjanam",
+        "gloss": "worship",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "udakād",
+      "words": [
+       {
+        "w": "udakāt",
+        "gloss": "from water",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "utthitair",
+      "words": [
+       {
+        "w": "utthitaiḥ",
+        "gloss": "risen",
+        "gram": "m. inst. pl., p.p. ud-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nāga.varuṇa.vyañjanaiḥ",
+      "words": [
+       {
+        "w": "nāga-varuṇa-vyañjanaiḥ",
+        "gloss": "in the guise of Nāgas and Varuna",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sambhāṣaṇaṃ",
+      "words": [
+       {
+        "w": "sambhāṣaṇam",
+        "gloss": "conversation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūjanaṃ",
+      "words": [
+       {
+        "w": "pūjanam",
+        "gloss": "worship",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rātrāv",
+      "words": [
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "antar.udake",
+      "words": [
+       {
+        "w": "antar-udake",
+        "gloss": "inside the water",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samudra.vālukā.kośaṃ",
+      "words": [
+       {
+        "w": "samudra-vālukā-kośam",
+        "gloss": "sea-sand receptacle",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇidhāya-agni.mālā.darśanam,",
+      "words": [
+       {
+        "w": "praṇidhāya",
+        "gloss": "having placed",
+        "gram": "abs. pra-ni-√dhā"
+       },
+       {
+        "w": "agni-mālā-darśanam",
+        "gloss": "sight of a garland of fire",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śilā.śikya.avagṛhīte",
+      "words": [
+       {
+        "w": "śilā-śikya-avagṛhīte",
+        "gloss": "held by stone and sling",
+        "gram": "m. loc. sg., p.p. ava-√grah"
+       }
+      ]
+     },
+     {
+      "src": "plavake",
+      "words": [
+       {
+        "w": "plavake",
+        "gloss": "on a raft",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthānam,",
+      "words": [
+       {
+        "w": "sthānam",
+        "gloss": "staying",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "udaka.bastinā",
+      "words": [
+       {
+        "w": "udaka-bastinā",
+        "gloss": "by a water-bladder",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "jarāyuṇā",
+      "words": [
+       {
+        "w": "jarāyuṇā",
+        "gloss": "by afterbirth-membrane",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śiro",
+      "words": [
+       {
+        "w": "śiraḥ",
+        "gloss": "head",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'vagūḍha.nāsaḥ",
+      "words": [
+       {
+        "w": "avagūḍha-nāsaḥ",
+        "gloss": "with nose covered",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣata.antra.kulīra.nakra.śiṃśumāra.udravasābhir",
+      "words": [
+       {
+        "w": "pṛṣata-antra-kulīra-nakra-śiṃśumāra-udra-vasābhiḥ",
+        "gloss": "by fats of spotted deer, intestine, crab, crocodile, porpoise, otter",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śata.pākyaṃ",
+      "words": [
+       {
+        "w": "śata-pākyam",
+        "gloss": "cooked a hundred times",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tailaṃ",
+      "words": [
+       {
+        "w": "tailam",
+        "gloss": "oil",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nastaḥ",
+      "words": [
+       {
+        "w": "nastaḥ",
+        "gloss": "through the nose",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayogaḥ",
+      "words": [
+       {
+        "w": "prayogaḥ",
+        "gloss": "application",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवताओं के साथ सम्बन्ध की घोषणा तो — सुरंग के मुख से अग्नि, चैत्य और देवता की प्रतिमाओं के छिद्रों में प्रविष्ट हुए, अग्नि, चैत्य और देवता के वेश वालों द्वारा सम्भाषण और पूजन; अथवा जल से उठे हुए, नाग और वरुण के वेश वालों द्वारा सम्भाषण और पूजन; रात में जल के भीतर समुद्र की बालू का कोश रखकर अग्नि-माला का दर्शन; पत्थर और सींके से थामे हुए बेड़े पर टिके रहना; अथवा जल की मशक या जरायु से सिर ढके हुए, नाक छिपाए हुए, चितकबरे मृग, आँत, केकड़े, मगर, शिंशुमार और ऊदबिलाव की चर्बियों से, अथवा सौ बार पकाए हुए तेल का नाक से प्रयोग।",
+  "english": "The proclamation of association with deities, however, [consists in]: conversation and worship by [agents] in the guise of fire, shrine and deity who have entered, through the mouth of a tunnel, the hollows of the images of the fire, shrine and deity; or conversation and worship by [agents] risen out of the water in the guise of Nagas and Varuna; at night, having placed a sea-sand receptacle inside the water, the sight of a garland of fire; staying on a raft held by a stone and a sling; or, with the head [covered] by a water-bladder or by afterbirth-membrane and the nose concealed, [the use of] the fats of the spotted deer, intestine, crab, crocodile, porpoise and otter, or the application through the nose of oil cooked a hundred times.",
+  "text_flags": [],
+  "notes": "Several obscure items rendered literally. suruṅgā = tunnel (glossary). chidrān is masculine acc. pl. in the e-text (chidra is normally neuter); kept. 'agni-caitya-daivata' read as three members (fire, shrine, deity); an alternative is 'the deity of the fire-shrine'. kośa here 'receptacle' (not treasury); samudra-vālukā-kośa is unclear (a container of sea-sand). darśana 'sight' (could be 'appearance/display'). śikya = rope-sling/net; plavaka = raft/float. jarāyu = afterbirth/embryonic membrane (alternative: any membrane/skin). 'śiro ''vagūḍha-nāsaḥ': śiraḥ is kept as a separate word ('the head') and avagūḍha-nāsaḥ as 'nose concealed'; whether the head is the thing covered by the bladder/membrane is not stated. The compound pṛṣata-antra-kulīra-nakra-śiṃśumāra-udra-vasābhiḥ is read as 'fats of' all members; whether antra ('intestine') goes only with pṛṣata, and how the second vā divides 'fats' from 'oil cooked a hundred times', is unclear. nastaḥ = through the nose (adverb); śata-pākya = cooked a hundred times. Animal names kept literal, nothing identified. Continues in units 4 and 5.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rātri.gaṇaś",
+      "words": [
+       {
+        "w": "rātri-gaṇaḥ",
+        "gloss": "night-troop",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "moves about",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे रात्रि-गण विचरण करता है।",
+  "english": "By that, the night-troop moves about.",
+  "text_flags": [],
+  "notes": "Continues unit 3. rātri-gaṇa literally 'night-troop/company'; its exact sense is unclear. 'tena' could also be read 'by that [means]'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "udaka.caraṇāni",
+      "words": [
+       {
+        "w": "udaka-caraṇāni",
+        "gloss": "water-goings",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार जल-विचरण।",
+  "english": "Thus [are] the water-goings.",
+  "text_flags": [],
+  "notes": "Closes the list of units 3-4; iti is rendered 'thus' (not a quoted view). caraṇa literally 'going, moving about'; udaka-caraṇa = movements in the water.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tair",
+      "words": [
+       {
+        "w": "taiḥ",
+        "gloss": "by them",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "varuṇa.nāga.kanyā.vākya.kriyā",
+      "words": [
+       {
+        "w": "varuṇa-nāga-kanyā-vākya-kriyā",
+        "gloss": "making of speeches of Varuna and the Naga maidens",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sambhāṣaṇaṃ",
+      "words": [
+       {
+        "w": "sambhāṣaṇam",
+        "gloss": "conversation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopa.sthāneṣu",
+      "words": [
+       {
+        "w": "kopa-sthāneṣu",
+        "gloss": "on occasions of anger",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mukhād",
+      "words": [
+       {
+        "w": "mukhāt",
+        "gloss": "from the mouth",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "agni.dhūma.utsargaḥ",
+      "words": [
+       {
+        "w": "agni-dhūma-utsargaḥ",
+        "gloss": "emission of fire and smoke",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके द्वारा वरुण और नाग-कन्याओं के वाक्यों की क्रिया और सम्भाषण; क्रोध के अवसरों पर मुख से अग्नि और धुएँ का निकलना।",
+  "english": "By them, the making of speeches of Varuna and the Naga maidens, and conversation; on occasions of anger, the emission of fire and smoke from the mouth.",
+  "text_flags": [],
+  "notes": "'taiḥ' = those who go about in the water (units 3-5). vākya-kriyā literally 'doing of speech'. varuṇa-nāga-kanyā read as 'Varuna and the Naga maidens'; alternative 'the Naga maidens of Varuna'. sthāna literally 'place'; rendered 'occasions'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "asya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.viṣaye",
+      "words": [
+       {
+        "w": "sva-viṣaye",
+        "gloss": "in own country",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārtāntika.naimittika.mauhūrtika.paurāṇika.ikṣaṇika.gūḍha.puruṣāḥ",
+      "words": [
+       {
+        "w": "kārtāntika-naimittika-mauhūrtika-paurāṇika-īkṣaṇika-gūḍha-puruṣāḥ",
+        "gloss": "fortune-teller, omen-reader, astrologer, Purana-reciter, observer, secret agents",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "sācivya.karās",
+      "words": [
+       {
+        "w": "sācivya-karāḥ",
+        "gloss": "those who render assistance",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tad.darśinaś",
+      "words": [
+       {
+        "w": "tat-darśinaḥ",
+        "gloss": "those who have seen that",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakāśayeyuḥ",
+      "words": [
+       {
+        "w": "prakāśayeyuḥ",
+        "gloss": "should make known",
+        "gram": "3 pl. opt. caus. pra-√kāś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने देश में ज्योतिषी, नैमित्तिक, मौहूर्तिक, पौराणिक, ईक्षणिक, गुप्त पुरुष, सहायता करने वाले और उसे देखने वाले, उसकी वह बात प्रकट करें।",
+  "english": "In his own country, fortune-tellers, omen-readers, astrologers, Purana-reciters, observers, secret agents, those who render assistance, and those who have seen that, should make known that [about] him.",
+  "text_flags": [
+   {
+    "src": "paurāṇika.ikṣaṇika",
+    "suggest": "paurāṇika.īkṣaṇika",
+    "why": "possible: the word is normally īkṣaṇika (from √īkṣ, 'look'), with long ī; the e-text has short i"
+   }
+  ],
+  "notes": "sva-viṣaye: 'in his own country' (the conqueror's own). 'tad asya' = 'that of his'. kārtāntika = fortune-teller (glossary); naimittika = reader of omens (nimitta); mauhūrtika = astrologer (glossary); paurāṇika = one versed in the old lore (Purana); īkṣaṇika obscure, literally 'one who looks/observes' (alternative: a physiognomist or diviner by observation) – medium/low confidence. gūḍha-puruṣa = secret agent. sācivya-kara: literally 'those who do the work of an assistant/minister'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "enemy's",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "viṣaye",
+      "words": [
+       {
+        "w": "viṣaye",
+        "gloss": "in the country",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "daivata.darśanaṃ",
+      "words": [
+       {
+        "w": "daivata-darśanam",
+        "gloss": "sight of deities",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "divya.kośa.daṇḍa.utpattiṃ",
+      "words": [
+       {
+        "w": "divya-kośa-daṇḍa-utpattim",
+        "gloss": "arising of divine treasury and army",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "brūyuḥ",
+      "words": [
+       {
+        "w": "brūyuḥ",
+        "gloss": "should tell",
+        "gram": "3 pl. opt. √brū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रु के देश में उसके देवता-दर्शन की और दिव्य कोश और दण्ड की उत्पत्ति की बात कहें।",
+  "english": "In the enemy's country, they should tell of his sight of deities and of the arising of a divine treasury and army.",
+  "text_flags": [],
+  "notes": "parasya viṣaye = in the other's (enemy's) country. daṇḍa = army, kośa = treasury (glossary). divya could also qualify only kośa; read with kośa-daṇḍa.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daivata.praśna.nimitta.vāyasa.aṅga.vidyā.svapna.mṛga.pakṣi.vyāhāreṣu",
+      "words": [
+       {
+        "w": "daivata-praśna-nimitta-vāyasa-aṅga-vidyā-svapna-mṛga-pakṣi-vyāhāreṣu",
+        "gloss": "in questions to deities, omens, crows, lore of limbs, dreams, cries of beasts and birds",
+        "gram": "m. loc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vijayaṃ",
+      "words": [
+       {
+        "w": "vijayam",
+        "gloss": "victory",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "brūyuḥ,",
+      "words": [
+       {
+        "w": "brūyuḥ",
+        "gloss": "should tell",
+        "gram": "3 pl. opt. √brū"
+       }
+      ]
+     },
+     {
+      "src": "viparītam",
+      "words": [
+       {
+        "w": "viparītam",
+        "gloss": "the reverse",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitrasya",
+      "words": [
+       {
+        "w": "amitrasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवताओं से प्रश्न, शकुन, कौए, अंग-विद्या, स्वप्न तथा पशु-पक्षियों की बोलियों में उसकी विजय बताएँ, और शत्रु की विपरीत।",
+  "english": "In questions to deities, omens, crows, the lore of limbs, dreams, and the cries of beasts and birds, they should tell of his victory, [and] the reverse of the enemy's.",
+  "text_flags": [],
+  "notes": "The long compound is split into members as listed; the grouping is uncertain (e.g. vāyasa-aṅga-vidyā could be one item 'crow- and limb-lore'; vyāhāra may belong only to mṛga-pakṣi). daivata-praśna: 'questions to/about deities' (consulting deities). nimitta = omens. The predicate of the last phrase is understood from the preceding clause ('[they should tell] the reverse of the enemy'); supplied in brackets in English.",
+  "confidence": "medium"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sadundubhim",
+      "words": [
+       {
+        "w": "sa-dundubhim",
+        "gloss": "accompanied by a drum",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ulkāṃ",
+      "words": [
+       {
+        "w": "ulkām",
+        "gloss": "meteor",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "enemy's",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nakṣatre",
+      "words": [
+       {
+        "w": "nakṣatre",
+        "gloss": "in the lunar mansion",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "darśayeyuḥ",
+      "words": [
+       {
+        "w": "darśayeyuḥ",
+        "gloss": "should show",
+        "gram": "3 pl. opt. caus. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रु के नक्षत्र में दुन्दुभि के साथ उल्का दिखाएँ।",
+  "english": "They should show a meteor accompanied by a drum in the enemy's nakṣatra (lunar mansion).",
+  "text_flags": [],
+  "notes": "sa-dundubhi: 'accompanied by a drum' (perhaps a drum-like sound); the i-stem bahuvrīhi agrees with the feminine ulkā. nakṣatre could also be 'under the star/asterism' of the enemy; literal 'in the nakṣatra'. ca joins sadundubhim and ulkām as one phrase.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "enemy's",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mukhyān",
+      "words": [
+       {
+        "w": "mukhyān",
+        "gloss": "chiefs",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mitratvena-upadiśanto",
+      "words": [
+       {
+        "w": "mitratvena",
+        "gloss": "as allies",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upadiśantaḥ",
+        "gloss": "pointing out",
+        "gram": "m. nom. pl., pres. part. upa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "dūta.vyañjanāḥ",
+      "words": [
+       {
+        "w": "dūta-vyañjanāḥ",
+        "gloss": "in the guise of envoys",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svāmi.satkāraṃ",
+      "words": [
+       {
+        "w": "svāmi-satkāram",
+        "gloss": "honouring by the king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "brūyuḥ,",
+      "words": [
+       {
+        "w": "brūyuḥ",
+        "gloss": "should tell",
+        "gram": "3 pl. opt. √brū"
+       }
+      ]
+     },
+     {
+      "src": "sva.pakṣa.bala.ādhānaṃ",
+      "words": [
+       {
+        "w": "sva-pakṣa-bala-ādhānam",
+        "gloss": "bestowal of strength on own party",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "para.pakṣa.pratighātaṃ",
+      "words": [
+       {
+        "w": "para-pakṣa-pratighātam",
+        "gloss": "repulse of the enemy's party",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूत के वेश वाले गुप्तचर, शत्रु के मुख्यों को मित्र के रूप में बताते हुए, स्वामी के सत्कार को, अपने पक्ष को बल देने को और शत्रु के पक्ष के प्रतिघात को कहें।",
+  "english": "Agents in the guise of envoys, pointing out the enemy's chiefs as allies, should tell of the king's honouring [of them], the bestowal of strength on his own party and the repulse of the enemy's party.",
+  "text_flags": [],
+  "notes": "svāmi = king (glossary); svāmi-satkāra could be 'honour from the king' (the conqueror) or 'honour of the king'; rendered 'the king's honouring'. upadiś: 'point out, designate'. bala = strength (could be 'troops'). pratighāta = repulse/warding off (alternative: destruction). The vyañjana agents are secret agents (glossary: X-vyañjana).",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulya.yoga.kṣemam",
+      "words": [
+       {
+        "w": "tulya-yoga-kṣemam",
+        "gloss": "equal acquisition and security",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "amātyānām",
+      "words": [
+       {
+        "w": "amātyānām",
+        "gloss": "of the ministers",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "āyudhīyānāṃ",
+      "words": [
+       {
+        "w": "āyudhīyānām",
+        "gloss": "of the men of arms",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kathayeyuḥ",
+      "words": [
+       {
+        "w": "kathayeyuḥ",
+        "gloss": "should relate",
+        "gram": "3 pl. opt. caus. √kath"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अमात्यों और शस्त्रजीवियों के समान योग और क्षेम को कहें।",
+  "english": "They should relate the equal acquisition and security of the ministers and of the men of arms.",
+  "text_flags": [],
+  "notes": "yoga-kṣema follows the glossary (6.2: acquisition and security); it may also mean 'welfare, livelihood'. āyudhīya = one who lives by weapons (soldier); rendered 'men of arms'. Whose yoga-kṣema (the conqueror's grant to the enemy's ministers and soldiers, or among them) is not stated; the genitives are rendered literally.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "in their case",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyasana.abhyudaya.avekṣaṇam",
+      "words": [
+       {
+        "w": "vyasana-abhyudaya-avekṣaṇam",
+        "gloss": "attention to calamity and prosperity",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "apatya.pūjanaṃ",
+      "words": [
+       {
+        "w": "apatya-pūjanam",
+        "gloss": "honouring of children",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should apply",
+        "gram": "3 sg. opt. mid. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके प्रति व्यसन और अभ्युदय में ध्यान तथा सन्तान का सम्मान प्रयोग में लाए।",
+  "english": "Towards them, he should apply attention to [their] calamity and prosperity and the honouring of [their] children.",
+  "text_flags": [],
+  "notes": "teṣu = the ministers and men of arms of unit 12. vyasana = calamity (glossary). avekṣaṇa = looking after, regard. 'their' is supplied in brackets.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "para.pakṣam",
+      "words": [
+       {
+        "w": "para-pakṣam",
+        "gloss": "enemy's party",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "utsāhayed",
+      "words": [
+       {
+        "w": "utsāhayet",
+        "gloss": "should rouse",
+        "gram": "3 sg. opt. caus. ud-√sah"
+       }
+      ]
+     },
+     {
+      "src": "yathā.uktaṃ",
+      "words": [
+       {
+        "w": "yathā-uktam",
+        "gloss": "as said",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "purastāt",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "before",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे शत्रु के पक्ष को उत्तेजित करे, जैसा पहले कहा गया है।",
+  "english": "By that, he should rouse the enemy's party, as said before.",
+  "text_flags": [],
+  "notes": "utsāhayet literally 'make eager/rouse'; here 'incite'. tena may mean 'by that means' (the foregoing measures).",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūyaś",
+      "words": [
+       {
+        "w": "bhūyaḥ",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakṣyāmaḥ",
+      "words": [
+       {
+        "w": "vakṣyāmaḥ",
+        "gloss": "we shall say",
+        "gram": "1 pl. fut. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और हम फिर कहेंगे।",
+  "english": "And we shall say more.",
+  "text_flags": [],
+  "notes": "bhūyas = further/again.",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sādhāraṇa.gardabhena",
+      "words": [
+       {
+        "w": "sādhāraṇa-gardabhena",
+        "gloss": "by a common ass",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dakṣān,",
+      "words": [
+       {
+        "w": "dakṣān",
+        "gloss": "the skilled",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "lakuṭa.śākhā.hananābhyāṃ",
+      "words": [
+       {
+        "w": "lakuṭa-śākhā-hananābhyām",
+        "gloss": "by striking with club and branch",
+        "gram": "n. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.cāriṇaḥ,",
+      "words": [
+       {
+        "w": "daṇḍa-cāriṇaḥ",
+        "gloss": "staff-goers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kula.eḍakena",
+      "words": [
+       {
+        "w": "kula-eḍakena",
+        "gloss": "by a family ram",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-udvignān,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "udvignān",
+        "gloss": "the agitated",
+        "gram": "m. acc. pl., p.p. ud-√vij"
+       }
+      ]
+     },
+     {
+      "src": "aśani.varṣeṇa",
+      "words": [
+       {
+        "w": "aśani-varṣeṇa",
+        "gloss": "by a rain of thunderbolts",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vimānitān,",
+      "words": [
+       {
+        "w": "vimānitān",
+        "gloss": "the dishonoured",
+        "gram": "m. acc. pl., p.p. vi-√mān"
+       }
+      ]
+     },
+     {
+      "src": "vidulena-avakeśinā",
+      "words": [
+       {
+        "w": "vidulena",
+        "gloss": "by vidula",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "avakeśinā",
+        "gloss": "by avakeśin",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāyasa.piṇḍena",
+      "words": [
+       {
+        "w": "vāyasa-piṇḍena",
+        "gloss": "by a crow's ball",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaitavaja.meghena-iti",
+      "words": [
+       {
+        "w": "kaitava-ja-meghena",
+        "gloss": "by a cloud born of deceit",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vihata.āśān",
+      "words": [
+       {
+        "w": "vihata-āśān",
+        "gloss": "whose hopes are shattered",
+        "gram": "m. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "durbhaga.alaṅkāreṇa",
+      "words": [
+       {
+        "w": "durbhaga-alaṅkāreṇa",
+        "gloss": "by the ornament of the unfortunate",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dveṣiṇā-iti",
+      "words": [
+       {
+        "w": "dveṣiṇā",
+        "gloss": "by the hostile one",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pūjā.phalān,",
+      "words": [
+       {
+        "w": "pūjā-phalān",
+        "gloss": "whose fruit is honour",
+        "gram": "m. acc. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vyāghra.carmaṇā",
+      "words": [
+       {
+        "w": "vyāghra-carmaṇā",
+        "gloss": "by a tiger-skin",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛtyu.kūṭena",
+      "words": [
+       {
+        "w": "mṛtyu-kūṭena",
+        "gloss": "by a death-trap",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-upahitān,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upahitān",
+        "gloss": "the placed",
+        "gram": "m. acc. pl., p.p. upa-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "pīlu.vikhādanena",
+      "words": [
+       {
+        "w": "pīlu-vikhādanena",
+        "gloss": "by eating of pīlu",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "karaka.yoṣṭrayā",
+      "words": [
+       {
+        "w": "karaka-yoṣṭrayā",
+        "gloss": "by karaka-yoṣṭrā (unclear)",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gardabhī.kṣīrā.abhimanthanena-iti",
+      "words": [
+       {
+        "w": "gardabhī-kṣīra-abhimanthanena",
+        "gloss": "by churning of she-ass's milk",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhruva.upakāriṇa",
+      "words": [
+       {
+        "w": "dhruva-upakāriṇaḥ",
+        "gloss": "always helpful",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साधारण गधे से कुशलों को, लाठी और शाखा के प्रहार से दण्ड-चारियों को, कुल के मेढ़े से उद्विग्नों को, अशनि की वर्षा से अपमानितों को, विदुल, अवकेशी, कौए के पिण्ड और छल से उत्पन्न मेघ से, इस प्रकार निराश हुओं को, अभागे के आभूषण और द्वेषी से, इस प्रकार सम्मान के फल वालों को, बाघ की खाल और मृत्यु-जाल से रखे हुओं को, पीलु के खाने, करक-योष्ट्रा और गधी के दूध के मथने से, इस प्रकार सदा उपकार करने वालों को, इस प्रकार।",
+  "english": "The skilled, by a common ass; the staff-goers, by striking with club and branch; and the agitated, by a family ram; the dishonoured, by a rain of thunderbolts; those whose hopes are shattered, by vidula, avakeśin, a crow's ball and a cloud born of deceit, thus; those whose fruit is honour, by an ornament of the unfortunate and by a hostile one, thus; the placed, by a tiger-skin and a death-trap; the always helpful, by the eating of pīlu, by karaka-yoṣṭrā and by the churning of she-ass's milk, thus; thus.",
+  "text_flags": [
+   {
+    "src": "karaka.yoṣṭrayā",
+    "suggest": "karaka.yoktrayā",
+    "why": "possible: yoṣṭrā is not a known word; yoktra ('rope, thong') is the usual form; the printed form is kept in the split"
+   }
+  ],
+  "notes": "Very obscure passage; the text has no governing verb, and each phrase pairs a class of persons (accusative) with a means (instrumental). It is rendered literally and word by word; the relation between the classes and the means is not clear, and iti marks the end of each group of means (and, at the very end, of the whole list) – rendered 'thus', not as a quoted view. sādhāraṇa = common/shared/ordinary; daṇḍa-cārin = literally 'going with a staff' (alternative: 'moving with the army/punishment'); kula-eḍaka = ram of the family (alternative: 'a ram/sheep of good family'); vidula, avakeśin, pīlu and karaka names kept (vidula perhaps a cane; avakeśin unclear; pīlu may be a tree/fruit; karaka perhaps a water-pot or hail); vāyasa-piṇḍa = 'crow's ball/lump'; kaitava-ja-megha = 'cloud born of deceit/trickery' (kaitava may also name a plant); durbhaga = unfortunate/unlucky; dveṣin = hating/hostile; pūjā-phala = having honour as fruit; upahita = placed/provided (alternative: entrapped, deceived); kūṭa = trap (also deceit, peak); vikhādana = eating up/devouring; yoṣṭrā see text_flags. dhruva-upakārin = constantly benefiting. Possibly these are devices by which the classes of persons are told apart or approached; the draft does not claim this.",
+  "confidence": "low"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratipannān",
+      "words": [
+       {
+        "w": "pratipannān",
+        "gloss": "those who have accepted",
+        "gram": "m. acc. pl., p.p. prati-√pad"
+       }
+      ]
+     },
+     {
+      "src": "artha.mānābhyāṃ",
+      "words": [
+       {
+        "w": "artha-mānābhyām",
+        "gloss": "with wealth and honour",
+        "gram": "m. inst. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yojayet",
+      "words": [
+       {
+        "w": "yojayet",
+        "gloss": "should provide",
+        "gram": "3 sg. opt. caus. √yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वीकार कर चुके लोगों को धन और मान से युक्त करे।",
+  "english": "He should provide those who have accepted with wealth and honour.",
+  "text_flags": [],
+  "notes": "pratipanna: 'agreed, accepted, come over' (alternative: 'obtained'). yojayet literally 'should join/endow'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dravya.bhaktac.chidreṣu",
+      "words": [
+       {
+        "w": "dravya-bhakta-chidreṣu",
+        "gloss": "in gaps of goods and food",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-enān",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dravya.bhakta.dānair",
+      "words": [
+       {
+        "w": "dravya-bhakta-dānaiḥ",
+        "gloss": "with gifts of goods and food",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "anugṛhṇīyāt",
+      "words": [
+       {
+        "w": "anugṛhṇīyāt",
+        "gloss": "should favour",
+        "gram": "3 sg. opt. anu-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और द्रव्य तथा भोजन की कमियों में इन पर द्रव्य और भोजन के दान से अनुग्रह करे।",
+  "english": "And in the gaps of goods and food, he should favour them with gifts of goods and food.",
+  "text_flags": [],
+  "notes": "chidra literally 'gap, hole, weak point'; rendered 'gaps' (probably times of shortage). The c in bhaktac.chidreṣu is the euphonic doubling before ch. enān = those of unit 17.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apratigṛhṇatāṃ",
+      "words": [
+       {
+        "w": "apratigṛhṇatām",
+        "gloss": "of those not accepting",
+        "gram": "m. gen. pl., pres. part. neg."
+       }
+      ]
+     },
+     {
+      "src": "strī.kumāra.alaṅkārān",
+      "words": [
+       {
+        "w": "strī-kumāra-alaṅkārān",
+        "gloss": "ornaments of women and boys",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhihareyuḥ",
+      "words": [
+       {
+        "w": "abhihareyuḥ",
+        "gloss": "should bring",
+        "gram": "3 pl. opt. abhi-√hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो स्वीकार नहीं करते उन्हें स्त्रियों और कुमारों के आभूषण ले आएँ।",
+  "english": "To those who do not accept, they should bring ornaments of women and boys.",
+  "text_flags": [],
+  "notes": "The genitive apratigṛhṇatām is rendered 'to' (dative sense); abhi-√hṛ literally 'bring to'; 'abhi-√hṛ' may also mean 'present, offer'. What is not accepted is not stated (presumably the gifts of unit 18). kumāra = boy/youth (also prince).",
+  "confidence": "medium"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbhikṣa.stena.aṭavy.upaghāteṣu",
+      "words": [
+       {
+        "w": "durbhikṣa-stena-aṭavī-upaghāteṣu",
+        "gloss": "in the harms of famine, thieves and forest tribes",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paura.jānapadān",
+      "words": [
+       {
+        "w": "paura-jānapadān",
+        "gloss": "townsmen and country people",
+        "gram": "m. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "utsāhayantaḥ",
+      "words": [
+       {
+        "w": "utsāhayantaḥ",
+        "gloss": "rousing",
+        "gram": "m. nom. pl., pres. part. caus. ud-√sah"
+       }
+      ]
+     },
+     {
+      "src": "sattriṇo",
+      "words": [
+       {
+        "w": "sattriṇaḥ",
+        "gloss": "secret agents",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "brūyuḥ",
+      "words": [
+       {
+        "w": "brūyuḥ",
+        "gloss": "should say",
+        "gram": "3 pl. opt. √brū"
+       }
+      ]
+     },
+     {
+      "src": "\"rājānam",
+      "words": [
+       {
+        "w": "rājānam",
+        "gloss": "the king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anugrahaṃ",
+      "words": [
+       {
+        "w": "anugraham",
+        "gloss": "favour",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yācāmahe-",
+      "words": [
+       {
+        "w": "yācāmahe",
+        "gloss": "we ask",
+        "gram": "1 pl. pres. mid. √yāc"
+       }
+      ]
+     },
+     {
+      "src": "niranugrahāḥ",
+      "words": [
+       {
+        "w": "niranugrahāḥ",
+        "gloss": "without favour",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "paratra",
+      "words": [
+       {
+        "w": "paratra",
+        "gloss": "elsewhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gacchāmaḥ\"",
+      "words": [
+       {
+        "w": "gacchāmaḥ",
+        "gloss": "we go",
+        "gram": "1 pl. pres. √gam"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closes the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्भिक्ष, चोरों और वन-जातियों के उपघातों में नगरवासियों और जनपदवासियों को उभारते हुए गुप्तचर कहें — \"हम राजा से अनुग्रह माँगते हैं; अनुग्रह के बिना हम अन्यत्र जाते हैं।\"",
+  "english": "In the harms of famine, thieves and forest tribes, the secret agents, rousing the townsmen and country people, should say: \"We ask the king for favour; without favour, we go elsewhere.\"",
+  "text_flags": [],
+  "notes": "Closing iti closes the quotation and is not translated separately (glossary). utsāhayantaḥ literally 'making eager/rousing'. yāc takes two accusatives (rājānam, anugraham). paratra can also mean 'in the next world'; 'elsewhere' fits here. upaghāta = harm/injury. Glossary: sattrin = secret agent; paura = townsmen; jānapada = country people; aṭavī = forest tribes.",
+  "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tathā-iti",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratipanneṣu",
+      "words": [
+       {
+        "w": "pratipanneṣu",
+        "gloss": "among those who have agreed",
+        "gram": "m. loc. pl., p.p. prati-√pad"
+       }
+      ]
+     },
+     {
+      "src": "dravya.dhānyāny",
+      "words": [
+       {
+        "w": "dravya-dhānyāni",
+        "gloss": "goods and grain",
+        "gram": "n. nom./acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "aparigrahaiḥ",
+      "words": [
+       {
+        "w": "aparigrahaiḥ",
+        "gloss": "by non-acceptances",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sācivyaṃ",
+      "words": [
+       {
+        "w": "sācivyam",
+        "gloss": "assistance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāryam",
+      "words": [
+       {
+        "w": "kāryam",
+        "gloss": "to be done",
+        "gram": "n. nom. sg., gerundive √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "etad",
+      "words": [
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upajāpād",
+      "words": [
+       {
+        "w": "upajāpāt",
+        "gloss": "from secret instigation",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūtaṃ",
+      "words": [
+       {
+        "w": "bhūtam",
+        "gloss": "arisen",
+        "gram": "n. nom. sg., p.p. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "mahat",
+      "words": [
+       {
+        "w": "mahat",
+        "gloss": "great",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"वैसा ही\" — इस प्रकार स्वीकार कर चुकने पर, द्रव्य, धान्य और अपरिग्रहों के द्वारा \"सहायता करनी चाहिए\" — इस प्रकार यह महान् उपजाप से उत्पन्न हुआ।",
+  "english": "When they have agreed, [saying] \"So be it\", by goods, grains and non-acceptances, \"assistance is to be given\" – thus this great [result] has arisen from secret instigation.",
+  "text_flags": [],
+  "notes": "Line a has no finite verb; the syntax is uncertain and the reading is low confidence. aparigraha = non-acceptance/non-possession (alternatives: 'without taking', or a split dhānya-anya-parigrahaiḥ 'grains, other possessions' is not supported by the printed text). dravya-dhānyāni is nominative/accusative plural, left without a governing word. sācivya = assistance (alternative: ministership). bhūta mahat: 'a great [thing/result] arisen'; the substantive is not stated. upajāpa = secret instigation (glossary). Metre: anuṣṭubh-like verse of two lines.",
+  "confidence": "low"
+ }
+]
