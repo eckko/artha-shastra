@@ -1,0 +1,340 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "उसके काँटों के शोधन को हम कहेंगे।",
+  "new": "उसके कण्टकशोधन को हम कहेंगे।",
+  "why": "reviewer (minor): Glossary 4.1: kaṇṭaka-śodhana is कण्टकशोधन in Hindi"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The Collector should deploy in the country agents in the guise of holy men (siddha), ascetics, renunciants, cakra-wanderers, bards, tricksters, pracchandakas, soothsayers, omen-readers, astrologers, physicians, madmen, mutes, deaf men, dull men, blind men, traders (vaidehaka), artisans, craftsmen, kuśīlavas, veśa, liquor-sellers, cake-sellers, sellers of cooked meat and rice-sellers.",
+  "new": "The Collector should deploy in the country agents in the guise of holy men (siddha), ascetics, renunciants, cakra-wanderers, cāraṇas, kuhakas, pracchandakas, fortune-tellers, omen-readers, astrologers, physicians, madmen, mutes, deaf men, dull men, blind men, traders (vaidehaka), artisans, craftsmen, kuśīlavas, veśa, liquor-sellers, cake-sellers, sellers of cooked meat and rice-sellers.",
+  "why": "reviewer (error): Glossary 4.1 keeps cāraṇa and kuhaka as terms; kārtāntika settled as fortune-teller (10.3, 12.2)"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "समाहर्ता जनपद में सिद्ध, तपस्वी, प्रव्रजित, चक्रचर, चारण, ठग, प्रच्छन्दक, कार्तान्तिक, नैमित्तिक, मौहूर्तिक, चिकित्सक, पागल, गूँगे, बहरे, जड़, अन्धे, वैदेहक, कारु, शिल्पी, कुशीलव, वेश, मद्य बेचने वाले, पुए बेचने वाले, पक्व मांस बेचने वाले और भात बेचने वाले के वेश वाले गुप्तचरों को नियुक्त करे।",
+  "new": "समाहर्ता जनपद में सिद्ध, तपस्वी, प्रव्रजित, चक्रचर, चारण, कुहक, प्रच्छन्दक, ज्योतिषी, नैमित्तिक, मौहूर्तिक, चिकित्सक, पागल, गूँगे, बहरे, जड़, अन्धे, वैदेहक, कारु, शिल्पी, कुशीलव, वेश, मद्य बेचने वाले, पुए बेचने वाले, पक्व मांस बेचने वाले और भात बेचने वाले के वेश वाले गुप्तचरों को नियुक्त करे।",
+  "why": "reviewer (error): kuhaka stays कुहक (4.1); kārtāntika = ज्योतिषी (12.2, 10.3)"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "kārtāntika",
+  "old": "soothsayer",
+  "new": "fortune-teller",
+  "why": "reviewer (minor): settled as fortune-teller"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "cāraṇa",
+  "old": "bard",
+  "new": "cāraṇa (term kept)",
+  "why": "reviewer (minor): 4.1 keeps the term, sense in notes only"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "kuhaka",
+  "old": "trickster",
+  "new": "kuhaka (term kept)",
+  "why": "reviewer (minor): 4.1 keeps the term, sense in notes only"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "One long compound (dvandva) ending in vyañjanān, so every member is given its own entry here and the case ending sits on the last; 'agents in the guise of' follows the glossary X-vyañjana. The printed '.-' at the ends of tokens 3 and 4 and 'śauṇḍi- / ka' are line breaks inside the compound. Obscure and kept untranslated: pracchandaka, kuśīlava (actor or bard in notes only, per glossary), veśa (literally 'dress' or 'dwelling'; the sense here is not certain). cakra.cara: read as one sub-compound 'cakra-wanderers'; alternative is two separate members, 'wheel-bearers' and 'wanderers'. kārtāntika = soothsayer (glossary 11.1; the 12.2 and 10.3 lines say fortune-teller, a reviewer should settle). pākva.māṃsika is given as two members 'cooked' and 'meat-seller' (translated 'sellers of cooked meat'); śauṇḍika 'liquor-seller' and cāraṇa 'bard' are the usual senses, medium confidence. vaidehaka = trader, kept in the Hindi as वैदेहक per glossary 8.4 (the English says trader).",
+  "new": "One long compound (dvandva) ending in vyañjanān, so every member is given its own entry here and the case ending sits on the last; 'agents in the guise of' follows the glossary X-vyañjana. The printed '.-' at the ends of tokens 3 and 4 and 'śauṇḍi- / ka' are line breaks inside the compound. Obscure and kept untranslated: pracchandaka, kuśīlava (actor or bard in notes only, per glossary), veśa (literally 'dress' or 'dwelling'; the sense here is not certain). cakra.cara: read as one sub-compound 'cakra-wanderers'; alternative is two separate members, 'wheel-bearers' and 'wanderers'. kārtāntika = soothsayer (glossary 11.1; the 12.2 and 10.3 lines say fortune-teller, a reviewer should settle). pākva.māṃsika is given as two members 'cooked' and 'meat-seller' (translated 'sellers of cooked meat'); śauṇḍika 'liquor-seller' and cāraṇa 'bard' are the usual senses, medium confidence. vaidehaka = trader, kept in the Hindi as वैदेहक per glossary 8.4 (the English says trader). REVIEW: kārtāntika settled as fortune-teller (ज्योतिषी), as 10.3 and 12.2; cāraṇa and kuhaka kept as terms per glossary 4.1 (usual senses: bard, trickster). Hindi scope of 'के वेश वाले' covers the whole list, as in the English. Flag still needed (cannot be added by patch): none beyond the line-break join.",
+  "why": "reviewer (minor): settling a point"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "और यहाँ जिस किसी पर गुप्त आजीविका वाला होने की शंका करे, उसकी गुप्तचर से जासूसी करवाए।",
+  "new": "और यहाँ जिस पर गुप्त आजीविका वाला होने की शंका करे, उसकी गुप्तचर से जासूसी करवाए।",
+  "why": "reviewer (minor): 'किसी' is an unmarked addition"
+ },
+ {
+  "n": "6",
+  "field": "word.w",
+  "word": "dharmasthaṃ",
+  "old": "dharmasthaṃ",
+  "new": "dharmastham",
+  "why": "reviewer (minor): dictionary form with m, as other entries (yam, tam)"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "viśvāsa-upagatam",
+  "old": "one who has come to trust",
+  "new": "one who has reached trust",
+  "why": "reviewer (minor): direction of the trust is not stated by the Sanskrit"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "The secret agent should say to the dharmastha who has come to trust [him]: \"That relative of mine has been charged; let this loss of his be remedied, and let this wealth be accepted.\"",
+  "new": "The secret agent should say to the dharmastha who has reached trust: \"That relative of mine has been charged; let this loss of his be remedied, and let this wealth be accepted.\"",
+  "why": "reviewer (error): draft adds a direction ('[him]') the Sanskrit does not state"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "विश्वास को प्राप्त हुए धर्मस्थ से गुप्तचर कहे — “यह मेरा बन्धु अभियुक्त है; उसका यह अनर्थ दूर किया जाए और यह धन स्वीकार किया जाए।”",
+  "new": "विश्वास को प्राप्त हुए धर्मस्थ से गुप्तचर कहे — “वह मेरा बन्धु अभियुक्त है; उसका यह अनर्थ दूर किया जाए और यह धन स्वीकार किया जाए।”",
+  "why": "reviewer (minor): asau is 'that' (English says That); Hindi had यह"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "विश्वास को प्राप्त हुए धर्मस्थ से गुप्तचर कहे — “वह मेरा बन्धु अभियुक्त है; उसका यह अनर्थ दूर किया जाए और यह धन स्वीकार किया जाए।”",
+  "new": "विश्वास को प्राप्त हुए धर्मस्थ से गुप्तचर कहे — “वह मेरा बन्धु अभियुक्त है; उसके इस अनर्थ का प्रतिकार किया जाए और यह धन स्वीकार किया जाए।”",
+  "why": "reviewer (minor): pratikriyatām = remedy (glossary pratīkāra = प्रतिकार); 'दूर' is a paraphrase"
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "dharmastha is kept as a term (dharmastha = judge in later usage, not imported). anartha = loss (glossary 9.7), alternative 'misfortune, trouble'; abhiyukta = charged, accused. The closing iti is carried by the closing quotation mark only. The standalone '-' is a dash. The quotation is closed.",
+  "new": "dharmastha is kept as a term (dharmastha = judge in later usage, not imported). anartha = loss (glossary 9.7), alternative 'misfortune, trouble'; abhiyukta = charged, accused. The closing iti is carried by the closing quotation mark only. The standalone '-' is a dash. The quotation is closed. REVIEW: viśvāsa-upagata = 'reached trust'; whether the judge trusts the agent or the agent has gained the judge's trust is not stated by the compound, kept open.",
+  "why": "reviewer (minor): settling a point"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "iti here marks the label ('as one called ...') and is not rendered 'thus'. upadā = gift, present (usually understood as bribe), kept literal. pravāsyeta: the glossary (11.1, 12.3) renders pravāsayet of a person as 'do away with'; here the literal causative of pra-√vas is 'send away, banish' and that is used, a reviewer should confirm.",
+  "new": "iti here marks the label ('as one called ...') and is not rendered 'thus'. upadā = gift, present (usually understood as bribe), kept literal. pravāsyeta: the glossary (11.1, 12.3) renders pravāsayet of a person as 'do away with'; here the literal causative of pra-√vas is 'send away, banish' and that is used, a reviewer should confirm. REVIEW (settled for Book 4): pravāsyeta/pravāsyeran/pravāsyāḥ = banished (निर्वासित), not the 11.1/12.3 'do away with'; in 4.4 the last unit offers niṣkraya (redemption) as an alternative, which fits banishment, not killing. All units 7, 10, 12, 15, 18, 21, 23 keep 'banished'.",
+  "why": "reviewer (minor): settling a point"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "By this the pradeṣṭṛs are explained.",
+  "new": "By that, the pradeṣṭṛs are explained.",
+  "why": "reviewer (error): glossary 4.1 formula 'tena X vyākhyātam' = By that, X is explained"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "इससे प्रदेष्टाओं की व्याख्या हो गई।",
+  "new": "इससे प्रदेष्टाओं की व्याख्या की गई।",
+  "why": "reviewer (error): glossary 4.1 formula (इससे X की व्याख्या की गई)"
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "tena",
+  "old": "by this",
+  "new": "by that",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "गाँव के कूट को या अध्यक्ष को गुप्तचर कहे — “वह दुष्ट धन से सम्पन्न है; उसका यह अनर्थ है; इसलिए इससे आहरण करवाओ।”",
+  "new": "ग्राम-कूट को या अध्यक्ष को गुप्तचर कहे — “वह दुष्ट प्रचुर धन वाला है; उसका यह अनर्थ है; इसलिए इसे आहरण कराओ।”",
+  "why": "reviewer (minor): grāma-kūṭa is kept untranslated in notes and English but the Hindi translated it (गाँव के कूट); 'धन से सम्पन्न' for prabhūta-dravya loses 'abundant'; enam is accusative (इसे), a causative needs कराओ"
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "Hard line, low confidence. The reading is the literal one: kṛtaka = artificial, feigned (the agent charged only as a pretence is the likely sense, not stated); kūṭa-sākṣin taken as the object of ārabheta; abhijñāta-anartha-vaipulya (known, loss, abundance) as an instrumental, possibly 'by [their] recognised great loss' or 'by the known extent of harm', the construction is uncertain. Alternatives: kūṭa-sākṣiṇaḥ as nominative, 'false witnesses ...'. 'ārabheta' may mean 'set about' or 'take hold of'.",
+  "new": "Hard line, low confidence. The reading is the literal one: kṛtaka = artificial, feigned (the agent charged only as a pretence is the likely sense, not stated); kūṭa-sākṣin taken as the object of ārabheta; abhijñāta-anartha-vaipulya (known, loss, abundance) as an instrumental, possibly 'by [their] recognised great loss' or 'by the known extent of harm', the construction is uncertain. Alternatives: kūṭa-sākṣiṇaḥ as nominative, 'false witnesses ...'. 'ārabheta' may mean 'set about' or 'take hold of'. REVIEW: reading left literal and low, a person should check the construction (what ārabheta governs and the sense of abhijñāta); Hindi 'आरम्भ करे' has no object, matching the Sanskrit.",
+  "why": "reviewer (minor): settling a point"
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "By this the makers of false announcements are explained.",
+  "new": "By that, the makers of false announcements are explained.",
+  "why": "reviewer (error): glossary 4.1 formula"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "इससे झूठी घोषणा करने वालों की व्याख्या हो गई।",
+  "new": "इससे झूठी घोषणा करने वालों की व्याख्या की गई।",
+  "why": "reviewer (error): glossary 4.1 formula"
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "tena",
+  "old": "by this",
+  "new": "by that",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "saṃvadana-karakam",
+  "old": "saṃvadana-karakam",
+  "new": "saṃvadana-kārakam",
+  "why": "reviewer (minor): brief rule 6: words carry the corrected form, the flag keeps the printed one"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "अथवा जिसे मन्त्र, योग, मूलकर्म या श्माशानिक कर्मों से संवदन करने वाला माने, उससे गुप्तचर कहे — “अमुक की पत्नी, पुत्रवधू या पुत्री को मैं चाहता हूँ; वह मुझे भी चाहे; और यह धन स्वीकार किया जाए।”",
+  "new": "अथवा जिसे मन्त्र, योग, मूलकर्म या श्माशानिक कर्मों से वशीकरण करने वाला माने, उससे गुप्तचर कहे — “अमुक की पत्नी, पुत्रवधू या पुत्री को मैं चाहता हूँ; वह मुझे भी चाहे; और यह धन स्वीकार किया जाए।”",
+  "why": "reviewer (minor): saṃvadana: Hindi follows glossary 12.2 (वशीकरण); संवदन is not a Hindi word here"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "अथवा जिसे मन्त्र, योग, मूलकर्म या श्माशानिक कर्मों से वशीकरण करने वाला माने, उससे गुप्तचर कहे — “अमुक की पत्नी, पुत्रवधू या पुत्री को मैं चाहता हूँ; वह मुझे भी चाहे; और यह धन स्वीकार किया जाए।”",
+  "new": "अथवा जिसे मन्त्र, योग, मूलकर्म या श्माशानिक कर्मों से वशीकरण करने वाला माने, उससे गुप्तचर कहे — “अमुक की पत्नी, पुत्रवधू या पुत्री को मैं चाहता हूँ; वह मुझे बदले में चाहे; और यह धन स्वीकार किया जाए।”",
+  "why": "reviewer (minor): prati- = in return; 'भी' is an addition"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "यदि वह वैसा करे तो “संवदन करने वाला” के रूप में निर्वासित किया जाए।",
+  "new": "यदि वह वैसा करे तो “वशीकरण करने वाला” के रूप में निर्वासित किया जाए।",
+  "why": "reviewer (minor): as unit 14"
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "By this the two [kinds of person] whose practice is kṛtya and abhicāra are explained.",
+  "new": "By that, the two [kinds of person] whose practice is kṛtya and abhicāra are explained.",
+  "why": "reviewer (error): glossary 4.1 formula"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इससे कृत्य और अभिचार के अभ्यासी दोनों की व्याख्या हो गई।",
+  "new": "इससे कृत्य और अभिचार के अभ्यासी दोनों की व्याख्या की गई।",
+  "why": "reviewer (error): glossary 4.1 formula"
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "tena",
+  "old": "by this",
+  "new": "by that",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "Or whomever he may think to be a poisoner (rasada), a maker, buyer or seller of poison, or one dealing in medicines and food, to him the secret agent should say: \"That one is my enemy; let injury to him be done, and let this wealth be accepted.\"",
+  "new": "Or whomever he may think to be a maker, buyer or seller of poison, or one dealing in medicines and food, or a poisoner (rasada), to him the secret agent should say: \"That one is my enemy; let injury to him be done, and let this wealth be accepted.\"",
+  "why": "reviewer (minor): order of the Sanskrit (rasadaṃ comes last, after the second vā)"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "अथवा जिसे विष का बनाने वाला, खरीदने वाला, बेचने वाला, या औषधि और भोजन का व्यवहार करने वाला, विष देने वाला माने, उससे गुप्तचर कहे — “वह मेरा शत्रु है; उसका उपघात किया जाए; और यह धन स्वीकार किया जाए।”",
+  "new": "अथवा जिसे विष का बनाने वाला, खरीदने वाला, बेचने वाला, या औषधि और भोजन का व्यवहार करने वाला, या विष देने वाला माने, उससे गुप्तचर कहे — “वह मेरा शत्रु है; उसका उपघात किया जाए; और यह धन स्वीकार किया जाए।”",
+  "why": "reviewer (minor): the second vā was dropped"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "By this the dealer in madana compounds is explained.",
+  "new": "By that, the dealer in madana compounds is explained.",
+  "why": "reviewer (error): glossary 4.1 formula"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "इससे मदन-योग का व्यवहार करने वाले की व्याख्या हो गई।",
+  "new": "इससे मदन-योग का व्यवहार करने वाले की व्याख्या की गई।",
+  "why": "reviewer (error): glossary 4.1 formula"
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "tena",
+  "old": "by this",
+  "new": "by that",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "madana is kept as a name and its effect is not stated (glossary 14.1, 14.4); yoga = compound there. For Book 4 a reviewer should settle compound versus preparation versus contrivance.",
+  "new": "madana is kept as a name and its effect is not stated (glossary 14.1, 14.4); yoga = compound there. For Book 4 a reviewer should settle compound versus preparation versus contrivance. REVIEW (settled for Book 4): yoga in madana-yoga = compound (योग), as 14.1/14.4, so the draft stands. yoga after mantra (unit 14, mantra-yoga-mūla-karman) = contrivance, as 12.4/13.2; 'preparation' is not used in 4.x.",
+  "why": "reviewer (minor): settling a point"
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "Long phrase of obscure tool names; asandaṃśa, muṣṭika, bimba, ṭaṅka are kept untranslated (glossary rule for obscure words), 'anvil' for adhikaraṇī and 'crucible' for mūṣā are the usual senses; maṣī = soot (also ink). nānā may govern only loha ('various metals') or both. kūṭa-rūpa = false coin (glossary 5.2). The object taṃ is taken with anupraviśya and prajñāpayet; prajñāpayet = causative of pra-√jñā, 'make known' (next unit: prajñātaḥ), the exact sense (discover, expose) is not added. ca-anupraviśya is two words.",
+  "new": "Long phrase of obscure tool names; asandaṃśa, muṣṭika, bimba, ṭaṅka are kept untranslated (glossary rule for obscure words), 'anvil' for adhikaraṇī and 'crucible' for mūṣā are the usual senses; maṣī = soot (also ink). nānā may govern only loha ('various metals') or both. kūṭa-rūpa = false coin (glossary 5.2). The object taṃ is taken with anupraviśya and prajñāpayet; prajñāpayet = causative of pra-√jñā, 'make known' (next unit: prajñātaḥ), the exact sense (discover, expose) is not added. ca-anupraviśya is two words. REVIEW: asandaṃśa is as printed in both Devanagari and IAST; 'sandaṃśa' (tongs) remains only a possibility, so the flag stands. kṣāra here = alkali (a metallurgical material), not the 'sugar' of supply lists (12.5).",
+  "why": "reviewer (minor): settling a point"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "By this the remover of rāga (colour) and the dealer in false gold are explained.",
+  "new": "By that, the remover of rāga (colour) and the dealer in false gold are explained.",
+  "why": "reviewer (error): glossary 4.1 formula and rāga = dye, colour"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "इससे राग का अपहरण करने वाला और खोटे सोने का व्यवहार करने वाला, दोनों की व्याख्या हो गई।",
+  "new": "इससे रंग का अपहरण करने वाले और खोटे सोने का व्यवहार करने वाले की व्याख्या की गई।",
+  "why": "reviewer (error): glossary 4.1: rāga = रंग (राग reads as passion in Hindi); 'दोनों' dropped as an addition"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "tena",
+  "old": "by this",
+  "new": "by that",
+  "why": "reviewer (minor): 4.1 formula"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "vyākhyātaḥ",
+  "old": "pp. vi-ā-√khyā, m. nom. pl.",
+  "new": "pp. vi-ā-√khyā, m. nom. sg.",
+  "why": "reviewer (error): -aḥ is singular, not plural"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "vyākhyātaḥ",
+  "old": "are explained",
+  "new": "is explained",
+  "why": "reviewer (minor): singular form; agrees with the nearer subject"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "rāgasya",
+  "old": "of rāga (colour)",
+  "new": "of rāga (dye, colour)",
+  "why": "reviewer (minor): glossary 4.1"
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "pravāsyāḥ",
+  "old": "m. nom. pl.",
+  "new": "gerundive, m. nom. pl.",
+  "why": "reviewer (minor): gerundive in -ya"
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "niṣkraya-artham",
+  "old": "tat-puruṣa, ind.",
+  "new": "tat-puruṣa, n. acc. sg. used as ind.",
+  "why": "reviewer (minor): -artham is an accusative used adverbially"
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "Anuṣṭubh, 16 syllables per line, no metre problem. Object of dadyuḥ is not stated and not supplied. ārabdhāraḥ hiṃsāyām = those who begin (acts) in violence; whether the 'thirteen' are the classes of the preceding units is not stated (a reviewer may count). niṣkraya = redemption (payment in lieu), literal.",
+  "new": "Anuṣṭubh, 16 syllables per line, no metre problem. Object of dadyuḥ is not stated and not supplied. ārabdhāraḥ hiṃsāyām = those who begin (acts) in violence; whether the 'thirteen' are the classes of the preceding units is not stated (a reviewer may count). niṣkraya = redemption (payment in lieu), literal. REVIEW: 'banished' kept (see unit 7). Counting the 'thirteen' is left to a person.",
+  "why": "reviewer (minor): settling a point"
+ }
+]
