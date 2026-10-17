@@ -1,6 +1,6 @@
 # Layer work status (word split, Hindi, English)
 
-Chunks: 167; merged or written: 0. Rules: `SKILL.md` of `/verify-vedic-book-reference`; chunk size about 40 units, never across chapters.
+Chunks: 167; merged or written: 2. Rules: `SKILL.md` of `/verify-vedic-book-reference`; chunk size about 40 units, never across chapters.
 Order per chunk: draft -> check_chunk.py -> independent review -> apply_review.py -> merge -> write_layers.py. All AI text is a DRAFT until a human has read the reviewed layer.
 
 | Part | Chunks | pending | drafted | checked | reviewed | applied | merged | written |
@@ -10,7 +10,7 @@ Order per chunk: draft -> check_chunk.py -> independent review -> apply_review.p
 | 03 | 20 | 20 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 04 | 14 | 14 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 05 | 7 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 06 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 06 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
 | 07 | 19 | 19 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 08 | 7 | 7 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 09 | 9 | 9 | 0 | 0 | 0 | 0 | 0 | 0 |

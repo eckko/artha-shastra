@@ -100,8 +100,8 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1.
 | 05 | 04 | 24 | S1 | -- | -- | pass |  |
 | 05 | 05 | 16 | S1 | -- | -- | pass |  |
 | 05 | 06 | 53 | S1 | -- | -- | pass |  |
-| 06 | 01 | 22 | S1 | -- | -- | pass |  |
-| 06 | 02 | 42 | S1 | -- | -- | pass |  |
+| 06 | 01 | 22 | S1 | AI draft, reviewed (p06-hindi.md) | AI draft, reviewed (p06-english.md) | pass | word split in p06-sandhi.md |
+| 06 | 02 | 42 | S1 | AI draft, reviewed (p06-hindi.md) | AI draft, reviewed (p06-english.md) | pass | word split in p06-sandhi.md |
 | 07 | 01 | 44 | S1 | -- | -- | pass |  |
 | 07 | 02 | 26 | S1 | -- | -- | pass |  |
 | 07 | 03 | 51 | S1 | -- | -- | pass |  |
@@ -156,5 +156,5 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1.
 | 15 | 01 | 76 | S1 | -- | -- | pass |  |
 
 ## Next
-- Hindi and English: no verse-aligned translation was found that the shell can reach; none written. See sources.md.
+- Layers (word split, Hindi, English): done for Part 06 only (pilot), as AI drafts that went through an independent AI review; no person has read them. Parts 01-05 and 07-15 are not started (see layers-work/STATUS.md). No outside translation was found.
 - Proofreading stage: compare against Kangle's print edition, resolve ISSUES.md, decide on compound marks.

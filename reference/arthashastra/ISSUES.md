@@ -51,3 +51,11 @@ Checks that ran: structure_check, check_extraction, word_check (on a copy with `
 | all | other | Checker limits: the typo detector does not see errors that form another valid word, so the two context finds above suggest more exist. Metre flags on prose lines were ignored; only the 66 flagged stanza lines (ab/cd/ef) were read, and the AI judged almost all regular once the unsandhied marks are read with sandhi | | |
 
 Coverage and rate: 199 lines read by AI (3 stray, 93 typo candidates, 66 metre, 37 sample); 15 proposals; the sample of 37 ordinary lines had 1 error (2.7%, a small sample). Nothing was proofread by a person.
+
+## Layer pilot, Part 06 (AI drafts, reviewed by a second AI; not read by a person)
+
+| Line ID | Kind | What | Source(s) | Suggested check |
+|---|---|---|---|---|
+| 06.01.6 | other | `bhrukuṭī.kṣaṇaḥ`: the e-text's own split implies bhrukuṭī + kṣaṇa, the draft reads īkṣaṇa ("glance"); also śakla meaning unclear (glossed "pleasant" tentatively) and `samyama` flagged as possible saṃyama (may be the e-text's own spelling) | S1 | a person decides against Kangle's print |
+| 06.02.19 | other | `bhūmy.anantaraḥ prakṛti.mitraḥ`: drafter and reviewer read prakṛti-amitraḥ (natural enemy), as units 14 and 20 imply; src kept as printed, correction only in the word split and text_flags | S1 | check print |
+| 06.02.36, 06.02.38 | other | sādhāraṇaḥ ambiguous; nested quotation in 38 (prārthitasya, sādhyo me) read with medium confidence | S1 | a person reads |
