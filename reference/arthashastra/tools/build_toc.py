@@ -74,7 +74,7 @@ for i, bk in enumerate(books):
              else f"text/ch{n:02d}.{ch['n']:02d}.md")
         v = VERSES[(n, ch["n"])]
         out.append(f"| {n:02d} | {ch['n']:02d} | — | {name} | {purpose} | "
-                   f"{v} | — | {f} | pending |")
+                   f"{v} | — | {f} | extracted |")
     out.append("")
 open(TOC, "w", encoding="utf8").write("\n".join(out))
 print("written", TOC, total_verses)
