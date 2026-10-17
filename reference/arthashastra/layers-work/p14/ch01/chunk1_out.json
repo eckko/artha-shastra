@@ -1993,5 +1993,579 @@
   "text_flags": [],
   "notes": "karāja is kept as a tree name (may be karañja). jvara = fever.",
   "confidence": "medium"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhāsana.kula.jihvā.granthikā.yogaḥ",
+      "words": [
+       {
+        "w": "bhāsana-kula-jihvā-granthikā-yogaḥ",
+        "gloss": "compound of bhāsana, kula, jihvā, granthikā",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kharī.kṣīra.piṣṭo",
+      "words": [
+       {
+        "w": "kharī-kṣīra-piṣṭaḥ",
+        "gloss": "ground in the milk of a she-ass",
+        "gram": "tat-puruṣa, m. nom. sg. p.p. √piṣ"
+       }
+      ]
+     },
+     {
+      "src": "mūka.badhira..karo",
+      "words": [
+       {
+        "w": "mūka-badhira-karaḥ",
+        "gloss": "maker of dumbness and deafness",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "māsa.ardha.māsikaḥ",
+      "words": [
+       {
+        "w": "māsa-ardha-māsikaḥ",
+        "gloss": "of a month or of a half-month",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भासन, कुल, जिह्वा और ग्रन्थिका का योग, गधी के दूध में पीसा हुआ, गूँगा और बहरा करने वाला है; एक मास या आधे मास वाला।",
+  "english": "A compound of bhāsana, kula, jihvā and granthikā, ground in a she-ass's milk, makes [one] dumb and deaf; [it is] of a month or of a half-month.",
+  "text_flags": [
+   {
+    "src": "mūka.badhira..karo",
+    "suggest": "mūka.badhira.X.karo",
+    "why": "double dot suggests a dropped member (possible lacuna); the sense 'making mute and deaf' needs no third member"
+   }
+  ],
+  "notes": "The double '..' in the e-text marks an omitted compound member; I translate as 'making dumb and deaf'. māsa-ardha-māsikaḥ is literally 'of a month or half-month' (duration); compare units 6 and 7. bhāsana/kula/jihvā/granthikā are kept as names; jihvā-granthikā might be one name ('tongue-knot'); grouping uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kalā.mātraṃ",
+      "words": [
+       {
+        "w": "kalā-mātram",
+        "gloss": "a kalā in measure",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣāṇām",
+      "words": [
+       {
+        "w": "puruṣāṇām",
+        "gloss": "for men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "it",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samānaṃ",
+      "words": [
+       {
+        "w": "samānam",
+        "gloss": "the same",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrveṇa",
+      "words": [
+       {
+        "w": "pūrveṇa",
+        "gloss": "as the former",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुरुषों के लिए एक कला भर; इस प्रकार पहले के समान।",
+  "english": "[A dose of] one kalā in measure for men; thus the same as the former.",
+  "text_flags": [
+   {
+    "src": "it",
+    "suggest": "iti",
+    "why": "possible typo: 'it' for iti or a stray particle"
+   }
+  ],
+  "notes": "The unit repeats unit 8 and refers back to it: 'the same as the former' (the dose scale of unit 8). The printed 'it' is not a word; iti is the likely reading. 'dose' is supplied (bracketed) as in unit 8.",
+  "confidence": "low"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhaṅga.kvātha.upanayanam",
+      "words": [
+       {
+        "w": "bhaṅga-kvātha-upanayanam",
+        "gloss": "adding of crushing and decoction",
+        "gram": "dvandva+tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "auṣadhānām,",
+      "words": [
+       {
+        "w": "auṣadhānām",
+        "gloss": "for the herbs",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "cūrṇaṃ",
+      "words": [
+       {
+        "w": "cūrṇam",
+        "gloss": "powder",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāṇa.bhṛtām,",
+      "words": [
+       {
+        "w": "prāṇa-bhṛtām",
+        "gloss": "for living creatures",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarveṣāṃ",
+      "words": [
+       {
+        "w": "sarveṣām",
+        "gloss": "for all",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kvātha.upanayanam,",
+      "words": [
+       {
+        "w": "kvātha-upanayanam",
+        "gloss": "adding of decoction",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vīryavattaraṃ",
+      "words": [
+       {
+        "w": "vīryavattaram",
+        "gloss": "more potent",
+        "gram": "n. nom. sg. comparative"
+       }
+      ]
+     },
+     {
+      "src": "bhavti",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "औषधियों के लिए भङ्ग और क्वाथ का योग, प्राणियों के लिए चूर्ण, अथवा सबके लिए क्वाथ का योग; इस प्रकार यह अधिक वीर्यवान् हो जाता है।",
+  "english": "For the herbs, the adding of crushing and decoction; for living creatures, powder; or for all, the adding of decoction: thus [it] becomes more potent.",
+  "text_flags": [
+   {
+    "src": "bhavti",
+    "suggest": "bhavati",
+    "why": "typo: missing a"
+   }
+  ],
+  "notes": "The line is elliptical: 'is done/prescribed' is not stated. bhaṅga here taken as 'crushing/breaking'; alternative: the plant bhaṅga (hemp) as in unit 13. auṣadhi = herbs/plants; prāṇa-bhṛt = living creatures (animal ingredients). 'it' is supplied (bracketed).",
+  "confidence": "medium"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yoga.sampat",
+      "words": [
+       {
+        "w": "yoga-sampat",
+        "gloss": "excellence of the compounds",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार योगों की सम्पत्।",
+  "english": "Thus: the excellence of the compounds (yoga-sampat).",
+  "text_flags": [],
+  "notes": "A closing heading of the section; yoga is 'compound' (preparation) as in the preceding units, not 'acquisition' (6.2) or 'secret contrivance' (12.4). sampat = excellence per the glossary; alternative 'perfection/completeness of compounds'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śālmalī",
+      "words": [
+       {
+        "w": "śālmalī",
+        "gloss": "śālmalī (silk-cotton)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidārī.dhānya.siddho",
+      "words": [
+       {
+        "w": "vidārī-dhānya-siddhaḥ",
+        "gloss": "boiled with vidārī and grain",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūla.vatsa.nābha.samyuktaś",
+      "words": [
+       {
+        "w": "mūla-vatsa-nābha-saṃyuktaḥ",
+        "gloss": "joined with root of vatsa-nābha",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cucchundarī.śoṇita.pralepena",
+      "words": [
+       {
+        "w": "cucchundarī-śoṇita-pralepena",
+        "gloss": "with a smear of musk-rat's blood",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "digdho",
+      "words": [
+       {
+        "w": "digdhaḥ",
+        "gloss": "smeared",
+        "gram": "m. nom. sg. p.p. √dih"
+       }
+      ]
+     },
+     {
+      "src": "bāṇo",
+      "words": [
+       {
+        "w": "bāṇaḥ",
+        "gloss": "arrow",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhyati",
+      "words": [
+       {
+        "w": "vidhyati",
+        "gloss": "pierces",
+        "gram": "3 sg. pres. √vyadh"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viddho",
+      "words": [
+       {
+        "w": "viddhaḥ",
+        "gloss": "pierced",
+        "gram": "m. nom. sg. p.p. √vyadh"
+       }
+      ]
+     },
+     {
+      "src": "'nyān",
+      "words": [
+       {
+        "w": "anyān",
+        "gloss": "other",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "daśa.puruṣān",
+      "words": [
+       {
+        "w": "daśa-puruṣān",
+        "gloss": "ten men",
+        "gram": "dvigu, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "daśati,",
+      "words": [
+       {
+        "w": "daśati",
+        "gloss": "bites",
+        "gram": "3 sg. pres. √daṃś"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "daṣṭā",
+      "words": [
+       {
+        "w": "daṣṭāḥ",
+        "gloss": "bitten",
+        "gram": "m. nom. pl. p.p. √daṃś"
+       }
+      ]
+     },
+     {
+      "src": "daśa-anyān",
+      "words": [
+       {
+        "w": "daśa-anyān",
+        "gloss": "ten others",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "daśanti",
+      "words": [
+       {
+        "w": "daśanti",
+        "gloss": "bite",
+        "gram": "3 pl. pres. √daṃś"
+       }
+      ]
+     },
+     {
+      "src": "puruṣān",
+      "words": [
+       {
+        "w": "puruṣān",
+        "gloss": "men",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शाल्मली, विदारी और अन्न के साथ पकाई हुई, मूल और वत्सनाभ से युक्त, चुच्छुन्दरी के रक्त के लेप से लिप्त बाण जिसे बेधता है, वह बिंधा हुआ दूसरे दस पुरुषों को काटता है; वे काटे गए दस अन्य पुरुषों को काटते हैं।",
+  "english": "The arrow, smeared with a smear of the blood of a musk-rat, [with] śālmalī boiled with vidārī and grain and joined with the root of vatsa-nābha: whomever it pierces, he, pierced, bites ten other men; they, bitten, bite ten other men.",
+  "text_flags": [
+   {
+    "src": "viddho 'nyān",
+    "suggest": "viddho 'nyān",
+    "why": "no change; avagraha token 'nyān = anyān"
+   }
+  ],
+  "notes": "Elliptical and obscure: śālmalī is nominative and stands loose before the participle clause; rendered as 'śālmalī boiled with vidārī and grain' but the grammar could also be 'the arrow, boiled (steeped) with...'. 'mūla-vatsa-nābha' taken 'root of vatsa-nābha' (vatsa-nābha, literally 'calf-navel', a drug name); alternative: 'root and vatsa-nābha'. cucchundarī literally a musk-rat (shrew), kept 'musk-rat'. 'dhānya' = grain. The final 'puruṣān' completes 'daśa-anyān'.",
+  "confidence": "low"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ballātaka.yātu.dhānāva.anudhā.mārgava.bāṇānāṃ",
+      "words": [
+       {
+        "w": "bhallātaka-yātu-dhānāva-anudhā-mārgava-bāṇānām",
+        "gloss": "of bhallātaka, yātudhāna, dhānāva, anudhā, mārgava, bāṇa",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "puṣpair",
+      "words": [
+       {
+        "w": "puṣpaiḥ",
+        "gloss": "with flowers",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "elaka.akṣi.guggulu.hālāhalānāṃ",
+      "words": [
+       {
+        "w": "elaka-akṣi-guggulu-hālāhalānām",
+        "gloss": "of elaka, akṣi, guggulu, hālāhala",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṣāyaṃ",
+      "words": [
+       {
+        "w": "kaṣāyam",
+        "gloss": "decoction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "basta.nara.śoṇita.yuktaṃ",
+      "words": [
+       {
+        "w": "basta-nara-śoṇita-yuktam",
+        "gloss": "joined with the blood of a goat and of a man",
+        "gram": "dvandva+tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṃśa.yogaḥ",
+      "words": [
+       {
+        "w": "daṃśa-yogaḥ",
+        "gloss": "bite compound",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भल्लातक, यातुधान, धानाव, अनुधा, मार्गव और बाण के फूलों से तथा एलक, अक्षि, गुग्गुलु और हालाहल से बना काढ़ा, बकरे और मनुष्य के रक्त से युक्त, दंश-योग है।",
+  "english": "A decoction with flowers of bhallātaka, yātudhāna, dhānāva, anudhā, mārgava and bāṇa, and of elaka, akṣi, guggulu and hālāhala, joined with the blood of a goat and of a man, is the bite compound.",
+  "text_flags": [
+   {
+    "src": "ballātaka",
+    "suggest": "bhallātaka",
+    "why": "possible typo: missing h; bhallātaka elsewhere in this chunk"
+   }
+  ],
+  "notes": "Syntax loose (flowers in the instrumental beside genitives); rendered literally. The list of names is not identified; the grouping dhānāva-anudhā is uncertain (possibly dhāna-ava, anudhā). hālāhala is kept as a name (it is also a poison name). daṃśa-yoga 'bite compound' (a compound that works by a bite, cf. unit 29); alternative 'compound for biting'.",
+  "confidence": "low"
  }
 ]

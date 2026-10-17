@@ -1,0 +1,631 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yathā-niviṣṭam",
+     "problem": "labelled ind.; it is a past participle compound agreeing with jana-padam (acc. sg.), as the English 'as it is settled' itself treats it",
+     "fix": "past part. ni-√viś; m. acc. sg. (yathā- 'as'), agreeing with jana-padam",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "yathā-niviṣṭam",
+      "field": "gram",
+      "value": "past part. ni-√viś; m. acc. sg. (yathā- 'as'), agreeing with jana-padam"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "niveṣayet",
+     "problem": "printed niveṣayet (ṣ) is not a form of ni-√viś caus.; unit 4 prints niveśayet. Not flagged by the draft; the word was copied with the typo",
+     "fix": "flag niveṣayet -> niveśayet and use niveśayet in words",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "niveṣayet,",
+        "suggest": "niveśayet,",
+        "why": "typo: causative of ni-√viś is niveśayet (ś), as printed in unit 4; ṣ is not possible here"
+       }
+      ]
+     }
+    },
+    {
+     "field": "split",
+     "where": "niveṣayet",
+     "problem": "word must carry the corrected form",
+     "fix": "niveśayet",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "niveṣayet",
+      "field": "w",
+      "value": "niveśayet"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "apasarataḥ",
+     "problem": "pres. part. apa-√sṛ: -ataḥ is also acc. pl. m. ('those moving away elsewhere'), which fits a list of objects of niveṣayet better than abl./gen. sg.; the draft omitted it",
+     "fix": "add acc. pl. m. as a possibility",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "apasarataḥ",
+      "field": "gram",
+      "value": "pres. part. apa-√sṛ; abl./gen. sg. m./n., or acc. pl. m."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "apasarataḥ",
+     "problem": "same point in notes",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "append_note",
+      "text": "Review: apasarataḥ may also be acc. pl. m. ('[those] moving away elsewhere'), parallel to utthitam; left literal, confidence stays low."
+     }
+    },
+    {
+     "field": "english",
+     "where": "by favours and exemptions",
+     "problem": "anugraha-parihārābhyām is a dual of two singular nouns; plural 'favours/exemptions' is an unmarked change (glossary 13.5: parihāra = exemption)",
+     "fix": "by favour and exemption",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "by favours and exemptions",
+      "new": "by favour and exemption"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "परिहार",
+     "problem": "glossary 13.5: parihāra = exemption (छूट)",
+     "fix": "अनुग्रह और छूट के द्वारा",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनुग्रह और परिहार के द्वारा",
+      "new": "अनुग्रह और छूट के द्वारा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "from ejection",
+     "problem": "'ejection' is an invented sense for vamana (vomiting); glossary 13.4 says literal only",
+     "fix": "from vomiting (vamana); lower confidence",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "from ejection and from secret killing",
+      "new": "from vomiting (vamana) and from secret killing"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vamanāt",
+     "problem": "same",
+     "fix": "from vomiting",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "vamanāt",
+      "field": "gloss",
+      "value": "from vomiting"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vamana",
+     "problem": "record the alternatives",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "append_note",
+      "text": "Review: English now literal 'vomiting'; 'ejection/expulsion (of troops)' is only a conjecture; sense of vamana here unknown."
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "vamana sense unknown, a literal rendering with lowered confidence is the project rule",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इस प्रकार मानकर",
+     "problem": "'मानकर' (thinking) is an unmarked addition; English marks it [thinking] but Hindi does not",
+     "fix": "“…,” इस प्रकार घेरा डाले",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस प्रकार मानकर घेरा डाले",
+      "new": "इस प्रकार घेरा डाले"
+     }
+    },
+    {
+     "field": "split",
+     "where": "guṇavat-dhānya",
+     "problem": "text_flag 1 confirmed (guṇavad-dhānya, printed 'guṇa.vaddha.anya'); before dh the usual form is guṇavad-",
+     "fix": "w: prabhūta-guṇavad-dhānya-kupya-yantra-śastra-āvaraṇa-viṣṭiḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "prabhūta-guṇavat-dhānya-kupya-yantra-śastra-āvaraṇa-viṣṭiḥ",
+      "field": "w",
+      "value": "prabhūta-guṇavad-dhānya-kupya-yantra-śastra-āvaraṇa-viṣṭiḥ"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "both flags",
+     "problem": "CONFIRMED: vaddha.anya -> vad.dhānya, and aśmi -> asmi (unit 25 has 'smi). No change.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "dāraṃ ca guḍena",
+     "problem": "dāra here may be a typo for dvāra ('gate'); an alternative reading cannot be decided from the e-text alone. Hindi दार also means 'wife'. No variant invented; needs a person with the printed edition",
+     "fix": "human check; note only",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "append_note",
+      "text": "Review: dāram kept as printed (the e-text is not flagged); a person should check the printed edition whether dvāram is meant. Hindi दार also means 'wife'. hārayet does not govern dāram naturally, so the clause is loosely rendered."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "agni-yoga",
+     "problem": "CONFIRMED: 'fire-contrivance' fits glossary Book 12 yoga; added to glossary as 13.4 entry",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गुप्त पुरुष",
+     "problem": "gūḍha-puruṣa in Hindi is गूढ़ पुरुष (glossary 12.4, 13.1)",
+     "fix": "गूढ़ पुरुष",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गुप्त पुरुष",
+      "new": "गूढ़ पुरुष"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kāṇḍa-nicaya-rakṣā-vidhāna-veśmasu",
+     "problem": "'dvandva' is wrong for the whole compound (final member veśma; dvandva only inside)",
+     "fix": "tat-puruṣa (with dvandva members); n. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "kāṇḍa-nicaya-rakṣā-vidhāna-veśmasu",
+      "field": "gram",
+      "value": "tat-puruṣa (with dvandva members); n. loc. pl."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "gūḍha.purṣāś",
+     "problem": "CONFIRMED typo for gūḍha.puruṣāś",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "leṇḍam",
+     "problem": "labelled 'acc. (or nom.)' but it is the subject (with gulikāḥ) of predicate agni-dhāraṇam: nominative",
+     "fix": "n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "leṇḍam",
+      "field": "gram",
+      "value": "n. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "avalgu.jamaṣī",
+     "problem": "CONFIRMED (avalguja.maṣī). But the token is one compound, so 'soot of avalguja, residue of honey' (draft) versus 'avalguja, soot and residue of honey' is an unmarked grouping choice",
+     "fix": "note the grouping",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "append_note",
+      "text": "Review: flag confirmed. The compound avalguja-maṣī-madhūcchiṣṭam is one token; it may also be read as three items 'avalguja, soot, residue of honey'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सीस और त्रपु",
+     "problem": "English translates lead and tin, Hindi leaves Sanskrit words (glossary 13.4: सीसा/रांगा)",
+     "fix": "कुम्भी, सीसा और रांगा का चूर्ण",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुम्भी, सीस और त्रपु का चूर्ण",
+      "new": "कुम्भी, सीसा और रांगा का चूर्ण"
+     }
+    },
+    {
+     "field": "english",
+     "where": "or a destroyer of trust",
+     "problem": "viśvāsa-ghātī vā: every alternative in this unit ends with vā, so it more likely belongs to the third alternative ('the fire-contrivance joined with ..., a destroyer of trust') than being a fourth; draft makes it a separate alternative without marking the choice. Not decidable here",
+     "fix": "human check; keep with doubt (confidence already low)",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "śrī.-",
+     "problem": "CONFIRMED: line-break hyphen artefact; join with veṣṭaka (cf. unit 18)",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "grouping",
+     "problem": "'| 24 |' inside the line and the colophon: keep as one unit per edition grouping; no regrouping suggested",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अवमर्द",
+     "problem": "glossary: avamarda = crushing (कुचलना); English says 'crushing' but Hindi leaves the Sanskrit",
+     "fix": "यह कुचलने का समय है",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह अवमर्द का समय है",
+      "new": "यह कुचलने का समय है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "घेरे हुए / घेरने वाले",
+     "problem": "glossary 13.4: saṃruddha = घिरा हुआ, saṃroddhṛ = घेरा डालने वाला",
+     "fix": "use glossary forms",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "घेरे हुए के साथ",
+      "new": "घिरे हुए के साथ"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "घेरने वाले",
+     "problem": "same",
+     "fix": "घेरा डालने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा घेरने वाले का",
+      "new": "अथवा घेरा डालने वाले का"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "abhityaktam",
+     "problem": "CONFIRMED: 'given up to death' (12.5 form, adjective of dūta); glossary now records the 12.4 noun / 12.5 adjective split",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "घेरे हुए",
+     "problem": "same",
+     "fix": "घिरे हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "घेरे हुए से कहे",
+      "new": "घिरे हुए से कहे"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "घेरने वाले",
+     "problem": "same",
+     "fix": "घेरा डालने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "घेरने वाले को",
+      "new": "घेरा डालने वाले को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "has complied",
+     "problem": "glossary 13.4: pratipanna = the one who has accepted",
+     "fix": "has accepted",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "One who has complied",
+      "new": "One who has accepted"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pratipannam",
+     "problem": "same",
+     "fix": "who has accepted",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "pratipannam",
+      "field": "gloss",
+      "value": "who has accepted"
+     }
+    },
+    {
+     "field": "english",
+     "where": "exchange of kingdoms",
+     "problem": "rājya-vinimaya is singular; plural 'kingdoms' is an unmarked sense (swap of two realms); literal is 'exchange of the kingdom'",
+     "fix": "an exchange of the kingdom",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "an exchange of kingdoms made",
+      "new": "an exchange of the kingdom made"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "राज्यों की अदला-बदली",
+     "problem": "same",
+     "fix": "राज्य का विनिमय",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राज्यों की अदला-बदली",
+      "new": "राज्य का विनिमय"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rājya-vinimayam",
+     "problem": "same",
+     "fix": "exchange of the kingdom",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "rājya-vinimayam",
+      "field": "gloss",
+      "value": "exchange of the kingdom"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 1 (units 1-32) reviewed. Issues: 1 error (unit 3 niveṣayet typo unflagged, plus its word fix), rest minor. Draft's 5 text_flags confirmed (8 x2, 16, 19, 20). No regrouping. Glossary: 3 lines appended (13.4). Needs a person: unit 9 dāraṃ vs dvāraṃ; unit 20 viśvāsa-ghātī attachment; units 3, 12, 26 stay low confidence."
+}
