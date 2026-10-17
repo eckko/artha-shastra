@@ -1,0 +1,325 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those who stand as friends to the chiefs",
+     "problem": "patty-aśva-ratha-dvipa-mukhyānām is a partitive genitive governed by mitra-sthānīyeṣu ('those among the chiefs who are in the position of friends', i.e. chiefs on friendly terms with the agents), not 'friends of the chiefs'. 12.3.4 ('this is what we told you', said to the surviving chiefs) confirms the chiefs themselves are told.",
+     "fix": "Secret agents close to the king and to the king's favourites should tell, with the confidence of a friend, those among the chiefs of the infantry, cavalry, chariots and elephants who stand in the position of friends to them: \"The king is angry.\"",
+     "severity": "error",
+     "patch": {"n": "1", "op": "set", "field": "english", "value": "Secret agents close to the king and to the king's favourites should tell, with the confidence of a friend, those among the chiefs of the infantry, cavalry, chariots and elephants who stand in the position of friends to them: \"The king is angry.\""}
+    },
+    {
+     "field": "hindi",
+     "where": "प्रमुखों के मित्र-स्थानीय लोगों के बीच",
+     "problem": "Same misreading: the persons told are the chiefs themselves (those of them on friendly terms), not the friends of the chiefs.",
+     "fix": "राजा के और राजा के प्रिय जनों के निकट रहने वाले गुप्तचर पैदल, घुड़सवार, रथ और हाथी सेना के प्रमुखों में से जो उनके मित्र-स्थान में हों, उनसे मित्र के विश्वास के साथ कहें कि \"राजा क्रुद्ध है\"।",
+     "severity": "error",
+     "patch": {"n": "1", "op": "set", "field": "hindi", "value": "राजा के और राजा के प्रिय जनों के निकट रहने वाले गुप्तचर पैदल, घुड़सवार, रथ और हाथी सेना के प्रमुखों में से जो उनके मित्र-स्थान में हों, उनसे मित्र के विश्वास के साथ कहें कि \"राजा क्रुद्ध है\"।"}
+    },
+    {
+     "field": "notes",
+     "where": "whole note",
+     "problem": "Note records the rejected construction.",
+     "fix": "patty-aśva-ratha-dvipa-mukhyānām is a partitive genitive with mitra-sthānīyeṣu: those chiefs who are on friendly terms with the agents (12.3.4 'what we told you' shows the chiefs themselves were told). That the king is angry at them is implied, not stated.",
+     "severity": "minor",
+     "patch": {"n": "1", "op": "set", "field": "notes", "value": "patty-aśva-ratha-dvipa-mukhyānām is a partitive genitive with mitra-sthānīyeṣu: those chiefs who are on friendly terms with the agents (12.3.4 'what we told you' shows the chiefs themselves were told). That the king is angry at them is implied, not stated."}
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तीक्ष्ण (हत्यारे गुप्तचर) ... घरों में जाकर",
+     "problem": "Bracketed gloss inside the Hindi (not allowed); 'जाकर' (having gone) is not in the Sanskrit.",
+     "fix": "जब यह बात फैल जाए, तब रात्रि के पहरे का प्रतीकार कर चुके तीक्ष्ण उनके घरों में कहें कि \"स्वामी के वचन से आइए\"।",
+     "severity": "minor",
+     "patch": {"n": "2", "op": "set", "field": "hindi", "value": "जब यह बात फैल जाए, तब रात्रि के पहरे का प्रतीकार कर चुके तीक्ष्ण उनके घरों में कहें कि \"स्वामी के वचन से आइए\"।"}
+    },
+    {
+     "field": "notes",
+     "where": "end",
+     "problem": "Explanation of tīkṣṇa belongs in notes once removed from the Hindi.",
+     "fix": "tīkṣṇa = assassin, the 'fierce' class of secret agent (glossary).",
+     "severity": "minor",
+     "patch": {"n": "2", "op": "append_note", "text": "tīkṣṇa = assassin, the 'fierce' class of secret agent (glossary)."}
+    }
+   ]
+  },
+  {"n": "3", "verdict": "ok", "issues": []},
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "jīvitu-kāmena",
+     "problem": "jīvitu-kāma (jīvitum kāmo yasya, infinitive with final -m dropped + kāma) is a bahuvrīhi, not a tat-puruṣa.",
+     "fix": "m. inst. sg., bahuvrīhi (jīvitum + kāma)",
+     "severity": "minor",
+     "patch": {"n": "4", "op": "word", "match_w": "jīvitu-kāmena", "field": "gram", "value": "m. inst. sg., bahuvrīhi (jīvitum + kāma)"}
+    },
+    {
+     "field": "hindi",
+     "where": "यहाँ से भाग जाना",
+     "problem": "'यहाँ से' (from here) is not in the Sanskrit (apakrāntavyam).",
+     "fix": "और जो मारे नहीं गए हैं, उनसे गुप्तचर कहें कि \"यह वही है जो हमने कहा था; जीने की इच्छा रखने वाले को भाग जाना चाहिए\"।",
+     "severity": "minor",
+     "patch": {"n": "4", "op": "replace", "field": "hindi", "old": "यहाँ से भाग जाना चाहिए", "new": "भाग जाना चाहिए"}
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शून्यपाल (राजधानी के रक्षक)",
+     "problem": "Bracketed gloss inside the Hindi; the explanation is already in notes.",
+     "fix": "शून्यपाल से",
+     "severity": "minor",
+     "patch": {"n": "5", "op": "replace", "field": "hindi", "old": "शून्यपाल (राजधानी के रक्षक) से", "new": "शून्यपाल से"}
+    }
+   ]
+  },
+  {"n": "6", "verdict": "ok", "issues": []},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "ok", "issues": []},
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "do not ask him even for a thing",
+     "problem": "'even' is added emphasis; there is no api in the Sanskrit.",
+     "fix": "do not ask him for a thing",
+     "severity": "minor",
+     "patch": {"n": "9", "op": "replace", "field": "english", "old": "do not ask him even for a thing", "new": "do not ask him for a thing"}
+    },
+    {
+     "field": "hindi",
+     "where": "वस्तु भी नहीं माँगते (twice)",
+     "problem": "'भी' (even) added twice; not in the Sanskrit.",
+     "fix": "और जो उससे माँगने योग्य वस्तु नहीं माँगते, उनसे गुप्तचर कहें कि \"शून्यपाल से राजा ने कहा है: 'अमुक और अमुक मुझसे माँगने योग्य वस्तु नहीं माँगते; अपने दोष की शंका के कारण नहीं तो और क्या? उन्हें उखाड़ फेंकने का प्रयत्न करो'\"।",
+     "severity": "minor",
+     "patch": {"n": "9", "op": "set", "field": "hindi", "value": "और जो उससे माँगने योग्य वस्तु नहीं माँगते, उनसे गुप्तचर कहें कि \"शून्यपाल से राजा ने कहा है: 'अमुक और अमुक मुझसे माँगने योग्य वस्तु नहीं माँगते; अपने दोष की शंका के कारण नहीं तो और क्या? उन्हें उखाड़ फेंकने का प्रयत्न करो'\"।"}
+    }
+   ]
+  },
+  {"n": "10", "verdict": "ok", "issues": []},
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the whole treatment of the party of the seducible (kṛtya-pakṣa)",
+     "problem": "'treatment of' is supplied (the drafter's own note admits it) and a bracketed Sanskrit term is inserted; translation should carry only what the line says, with the supplement in notes.",
+     "fix": "By this the whole party of the seducible is explained.",
+     "severity": "minor",
+     "patch": {"n": "11", "op": "set", "field": "english", "value": "By this the whole party of the seducible is explained."}
+    },
+    {
+     "field": "hindi",
+     "where": "कृत्य-पक्ष (फोड़े जा सकने वाले लोगों के दल) का उपाय",
+     "problem": "Bracketed gloss inside the Hindi and supplied 'का उपाय'.",
+     "fix": "इससे सम्पूर्ण कृत्य-पक्ष समझा दिया गया।",
+     "severity": "minor",
+     "patch": {"n": "11", "op": "set", "field": "hindi", "value": "इससे सम्पूर्ण कृत्य-पक्ष समझा दिया गया।"}
+    },
+    {
+     "field": "notes",
+     "where": "whole note",
+     "problem": "Note should carry the supplement and the Hindi explanation now removed from the translations.",
+     "fix": "kṛtya-pakṣa = the party of the seducible, persons who can be won over (the four kinds of 1.14); '(the treatment of)' the party is understood, not in the text.",
+     "severity": "minor",
+     "patch": {"n": "11", "op": "set", "field": "notes", "value": "kṛtya-pakṣa = the party of the seducible, persons who can be won over (the four kinds of 1.14); '(the treatment of)' the party is understood, not in the text."}
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "महामात्र (उच्च अधिकारी)",
+     "problem": "Bracketed gloss inside the Hindi.",
+     "fix": "महामात्र",
+     "severity": "minor",
+     "patch": {"n": "12", "op": "replace", "field": "hindi", "old": "महामात्र (उच्च अधिकारी)", "new": "महामात्र"}
+    },
+    {
+     "field": "notes",
+     "where": "end",
+     "problem": "Explanation moved out of the Hindi.",
+     "fix": "mahā-mātra = high officer (glossary).",
+     "severity": "minor",
+     "patch": {"n": "12", "op": "append_note", "text": "mahā-mātra = high officer (glossary)."}
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "that officer's written messages",
+     "problem": "asya is just 'his'; the identification with the officer is an interpretation (the draft itself notes the alternative) and belongs in notes.",
+     "fix": "his written messages",
+     "severity": "minor",
+     "patch": {"n": "13", "op": "replace", "field": "english", "old": "that officer's written messages", "new": "his written messages"}
+    },
+    {
+     "field": "hindi",
+     "where": "दूष्य (राजद्रोही) लोगों को उस अधिकारी के पत्र",
+     "problem": "Bracketed gloss inside the Hindi; 'उस अधिकारी के' interprets asya ('his').",
+     "fix": "जब राजा यह मान ले, तब उसे दूष्य लोगों को उसके पत्र ले जाते हुए दिखाए कि \"यह वही है\"।",
+     "severity": "minor",
+     "patch": {"n": "13", "op": "set", "field": "hindi", "value": "जब राजा यह मान ले, तब उसे दूष्य लोगों को उसके पत्र ले जाते हुए दिखाए कि \"यह वही है\"।"}
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "senā-mukhya-prakṛti-puruṣān",
+     "problem": "puruṣa is 'men'; 'leading' is supplied. prakṛti-puruṣa = men of the constituent elements.",
+     "fix": "army chiefs and men of the constituent elements",
+     "severity": "minor",
+     "patch": {"n": "14", "op": "word", "match_w": "senā-mukhya-prakṛti-puruṣān", "field": "gloss", "value": "army chiefs and men of the constituent elements"}
+    },
+    {
+     "field": "english",
+     "where": "the leading men of the constituent elements",
+     "problem": "'leading' not in the Sanskrit.",
+     "fix": "the men of the constituent elements",
+     "severity": "minor",
+     "patch": {"n": "14", "op": "replace", "field": "english", "old": "the leading men of the constituent elements", "new": "the men of the constituent elements"}
+    },
+    {
+     "field": "hindi",
+     "where": "प्रकृतियों के प्रधान पुरुषों",
+     "problem": "'प्रधान' (leading) not in the Sanskrit.",
+     "fix": "प्रकृतियों के पुरुषों",
+     "severity": "minor",
+     "patch": {"n": "14", "op": "replace", "field": "hindi", "old": "प्रकृतियों के प्रधान पुरुषों", "new": "प्रकृतियों के पुरुषों"}
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आक्रमण करके राज्य ले लो",
+     "problem": "'राज्य' is supplied; gṛhāṇa has no expressed object (the note already says it is understood). English correctly has 'seize it'.",
+     "fix": "आक्रमण करके ले लो",
+     "severity": "minor",
+     "patch": {"n": "15", "op": "replace", "field": "hindi", "old": "आक्रमण करके राज्य ले लो", "new": "आक्रमण करके ले लो"}
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tat-kulīnam",
+     "problem": "'(a rival claimant)' is interpretation inside the gloss.",
+     "fix": "a member of his family",
+     "severity": "minor",
+     "patch": {"n": "16", "op": "word", "match_w": "tat-kulīnam", "field": "gloss", "value": "a member of his family"}
+    },
+    {
+     "field": "hindi",
+     "where": "अपरुद्ध (राजा की अप्रसन्नता में पड़े राजकुमार)",
+     "problem": "Bracketed gloss inside the Hindi; explanation is already in notes.",
+     "fix": "अपरुद्ध को",
+     "severity": "minor",
+     "patch": {"n": "16", "op": "replace", "field": "hindi", "old": "अपरुद्ध (राजा की अप्रसन्नता में पड़े राजकुमार) को", "new": "अपरुद्ध को"}
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आटविकों (वन-प्रदेश के सरदारों)",
+     "problem": "Bracketed gloss inside the Hindi.",
+     "fix": "आटविकों को",
+     "severity": "minor",
+     "patch": {"n": "17", "op": "replace", "field": "hindi", "old": "आटविकों (वन-प्रदेश के सरदारों) को", "new": "आटविकों को"}
+    },
+    {
+     "field": "notes",
+     "where": "empty",
+     "problem": "Explanation moved out of the Hindi.",
+     "fix": "āṭavika = forest chieftain (glossary).",
+     "severity": "minor",
+     "patch": {"n": "17", "op": "append_note", "text": "āṭavika = forest chieftain (glossary)."}
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पार्ष्णिग्राह (पीछे से आक्रमण करने वाले शत्रु) ... पिछले भाग पर आक्रमण करो",
+     "problem": "Bracketed gloss inside the Hindi; and pārṣṇim gṛhāṇa / grahīṣyāmi is paraphrased ('attack the rear') while the English keeps the image 'seize his heel'. Keep the metaphor as the English does; explanation is in notes.",
+     "fix": "अथवा उसके पार्ष्णिग्राह से कहे कि \"यह राजा निश्चय ही मुझे उखाड़कर तुम्हें उखाड़ेगा; इसकी पार्ष्णि पकड़ो; जब वह तुम्हारी ओर मुड़ जाए, तब मैं इसकी पार्ष्णि पकड़ूँगा\"।",
+     "severity": "minor",
+     "patch": {"n": "18", "op": "set", "field": "hindi", "value": "अथवा उसके पार्ष्णिग्राह से कहे कि \"यह राजा निश्चय ही मुझे उखाड़कर तुम्हें उखाड़ेगा; इसकी पार्ष्णि पकड़ो; जब वह तुम्हारी ओर मुड़ जाए, तब मैं इसकी पार्ष्णि पकड़ूँगा\"।"}
+    }
+   ]
+  },
+  {"n": "19", "verdict": "ok", "issues": []},
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मिले हुए और न मिले हुए राजाओं के पास",
+     "problem": "'राजाओं' (kings) is supplied; the Sanskrit has only the genitives. The English rightly leaves it unexpressed and the note explains.",
+     "fix": "जो उससे मिले हुए हैं और जो नहीं मिले हुए हैं, उनके पास सन्देश भेजे",
+     "severity": "minor",
+     "patch": {"n": "20", "op": "replace", "field": "hindi", "old": "उससे मिले हुए और न मिले हुए राजाओं के पास सन्देश भेजे", "new": "जो उससे मिले हुए हैं और जो नहीं मिले हुए हैं, उनके पास सन्देश भेजे"}
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपनी मुक्ति के लिए ... उसकी शरण में आत्म-समर्पण",
+     "problem": "'उसकी शरण में' and 'आत्म-' are supplied; tad-arpaṇam is 'surrender/offering to him', 'self' is interpretation (note already covers it).",
+     "fix": "अथवा फिर मध्यम अथवा उदासीन राजा के पास, जो भी निकट हो, मुक्ति के लिए अपने सर्वस्व के साथ उसके प्रति समर्पण का सन्देश भेजे।",
+     "severity": "minor",
+     "patch": {"n": "21", "op": "set", "field": "hindi", "value": "अथवा फिर मध्यम अथवा उदासीन राजा के पास, जो भी निकट हो, मुक्ति के लिए अपने सर्वस्व के साथ उसके प्रति समर्पण का सन्देश भेजे।"}
+    }
+   ]
+  }
+ ],
+ "summary": "21 units reviewed; 7 ok, 14 fix. 2 error issues (both in 12.3.1: the genitive of the chiefs is partitive with mitra-sthānīyeṣu, so the agents tell the friendly chiefs themselves, not 'friends of the chiefs'); 27 minor issues, mostly bracketed glosses inside the Hindi (units 2, 5, 11, 12, 13, 16, 17, 18) and small supplied words ('even', 'leading', 'राज्य', 'राजाओं', 'treatment of'). Splits, sandhi and grammar labels are otherwise sound; tokens all present. No regrouping suggested. For a person: (a) 12.3.1 construction (I am confident of the partitive reading, but it reverses the draft); (b) 12.3.14 prakṛti-puruṣa, 'men' vs 'leading men' of the constituents; (c) 12.3.13 asya, officer's or king's. Glossary extended with the chapter's agent/office terms."
+}

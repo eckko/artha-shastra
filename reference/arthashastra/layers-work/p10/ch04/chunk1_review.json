@@ -1,0 +1,80 @@
+{
+ "units": [
+  {"n": "1", "verdict": "fix", "issues": [
+   {"field": "english", "where": "their own (suitable) ground", "problem": "'(suitable)' is interpretation not in the Sanskrit (sva-bhūmiḥ = own ground); the notes already explain it.", "fix": "their own ground", "severity": "minor",
+    "patch": {"n": "1", "op": "replace", "field": "english", "old": "their own (suitable) ground", "new": "their own ground"}},
+   {"field": "hindi", "where": "अपनी-अपनी (अनुकूल) भूमि", "problem": "bracketed gloss inside the Hindi (glossary rule); explanation belongs in notes.", "fix": "अपनी-अपनी भूमि", "severity": "minor",
+    "patch": {"n": "1", "op": "replace", "field": "hindi", "old": "अपनी-अपनी (अनुकूल) भूमि", "new": "अपनी-अपनी भूमि"}}
+  ]},
+  {"n": "2", "verdict": "fix", "issues": [
+   {"field": "english", "where": "according to the nature of each", "problem": "yathā-svam = 'each according to its own, respectively'; 'nature' is added.", "fix": "each according to its own", "severity": "minor",
+    "patch": {"n": "2", "op": "replace", "field": "english", "old": "according to the nature of each", "new": "each according to its own"}},
+   {"field": "hindi", "where": "अपने-अपने (स्वभाव के) अनुसार", "problem": "bracketed gloss in Hindi; 'स्वभाव' not in the text.", "fix": "अपने-अपने अनुसार", "severity": "minor",
+    "patch": {"n": "2", "op": "replace", "field": "hindi", "old": "अपने-अपने (स्वभाव के) अनुसार", "new": "अपने-अपने अनुसार"}}
+  ]},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "fix", "issues": [
+   {"field": "english", "where": "with only a slight defect of crevices", "problem": "'only' is added; manda-daraṇa-doṣā = with slight defect of crevices.", "fix": "with a slight defect of crevices", "severity": "minor",
+    "patch": {"n": "4", "op": "replace", "field": "english", "old": "with only a slight defect", "new": "with a slight defect"}}
+  ]},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "तोड़ा (पार किया) जा सकने वाला कीचड़", "problem": "bracketed gloss in Hindi; the reading of paṅka-bhaṅgurā is already in notes.", "fix": "तोड़ा जा सकने वाला कीचड़", "severity": "minor",
+    "patch": {"n": "6", "op": "replace", "field": "hindi", "old": "तोड़ा (पार किया) जा सकने वाला कीचड़", "new": "तोड़ा जा सकने वाला कीचड़"}}
+  ]},
+  {"n": "7", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "विशेष (श्रेष्ठ भूमि) है", "problem": "atiśayaḥ rendered with a bracketed gloss; render as 'विशेष लाभ' to match English 'special advantage' (same in units 8-10).", "fix": "विशेष लाभ है", "severity": "minor",
+    "patch": {"n": "7", "op": "replace", "field": "hindi", "old": "विशेष (श्रेष्ठ भूमि) है", "new": "विशेष लाभ है"}}
+  ]},
+  {"n": "8", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "विशेष (श्रेष्ठ भूमि) है", "problem": "bracketed gloss in Hindi for atiśayaḥ.", "fix": "विशेष लाभ है", "severity": "minor",
+    "patch": {"n": "8", "op": "replace", "field": "hindi", "old": "विशेष (श्रेष्ठ भूमि) है", "new": "विशेष लाभ है"}}
+  ]},
+  {"n": "9", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "विशेष (श्रेष्ठ भूमि) है", "problem": "bracketed gloss in Hindi for atiśayaḥ.", "fix": "विशेष लाभ है", "severity": "minor",
+    "patch": {"n": "9", "op": "replace", "field": "hindi", "old": "विशेष (श्रेष्ठ भूमि) है", "new": "विशेष लाभ है"}},
+   {"field": "hindi", "where": "श्वदंष्ट्र (कँटीले पौधों) से रहित", "problem": "bracketed gloss in Hindi; notes already explain śva-daṃṣṭra.", "fix": "श्वदंष्ट्र से रहित", "severity": "minor",
+    "patch": {"n": "9", "op": "replace", "field": "hindi", "old": "श्वदंष्ट्र (कँटीले पौधों) से रहित", "new": "श्वदंष्ट्र से रहित"}}
+  ]},
+  {"n": "10", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "विशेष (श्रेष्ठ भूमि) है", "problem": "bracketed gloss in Hindi for atiśayaḥ.", "fix": "विशेष लाभ है", "severity": "minor",
+    "patch": {"n": "10", "op": "replace", "field": "hindi", "old": "विशेष (श्रेष्ठ भूमि) है", "new": "विशेष लाभ है"}}
+  ]},
+  {"n": "11", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "सबकी (सेना के सब अंगों की) भूमि", "problem": "bracketed gloss in Hindi; move to notes.", "fix": "सबकी भूमि", "severity": "minor",
+    "patch": {"n": "11", "op": "replace", "field": "hindi", "old": "सबकी (सेना के सब अंगों की) भूमि", "new": "सबकी भूमि"}},
+   {"field": "notes", "where": "notes", "problem": "notes empty; the referent of sarveṣām should be stated here instead of in the Hindi.", "fix": "sarveṣām: of all the arms of the army (foot, horse, chariot, elephant).", "severity": "minor",
+    "patch": {"n": "11", "op": "append_note", "text": "sarveṣām: of all the arms of the army (foot, horse, chariot, elephant)."}}
+  ]},
+  {"n": "12", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "इसी (भूमि के विवरण) से ... युद्ध (भी)", "problem": "bracketed gloss '(भूमि के विवरण)' and added '(भी)' in the Hindi; neither is in the Sanskrit.", "fix": "इसी से सब सेनाओं के पड़ाव और युद्ध समझाए हुए हो जाते हैं।", "severity": "minor",
+    "patch": {"n": "12", "op": "set", "field": "hindi", "value": "इसी से सब सेनाओं के पड़ाव और युद्ध समझाए हुए हो जाते हैं।"}}
+  ]},
+  {"n": "13", "verdict": "fix", "issues": [
+   {"field": "english", "where": "destroying (the enemy's) supply-lines and reinforcements or protecting (one's own)", "problem": "'(the enemy's)' and '(one's own)' are interpretation; the text has only ghāto rakṣā vā of vīvadha and āsāra.", "fix": "destroying or protecting supply-lines and reinforcements", "severity": "minor",
+    "patch": {"n": "13", "op": "replace", "field": "english", "old": "destroying (the enemy's) supply-lines and reinforcements or protecting (one's own)", "new": "destroying or protecting supply-lines and reinforcements"}},
+   {"field": "hindi", "where": "(शत्रु की) रसद और सहायक सेना का विनाश या (अपनी की) रक्षा", "problem": "same interpretive brackets; '(अपनी की)' is also ungrammatical Hindi.", "fix": "रसद और सहायक सेना का विनाश या रक्षा", "severity": "minor",
+    "patch": {"n": "13", "op": "replace", "field": "hindi", "old": "(शत्रु की) रसद और सहायक सेना का विनाश या (अपनी की) रक्षा", "new": "रसद और सहायक सेना का विनाश या रक्षा"}},
+   {"field": "english", "where": "clearing the way for the army and steadying it", "problem": "viśuddhiḥ sthāpanā ca balasya: 'the way' is added; viśuddhi is 'purification, clearing' of the army itself (restoring order) or of its route; keep it literal and put the alternatives in notes.", "fix": "clearing and steadying the army", "severity": "minor",
+    "patch": {"n": "13", "op": "replace", "field": "english", "old": "clearing the way for the army and steadying it", "new": "clearing and steadying the army"}},
+   {"field": "hindi", "where": "सेना का (मार्ग) शोधन", "problem": "bracketed '(मार्ग)' is interpretation.", "fix": "सेना का शोधन", "severity": "minor",
+    "patch": {"n": "13", "op": "replace", "field": "hindi", "old": "सेना का (मार्ग) शोधन", "new": "सेना का शोधन"}},
+   {"field": "gloss", "where": "viśuddhiḥ", "problem": "gloss 'clearing (of the way)' commits to one interpretation.", "fix": "clearing, purification", "severity": "minor",
+    "patch": {"n": "13", "op": "word", "match_w": "viśuddhiḥ", "field": "gloss", "value": "clearing, purification"}},
+   {"field": "notes", "where": "notes", "problem": "record the two readings of viśuddhi.", "fix": "viśuddhi of the army: either restoring its order (purification) or clearing its way; both readings possible.", "severity": "minor",
+    "patch": {"n": "13", "op": "append_note", "text": "viśuddhi of the army: either restoring its order (purification) or clearing its way; both readings possible."}}
+  ]},
+  {"n": "14", "verdict": "ok", "issues": []},
+  {"n": "15", "verdict": "ok", "issues": []},
+  {"n": "16", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "व्यायाम (युद्ध-श्रम)", "problem": "bracketed gloss in Hindi; notes already explain vyāyāma here.", "fix": "व्यायाम", "severity": "minor",
+    "patch": {"n": "16", "op": "replace", "field": "hindi", "old": "व्यायाम (युद्ध-श्रम)", "new": "व्यायाम"}}
+  ]},
+  {"n": "17", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "विष्टि (श्रमिक दल) के कार्य", "problem": "bracketed gloss in Hindi; notes already explain viṣṭi.", "fix": "विष्टि के कार्य", "severity": "minor",
+    "patch": {"n": "17", "op": "replace", "field": "hindi", "old": "विष्टि (श्रमिक दल) के कार्य", "new": "विष्टि के कार्य"}}
+  ]},
+  {"n": "18", "verdict": "ok", "issues": []}
+ ],
+ "summary": "18 units reviewed against the Sanskrit (10.4.1-18, Kangle e-text). 0 errors, 22 minor issues, all with patches; no regrouping suggested. Word splits, sandhi, case/number labels, compound types and the two-line verse 18 check out. All four draft text_flags are confirmed: unit 3 (missing space after nirutkhātiny/grāhiṇy and the stray 'vratatī.-' inside one compound ending in -bhaṅgurā; cf. units 5 and 7 where the e-text does put a space at such junctions), unit 8 nihśarkarā -> niḥśarkarā (the e-text writes visarga as ś before c/ś elsewhere, e.g. kālāś ca), unit 9 daṇṣṭra -> daṃṣṭra, unit 14 'trāsanaṃ.audāryaṃ' -> 'trāsanam audāryaṃ' (two nouns, as in 10.4.15). Confidence labels are honest: units 13-14 (cavalry/elephant functions) rightly low, since several terms (bāhu-utsāra, viśuddhi, mārga-anusāra-vinimaya, samāja-karma, sthāna-gamana-avataraṇa) have disputed senses and the alternatives are recorded in notes. The minor issues are of two kinds: (a) bracketed glosses inside the Hindi, against the glossary rule (units 1, 2, 6-13, 16, 17); supplied objects such as '(शत्रु को)' were left alone; (b) small interpretive additions in the English ('(suitable)', 'nature of each', 'only', '(the enemy's)/(one's own)', 'the way for'). Glossary extended with the Book 10 military terms used here so later chunks of 10.x stay consistent (vyāyāma = exertion in Book 10 differs from the 6.2 sense; recorded)."
+}
