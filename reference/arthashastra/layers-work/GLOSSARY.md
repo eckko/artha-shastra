@@ -50,3 +50,6 @@
 - (10.6) the four basic arrays: daṇḍa = staff (दण्ड) [here an array, not 'army']; bhoga = snake (भोग); maṇḍala = circle (मण्डल); asaṃhata = loose array (असंहत)
 - (10.6) named arrays (pradara, dṛḍhaka, śyena, sthūṇākarṇa ...) stay names: plain letters in English with the literal sense in brackets at first mention, Devanagari in Hindi; sthūṇākarṇa is split sthūṇā-karṇa
 - (10.6) patti/aśva/ratha/hastin = foot-soldiers/horses/chariots/elephants (पैदल/घोड़े/रथ/हाथी); tīkṣṇa = assassin (तीक्ष्ण); skandhāvāra = camp (स्कन्धावार); auśanasa/bārhaspatya = of the school of Usanas/Brihaspati (औशनस/बार्हस्पत्य मत)
+- (8.1) vyasana (of a prakṛti) = calamity (व्यसन); (8.3) vyasana (of the king's conduct) = vice (व्यसन); garīyas = the more serious (अधिक गम्भीर); "iti" closing a view = — so ends the view (— इस प्रकार यह मत है)
+- (8.3) kopa = anger (क्रोध); kāma = desire (काम); kopa-ja/kāma-ja = born of anger/desire; mṛgayā = hunting (मृगया); dyūta = gambling (द्यूत); strī-vyasana = the vice of women (स्त्री-व्यसन); pāna = drink (पान); madya = liquor (मद्य)
+- (8.3) tantra = the administration (शासन); tantra-daurbalya = weakness of the administration; asat-pragraha / asatāṃ pragrahaḥ = favouring of the bad (असत् का प्रग्रह); saṅgha = confederacy (संघ); vyāyāma (bodily) = exercise (व्यायाम), unlike the 6.2 pair
