@@ -1,0 +1,83 @@
+{
+ "units": [
+  {"n": "1", "verdict": "ok", "issues": []},
+  {"n": "2", "verdict": "fix", "issues": [
+   {"field": "english", "where": "arises from misfortune or from bad policy",
+    "problem": "anaya-apanayābhyām is a dvandva in the dual with no vā: both causes are named together (the divine calamity from misfortune, the human from bad policy), not as alternatives. The Hindi already has 'और'.",
+    "fix": "arises from misfortune and from bad policy", "severity": "minor",
+    "patch": {"n": "2", "op": "replace", "field": "english", "old": "arises from misfortune or from bad policy", "new": "arises from misfortune and from bad policy"}}
+  ]},
+  {"n": "3", "verdict": "ok", "issues": []},
+  {"n": "4", "verdict": "ok", "issues": []},
+  {"n": "5", "verdict": "ok", "issues": []},
+  {"n": "6", "verdict": "ok", "issues": []},
+  {"n": "7", "verdict": "ok", "issues": []},
+  {"n": "8", "verdict": "ok", "issues": [
+   {"field": "notes", "where": "daṇḍa-praṇayana",
+    "problem": "Rendering 'administration of punishment' kept (literal, alternative 'use of force' already in notes); glossary entry added so later chunks match. No change.",
+    "fix": "", "severity": "minor"}
+  ]},
+  {"n": "9", "verdict": "ok", "issues": []},
+  {"n": "10", "verdict": "fix", "issues": [
+   {"field": "hindi", "where": "शत्रु द्वारा फूट डालना",
+    "problem": "upajāpa is a technical term of the book; keep it as उपजाप in the Hindi (glossary entry added) so later chunks agree. 'उनके' (their) is supplied from context, as in the English; acceptable, the note says so.",
+    "fix": "और उनके व्यसनों में शत्रु का उपजाप निकट आ जाता है।", "severity": "minor",
+    "patch": {"n": "10", "op": "set", "field": "hindi", "value": "और उनके व्यसनों में शत्रु का उपजाप निकट आ जाता है।"}}
+  ]},
+  {"n": "11", "verdict": "fix", "issues": [
+   {"field": "english", "where": "become defective (disloyal)",
+    "problem": "'(disloyal)' is an interpretation inserted into the translation; the gloss and Hindi say 'defective'. Keep the literal rendering in the translation and put the alternative (hostile/disloyal) in notes.",
+    "fix": "become defective", "severity": "minor",
+    "patch": {"n": "11", "op": "replace", "field": "english", "old": "become defective (disloyal)", "new": "become defective"}},
+   {"field": "hindi", "where": "उनके विकार में ... ” (trailing space)",
+    "problem": "विकार is a loose rendering of vaiguṇya (defectiveness, turning adverse); the string also ends with a stray space after the closing quote.",
+    "fix": "और उनके विगुण हो जाने पर राजा के प्राणों को बाधा होती है, क्योंकि वे राजा के प्राणों के समीप विचरण करते हैं।”", "severity": "minor",
+    "patch": {"n": "11", "op": "set", "field": "hindi", "value": "और उनके विगुण हो जाने पर राजा के प्राणों को बाधा होती है, क्योंकि वे राजा के प्राणों के समीप विचरण करते हैं।”"}},
+   {"field": "notes", "where": "vaiguṇya / rājñaḥ",
+    "problem": "Record the alternatives: vaiguṇya may mean the ministers turning hostile or disloyal (commentators), not only incompetence; rājñaḥ stands once in the Sanskrit and is construed with prāṇa-antika-caratvāt ('moving near the king's life'), the king's life in prāṇa-ābādhaḥ being understood.",
+    "fix": "append", "severity": "minor",
+    "patch": {"n": "11", "op": "append_note", "text": "vaiguṇya: 'defectiveness' kept literal; it is often understood as the ministers turning hostile or disloyal. rājñaḥ occurs once and goes with prāṇa-antika-caratvāt; 'the king's' before 'life' in the first clause is understood."}}
+  ]},
+  {"n": "12", "verdict": "ok", "issues": []},
+  {"n": "13", "verdict": "ok", "issues": []},
+  {"n": "14", "verdict": "fix", "issues": [
+   {"field": "gloss", "where": "amātyeṣu",
+    "problem": "Gloss 'when the ministers are' is a translation of the locative absolute, not the meaning of the word.",
+    "fix": "the ministers (loc. absolute)", "severity": "minor",
+    "patch": {"n": "14", "op": "word", "match_w": "amātyeṣu", "field": "gloss", "value": "the ministers (loc. absolute)"}}
+  ]},
+  {"n": "15", "verdict": "ok", "issues": []},
+  {"n": "16", "verdict": "ok", "issues": []},
+  {"n": "17", "verdict": "ok", "issues": []},
+  {"n": "18", "verdict": "ok", "issues": [
+   {"field": "notes", "where": "tat-kūṭa-sthānīya",
+    "problem": "Reading 'in the position of their summit (head)' is defensible; kūṭa can also mean 'peak, apex, pivot'. Medium confidence is honest; a person may want to check against Kangle's rendering. No change.",
+    "fix": "", "severity": "minor"}
+  ]},
+  {"n": "19", "verdict": "ok", "issues": []},
+  {"n": "20", "verdict": "ok", "issues": []},
+  {"n": "21", "verdict": "ok", "issues": []},
+  {"n": "22", "verdict": "ok", "issues": []},
+  {"n": "23", "verdict": "ok", "issues": []},
+  {"n": "24", "verdict": "ok", "issues": []},
+  {"n": "25", "verdict": "ok", "issues": []},
+  {"n": "26", "verdict": "fix", "issues": [
+   {"field": "split", "where": "śaktimat-tarāḥ",
+    "problem": "-tara is the comparative suffix, not a compound member; the hyphen suggests a compound.",
+    "fix": "śaktimattarāḥ", "severity": "minor",
+    "patch": {"n": "26", "op": "word", "match_w": "śaktimat-tarāḥ", "field": "w", "value": "śaktimattarāḥ"}}
+  ]},
+  {"n": "27", "verdict": "ok", "issues": []},
+  {"n": "28", "verdict": "ok", "issues": []},
+  {"n": "29", "verdict": "ok", "issues": []},
+  {"n": "30", "verdict": "ok", "issues": []},
+  {"n": "31", "verdict": "fix", "issues": [
+   {"field": "gram", "where": "parvata-antar-dvīpāḥ",
+    "problem": "The compound qualifies durgāḥ ('forts that are mountain- and island-(forts)', cf. the fort types pārvata and antardvīpa); label it as used adjectivally, as the note already says.",
+    "fix": "m. nom. pl. (dvandva, as adj. to durgāḥ)", "severity": "minor",
+    "patch": {"n": "31", "op": "word", "match_w": "parvata-antar-dvīpāḥ", "field": "gram", "value": "m. nom. pl. (dvandva, as adj. to durgāḥ)"}}
+  ]},
+  {"n": "32", "verdict": "ok", "issues": []}
+ ],
+ "summary": "32 units reviewed against the Sanskrit; all tokens present, sandhi and compounds correct, no text_flags needed. 0 errors, 8 minor issues, 7 machine-applicable patches (units 2, 10, 11 x3, 14, 26, 31). No regrouping suggested. Draft author's doubts: 8.1.11 (prāṇa-antika-caratvāt, vaiguṇya) reading accepted, alternatives moved to notes, confidence medium stays; 8.1.18 tat-kūṭa-sthānīya accepted at medium confidence (a person may compare Kangle); 8.1.31 adjectival use accepted; 8.1.8 daṇḍa-praṇayana 'administration of punishment' kept with the alternative in notes and fixed in GLOSSARY; 8.1.23 daṇḍa-kara = fines and taxes accepted; 8.1.24/32 garīyaḥ supplied by ellipsis accepted. vyasana: GLOSSARY now fixes 'calamity' (व्यसन) for the calamities of the constituent elements, with 'vice' only for the king's personal vyasanas born of desire and anger (8.3); the p08/ch03 draft's 'vice' is consistent with that rule."
+}

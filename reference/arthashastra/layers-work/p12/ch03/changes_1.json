@@ -1,0 +1,201 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Secret agents close to the king and to the king's favourites should tell, with the confidence of a friend, those who stand as friends to the chiefs of the infantry, cavalry, chariots and elephants: \"The king is angry.\"",
+  "new": "Secret agents close to the king and to the king's favourites should tell, with the confidence of a friend, those among the chiefs of the infantry, cavalry, chariots and elephants who stand in the position of friends to them: \"The king is angry.\"",
+  "why": "reviewer (error): patty-aśva-ratha-dvipa-mukhyānām is a partitive genitive governed by mitra-sthānīyeṣu ('those among the chiefs who are in the position of friends', i.e. chiefs on friendly terms with the agents), not 'friends of the chiefs'. 12.3.4 ('this is what we told you', said to the surviving chiefs) confirms the chiefs themselves are told."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "राजा के और राजा के प्रिय जनों के निकट रहने वाले गुप्तचर पैदल, घुड़सवार, रथ और हाथी सेना के प्रमुखों के मित्र-स्थानीय लोगों के बीच मित्र के विश्वास के साथ कहें कि \"राजा क्रुद्ध है\"।",
+  "new": "राजा के और राजा के प्रिय जनों के निकट रहने वाले गुप्तचर पैदल, घुड़सवार, रथ और हाथी सेना के प्रमुखों में से जो उनके मित्र-स्थान में हों, उनसे मित्र के विश्वास के साथ कहें कि \"राजा क्रुद्ध है\"।",
+  "why": "reviewer (error): Same misreading: the persons told are the chiefs themselves (those of them on friendly terms), not the friends of the chiefs."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "mitra-sthānīyeṣu is taken as locative of the persons told (the friends of the chiefs); the king is angry at the chiefs is implied, not stated.",
+  "new": "patty-aśva-ratha-dvipa-mukhyānām is a partitive genitive with mitra-sthānīyeṣu: those chiefs who are on friendly terms with the agents (12.3.4 'what we told you' shows the chiefs themselves were told). That the king is angry at them is implied, not stated.",
+  "why": "reviewer (minor): Note records the rejected construction."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जब यह बात फैल जाए, तब रात्रि के पहरे का प्रतीकार कर चुके तीक्ष्ण (हत्यारे गुप्तचर) उनके घरों में जाकर कहें कि \"स्वामी के वचन से आइए\"।",
+  "new": "जब यह बात फैल जाए, तब रात्रि के पहरे का प्रतीकार कर चुके तीक्ष्ण उनके घरों में कहें कि \"स्वामी के वचन से आइए\"।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi (not allowed); 'जाकर' (having gone) is not in the Sanskrit."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "kṛta-rātri-cāra-pratīkārāḥ: rātri-cāra taken as the night watch/patrol; an alternative is 'night movement' of the victims. gṛheṣu refers to the houses of the chiefs.",
+  "new": "kṛta-rātri-cāra-pratīkārāḥ: rātri-cāra taken as the night watch/patrol; an alternative is 'night movement' of the victims. gṛheṣu refers to the houses of the chiefs. tīkṣṇa = assassin, the 'fierce' class of secret agent (glossary).",
+  "why": "reviewer (minor): Explanation of tīkṣṇa belongs in notes once removed from the Hindi."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "jīvitu-kāmena",
+  "old": "m. inst. sg., tat-puruṣa",
+  "new": "m. inst. sg., bahuvrīhi (jīvitum + kāma)",
+  "why": "reviewer (minor): jīvitu-kāma (jīvitum kāmo yasya, infinitive with final -m dropped + kāma) is a bahuvrīhi, not a tat-puruṣa."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "और जो मारे नहीं गए हैं, उनसे गुप्तचर कहें कि \"यह वही है जो हमने कहा था; जीने की इच्छा रखने वाले को यहाँ से भाग जाना चाहिए\"।",
+  "new": "और जो मारे नहीं गए हैं, उनसे गुप्तचर कहें कि \"यह वही है जो हमने कहा था; जीने की इच्छा रखने वाले को भाग जाना चाहिए\"।",
+  "why": "reviewer (minor): 'यहाँ से' (from here) is not in the Sanskrit (apakrāntavyam)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "और जिनके माँगने पर राजा नहीं देता, उनसे गुप्तचर कहें कि \"शून्यपाल (राजधानी के रक्षक) से राजा ने कहा है: 'अमुक और अमुक मुझसे न माँगने योग्य वस्तु माँगते हैं; मैंने उन्हें अस्वीकार कर दिया है; वे शत्रु से मिले हुए हैं; उन्हें उखाड़ फेंकने का प्रयत्न करो'\"।",
+  "new": "और जिनके माँगने पर राजा नहीं देता, उनसे गुप्तचर कहें कि \"शून्यपाल से राजा ने कहा है: 'अमुक और अमुक मुझसे न माँगने योग्य वस्तु माँगते हैं; मैंने उन्हें अस्वीकार कर दिया है; वे शत्रु से मिले हुए हैं; उन्हें उखाड़ फेंकने का प्रयत्न करो'\"।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi; the explanation is already in notes."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "And to those who do not ask him even for a thing fit to be asked, the secret agents should say: \"The regent has been told by the king: 'So-and-so and so-and-so do not ask me for a thing fit to be asked; what else can it be but from fear of their own guilt? Strive to remove them.'\"",
+  "new": "And to those who do not ask him for a thing fit to be asked, the secret agents should say: \"The regent has been told by the king: 'So-and-so and so-and-so do not ask me for a thing fit to be asked; what else can it be but from fear of their own guilt? Strive to remove them.'\"",
+  "why": "reviewer (minor): 'even' is added emphasis; there is no api in the Sanskrit."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "और जो उससे माँगने योग्य वस्तु भी नहीं माँगते, उनसे गुप्तचर कहें कि \"शून्यपाल से राजा ने कहा है: 'अमुक और अमुक मुझसे माँगने योग्य वस्तु भी नहीं माँगते; अपने दोष की शंका के कारण नहीं तो और क्या? उन्हें उखाड़ फेंकने का प्रयत्न करो'\"।",
+  "new": "और जो उससे माँगने योग्य वस्तु नहीं माँगते, उनसे गुप्तचर कहें कि \"शून्यपाल से राजा ने कहा है: 'अमुक और अमुक मुझसे माँगने योग्य वस्तु नहीं माँगते; अपने दोष की शंका के कारण नहीं तो और क्या? उन्हें उखाड़ फेंकने का प्रयत्न करो'\"।",
+  "why": "reviewer (minor): 'भी' (even) added twice; not in the Sanskrit."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "By this the whole treatment of the party of the seducible (kṛtya-pakṣa) is explained.",
+  "new": "By this the whole party of the seducible is explained.",
+  "why": "reviewer (minor): 'treatment of' is supplied (the drafter's own note admits it) and a bracketed Sanskrit term is inserted; translation should carry only what the line says, with the supplement in notes."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "इससे सम्पूर्ण कृत्य-पक्ष (फोड़े जा सकने वाले लोगों के दल) का उपाय समझा दिया गया।",
+  "new": "इससे सम्पूर्ण कृत्य-पक्ष समझा दिया गया।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi and supplied 'का उपाय'."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "kṛtya = persons who can be won over/seduced (the four kinds of 1.14); 'treatment of' is supplied for sense.",
+  "new": "kṛtya-pakṣa = the party of the seducible, persons who can be won over (the four kinds of 1.14); '(the treatment of)' the party is understood, not in the text.",
+  "why": "reviewer (minor): Note should carry the supplement and the Hindi explanation now removed from the translations."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "अथवा राजा के निकट रहने वाला गुप्तचर राजा को यह विश्वास दिलाए कि \"आपका अमुक और अमुक महामात्र (उच्च अधिकारी) शत्रु के पुरुषों से बातचीत करता है\"।",
+  "new": "अथवा राजा के निकट रहने वाला गुप्तचर राजा को यह विश्वास दिलाए कि \"आपका अमुक और अमुक महामात्र शत्रु के पुरुषों से बातचीत करता है\"।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "",
+  "new": "mahā-mātra = high officer (glossary).",
+  "why": "reviewer (minor): Explanation moved out of the Hindi."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "When the king has accepted it, he should show him treasonable men carrying that officer's written messages, saying: \"This is it.\"",
+  "new": "When the king has accepted it, he should show him treasonable men carrying his written messages, saying: \"This is it.\"",
+  "why": "reviewer (minor): asya is just 'his'; the identification with the officer is an interpretation (the draft itself notes the alternative) and belongs in notes."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "जब राजा यह मान ले, तब उसे दूष्य (राजद्रोही) लोगों को उस अधिकारी के पत्र ले जाते हुए दिखाए कि \"यह वही है\"।",
+  "new": "जब राजा यह मान ले, तब उसे दूष्य लोगों को उसके पत्र ले जाते हुए दिखाए कि \"यह वही है\"।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi; 'उस अधिकारी के' interprets asya ('his')."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "senā-mukhya-prakṛti-puruṣān",
+  "old": "army chiefs and the leading men of the constituent elements",
+  "new": "army chiefs and men of the constituent elements",
+  "why": "reviewer (minor): puruṣa is 'men'; 'leading' is supplied. prakṛti-puruṣa = men of the constituent elements."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Or, having tempted the army chiefs and the leading men of the constituent elements with land or gold, he should make them attack their own people or draw them away.",
+  "new": "Or, having tempted the army chiefs and the men of the constituent elements with land or gold, he should make them attack their own people or draw them away.",
+  "why": "reviewer (minor): 'leading' not in the Sanskrit."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "अथवा सेना के प्रमुखों और प्रकृतियों के प्रधान पुरुषों को भूमि या सुवर्ण का लोभ देकर उनसे अपने ही लोगों पर आक्रमण कराए या उन्हें वहाँ से हटा ले।",
+  "new": "अथवा सेना के प्रमुखों और प्रकृतियों के पुरुषों को भूमि या सुवर्ण का लोभ देकर उनसे अपने ही लोगों पर आक्रमण कराए या उन्हें वहाँ से हटा ले।",
+  "why": "reviewer (minor): 'प्रधान' (leading) not in the Sanskrit."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "उसका जो पुत्र निकट या किसी दुर्ग में रहता हो, उसे गुप्तचर के द्वारा भड़काए कि \"तुम गुणों में बढ़कर पुत्र हो, फिर भी छिपाकर रखे गए हो; तो क्यों उपेक्षा करते हो? आक्रमण करके राज्य ले लो, इससे पहले कि युवराज तुम्हें नष्ट कर दे\"।",
+  "new": "उसका जो पुत्र निकट या किसी दुर्ग में रहता हो, उसे गुप्तचर के द्वारा भड़काए कि \"तुम गुणों में बढ़कर पुत्र हो, फिर भी छिपाकर रखे गए हो; तो क्यों उपेक्षा करते हो? आक्रमण करके ले लो, इससे पहले कि युवराज तुम्हें नष्ट कर दे\"।",
+  "why": "reviewer (minor): 'राज्य' is supplied; gṛhāṇa has no expressed object (the note already says it is understood). English correctly has 'seize it'."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "tat-kulīnam",
+  "old": "a member of his family (a rival claimant)",
+  "new": "a member of his family",
+  "why": "reviewer (minor): '(a rival claimant)' is interpretation inside the gloss."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "अथवा उसके कुल के किसी व्यक्ति या अपरुद्ध (राजा की अप्रसन्नता में पड़े राजकुमार) को सुवर्ण का लोभ देकर कहे कि \"उसकी भीतरी सेना, सीमान्त की सैन्य-टुकड़ी या सीमा-प्रदेश को कुचल दो\"।",
+  "new": "अथवा उसके कुल के किसी व्यक्ति या अपरुद्ध को सुवर्ण का लोभ देकर कहे कि \"उसकी भीतरी सेना, सीमान्त की सैन्य-टुकड़ी या सीमा-प्रदेश को कुचल दो\"।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi; explanation is already in notes."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "आटविकों (वन-प्रदेश के सरदारों) को धन और सम्मान से अपने पक्ष में करके उसके राज्य को नष्ट करवाए।",
+  "new": "आटविकों को धन और सम्मान से अपने पक्ष में करके उसके राज्य को नष्ट करवाए।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "",
+  "new": "āṭavika = forest chieftain (glossary).",
+  "why": "reviewer (minor): Explanation moved out of the Hindi."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "अथवा उसके पार्ष्णिग्राह (पीछे से आक्रमण करने वाले शत्रु) से कहे कि \"यह राजा निश्चय ही मुझे उखाड़कर तुम्हें उखाड़ेगा; इसके पिछले भाग पर आक्रमण करो; जब वह तुम्हारी ओर मुड़ जाए, तब मैं इसके पिछले भाग पर आक्रमण करूँगा\"।",
+  "new": "अथवा उसके पार्ष्णिग्राह से कहे कि \"यह राजा निश्चय ही मुझे उखाड़कर तुम्हें उखाड़ेगा; इसकी पार्ष्णि पकड़ो; जब वह तुम्हारी ओर मुड़ जाए, तब मैं इसकी पार्ष्णि पकड़ूँगा\"।",
+  "why": "reviewer (minor): Bracketed gloss inside the Hindi; and pārṣṇim gṛhāṇa / grahīṣyāmi is paraphrased ('attack the rear') while the English keeps the image 'seize his heel'. Keep the metaphor as the English does; explanation is in notes."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "उससे मिले हुए और न मिले हुए राजाओं के पास सन्देश भेजे कि \"यह राजा निश्चय ही मुझे उखाड़कर आप लोगों पर कार्रवाई करेगा; सावधान हो जाओ; आपके लिए मेरी सहायता करना ही अधिक श्रेयस्कर है\"।",
+  "new": "जो उससे मिले हुए हैं और जो नहीं मिले हुए हैं, उनके पास सन्देश भेजे कि \"यह राजा निश्चय ही मुझे उखाड़कर आप लोगों पर कार्रवाई करेगा; सावधान हो जाओ; आपके लिए मेरी सहायता करना ही अधिक श्रेयस्कर है\"।",
+  "why": "reviewer (minor): 'राजाओं' (kings) is supplied; the Sanskrit has only the genitives. The English rightly leaves it unexpressed and the note explains."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "अथवा फिर मध्यम अथवा उदासीन राजा के पास, जो भी निकट हो, अपनी मुक्ति के लिए अपने सर्वस्व के साथ उसकी शरण में आत्म-समर्पण का सन्देश भेजे।",
+  "new": "अथवा फिर मध्यम अथवा उदासीन राजा के पास, जो भी निकट हो, मुक्ति के लिए अपने सर्वस्व के साथ उसके प्रति समर्पण का सन्देश भेजे।",
+  "why": "reviewer (minor): 'उसकी शरण में' and 'आत्म-' are supplied; tad-arpaṇam is 'surrender/offering to him', 'self' is interpretation (note already covers it)."
+ }
+]

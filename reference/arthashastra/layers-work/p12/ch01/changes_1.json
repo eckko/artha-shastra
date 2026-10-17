@@ -1,0 +1,171 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "क्योंकि जो बलवान् के आगे झुकता है, वह इन्द्र के आगे झुकता है\" — ऐसा भारद्वाज का मत है।",
+  "new": "क्योंकि जो बलवान् के आगे झुकता है, वह इन्द्र के आगे झुकता है\" — ऐसा भारद्वाज कहते हैं।",
+  "why": "reviewer (minor): Other chunks render 'iti X' as 'ऐसा X कहते हैं' (= 'says X'); 'का मत है' adds 'opinion' and breaks consistency."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "\"वह अपनी सारी सेनाओं के पूरे समूह से युद्ध करे।",
+  "new": "\"वह अपनी सेनाओं के पूरे समूह से युद्ध करे।",
+  "why": "reviewer (minor): sarva is rendered twice ('सारी' and 'पूरे'); sarva-sandoha is one compound, 'the whole mass'."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "और यही क्षत्रिय का स्वधर्म है — युद्ध में जय हो या पराजय\" — ऐसा विशालाक्ष का मत है।",
+  "new": "और यही क्षत्रिय का स्वधर्म है — युद्ध में जय हो या पराजय\" — ऐसा विशालाक्ष कहते हैं।",
+  "why": "reviewer (minor): Consistency with other chunks: 'iti X' = 'ऐसा X कहते हैं'."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "\"नहीं\" — ऐसा कौटिल्य का मत है।",
+  "new": "\"नहीं\" — ऐसा कौटिल्य कहते हैं।",
+  "why": "reviewer (minor): Consistency with other chunks ('ऐसा कौटिल्य कहते हैं')."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जो सब प्रकार से झुका रहता है, वह घर में पले भेड़ की भाँति जीवन की आशा छोड़कर रहता है।",
+  "new": "जो सब प्रकार से झुका रहता है, वह घर में पले मेढ़े की भाँति जीवन की आशा छोड़कर रहता है।",
+  "why": "reviewer (minor): Gender agreement: भेड़ is feminine ('पली भेड़'); eḍaka is a ram, so 'मेढ़ा' is both correct and closer."
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "kula-eḍaka: a sheep/ram reared at home (kept for slaughter); sandhi aḥ + i > a before iva. The alternative reading as a bahuvrīhi for the person is not needed.",
+  "new": "kula-eḍaka: a ram/sheep reared at home (the comparison implies one destined for slaughter); sandhi aḥ + i > a before iva. The alternative reading as a bahuvrīhi for the person is not needed.",
+  "why": "reviewer (minor): Stated as fact; the line only says the submissive one lives 'without hope for his life' like a household ram. Mark as the implication, not a given."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "किन्तु उस (आक्रमणकारी) से अधिक बलवान् राजा का अथवा किसी अजेय दुर्ग का आश्रय लेकर वह प्रयत्न करे।",
+  "new": "किन्तु उससे अधिक बलवान् राजा का अथवा अजेय दुर्ग का आश्रय लेकर वह प्रयत्न करे।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi (glossary rule); 'किसी' is also an addition. The identification of 'that one' as the attacker is already in notes."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "उनमें धर्मविजयी (शत्रु के) समर्पण से ही सन्तुष्ट हो जाता है।",
+  "new": "उनमें धर्मविजयी समर्पण से सन्तुष्ट हो जाता है।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi, and 'ही' adds an emphasis not in the Sanskrit (abhyavapattyā tuṣyati)."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "उनमें से किसी एक को भी उठते हुए (आक्रमण करते हुए) वह सन्धि से, मन्त्रयुद्ध से अथवा कूटयुद्ध से रोके।",
+  "new": "उनमें से किसी एक को अपने विरुद्ध उठते हुए वह सन्धि से, मन्त्रयुद्ध से अथवा कूटयुद्ध से रोके।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi; 'भी' has no api in the line. English already renders uttiṣṭhamānam as 'rising against him'."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "उसके (आक्रमणकारी के) शत्रु-पक्ष को साम और दान से, तथा उसके अपने पक्ष को भेद और दण्ड से (वश में करे)।",
+  "new": "उसके शत्रु-पक्ष को साम और दान से, तथा उसके अपने पक्ष को भेद और दण्ड से (वश में करे)।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi; the identification asya = attacker belongs in notes (where it already is). The bracketed supplied verb '(वश में करे)' may stay, as in the English."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Secret agents should overpower his fort, country or camp with weapons, poison and fire.",
+  "new": "Secret agents should destroy his fort, country or camp with weapons, poison and fire.",
+  "why": "reviewer (minor): English 'overpower' and Hindi 'नष्ट कर दें' disagree; sādhayeyuḥ with weapons, poison and fire on a fort/country/camp is 'destroy' (the note itself says 'bring to an end, destroy'). rasa = poison is correct here (cf. rasa-da 'poisoner' elsewhere in the book)."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "sādhayeyuḥ",
+  "old": "should overpower",
+  "new": "should destroy, subdue",
+  "why": "reviewer (minor): Align the gloss with the translation."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "वह सब ओर से उसकी पार्ष्णि (पिछला भाग) पकड़वाए।",
+  "new": "वह सब ओर से उसका पिछला भाग पकड़वाए।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "He should have his rear (heel) seized on all sides.",
+  "new": "He should have his rear seized on all sides.",
+  "why": "reviewer (minor): '(heel)' is a gloss, already explained in notes."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "अथवा वह आटविकों (वनवासी बलों) द्वारा उसके राज्य का नाश करवाए, अथवा उसके कुल के किसी व्यक्ति और निकाले गए राजकुमार द्वारा उसे छिनवाए।",
+  "new": "अथवा वह आटविकों द्वारा उसके राज्य का नाश करवाए, अथवा उसके कुल के किसी व्यक्ति और निकाले गए राजकुमार द्वारा उसे छिनवाए।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Or he should have his kingdom ravaged by forest tribes, or have it seized by a claimant of his family and a prince in disfavour.",
+  "new": "Or he should have his kingdom ravaged by forest tribes, or have it seized by a kinsman of his family and a prince in disfavour.",
+  "why": "reviewer (minor): tat-kulīna means 'one of his family'; 'claimant' is an interpretation (rival to the throne) not in the word, and the gloss says 'kinsman'. Keep the interpretation in notes."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "अथवा बिना अपकार किए ही सन्धि (कर ले)।",
+  "new": "अथवा बिना अपकार किए सन्धि (कर ले)।",
+  "why": "reviewer (minor): 'ही' adds emphasis not in anapakṛtya vā."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "फिर भी यदि वह आक्रमण के लिए बढ़े, तो कोश और दण्ड (सेना) का एक चौथाई अधिक देकर, अथवा प्रतिदिन-रात्रि बढ़ाकर देने का प्रस्ताव करके, वह सन्धि की याचना करे।",
+  "new": "फिर भी, आक्रमण के लिए बढ़ते हुए उससे वह कोश और दण्ड में एक चौथाई अधिक देकर, अथवा प्रत्येक दिन-रात बढ़ाकर, सन्धि की याचना करे।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi; 'देने का प्रस्ताव करके' and the conditional 'यदि ... तो' are additions. abhiprayāntam is the accusative of the person asked (yāc with two accusatives), not a conditional clause."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "If even so he marches against him, he should sue for a treaty (offering) treasury and army increased by a quarter, or increased with every day and night.",
+  "new": "Even so, he should sue the one marching against him for a treaty (offering) treasury and army increased by a quarter, or increased with every day and night.",
+  "why": "reviewer (minor): abhiprayāntam (acc.) is the person asked, governed by yāceta together with sandhim (double accusative); the draft turns it into a condition. The medium confidence and the note on the escalation are right."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "यदि वह दण्ड-सन्धि (सेना देने की सन्धि) माँगे, तो वह उसे निकम्मे हाथी-घोड़े दे, अथवा उत्साहित किए हुए किन्तु विष दिए हुए।",
+  "new": "यदि वह दण्ड-सन्धि माँगे, तो वह उसे निकम्मे हाथी-घोड़े दे, अथवा उत्साहित किए हुए विषयुक्त।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi; 'किन्तु' (but) is not in the Sanskrit (utsāhitaṃ vā gara-yuktam)."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "यदि वह पुरुष-सन्धि (सैनिक देने की सन्धि) माँगे, तो वह उसे दूष्यों, अमित्रों और आटविकों की सेना दे, जिस पर गुप्त पुरुष नियुक्त हों।",
+  "new": "यदि वह पुरुष-सन्धि माँगे, तो वह उसे दूष्यों, अमित्रों और आटविकों की सेना दे, जिस पर गुप्त पुरुष नियुक्त हों।",
+  "why": "reviewer (error): Bracketed gloss inside the Hindi."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अथवा वह उसे तीक्ष्ण (उग्र पुरुषों की) सेना दे, जो अपमानित होने पर विद्रोह कर दे; अथवा अपने प्रति अनुरक्त मौल (वंशगत) सेना दे, जो उसकी विपत्ति में उसका अपकार करे।",
+  "new": "अथवा वह उसे तीक्ष्ण पुरुषों की सेना दे, जो अपमानित होने पर विद्रोह कर दे; अथवा अपने प्रति अनुरक्त मौल सेना दे, जो उसकी विपत्ति में उसका अपकार करे।",
+  "why": "reviewer (error): Two bracketed glosses inside the Hindi."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "यदि वह कोश-सन्धि (धन देने की सन्धि) माँगे, तो वह उसे ऐसी बहुमूल्य वस्तुएँ दे जिनका वह कोई खरीदार न पा सके, अथवा युद्ध के अयोग्य कुप्य (कच्चा माल) दे।",
+  "new": "यदि वह कोश-सन्धि माँगे, तो वह उसे ऐसी बहुमूल्य वस्तुएँ दे जिनका वह कोई खरीदार न पा सके, अथवा युद्ध के अयोग्य कुप्य दे।",
+  "why": "reviewer (error): Two bracketed glosses inside the Hindi."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "जो दूसरा बलपूर्वक छीन ले, उसे वह उपाय से (स्वयं) दे दे; वह अपने शरीर की रक्षा करे, धन की नहीं — क्योंकि अनित्य धन पर दया कैसी?",
+  "new": "जो दूसरा बलपूर्वक छीन ले, उसे वह उपाय से दे दे; वह अपने शरीर की रक्षा करे, धन की नहीं — क्योंकि अनित्य धन पर दया कैसी?",
+  "why": "reviewer (error): Bracketed addition inside the Hindi; 'स्वयं' is not in the line. Typo flag prayacced -> prayacched is correct; metre check (8 syllables a quarter) confirmed."
+ }
+]
