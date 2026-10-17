@@ -102,3 +102,44 @@ Book 14 `yoga` has no single rendering yet: 14.2 "preparation", 14.4 "compound",
 | 14.04.2, 14.04.9, 14.04.11, 14.04.14 | other | scope of `viṣa-pratīkāraḥ`; adopt re-division mañjiṣṭhā-tagara-lākṣā-rasa-madhuka, and remove the spurious `nihsañjñānāṃ` flag by hand; referent of `eṣām`; gender of `dūṣaṇān` | S1 | check print |
 | 15.01.30, 15.01.31, 15.01.35 | other | compounds `ātma-dravya-prakṛti-sampanna`, `apriya-hita`; whether `pūrveṇa` refers to an earlier example | S1 | a person reads |
 | 15.01.43, 49, 51, 57, 60, 68, 69, 70 | other | uncertain senses: atiśaya, abhipluta-vyapakarṣaṇam, asamitaḥ, sarvatra āyattam ekāntaḥ, pautava, svayañjāta, ūhya, anuśaya | S1 | check Kangle's notes |
+
+## Layers, Parts 05, 09, 04 (AI drafts, Sonnet 5.5 drafts and reviews; not read by a person)
+
+Cross-cutting choices a person should confirm (the glossary in `layers-work/GLOSSARY.md` records what each reviewer settled; some reviewers disagreed):
+- Closing `iti`: never "thus"; the phrase is quoted or `iti` is glossed "closing particle". Earlier parts (08 to 15, 06) may still use "thus" in places.
+- `yoga`: "compound" (madana-yoga, 4.4), "contrivance" (with mantra, māyā-yoga, upaniṣad-yoga), "preparation" (14.2). Book 4 and Book 9 differ from Book 14.
+- `vadha`/`daṇḍa`: "killing"/"penalty" in Book 4 (4.10, 4.11), but 4.12 still has "death" and 4.9 notes it; `hasta-vadha` Hindi differs between 4.10 and 4.12. `daṇḍa` is "rod" in 4.8.21-22 and "fine" only in `sāhasa-daṇḍa`.
+- `upasamprāpti`: "encountering" (9.7) vs "receiving" (4.6). `kṣāra`: English "sugar" (12.5 lists) vs Hindi क्षार (alkali) in 4.2.22 and 4.4.
+- `upajāpa` "secret instigation" (8.1) vs "instigation" (9.5). `aṭavī` "forest tribes" (8.1, 4.12) vs "forests" (9.6.71). `tīkṣṇa` "fierce" (9.6, 9.7) vs "assassin" elsewhere.
+- `rasada` Hindi: रसद (12.2) conflicts with 5.2 (विष देने वाला, poisoner). `kārtāntika`: fortune-teller vs soothsayer.
+- `sādh` "overcome" in 9.7.34/38/42 is uncertain. `pravāsayet`: "banished" (Book 4) vs "do away with" (11.1, 12.3).
+- 5.5.13: reviewer changed `veṣya` to a conjectured `dveṣya` ("the hated and the like"); both are guesses.
+
+Per-line items needing a person (senses, referents, possible typos):
+| Line ID | Kind | What | Suggested check |
+|---|---|---|---|
+| 05.01.9, 20, 37, 55 | other | `dūṣyaṃ.mahāmātraṃ` one compound or two alternatives; `āpya` (āpta?); `upaniṣad` Hindi reads as the Upanishads; `anukṣiyatsu` possibly corrupt (flagged); `tat-abhivikhyāpya` is one word entry in units 26 and 32 | check print |
+| 05.02.3, 10, 14, 57, 64 | other | compounds grouped, not split per member (3, 10); `kauṣadha` (auṣadha?); `pratidvāri` flagged; `mātṛ.vyañjanayā` | check print |
+| 05.03.6, 16, 17 | other | `viṃśati-śatikāḥ` 2000 or 120; `karmaṇyā` flag removed as false positive; unit 17 second clause has no pay figure | a person reads |
+| 05.04.10, 13 | other | `avakṣiptān` (avakṣiptaiḥ?) flagged; unit 13 `veṣya` vs `dveṣya` | check print |
+| 05.05.7 | other | `tad.bhaktīn` flagged | check print |
+| 05.06.9, 25, 28, 34 | other | `bahv.ābādhaṃ` flagged; quotation opened in 25 never closed (flag on unit 31); `kāraṇād dhi` word split; unit 34 Hindi "yourselves" vs English "your own" | check print |
+| 09.01.15, 34-36 | other | Hindi योग/उपनिषद् vs English "contrivance/secret teaching"; `haimānaṃ`/`vāsantikaṃ` gender vs feminine `vārṣikīṃ` | a person reads |
+| 09.02.2, 5, 15 | other | `yātavyasya-upajāpa-bhayād` is one word entry; `yoddhayiṣyāmi` corrected in words to `yotsyāmi` (the causative `yodhayiṣyāmi` is closer); `va` may be `ca` | check print |
+| 09.03.12, 19, 20 | other | `mantra-` printed for `mantri-` (no flag); `para-miśra` (9.7.28 flag `para.mitra` looks unfounded) | check print |
+| 09.04.8, 24, 25, 27 | other | `paraṃ` (paraḥ?) and `ākṣamya` (akṣamatva?) flagged; `prajigajair` (pratigajair?) | check print |
+| 09.05.4, 17 | other | `upajapanti` corrected from `anupajapanti` by the reviewer | check print |
+| 09.06.21, 29, 47 | other | `upakārān apakārābhyāṃ`, `paṇa.śeṣam` flagged; grāhayet "cause to be seized" is a literal choice | check print |
+| 09.07.1-84 | other | units 59, 65, 73 low confidence; sense of `anirbandha-gāmitva`; unit 41 `saṃśayā` | a person reads |
+| 04.01.10, 26 | other | `pattra.ūrṇā` (patra) flagged; `dvādaśapaṇo` missing dot | check print |
+| 04.03.* | other | adhiśrayaṇa, daśa-mūlī-saṅgraha, mahā-kaccha (possibly a name), mūṣika-kara, saṅgha-grāha, ullopikā-hasta | a person reads |
+| 04.04.3, 14, 20 | other | line-break join `śauṇḍi-`/`ka` leaves a fragment word entry `ka` (merge into `śauṇḍika`); `karakaṃ` (kārakaṃ?); `asandaṃśa` | check print |
+| 04.05.5, 6 | other | `śayābhiḥ` (śayyābhiḥ?) flagged; `bhāryā-vyañjanāḥ` with `pareṣām` construction | a person reads |
+| 04.06.2, 9, 16, 18 | other | `vairaśayaṃ` (vairāśayaṃ), `śāstra` (śastra?), `yasyā` (yasya), `āvignaṃ.`, `sadyo.dauta` (dhauta; flagged) | check print |
+| 04.07.2, 11, 13 | other | `tvakka` flagged; `śiro.hasta.pradīpikaṃ` and `a.tvak.śiraḥ.prādīpikaṃ` are probably manner of killing, not an offender | a person reads |
+| 04.08.15, 24, 28 | other | `tulya` and `tasya.upakaraṇaṃ` and `steyo` flagged; sattri-parigraha Hindi गुप्तचर vs English untranslated | check print |
+| 04.09.4, 9, 23, 27 | other | `ā.pāda` and `āpāda`, stray space in `vā- ā.catuṣ.paṇa` (flagged); possible dittography in unit 9; two glosses cannot be patched (`daṇḍaḥ` in 23, `vadhaḥ` in 27) | check print |
+| 04.10.4, 7, 10, 14 | other | `śātyo`, `dvi.śāto`, `puṃṣo`, `aparahataḥ` flagged; `avara` "or lower" or "at least 25" | check print |
+| 04.11.13, 14, 18 | other | `tad.aṅgān` (aṅgāt?) flagged; offender or manner of killing | a person reads |
+| 04.12.5, 13, 17, 27, 35 | other | `labbheta`, `prākāṃyam`, `dviśato`, `taj.jātebhyaḥ` flagged; `śulka-ābandhya-dānaṃ` has three word entries while the parallel in unit 28 has one | check print |
+| 04.13.14, 21, 28 | other | `ūrdha.stambhaṃ`, `daṃya.raśmi.haraṇe`, `smaghaṭṭane`, `prakośann` flagged; `adāne` (ādāne?); verse 28 `kāmam` | a person reads |

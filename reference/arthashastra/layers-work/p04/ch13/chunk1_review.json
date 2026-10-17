@@ -1,0 +1,925 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "highest fine / middle [fine] / a fine of",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "the highest penalty; ... the middle; ... a penalty of fifty-four paṇas",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "1",
+       "op": "set",
+       "field": "english",
+       "value": "For one who makes a Brahmin swallow what is undrinkable or inedible, the highest penalty; [for doing so to] a Kshatriya, the middle; a Vaishya, the first fine for rashness; a Shudra, a penalty of fifty-four paṇas."
+      },
+      {
+       "n": "1",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      },
+      {
+       "n": "1",
+       "op": "append_note",
+       "text": "Review: per the Book 4 glossary bare uttama/madhyama get no supplied noun in English (the earlier bracketed '[fine]' was removed); daṇḍa = penalty, sāhasa-daṇḍa = fine for rashness."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "landless",
+     "problem": "'landless' suggests loss of land property; the word is nirviṣaya 'without territory' (viṣaya = territory).",
+     "fix": "Those who swallow [it] themselves are to be made without a territory (nirviṣaya).",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "english",
+      "value": "Those who swallow [it] themselves are to be made without a territory (nirviṣaya)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the middle [fine]",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "the middle",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "the middle [fine]",
+      "new": "the middle"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the highest fine",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "the highest penalty",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "english",
+       "old": "the highest fine",
+       "new": "the highest penalty"
+      },
+      {
+       "n": "4",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "not to be fined; in distress",
+     "problem": "adaṇḍya = not to be punished (glossary); āpad = adversity (8.1).",
+     "fix": "not to be punished; in adversity",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "5",
+       "op": "replace",
+       "field": "english",
+       "old": "in distress",
+       "new": "in adversity"
+      },
+      {
+       "n": "5",
+       "op": "replace",
+       "field": "english",
+       "old": "not to be fined",
+       "new": "not to be punished"
+      },
+      {
+       "n": "5",
+       "op": "word",
+       "match_w": "adaṇḍyāḥ",
+       "field": "gloss",
+       "value": "not to be punished",
+       "occurrence": "all"
+      },
+      {
+       "n": "5",
+       "op": "word",
+       "match_w": "āpadi",
+       "field": "gloss",
+       "value": "in adversity",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "अत्यन्त निकट रहने वाले",
+     "problem": "'रहने' is not in the Sanskrit (ati-sannikṛṣṭāḥ = very near ones).",
+     "fix": "अत्यन्त निकट वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अत्यन्त निकट रहने वाले",
+      "new": "अत्यन्त निकट वाले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "breaks into a village, garden or fence",
+     "problem": "'into' and 'or' not in the Sanskrit (compound grāma-ārāma-vāṭa-bhedin, no vā).",
+     "fix": "[for one] who breaks a village, garden, fence",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "6",
+       "op": "replace",
+       "field": "english",
+       "old": "the middle [fine]",
+       "new": "the middle"
+      },
+      {
+       "n": "6",
+       "op": "replace",
+       "field": "english",
+       "old": "breaks into a village, garden or fence",
+       "new": "breaks a village, garden, fence"
+      },
+      {
+       "n": "6",
+       "op": "replace",
+       "field": "hindi",
+       "old": "गाँव, उद्यान या बाड़ को",
+       "new": "गाँव, उद्यान, बाड़ को"
+      },
+      {
+       "n": "6",
+       "op": "word",
+       "match_w": "grāma-ārāma-vāṭa-bhedinaḥ",
+       "field": "gram",
+       "value": "dvandva + tat-puruṣa, m. gen. sg.",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "dadyāt",
+     "problem": "Reading 'give' as 'make good' is the drafter's inference; kept as 'give [for]' with bracket; doubt recorded. Needs a person.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "robbed or made to go away",
+     "problem": "Sanskrit has no conjunction between muṣitam and pravāsitam (unit 8 has ca); 'or' / 'और' added. Also 'क्षेत्रों' adds a noun for antareṣu.",
+     "fix": "[for] what is robbed, made to go away",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "9",
+       "op": "set",
+       "field": "english",
+       "value": "Or, [for] what is robbed, made to go away in the intervals between villages, the superintendent of pastures should give."
+      },
+      {
+       "n": "9",
+       "op": "set",
+       "field": "hindi",
+       "value": "अथवा गाँवों के बीच में चुराए हुए, दूर भेजे हुए को चरागाह का अध्यक्ष दे।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "probably an officer who catches thieves",
+     "problem": "A guessed sense of an obscure term in notes (13.2 rule: no guessed sense).",
+     "fix": "remove guess",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "notes",
+      "value": "Predicate omitted (dadyāt carried from unit 9 is likely); left open. cora-rajjuka kept untranslated: literally 'thief-rope(-man)'; the sense is not certain. avivīta = 'not a pasture'; the noun 'tracts' is not in the Sanskrit."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शारीरिक चोट",
+     "problem": "Glossary 4.1: Hindi keeps दण्ड-पारुष्य for daṇḍa-pāruṣya.",
+     "fix": "दण्ड-पारुष्य",
+     "severity": "error",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शारीरिक चोट",
+      "new": "दण्ड-पारुष्य"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "stick, arrow or arm; not to be fined",
+     "problem": "'or' added inside a compound list; adaṇḍya = not to be punished.",
+     "fix": "stick, arrow, arm; not to be punished",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "english",
+       "old": "stick, arrow or arm",
+       "new": "stick, arrow, arm"
+      },
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "english",
+       "old": "not to be fined",
+       "new": "not to be punished"
+      },
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "hindi",
+       "old": "डण्डा, बाण या बाँह",
+       "new": "डण्डा, बाण, बाँह"
+      },
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "adaṇḍyaḥ",
+       "field": "gloss",
+       "value": "not to be punished",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "highest fine",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "the highest penalty for the driver",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "17",
+       "op": "replace",
+       "field": "english",
+       "old": "the highest fine",
+       "new": "the highest penalty"
+      },
+      {
+       "n": "17",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "the penalty is that and so much",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "19",
+       "op": "replace",
+       "field": "english",
+       "old": "the fine is",
+       "new": "the penalty is"
+      },
+      {
+       "n": "19",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of five hundred",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished. pravāsayataḥ: kept 'sends away' (consistent with units 8, 9, 21).",
+     "fix": "a penalty of five hundred",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "20",
+       "op": "replace",
+       "field": "english",
+       "old": "a fine of five hundred",
+       "new": "a penalty of five hundred"
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      },
+      {
+       "n": "20",
+       "op": "append_note",
+       "text": "Review decision: pravāsayataḥ stays 'sends away' (animals/goods), not 'banished' (4.4, persons) and not 'do away with'; killing is a possible sense, left to a person."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "the penalty is that and so much",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "21",
+       "op": "replace",
+       "field": "english",
+       "old": "the fine is",
+       "new": "the penalty is"
+      },
+      {
+       "n": "21",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "छोटे पशुओं को न देने पर",
+     "problem": "'को' makes the animals the recipients; the Sanskrit has the genitive kṣudra-paśūnām (what is not given is unstated).",
+     "fix": "छोटे पशुओं के न देने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "छोटे पशुओं को न देने पर",
+      "new": "छोटे पशुओं के न देने पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "not to be fined",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "not to be punished",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "22",
+       "op": "replace",
+       "field": "english",
+       "old": "not to be fined",
+       "new": "not to be punished"
+      },
+      {
+       "n": "22",
+       "op": "word",
+       "match_w": "adaṇḍyaḥ",
+       "field": "gloss",
+       "value": "not to be punished",
+       "occurrence": "all"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "pratyāsarat",
+     "problem": "Neuter participle agreeing with the accusatives yānam (chinna-nasyam ...), so n. acc. sg., not nom.",
+     "fix": "n. acc. sg. pres. part. prati-ā-√sṛ",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "pratyāsarat",
+      "field": "gram",
+      "value": "n. acc. sg. pres. part. prati-ā-√sṛ",
+      "occurrence": "all"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should impose the punishment",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished. Also abhyāvah = make good in 4.1; subject unnamed, 'impose' is an inference. Needs a person.",
+     "fix": "the penalty as stated",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "23",
+       "op": "replace",
+       "field": "english",
+       "old": "the punishment as stated",
+       "new": "the penalty as stated"
+      },
+      {
+       "n": "23",
+       "op": "word",
+       "match_w": "daṇḍam",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      },
+      {
+       "n": "23",
+       "op": "append_note",
+       "text": "Review: 4.1 glossary has abhyāvah = make good; here 'should impose' (king as subject) is an inference. The subject could be the offender ('should incur'). A person should decide."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "yānasthaḥ",
+     "problem": "-stha compounds are upapada tat-puruṣa, not bahuvrīhi.",
+     "fix": "tat-puruṣa (upapada), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "yānasthaḥ",
+      "field": "gram",
+      "value": "tat-puruṣa (upapada), m. nom. sg.",
+      "occurrence": "all"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "saṃvadana-karaṇa",
+     "problem": "Rendering aligned with glossary 4.4 (saṃvadana = winning-over, Hindi वशीकरण); the sense of the whole verse stays doubtful. Confidence low is honest.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "slave, servant or pledged person",
+     "problem": "'or' added inside a compound list.",
+     "fix": "slave, servant, pledged person",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "31",
+       "op": "replace",
+       "field": "english",
+       "old": "slave, servant or pledged person",
+       "new": "slave, servant, pledged person"
+      },
+      {
+       "n": "31",
+       "op": "replace",
+       "field": "hindi",
+       "old": "दास, परिचारक या आहितक",
+       "new": "दास, परिचारक, आहितक"
+      },
+      {
+       "n": "31",
+       "op": "word",
+       "match_w": "dāsa-paricāraka-āhitaka-bhuktā",
+       "field": "gloss",
+       "value": "enjoyed by a slave, servant, pledged person",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the highest [fine]",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "the highest",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "the highest [fine]",
+      "new": "the highest"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "(literally 'cooking in a pot')",
+     "problem": "Notes say kumbhī is kept untranslated (13.4), but English glosses it; keep the term untranslated.",
+     "fix": "the kumbhī-pāka",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "the kumbhī-pāka (literally 'cooking in a pot')",
+      "new": "the kumbhī-pāka"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बनवाया हुआ",
+     "problem": "Causative 'बनवाया' unsupported: kṛta = made.",
+     "fix": "बनाया हुआ",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "34",
+       "op": "replace",
+       "field": "hindi",
+       "old": "बनवाया हुआ",
+       "new": "बनाया हुआ"
+      },
+      {
+       "n": "34",
+       "op": "replace",
+       "field": "english",
+       "old": "another country",
+       "new": "another territory"
+      },
+      {
+       "n": "34",
+       "op": "word",
+       "match_w": "para-viṣayam",
+       "field": "gloss",
+       "value": "another territory",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of twenty-four",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "a penalty of twenty-four",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "36",
+       "op": "replace",
+       "field": "english",
+       "old": "a fine of twenty-four",
+       "new": "a penalty of twenty-four"
+      },
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of twelve",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "a penalty of twelve",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "38",
+       "op": "replace",
+       "field": "english",
+       "old": "a fine of twelve",
+       "new": "a penalty of twelve"
+      },
+      {
+       "n": "38",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of twenty-four",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "a penalty of twenty-four",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "39",
+       "op": "replace",
+       "field": "english",
+       "old": "a fine of twenty-four",
+       "new": "a penalty of twenty-four"
+      },
+      {
+       "n": "39",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ayonau",
+     "problem": "ayoni is feminine (yoni f.), loc. sg. ayonau.",
+     "fix": "f. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "ayonau",
+      "field": "gram",
+      "value": "f. loc. sg.",
+      "occurrence": "all"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "anātmanaḥ",
+     "problem": "'Not self-possessed' is one possible sense (alternatively 'of one not himself/with animals not his own'); medium confidence honest; needs a person.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the king's fine is",
+     "problem": "Glossary 4.10/4.8/4.11: daṇḍa in Book 4 = penalty (not fine); bare uttama/madhyama = the highest/the middle with nothing supplied; adaṇḍya = not to be punished.",
+     "fix": "the king's penalty is",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "42",
+       "op": "replace",
+       "field": "english",
+       "old": "the king's fine is",
+       "new": "the king's penalty is"
+      },
+      {
+       "n": "42",
+       "op": "word",
+       "match_w": "daṇḍaḥ",
+       "field": "gloss",
+       "value": "penalty",
+       "occurrence": "all"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "43 units reviewed. 13 errors (mainly the Book 4 glossary rendering daṇḍa = penalty, not fine; bare uttama/madhyama unsupplied; दण्ड-पारुष्य in Hindi; wrong gram on pratyāsarat), 19 minor (added 'or' in compound lists, small Hindi additions, gram labels, a guessed sense in notes). No regrouping needed. No new text_flags needed; word splits and tokens are sound. Doubts for a person: 8/9 dadyāt as 'make good'; 20/21 pravāsayata/pravāsane (sends away vs killing); 22 cakra-yuktam, pratyāsarat; 23 abhyāvahet (subject, 'make good' vs 'impose'); 28 kāmam and whole verse; 41 anātmanaḥ; 21 adāne could be a typo for ādāne; 14 list structure."
+}
