@@ -1,0 +1,315 @@
+[
+ {
+  "n": "3",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "hasty.aśvaṃ",
+    "suggest": "hasti-aśvam",
+    "why": "hasty.aśvaṃ is the sandhi spelling of hasti before a vowel; the compound is hasti-aśva (spelling, not an error of sense)"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): Not a typo: hasty-aśva is the e-text's regular internal sandhi spelling (cf. aṭavy.āsannam); the flag itself says so. A flag that reports no error is noise."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "इससे अमात्यों और आटविकों की भी व्याख्या हो गई।",
+  "new": "इससे अमात्यों और आटविकों की व्याख्या हो गई।",
+  "why": "reviewer (minor): Hindi adds 'भी' (also); the Sanskrit has no api/ca."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "preṣayet",
+  "old": "he sends",
+  "new": "he should send",
+  "why": "reviewer (minor): Gloss 'he sends' does not match the optative label."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Then afterwards he should have them killed by disowned orders.",
+  "new": "Then afterwards he should have them killed by abandoned orders.",
+  "why": "reviewer (minor): 'disowned' is more interpretive than the literal 'abandoned' (Hindi already has परित्यक्त); keep English and Hindi aligned and literal for the obscure abhityakta-śāsana."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "abhityakta-śāsanaiḥ",
+  "old": "by disowned orders",
+  "new": "by abandoned orders",
+  "why": "reviewer (minor): 'disowned' is more interpretive than the literal 'abandoned' (Hindi already has परित्यक्त); keep English and Hindi aligned and literal for the obscure abhityakta-śāsana."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "अथवा कृत्य-पक्ष का सहारा लेकर, दूसरे के शत्रु राजा से अपने विरुद्ध अपकार करवाकर वह आक्रमण करे।",
+  "new": "अथवा कृत्य-पक्ष को सहारा देकर, दूसरे के शत्रु राजा से अपने विरुद्ध अपकार करवाकर वह आक्रमण करे।",
+  "why": "reviewer (error): upagraha here is supporting the kṛtya-pakṣa (glossary 11.1 upagṛhya = सहारा देकर). Hindi 'सहारा लेकर' means relying on them, the reverse; the word gloss 'by gaining' also disagrees with English 'by supporting'."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "kṛtya-pakṣa-upagraheṇa",
+  "old": "by gaining the party of the seducible",
+  "new": "by supporting the party of the seducible",
+  "why": "reviewer (error): upagraha here is supporting the kṛtya-pakṣa (glossary 11.1 upagṛhya = सहारा देकर). Hindi 'सहारा लेकर' means relying on them, the reverse; the word gloss 'by gaining' also disagrees with English 'by supporting'."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "विश्वास दिलाने के लिए अथवा भूमि के दान, पुत्र के अभिषेक या रक्षा के बहाने से वह उसे पकड़वा ले।",
+  "new": "विश्वास दिलाने के लिए अथवा भूमि के दान, पुत्र के अभिषेक या रक्षा के बहाने से वह पकड़वा ले।",
+  "why": "reviewer (minor): Object of grāhayet is unstated; English brackets it, Hindi supplies 'उसे' unmarked."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "असह्य को अथवा गुप्त दण्ड से वह मरवा दे।",
+  "new": "अथवा असह्य को वह गुप्त दण्ड से मरवा दे।",
+  "why": "reviewer (error): Misplaced vā: it follows upāṃśu-daṇḍena and joins this alternative to the earlier ones; it does not link 'the irresistible one' to 'by secret force'. English likewise garbled."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Or [one who is] irresistible he should have killed by secret force.",
+  "new": "Or he should have the irresistible one killed by secret punishment.",
+  "why": "reviewer (error): Misplaced vā: it follows upāṃśu-daṇḍena and joins this alternative to the earlier ones; it does not link 'the irresistible one' to 'by secret force'. English likewise garbled."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "upāṃśu-daṇḍena",
+  "old": "by secret force",
+  "new": "by secret punishment",
+  "why": "reviewer (error): Misplaced vā: it follows upāṃśu-daṇḍena and joins this alternative to the earlier ones; it does not link 'the irresistible one' to 'by secret force'. English likewise garbled."
+ },
+ {
+  "n": "20",
+  "field": "notes",
+  "old": "The syntax is compressed: \"the irresistible one, or by secret force (he should have him killed)\". upāṃśu-daṇḍa = secret (silent) punishment or force; daṇḍa is here not \"army\" (cf. glossary: force as upāya).",
+  "new": "The syntax is compressed: \"the irresistible one, or by secret force (he should have him killed)\". upāṃśu-daṇḍa = secret (silent) punishment or force; daṇḍa is here not \"army\" (cf. glossary: force as upāya). Reviewer: vā joins this alternative to the preceding ones (not 'the irresistible one, or by secret force'); upāṃśu-daṇḍa = secret punishment, as in glossary 13.5.",
+  "why": "reviewer (error): Misplaced vā: it follows upāṃśu-daṇḍena and joins this alternative to the earlier ones; it does not link 'the irresistible one' to 'by secret force'. English likewise garbled."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Then, when there is a desire for the enemy's land, having had the ally do harm against himself, he should march against [him] - thus all the contrivances are the same as the former.",
+  "new": "Then, when there is a desire for the enemy's land, having had the ally do harm against himself, he should march against [him] - thus all the contrivances are just the same as the former.",
+  "why": "reviewer (minor): eva (gloss 'indeed') is dropped in both languages."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "तब शत्रु की भूमि पाने की इच्छा होने पर, मित्र से अपने विरुद्ध अपकार करवाकर वह आक्रमण करे - इस प्रकार सभी योग पहले के समान हैं।",
+  "new": "तब शत्रु की भूमि पाने की इच्छा होने पर, मित्र से अपने विरुद्ध अपकार करवाकर वह आक्रमण करे - इस प्रकार सभी योग पहले के समान ही हैं।",
+  "why": "reviewer (minor): eva (gloss 'indeed') is dropped in both languages."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Or, having taken counter-measures, having shown his own calamity, having incited the enemy through the ally, he should have himself attacked.",
+  "new": "Or, having taken counter-measures, having shown his own calamity, having roused the enemy through the ally, he should have himself attacked.",
+  "why": "reviewer (minor): utsāhayati is fixed as 'rouse' (उभारना) in both languages (glossary 13.1). Word gloss of abhiyojayet 'should have march against' is ungrammatical."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "अथवा प्रतिकार का प्रबन्ध करके, अपना व्यसन दिखाकर, मित्र के द्वारा शत्रु को उकसाकर वह अपने पर आक्रमण करवाए।",
+  "new": "अथवा प्रतिकार का प्रबन्ध करके, अपना व्यसन दिखाकर, मित्र के द्वारा शत्रु को उभारकर वह अपने पर आक्रमण करवाए।",
+  "why": "reviewer (minor): utsāhayati is fixed as 'rouse' (उभारना) in both languages (glossary 13.1). Word gloss of abhiyojayet 'should have march against' is ungrammatical."
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "utsāhayitvā",
+  "old": "having incited",
+  "new": "having roused",
+  "why": "reviewer (minor): utsāhayati is fixed as 'rouse' (उभारना) in both languages (glossary 13.1). Word gloss of abhiyojayet 'should have march against' is ungrammatical."
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "abhiyojayet",
+  "old": "should have march against",
+  "new": "should cause to attack",
+  "why": "reviewer (minor): utsāhayati is fixed as 'rouse' (उभारना) in both languages (glossary 13.1). Word gloss of abhiyojayet 'should have march against' is ungrammatical."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "sāmanta-ādibhiḥ",
+  "old": "m. inst. pl., dvandva",
+  "new": "m. inst. pl., bahuvrīhi",
+  "why": "reviewer (minor): sāmanta-ādi ('neighbours and the rest') is a bahuvrīhi (tad-guṇa-saṃvijñāna), not a dvandva."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "If the two should not be split, he should bargain openly, by each other's land.",
+  "new": "If the two should not be split, he should bargain openly indeed, by each other's land.",
+  "why": "reviewer (minor): eva after prakāśam is dropped in English (Hindi has ही)."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "Or, having denounced the chiefs of the fort, the country and the army by reasons concerning the party of the seducible, he should banish [them].",
+  "new": "Or, having made publicly known the chiefs of the fort, the country and the army by reasons concerning the party of the seducible, he should banish [them].",
+  "why": "reviewer (error): 'denounce' is an invented sense for abhi-vi-√khyā (caus.): the literal sense is make publicly known (Hindi प्रसिद्ध करके). Keep literal; the note already records the doubt."
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "abhivikhyāpya",
+  "old": "having denounced",
+  "new": "having made publicly known",
+  "why": "reviewer (error): 'denounce' is an invented sense for abhi-vi-√khyā (caus.): the literal sense is make publicly known (Hindi प्रसिद्ध करके). Keep literal; the note already records the doubt."
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "They should lead [them] back by disowned orders.",
+  "new": "They should lead [them] back by abandoned orders.",
+  "why": "reviewer (minor): Same as unit 14: align with Hindi परित्यक्त and keep literal."
+ },
+ {
+  "n": "39",
+  "field": "word.gloss",
+  "word": "abhityakta-śāsanaiḥ",
+  "old": "by disowned orders",
+  "new": "by abandoned orders",
+  "why": "reviewer (minor): Same as unit 14: align with Hindi परित्यक्त and keep literal."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "Or agents in the guise of hunters, by the sale of meat, being stationed at the gate [and] dependent on gatekeepers, having reported to the other twice or thrice the approach of thieves and gained trust, having stationed the master's division in two [parts], at the slaughter of a village and at the assault should say to the enemies: \"The band of thieves is near, and the rear ally is great; let a large army come.\"",
+  "new": "Or agents in the guise of hunters, by the sale of meat, being stationed at the gate [and] dependent on gatekeepers, having reported to the other twice or thrice the approach of thieves and gained trust, having stationed the master's division in two [parts], at the slaughter of a village and at the assault should say to the enemies: \"The band of thieves is near, and the outcry is great; let a large army come.\"",
+  "why": "reviewer (error): ākranda in the quoted message is wrong as 'rear ally': the message is about a band of thieves and a village raid, and 'mahān ākrandaḥ' beside 'prabhūtaṃ sainyam āgacchatu' is the outcry/wailing (Hindi आक्रन्द already reads so). The technical 'rear ally' stays in unit 3 only. Glossary entry added."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "ākrandaḥ",
+  "old": "rear ally",
+  "new": "outcry",
+  "why": "reviewer (error): ākranda in the quoted message is wrong as 'rear ally': the message is about a band of thieves and a village raid, and 'mahān ākrandaḥ' beside 'prabhūtaṃ sainyam āgacchatu' is the outcry/wailing (Hindi आक्रन्द already reads so). The technical 'rear ally' stays in unit 3 only. Glossary entry added."
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "Low-certainty reading of a long sentence. dvis trir iti = \"twice, thrice\". bhartuḥ \"of the master\": whose master (the agents' own) is not stated. dviṣataḥ is read as accusative plural \"the enemies\" (alternatively genitive/ablative singular). ākranda: glossary \"the rear ally\"; in the quotation it may instead mean \"an outcry\". dvāḥ-sthāḥ is a compound spelled dvāhsthā in the e-text (sandhi form).",
+  "new": "Low-certainty reading of a long sentence. dvis trir iti = \"twice, thrice\". bhartuḥ \"of the master\": whose master (the agents' own) is not stated. dviṣataḥ is read as accusative plural \"the enemies\" (alternatively genitive/ablative singular). ākranda: glossary \"the rear ally\"; in the quotation it may instead mean \"an outcry\". dvāḥ-sthāḥ is a compound spelled dvāhsthā in the e-text (sandhi form). Reviewer: ākranda in the quotation is read 'outcry', not the technical 'rear ally' of 6.2/unit 3; the speakers report thieves and a village raid. Hindi आक्रन्द kept.",
+  "why": "reviewer (error): ākranda in the quoted message is wrong as 'rear ally': the message is about a band of thieves and a village raid, and 'mahān ākrandaḥ' beside 'prabhūtaṃ sainyam āgacchatu' is the outcry/wailing (Hindi आक्रन्द already reads so). The technical 'rear ally' stays in unit 3 only. Glossary entry added."
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "Or those placed there earlier should give [up] the gates.",
+  "new": "Or those placed earlier should give [up] the gates.",
+  "why": "reviewer (minor): 'there' is not in the Sanskrit (pūrva-praṇihitāḥ)."
+ },
+ {
+  "n": "48",
+  "field": "english",
+  "old": "By dwellers in caravan-groups, conveyors, carriers of girls, dealers in horses as merchandise, carriers of equipment, buyers and sellers of grain, or those bearing the mark of ascetics, and by envoys, [there is] the leading in of the army, for the purpose of inspiring confidence in the work of the treaty.",
+  "new": "By dwellers in caravan-groups, conveyors, carriers of girls, dealers in horses as merchandise, carriers of equipment, buyers and sellers of grain, or those bearing the mark of ascetics, and by envoys, [there is] the leading across of the army, for the purpose of inspiring confidence in the work of the treaty.",
+  "why": "reviewer (minor): 'leading in' adds a direction: ati-nī is literally 'lead across/over' (cf. ātivāhika, 'carrying across'). Hindi 'भीतर' likewise unsupported. Obscure sense, so keep literal."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "सार्थ-समूह में रहने वालों, ले जाने वालों, कन्याओं को ले जाने वालों, घोड़ों और बिक्री की वस्तुओं का व्यवहार करने वालों, सामान ढोने वालों, अनाज के क्रेता और विक्रेताओं, अथवा संन्यासी का चिह्न धारण करने वालों और दूतों के द्वारा सेना को भीतर ले जाना, सन्धि-कर्म में विश्वास उत्पन्न करने के लिए।",
+  "new": "सार्थ-समूह में रहने वालों, ले जाने वालों, कन्याओं को ले जाने वालों, घोड़ों और बिक्री की वस्तुओं का व्यवहार करने वालों, सामान ढोने वालों, अनाज के क्रेता और विक्रेताओं, अथवा संन्यासी का चिह्न धारण करने वालों और दूतों के द्वारा सेना को पार ले जाना, सन्धि-कर्म में विश्वास उत्पन्न करने के लिए।",
+  "why": "reviewer (minor): 'leading in' adds a direction: ati-nī is literally 'lead across/over' (cf. ātivāhika, 'carrying across'). Hindi 'भीतर' likewise unsupported. Obscure sense, so keep literal."
+ },
+ {
+  "n": "48",
+  "field": "word.gloss",
+  "word": "daṇḍa-atinayanam",
+  "old": "the leading in of the army",
+  "new": "the leading across of the army",
+  "why": "reviewer (minor): 'leading in' adds a direction: ati-nī is literally 'lead across/over' (cf. ātivāhika, 'carrying across'). Hindi 'भीतर' likewise unsupported. Obscure sense, so keep literal."
+ },
+ {
+  "n": "48",
+  "field": "notes",
+  "old": "Obscure occupations rendered literally: ātivāhika \"conveyor\" (meaning uncertain), kanyā-vāhika \"carrier of girls\". aśva-paṇya \"horse(s) as merchandise\". sandhi = treaty (glossary 12.1; \"peace\" in 8.5/12.5). The verb is absent; \"[there is]\" is supplied.",
+  "new": "Obscure occupations rendered literally: ātivāhika \"conveyor\" (meaning uncertain), kanyā-vāhika \"carrier of girls\". aśva-paṇya \"horse(s) as merchandise\". sandhi = treaty (glossary 12.1; \"peace\" in 8.5/12.5). The verb is absent; \"[there is]\" is supplied. Reviewer: atinayana kept literal ('leading across'); the direction (into a fort) is not stated.",
+  "why": "reviewer (minor): 'leading in' adds a direction: ati-nī is literally 'lead across/over' (cf. ātivāhika, 'carrying across'). Hindi 'भीतर' likewise unsupported. Obscure sense, so keep literal."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "सार्थ-समूह में रहने वालों, ले जाने वालों, कन्याओं को ले जाने वालों, घोड़ों और बिक्री की वस्तुओं का व्यवहार करने वालों, सामान ढोने वालों, अनाज के क्रेता और विक्रेताओं, अथवा संन्यासी का चिह्न धारण करने वालों और दूतों के द्वारा सेना को पार ले जाना, सन्धि-कर्म में विश्वास उत्पन्न करने के लिए।",
+  "new": "सार्थ-समूह में रहने वालों, ले जाने वालों, कन्याओं को ले जाने वालों, बिक्री के घोड़ों का व्यवहार करने वालों, सामान ढोने वालों, अनाज के क्रेता और विक्रेताओं, अथवा संन्यासी का चिह्न धारण करने वालों और दूतों के द्वारा सेना को पार ले जाना, सन्धि-कर्म में विश्वास उत्पन्न करने के लिए।",
+  "why": "reviewer (minor): Hindi reads aśva-paṇya as 'horses and wares' while the gloss and English read 'horses as merchandise'; the two must agree (literal: horse-wares)."
+ },
+ {
+  "n": "49",
+  "field": "notes",
+  "old": "Closing summary of units 36-48; rāja-apasarpāḥ means the spies employed against a king (cf. unit 50 \"of the forest tribes\"). apasarpa = spy (glossary).",
+  "new": "Presumably a closing summary of units 36-48; rāja-apasarpāḥ is read 'spies of the king' (spies employed against a king is also possible) (cf. unit 50 \"of the forest tribes\"). apasarpa = spy (glossary).",
+  "why": "reviewer (minor): Note states a contested interpretation as fact."
+ },
+ {
+  "n": "54",
+  "field": "english",
+  "old": "Or one having Saṅkarṣaṇa as his deity, in the guise of a shaven-headed or matted-haired [ascetic], by the rite called prahavaṇa, by the use of madana poison, should outwit [them].",
+  "new": "Or one having Saṅkarṣaṇa as his deity, in the guise of a shaven-headed or matted-haired [ascetic], by the prahavaṇa action, by the use of madana poison, should outwit [them].",
+  "why": "reviewer (error): 'rite' is an invented sense (and 'called' is added); glossary 13.4 keeps prahavaṇa untranslated with the doubt in notes, karman = action."
+ },
+ {
+  "n": "54",
+  "field": "word.gloss",
+  "word": "prahavaṇa-karmaṇā",
+  "old": "by the rite called prahavaṇa",
+  "new": "by the prahavaṇa action",
+  "why": "reviewer (error): 'rite' is an invented sense (and 'called' is added); glossary 13.4 keeps prahavaṇa untranslated with the doubt in notes, karman = action."
+ },
+ {
+  "n": "56",
+  "field": "english",
+  "old": "Or one in the guise of a liquor-seller, at gatherings for deities, funeral rites and festivals, on the occasion of selling and presenting liquor, should outwit the forest chiefs by the use of madana poison.",
+  "new": "Or one in the guise of a liquor-seller, at gatherings for deities, funeral rites and festivals, on account of selling and presenting liquor, should outwit the forest chiefs by the use of madana poison.",
+  "why": "reviewer (minor): nimittam is 'on account of / for the purpose of'; 'occasion' is an added sense, and so is 'selling and presenting' vs the gloss 'the sale and presenting'."
+ },
+ {
+  "n": "56",
+  "field": "word.gloss",
+  "word": "surā-vikraya-upāyana-nimittam",
+  "old": "on the occasion of the sale and presenting of liquor",
+  "new": "on account of the sale and presenting of liquor",
+  "why": "reviewer (minor): nimittam is 'on account of / for the purpose of'; 'occasion' is an added sense, and so is 'selling and presenting' vs the gloss 'the sale and presenting'."
+ },
+ {
+  "n": "58",
+  "field": "english",
+  "old": "Or [the band] that has entered after a village-slaughter, having scattered [it] in many ways into the forest, he should have [it] killed. Thus the spies against thieves have been declared.",
+  "new": "Or [the band] that has entered after a village-slaughter, having scattered [it] in many ways into the forest, he should have [it] killed. Thus the spies of thieves have been declared.",
+  "why": "reviewer (error): corāṇām apasarpāḥ is 'spies of thieves' (cf. unit 50 'of the forest tribes', rendered literally); 'against' and Hindi 'के विषय में' are interpretive, and the gloss says 'of thieves'."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "अथवा ग्राम-वध करके घुसी हुई टोली को वन में अनेक प्रकार से बिखेरकर वह मरवा दे। इस प्रकार चोरों के विषय में गुप्तचर बताए गए हैं।",
+  "new": "अथवा ग्राम-वध करके घुसी हुई टोली को वन में अनेक प्रकार से बिखेरकर वह मरवा दे। इस प्रकार चोरों के गुप्तचर बताए गए हैं।",
+  "why": "reviewer (error): corāṇām apasarpāḥ is 'spies of thieves' (cf. unit 50 'of the forest tribes', rendered literally); 'against' and Hindi 'के विषय में' are interpretive, and the gloss says 'of thieves'."
+ },
+ {
+  "n": "58",
+  "field": "hindi",
+  "old": "अथवा ग्राम-वध करके घुसी हुई टोली को वन में अनेक प्रकार से बिखेरकर वह मरवा दे। इस प्रकार चोरों के गुप्तचर बताए गए हैं।",
+  "new": "अथवा ग्राम-वध करके घुसी हुई को वन में अनेक प्रकार से बिखेरकर वह मरवा दे। इस प्रकार चोरों के गुप्तचर बताए गए हैं।",
+  "why": "reviewer (minor): Hindi supplies the noun 'band' unmarked (English brackets it); the Sanskrit gives only feminine praviṣṭām."
+ },
+ {
+  "n": "58",
+  "field": "notes",
+  "old": "Low-certainty parse. praviṣṭām is feminine singular; the noun it agrees with (a band, aṭavī) is not stated: either \"the forest entered after the village-slaughter\" or an unnamed feminine group. The translation supplies \"[the band]\". corāṇām apasarpāḥ literally \"spies of thieves\", i.e. spies dealing with thieves. iti marks the end of the topic (\"thus\") and is rendered \"Thus\". Metre: a regular anuṣṭubh of two lines of 16 syllables.",
+  "new": "Low-certainty parse. praviṣṭām is feminine singular; the noun it agrees with (a band, aṭavī) is not stated: either \"the forest entered after the village-slaughter\" or an unnamed feminine group. The translation supplies \"[the band]\". corāṇām apasarpāḥ literally \"spies of thieves\", i.e. spies dealing with thieves. iti marks the end of the topic (\"thus\") and is rendered \"Thus\". Metre: a regular anuṣṭubh of two lines of 16 syllables. Reviewer: Hindi leaves the feminine object unstated, no noun supplied.",
+  "why": "reviewer (minor): Hindi supplies the noun 'band' unmarked (English brackets it); the Sanskrit gives only feminine praviṣṭām."
+ }
+]
