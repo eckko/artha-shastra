@@ -1,0 +1,329 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "वहाँ उसके विरुद्ध कोई युक्ति (जाल) तैयार करे।",
+  "new": "वहाँ उसके विरुद्ध युक्ति रचे।",
+  "why": "reviewer (minor): bracketed gloss inside the Hindi (glossary rule)"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "ऊपरी कक्ष से शिलाओं और शस्त्रों की वर्षा, अथवा गिराया हुआ किवाड़, अथवा दीवार में लगा या एक सिरे से बँधा हुआ परिघ (लोहदण्ड) उस पर छोड़े।",
+  "new": "ऊपरी कक्ष से शिलाओं और शस्त्रों की वर्षा, अथवा गिराया हुआ किवाड़, अथवा दीवार में लगा या एक सिरे से बँधा हुआ परिघ उस पर छोड़े।",
+  "why": "reviewer (minor): bracketed gloss inside the Hindi"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "अथवा देवता की मूर्ति का शरीर, ध्वज या आयुध ऊपर से उस पर गिरवाए।",
+  "new": "अथवा देवता का शरीर, ध्वज या आयुध ऊपर से उस पर गिरवाए।",
+  "why": "reviewer (minor): 'की मूर्ति' is added; the text has only devatā-deha (the note already explains the image)"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "aticārayet",
+  "old": "3 sg. opt. caus. √car",
+  "new": "3 sg. opt. caus. ati-√car",
+  "why": "reviewer (minor): prefix ati dropped from the root label (other units give prefixes)"
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "atinayet",
+  "old": "3 sg. opt. √nī",
+  "new": "3 sg. opt. ati-√nī",
+  "why": "reviewer (minor): prefix ati dropped from the root label"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Or, with a pit of stakes or a pitfall below the bed or seat, he should make him, whose floor is held by a machine, fall into it by releasing a pin.",
+  "new": "Or, with a pit of stakes or a pitfall below the bed or seat, its floor held by a machine, he should make him fall in by releasing a pin.",
+  "why": "reviewer (error): yantra-baddha-talam is attached to enam in the English but to the pit in the Hindi; a person has no 'floor' (tala), the covering of the pit does. Make the English match the Hindi and the natural sense"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "अथवा शय्या या आसन के नीचे शूलों का कूप या गड्ढा बनाकर, जिसका तल यन्त्र से बँधा हो, कील छोड़कर उसे उसमें गिरा दे।",
+  "new": "अथवा शय्या या आसन के नीचे, जिसका तल यन्त्र से बँधा हो ऐसे शूलों के कूप या गड्ढे में, कील छोड़कर उसे गिरा दे।",
+  "why": "reviewer (minor): 'बनाकर' (having made) is added; nothing in the Sanskrit"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "yantra-baddha-tala taken as a bahuvrīhi qualifying enam (him standing on a floor held by a mechanism); it could also qualify the pit.",
+  "new": "yantra-baddha-tala taken as a bahuvrīhi qualifying the pit (its floor held by a mechanism), as in the Hindi; the accusative also allows it to qualify enam.",
+  "why": "reviewer (minor): note states the reading the review reverses"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अथवा शत्रु के निकट आ जाने पर, जनपद से घेरा सह सकने योग्य लोगों को (दुर्ग में) ले आए।",
+  "new": "अथवा शत्रु के निकट आ जाने पर, जनपद से घेरा सह सकने योग्य लोगों को ले आए।",
+  "why": "reviewer (minor): bracketed addition inside the Hindi"
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "atinayet",
+  "old": "3 sg. opt. √nī",
+  "new": "3 sg. opt. ati-√nī",
+  "why": "reviewer (minor): prefix ati dropped from the root label"
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "apanayet",
+  "old": "3 sg. opt. √nī",
+  "new": "3 sg. opt. apa-√nī",
+  "why": "reviewer (minor): prefix apa dropped from the root label"
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "daṇḍa-upanata-vṛtte",
+  "old": "in (the section on) the conduct of one submitting to force",
+  "new": "in (the section on) the conduct of one submitting with his army",
+  "why": "reviewer (error): daṇḍa-upanata is 'one who has submitted with his army' (daṇḍa = army, glossary; the title of 7.15), not 'submitting to force'"
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "The causes of a siege have been explained in the section on the conduct of one submitting to force.",
+  "new": "The causes of a siege have been explained in the section on the conduct of one submitting with his army.",
+  "why": "reviewer (error): same: daṇḍa = army"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "घेरे के कारण दण्ड से नत हुए राजा के आचरण के प्रकरण में समझाए जा चुके हैं।",
+  "new": "घेरे के कारण सेना सहित समर्पण करने वाले राजा के आचरण के प्रकरण में समझाए जा चुके हैं।",
+  "why": "reviewer (error): 'दण्ड से नत' reads as 'bowed by punishment'; daṇḍa = सेना here"
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "",
+  "new": "nicaya-mukhyān could also be 'the principal stores' (mukhya adjectival); 'chiefs in charge of stores' is one reading.",
+  "why": "reviewer (minor): the compound can equally mean 'the principal stores' (mukhya as adjective on nicaya); the draft gives one reading without saying so"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "सुरंग का मार्ग ज्ञात हो जाने पर उसके विरुद्ध एक प्रतिसुरंग बनवाए।",
+  "new": "सुरंग का मार्ग ज्ञात हो जाने पर प्रतिसुरंग बनवाए।",
+  "why": "reviewer (minor): 'उसके विरुद्ध एक' is added; prati- is already in प्रतिसुरंग"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "अथवा दुर्ग की रक्षा का प्रबन्ध करके, मूल स्थान में किसी उत्तराधिकारी को रखकर, शत्रु की विपरीत दिशा में चला जाए; अथवा वहाँ जाए जहाँ से वह मित्रों, बन्धुओं या वनवासी सरदारों से, अथवा शत्रु के बलवान शत्रुओं या दूष्यों से मिल सके; अथवा जहाँ जाकर वह शत्रु को उसके मित्रों से अलग कर सके, उसका पार्ष्णि (पीछे का भाग) पकड़ सके, उससे उसका राज्य छिनवा सके, अथवा उसकी रसद, सहायक सेना और चारा-टोलियों को रोक सके; अथवा जहाँ से वह जुआरी की तरह एक ही दाँव से उस पर प्रहार कर सके; अथवा जहाँ से वह अपने राज्य की रक्षा कर सके या अपने मूल की वृद्धि कर सके।",
+  "new": "अथवा दुर्ग की रक्षा का प्रबन्ध करके, मूल स्थान में किसी उत्तराधिकारी को रखकर, शत्रु की विपरीत दिशा में चला जाए; अथवा वहाँ जाए जहाँ से वह मित्रों, बन्धुओं या वनवासी सरदारों से, अथवा शत्रु के बलवान शत्रुओं या दूष्यों से मिल सके; अथवा जहाँ जाकर वह शत्रु को उसके मित्रों से अलग कर सके, उसका पिछला भाग पकड़ सके, उससे उसका राज्य छिनवा सके, अथवा उसकी रसद, सहायक सेना और चारा-टोलियों को रोक सके; अथवा जहाँ से वह जुआरी की तरह एक ही दाँव से उस पर प्रहार कर सके; अथवा जहाँ से वह अपने राज्य की रक्षा कर सके या अपने मूल की वृद्धि कर सके।",
+  "why": "reviewer (minor): bracketed gloss inside the Hindi"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Or, having provided for the defence of the fort and placed an heir at the base, he should go in the direction opposite to the enemy; or go whence he might join allies, kinsmen or forest chiefs, or the enemy's powerful enemies or treasonable men; or whence, having gone, he might separate the enemy from his allies, seize his rear, make him lose his kingdom, or stop his supplies, reinforcements and foraging parties; or whence he might be able, like a dice-player, to strike at him with one throw; or whence he might protect his own kingdom or bring about an increase of his base.",
+  "new": "Or, having provided for the defence of the fort and placed an heir at the base, he should go in the direction opposite to the enemy; or go whence he might join allies, kinsmen or forest chiefs, or the enemy's powerful enemies or treasonable men; or whence, having gone, he might separate the enemy from his allies, seize his rear, make him lose his kingdom, or stop his supplies, reinforcements and foraging parties; or whence he might be able, like a dice-player, to strike at him with a throw; or whence he might protect his own kingdom or bring about an increase of his base.",
+  "why": "reviewer (minor): 'one' is added; apakṣepeṇa is just 'with a throw' (the image is uncertain, as the note says)"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "अथवा दुर्ग की रक्षा का प्रबन्ध करके, मूल स्थान में किसी उत्तराधिकारी को रखकर, शत्रु की विपरीत दिशा में चला जाए; अथवा वहाँ जाए जहाँ से वह मित्रों, बन्धुओं या वनवासी सरदारों से, अथवा शत्रु के बलवान शत्रुओं या दूष्यों से मिल सके; अथवा जहाँ जाकर वह शत्रु को उसके मित्रों से अलग कर सके, उसका पिछला भाग पकड़ सके, उससे उसका राज्य छिनवा सके, अथवा उसकी रसद, सहायक सेना और चारा-टोलियों को रोक सके; अथवा जहाँ से वह जुआरी की तरह एक ही दाँव से उस पर प्रहार कर सके; अथवा जहाँ से वह अपने राज्य की रक्षा कर सके या अपने मूल की वृद्धि कर सके।",
+  "new": "अथवा दुर्ग की रक्षा का प्रबन्ध करके, मूल स्थान में किसी उत्तराधिकारी को रखकर, शत्रु की विपरीत दिशा में चला जाए; अथवा वहाँ जाए जहाँ से वह मित्रों, बन्धुओं या वनवासी सरदारों से, अथवा शत्रु के बलवान शत्रुओं या दूष्यों से मिल सके; अथवा जहाँ जाकर वह शत्रु को उसके मित्रों से अलग कर सके, उसका पिछला भाग पकड़ सके, उससे उसका राज्य छिनवा सके, अथवा उसकी रसद, सहायक सेना और चारा-टोलियों को रोक सके; अथवा जहाँ से वह जुआरी की तरह एक दाँव से उस पर प्रहार कर सके; अथवा जहाँ से वह अपने राज्य की रक्षा कर सके या अपने मूल की वृद्धि कर सके।",
+  "why": "reviewer (minor): 'ही' adds emphasis not in the Sanskrit"
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "asya",
+  "old": "to him (the enemy)",
+  "new": "his (with him)",
+  "why": "reviewer (minor): asya most naturally completes saha-prasthāyinaḥ ('those who set out with him'); preṣayeyuḥ has no expressed recipient, the addressee is known only from 'te' in the message"
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Or those who set out with him should send word to the enemy: \"This enemy of yours has come into our hands; on the pretext of merchandise or of an injury, send gold and a force with a strong core, to which we may hand him over, bound or put to death.\"",
+  "new": "Or those who set out with him should send word: \"This enemy of yours has come into our hands; on the pretext of merchandise or of an injury, send gold and a force with a strong core, to which we may hand him over, bound or put to death.\"",
+  "why": "reviewer (minor): 'to the enemy' is supplied (the note already says who the addressee is)"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "अथवा उसके साथ निकले हुए लोग शत्रु को सन्देश भेजें: \"यह तुम्हारा शत्रु हमारे हाथ में आ गया है; व्यापार या किसी अपकार का बहाना करके सोना और भीतर से सार-युक्त सेना भेजो, जिसे हम इसे बँधा हुआ या मारा हुआ सौंप दें।\"",
+  "new": "अथवा उसके साथ निकले हुए लोग सन्देश भेजें: \"यह तुम्हारा शत्रु हमारे हाथ में आ गया है; व्यापार या किसी अपकार का बहाना करके सोना और भीतर से सार-युक्त सेना भेजो, जिसे हम इसे बँधा हुआ या मारा हुआ सौंप दें।\"",
+  "why": "reviewer (minor): same supplied addressee"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "अथवा अन्तपाल (सीमा-रक्षक) दुर्ग सौंपने के बहाने शत्रु-सेना के एक भाग को भीतर ले जाकर, विश्वास में आ जाने पर, उसका वध करवा दे।",
+  "new": "अथवा अन्तपाल दुर्ग सौंपने के बहाने शत्रु-सेना के एक भाग को भीतर ले जाकर, विश्वास में आ जाने पर, उसका वध करवा दे।",
+  "why": "reviewer (minor): bracketed gloss inside the Hindi"
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "kṣāraḥ",
+  "old": "alkali",
+  "new": "sugar",
+  "why": "reviewer (error): in the Arthashastra's supply lists (dhānya, sneha, kṣāra, lavaṇa) kṣāra is sugar (kṣāra-varga of 2.15 = phāṇita, guḍa, śarkarā etc.), not alkali"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "Or one in the guise of a friend should send word to the one outside: \"Grain, oils, alkali or salt are exhausted in this fort; it will be brought in at such a place and time; seize it.\"",
+  "new": "Or one in the guise of a friend should send word to the one outside: \"Grain, oils, sugar or salt are exhausted in this fort; it will be brought in at such a place and time; seize it.\"",
+  "why": "reviewer (error): same"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "Or one in the guise of a friend should send word to the one outside: \"Grain, oils, sugar or salt are exhausted in this fort; it will be brought in at such a place and time; seize it.\"",
+  "new": "Or one in the guise of a friend should send word to the one outside: \"Grain, oils, sugar or salt are exhausted in this fort; it will come in at such a place and time; seize it.\"",
+  "why": "reviewer (minor): pravekṣyati is active 'will enter/come in'; no need to turn it passive"
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "pravekṣyati is active ('will enter'); rendered 'will be brought in' for the supplies.",
+  "new": "pravekṣyati is active ('will enter'); rendered 'will be brought in' for the supplies. kṣāra = sugar (the kṣāra-varga of 2.15), the usual sense in the text's supply lists; Hindi keeps क्षार.",
+  "why": "reviewer (minor): record the rendering"
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "kṣāram",
+  "old": "alkali",
+  "new": "sugar",
+  "why": "reviewer (error): kṣāra = sugar in supply lists (see u28)"
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "rasa-viddham",
+  "old": "pierced with poison",
+  "new": "mixed with poison",
+  "why": "reviewer (minor): 'pierced with poison' is over-literal; viddha here = infused, mixed (Hindi has विष-मिला)"
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Then treasonable men, enemies and forest chiefs, or others given up to death, should bring in grain, oil, alkali or salt pierced with poison.",
+  "new": "Then treasonable men, enemies and forest chiefs, or others given up to death, should bring in grain, oil, sugar or salt mixed with poison.",
+  "why": "reviewer (error): both points above"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "अथवा सन्धि करके उसे सोने का एक भाग दे, शेष को विलम्ब करते हुए (दे)।",
+  "new": "अथवा सन्धि करके उसे सोने का एक भाग दे और शेष में विलम्ब करता रहे।",
+  "why": "reviewer (minor): bracketed supplied verb inside the Hindi"
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Then (the enemy) would let his protective arrangements slacken.",
+  "new": "Then he should get the protective arrangements slackened.",
+  "why": "reviewer (error): the optative is prescriptive and its subject stays the weak king, as in 31 (dadyāt) and 33 (praharet): by delaying the rest of the gold he gets the enemy's guard relaxed. The draft switches subject and turns 'should' into 'would'; the causative avasrāvayet ('cause to drain away, get slackened') fits the king as subject"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "तब (शत्रु) अपनी रक्षा की व्यवस्थाओं को ढीला कर देगा।",
+  "new": "तब वह रक्षा की व्यवस्थाओं को ढीला करवा दे।",
+  "why": "reviewer (error): same subject and mood problem, plus a bracketed subject"
+ },
+ {
+  "n": "32",
+  "field": "notes",
+  "old": "Subject ambiguous: either the enemy relaxes his guard (taken here, as the next sentence has the weak king strike), or the weak king lets the enemy's guards be drawn away. avasrāvayet literally 'cause to drain away'.",
+  "new": "Subject is the weak king, as in 31 and 33 (all prescriptive optatives): while he delays the rest of the gold he gets the enemy's protective arrangements relaxed. avasrāvayet literally 'cause to drain away'; reading the enemy as subject ('would relax his guard') is possible but breaks the mood of the series.",
+  "why": "reviewer (minor): note should record the reading adopted"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "पाषण्ड (विधर्मी साधु) के छद्मवेश में थोड़े से अनुचरों के साथ बाहर निकल जाए।",
+  "new": "पाषण्ड के छद्मवेश में थोड़े से अनुचरों के साथ बाहर निकल जाए।",
+  "why": "reviewer (minor): bracketed gloss inside the Hindi"
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "rasa-viddham",
+  "old": "pierced with poison",
+  "new": "mixed with poison",
+  "why": "reviewer (minor): 'pierced with poison' over-literal (see u29)"
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "Or at offerings to deities, ancestral rites or sacrificial feasts, having set out food and drink pierced with poison,",
+  "new": "Or at offerings to deities, ancestral rites or sacrificial feasts, having set out food and drink mixed with poison,",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "गुप्त उकसावा करके, दूष्यों का रूप धारण किये हुए गुप्तचरों के साथ निकलकर, छिपी हुई सेना सहित (शत्रु पर) प्रहार करे।",
+  "new": "गुप्त उकसावा करके, दूष्यों का रूप धारण किये हुए गुप्तचरों के साथ निकलकर, छिपी हुई सेना सहित प्रहार करे।",
+  "why": "reviewer (minor): bracketed supplied object inside the Hindi"
+ },
+ {
+  "n": "42",
+  "field": "notes",
+  "old": "Continues unit 41.",
+  "new": "Continues unit 41. dūṣya-vyañjanaiḥ may instead belong to kṛta-upajāpaḥ: 'having made secret instigation through agents in the guise of treasonable men, he should sally out and strike with his hidden army'.",
+  "why": "reviewer (minor): the instrumental can go with kṛta-upajāpaḥ (instigation made through agents disguised as traitors) rather than with niṣpatya; the draft chooses one without saying so"
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "जब (उसकी बात) भुला दी जाए, तब रात में सुरंग से राज-निवास में घुसकर सोये हुए शत्रु को मार डाले।",
+  "new": "जब बात भुला दी जाए, तब रात में सुरंग से राज-निवास में घुसकर सोये हुए शत्रु को मार डाले।",
+  "why": "reviewer (minor): bracketed supplied subject inside the Hindi"
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "अथवा प्रमदवन और विहार-स्थलों में से किसी एक विहार-स्थान में, असावधान शत्रु को भूमिगृह, सुरंग या गुप्त दीवार से घुसे हुए तीक्ष्ण (घातक) मार डालें, अथवा गुप्त रूप से बैठाए हुए लोग विष से।",
+  "new": "अथवा प्रमदवन और विहार-स्थलों में से किसी एक विहार-स्थान में, असावधान शत्रु को भूमिगृह, सुरंग या गुप्त दीवार से घुसे हुए तीक्ष्ण मार डालें, अथवा गुप्त रूप से बैठाए हुए लोग विष से।",
+  "why": "reviewer (minor): bracketed gloss inside the Hindi (the note explains tīkṣṇa)"
+ },
+ {
+  "n": "50",
+  "field": "english",
+  "old": "Then he should go away only in secret, and he should display the signal to his own people.",
+  "new": "Then he should go away quite secretly, and he should display the signal to his own people.",
+  "why": "reviewer (minor): gūḍham eva is emphatic 'quite secretly', not restrictive 'only'"
+ },
+ {
+  "n": "50",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "only",
+  "new": "indeed (emphatic)",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "50",
+  "field": "word.gram",
+  "word": "prarūpayet",
+  "old": "3 sg. opt. caus. pra-√rūp",
+  "new": "3 sg. opt. pra-√rūp (cl. 10)",
+  "why": "reviewer (minor): rūpayati is a class 10 verb, not a causative"
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "शत्रु के पास गुप्त रूप से बैठाए हुए द्वारपालों, वर्षधरों (अन्तःपुर के सेवकों) और अन्य लोगों को तूर्य के संकेतों से बुलाकर शत्रु के बचे हुए लोगों का वध करवाए।",
+  "new": "शत्रु के पास गुप्त रूप से बैठाए हुए द्वारपालों, वर्षधरों और अन्य लोगों को तूर्य के संकेतों से बुलाकर शत्रु के बचे हुए लोगों का वध करवाए।",
+  "why": "reviewer (minor): bracketed gloss inside the Hindi"
+ }
+]

@@ -1,0 +1,5321 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daiva.tejyāyāṃ",
+      "words": [
+       {
+        "w": "daivata-ijyāyām",
+        "gloss": "in the worship of a deity",
+        "gram": "f. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "(devatā.ijyāyāṃ?)",
+      "words": [
+       {
+        "w": "devatā-ijyāyām",
+        "gloss": "in the worship of a deity (editors' doubt mark)",
+        "gram": "f. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yātrāyām",
+      "words": [
+       {
+        "w": "yātrāyām",
+        "gloss": "in a procession, journey",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitrasya",
+      "words": [
+       {
+        "w": "amitrasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahūni",
+      "words": [
+       {
+        "w": "bahūni",
+        "gloss": "many",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pūjā.āgama.sthānāni",
+      "words": [
+       {
+        "w": "pūjā-āgama-sthānāni",
+        "gloss": "places of worship and of arrival",
+        "gram": "n. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhaktitaḥ",
+      "words": [
+       {
+        "w": "bhaktitaḥ",
+        "gloss": "out of devotion",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवता की पूजा के लिए की जाने वाली यात्रा में शत्रु के, भक्ति के कारण, पूजा करने और पहुँचने के अनेक स्थान होते हैं।",
+  "english": "In a procession for the worship of a deity the enemy has, out of devotion, many places of worship and of arrival.",
+  "text_flags": [
+   {
+    "src": "daiva.tejyāyāṃ",
+    "suggest": "daivata.ijyāyāṃ",
+    "why": "the e-text's member split daiva.tejyā does not yield a word; the print form daivatejyāyāṃ resolves as daivata + ijyāyām (worship of a deity); the editors' doubt mark offers devatā.ijyāyāṃ with the same sense"
+   }
+  ],
+  "notes": "The bracketed token is the editors' doubt mark, not part of the sentence; it is split as the reading it proposes. 'yātrā' may be a religious procession or the king's journey to a festival.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "12.05.1"
+  ],
+  "lines_deva": [
+   "दैव.तेज्यायां (देवता.इज्यायां?) यात्रायाम् अमित्रस्य बहूनि पूजा.आगम.स्थानानि भक्तितः"
+  ],
+  "lines_iast": [
+   "daiva.tejyāyāṃ (devatā.ijyāyāṃ?) yātrāyām amitrasya bahūni pūjā.āgama.sthānāni bhaktitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra-asya",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "against him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yogam",
+      "words": [
+       {
+        "w": "yogam",
+        "gloss": "a contrivance, trap",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ubjayet",
+      "words": [
+       {
+        "w": "ubjayet",
+        "gloss": "should set up",
+        "gram": "3 sg. opt. caus. √ubj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ उसके विरुद्ध युक्ति रचे।",
+  "english": "There he should set up a contrivance against him.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.2"
+  ],
+  "lines_deva": [
+   "तत्र-अस्य योगम् उब्जयेत्"
+  ],
+  "lines_iast": [
+   "tatra-asya yogam ubjayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "devatā.gṛha.praviṣṭasya-upari",
+      "words": [
+       {
+        "w": "devatā-gṛha-praviṣṭasya",
+        "gloss": "of him who has entered the temple",
+        "gram": "m. gen. sg., tat-puruṣa"
+       },
+       {
+        "w": "upari",
+        "gloss": "from above",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yantra.mokṣaṇena",
+      "words": [
+       {
+        "w": "yantra-mokṣaṇena",
+        "gloss": "by the release of a machine",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gūḍha.bhittiṃ",
+      "words": [
+       {
+        "w": "gūḍha-bhittim",
+        "gloss": "a hidden wall",
+        "gram": "f. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "śilāṃ",
+      "words": [
+       {
+        "w": "śilām",
+        "gloss": "a stone",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pātayet",
+      "words": [
+       {
+        "w": "pātayet",
+        "gloss": "should cause to fall",
+        "gram": "3 sg. opt. caus. √pat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब वह देवता के मन्दिर में प्रवेश कर चुका हो, तब यन्त्र छोड़कर ऊपर से उस पर गुप्त दीवार अथवा शिला गिरवाए।",
+  "english": "When he has entered the temple, he should, by releasing a machine, make a hidden wall or a stone fall on him from above.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.3"
+  ],
+  "lines_deva": [
+   "देवता.गृह.प्रविष्टस्य-उपरि यन्त्र.मोक्षणेन गूढ.भित्तिं शिलां वा पातयेत्"
+  ],
+  "lines_iast": [
+   "devatā.gṛha.praviṣṭasya-upari yantra.mokṣaṇena gūḍha.bhittiṃ śilāṃ vā pātayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śilā.śastra.varṣam",
+      "words": [
+       {
+        "w": "śilā-śastra-varṣam",
+        "gloss": "a shower of stones and weapons",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "uttama.āgārāt,",
+      "words": [
+       {
+        "w": "uttama-āgārāt",
+        "gloss": "from the topmost chamber",
+        "gram": "n. abl. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "kapāṭam",
+      "words": [
+       {
+        "w": "kapāṭam",
+        "gloss": "a door-panel",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avapātitaṃ",
+      "words": [
+       {
+        "w": "avapātitam",
+        "gloss": "made to fall down",
+        "gram": "n. acc. sg., caus. ppp. √pat"
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhitti.praṇihitam",
+      "words": [
+       {
+        "w": "bhitti-praṇihitam",
+        "gloss": "set in the wall",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "eka.deśa.baddhaṃ",
+      "words": [
+       {
+        "w": "eka-deśa-baddham",
+        "gloss": "fastened at one end",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parighaṃ",
+      "words": [
+       {
+        "w": "parigham",
+        "gloss": "a bar, beam",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mokṣayet",
+      "words": [
+       {
+        "w": "mokṣayet",
+        "gloss": "should let loose",
+        "gram": "3 sg. opt. caus. √muc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऊपरी कक्ष से शिलाओं और शस्त्रों की वर्षा, अथवा गिराया हुआ किवाड़, अथवा दीवार में लगा या एक सिरे से बँधा हुआ परिघ उस पर छोड़े।",
+  "english": "He should let loose from the topmost chamber a shower of stones and weapons, or a door-panel made to fall down, or a bar set in the wall or fastened at one end.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.4"
+  ],
+  "lines_deva": [
+   "शिला.शस्त्र.वर्षम् उत्तम.आगारात्, कपाटम् अवपातितं वा, भित्ति.प्रणिहितम् एक.देश.बद्धं वा परिघं मोक्षयेत्"
+  ],
+  "lines_iast": [
+   "śilā.śastra.varṣam uttama.āgārāt, kapāṭam avapātitaṃ vā, bhitti.praṇihitam eka.deśa.baddhaṃ vā parighaṃ mokṣayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "devatā.deha.dhvaja.praharaṇāni",
+      "words": [
+       {
+        "w": "devatā-deha-dhvaja-praharaṇāni",
+        "gloss": "the deity's body, banner and weapons",
+        "gram": "n. acc. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vā-asya-upariṣṭāt",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of him, on him",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upariṣṭāt",
+        "gloss": "from above",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pātayet",
+      "words": [
+       {
+        "w": "pātayet",
+        "gloss": "should cause to fall",
+        "gram": "3 sg. opt. caus. √pat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा देवता का शरीर, ध्वज या आयुध ऊपर से उस पर गिरवाए।",
+  "english": "Or he should make the deity's body, banner or weapons fall on him from above.",
+  "text_flags": [],
+  "notes": "devatā-deha: the body (limbs) of the deity's image.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.5"
+  ],
+  "lines_deva": [
+   "देवता.देह.ध्वज.प्रहरणानि वा-अस्य-उपरिष्टात् पातयेत्"
+  ],
+  "lines_iast": [
+   "devatā.deha.dhvaja.praharaṇāni vā-asya-upariṣṭāt pātayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sthāna.āsana.gamana.bhūmiṣu",
+      "words": [
+       {
+        "w": "sthāna-āsana-gamana-bhūmiṣu",
+        "gloss": "on the grounds where he stands, sits and walks",
+        "gram": "f. loc. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vā-asya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "go.maya.pradehena",
+      "words": [
+       {
+        "w": "go-maya-pradehena",
+        "gloss": "by a plaster of cow-dung",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gandha.udaka.prasekena",
+      "words": [
+       {
+        "w": "gandha-udaka-prasekena",
+        "gloss": "by a sprinkling of scented water",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasam",
+      "words": [
+       {
+        "w": "rasam",
+        "gloss": "poison",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aticārayet,",
+      "words": [
+       {
+        "w": "aticārayet",
+        "gloss": "should apply, spread over",
+        "gram": "3 sg. opt. caus. ati-√car"
+       }
+      ]
+     },
+     {
+      "src": "puṣpa.cūrṇa.upahāreṇa",
+      "words": [
+       {
+        "w": "puṣpa-cūrṇa-upahāreṇa",
+        "gloss": "by an offering of flowers and powder",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा उसके खड़े होने, बैठने और चलने के स्थानों पर गोबर के लेप से, सुगन्धित जल के छिड़काव से, अथवा फूलों और चूर्ण के उपहार से विष फैलाए।",
+  "english": "Or on the grounds where he stands, sits and walks he should spread poison by a plaster of cow-dung, by a sprinkling of scented water, or by an offering of flowers and powder.",
+  "text_flags": [],
+  "notes": "rasa here = poison, as throughout this chapter. puṣpa-cūrṇa could be 'flower-powder' (one item) or 'flowers and powder'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.6"
+  ],
+  "lines_deva": [
+   "स्थान.आसन.गमन.भूमिषु वा-अस्य गो.मय.प्रदेहेन गन्ध.उदक.प्रसेकेन वा रसम् अतिचारयेत्, पुष्प.चूर्ण.उपहारेण वा"
+  ],
+  "lines_iast": [
+   "sthāna.āsana.gamana.bhūmiṣu vā-asya go.maya.pradehena gandha.udaka.prasekena vā rasam aticārayet, puṣpa.cūrṇa.upahāreṇa vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gandha.praticchannaṃ",
+      "words": [
+       {
+        "w": "gandha-praticchannam",
+        "gloss": "concealed by perfume",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā-asya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "to him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇaṃ",
+      "words": [
+       {
+        "w": "tīkṣṇam",
+        "gloss": "sharp, pungent",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhūmam",
+      "words": [
+       {
+        "w": "dhūmam",
+        "gloss": "smoke",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "atinayet",
+      "words": [
+       {
+        "w": "atinayet",
+        "gloss": "should pass on, convey",
+        "gram": "3 sg. opt. ati-√nī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा सुगन्ध से ढका हुआ तीक्ष्ण धुआँ उस तक पहुँचाए।",
+  "english": "Or he should convey to him a pungent smoke concealed by perfume.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.7"
+  ],
+  "lines_deva": [
+   "गन्ध.प्रतिच्छन्नं वा-अस्य तीक्ष्णं धूमम् अतिनयेत्"
+  ],
+  "lines_iast": [
+   "gandha.praticchannaṃ vā-asya tīkṣṇaṃ dhūmam atinayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śūlakūpam",
+      "words": [
+       {
+        "w": "śūla-kūpam",
+        "gloss": "a pit of stakes",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "avapātanaṃ",
+      "words": [
+       {
+        "w": "avapātanam",
+        "gloss": "a pitfall, trapdoor",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śayana.āsanasya-adhastād",
+      "words": [
+       {
+        "w": "śayana-āsanasya",
+        "gloss": "of the bed or seat",
+        "gram": "n. gen. sg., dvandva"
+       },
+       {
+        "w": "adhastāt",
+        "gloss": "below",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yantra.baddha.talam",
+      "words": [
+       {
+        "w": "yantra-baddha-talam",
+        "gloss": "whose floor is held by a machine",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "enaṃ",
+      "words": [
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kīla.mokṣaṇena",
+      "words": [
+       {
+        "w": "kīla-mokṣaṇena",
+        "gloss": "by releasing a pin",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "praveśayet",
+      "words": [
+       {
+        "w": "praveśayet",
+        "gloss": "should make enter",
+        "gram": "3 sg. opt. caus. √viś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा शय्या या आसन के नीचे, जिसका तल यन्त्र से बँधा हो ऐसे शूलों के कूप या गड्ढे में, कील छोड़कर उसे गिरा दे।",
+  "english": "Or, with a pit of stakes or a pitfall below the bed or seat, its floor held by a machine, he should make him fall in by releasing a pin.",
+  "text_flags": [],
+  "notes": "yantra-baddha-tala taken as a bahuvrīhi qualifying the pit (its floor held by a mechanism), as in the Hindi; the accusative also allows it to qualify enam.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.8"
+  ],
+  "lines_deva": [
+   "शूलकूपम् अवपातनं वा शयन.आसनस्य-अधस्ताद् यन्त्र.बद्ध.तलम् एनं कील.मोक्षणेन प्रवेशयेत्"
+  ],
+  "lines_iast": [
+   "śūlakūpam avapātanaṃ vā śayana.āsanasya-adhastād yantra.baddha.talam enaṃ kīla.mokṣaṇena praveśayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratyāsanne",
+      "words": [
+       {
+        "w": "pratyāsanne",
+        "gloss": "when near",
+        "gram": "m. loc. sg., ppp. prati-ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "vā-amitre",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "amitre",
+        "gloss": "the enemy",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jana.padāj",
+      "words": [
+       {
+        "w": "jana-padāt",
+        "gloss": "from the country",
+        "gram": "m. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "janam",
+      "words": [
+       {
+        "w": "janam",
+        "gloss": "the people",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avarodha.kṣamam",
+      "words": [
+       {
+        "w": "avarodha-kṣamam",
+        "gloss": "able to bear a siege",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "atinayet",
+      "words": [
+       {
+        "w": "atinayet",
+        "gloss": "should bring over",
+        "gram": "3 sg. opt. ati-√nī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा शत्रु के निकट आ जाने पर, जनपद से घेरा सह सकने योग्य लोगों को ले आए।",
+  "english": "Or when the enemy is near, he should bring over from the country the people able to bear a siege.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.9"
+  ],
+  "lines_deva": [
+   "प्रत्यासन्ने वा-अमित्रे जन.पदाज् जनम् अवरोध.क्षमम् अतिनयेत्"
+  ],
+  "lines_iast": [
+   "pratyāsanne vā-amitre jana.padāj janam avarodha.kṣamam atinayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durgāc",
+      "words": [
+       {
+        "w": "durgāt",
+        "gloss": "from the fort",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-anavarodha.kṣamam",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "an-avarodha-kṣamam",
+        "gloss": "unable to bear a siege",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "apanayet,",
+      "words": [
+       {
+        "w": "apanayet",
+        "gloss": "should remove",
+        "gram": "3 sg. opt. apa-√nī"
+       }
+      ]
+     },
+     {
+      "src": "pratyādeyam",
+      "words": [
+       {
+        "w": "pratyādeyam",
+        "gloss": "to be taken back",
+        "gram": "m. acc. sg., gerundive"
+       }
+      ]
+     },
+     {
+      "src": "ari.viṣayaṃ",
+      "words": [
+       {
+        "w": "ari-viṣayam",
+        "gloss": "the enemy's territory",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "preṣayet",
+      "words": [
+       {
+        "w": "preṣayet",
+        "gloss": "should send",
+        "gram": "3 sg. opt. caus. pra-√iṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और दुर्ग से घेरा न सह सकने वाले लोगों को हटा दे, अथवा उन्हें फिर से लिये जा सकने वाले शत्रु-प्रदेश में भेज दे।",
+  "english": "And he should remove from the fort those unable to bear a siege, or send them to an enemy territory that is to be taken back.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.10"
+  ],
+  "lines_deva": [
+   "दुर्गाच् च-अनवरोध.क्षमम् अपनयेत्, प्रत्यादेयम् अरि.विषयं वा प्रेषयेत्"
+  ],
+  "lines_iast": [
+   "durgāc ca-anavarodha.kṣamam apanayet, pratyādeyam ari.viṣayaṃ vā preṣayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jana.padaṃ",
+      "words": [
+       {
+        "w": "jana-padam",
+        "gloss": "the country people",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca-ekasthaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eka-stham",
+        "gloss": "gathered in one place",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śaila.vana.nadī.durgeṣv",
+      "words": [
+       {
+        "w": "śaila-vana-nadī-durgeṣu",
+        "gloss": "in mountain, forest and river forts",
+        "gram": "n. loc. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "aṭavī.vyavahiteṣu",
+      "words": [
+       {
+        "w": "aṭavī-vyavahiteṣu",
+        "gloss": "in those separated by a wilderness",
+        "gram": "n. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "putra.bhrātṛ.parigṛhītaṃ",
+      "words": [
+       {
+        "w": "putra-bhrātṛ-parigṛhītam",
+        "gloss": "taken charge of by a son or brother",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sthāpayet",
+      "words": [
+       {
+        "w": "sthāpayet",
+        "gloss": "should settle",
+        "gram": "3 sg. opt. caus. √sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और एक स्थान पर एकत्र जनपद के लोगों को पर्वत, वन या नदी के दुर्गों में, अथवा जंगल से अलग किये हुए स्थानों में, पुत्र या भाई की देख-रेख में बसाए।",
+  "english": "And he should settle the country people, gathered in one place, in mountain, forest or river forts, or in places separated by a wilderness, under the charge of a son or brother.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.11"
+  ],
+  "lines_deva": [
+   "जन.पदं च-एकस्थं शैल.वन.नदी.दुर्गेष्व् अटवी.व्यवहितेषु वा पुत्र.भ्रातृ.परिगृहीतं स्थापयेत्"
+  ],
+  "lines_iast": [
+   "jana.padaṃ ca-ekasthaṃ śaila.vana.nadī.durgeṣv aṭavī.vyavahiteṣu vā putra.bhrātṛ.parigṛhītaṃ sthāpayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uparodha.hetavo",
+      "words": [
+       {
+        "w": "uparodha-hetavaḥ",
+        "gloss": "the causes of a siege",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.upanata.vṛtte",
+      "words": [
+       {
+        "w": "daṇḍa-upanata-vṛtte",
+        "gloss": "in (the section on) the conduct of one submitting with his army",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "have been explained",
+        "gram": "m. nom. pl., ppp. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "घेरे के कारण सेना सहित समर्पण करने वाले राजा के आचरण के प्रकरण में समझाए जा चुके हैं।",
+  "english": "The causes of a siege have been explained in the section on the conduct of one submitting with his army.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.12"
+  ],
+  "lines_deva": [
+   "उपरोध.हेतवो दण्ड.उपनत.वृत्ते व्याख्याताः"
+  ],
+  "lines_iast": [
+   "uparodha.hetavo daṇḍa.upanata.vṛtte vyākhyātāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tṛṇa.kāṣṭham",
+      "words": [
+       {
+        "w": "tṛṇa-kāṣṭham",
+        "gloss": "grass and wood",
+        "gram": "n. acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ā.yojanād",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "up to",
+        "gram": "ind."
+       },
+       {
+        "w": "yojanāt",
+        "gloss": "a yojana",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāhayet",
+      "words": [
+       {
+        "w": "dāhayet",
+        "gloss": "should have burnt",
+        "gram": "3 sg. opt. caus. √dah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक योजन तक घास और लकड़ी जलवा दे।",
+  "english": "He should have grass and wood burnt for up to a yojana.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.13"
+  ],
+  "lines_deva": [
+   "तृण.काष्ठम् आ.योजनाद् दाहयेत्"
+  ],
+  "lines_iast": [
+   "tṛṇa.kāṣṭham ā.yojanād dāhayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "udakāni",
+      "words": [
+       {
+        "w": "udakāni",
+        "gloss": "the waters",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūṣayet,",
+      "words": [
+       {
+        "w": "dūṣayet",
+        "gloss": "should contaminate",
+        "gram": "3 sg. opt. caus. √duṣ"
+       }
+      ]
+     },
+     {
+      "src": "avasrāvayec",
+      "words": [
+       {
+        "w": "avasrāvayet",
+        "gloss": "should drain away",
+        "gram": "3 sg. opt. caus. ava-√sru"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जलाशयों को दूषित कर दे और उन्हें बहा दे।",
+  "english": "And he should contaminate the waters and drain them away.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.14"
+  ],
+  "lines_deva": [
+   "उदकानि च दूषयेत्, अवस्रावयेच् च"
+  ],
+  "lines_iast": [
+   "udakāni ca dūṣayet, avasrāvayec ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kūpa.kūṭa.avapāta.kaṇṭakinīś",
+      "words": [
+       {
+        "w": "kūpa-kūṭa-avapāta-kaṇṭakinīḥ",
+        "gloss": "wells, concealed traps, pitfalls and thorny barriers",
+        "gram": "f. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bahir",
+      "words": [
+       {
+        "w": "bahiḥ",
+        "gloss": "outside",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ubjayet",
+      "words": [
+       {
+        "w": "ubjayet",
+        "gloss": "should set up",
+        "gram": "3 sg. opt. caus. √ubj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और बाहर कुएँ, छिपे हुए फन्दे, गड्ढे और काँटेदार अवरोध बनवाए।",
+  "english": "And outside he should set up wells, concealed traps, pitfalls and thorny barriers.",
+  "text_flags": [],
+  "notes": "The compound ends in the feminine kaṇṭakinī (thorny plants or thorn-barriers), so the whole dvandva is feminine plural.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.15"
+  ],
+  "lines_deva": [
+   "कूप.कूट.अवपात.कण्टकिनीश् च बहिर् उब्जयेत्"
+  ],
+  "lines_iast": [
+   "kūpa.kūṭa.avapāta.kaṇṭakinīś ca bahir ubjayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "suruṅgām",
+      "words": [
+       {
+        "w": "suruṅgām",
+        "gloss": "a tunnel",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitra.sthāne",
+      "words": [
+       {
+        "w": "amitra-sthāne",
+        "gloss": "at the enemy's position",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bahu.mukhīṃ",
+      "words": [
+       {
+        "w": "bahu-mukhīm",
+        "gloss": "with many openings",
+        "gram": "f. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having made",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "nicaya.mukhyān",
+      "words": [
+       {
+        "w": "nicaya-mukhyān",
+        "gloss": "the chiefs in charge of stores",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "abhihārayet,",
+      "words": [
+       {
+        "w": "abhihārayet",
+        "gloss": "should have carried off",
+        "gram": "3 sg. opt. caus. abhi-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "amitraṃ",
+      "words": [
+       {
+        "w": "amitram",
+        "gloss": "the enemy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रु के स्थान तक अनेक मुखों वाली सुरंग बनाकर उसके भण्डारों के प्रमुखों को, अथवा शत्रु को ही, उठवा ले।",
+  "english": "Having made a tunnel with many openings to the enemy's position, he should have the chiefs in charge of stores carried off, or the enemy himself.",
+  "text_flags": [],
+  "notes": "nicaya-mukhyān could also be 'the principal stores' (mukhya adjectival); 'chiefs in charge of stores' is one reading.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.16"
+  ],
+  "lines_deva": [
+   "सुरुङ्गाम् अमित्र.स्थाने बहु.मुखीं कृत्वा निचय.मुख्यान् अभिहारयेत्, अमित्रं वा"
+  ],
+  "lines_iast": [
+   "suruṅgām amitra.sthāne bahu.mukhīṃ kṛtvā nicaya.mukhyān abhihārayet, amitraṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "para.prayuktāyāṃ",
+      "words": [
+       {
+        "w": "para-prayuktāyām",
+        "gloss": "employed by the enemy",
+        "gram": "f. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suruṅgāyāṃ",
+      "words": [
+       {
+        "w": "suruṅgāyām",
+        "gloss": "when a tunnel",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parikhām",
+      "words": [
+       {
+        "w": "parikhām",
+        "gloss": "a moat",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "udaka.antikīṃ",
+      "words": [
+       {
+        "w": "udaka-antikīm",
+        "gloss": "reaching down to water",
+        "gram": "f. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "khānayet,",
+      "words": [
+       {
+        "w": "khānayet",
+        "gloss": "should have dug",
+        "gram": "3 sg. opt. caus. √khan"
+       }
+      ]
+     },
+     {
+      "src": "kūpa.śālām",
+      "words": [
+       {
+        "w": "kūpa-śālām",
+        "gloss": "a row of wells",
+        "gram": "f. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anusālaṃ",
+      "words": [
+       {
+        "w": "anu-sālam",
+        "gloss": "along the rampart",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा जब शत्रु सुरंग का प्रयोग करे, तब जल तक पहुँचने वाली खाई खुदवाए, अथवा प्राकार के साथ-साथ कुओं की पंक्ति।",
+  "english": "Or when a tunnel is employed by the enemy, he should have a moat dug reaching down to water, or a row of wells along the rampart.",
+  "text_flags": [],
+  "notes": "kūpa-śālā: a hall or series of wells; anusālam from sāla 'rampart'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.17"
+  ],
+  "lines_deva": [
+   "पर.प्रयुक्तायां वा सुरुङ्गायां परिखाम् उदक.अन्तिकीं खानयेत्, कूप.शालाम् अनुसालं वा"
+  ],
+  "lines_iast": [
+   "para.prayuktāyāṃ vā suruṅgāyāṃ parikhām udaka.antikīṃ khānayet, kūpa.śālām anusālaṃ vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "toya.kumbhān",
+      "words": [
+       {
+        "w": "toya-kumbhān",
+        "gloss": "water-jars",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kāṃsya.bhāṇḍāni",
+      "words": [
+       {
+        "w": "kāṃsya-bhāṇḍāni",
+        "gloss": "bell-metal vessels",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaṅkā.sthāneṣu",
+      "words": [
+       {
+        "w": "śaṅkā-sthāneṣu",
+        "gloss": "at suspected places",
+        "gram": "n. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sthāpayet",
+      "words": [
+       {
+        "w": "sthāpayet",
+        "gloss": "should place",
+        "gram": "3 sg. opt. caus. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "khāta.abhijñāna.artham",
+      "words": [
+       {
+        "w": "khāta-abhijñāna-artham",
+        "gloss": "for the detection of digging",
+        "gram": "ind., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खुदाई का पता लगाने के लिए सन्देह के स्थानों पर जल के घड़े अथवा काँसे के पात्र रखवाए।",
+  "english": "He should place water-jars or bell-metal vessels at suspected places for the detection of digging.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.18"
+  ],
+  "lines_deva": [
+   "तोय.कुम्भान् कांस्य.भाण्डानि वा शङ्का.स्थानेषु स्थापयेत् खात.अभिज्ञान.अर्थम्"
+  ],
+  "lines_iast": [
+   "toya.kumbhān kāṃsya.bhāṇḍāni vā śaṅkā.sthāneṣu sthāpayet khāta.abhijñāna.artham"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jñāte",
+      "words": [
+       {
+        "w": "jñāte",
+        "gloss": "when known",
+        "gram": "m. loc. sg., ppp. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "suruṅgā.pathe",
+      "words": [
+       {
+        "w": "suruṅgā-pathe",
+        "gloss": "the course of the tunnel",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pratisuruṅgāṃ",
+      "words": [
+       {
+        "w": "prati-suruṅgām",
+        "gloss": "a counter-tunnel",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have made",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सुरंग का मार्ग ज्ञात हो जाने पर प्रतिसुरंग बनवाए।",
+  "english": "When the course of the tunnel is known, he should have a counter-tunnel made.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.19"
+  ],
+  "lines_deva": [
+   "ज्ञाते सुरुङ्गा.पथे प्रतिसुरुङ्गां कारयेत्"
+  ],
+  "lines_iast": [
+   "jñāte suruṅgā.pathe pratisuruṅgāṃ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhye",
+      "words": [
+       {
+        "w": "madhye",
+        "gloss": "in the middle",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhittvā",
+      "words": [
+       {
+        "w": "bhittvā",
+        "gloss": "having broken through",
+        "gram": "abs. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "dhūmam",
+      "words": [
+       {
+        "w": "dhūmam",
+        "gloss": "smoke",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "udakaṃ",
+      "words": [
+       {
+        "w": "udakam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prayacchet",
+      "words": [
+       {
+        "w": "prayacchet",
+        "gloss": "should let in",
+        "gram": "3 sg. opt. pra-√yam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बीच में तोड़कर उसमें धुआँ अथवा जल भर दे।",
+  "english": "Having broken through in the middle, he should let in smoke or water.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.20"
+  ],
+  "lines_deva": [
+   "मध्ये भित्त्वा धूमम् उदकं वा प्रयच्छेत्"
+  ],
+  "lines_iast": [
+   "madhye bhittvā dhūmam udakaṃ vā prayacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prativihita.durgo",
+      "words": [
+       {
+        "w": "prativihita-durgaḥ",
+        "gloss": "having provided for the fort",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mūle",
+      "words": [
+       {
+        "w": "mūle",
+        "gloss": "at the base",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāyādaṃ",
+      "words": [
+       {
+        "w": "dāyādam",
+        "gloss": "an heir",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having placed",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pratilomām",
+      "words": [
+       {
+        "w": "pratilomām",
+        "gloss": "opposite",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "asya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "to him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "diśaṃ",
+      "words": [
+       {
+        "w": "diśam",
+        "gloss": "direction",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gacchet,",
+      "words": [
+       {
+        "w": "gacchet",
+        "gloss": "should go",
+        "gram": "3 sg. opt. √gam"
+       }
+      ]
+     },
+     {
+      "src": "yato",
+      "words": [
+       {
+        "w": "yataḥ",
+        "gloss": "whence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitrair",
+      "words": [
+       {
+        "w": "mitraiḥ",
+        "gloss": "with allies",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "bandhubhir",
+      "words": [
+       {
+        "w": "bandhubhiḥ",
+        "gloss": "with kinsmen",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "āṭavikair",
+      "words": [
+       {
+        "w": "āṭavikaiḥ",
+        "gloss": "with forest chiefs",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṃsṛjyeta",
+      "words": [
+       {
+        "w": "saṃsṛjyeta",
+        "gloss": "might join",
+        "gram": "3 sg. opt. pass. sam-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "parasya-amitrair",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "amitraiḥ",
+        "gloss": "with the enemies",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "dūṣyair",
+      "words": [
+       {
+        "w": "dūṣyaiḥ",
+        "gloss": "with the treasonable",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahadbhiḥ,",
+      "words": [
+       {
+        "w": "mahadbhiḥ",
+        "gloss": "great, powerful",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "yato",
+      "words": [
+       {
+        "w": "yataḥ",
+        "gloss": "whence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gato",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "having gone",
+        "gram": "m. nom. sg., ppp. √gam"
+       }
+      ]
+     },
+     {
+      "src": "'sya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitrair",
+      "words": [
+       {
+        "w": "mitraiḥ",
+        "gloss": "from allies",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "viyogaṃ",
+      "words": [
+       {
+        "w": "viyogam",
+        "gloss": "separation",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "might bring about",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pārṣṇiṃ",
+      "words": [
+       {
+        "w": "pārṣṇim",
+        "gloss": "the rear",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛhṇīyāt",
+      "words": [
+       {
+        "w": "gṛhṇīyāt",
+        "gloss": "might seize",
+        "gram": "3 sg. opt. √grah"
+       }
+      ]
+     },
+     {
+      "src": "rājyaṃ",
+      "words": [
+       {
+        "w": "rājyam",
+        "gloss": "the kingdom",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-asya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hārayet",
+      "words": [
+       {
+        "w": "hārayet",
+        "gloss": "might make him lose",
+        "gram": "3 sg. opt. caus. √hṛ"
+       }
+      ]
+     },
+     {
+      "src": "vīvadha.āsāra.prasārān",
+      "words": [
+       {
+        "w": "vīvadha-āsāra-prasārān",
+        "gloss": "supplies, reinforcements and foraging parties",
+        "gram": "m. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vārayet,",
+      "words": [
+       {
+        "w": "vārayet",
+        "gloss": "might stop",
+        "gram": "3 sg. opt. caus. √vṛ"
+       }
+      ]
+     },
+     {
+      "src": "yato",
+      "words": [
+       {
+        "w": "yataḥ",
+        "gloss": "whence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaknuyād",
+      "words": [
+       {
+        "w": "śaknuyāt",
+        "gloss": "might be able",
+        "gram": "3 sg. opt. √śak"
+       }
+      ]
+     },
+     {
+      "src": "ākṣikavad",
+      "words": [
+       {
+        "w": "ākṣika-vat",
+        "gloss": "like a dice-player",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "apakṣepeṇa-asya",
+      "words": [
+       {
+        "w": "apakṣepeṇa",
+        "gloss": "with a throw",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "at him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prahartum,",
+      "words": [
+       {
+        "w": "prahartum",
+        "gloss": "to strike",
+        "gram": "inf. pra-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "yato",
+      "words": [
+       {
+        "w": "yataḥ",
+        "gloss": "whence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svaṃ",
+      "words": [
+       {
+        "w": "svam",
+        "gloss": "his own",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājyaṃ",
+      "words": [
+       {
+        "w": "rājyam",
+        "gloss": "kingdom",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "trāyeta",
+      "words": [
+       {
+        "w": "trāyeta",
+        "gloss": "might protect",
+        "gram": "3 sg. opt. √trai"
+       }
+      ]
+     },
+     {
+      "src": "mūlasya-upacayaṃ",
+      "words": [
+       {
+        "w": "mūlasya",
+        "gloss": "of the base",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "upacayam",
+        "gloss": "increase",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "might make",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा दुर्ग की रक्षा का प्रबन्ध करके, मूल स्थान में किसी उत्तराधिकारी को रखकर, शत्रु की विपरीत दिशा में चला जाए; अथवा वहाँ जाए जहाँ से वह मित्रों, बन्धुओं या वनवासी सरदारों से, अथवा शत्रु के बलवान शत्रुओं या दूष्यों से मिल सके; अथवा जहाँ जाकर वह शत्रु को उसके मित्रों से अलग कर सके, उसका पिछला भाग पकड़ सके, उससे उसका राज्य छिनवा सके, अथवा उसकी रसद, सहायक सेना और चारा-टोलियों को रोक सके; अथवा जहाँ से वह जुआरी की तरह एक दाँव से उस पर प्रहार कर सके; अथवा जहाँ से वह अपने राज्य की रक्षा कर सके या अपने मूल की वृद्धि कर सके।",
+  "english": "Or, having provided for the defence of the fort and placed an heir at the base, he should go in the direction opposite to the enemy; or go whence he might join allies, kinsmen or forest chiefs, or the enemy's powerful enemies or treasonable men; or whence, having gone, he might separate the enemy from his allies, seize his rear, make him lose his kingdom, or stop his supplies, reinforcements and foraging parties; or whence he might be able, like a dice-player, to strike at him with a throw; or whence he might protect his own kingdom or bring about an increase of his base.",
+  "text_flags": [],
+  "notes": "mūla = the base, the home territory. āsāra here = reinforcements (glossary: reinforcer). ākṣikavad apakṣepeṇa: 'with a throw (of the dice) like a gambler', i.e. a sudden decisive stroke; the exact image is uncertain.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.21"
+  ],
+  "lines_deva": [
+   "प्रतिविहित.दुर्गो वा मूले दायादं कृत्वा प्रतिलोमाम् अस्य दिशं गच्छेत्, यतो वा मित्रैर् बन्धुभिर् आटविकैर् वा संसृज्येत परस्य-अमित्रैर् दूष्यैर् वा महद्भिः, यतो वा गतो ऽस्य मित्रैर् वियोगं कुर्यात् पार्ष्णिं वा गृह्णीयात् राज्यं वा-अस्य हारयेत् वीवध.आसार.प्रसारान् वा वारयेत्, यतो वा शक्नुयाद् आक्षिकवद् अपक्षेपेण-अस्य प्रहर्तुम्, यतो वा स्वं राज्यं त्रायेत मूलस्य-उपचयं वा कुर्यात्"
+  ],
+  "lines_iast": [
+   "prativihita.durgo vā mūle dāyādaṃ kṛtvā pratilomām asya diśaṃ gacchet, yato vā mitrair bandhubhir āṭavikair vā saṃsṛjyeta parasya-amitrair dūṣyair vā mahadbhiḥ, yato vā gato 'sya mitrair viyogaṃ kuryāt pārṣṇiṃ vā gṛhṇīyāt rājyaṃ vā-asya hārayet vīvadha.āsāra.prasārān vā vārayet, yato vā śaknuyād ākṣikavad apakṣepeṇa-asya prahartum, yato vā svaṃ rājyaṃ trāyeta mūlasya-upacayaṃ vā kuryāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yataḥ",
+      "words": [
+       {
+        "w": "yataḥ",
+        "gloss": "whence",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sandhim",
+      "words": [
+       {
+        "w": "sandhim",
+        "gloss": "a peace treaty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhipretaṃ",
+      "words": [
+       {
+        "w": "abhipretam",
+        "gloss": "desired",
+        "gram": "m. acc. sg., ppp. abhi-pra-√i"
+       }
+      ]
+     },
+     {
+      "src": "labheta",
+      "words": [
+       {
+        "w": "labheta",
+        "gloss": "might obtain",
+        "gram": "3 sg. opt. √labh"
+       }
+      ]
+     },
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "thither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gacchet",
+      "words": [
+       {
+        "w": "gacchet",
+        "gloss": "should go",
+        "gram": "3 sg. opt. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा वहाँ जाए जहाँ से वह मनचाही सन्धि प्राप्त कर सके।",
+  "english": "Or he should go to that place from which he might obtain the peace he desires.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.22"
+  ],
+  "lines_deva": [
+   "यतः सन्धिम् अभिप्रेतं लभेत ततो वा गच्छेत्"
+  ],
+  "lines_iast": [
+   "yataḥ sandhim abhipretaṃ labheta tato vā gacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saha.prasthāyino",
+      "words": [
+       {
+        "w": "saha-prasthāyinaḥ",
+        "gloss": "those who set out with him",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā-asya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his (with him)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "preṣayeyuḥ",
+      "words": [
+       {
+        "w": "preṣayeyuḥ",
+        "gloss": "should send word",
+        "gram": "3 pl. opt. caus. pra-√iṣ"
+       }
+      ]
+     },
+     {
+      "src": "\"ayaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatrur",
+      "words": [
+       {
+        "w": "śatruḥ",
+        "gloss": "enemy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asmākaṃ",
+      "words": [
+       {
+        "w": "asmākam",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hasta.gataḥ,",
+      "words": [
+       {
+        "w": "hasta-gataḥ",
+        "gloss": "come into the hands",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "paṇyaṃ",
+      "words": [
+       {
+        "w": "paṇyam",
+        "gloss": "merchandise",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viprakāraṃ",
+      "words": [
+       {
+        "w": "viprakāram",
+        "gloss": "an injury, outrage",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-apadiśya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "apadiśya",
+        "gloss": "giving as pretext",
+        "gram": "abs. apa-√diś"
+       }
+      ]
+     },
+     {
+      "src": "hiraṇyam",
+      "words": [
+       {
+        "w": "hiraṇyam",
+        "gloss": "gold",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "antaḥ.sāra.balaṃ",
+      "words": [
+       {
+        "w": "antaḥ-sāra-balam",
+        "gloss": "a force with a strong core",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "preṣaya",
+      "words": [
+       {
+        "w": "preṣaya",
+        "gloss": "send",
+        "gram": "2 sg. impv. caus. pra-√iṣ"
+       }
+      ]
+     },
+     {
+      "src": "yasya-enam",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "to which",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "arpayema",
+      "words": [
+       {
+        "w": "arpayema",
+        "gloss": "we may hand over",
+        "gram": "1 pl. opt. caus. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "baddhaṃ",
+      "words": [
+       {
+        "w": "baddham",
+        "gloss": "bound",
+        "gram": "m. acc. sg., ppp. √bandh"
+       }
+      ]
+     },
+     {
+      "src": "pravāsitaṃ",
+      "words": [
+       {
+        "w": "pravāsitam",
+        "gloss": "put to death",
+        "gram": "m. acc. sg., caus. ppp. pra-√vas"
+       }
+      ]
+     },
+     {
+      "src": "vā\"",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा उसके साथ निकले हुए लोग सन्देश भेजें: \"यह तुम्हारा शत्रु हमारे हाथ में आ गया है; व्यापार या किसी अपकार का बहाना करके सोना और भीतर से सार-युक्त सेना भेजो, जिसे हम इसे बँधा हुआ या मारा हुआ सौंप दें।\"",
+  "english": "Or those who set out with him should send word: \"This enemy of yours has come into our hands; on the pretext of merchandise or of an injury, send gold and a force with a strong core, to which we may hand him over, bound or put to death.\"",
+  "text_flags": [],
+  "notes": "pravāsita, literally 'sent into exile', is used in the text for 'put to death'; 'exiled' is also possible. asya: the message goes to the besieging enemy.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.23"
+  ],
+  "lines_deva": [
+   "सह.प्रस्थायिनो वा-अस्य प्रेषयेयुः \"अयं ते शत्रुर् अस्माकं हस्त.गतः, पण्यं विप्रकारं वा-अपदिश्य हिरण्यम् अन्तः.सार.बलं च प्रेषय यस्य-एनम् अर्पयेम बद्धं प्रवासितं वा\" इति"
+  ],
+  "lines_iast": [
+   "saha.prasthāyino vā-asya preṣayeyuḥ \"ayaṃ te śatrur asmākaṃ hasta.gataḥ, paṇyaṃ viprakāraṃ vā-apadiśya hiraṇyam antaḥ.sāra.balaṃ ca preṣaya yasya-enam arpayema baddhaṃ pravāsitaṃ vā\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratipanne",
+      "words": [
+       {
+        "w": "pratipanne",
+        "gloss": "when agreed",
+        "gram": "n. loc. sg., ppp. prati-√pad"
+       }
+      ]
+     },
+     {
+      "src": "hiraṇyaṃ",
+      "words": [
+       {
+        "w": "hiraṇyam",
+        "gloss": "the gold",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāra.balaṃ",
+      "words": [
+       {
+        "w": "sāra-balam",
+        "gloss": "the picked force",
+        "gram": "n. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "ca-ādadīta",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ādadīta",
+        "gloss": "should take",
+        "gram": "3 sg. opt. ā-√dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके मान लेने पर वह सोना और सार-सेना ले ले।",
+  "english": "When this is agreed, he should take the gold and the picked force.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.24"
+  ],
+  "lines_deva": [
+   "प्रतिपन्ने हिरण्यं सार.बलं च-आददीत"
+  ],
+  "lines_iast": [
+   "pratipanne hiraṇyaṃ sāra.balaṃ ca-ādadīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anta.pālo",
+      "words": [
+       {
+        "w": "anta-pālaḥ",
+        "gloss": "the frontier officer",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "durga.sampradāne",
+      "words": [
+       {
+        "w": "durga-sampradāne",
+        "gloss": "in handing over a fort",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bala.eka.deśam",
+      "words": [
+       {
+        "w": "bala-eka-deśam",
+        "gloss": "a part of the army",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "atinīya",
+      "words": [
+       {
+        "w": "atinīya",
+        "gloss": "having led inside",
+        "gram": "abs. ati-√nī"
+       }
+      ]
+     },
+     {
+      "src": "viśvastaṃ",
+      "words": [
+       {
+        "w": "viśvastam",
+        "gloss": "when trusting",
+        "gram": "m. acc. sg., ppp. vi-√śvas"
+       }
+      ]
+     },
+     {
+      "src": "ghātayet",
+      "words": [
+       {
+        "w": "ghātayet",
+        "gloss": "should have killed",
+        "gram": "3 sg. opt. caus. √han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा अन्तपाल दुर्ग सौंपने के बहाने शत्रु-सेना के एक भाग को भीतर ले जाकर, विश्वास में आ जाने पर, उसका वध करवा दे।",
+  "english": "Or the frontier officer, on the pretext of handing over a fort, having led a part of the enemy's army inside, should have it killed when it has become trusting.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.25"
+  ],
+  "lines_deva": [
+   "अन्त.पालो वा दुर्ग.सम्प्रदाने बल.एक.देशम् अतिनीय विश्वस्तं घातयेत्"
+  ],
+  "lines_iast": [
+   "anta.pālo vā durga.sampradāne bala.eka.deśam atinīya viśvastaṃ ghātayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jana.padam",
+      "words": [
+       {
+        "w": "jana-padam",
+        "gloss": "the country people",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ekasthaṃ",
+      "words": [
+       {
+        "w": "eka-stham",
+        "gloss": "gathered in one place",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ghātayitum",
+      "words": [
+       {
+        "w": "ghātayitum",
+        "gloss": "to kill",
+        "gram": "inf. caus. √han"
+       }
+      ]
+     },
+     {
+      "src": "amitra.anīkam",
+      "words": [
+       {
+        "w": "amitra-anīkam",
+        "gloss": "the enemy's army",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "āvāhayet",
+      "words": [
+       {
+        "w": "āvāhayet",
+        "gloss": "should invite",
+        "gram": "3 sg. opt. caus. ā-√vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा एक स्थान पर एकत्र जनपद के लोगों को मारने के लिए शत्रु-सेना को बुलाए।",
+  "english": "Or he should invite the enemy's army to kill the country people gathered in one place.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.26"
+  ],
+  "lines_deva": [
+   "जन.पदम् एकस्थं वा घातयितुम् अमित्र.अनीकम् आवाहयेत्"
+  ],
+  "lines_iast": [
+   "jana.padam ekasthaṃ vā ghātayitum amitra.anīkam āvāhayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "it",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avaruddha.deśam",
+      "words": [
+       {
+        "w": "avaruddha-deśam",
+        "gloss": "an enclosed region",
+        "gram": "m. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "atinīya",
+      "words": [
+       {
+        "w": "atinīya",
+        "gloss": "having led into",
+        "gram": "abs. ati-√nī"
+       }
+      ]
+     },
+     {
+      "src": "viśvastaṃ",
+      "words": [
+       {
+        "w": "viśvastam",
+        "gloss": "when trusting",
+        "gram": "n. acc. sg., ppp. vi-√śvas"
+       }
+      ]
+     },
+     {
+      "src": "ghātayet",
+      "words": [
+       {
+        "w": "ghātayet",
+        "gloss": "should have killed",
+        "gram": "3 sg. opt. caus. √han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे घिरे हुए प्रदेश में ले जाकर, विश्वास में आ जाने पर, मरवा दे।",
+  "english": "Having led it into an enclosed region, he should have it killed when it has become trusting.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.27"
+  ],
+  "lines_deva": [
+   "तद् अवरुद्ध.देशम् अतिनीय विश्वस्तं घातयेत्"
+  ],
+  "lines_iast": [
+   "tad avaruddha.deśam atinīya viśvastaṃ ghātayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitra.vyañjano",
+      "words": [
+       {
+        "w": "mitra-vyañjanaḥ",
+        "gloss": "one in the guise of a friend",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyasya",
+      "words": [
+       {
+        "w": "bāhyasya",
+        "gloss": "to the one outside",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "preṣayet",
+      "words": [
+       {
+        "w": "preṣayet",
+        "gloss": "should send word",
+        "gram": "3 sg. opt. caus. pra-√iṣ"
+       }
+      ]
+     },
+     {
+      "src": "\"kṣīṇam",
+      "words": [
+       {
+        "w": "kṣīṇam",
+        "gloss": "exhausted",
+        "gram": "n. nom. sg., ppp. √kṣi"
+       }
+      ]
+     },
+     {
+      "src": "asmin",
+      "words": [
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "durge",
+      "words": [
+       {
+        "w": "durge",
+        "gloss": "fort",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhānyaṃ",
+      "words": [
+       {
+        "w": "dhānyam",
+        "gloss": "grain",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehāḥ",
+      "words": [
+       {
+        "w": "snehāḥ",
+        "gloss": "oils",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣāro",
+      "words": [
+       {
+        "w": "kṣāraḥ",
+        "gloss": "sugar",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇaṃ",
+      "words": [
+       {
+        "w": "lavaṇam",
+        "gloss": "salt",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "amuṣmin",
+      "words": [
+       {
+        "w": "amuṣmin",
+        "gloss": "at that",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśe",
+      "words": [
+       {
+        "w": "deśe",
+        "gloss": "place",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "time",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pravekṣyati,",
+      "words": [
+       {
+        "w": "pravekṣyati",
+        "gloss": "will be brought in",
+        "gram": "3 sg. fut. pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upagṛhāṇa\"",
+      "words": [
+       {
+        "w": "upagṛhāṇa",
+        "gloss": "seize",
+        "gram": "2 sg. impv. upa-√grah"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा मित्र का रूप धारण किया हुआ व्यक्ति बाहर वाले शत्रु को सन्देश भेजे: \"इस दुर्ग में अनाज, तेल, क्षार या नमक समाप्त हो गया है; वह अमुक स्थान पर अमुक समय भीतर पहुँचेगा; उसे पकड़ लो।\"",
+  "english": "Or one in the guise of a friend should send word to the one outside: \"Grain, oils, sugar or salt are exhausted in this fort; it will come in at such a place and time; seize it.\"",
+  "text_flags": [],
+  "notes": "pravekṣyati is active ('will enter'); rendered 'will be brought in' for the supplies. kṣāra = sugar (the kṣāra-varga of 2.15), the usual sense in the text's supply lists; Hindi keeps क्षार.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.28"
+  ],
+  "lines_deva": [
+   "मित्र.व्यञ्जनो वा बाह्यस्य प्रेषयेत् \"क्षीणम् अस्मिन् दुर्गे धान्यं स्नेहाः क्षारो लवणं वा, तद् अमुष्मिन् देशे काले च प्रवेक्ष्यति, तद् उपगृहाण\" इति"
+  ],
+  "lines_iast": [
+   "mitra.vyañjano vā bāhyasya preṣayet \"kṣīṇam asmin durge dhānyaṃ snehāḥ kṣāro lavaṇaṃ vā, tad amuṣmin deśe kāle ca pravekṣyati, tad upagṛhāṇa\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasa.viddhaṃ",
+      "words": [
+       {
+        "w": "rasa-viddham",
+        "gloss": "mixed with poison",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dhānyaṃ",
+      "words": [
+       {
+        "w": "dhānyam",
+        "gloss": "grain",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "snehaṃ",
+      "words": [
+       {
+        "w": "sneham",
+        "gloss": "oil",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣāraṃ",
+      "words": [
+       {
+        "w": "kṣāram",
+        "gloss": "sugar",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lavaṇaṃ",
+      "words": [
+       {
+        "w": "lavaṇam",
+        "gloss": "salt",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dūṣya.amitra.āṭavikāḥ",
+      "words": [
+       {
+        "w": "dūṣya-amitra-āṭavikāḥ",
+        "gloss": "treasonable men, enemies and forest chiefs",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "praveśayeyuḥ,",
+      "words": [
+       {
+        "w": "praveśayeyuḥ",
+        "gloss": "should bring in",
+        "gram": "3 pl. opt. caus. pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "anye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā-abhityaktāḥ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "abhityaktāḥ",
+        "gloss": "men given up to death",
+        "gram": "m. nom. pl., ppp. abhi-√tyaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब दूष्य, शत्रु और वनवासी सरदार, अथवा अन्य मरने के लिए छोड़े हुए लोग, विष-मिला अनाज, तेल, क्षार या नमक भीतर पहुँचाएँ।",
+  "english": "Then treasonable men, enemies and forest chiefs, or others given up to death, should bring in grain, oil, sugar or salt mixed with poison.",
+  "text_flags": [],
+  "notes": "abhityakta: men marked out for death, desperadoes in the text's usage.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.29"
+  ],
+  "lines_deva": [
+   "ततो रस.विद्धं धान्यं स्नेहं क्षारं लवणं वा दूष्य.अमित्र.आटविकाः प्रवेशयेयुः, अन्ये वा-अभित्यक्ताः"
+  ],
+  "lines_iast": [
+   "tato rasa.viddhaṃ dhānyaṃ snehaṃ kṣāraṃ lavaṇaṃ vā dūṣya.amitra.āṭavikāḥ praveśayeyuḥ, anye vā-abhityaktāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarva.bhāṇḍa.vīvadha.grahaṇaṃ",
+      "words": [
+       {
+        "w": "sarva-bhāṇḍa-vīvadha-grahaṇam",
+        "gloss": "the seizing of all goods and supplies",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātam",
+      "words": [
+       {
+        "w": "vyākhyātam",
+        "gloss": "is explained",
+        "gram": "n. nom. sg., ppp. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी से सभी प्रकार के सामान और रसद को पकड़वाना समझाया गया है।",
+  "english": "By this the seizing of all goods and supplies is explained.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.30"
+  ],
+  "lines_deva": [
+   "तेन सर्व.भाण्ड.वीवध.ग्रहणं व्याख्यातम्"
+  ],
+  "lines_iast": [
+   "tena sarva.bhāṇḍa.vīvadha.grahaṇaṃ vyākhyātam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sandhiṃ",
+      "words": [
+       {
+        "w": "sandhim",
+        "gloss": "a peace treaty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having made",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "hiraṇya.eka.deśam",
+      "words": [
+       {
+        "w": "hiraṇya-eka-deśam",
+        "gloss": "a part of the gold",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "asmai",
+      "words": [
+       {
+        "w": "asmai",
+        "gloss": "to him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt,",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     },
+     {
+      "src": "vilambamānaḥ",
+      "words": [
+       {
+        "w": "vilambamānaḥ",
+        "gloss": "delaying",
+        "gram": "m. nom. sg., pres. part. vi-√lamb"
+       }
+      ]
+     },
+     {
+      "src": "śeṣam",
+      "words": [
+       {
+        "w": "śeṣam",
+        "gloss": "the rest",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा सन्धि करके उसे सोने का एक भाग दे और शेष में विलम्ब करता रहे।",
+  "english": "Or, having made peace, he should give him a part of the gold, delaying over the rest.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.31"
+  ],
+  "lines_deva": [
+   "सन्धिं वा कृत्वा हिरण्य.एक.देशम् अस्मै दद्यात्, विलम्बमानः शेषम्"
+  ],
+  "lines_iast": [
+   "sandhiṃ vā kṛtvā hiraṇya.eka.deśam asmai dadyāt, vilambamānaḥ śeṣam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣā.vidhānāny",
+      "words": [
+       {
+        "w": "rakṣā-vidhānāni",
+        "gloss": "the protective arrangements",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "avasrāvayet",
+      "words": [
+       {
+        "w": "avasrāvayet",
+        "gloss": "should let slacken",
+        "gram": "3 sg. opt. caus. ava-√sru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब वह रक्षा की व्यवस्थाओं को ढीला करवा दे।",
+  "english": "Then he should get the protective arrangements slackened.",
+  "text_flags": [],
+  "notes": "Subject is the weak king, as in 31 and 33 (all prescriptive optatives): while he delays the rest of the gold he gets the enemy's protective arrangements relaxed. avasrāvayet literally 'cause to drain away'; reading the enemy as subject ('would relax his guard') is possible but breaks the mood of the series.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "12.05.32"
+  ],
+  "lines_deva": [
+   "ततो रक्षा.विधानान्य् अवस्रावयेत्"
+  ],
+  "lines_iast": [
+   "tato rakṣā.vidhānāny avasrāvayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agni.rasa.śastrair",
+      "words": [
+       {
+        "w": "agni-rasa-śastraiḥ",
+        "gloss": "with fire, poison and weapons",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praharet",
+      "words": [
+       {
+        "w": "praharet",
+        "gloss": "should strike",
+        "gram": "3 sg. opt. pra-√hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा अग्नि, विष और शस्त्रों से प्रहार करे।",
+  "english": "Or he should strike with fire, poison and weapons.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.33"
+  ],
+  "lines_deva": [
+   "अग्नि.रस.शस्त्रैर् वा प्रहरेत्"
+  ],
+  "lines_iast": [
+   "agni.rasa.śastrair vā praharet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hiraṇya.pratigrāhiṇo",
+      "words": [
+       {
+        "w": "hiraṇya-pratigrāhiṇaḥ",
+        "gloss": "who accept gold",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā-asya",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vallabhān",
+      "words": [
+       {
+        "w": "vallabhān",
+        "gloss": "favourites",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "anugṛhṇīyāt",
+      "words": [
+       {
+        "w": "anugṛhṇīyāt",
+        "gloss": "should win over with favours",
+        "gram": "3 sg. opt. anu-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा उसके सोना लेने वाले कृपापात्रों को अनुग्रह से अपने पक्ष में करे।",
+  "english": "Or he should win over with favours those favourites of his who accept gold.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.34"
+  ],
+  "lines_deva": [
+   "हिरण्य.प्रतिग्राहिणो वा-अस्य वल्लभान् अनुगृह्णीयात्"
+  ],
+  "lines_iast": [
+   "hiraṇya.pratigrāhiṇo vā-asya vallabhān anugṛhṇīyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parikṣīṇo",
+      "words": [
+       {
+        "w": "parikṣīṇaḥ",
+        "gloss": "completely exhausted",
+        "gram": "m. nom. sg., ppp. pari-√kṣi"
+       }
+      ]
+     },
+     {
+      "src": "vā-asmai",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asmai",
+        "gloss": "to him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "durgaṃ",
+      "words": [
+       {
+        "w": "durgam",
+        "gloss": "the fort",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dattvā",
+      "words": [
+       {
+        "w": "dattvā",
+        "gloss": "having given",
+        "gram": "abs. √dā"
+       }
+      ]
+     },
+     {
+      "src": "nirgacchet",
+      "words": [
+       {
+        "w": "nirgacchet",
+        "gloss": "should go out",
+        "gram": "3 sg. opt. nir-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा पूरी तरह क्षीण हो जाने पर उसे दुर्ग देकर बाहर निकल जाए।",
+  "english": "Or, when completely exhausted, he should give him the fort and go out.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.35"
+  ],
+  "lines_deva": [
+   "परिक्षीणो वा-अस्मै दुर्गं दत्त्वा निर्गच्छेत्"
+  ],
+  "lines_iast": [
+   "parikṣīṇo vā-asmai durgaṃ dattvā nirgacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "suruṅgayā",
+      "words": [
+       {
+        "w": "suruṅgayā",
+        "gloss": "by a tunnel",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kukṣi.pradareṇa",
+      "words": [
+       {
+        "w": "kukṣi-pradareṇa",
+        "gloss": "by a breach in the flank",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prākāra.bhedena",
+      "words": [
+       {
+        "w": "prākāra-bhedena",
+        "gloss": "by breaking the rampart",
+        "gram": "m. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "nirgacchet",
+      "words": [
+       {
+        "w": "nirgacchet",
+        "gloss": "should go out",
+        "gram": "3 sg. opt. nir-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सुरंग से, पार्श्व-भाग के छेद से, अथवा प्राकार तोड़कर बाहर निकल जाए।",
+  "english": "He should go out by a tunnel, by a breach in the flank, or by breaking the rampart.",
+  "text_flags": [],
+  "notes": "kukṣi-pradara: an opening in the 'belly' (side) of the fort wall.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.36"
+  ],
+  "lines_deva": [
+   "सुरुङ्गया कुक्षि.प्रदरेण वा प्राकार.भेदेन निर्गच्छेत्"
+  ],
+  "lines_iast": [
+   "suruṅgayā kukṣi.pradareṇa vā prākāra.bhedena nirgacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rātrāv",
+      "words": [
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avaskandaṃ",
+      "words": [
+       {
+        "w": "avaskandam",
+        "gloss": "an assault",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dattvā",
+      "words": [
+       {
+        "w": "dattvā",
+        "gloss": "having made",
+        "gram": "abs. √dā"
+       }
+      ]
+     },
+     {
+      "src": "siddhas",
+      "words": [
+       {
+        "w": "siddhaḥ",
+        "gloss": "successful",
+        "gram": "m. nom. sg., ppp. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhet,",
+      "words": [
+       {
+        "w": "tiṣṭhet",
+        "gloss": "should stay",
+        "gram": "3 sg. opt. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "asiddhaḥ",
+      "words": [
+       {
+        "w": "a-siddhaḥ",
+        "gloss": "unsuccessful",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pārśvena-apagacchet",
+      "words": [
+       {
+        "w": "pārśvena",
+        "gloss": "by the flank",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "apagacchet",
+        "gloss": "should go away",
+        "gram": "3 sg. opt. apa-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रात में आक्रमण करके, सफल होने पर वहीं रहे; असफल होने पर बगल से निकल जाए।",
+  "english": "Having made an assault at night, if successful he should stay; if unsuccessful he should go away by the flank.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.37"
+  ],
+  "lines_deva": [
+   "रात्राव् अवस्कन्दं दत्त्वा सिद्धस् तिष्ठेत्, असिद्धः पार्श्वेन-अपगच्छेत्"
+  ],
+  "lines_iast": [
+   "rātrāv avaskandaṃ dattvā siddhas tiṣṭhet, asiddhaḥ pārśvena-apagacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pāṣaṇḍac.chadmanā",
+      "words": [
+       {
+        "w": "pāṣaṇḍa-chadmanā",
+        "gloss": "in the disguise of a heretical ascetic",
+        "gram": "n. inst. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "manda.parivāro",
+      "words": [
+       {
+        "w": "manda-parivāraḥ",
+        "gloss": "with a small retinue",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "nirgacchet",
+      "words": [
+       {
+        "w": "nirgacchet",
+        "gloss": "should go out",
+        "gram": "3 sg. opt. nir-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाषण्ड के छद्मवेश में थोड़े से अनुचरों के साथ बाहर निकल जाए।",
+  "english": "He should go out in the disguise of a heretical ascetic, with a small retinue.",
+  "text_flags": [],
+  "notes": "pāṣaṇḍac.chadmanā: the e-text's dot sits inside the sandhi (pāṣaṇḍa + chadmanā with doubled ch); members pāṣaṇḍa-chadman.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.38"
+  ],
+  "lines_deva": [
+   "पाषण्डच्.छद्मना मन्द.परिवारो निर्गच्छेत्"
+  ],
+  "lines_iast": [
+   "pāṣaṇḍac.chadmanā manda.parivāro nirgacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "preta.vyañjano",
+      "words": [
+       {
+        "w": "preta-vyañjanaḥ",
+        "gloss": "in the guise of a corpse",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gūḍhair",
+      "words": [
+       {
+        "w": "gūḍhaiḥ",
+        "gloss": "by secret agents",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "nihriyeta",
+      "words": [
+       {
+        "w": "nihriyeta",
+        "gloss": "should be carried out",
+        "gram": "3 sg. opt. pass. nir-√hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा शव का रूप धारण करके गुप्तचरों द्वारा बाहर ले जाया जाए।",
+  "english": "Or, in the guise of a corpse, he should be carried out by secret agents.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.39"
+  ],
+  "lines_deva": [
+   "प्रेत.व्यञ्जनो वा गूढैर् निह्रियेत"
+  ],
+  "lines_iast": [
+   "preta.vyañjano vā gūḍhair nihriyeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "strī.veṣa.dhārī",
+      "words": [
+       {
+        "w": "strī-veṣa-dhārī",
+        "gloss": "wearing a woman's dress",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pretam",
+      "words": [
+       {
+        "w": "pretam",
+        "gloss": "a corpse",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anugacchet",
+      "words": [
+       {
+        "w": "anugacchet",
+        "gloss": "should follow",
+        "gram": "3 sg. opt. anu-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा स्त्री का वेश धारण करके किसी शव के पीछे-पीछे चला जाए।",
+  "english": "Or, wearing a woman's dress, he should follow a corpse.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.40"
+  ],
+  "lines_deva": [
+   "स्त्री.वेष.धारी वा प्रेतम् अनुगच्छेत्"
+  ],
+  "lines_iast": [
+   "strī.veṣa.dhārī vā pretam anugacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daivata.upahāra.śrāddha.prahavaṇeṣu",
+      "words": [
+       {
+        "w": "daivata-upahāra-śrāddha-prahavaṇeṣu",
+        "gloss": "at offerings to deities, ancestral rites and sacrificial feasts",
+        "gram": "n. loc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasa.viddham",
+      "words": [
+       {
+        "w": "rasa-viddham",
+        "gloss": "mixed with poison",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anna.pānam",
+      "words": [
+       {
+        "w": "anna-pānam",
+        "gloss": "food and drink",
+        "gram": "n. acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "avasṛjya",
+      "words": [
+       {
+        "w": "avasṛjya",
+        "gloss": "having set out",
+        "gram": "abs. ava-√sṛj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा देवताओं के उपहार, श्राद्ध या यज्ञ-भोजों में विष-मिला अन्न-पान परोसकर,",
+  "english": "Or at offerings to deities, ancestral rites or sacrificial feasts, having set out food and drink mixed with poison,",
+  "text_flags": [],
+  "notes": "The sentence continues in unit 42. prahavaṇa: a sacrificial feast or banquet.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.41"
+  ],
+  "lines_deva": [
+   "दैवत.उपहार.श्राद्ध.प्रहवणेषु वा रस.विद्धम् अन्न.पानम् अवसृज्य"
+  ],
+  "lines_iast": [
+   "daivata.upahāra.śrāddha.prahavaṇeṣu vā rasa.viddham anna.pānam avasṛjya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛta.upajāpo",
+      "words": [
+       {
+        "w": "kṛta-upajāpaḥ",
+        "gloss": "having made secret instigation",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dūṣya.vyañjanair",
+      "words": [
+       {
+        "w": "dūṣya-vyañjanaiḥ",
+        "gloss": "with agents in the guise of treasonable men",
+        "gram": "m. inst. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "niṣpatya",
+      "words": [
+       {
+        "w": "niṣpatya",
+        "gloss": "having sallied out",
+        "gram": "abs. niṣ-√pat"
+       }
+      ]
+     },
+     {
+      "src": "gūḍha.sainyo",
+      "words": [
+       {
+        "w": "gūḍha-sainyaḥ",
+        "gloss": "with a hidden army",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "'bhihanyāt",
+      "words": [
+       {
+        "w": "abhihanyāt",
+        "gloss": "should strike",
+        "gram": "3 sg. opt. abhi-√han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुप्त उकसावा करके, दूष्यों का रूप धारण किये हुए गुप्तचरों के साथ निकलकर, छिपी हुई सेना सहित प्रहार करे।",
+  "english": "having made secret instigation, he should sally out with agents in the guise of treasonable men and strike with his hidden army.",
+  "text_flags": [],
+  "notes": "Continues unit 41. dūṣya-vyañjanaiḥ may instead belong to kṛta-upajāpaḥ: 'having made secret instigation through agents in the guise of treasonable men, he should sally out and strike with his hidden army'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.42"
+  ],
+  "lines_deva": [
+   "कृत.उपजापो दूष्य.व्यञ्जनैर् निष्पत्य गूढ.सैन्यो ऽभिहन्यात्"
+  ],
+  "lines_iast": [
+   "kṛta.upajāpo dūṣya.vyañjanair niṣpatya gūḍha.sainyo 'bhihanyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛhīta.durgo",
+      "words": [
+       {
+        "w": "gṛhīta-durgaḥ",
+        "gloss": "whose fort has been taken",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāśya.prāśaṃ",
+      "words": [
+       {
+        "w": "prāśya-prāśam",
+        "gloss": "a feast of offerings (uncertain)",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "caityam",
+      "words": [
+       {
+        "w": "caityam",
+        "gloss": "a shrine",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upasthāpya",
+      "words": [
+       {
+        "w": "upasthāpya",
+        "gloss": "having set up",
+        "gram": "abs. caus. upa-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "daivata.pratimāc.chidraṃ",
+      "words": [
+       {
+        "w": "daivata-pratimā-chidram",
+        "gloss": "a hollow in the deity's image",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "praviśya-āsīta,",
+      "words": [
+       {
+        "w": "praviśya",
+        "gloss": "having entered",
+        "gram": "abs. pra-√viś"
+       },
+       {
+        "w": "āsīta",
+        "gloss": "should stay",
+        "gram": "3 sg. opt. √ās"
+       }
+      ]
+     },
+     {
+      "src": "gūḍha.bhittiṃ",
+      "words": [
+       {
+        "w": "gūḍha-bhittim",
+        "gloss": "a hidden wall",
+        "gram": "f. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daivata.pratimā.yuktaṃ",
+      "words": [
+       {
+        "w": "daivata-pratimā-yuktam",
+        "gloss": "fitted with a deity's image",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.gṛham",
+      "words": [
+       {
+        "w": "bhūmi-gṛham",
+        "gloss": "an underground chamber",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा इस प्रकार दुर्ग छिन जाने पर, भोजन-उपहार वाला एक चैत्य स्थापित करके, देव-प्रतिमा के खोखले भाग में, अथवा गुप्त दीवार में, अथवा देव-प्रतिमा से युक्त भूमिगृह में प्रवेश करके वहीं रहे।",
+  "english": "Or, his fort thus taken, having set up a shrine with a feast of offerings, he should enter and stay in a hollow of the deity's image, or in a hidden wall, or in an underground chamber fitted with a deity's image.",
+  "text_flags": [],
+  "notes": "prāśya-prāśa is obscure: literally 'eating of what is to be eaten', apparently a shrine at which food offerings are consumed; rendered loosely. gūḍha-bhittim and bhūmi-gṛham are further objects of praviśya.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "12.05.43"
+  ],
+  "lines_deva": [
+   "एवं गृहीत.दुर्गो वा प्राश्य.प्राशं चैत्यम् उपस्थाप्य दैवत.प्रतिमाच्.छिद्रं प्रविश्य-आसीत, गूढ.भित्तिं वा, दैवत.प्रतिमा.युक्तं वा भूमि.गृहम्"
+  ],
+  "lines_iast": [
+   "evaṃ gṛhīta.durgo vā prāśya.prāśaṃ caityam upasthāpya daivata.pratimāc.chidraṃ praviśya-āsīta, gūḍha.bhittiṃ vā, daivata.pratimā.yuktaṃ vā bhūmi.gṛham"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vismṛte",
+      "words": [
+       {
+        "w": "vismṛte",
+        "gloss": "when forgotten",
+        "gram": "n. loc. sg., ppp. vi-√smṛ"
+       }
+      ]
+     },
+     {
+      "src": "suruṅgayā",
+      "words": [
+       {
+        "w": "suruṅgayā",
+        "gloss": "by a tunnel",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rātrau",
+      "words": [
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.āvāsam",
+      "words": [
+       {
+        "w": "rāja-āvāsam",
+        "gloss": "the royal residence",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anupraviśya",
+      "words": [
+       {
+        "w": "anupraviśya",
+        "gloss": "having entered",
+        "gram": "abs. anu-pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "suptam",
+      "words": [
+       {
+        "w": "suptam",
+        "gloss": "asleep",
+        "gram": "m. acc. sg., ppp. √svap"
+       }
+      ]
+     },
+     {
+      "src": "amitraṃ",
+      "words": [
+       {
+        "w": "amitram",
+        "gloss": "the enemy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hanyāt",
+      "words": [
+       {
+        "w": "hanyāt",
+        "gloss": "should kill",
+        "gram": "3 sg. opt. √han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब बात भुला दी जाए, तब रात में सुरंग से राज-निवास में घुसकर सोये हुए शत्रु को मार डाले।",
+  "english": "When the matter has been forgotten, he should enter the royal residence at night by a tunnel and kill the enemy while asleep.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.44"
+  ],
+  "lines_deva": [
+   "विस्मृते सुरुङ्गया रात्रौ राज.आवासम् अनुप्रविश्य सुप्तम् अमित्रं हन्यात्"
+  ],
+  "lines_iast": [
+   "vismṛte suruṅgayā rātrau rāja.āvāsam anupraviśya suptam amitraṃ hanyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yantra.viśleṣaṇaṃ",
+      "words": [
+       {
+        "w": "yantra-viśleṣaṇam",
+        "gloss": "a detachable machine",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśleṣya-adhastād",
+      "words": [
+       {
+        "w": "viśleṣya",
+        "gloss": "having loosened",
+        "gram": "abs. vi-√śliṣ"
+       },
+       {
+        "w": "adhastāt",
+        "gloss": "below",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "avapātayet",
+      "words": [
+       {
+        "w": "avapātayet",
+        "gloss": "should make fall down",
+        "gram": "3 sg. opt. caus. ava-√pat"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा अलग हो सकने वाले यन्त्र को ढीला करके उसे नीचे गिरा दे।",
+  "english": "Or, having loosened a detachable machine, he should make him fall down below.",
+  "text_flags": [],
+  "notes": "yantra-viśleṣaṇa: a mechanism built to come apart; the object of avapātayet (the enemy) is understood.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.45"
+  ],
+  "lines_deva": [
+   "यन्त्र.विश्लेषणं वा विश्लेष्य-अधस्ताद् अवपातयेत्"
+  ],
+  "lines_iast": [
+   "yantra.viśleṣaṇaṃ vā viśleṣya-adhastād avapātayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rasa.agni.yogena-avaliptaṃ",
+      "words": [
+       {
+        "w": "rasa-agni-yogena",
+        "gloss": "with a mixture of poison and fire",
+        "gram": "m. inst. sg., tat-puruṣa"
+       },
+       {
+        "w": "avaliptam",
+        "gloss": "smeared",
+        "gram": "n. acc. sg., ppp. ava-√lip"
+       }
+      ]
+     },
+     {
+      "src": "gṛhaṃ",
+      "words": [
+       {
+        "w": "gṛham",
+        "gloss": "a house",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jatu.gṛhaṃ",
+      "words": [
+       {
+        "w": "jatu-gṛham",
+        "gloss": "a house of lac",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā-adhiśayānam",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "adhiśayānam",
+        "gloss": "sleeping in it",
+        "gram": "m. acc. sg., pres. part. adhi-√śī"
+       }
+      ]
+     },
+     {
+      "src": "amitram",
+      "words": [
+       {
+        "w": "amitram",
+        "gloss": "the enemy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādīpayet",
+      "words": [
+       {
+        "w": "ādīpayet",
+        "gloss": "should set on fire",
+        "gram": "3 sg. opt. caus. ā-√dīp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा विष और अग्नि के योग से लिपे हुए घर या लाख के घर में सोये हुए शत्रु को जला दे।",
+  "english": "Or he should set fire to the enemy sleeping in a house smeared with a mixture of poison and fire, or in a house of lac.",
+  "text_flags": [],
+  "notes": "rasa-agni-yoga: an incendiary preparation (fire-poison compound).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.46"
+  ],
+  "lines_deva": [
+   "रस.अग्नि.योगेन-अवलिप्तं गृहं जतु.गृहं वा-अधिशयानम् अमित्रम् आदीपयेत्"
+  ],
+  "lines_iast": [
+   "rasa.agni.yogena-avaliptaṃ gṛhaṃ jatu.gṛhaṃ vā-adhiśayānam amitram ādīpayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pramada.vana.vihārāṇām",
+      "words": [
+       {
+        "w": "pramada-vana-vihārāṇām",
+        "gloss": "of the pleasure-grove and recreation spots",
+        "gram": "m. gen. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "anyatame",
+      "words": [
+       {
+        "w": "anyatame",
+        "gloss": "in one",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vihāra.sthāne",
+      "words": [
+       {
+        "w": "vihāra-sthāne",
+        "gloss": "resting place",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pramattaṃ",
+      "words": [
+       {
+        "w": "pramattam",
+        "gloss": "off guard",
+        "gram": "m. acc. sg., ppp. pra-√mad"
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.gṛha.suruṅgā.gūḍha.bhitti.praviṣṭās",
+      "words": [
+       {
+        "w": "bhūmi-gṛha-suruṅgā-gūḍha-bhitti-praviṣṭāḥ",
+        "gloss": "entered through an underground chamber, a tunnel or a hidden wall",
+        "gram": "m. nom. pl., tat-puruṣa with dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tīkṣṇā",
+      "words": [
+       {
+        "w": "tīkṣṇāḥ",
+        "gloss": "assassins",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hanyuḥ,",
+      "words": [
+       {
+        "w": "hanyuḥ",
+        "gloss": "should kill",
+        "gram": "3 pl. opt. √han"
+       }
+      ]
+     },
+     {
+      "src": "gūḍha.praṇihitā",
+      "words": [
+       {
+        "w": "gūḍha-praṇihitāḥ",
+        "gloss": "secretly stationed",
+        "gram": "m. nom. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rasena",
+      "words": [
+       {
+        "w": "rasena",
+        "gloss": "with poison",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा प्रमदवन और विहार-स्थलों में से किसी एक विहार-स्थान में, असावधान शत्रु को भूमिगृह, सुरंग या गुप्त दीवार से घुसे हुए तीक्ष्ण मार डालें, अथवा गुप्त रूप से बैठाए हुए लोग विष से।",
+  "english": "Or in one of the resting places among the pleasure-grove and recreation spots, assassins who have entered through an underground chamber, a tunnel or a hidden wall should kill him when off guard, or men secretly stationed should kill him with poison.",
+  "text_flags": [],
+  "notes": "tīkṣṇa: the 'fierce' agents, i.e. assassins, a fixed class of secret agent in the text.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.47"
+  ],
+  "lines_deva": [
+   "प्रमद.वन.विहाराणाम् अन्यतमे वा विहार.स्थाने प्रमत्तं भूमि.गृह.सुरुङ्गा.गूढ.भित्ति.प्रविष्टास् तीक्ष्णा हन्युः, गूढ.प्रणिहिता वा रसेन"
+  ],
+  "lines_iast": [
+   "pramada.vana.vihārāṇām anyatame vā vihāra.sthāne pramattaṃ bhūmi.gṛha.suruṅgā.gūḍha.bhitti.praviṣṭās tīkṣṇā hanyuḥ, gūḍha.praṇihitā vā rasena"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svapato",
+      "words": [
+       {
+        "w": "svapataḥ",
+        "gloss": "of him sleeping",
+        "gram": "m. gen. sg., pres. part. √svap"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niruddhe",
+      "words": [
+       {
+        "w": "niruddhe",
+        "gloss": "in an enclosed",
+        "gram": "m. loc. sg., ppp. ni-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "deśe",
+      "words": [
+       {
+        "w": "deśe",
+        "gloss": "place",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gūḍhāḥ",
+      "words": [
+       {
+        "w": "gūḍhāḥ",
+        "gloss": "hidden",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "striyaḥ",
+      "words": [
+       {
+        "w": "striyaḥ",
+        "gloss": "women",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarpa.rasa.agni.dhūmān",
+      "words": [
+       {
+        "w": "sarpa-rasa-agni-dhūmān",
+        "gloss": "snakes, poison, fire and smoke",
+        "gram": "m. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "upari",
+      "words": [
+       {
+        "w": "upari",
+        "gloss": "from above",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "muñceyuḥ",
+      "words": [
+       {
+        "w": "muñceyuḥ",
+        "gloss": "should let loose",
+        "gram": "3 pl. opt. √muc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा जब वह किसी बन्द स्थान में सो रहा हो, तब छिपी हुई स्त्रियाँ ऊपर से उस पर साँप, विष, अग्नि या धुआँ छोड़ें।",
+  "english": "Or when he is sleeping in an enclosed place, hidden women should let loose snakes, poison, fire or smoke on him from above.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.48"
+  ],
+  "lines_deva": [
+   "स्वपतो वा निरुद्धे देशे गूढाः स्त्रियः सर्प.रस.अग्नि.धूमान् उपरि मुञ्चेयुः"
+  ],
+  "lines_iast": [
+   "svapato vā niruddhe deśe gūḍhāḥ striyaḥ sarpa.rasa.agni.dhūmān upari muñceyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratyutpanne",
+      "words": [
+       {
+        "w": "pratyutpanne",
+        "gloss": "when arisen",
+        "gram": "n. loc. sg., ppp. prati-ud-√pad"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇe",
+      "words": [
+       {
+        "w": "kāraṇe",
+        "gloss": "an occasion",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "whatever",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upapadyeta",
+      "words": [
+       {
+        "w": "upapadyeta",
+        "gloss": "may be feasible",
+        "gram": "3 sg. opt. upa-√pad"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitre",
+      "words": [
+       {
+        "w": "amitre",
+        "gloss": "against the enemy",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'ntaḥ.pura.gate",
+      "words": [
+       {
+        "w": "antaḥ-pura-gate",
+        "gloss": "gone into the inner quarters",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gūḍha.sañcāraḥ",
+      "words": [
+       {
+        "w": "gūḍha-sañcāraḥ",
+        "gloss": "one moving in secret",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "prayuñjīta",
+      "words": [
+       {
+        "w": "prayuñjīta",
+        "gloss": "should employ",
+        "gram": "3 sg. opt. pra-√yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा अवसर उपस्थित होने पर, जो-जो सम्भव हो, वह-वह गुप्त रूप से विचरने वाला व्यक्ति अन्तःपुर में गये हुए शत्रु के विरुद्ध प्रयोग करे।",
+  "english": "Or when an occasion arises, one moving in secret should employ against the enemy, when he has gone into the inner quarters, whatever may be feasible.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.49"
+  ],
+  "lines_deva": [
+   "प्रत्युत्पन्ने वा कारणे यद् यद् उपपद्येत तत् तद् अमित्रे ऽन्तः.पुर.गते गूढ.सञ्चारः प्रयुञ्जीत"
+  ],
+  "lines_iast": [
+   "pratyutpanne vā kāraṇe yad yad upapadyeta tat tad amitre 'ntaḥ.pura.gate gūḍha.sañcāraḥ prayuñjīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gūḍham",
+      "words": [
+       {
+        "w": "gūḍham",
+        "gloss": "secretly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eva-apagacchet,",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed (emphatic)",
+        "gram": "ind."
+       },
+       {
+        "w": "apagacchet",
+        "gloss": "should go away",
+        "gram": "3 sg. opt. apa-√gam"
+       }
+      ]
+     },
+     {
+      "src": "svajana.sañjñāṃ",
+      "words": [
+       {
+        "w": "sva-jana-sañjñām",
+        "gloss": "the signal to his own people",
+        "gram": "f. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prarūpayet",
+      "words": [
+       {
+        "w": "prarūpayet",
+        "gloss": "should display",
+        "gram": "3 sg. opt. pra-√rūp (cl. 10)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर वह गुप्त रूप से ही निकल जाए और अपने लोगों को संकेत दिखाए।",
+  "english": "Then he should go away quite secretly, and he should display the signal to his own people.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.50"
+  ],
+  "lines_deva": [
+   "ततो गूढम् एव-अपगच्छेत्, स्वजन.सञ्ज्ञां च प्ररूपयेत्"
+  ],
+  "lines_iast": [
+   "tato gūḍham eva-apagacchet, svajana.sañjñāṃ ca prarūpayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvāhsthān",
+      "words": [
+       {
+        "w": "dvāḥ-sthān",
+        "gloss": "door-keepers",
+        "gram": "m. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "varṣadharāṃś",
+      "words": [
+       {
+        "w": "varṣadharān",
+        "gloss": "eunuch attendants",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-anyān",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anyān",
+        "gloss": "others",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "nigūḍha.upahitān",
+      "words": [
+       {
+        "w": "nigūḍha-upahitān",
+        "gloss": "secretly placed",
+        "gram": "m. acc. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "pare",
+      "words": [
+       {
+        "w": "pare",
+        "gloss": "with the enemy",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tūrya.sañjñābhir",
+      "words": [
+       {
+        "w": "tūrya-sañjñābhiḥ",
+        "gloss": "by trumpet signals",
+        "gram": "f. inst. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "āhūya",
+      "words": [
+       {
+        "w": "āhūya",
+        "gloss": "having summoned",
+        "gram": "abs. ā-√hve"
+       }
+      ]
+     },
+     {
+      "src": "dviṣat.śeṣāṇi",
+      "words": [
+       {
+        "w": "dviṣat-śeṣāṇi",
+        "gloss": "the remnants of the enemy",
+        "gram": "n. acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ghātayet",
+      "words": [
+       {
+        "w": "ghātayet",
+        "gloss": "should have killed",
+        "gram": "3 sg. opt. caus. √han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रु के पास गुप्त रूप से बैठाए हुए द्वारपालों, वर्षधरों और अन्य लोगों को तूर्य के संकेतों से बुलाकर शत्रु के बचे हुए लोगों का वध करवाए।",
+  "english": "Having summoned by trumpet signals the door-keepers, eunuch attendants and others secretly placed with the enemy, he should have the remnants of the enemy killed.",
+  "text_flags": [
+   {
+    "src": "dvāhsthān",
+    "suggest": "dvāḥsthān",
+    "why": "dvāḥ-stha 'door-keeper' takes visarga (dvāḥ) before stha; 'h' for 'ḥ' looks like a typing slip (Devanagari द्वाह्स्थान् for द्वाःस्थान्)"
+   }
+  ],
+  "notes": "Verse (śloka); 16 syllables each half. dviṣat.śeṣāṇi: the e-text keeps dviṣat unsandhied before ś (print would read dviṣacch-).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "12.05.51a",
+   "12.05.51b"
+  ],
+  "lines_deva": [
+   "द्वाह्स्थान् वर्षधरांश् च-अन्यान् निगूढ.उपहितान् परे",
+   "तूर्य.सञ्ज्ञाभिर् आहूय द्विषत्.शेषाणि घातयेत्"
+  ],
+  "lines_iast": [
+   "dvāhsthān varṣadharāṃś ca-anyān nigūḍha.upahitān pare",
+   "tūrya.sañjñābhir āhūya dviṣat.śeṣāṇi ghātayet"
+  ],
+  "uncertain": []
+ }
+]
