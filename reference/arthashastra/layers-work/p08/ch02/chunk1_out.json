@@ -1,0 +1,2545 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājyam",
+      "words": [
+       {
+        "w": "rājyam",
+        "gloss": "kingdom",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakṛti.saṅkṣepaḥ",
+      "words": [
+       {
+        "w": "prakṛti-saṅkṣepaḥ",
+        "gloss": "the sum of the constituent elements",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "राजा और राज्य — यह प्रकृतियों का संक्षेप है।",
+  "english": "The king and the kingdom: this is the sum of the constituent elements.",
+  "text_flags": [],
+  "notes": "saṅkṣepa = abridgement: the seven prakṛtis are summed up as king (svāmin) and kingdom (the other six).",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rājño",
+      "words": [
+       {
+        "w": "rājñaḥ",
+        "gloss": "of the king",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "'bhyantaro",
+      "words": [
+       {
+        "w": "abhyantaraḥ",
+        "gloss": "internal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhyo",
+      "words": [
+       {
+        "w": "bāhyaḥ",
+        "gloss": "external",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopa",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "revolt (kopa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "राजा का कोप आन्तरिक अथवा बाह्य होता है — यह विषय है।",
+  "english": "A revolt (kopa) against the king is either internal or external: this is the topic.",
+  "text_flags": [],
+  "notes": "kopa literally 'anger'; here the disaffection or revolt that is a calamity of the king (the genitive rājñaḥ is literally 'of the king'). iti marks the line as a heading of the topic discussed next.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ahi.bhayād",
+      "words": [
+       {
+        "w": "ahi-bhayāt",
+        "gloss": "than / like the fear of a snake",
+        "gram": "n. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "abhyantaraḥ",
+      "words": [
+       {
+        "w": "abhyantaraḥ",
+        "gloss": "internal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kopo",
+      "words": [
+       {
+        "w": "kopaḥ",
+        "gloss": "revolt",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.kopāt",
+      "words": [
+       {
+        "w": "bāhya-kopāt",
+        "gloss": "than external revolt",
+        "gram": "m. abl. sg. (karma-dhāraya)"
+       }
+      ]
+     },
+     {
+      "src": "pāpīyān,",
+      "words": [
+       {
+        "w": "pāpīyān",
+        "gloss": "worse",
+        "gram": "m. nom. sg. compar."
+       }
+      ]
+     },
+     {
+      "src": "antar.amātya.kopaś",
+      "words": [
+       {
+        "w": "antar-amātya-kopaḥ",
+        "gloss": "revolt of the ministers within",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca-antaḥ.kopāt",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "antaḥ-kopāt",
+        "gloss": "than internal revolt",
+        "gram": "m. abl. sg. (karma-dhāraya)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सर्प के भय के समान आन्तरिक कोप बाह्य कोप से अधिक अनिष्टकारी है, और भीतरी अमात्यों का कोप आन्तरिक कोप से भी अधिक अनिष्टकारी है।",
+  "english": "Like the danger from a snake, internal revolt is worse than external revolt; and revolt of the ministers within is worse than internal revolt.",
+  "text_flags": [],
+  "notes": "ahi-bhayāt is an ablative of comparison read here as a simile ('as with fear of a snake [close at hand]'); it could also be causal ('because of a snake-like danger'). The second clause supplies pāpīyān from the first.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāt",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kośa.daṇḍa.śaktim",
+      "words": [
+       {
+        "w": "kośa-daṇḍa-śaktim",
+        "gloss": "the power of treasury and army",
+        "gram": "f. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ātma.saṃsthāṃ",
+      "words": [
+       {
+        "w": "ātma-saṃsthām",
+        "gloss": "resting in himself",
+        "gram": "f. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "kurvīta",
+      "words": [
+       {
+        "w": "kurvīta",
+        "gloss": "should make",
+        "gram": "3 sg. opt. ātm. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए राजा कोश और दण्ड की शक्ति को अपने ही अधीन रखे।",
+  "english": "Therefore he should keep the power of treasury and army under his own control.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"dvairājya.vairājyayor",
+      "words": [
+       {
+        "w": "dvairājya-vairājyayoḥ",
+        "gloss": "of dual rule and foreign rule",
+        "gram": "n. gen./loc. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "dvairājyam",
+      "words": [
+       {
+        "w": "dvairājyam",
+        "gloss": "dual rule",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyonya.pakṣa.dveṣa.anurāgābhyāṃ",
+      "words": [
+       {
+        "w": "anyonya-pakṣa-dveṣa-anurāgābhyām",
+        "gloss": "by hatred and partiality towards each other's party",
+        "gram": "m. inst. du. (tat-puruṣa, dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "paraspara.saṅgharṣeṇa",
+      "words": [
+       {
+        "w": "paraspara-saṅgharṣeṇa",
+        "gloss": "by mutual rivalry",
+        "gram": "m. inst. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vinaśyati,",
+      "words": [
+       {
+        "w": "vinaśyati",
+        "gloss": "perishes",
+        "gram": "3 sg. pres. vi-√naś"
+       }
+      ]
+     },
+     {
+      "src": "vairājyaṃ",
+      "words": [
+       {
+        "w": "vairājyam",
+        "gloss": "foreign rule (vairājya)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but; however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakṛti.citta.grahaṇa.apekṣi",
+      "words": [
+       {
+        "w": "prakṛti-citta-grahaṇa-apekṣi",
+        "gloss": "looking to winning the hearts of the constituent elements",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "yathā.sthitam",
+      "words": [
+       {
+        "w": "yathā-sthitam",
+        "gloss": "as it stands",
+        "gram": "n. nom. sg. (avyayībhāva/adj.)"
+       }
+      ]
+     },
+     {
+      "src": "anyair",
+      "words": [
+       {
+        "w": "anyaiḥ",
+        "gloss": "by others",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhujyate\"",
+      "words": [
+       {
+        "w": "bhujyate",
+        "gloss": "is enjoyed",
+        "gram": "3 sg. pres. pass. √bhuj"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"द्वैराज्य और वैराज्य में से द्वैराज्य एक-दूसरे के पक्ष के प्रति द्वेष और अनुराग से अथवा परस्पर संघर्ष से नष्ट हो जाता है; वैराज्य तो प्रकृतियों के चित्त को जीतने की अपेक्षा रखता हुआ, जैसा है वैसा ही दूसरों के द्वारा भोगा जाता है\" — ऐसा आचार्य कहते हैं।",
+  "english": "\"Of dual rule (dvairājya) and foreign rule (vairājya), dual rule perishes through hatred and partiality towards each other's party, or through mutual rivalry; foreign rule, however, looking to the winning of the hearts of the constituent elements, is enjoyed by others as it stands,\" say the teachers.",
+  "text_flags": [],
+  "notes": "dvairājya = rule by two kings jointly; vairājya = rule by a foreigner (one who is not the hereditary king). anyaiḥ 'by others' = the foreign rulers.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नहीं, ऐसा कौटिल्य कहते हैं।",
+  "english": "Not so, says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pitā.putrayor",
+      "words": [
+       {
+        "w": "pitā-putrayoḥ",
+        "gloss": "of father and son",
+        "gram": "m. gen. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "bhrātror",
+      "words": [
+       {
+        "w": "bhrātroḥ",
+        "gloss": "of two brothers",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvairājyaṃ",
+      "words": [
+       {
+        "w": "dvairājyam",
+        "gloss": "dual rule",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tulya.yoga.kṣemam",
+      "words": [
+       {
+        "w": "tulya-yoga-kṣemam",
+        "gloss": "having equal acquisition and security",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "amātya.avagrahaṃ",
+      "words": [
+       {
+        "w": "amātya-avagraham",
+        "gloss": "having restraint by the ministers",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vartayati",
+      "words": [
+       {
+        "w": "vartayati",
+        "gloss": "carries on",
+        "gram": "3 sg. pres. caus. √vṛt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पिता-पुत्र का अथवा दो भाइयों का द्वैराज्य, जिसमें योग और क्षेम समान हों और अमात्यों का नियन्त्रण हो, चलता रहता है।",
+  "english": "Dual rule of father and son or of two brothers, with equal acquisition and security and with restraint by the ministers, carries on.",
+  "text_flags": [],
+  "notes": "tulya-yoga-kṣemam and amātya-avagraham taken as adjectives of dvairājyam; they could also be adverbial accusatives ('carries on with equal yoga-kṣema and under ministers' restraint'). amātya-avagraha = the check that ministers exercise (alternatively 'a hold over the ministers').",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vairājyaṃ",
+      "words": [
+       {
+        "w": "vairājyam",
+        "gloss": "foreign rule",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but; however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvataḥ",
+      "words": [
+       {
+        "w": "jīvataḥ",
+        "gloss": "of one living",
+        "gram": "m. gen. sg. pres. part. √jīv"
+       }
+      ]
+     },
+     {
+      "src": "parasya-ācchidya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of another",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ācchidya",
+        "gloss": "having wrested",
+        "gram": "abs. ā-√chid"
+       }
+      ]
+     },
+     {
+      "src": "\"na-etan",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mama\"",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "mine",
+        "gram": "gen. sg. of aham"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manyamānaḥ",
+      "words": [
+       {
+        "w": "manyamānaḥ",
+        "gloss": "thinking",
+        "gram": "m. nom. sg. pres. part. ātm. √man"
+       }
+      ]
+     },
+     {
+      "src": "karśayati,",
+      "words": [
+       {
+        "w": "karśayati",
+        "gloss": "impoverishes",
+        "gram": "3 sg. pres. caus. √kṛś"
+       }
+      ]
+     },
+     {
+      "src": "apavāhayati,",
+      "words": [
+       {
+        "w": "apavāhayati",
+        "gloss": "carries away",
+        "gram": "3 sg. pres. caus. apa-√vah"
+       }
+      ]
+     },
+     {
+      "src": "paṇyaṃ",
+      "words": [
+       {
+        "w": "paṇyam",
+        "gloss": "an article of sale",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karoti,",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "makes",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "viraktaṃ",
+      "words": [
+       {
+        "w": "viraktam",
+        "gloss": "disaffected",
+        "gram": "n. acc. sg. ppp. vi-√rañj"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parityajya-apagacchati-iti",
+      "words": [
+       {
+        "w": "parityajya",
+        "gloss": "having abandoned",
+        "gram": "abs. pari-√tyaj"
+       },
+       {
+        "w": "apagacchati",
+        "gloss": "goes away",
+        "gram": "3 sg. pres. apa-√gam"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैराज्य में तो, जीवित दूसरे से राज्य छीनकर \"यह मेरा नहीं है\" ऐसा मानता हुआ वह उसे क्षीण करता है, उसका धन ले जाता है, अथवा उसे बिक्री की वस्तु बना देता है, अथवा उसके विरक्त हो जाने पर उसे छोड़कर चला जाता है।",
+  "english": "Foreign rule, however: having wrested (the kingdom) from another who is alive, thinking \"this is not mine\", he impoverishes it, carries (its wealth) away, or makes it an article of sale, or, when it has become disaffected, abandons it and goes away.",
+  "text_flags": [],
+  "notes": "The object (the kingdom) is understood from vairājyam. apavāhayati 'causes to be carried off' = drains its wealth; viraktam 'disaffected' agrees with the understood kingdom (its people).",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "andhaś",
+      "words": [
+       {
+        "w": "andhaḥ",
+        "gloss": "blind",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "calita.śāstro",
+      "words": [
+       {
+        "w": "calita-śāstraḥ",
+        "gloss": "deviating from the science",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā-iti",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"aśāstra.cakṣur",
+      "words": [
+       {
+        "w": "aśāstra-cakṣuḥ",
+        "gloss": "lacking the eye of science",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "andho",
+      "words": [
+       {
+        "w": "andhaḥ",
+        "gloss": "blind",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yat.kiñcana.kārī",
+      "words": [
+       {
+        "w": "yat-kiñcana-kārī",
+        "gloss": "doing whatever comes",
+        "gram": "m. nom. sg. (upapada tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "dṛḍha.abhiniveśī",
+      "words": [
+       {
+        "w": "dṛḍha-abhiniveśī",
+        "gloss": "firmly obstinate",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "para.praṇeyo",
+      "words": [
+       {
+        "w": "para-praṇeyaḥ",
+        "gloss": "led by others",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājyam",
+      "words": [
+       {
+        "w": "rājyam",
+        "gloss": "kingdom",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyāyena-upahanti,",
+      "words": [
+       {
+        "w": "anyāyena",
+        "gloss": "by injustice",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "upahanti",
+        "gloss": "destroys",
+        "gram": "3 sg. pres. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "calita.śāstras",
+      "words": [
+       {
+        "w": "calita-śāstraḥ",
+        "gloss": "deviating from the science",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but; however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where; in which matter",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śāstrāc",
+      "words": [
+       {
+        "w": "śāstrāt",
+        "gloss": "from the science",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "calita.matir",
+      "words": [
+       {
+        "w": "calita-matiḥ",
+        "gloss": "whose mind has deviated",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes; is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "śakya.anunayo",
+      "words": [
+       {
+        "w": "śakya-anunayaḥ",
+        "gloss": "able to be won over",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "bhavati\"",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes; is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"अन्धा राजा अथवा शास्त्र से विचलित राजा\" — इस विषय में \"शास्त्ररूपी नेत्र से रहित अन्धा राजा, जो मन में जो आए वही करने वाला, हठी अथवा दूसरों के द्वारा चलाया जाने वाला होता है, अन्याय से राज्य का नाश कर देता है; किन्तु शास्त्र से विचलित राजा जिस विषय में उसकी बुद्धि शास्त्र से हट जाती है, उसमें समझाया जा सकता है\" — ऐसा आचार्य कहते हैं।",
+  "english": "\"A blind king or one deviating from the science (śāstra)\": \"The blind one, lacking the eye of the science, doing whatever comes to him, firmly obstinate or led by others, destroys the kingdom by injustice; the one deviating from the science, however, in whatever matter his mind deviates from the science, there becomes amenable to persuasion,\" say the teachers.",
+  "text_flags": [],
+  "notes": "'blind' = ignorant of the science of politics (aśāstra-cakṣuḥ), not literally sightless. The first rājā iti states the topic (which of the two is worse).",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नहीं, ऐसा कौटिल्य कहते हैं।",
+  "english": "Not so, says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "andho",
+      "words": [
+       {
+        "w": "andhaḥ",
+        "gloss": "blind",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śakyate",
+      "words": [
+       {
+        "w": "śakyate",
+        "gloss": "can be",
+        "gram": "3 sg. pres. pass. √śak"
+       }
+      ]
+     },
+     {
+      "src": "sahāya.sampadā",
+      "words": [
+       {
+        "w": "sahāya-sampadā",
+        "gloss": "by the excellence of helpers",
+        "gram": "f. inst. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "in whichever matter",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "in that matter",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paryavasthāpayitum",
+      "words": [
+       {
+        "w": "paryavasthāpayitum",
+        "gloss": "to be set right",
+        "gram": "inf. caus. pari-ava-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्धे राजा को सहायकों की सम्पत् के बल पर किसी भी विषय में ठीक मार्ग पर स्थापित किया जा सकता है।",
+  "english": "A blind king can be set right in any matter whatever through the excellence of his helpers.",
+  "text_flags": [],
+  "notes": "yatra tatra vā 'in this matter or that' = in whatever matter arises.",
+  "confidence": "high"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "calita.śāstras",
+      "words": [
+       {
+        "w": "calita-śāstraḥ",
+        "gloss": "deviating from the science",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but; however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śāstrād",
+      "words": [
+       {
+        "w": "śāstrāt",
+        "gloss": "from the science",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyathā.abhiniviṣṭa.buddhir",
+      "words": [
+       {
+        "w": "anyathā-abhiniviṣṭa-buddhiḥ",
+        "gloss": "whose mind is set otherwise",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "anyāyena",
+      "words": [
+       {
+        "w": "anyāyena",
+        "gloss": "by injustice",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājyam",
+      "words": [
+       {
+        "w": "rājyam",
+        "gloss": "kingdom",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ātmānaṃ",
+      "words": [
+       {
+        "w": "ātmānam",
+        "gloss": "himself",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-upahanti-iti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upahanti",
+        "gloss": "destroys",
+        "gram": "3 sg. pres. upa-√han"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु शास्त्र से विचलित राजा, जिसकी बुद्धि शास्त्र के विपरीत जमी हुई है, अन्याय से राज्य और अपने आप को नष्ट कर देता है।",
+  "english": "But the one deviating from the science, his mind set otherwise than the science, destroys by injustice both the kingdom and himself.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyādhito",
+      "words": [
+       {
+        "w": "vyādhitaḥ",
+        "gloss": "sick",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "navo",
+      "words": [
+       {
+        "w": "navaḥ",
+        "gloss": "new",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā-iti",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"vyādhito",
+      "words": [
+       {
+        "w": "vyādhitaḥ",
+        "gloss": "sick",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājya.upaghātam",
+      "words": [
+       {
+        "w": "rājya-upaghātam",
+        "gloss": "injury to the kingdom",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "amātya.mūlaṃ",
+      "words": [
+       {
+        "w": "amātya-mūlam",
+        "gloss": "rooted in the ministers",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "prāṇa.ābādhaṃ",
+      "words": [
+       {
+        "w": "prāṇa-ābādham",
+        "gloss": "affliction of life",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājya.mūlam",
+      "words": [
+       {
+        "w": "rājya-mūlam",
+        "gloss": "rooted in the kingdom",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "avāpnoti,",
+      "words": [
+       {
+        "w": "avāpnoti",
+        "gloss": "incurs",
+        "gram": "3 sg. pres. ava-√āp"
+       }
+      ]
+     },
+     {
+      "src": "navas",
+      "words": [
+       {
+        "w": "navaḥ",
+        "gloss": "new",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but; however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.dharma.anugraha.parihāra.dāna.māna.karmabhiḥ",
+      "words": [
+       {
+        "w": "sva-dharma-anugraha-parihāra-dāna-māna-karmabhiḥ",
+        "gloss": "by acts of favour, exemption, gift and honour belonging to his own dharma",
+        "gram": "n. inst. pl. (tat-puruṣa, dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "prakṛti.rañjana.upakāraiś",
+      "words": [
+       {
+        "w": "prakṛti-rañjana-upakāraiḥ",
+        "gloss": "by benefits that please the constituent elements",
+        "gram": "m. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "carati\"",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "acts",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"रोगी राजा अथवा नया राजा\" — इस विषय में \"रोगी राजा अमात्यों के कारण होने वाली राज्य की हानि को अथवा राज्य के कारण होने वाली प्राणों की पीड़ा को प्राप्त होता है; नया राजा तो अपने धर्म के अनुसार अनुग्रह, परिहार, दान और मान के कर्मों से तथा प्रकृतियों को प्रसन्न करने वाले उपकारों से आचरण करता है\" — ऐसा आचार्य कहते हैं।",
+  "english": "\"A sick king or a new king\": \"A sick king incurs injury to the kingdom rooted in the ministers, or affliction of his life rooted in the kingdom; a new king, however, acts with acts of favour, exemption, gift and honour belonging to his own dharma, and with benefits that please the constituent elements,\" say the teachers.",
+  "text_flags": [],
+  "notes": "amātya-mūlam and rājya-mūlam taken as bahuvrīhi adjectives of upaghātam and ābādham. sva-dharma- could also be read as 'in keeping with (the subjects') own dharma'; parihāra = remission of taxes.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नहीं, ऐसा कौटिल्य कहते हैं।",
+  "english": "Not so, says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyādhito",
+      "words": [
+       {
+        "w": "vyādhitaḥ",
+        "gloss": "sick",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā.pravṛttaṃ",
+      "words": [
+       {
+        "w": "yathā-pravṛttam",
+        "gloss": "as it has been going on",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.praṇidhim",
+      "words": [
+       {
+        "w": "rāja-praṇidhim",
+        "gloss": "the royal administration",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "anuvartayati",
+      "words": [
+       {
+        "w": "anuvartayati",
+        "gloss": "keeps going",
+        "gram": "3 sg. pres. caus. anu-√vṛt"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोगी राजा राज-प्रशासन को जैसा चला आ रहा है वैसा ही चलाता रहता है।",
+  "english": "A sick king keeps the royal administration going as it has been carried on.",
+  "text_flags": [],
+  "notes": "rāja-praṇidhi: the king's established arrangement / administration.",
+  "confidence": "high"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "navas",
+      "words": [
+       {
+        "w": "navaḥ",
+        "gloss": "new",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but; however",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bala.āvarjitaṃ",
+      "words": [
+       {
+        "w": "bala-āvarjitam",
+        "gloss": "won by force",
+        "gram": "n. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "\"mama-idaṃ",
+      "words": [
+       {
+        "w": "mama",
+        "gloss": "mine",
+        "gram": "gen. sg. of aham"
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājyam\"",
+      "words": [
+       {
+        "w": "rājyam",
+        "gloss": "kingdom",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā.iṣṭam",
+      "words": [
+       {
+        "w": "yathā-iṣṭam",
+        "gloss": "as he pleases",
+        "gram": "ind. (avyayībhāva)"
+       }
+      ]
+     },
+     {
+      "src": "anavagrahaś",
+      "words": [
+       {
+        "w": "anavagrahaḥ",
+        "gloss": "unrestrained",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "acts",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नया राजा तो बल से जीते हुए राज्य को \"यह राज्य मेरा है\" ऐसा मानकर निरंकुश होकर मनमाना आचरण करता है।",
+  "english": "A new king, however, thinking \"this kingdom is mine\", treats (the kingdom) won by force as he pleases, without restraint.",
+  "text_flags": [],
+  "notes": "bala-āvarjitam 'won over by force' agrees with the understood kingdom (object of carati, 'deals with').",
+  "confidence": "high"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sāmutthāyikair",
+      "words": [
+       {
+        "w": "sāmutthāyikaiḥ",
+        "gloss": "by those who rose up with him",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "avagṛhīto",
+      "words": [
+       {
+        "w": "avagṛhītaḥ",
+        "gloss": "held in check",
+        "gram": "m. nom. sg. ppp. ava-√grah"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājya.upaghātaṃ",
+      "words": [
+       {
+        "w": "rājya-upaghātam",
+        "gloss": "injury to the kingdom",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "marṣayati",
+      "words": [
+       {
+        "w": "marṣayati",
+        "gloss": "tolerates",
+        "gram": "3 sg. pres. caus. √mṛṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा अपने साथ उठ खड़े होने वाले साथियों के द्वारा नियन्त्रित होकर वह राज्य की हानि को सह लेता है।",
+  "english": "Or, held in check by those who rose up with him, he tolerates injury to the kingdom.",
+  "text_flags": [],
+  "notes": "sāmutthāyika = associate in the uprising that brought him to power.",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakṛtiṣv",
+      "words": [
+       {
+        "w": "prakṛtiṣu",
+        "gloss": "among the constituent elements",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "arūḍhaḥ",
+      "words": [
+       {
+        "w": "arūḍhaḥ",
+        "gloss": "not rooted",
+        "gram": "m. nom. sg. ppp. √ruh"
+       }
+      ]
+     },
+     {
+      "src": "sukham",
+      "words": [
+       {
+        "w": "sukham",
+        "gloss": "easily",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ucchettuṃ",
+      "words": [
+       {
+        "w": "ucchettum",
+        "gloss": "to uproot",
+        "gram": "inf. ud-√chid"
+       }
+      ]
+     },
+     {
+      "src": "bhavati-iti",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes; is",
+        "gram": "3 sg. pres. √bhū"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रकृतियों में जड़ न जमाए हुए होने से उसे सरलता से उखाड़ा जा सकता है।",
+  "english": "Not rooted among the constituent elements, he is easy to uproot.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyādhite",
+      "words": [
+       {
+        "w": "vyādhite",
+        "gloss": "in the case of the sick one",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣaḥ",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "distinction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāpa.rogya.pāpa.rogī",
+      "words": [
+       {
+        "w": "pāpa-rogī",
+        "gloss": "having a malignant disease",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       },
+       {
+        "w": "apāpa-rogī",
+        "gloss": "not having a malignant disease",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोगी राजा के विषय में यह भेद है: एक पापरोग से ग्रस्त और दूसरा पापरोग से ग्रस्त न होने वाला।",
+  "english": "In the case of the sick one there is a distinction: one with a malignant disease and one without a malignant disease.",
+  "text_flags": [],
+  "notes": "The printed pāparogyapāparogī is the sandhi of pāpa-rogī + apāpa-rogī (ī + a > ya); the e-text's dots 'rogya.pāpa' misanalyse the compound boundary but the letters are correct, so no text_flag. pāpa-roga = a grave (incurable or disgraceful) disease.",
+  "confidence": "medium"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nave",
+      "words": [
+       {
+        "w": "nave",
+        "gloss": "in the case of the new one",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'py",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "too",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "abhijāto",
+      "words": [
+       {
+        "w": "abhijātaḥ",
+        "gloss": "well-born",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'nabhijāta",
+      "words": [
+       {
+        "w": "anabhijātaḥ",
+        "gloss": "not well-born",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नए राजा के विषय में भी भेद है: कुलीन और अकुलीन।",
+  "english": "In the case of the new one too: well-born and not well-born.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbalo",
+      "words": [
+       {
+        "w": "durbalaḥ",
+        "gloss": "weak",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'bhijāto",
+      "words": [
+       {
+        "w": "abhijātaḥ",
+        "gloss": "well-born",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavān",
+      "words": [
+       {
+        "w": "balavān",
+        "gloss": "strong",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anabhijāto",
+      "words": [
+       {
+        "w": "anabhijātaḥ",
+        "gloss": "not well-born",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā-iti",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"durbalasya-abhijātasya-upajāpaṃ",
+      "words": [
+       {
+        "w": "durbalasya",
+        "gloss": "of the weak",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "abhijātasya",
+        "gloss": "of the well-born",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajāpam",
+        "gloss": "instigation",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "daurbalya.apekṣāḥ",
+      "words": [
+       {
+        "w": "daurbalya-apekṣāḥ",
+        "gloss": "having regard to weakness",
+        "gram": "f. nom. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtayaḥ",
+      "words": [
+       {
+        "w": "prakṛtayaḥ",
+        "gloss": "the constituent elements",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛcchreṇa-upagacchanti,",
+      "words": [
+       {
+        "w": "kṛcchreṇa",
+        "gloss": "with difficulty",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upagacchanti",
+        "gloss": "go along with",
+        "gram": "3 pl. pres. upa-√gam"
+       }
+      ]
+     },
+     {
+      "src": "balavataś",
+      "words": [
+       {
+        "w": "balavataḥ",
+        "gloss": "of the strong",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-anabhijātasya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anabhijātasya",
+        "gloss": "of the not well-born",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bala.apekṣāḥ",
+      "words": [
+       {
+        "w": "bala-apekṣāḥ",
+        "gloss": "having regard to strength",
+        "gram": "f. nom. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sukhena\"",
+      "words": [
+       {
+        "w": "sukhena",
+        "gloss": "easily",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "\"दुर्बल कुलीन राजा अथवा बलवान् अकुलीन राजा\" — इस विषय में \"दुर्बल कुलीन राजा के उपजाप को प्रकृतियाँ उसकी दुर्बलता को देखते हुए कठिनाई से स्वीकार करती हैं, और बलवान् अकुलीन राजा के उपजाप को उसके बल को देखते हुए सरलता से\" — ऐसा आचार्य कहते हैं।",
+  "english": "\"A weak king of high birth or a strong king of low birth\": \"The constituent elements, having regard to weakness, go along with the instigation (upajāpa) of a weak king of high birth only with difficulty, but easily with that of a strong king of low birth, having regard to strength,\" say the teachers.",
+  "text_flags": [],
+  "notes": "upajāpa = secret instigation / overtures. The genitive is ambiguous: instigation made by the king (his overtures to win the subjects), or instigation directed against him by an enemy; translated literally as 'of'. Unit 24's visaṃvādayanti favours the first.",
+  "confidence": "medium"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नहीं, ऐसा कौटिल्य कहते हैं।",
+  "english": "Not so, says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbalam",
+      "words": [
+       {
+        "w": "durbalam",
+        "gloss": "weak",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhijātaṃ",
+      "words": [
+       {
+        "w": "abhijātam",
+        "gloss": "well-born",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtayaḥ",
+      "words": [
+       {
+        "w": "prakṛtayaḥ",
+        "gloss": "the constituent elements",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svayam",
+      "words": [
+       {
+        "w": "svayam",
+        "gloss": "of their own accord",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "upanamanti,",
+      "words": [
+       {
+        "w": "upanamanti",
+        "gloss": "submit to",
+        "gram": "3 pl. pres. upa-√nam"
+       }
+      ]
+     },
+     {
+      "src": "jātyam",
+      "words": [
+       {
+        "w": "jātyam",
+        "gloss": "the well-born one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aiśvarya.prakṛtir",
+      "words": [
+       {
+        "w": "aiśvarya-prakṛtiḥ",
+        "gloss": "the constituent element of sovereignty",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "anuvartata",
+      "words": [
+       {
+        "w": "anuvartate",
+        "gloss": "follows",
+        "gram": "3 sg. pres. ātm. anu-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्बल कुलीन राजा के अधीन प्रकृतियाँ स्वयं हो जाती हैं; ऐश्वर्य की प्रकृति कुलीन का अनुसरण करती है।",
+  "english": "The constituent elements of their own accord submit to a weak king of high birth; the constituent element of sovereignty follows the well-born one.",
+  "text_flags": [],
+  "notes": "aiśvarya-prakṛti: either 'the constituents (subjects) of the realm' or 'the nature of sovereignty', i.e. sovereignty by its nature attaches to high birth; glossary rendering kept.",
+  "confidence": "medium"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balavataś",
+      "words": [
+       {
+        "w": "balavataḥ",
+        "gloss": "of the strong",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-anabhijātasya-upajāpaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anabhijātasya",
+        "gloss": "of the not well-born",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upajāpam",
+        "gloss": "instigation",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "visaṃvādayanti,",
+      "words": [
+       {
+        "w": "visaṃvādayanti",
+        "gloss": "frustrate",
+        "gram": "3 pl. pres. caus. vi-sam-√vad"
+       }
+      ]
+     },
+     {
+      "src": "anurāge",
+      "words": [
+       {
+        "w": "anurāge",
+        "gloss": "in affection",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sārvaguṇyam",
+      "words": [
+       {
+        "w": "sārvaguṇyam",
+        "gloss": "the totality of all qualities",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus; so",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और बलवान् अकुलीन राजा के उपजाप को वे विफल कर देती हैं; अनुराग में ही सब गुणों की पूर्णता है।",
+  "english": "And they frustrate the instigation of a strong king of low birth; in affection lies the totality of all qualities.",
+  "text_flags": [],
+  "notes": "visaṃvādayanti 'make false, disappoint': the subjects do not respond to his overtures. anurāga = the subjects' affection for the king.",
+  "confidence": "high"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prayāsa.vadhāt",
+      "words": [
+       {
+        "w": "prayāsa-vadhāt",
+        "gloss": "because of the destruction of effort",
+        "gram": "m. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "sasya.vadho",
+      "words": [
+       {
+        "w": "sasya-vadhaḥ",
+        "gloss": "destruction of the crop",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "muṣṭi.vadhāt",
+      "words": [
+       {
+        "w": "muṣṭi-vadhāt",
+        "gloss": "than destruction of the handful",
+        "gram": "m. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "pāpīyān,",
+      "words": [
+       {
+        "w": "pāpīyān",
+        "gloss": "worse",
+        "gram": "m. nom. sg. compar."
+       }
+      ]
+     },
+     {
+      "src": "nirājīvatvād",
+      "words": [
+       {
+        "w": "nirājīvatvāt",
+        "gloss": "because of leaving no livelihood",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "avṛṣṭir",
+      "words": [
+       {
+        "w": "avṛṣṭiḥ",
+        "gloss": "drought",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ativṛṣṭitaḥ",
+      "words": [
+       {
+        "w": "ativṛṣṭitaḥ",
+        "gloss": "than excessive rain",
+        "gram": "ind. (abl. in -taḥ)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परिश्रम के नष्ट हो जाने के कारण खड़ी फसल का नाश कटी हुई मुट्ठी-भर फसल के नाश से अधिक अनिष्टकारी है; जीविका न रह जाने के कारण अनावृष्टि अतिवृष्टि से अधिक अनिष्टकारी है।",
+  "english": "Because it destroys the effort (spent on it), destruction of the standing crop is worse than destruction of the handful (the reaped grain); because it leaves no livelihood, drought is worse than excessive rain.",
+  "text_flags": [],
+  "notes": "Construed on the pattern of the second half: causal ablative + ablative of comparison. Alternative: 'destruction of the crop is worse than destruction of effort (sowing) and than destruction of the handful'. muṣṭi 'handful' is taken as the reaped grain in hand; it could also mean the seed sown. The two halves are two separate comparisons (crops vs. rain).",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvayor",
+      "words": [
+       {
+        "w": "dvayoḥ",
+        "gloss": "of two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "dvayor",
+      "words": [
+       {
+        "w": "dvayoḥ",
+        "gloss": "of two (each pair)",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "vyasanayoḥ",
+      "words": [
+       {
+        "w": "vyasanayoḥ",
+        "gloss": "calamities",
+        "gram": "n. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtīnāṃ",
+      "words": [
+       {
+        "w": "prakṛtīnām",
+        "gloss": "of the constituent elements",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bala.abalam",
+      "words": [
+       {
+        "w": "bala-abalam",
+        "gloss": "strength and weakness",
+        "gram": "n. nom. sg. (dvandva)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pāramparya.krameṇa-uktaṃ",
+      "words": [
+       {
+        "w": "pāramparya-krameṇa",
+        "gloss": "in order of succession",
+        "gram": "m. inst. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "uktam",
+        "gloss": "has been stated",
+        "gram": "n. nom. sg. ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "yāne",
+      "words": [
+       {
+        "w": "yāne",
+        "gloss": "in marching",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthāne",
+      "words": [
+       {
+        "w": "sthāne",
+        "gloss": "in staying",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇam",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "the reason",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दो-दो व्यसनों के विषय में प्रकृतियों का बल और अबल क्रम-परम्परा से कहा गया है; वही अभियान करने और स्थिर रहने का कारण है।",
+  "english": "For each pair of calamities, the strength and weakness of the constituent elements has been stated in order of succession; it is the reason for marching and for staying.",
+  "text_flags": [],
+  "notes": "Closing verse (anuṣṭubh, 16 syllables a line). dvayor dvayoḥ (repeated) = 'of each two', i.e. of each pair of calamities compared in the chapter. yāne sthāne ca: whether to march (against an enemy in calamity) or to stay.",
+  "confidence": "high"
+ }
+]

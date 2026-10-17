@@ -1,0 +1,113 @@
+{"units":[
+ {"n":"1","verdict":"fix","issues":[
+  {"field":"gram","where":"nāyaka-vardhaki","problem":"Labelled 'm. nom. du., dvandva', but the printed form ends in short -i; the dual of vardhaki would be vardhakī. The note even admits the short -i is 'kept as printed', which contradicts the dual label. Short -i is a compound-stem form: nāyaka-vardhaki-mauhūrtikāḥ is one dvandva (nom. pl.), the e-text's space before mauhūrtikāḥ being a missing compound mark. Sense is unchanged (all three are subjects of māpayeyuḥ).","fix":"m., compound stem (dvandva continued in mauhūrtikāḥ)","severity":"error",
+   "patch":{"n":"1","op":"word","match_w":"nāyaka-vardhaki","field":"gram","value":"m., compound stem (dvandva continued in mauhūrtikāḥ)"}},
+  {"field":"notes","where":"nāyaka.vardhaki read as a dual dvandva","problem":"The note asserts a dual reading that the printed form cannot support (see gram issue).","fix":"nāyaka.vardhaki cannot be a dual (that would be vardhakī); the short -i shows a compound stem, so nāyaka-vardhaki-mauhūrtikāḥ is one dvandva (nom. pl.) and the e-text's space after vardhaki is probably a missing compound mark; all three are subjects of māpayeyuḥ.","severity":"error",
+   "patch":{"n":"1","op":"replace","field":"notes","old":"nāyaka.vardhaki read as a dual dvandva (nāyaka-vardhakī) co-ordinated with mauhūrtikāḥ as subjects of māpayeyuḥ; the e-text's final short -i is kept as printed.","new":"nāyaka.vardhaki cannot be a dual (that would be vardhakī); the short -i shows a compound stem, so nāyaka-vardhaki-mauhūrtikāḥ is one dvandva (nom. pl.) and the e-text's space after vardhaki is probably a missing compound mark; all three are subjects of māpayeyuḥ."}},
+  {"field":"text_flags","where":"nāyaka.vardhaki mauhūrtikāḥ","problem":"The space between vardhaki and mauhūrtikāḥ is most likely an e-text slip for a compound mark (vardhaki is not an inflected form). A text_flags entry {src: 'nāyaka.vardhaki', suggest: 'nāyaka.vardhaki.mauhūrtikāḥ (one compound)', why: 'short -i is a stem form, not nom. du.'} should be added; a person should decide whether a space-vs-dot slip counts as a flaggable typo in this project.","fix":"add text_flags entry as described","severity":"minor"},
+  {"field":"hindi","where":"whole translation","problem":"Bracketed glosses inside the Hindi (बढ़ई, ज्योतिषी, शिविर, मिट्टी का घेरा, बुर्जों) break the glossary rule 'no bracketed glosses inside the translation'. Move them to notes.","fix":"वास्तु-विशेषज्ञ द्वारा प्रशंसित स्थान पर नायक, वर्धकि और मौहूर्तिक स्कन्धावार को मापें — गोल, लम्बा या चौकोर, अथवा भूमि के अनुसार — चार द्वारों, छह मार्गों और नौ विभागों वाला, खाई, वप्र, प्राकार, द्वारों और अट्टालकों से युक्त, भय के स्थान में और पड़ाव के स्थान में भी।","severity":"error",
+   "patch":{"n":"1","op":"set","field":"hindi","value":"वास्तु-विशेषज्ञ द्वारा प्रशंसित स्थान पर नायक, वर्धकि और मौहूर्तिक स्कन्धावार को मापें — गोल, लम्बा या चौकोर, अथवा भूमि के अनुसार — चार द्वारों, छह मार्गों और नौ विभागों वाला, खाई, वप्र, प्राकार, द्वारों और अट्टालकों से युक्त, भय के स्थान में और पड़ाव के स्थान में भी।"}},
+  {"field":"notes","where":"end","problem":"Hindi glosses removed from the translation need a home.","fix":"append","severity":"minor",
+   "patch":{"n":"1","op":"append_note","text":"Hindi: वर्धकि = बढ़ई; मौहूर्तिक = ज्योतिषी; स्कन्धावार = शिविर; वप्र = मिट्टी का घेरा; अट्टालक = बुर्ज।"}}
+ ]},
+ {"n":"2","verdict":"fix","issues":[
+  {"field":"hindi","where":"(राजवास्तुक)","problem":"Bracketed gloss inside the Hindi.","fix":"मध्य भाग के उत्तर में, नौवें भाग में, राजा का निवास हो, जो सौ धनुष लम्बा और उसका आधा चौड़ा हो; उसके पश्चिमी आधे भाग में अन्तःपुर हो।","severity":"error",
+   "patch":{"n":"2","op":"set","field":"hindi","value":"मध्य भाग के उत्तर में, नौवें भाग में, राजा का निवास हो, जो सौ धनुष लम्बा और उसका आधा चौड़ा हो; उसके पश्चिमी आधे भाग में अन्तःपुर हो।"}},
+  {"field":"english","where":"in its western half is the inner apartments","problem":"Number agreement ('is ... apartments'); the Sanskrit has no verb, so drop it.","fix":"in its western half, the inner apartments (antaḥpura).","severity":"minor",
+   "patch":{"n":"2","op":"replace","field":"english","old":"in its western half is the inner apartments (antaḥpura).","new":"in its western half, the inner apartments (antaḥpura)."}},
+  {"field":"notes","where":"end","problem":"Record the Hindi term.","fix":"append","severity":"minor",
+   "patch":{"n":"2","op":"append_note","text":"Hindi: राजा का निवास = राजवास्तुक।"}}
+ ]},
+ {"n":"3","verdict":"fix","issues":[
+  {"field":"hindi","where":"(भीतरी रक्षकों की टुकड़ी)","problem":"Bracketed gloss inside the Hindi.","fix":"और अन्तर्वंशिक सैन्य उसके किनारे पर डेरा डाले।","severity":"error",
+   "patch":{"n":"3","op":"set","field":"hindi","value":"और अन्तर्वंशिक सैन्य उसके किनारे पर डेरा डाले।"}},
+  {"field":"notes","where":"end","problem":"Move gloss to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"3","op":"append_note","text":"Hindi: अन्तर्वंशिक सैन्य = भीतरी रक्षकों की टुकड़ी।"}}
+ ]},
+ {"n":"4","verdict":"fix","issues":[
+  {"field":"hindi","where":"(सभा-भवन), (आज्ञापत्र)","problem":"Bracketed glosses inside the Hindi.","fix":"सामने उपस्थान हो; दाहिनी ओर कोश, शासन और कार्य के कार्यालय हों; बाईं ओर राजा की सवारी के हाथियों, घोड़ों और रथों का स्थान हो।","severity":"error",
+   "patch":{"n":"4","op":"set","field":"hindi","value":"सामने उपस्थान हो; दाहिनी ओर कोश, शासन और कार्य के कार्यालय हों; बाईं ओर राजा की सवारी के हाथियों, घोड़ों और रथों का स्थान हो।"}},
+  {"field":"notes","where":"end","problem":"Move glosses to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"4","op":"append_note","text":"Hindi: उपस्थान = सभा-भवन; शासन = आज्ञापत्र।"}}
+ ]},
+ {"n":"5","verdict":"fix","issues":[
+  {"field":"hindi","where":"मेथी (खूँटों)","problem":"Bracketed gloss inside the Hindi.","fix":"इसके बाद, सौ-सौ धनुष के अन्तर पर, गाड़ियों, मेथियों, लताओं की बाड़, खम्भों और प्राकार के चार घेरे हों।","severity":"error",
+   "patch":{"n":"5","op":"set","field":"hindi","value":"इसके बाद, सौ-सौ धनुष के अन्तर पर, गाड़ियों, मेथियों, लताओं की बाड़, खम्भों और प्राकार के चार घेरे हों।"}},
+  {"field":"notes","where":"end","problem":"Move gloss to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"5","op":"append_note","text":"Hindi: मेथी = खूँटा।"}}
+ ]},
+ {"n":"6","verdict":"fix","issues":[
+  {"field":"text_flags","where":"daṇṣiṇataḥ","problem":"Checked: the typo flag is correct (दण्षिणतः has ण्ष for क्ष; dakṣiṇataḥ in unit 4 and the vāmataḥ pairing confirm it). No change.","fix":"none","severity":"minor"},
+  {"field":"hindi","where":"(भण्डार), (रसोईघर), (कच्चे माल)","problem":"Bracketed glosses inside the Hindi.","fix":"पहले घेरे में सामने मन्त्री और पुरोहित हों; दाहिनी ओर कोष्ठागार और महानस; बाईं ओर कुप्य और आयुधों का भण्डार।","severity":"error",
+   "patch":{"n":"6","op":"set","field":"hindi","value":"पहले घेरे में सामने मन्त्री और पुरोहित हों; दाहिनी ओर कोष्ठागार और महानस; बाईं ओर कुप्य और आयुधों का भण्डार।"}},
+  {"field":"notes","where":"end","problem":"Move glosses to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"6","op":"append_note","text":"Hindi: कोष्ठागार = भण्डार; महानस = रसोईघर; कुप्य = कच्चा माल।"}}
+ ]},
+ {"n":"7","verdict":"fix","issues":[
+  {"field":"hindi","where":"(वंशानुगत), (वेतनभोगी)","problem":"Bracketed glosses inside the Hindi.","fix":"दूसरे घेरे में मौल और भृत सैनिकों का, घोड़ों और रथों का, तथा सेनापति का स्थान हो।","severity":"error",
+   "patch":{"n":"7","op":"set","field":"hindi","value":"दूसरे घेरे में मौल और भृत सैनिकों का, घोड़ों और रथों का, तथा सेनापति का स्थान हो।"}},
+  {"field":"notes","where":"end","problem":"Move glosses to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"7","op":"append_note","text":"Hindi: मौल = वंशानुगत सैनिक; भृत = वेतनभोगी सैनिक। 'घेरे' (enclosure) is supplied from unit 5–6."}}
+ ]},
+ {"n":"8","verdict":"fix","issues":[
+  {"field":"hindi","where":"(संघों के सैनिक)","problem":"Bracketed gloss inside the Hindi.","fix":"तीसरे घेरे में हाथी, श्रेणी-सैन्य और प्रशास्ता हों।","severity":"error",
+   "patch":{"n":"8","op":"set","field":"hindi","value":"तीसरे घेरे में हाथी, श्रेणी-सैन्य और प्रशास्ता हों।"}},
+  {"field":"notes","where":"end","problem":"Move gloss to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"8","op":"append_note","text":"Hindi: श्रेणी-सैन्य = संघों के सैनिक।"}}
+ ]},
+ {"n":"9","verdict":"fix","issues":[
+  {"field":"hindi","where":"(मज़दूर-दल)","problem":"Bracketed gloss inside the Hindi.","fix":"चौथे घेरे में विष्टि, नायक, तथा मित्रों, शत्रुओं और वन-जातियों की सेना हो, जो अपने ही पुरुषों की देखरेख में हो।","severity":"error",
+   "patch":{"n":"9","op":"set","field":"hindi","value":"चौथे घेरे में विष्टि, नायक, तथा मित्रों, शत्रुओं और वन-जातियों की सेना हो, जो अपने ही पुरुषों की देखरेख में हो।"}},
+  {"field":"notes","where":"end","problem":"Move gloss to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"9","op":"append_note","text":"Hindi: विष्टि = मज़दूर-दल।"}}
+ ]},
+ {"n":"10","verdict":"fix","issues":[
+  {"field":"hindi","where":"(गणिकाएँ)","problem":"Bracketed gloss inside the Hindi.","fix":"व्यापारी और रूपाजीवाएँ मुख्य मार्ग के किनारे हों।","severity":"error",
+   "patch":{"n":"10","op":"set","field":"hindi","value":"व्यापारी और रूपाजीवाएँ मुख्य मार्ग के किनारे हों।"}},
+  {"field":"notes","where":"end","problem":"Move gloss to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"10","op":"append_note","text":"Hindi: रूपाजीवा = गणिका।"}}
+ ]},
+ {"n":"11","verdict":"fix","issues":[
+  {"field":"gram","where":"lubdhaka-śva-gaṇinaḥ","problem":"Glossed 'hunters with packs of dogs' (hunters who are śvagaṇin), which is a karmadhāraya, not a tat-puruṣa; a dvandva 'hunters and dog-keepers' is also possible.","fix":"m. nom. pl., karmadhāraya (or dvandva: hunters and dog-keepers)","severity":"minor",
+   "patch":{"n":"11","op":"word","match_w":"lubdhaka-śva-gaṇinaḥ","field":"gram","value":"m. nom. pl., karmadhāraya (or dvandva: hunters and dog-keepers)"}}
+ ]},
+ {"n":"12","verdict":"fix","issues":[
+  {"field":"hindi","where":"(छिपे जाल), (गड्ढे)","problem":"Bracketed glosses inside the Hindi.","fix":"और शत्रुओं के आने के मार्ग पर कुएँ, कूट, अवपात और काँटेदार बाड़ें लगवाए।","severity":"error",
+   "patch":{"n":"12","op":"set","field":"hindi","value":"और शत्रुओं के आने के मार्ग पर कुएँ, कूट, अवपात और काँटेदार बाड़ें लगवाए।"}},
+  {"field":"notes","where":"end","problem":"Move glosses to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"12","op":"append_note","text":"Hindi: कूट = छिपा जाल; अवपात = गड्ढा।"}}
+ ]},
+ {"n":"13","verdict":"fix","issues":[
+  {"field":"gram","where":"aṣṭādaśa-vargāṇām","problem":"A numeral-first compound is a dvigu, not a plain karmadhāraya.","fix":"m. gen. pl., dvigu","severity":"minor",
+   "patch":{"n":"13","op":"word","match_w":"aṣṭādaśa-vargāṇām","field":"gram","value":"m. gen. pl., dvigu"}}
+ ]},
+ {"n":"14","verdict":"ok","issues":[
+  {"field":"notes","where":"diva.āyāma","problem":"Checked: the e-text split diva + āyāma and the alternative divā-yāma give the same surface form; the draft's translation 'day-time watch' with an honest note and medium confidence is acceptable. No change.","fix":"none","severity":"minor"}
+ ]},
+ {"n":"15","verdict":"fix","issues":[
+  {"field":"english","where":"the passes (mudrā) checked","problem":"rakṣaṇa is 'guarding/enforcing', not 'checking'; keep the literal word and let the note interpret.","fix":"and the passes (mudrā) guarded.","severity":"minor",
+   "patch":{"n":"15","op":"replace","field":"english","old":"and the passes (mudrā) checked.","new":"and the passes (mudrā) guarded."}},
+  {"field":"hindi","where":"मुद्रा (पास) की जाँच","problem":"Bracketed gloss inside the Hindi, and जाँच ('checking') overtranslates rakṣaṇa.","fix":"और झगड़े, मद्यपान, जमघट और जुए की रोकथाम करवाए, तथा मुद्रा की रक्षा भी।","severity":"error",
+   "patch":{"n":"15","op":"set","field":"hindi","value":"और झगड़े, मद्यपान, जमघट और जुए की रोकथाम करवाए, तथा मुद्रा की रक्षा भी।"}},
+  {"field":"notes","where":"end","problem":"Move gloss to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"15","op":"append_note","text":"Hindi: मुद्रा = आवागमन का पास (मुहर)।"}}
+ ]},
+ {"n":"16","verdict":"fix","issues":[
+  {"field":"english","where":"The śūnyapāla (the officer left in charge of the capital)","problem":"A long explanatory gloss added inside the translation; the note already explains the term.","fix":"The śūnyapāla should arrest","severity":"minor",
+   "patch":{"n":"16","op":"replace","field":"english","old":"The śūnyapāla (the officer left in charge of the capital) should arrest","new":"The śūnyapāla should arrest"}},
+  {"field":"hindi","where":"(राजा की अनुपस्थिति में राजधानी का रक्षक)","problem":"Bracketed gloss inside the Hindi.","fix":"सेना से बिना आज्ञा लौटे हुए सैनिक को शून्यपाल बन्दी बना ले।","severity":"error",
+   "patch":{"n":"16","op":"set","field":"hindi","value":"सेना से बिना आज्ञा लौटे हुए सैनिक को शून्यपाल बन्दी बना ले।"}},
+  {"field":"notes","where":"end","problem":"Move gloss to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"16","op":"append_note","text":"Hindi: शून्यपाल = राजा की अनुपस्थिति में राजधानी का रक्षक।"}}
+ ]},
+ {"n":"17","verdict":"fix","issues":[
+  {"field":"gram","where":"vardhaki-viṣṭibhyām","problem":"Gender missing; a dvandva takes the gender of its last member (viṣṭi f.).","fix":"f. inst. du., dvandva","severity":"minor",
+   "patch":{"n":"17","op":"word","match_w":"vardhaki-viṣṭibhyām","field":"gram","value":"f. inst. du., dvandva"}},
+  {"field":"hindi","where":"(बढ़इयों), (मज़दूर-दल)","problem":"Bracketed glosses inside the Hindi.","fix":"प्रशास्ता मार्ग के आगे-आगे ठीक प्रकार से चले, और वर्धकियों तथा विष्टि से रक्षा के प्रबन्ध और जल की व्यवस्था करवाए।","severity":"error",
+   "patch":{"n":"17","op":"set","field":"hindi","value":"प्रशास्ता मार्ग के आगे-आगे ठीक प्रकार से चले, और वर्धकियों तथा विष्टि से रक्षा के प्रबन्ध और जल की व्यवस्था करवाए।"}},
+  {"field":"notes","where":"samyak.praśāstā","problem":"Checked: splitting the e-text's compound mark into adverb samyak + praśāstā is defensible and the note says so; medium confidence is honest. No change.","fix":"none","severity":"minor"},
+  {"field":"notes","where":"end","problem":"Move glosses to notes.","fix":"append","severity":"minor",
+   "patch":{"n":"17","op":"append_note","text":"Hindi: वर्धकि = बढ़ई; विष्टि = मज़दूर-दल।"}}
+ ]}
+],
+"summary":"17 units reviewed; 16 marked fix, 1 ok (unit 14). Errors: 16 (unit 1 gram/note: nāyaka-vardhaki cannot be nom. du. with short -i, it is a compound stem continued in mauhūrtikāḥ; plus 14 Hindi translations carrying bracketed glosses against the glossary rule, each given a full replacement with the glosses moved to notes). Minor: 12 (unit 2 English agreement, unit 11 and 13 and 17 compound labels, unit 15 'checked' for rakṣaṇa, unit 16 explanatory gloss in English, and confirmations of the drafter's flags). Drafter's doubts checked: unit 6 typo fix daṇṣiṇataḥ -> dakṣiṇataḥ is correct; units 2, 5, 13, 14, 15, 17 readings are acceptable with their notes and medium confidence. Needs a person: whether to add a text_flags entry in unit 1 for the e-text's space between vardhaki and mauhūrtikāḥ (a missing compound mark rather than a letter typo); no patch given for it. No regrouping suggested."}
