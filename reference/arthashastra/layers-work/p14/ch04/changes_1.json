@@ -1,0 +1,117 @@
+[
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "dūṣī-viṣa is taken as 'tainting poison' (a class of poison); gara is kept as gara (a compounded poison). Alternative: a two-member list 'dūṣī-viṣa' and 'gara' (the compound is read here as three members).",
+  "new": "dūṣī-viṣa is taken as 'tainting poison' (a class of poison); gara is kept as gara (a compounded poison). Division read here: dūṣī-viṣa + gara (two members, as in the gloss); alternative: three members dūṣī, viṣa, gara.",
+  "why": "reviewer (minor): The note contradicts itself: the gloss and word list take two members (dūṣī-viṣa + gara), the note says 'three members'."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "śleṣmātaka-kapittha-danti-danta-śaṭha-goji-śirīṣa-pāṭalī-balā-syonāga",
+  "old": "gen. sg.; dvandva (list)",
+  "new": "compound members (continued in the next token); dvandva list",
+  "why": "reviewer (error): Labelled 'gen. sg.; dvandva (list)' but the token ends with '.-', i.e. the compound continues into 'punar-navā-...-kvātha-yuktam'; the members are not a separate genitive."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "punar-navā-śveta-vāraṇa-kvātha-yuktam",
+  "old": "mixed with a decoction of punarnavā, śveta and vāraṇa",
+  "new": "mixed with a decoction of the herbs in the previous token and of punarnavā, śveta and vāraṇa",
+  "why": "reviewer (minor): Gloss names only punarnavā, śveta, vāraṇa, but the decoction is of the whole list including the preceding token."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "All the names are drug names, kept as printed; no identification given. The word-by-word listing of the first token is only the order of the printed members; 'danti' and 'danta' may be one name 'dantī-danta' and 'śveta' may be 'śvetā' or an adjective 'white'. 'sālā' and 'lohita' (red?) are uncertain. 'balā-syonāga' split as two members. 'rāja-upabhogyānām' has no noun: those things (or persons) to be used by the king. The three datives/genitives (king's articles, women, army) are read as three uses; the closing 'viṣa-pratīkāraḥ' may govern all three. The editors' doubt mark '(?)' on 'yuktaṃ' is kept in src; 'yuktam' is read plainly.",
+  "new": "All the names are drug names, kept as printed; no identification given. The word-by-word listing of the first token is only the order of the printed members; 'danti' and 'danta' may be one name 'dantī-danta' and 'śveta' may be 'śvetā' or an adjective 'white'. 'sālā' and 'lohita' (red?) are uncertain. 'balā-syonāga' split as two members. 'rāja-upabhogyānām' has no noun: those things (or persons) to be used by the king. The three datives/genitives (king's articles, women, army) are read as three uses; the closing 'viṣa-pratīkāraḥ' may govern all three. The editors' doubt mark '(?)' on 'yuktaṃ' is kept in src; 'yuktam' is read plainly. 'danta-śaṭha' may be a single plant name (so 'danta' and 'śaṭha' would not be separate members); 'syonāga' may be a variant of 'syonāka'. Both are only possible; the split follows the edition's dots. The genitives 'rāja-upabhogyānām', 'strīṇām', 'senāyāḥ' are read as objective genitives of nejana / prakṣālana / pratīkāra respectively; the scope of 'viṣa-pratīkāraḥ' (army only, or all three) is not settled, so confidence stays low.",
+  "why": "reviewer (minor): Draft doubt on danti/danta: 'danta-śaṭha' may be one plant name, and 'syonāga' may be a variant of syonāka; both only possible, so no change to the split or translation."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "Only 'yogaḥ' is nominative, so the powder may be a second subject or part of the compound's description; both are read as removers of madana's ill effect. 'sindu-vārita' could be the single name 'sinduvāra' plus 'vārita'; kept as printed. 'nīla-kaṇṭha' literally 'blue-necked', rendered peacock; 'godhā' is a lizard name, kept. 'śata-parva-agra' = tip of the hundred-jointed (plant). Drug names kept without identification.",
+  "new": "The predicate 'haraḥ' is masculine and agrees only with 'yogaḥ'; the neuter 'cūrṇam' does not agree with it, so its relation is uncertain; it is read here as a second subject, and both are taken as removers of madana's ill effect. 'sindu-vārita' could be the single name 'sinduvāra' plus 'vārita'; kept as printed. 'nīla-kaṇṭha' literally 'blue-necked', rendered peacock; 'godhā' is a lizard name, kept. 'śata-parva-agra' = tip of the hundred-jointed (plant). Drug names kept without identification.",
+  "why": "reviewer (minor): Wrong reasoning: 'cūrṇam' is also nominative/accusative (neuter); the real point is that 'haraḥ' is masculine and agrees only with 'yogaḥ'."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "The predicate 'haraḥ' is masculine and agrees only with 'yogaḥ'; the neuter 'cūrṇam' does not agree with it, so its relation is uncertain; it is read here as a second subject, and both are taken as removers of madana's ill effect. 'sindu-vārita' could be the single name 'sinduvāra' plus 'vārita'; kept as printed. 'nīla-kaṇṭha' literally 'blue-necked', rendered peacock; 'godhā' is a lizard name, kept. 'śata-parva-agra' = tip of the hundred-jointed (plant). Drug names kept without identification.",
+  "new": "The predicate 'haraḥ' is masculine and agrees only with 'yogaḥ'; the neuter 'cūrṇam' does not agree with it, so its relation is uncertain; it is read here as a second subject, and both are taken as removers of madana's ill effect. 'sindu-vārita' could be the single name 'sinduvāra' plus 'vārita'; kept as printed. 'nīla-kaṇṭha' literally 'blue-necked', rendered peacock; 'godhā' is a lizard name, kept. 'śata-parva-agra' = tip of the hundred-jointed (plant). Drug names kept without identification. 'nīla-kaṇṭha' is also a name of other blue-necked birds (e.g. the blue jay); 'peacock' is the common lexical sense, kept with that reservation.",
+  "why": "reviewer (minor): 'Peacock' is the first lexical sense but 'blue-necked' also names other birds; the draft states the literal sense but not the alternative."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Drug names kept without identification. 'madana' is both a drug in the list and the thing whose ill effect is removed.",
+  "new": "Drug names kept without identification. 'madana' is both a drug in the list and the thing whose ill effect is removed. The word list, English and Hindi follow the suggested spelling 'vallī' (vāraṇa-vallī); the printed 'valī' is kept in src. The flag is only possible.",
+  "why": "reviewer (minor): The word list, English and Hindi follow the flagged correction 'vallī' without saying so; the flag is only possible, so the translation should say which spelling it follows."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "The printed members are followed literally in words; the re-division in text_flags is only possible. 'kṣāra' = alkali, 'kṣaudra' = honey are not translated in the list because they may be drug names. 'sa-madhuka' may mean 'with madhuka'. The relation 'made unconscious by' is the compound's sense (rope = hanging, etc., not stated). The dative states purpose only; 'punaḥ-pratyānayana' literally 'bringing back again'.",
+  "new": "The printed members are followed literally in words; the re-division in text_flags is only possible. 'kṣāra' = alkali, 'kṣaudra' = honey are not translated in the list because they may be drug names. 'sa-madhuka' may mean 'with madhuka'. The relation 'made unconscious by' is the compound's sense (rope = hanging, etc., not stated). The dative states purpose only; 'punaḥ-pratyānayana' literally 'bringing back again'. Checked letter for letter: 'mañjiṣṭhā-tagara-lākṣā-rasa-madhuka' gives the same string as the printed 'mañjiṣṭhāta.garalā.kṣāra.samadhuka'; the translation keeps the printed division, so 'mañjiṣṭhāta' and 'garalā' are unattested names kept as printed, not identified.",
+  "why": "reviewer (minor): Flag confirmed as 'possible': the suggested division mañjiṣṭhā-tagara-lākṣā-rasa-madhuka has exactly the same letters (mañjiṣṭhātagaralākṣārasamadhuka) and replaces the non-words 'mañjiṣṭhāta' and 'garalā' with known drug names. Not certain, so words/translation correctly stay with the printed division."
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "hastī-uṣṭrāṇām",
+  "old": "hastī-uṣṭrāṇām",
+  "new": "hasti-uṣṭrāṇām",
+  "why": "reviewer (minor): Wrong compound form: the stem of hastin in compounds is 'hasti-', not 'hastī' (the nominative); the note repeats the error."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "The thing measured (the compound of the previous unit) is not stated; 'akṣa' is a unit of weight, kept. 'gava' is the compound form of 'go' (cattle); 'hasty.uṣṭrāṇām' is hastī + uṣṭrāṇām.",
+  "new": "The thing measured (the compound of the previous unit) is not stated; 'akṣa' is a unit of weight, kept. 'gava' is the compound form of 'go' (cattle); 'hasty.uṣṭrāṇām' is hasti + uṣṭrāṇām.",
+  "why": "reviewer (minor): Same error in the note."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "मनुष्यों के लिए अक्ष मात्र, गायों और घोड़ों के लिए दुगुना, हाथियों और ऊँटों के लिए चौगुना।",
+  "new": "मनुष्यों के लिए अक्ष की मात्रा, गौओं और घोड़ों के लिए दुगुनी, हाथियों और ऊँटों के लिए चौगुनी।",
+  "why": "reviewer (minor): In Hindi 'मात्र' means 'only', so 'अक्ष मात्र' reads 'merely an akṣa'; 'गायों' narrows 'gava' (cattle) to cows."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "And the jewel of these, having gold within, removes all poison.",
+  "new": "And a jewel of these, having gold within, removes all poison.",
+  "why": "reviewer (minor): 'the' is not in the Sanskrit (no article); and the note claims 'eṣām' refers to the earlier ingredients, which the line does not establish (it may equally point to the men and animals of the previous unit)."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "'eṣām' refers back to the earlier ingredients; 'jewel of these' may mean a jewel (amulet) made of them. The reference is not stated in the line.",
+  "new": "The referent of 'eṣām' is not fixed by the line: it may point to the men and animals of the previous unit or to the ingredients named earlier; 'jewel of these' is kept literal.",
+  "why": "reviewer (minor): Unsupported certainty about the referent."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "The sound of musical instruments anointed with them destroys poison; or, having seen an anointed banner or flag, [one] becomes free of poison.",
+  "new": "The sound of musical instruments anointed with them destroys poison; having seen an anointed banner or flag, [one] becomes free of poison.",
+  "why": "reviewer (minor): 'or' is added: 'vā' joins 'dhvaja' and 'patākā' only; the second line has no clause-level 'or'."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "उनसे लेपे हुए वाद्यों का शब्द विष का नाश करने वाला है; अथवा लेपे हुए ध्वज या पताका को देखकर विषमुक्त हो जाता है।",
+  "new": "उनसे लेपे हुए वाद्यों का शब्द विष का नाश करने वाला है; लेपे हुए ध्वज या पताका को देखकर विषमुक्त हो जाता है।",
+  "why": "reviewer (minor): Same addition ('अथवा') in Hindi, which also uses 'या' for the real 'vā'."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "'viṣa-dhūma-ambu-dūṣaṇān' may also be read as 'poison, smoke and water-pollutions' (things that taint) or 'taintings'; kept as agents that taint. The subject is the king (not stated).",
+  "new": "'viṣa-dhūma-ambu-dūṣaṇān' may also be read as 'poison, smoke and water-pollutions' (things that taint) or 'taintings'; kept as agents that taint. The subject is the king (not stated). 'dūṣaṇān' is masculine accusative plural, whereas 'dūṣaṇa' is normally neuter (one would expect 'dūṣaṇāni'); the relation of poison, smoke and water to 'dūṣaṇa' (tainting by them, or tainting of them) is not settled.",
+  "why": "reviewer (minor): English 'tainters of poison, smoke and water' reads as if poison etc. are what is tainted, while the gloss says 'by'; also 'dūṣaṇa' is normally neuter, so masculine accusative plural 'dūṣaṇān' is odd (possible 'dūṣaṇāni'). Reading of the compound needs a person."
+ }
+]

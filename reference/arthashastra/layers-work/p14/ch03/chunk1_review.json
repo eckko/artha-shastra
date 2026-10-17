@@ -1,0 +1,1061 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tato",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "tato",
+      "field": "w",
+      "value": "tataḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "āvāsya",
+     "problem": "`w` keeps the unemended printed form with a gloss for the emended word; LAYER_NOTES: src as printed, corrected form in words, plus a flag",
+     "fix": "w = āvāpya",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "4",
+       "op": "word",
+       "match_w": "āvāsya",
+       "field": "gram",
+       "value": "abs. ā-√vap, caus. (āvāpya, emended from printed āvāsya; see flag)"
+      },
+      {
+       "n": "4",
+       "op": "word",
+       "match_w": "āvāsya",
+       "field": "w",
+       "value": "āvāpya"
+      }
+     ]
+    },
+    {
+     "field": "english",
+     "where": "one should sow barley ... and sprinkle it",
+     "problem": "Sanskrit has an absolutive (āvāpya) then the finite secayet; the English turns it into two finite verbs",
+     "fix": "Having sown ..., one should sprinkle it",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "english",
+      "value": "Having fasted three nights, under Puṣya, having sown barley in earth in the skull of a man killed by a weapon or impaled on a stake, one should sprinkle it with sheep's milk."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sow",
+     "problem": "'sow' rests on the emendation; say so",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "The translation 'sown' follows the emended reading āvāpya; with the printed āvāsya the sense is not established."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tato",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "tato",
+      "field": "w",
+      "value": "tataḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "naṣṭac-chāyā-rūpaḥ",
+     "problem": "`w` keeps the sandhi cc, but the draft's own notes (unit 5) say the split is naṣṭa-chāyā-rūpaḥ, as printed in unit 13",
+     "fix": "naṣṭa-chāyā-rūpaḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "naṣṭac-chāyā-rūpaḥ",
+      "field": "w",
+      "value": "naṣṭa-chāyā-rūpaḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tato",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "tato",
+      "field": "w",
+      "value": "tataḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "naṣṭac-chāyā-rūpaḥ",
+     "problem": "`w` keeps the sandhi cc, but the draft's own notes (unit 5) say the split is naṣṭa-chāyā-rūpaḥ, as printed in unit 13",
+     "fix": "naṣṭa-chāyā-rūpaḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "naṣṭac-chāyā-rūpaḥ",
+      "field": "w",
+      "value": "naṣṭa-chāyā-rūpaḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tato",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "tato",
+      "field": "w",
+      "value": "tataḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "naṣṭac-chāyā-rūpaḥ",
+     "problem": "`w` keeps the sandhi cc, but the draft's own notes (unit 5) say the split is naṣṭa-chāyā-rūpaḥ, as printed in unit 13",
+     "fix": "naṣṭa-chāyā-rūpaḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "naṣṭac-chāyā-rūpaḥ",
+      "field": "w",
+      "value": "naṣṭa-chāyā-rūpaḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "kāla-ayasīm",
+     "problem": "wrong split: kālāyasī is kāla + āyasī (āyasa, 'made of iron', from ayas), not kāla + ayasīm; the notes repeat it",
+     "fix": "kāla-āyasīm",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "10",
+       "op": "word",
+       "match_w": "kāla-ayasīm",
+       "field": "gram",
+       "value": "karmadhāraya, f. acc. sg. (āyasī, fem. of āyasa 'made of iron')"
+      },
+      {
+       "n": "10",
+       "op": "word",
+       "match_w": "kāla-ayasīm",
+       "field": "w",
+       "value": "kāla-āyasīm"
+      },
+      {
+       "n": "10",
+       "op": "replace",
+       "field": "notes",
+       "old": "kālāyasīm = kāla-ayasīm 'black-iron'",
+       "new": "kālāyasīm = kāla-āyasīm 'of black iron' (āyasa 'made of iron')"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tato",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "tato",
+      "field": "w",
+      "value": "tataḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "striyā",
+     "problem": "printed form kept in `w`; the emended form belongs in words",
+     "fix": "striyāḥ",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "11",
+       "op": "word",
+       "match_w": "striyā",
+       "field": "gram",
+       "value": "f. gen. sg. (emended from printed striyā; see flag)"
+      },
+      {
+       "n": "11",
+       "op": "word",
+       "match_w": "striyā",
+       "field": "gloss",
+       "value": "woman"
+      },
+      {
+       "n": "11",
+       "op": "word",
+       "match_w": "striyā",
+       "field": "w",
+       "value": "striyāḥ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tad",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tat",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "tad",
+      "field": "w",
+      "value": "tat"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "naṣṭac-chāyā-rūpaḥ",
+     "problem": "`w` keeps the sandhi cc, but the draft's own notes (unit 5) say the split is naṣṭa-chāyā-rūpaḥ, as printed in unit 13",
+     "fix": "naṣṭa-chāyā-rūpaḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "naṣṭac-chāyā-rūpaḥ",
+      "field": "w",
+      "value": "naṣṭa-chāyā-rūpaḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "yo",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "yaḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "yo",
+      "field": "w",
+      "value": "yaḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "gaur",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "gauḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "gaur",
+      "field": "w",
+      "value": "gauḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ulūka-vāgulī-...-cūrṇa-pūrṇā",
+     "problem": "'bahuvrīhi' is wrong: X-pūrṇā 'filled with X' is an instrumental tat-puruṣa qualifying bhastrā",
+     "fix": "tat-puruṣa (inst.), f. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "ulūka-vāgulī-puccha-purīṣa-jānu-asthi-cūrṇa-pūrṇā",
+      "field": "gram",
+      "value": "tat-puruṣa (inst. 'filled with ...'), f. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ity",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "iti",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "ity",
+      "field": "w",
+      "value": "iti"
+     }
+    },
+    {
+     "field": "split",
+     "where": "yogaḥ",
+     "problem": "printed form kept in `w`; emended form belongs in words (aṣṭau needs a plural)",
+     "fix": "yogāḥ",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "antar-dhāna-yogaḥ",
+       "field": "gram",
+       "value": "tat-puruṣa, m. nom. pl. (emended from printed yogaḥ; see flag)"
+      },
+      {
+       "n": "18",
+       "op": "word",
+       "match_w": "antar-dhāna-yogaḥ",
+       "field": "w",
+       "value": "antar-dhāna-yogāḥ"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "puruṣā",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "puruṣāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "puruṣā",
+      "field": "w",
+      "value": "puruṣāḥ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "army-scoundrels",
+     "problem": "khala is given a sense ('scoundrel') the passage does not establish; camū-khala is obscure and the glossary/standing rule is literal rendering kept as printed + note",
+     "fix": "camū-khalas",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "21",
+       "op": "set",
+       "field": "english",
+       "value": "Just as pythons sleep, and camū-khalas sleep too, so let men sleep, and those who are curious in the village."
+      },
+      {
+       "n": "21",
+       "op": "set",
+       "field": "hindi",
+       "value": "जैसे अजगर सोते हैं और चमू-खल भी सोते हैं, वैसे ही पुरुष सोएँ, और जो गाँव में उत्सुक हैं।"
+      },
+      {
+       "n": "21",
+       "op": "word",
+       "match_w": "camū-khalāḥ",
+       "field": "gloss",
+       "value": "camū-khalas (obscure: camū 'army'; khala 'threshing floor' or 'wicked person')"
+      },
+      {
+       "n": "21",
+       "op": "word",
+       "match_w": "camū-khalāḥ",
+       "field": "gram",
+       "value": "compound (type not decided; obscure), m. nom. pl."
+      },
+      {
+       "n": "21",
+       "op": "append_note",
+       "text": "Revised: 'army-scoundrels' / 'सेना के खल' removed; camū-khala is kept untranslated. The particle ca in 'ye ca' is now rendered ('and those who ...')."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "imaṃ",
+     "problem": "gender: imaṃ qualifies gṛham, which is neuter",
+     "fix": "n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "imaṃ",
+      "field": "gram",
+      "value": "n. acc. sg. (agrees with gṛhaṃ)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "why",
+     "problem": "'unattested to me' is a statement about the drafter, not the text",
+     "fix": "reword",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: bhaṇḍaka is not a known word, whereas bhāṇḍaka (from bhāṇḍa 'vessel, goods') is; the line ends with bhāṇḍakāḥ and the Devanagari has भण्डकानां; the two may be one word. Not confirmed."
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "devā",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "devāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "devā",
+      "field": "w",
+      "value": "devāḥ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śunaka-phelakāḥ",
+     "problem": "'acc. pl.' is impossible: an a-stem accusative plural ends in -ān; -āḥ is nominative (or vocative). The English/Hindi make it the object of baddhvā, which the form does not allow",
+     "fix": "m. nom. pl. (or voc.)",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "23",
+       "op": "word",
+       "match_w": "śunaka-phelakāḥ",
+       "field": "gram",
+       "value": "m. nom. pl. (or voc.) (obscure)"
+      },
+      {
+       "n": "23",
+       "op": "word",
+       "match_w": "śunaka-phelakāḥ",
+       "field": "gloss",
+       "value": "śunaka-phelakas (obscure)"
+      },
+      {
+       "n": "23",
+       "op": "set",
+       "field": "english",
+       "value": "Having made obeisance to Manu, having bound — śunaka-phelakas —; the gods who are in the worlds of the gods, and the brāhmaṇas among humans,"
+      },
+      {
+       "n": "23",
+       "op": "set",
+       "field": "hindi",
+       "value": "मनु को नमस्कार करके, बाँधकर — शुनक-फेलक —; जो देव देवलोकों में हैं और मनुष्यों में जो ब्राह्मण हैं,"
+      },
+      {
+       "n": "23",
+       "op": "append_note",
+       "text": "Revised: the ending -āḥ is not an accusative, so 'bound the śunaka-phelakas' is not supported; the grammatical role of śunaka-phelakāḥ (and what is bound) is unclear. Needs a person."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "why",
+     "problem": "'not a word I know' is a statement about the drafter; the flag itself (kailāsa) is plausible and stands as 'possible'",
+     "fix": "reword",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "text_flags.0.why",
+      "value": "possible: 'ascetics of Kailāsa' would fit tāpasāḥ; kaulāsa is not a known word. Not confirmed; the Devanagari has कौलास."
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पार जाते हुए / मुझसे दूर",
+     "problem": "Hindi reads atigacchanti as a participle ('passing'), English as a finite verb; 'from me' renders locative mayi as an ablative without marking it. The two languages must give one reading",
+     "fix": "literal and consistent",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "25",
+       "op": "set",
+       "field": "english",
+       "value": "And they go past; let them go away, assembled, at me."
+      },
+      {
+       "n": "25",
+       "op": "set",
+       "field": "hindi",
+       "value": "और वे पार जाते हैं; वे एकत्र होकर मुझ पर दूर चले जाएँ।"
+      },
+      {
+       "n": "25",
+       "op": "append_note",
+       "text": "Revised: Hindi and English now give the same literal reading (finite 'they go past'; mayi rendered 'at me', locative kept). The line may be corrupt or elliptical; needs a person."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "śva-pākī-hastād",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "śva-pākī-hastāt",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "śva-pākī-hastād",
+      "field": "w",
+      "value": "śva-pākī-hastāt"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tan-māṣaiḥ",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tat-māṣaiḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "tan-māṣaiḥ",
+      "field": "w",
+      "value": "tat-māṣaiḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tata",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "tata",
+      "field": "w",
+      "value": "tataḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "devatā",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "devatāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "devatā",
+      "field": "w",
+      "value": "devatāḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "brāhmaṇā",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "brāhmaṇāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "brāhmaṇā",
+      "field": "w",
+      "value": "brāhmaṇāḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vayu-cāre",
+     "problem": "'vayu-moving' invents a sense (vayu is not a word; vāyu is) for a mantra word",
+     "fix": "keep as printed",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "vayu-cāre",
+       "field": "gloss",
+       "value": "vayu-cāre"
+      },
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "vayu-cāre",
+       "field": "gram",
+       "value": "mantra word (obscure)"
+      }
+     ]
+    },
+    {
+     "field": "gram",
+     "where": "prayoge / danta-kaṭake",
+     "problem": "case labels (voc./loc.) assigned to mantra words without support",
+     "fix": "mantra word (obscure)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "prayoge",
+       "field": "gram",
+       "value": "mantra word (obscure; looks like a locative of prayoga but taken as a mantra name)"
+      },
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "danta-kaṭake",
+       "field": "gram",
+       "value": "mantra word (obscure)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "śunakā",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "śunakāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "śunakā",
+      "field": "w",
+      "value": "śunakāḥ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "those that are curious",
+     "problem": "ca in 'ye ca' dropped; the draft makes the relative qualify the dogs",
+     "fix": "and those who ...",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "english",
+       "old": "Let the dogs sleep comfortably, those that are curious in the village;",
+       "new": "Let the dogs sleep comfortably, and those who are curious in the village;"
+      },
+      {
+       "n": "37",
+       "op": "set",
+       "field": "hindi",
+       "value": "कुत्ते सुख से सोएँ, और जो गाँव में उत्सुक हैं; और साही का यह तीन-श्वेत काँटा ब्रह्मा द्वारा बनाया हुआ है।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sarva-siddhā",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "sarva-siddhāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "sarva-siddhā",
+      "field": "w",
+      "value": "sarva-siddhāḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "yāvad",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "yāvat",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "yāvad",
+      "field": "w",
+      "value": "yāvat"
+     }
+    },
+    {
+     "field": "split",
+     "where": "udgamanād",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "udgamanāt",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "udgamanād",
+      "field": "w",
+      "value": "udgamanāt"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सब सिद्ध सो गए हैं",
+     "problem": "hi (indeed) is in the English but dropped in the Hindi",
+     "fix": "सचमुच",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सब सिद्ध सो गए हैं;",
+      "new": "सब सिद्ध सचमुच सो गए हैं;"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "samidhābhir",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "samidhābhiḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "word",
+      "match_w": "samidhābhir",
+      "field": "w",
+      "value": "samidhābhiḥ"
+     }
+    },
+    {
+     "field": "split",
+     "where": "tri-śvetāni,",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tri-śvetāni",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "word",
+      "match_w": "tri-śvetāni,",
+      "field": "w",
+      "value": "tri-śvetāni"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aṣṭa-śata-sampātaṃ",
+     "problem": "aṣṭa-śata is rendered '108' as fact; the compound is literally 'eight-hundred' and 108 is the conventional reading (contested count). Translations keep 108 with a note; a person should confirm",
+     "fix": "note",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "41",
+       "op": "word",
+       "match_w": "aṣṭa-śata-sampātaṃ",
+       "field": "gloss",
+       "value": "having aṣṭa-śata sampātas (aṣṭa-śata usually 108; literally 'eight-hundred')"
+      },
+      {
+       "n": "41",
+       "op": "append_note",
+       "text": "Count: aṣṭa-śata is read as 108 (the usual ritual number) in English and Hindi; literally it could be 800. Needs a person."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tata",
+     "problem": "sandhi not undone in the dictionary form `w` (the draft undoes it elsewhere, e.g. dvayoḥ, siddhāḥ in 24)",
+     "fix": "tataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "tata",
+      "field": "w",
+      "value": "tataḥ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "grāma-dvāri / gṛha-dvāri",
+     "problem": "gender: dvār is feminine, not neuter",
+     "fix": "f. loc. sg.",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "42",
+       "op": "word",
+       "match_w": "grāma-dvāri",
+       "field": "gram",
+       "value": "tat-puruṣa, f. loc. sg."
+      },
+      {
+       "n": "42",
+       "op": "word",
+       "match_w": "gṛha-dvāri",
+       "field": "gram",
+       "value": "tat-puruṣa, f. loc. sg."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "निकुम्भ, ... और महान् असुर की भी",
+     "problem": "'और' before the last name and 'भी' are not in the Sanskrit (no ca/eva in this line; the English correctly has neither)",
+     "fix": "remove",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "set",
+      "field": "hindi",
+      "value": "“वैरोचन बलि की, शतमाय और शम्बर की मैं वन्दना करता हूँ; निकुम्भ, नरक, कुम्भ, तन्तुकच्छ, महान् असुर की।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "44 units reviewed. Errors: unit 10 (kāla-āyasīm split), 21 (camū-khala given an invented sense), 23 (-āḥ read as accusative object), 25 (Hindi and English give different readings; mayi as 'from me'), 36 (vayu-cāre glossed). Minor: unmarked sandhi in many `w` forms, printed typo forms kept in `w` (4, 11, 18), wrong gender labels (22, 42), compound type (17), dropped ca/hi/extra bhī (21, 37, 38, 43), aṣṭa-śata=108 stated as fact (41). All nine text_flags confirmed as 'possible' (4, 6, 11, 18, 31 are real typos; 1, 22, 24 remain unconfirmed variants; wording of 22 and 24 neutralised). Grouping: unit 39 (svāhā\") correctly closes the mantra of 34-38 and stays a separate unit; no regrouping. Bracketed glosses/Latin letters in Hindi: none found. Glossary: antardhāna, yoga, svāpana, śvāvidh, śalyaka accepted; Book 14.3 entries appended."
+}

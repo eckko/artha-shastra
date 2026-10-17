@@ -1,0 +1,5186 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mārjāra.uṣṭra.vṛka.varāha.śva.avi.dvāgulī.naptṛ.kāka.ulūkānām",
+      "words": [
+       {
+        "w": "mārjāra-uṣṭra-vṛka-varāha-śva-avi-dvāgulī-naptṛ-kāka-ulūkānām",
+        "gloss": "of cat, camel, wolf, boar, dog, sheep, dvāgulī, naptṛ, crow, owl",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anyeṣāṃ",
+      "words": [
+       {
+        "w": "anyeṣāṃ",
+        "gloss": "of other",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niśā.carāṇāṃ",
+      "words": [
+       {
+        "w": "niśā-carāṇāṃ",
+        "gloss": "night-roaming",
+        "gram": "tat-puruṣa, n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sattvānām",
+      "words": [
+       {
+        "w": "sattvānām",
+        "gloss": "of creatures",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ekasya",
+      "words": [
+       {
+        "w": "ekasya",
+        "gloss": "of one",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvayor",
+      "words": [
+       {
+        "w": "dvayoḥ",
+        "gloss": "of two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "bahūnāṃ",
+      "words": [
+       {
+        "w": "bahūnāṃ",
+        "gloss": "of many",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dakṣiṇāni",
+      "words": [
+       {
+        "w": "dakṣiṇāni",
+        "gloss": "right",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāmāni",
+      "words": [
+       {
+        "w": "vāmāni",
+        "gloss": "left",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-akṣīṇi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "akṣīṇi",
+        "gloss": "eyes",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gṛhītvā",
+      "words": [
+       {
+        "w": "gṛhītvā",
+        "gloss": "having taken",
+        "gram": "abs. √grah"
+       }
+      ]
+     },
+     {
+      "src": "dvidhā",
+      "words": [
+       {
+        "w": "dvidhā",
+        "gloss": "in two parts",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cūrṇaṃ",
+      "words": [
+       {
+        "w": "cūrṇaṃ",
+        "gloss": "powder",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have made",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिल्ली, ऊँट, भेड़िया, सूअर, कुत्ता, भेड़, द्वागुली, नप्तृ, कौआ और उल्लू के, अथवा रात में विचरने वाले अन्य प्राणियों के, एक के, दो के या बहुतों के, दाहिने और बाएँ नेत्र लेकर दो भागों में चूर्ण बनवाए।",
+  "english": "Having taken the right and left eyes of cats, camels, wolves, boars, dogs, sheep, dvāgulīs, naptṛs, crows and owls, or of other night-roaming creatures, of one, of two, or of many, one should have a powder made in two parts.",
+  "text_flags": [
+   {
+    "src": "dvāgulī",
+    "suggest": "vāgulī",
+    "why": "possible: the creature is called vāgulī in units 6 and 17; the initial d may be a typing slip (the Devanagari has the same द्वा)"
+   }
+  ],
+  "notes": "dvāgulī and naptṛ are obscure creature names and are kept as printed (naptṛ literally 'grandson'); not identified. dvāgulī is possibly a variant of vāgulī (see flag). dvidhā cūrṇam: 'powder in two parts'; the next unit suggests right and left eyes are powdered separately, but the line does not say so. The e-text marks compound members with '.' and the unsandhied join ca-akṣīṇi with '-'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.1"
+  ],
+  "lines_deva": [
+   "मार्जार.उष्ट्र.वृक.वराह.श्व.अवि.द्वागुली.नप्तृ.काक.उलूकानाम् अन्येषां वा निशा.चराणां सत्त्वानाम् एकस्य द्वयोर् बहूनां वा दक्षिणानि वामानि च-अक्षीणि गृहीत्वा द्विधा चूर्णं कारयेत्"
+  ],
+  "lines_iast": [
+   "mārjāra.uṣṭra.vṛka.varāha.śva.avi.dvāgulī.naptṛ.kāka.ulūkānām anyeṣāṃ vā niśā.carāṇāṃ sattvānām ekasya dvayor bahūnāṃ vā dakṣiṇāni vāmāni ca-akṣīṇi gṛhītvā dvidhā cūrṇaṃ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dakṣiṇaṃ",
+      "words": [
+       {
+        "w": "dakṣiṇaṃ",
+        "gloss": "the right",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāmena",
+      "words": [
+       {
+        "w": "vāmena",
+        "gloss": "with the left",
+        "gram": "inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāmaṃ",
+      "words": [
+       {
+        "w": "vāmaṃ",
+        "gloss": "the left",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dakṣiṇena",
+      "words": [
+       {
+        "w": "dakṣiṇena",
+        "gloss": "with the right",
+        "gram": "inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "samabhyajya",
+      "words": [
+       {
+        "w": "samabhyajya",
+        "gloss": "having anointed",
+        "gram": "abs. sam-abhi-√añj"
+       }
+      ]
+     },
+     {
+      "src": "rātrau",
+      "words": [
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tamasi",
+      "words": [
+       {
+        "w": "tamasi",
+        "gloss": "in darkness",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paśyati",
+      "words": [
+       {
+        "w": "paśyati",
+        "gloss": "sees",
+        "gram": "3 sg. pres. √paś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "फिर दाहिने को बाएँ से और बाएँ को दाहिने से लेपित करके वह रात में और अँधेरे में देखता है।",
+  "english": "Then, having anointed the right [eye] with the left [powder] and the left with the right, he sees at night and in darkness.",
+  "text_flags": [],
+  "notes": "Only 'the right' and 'the left' are in the Sanskrit; eyes and powders are supplied from the previous unit. The subject of paśyati is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.2"
+  ],
+  "lines_deva": [
+   "ततो दक्षिणं वामेन वामं दक्षिणेन समभ्यज्य रात्रौ तमसि च पश्यति"
+  ],
+  "lines_iast": [
+   "tato dakṣiṇaṃ vāmena vāmaṃ dakṣiṇena samabhyajya rātrau tamasi ca paśyati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eka.āmlakaṃ",
+      "words": [
+       {
+        "w": "eka-āmlakaṃ",
+        "gloss": "one āmlaka",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varāha.akṣi",
+      "words": [
+       {
+        "w": "varāha-akṣi",
+        "gloss": "boar's eye",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kha.dyotaḥ",
+      "words": [
+       {
+        "w": "kha-dyotaḥ",
+        "gloss": "firefly",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāla.śārivā",
+      "words": [
+       {
+        "w": "kāla-śārivā",
+        "gloss": "black śārivā",
+        "gram": "karmadhāraya, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "etena-abhyakta.nayano",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "with this",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "abhyakta-nayanaḥ",
+        "gloss": "whose eyes are anointed",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rātrau",
+      "words": [
+       {
+        "w": "rātrau",
+        "gloss": "at night",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rūpāṇi",
+      "words": [
+       {
+        "w": "rūpāṇi",
+        "gloss": "forms",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "paśyati",
+      "words": [
+       {
+        "w": "paśyati",
+        "gloss": "sees",
+        "gram": "3 sg. pres. √paś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक आम्लक, वराह की आँख, जुगनू, काली शारिवा। इससे जिसकी आँखें लेपित हैं, वह रात में रूपों को देखता है।",
+  "english": "One āmlaka, a boar's eye, a firefly, black śārivā. One whose eyes are anointed with this sees forms at night.",
+  "text_flags": [],
+  "notes": "Ingredient list in the nominative. āmlaka (possibly a fruit or a sour thing) and śārivā are kept as names and not identified. eka-āmlakaṃ could also be read eka + āmlakaṃ 'one, an āmlaka', same sense. kha-dyota = 'sky-light', the usual word for firefly. kāla-śārivā: kāla taken as 'black'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.3a",
+   "14.03.3b"
+  ],
+  "lines_deva": [
+   "एक.आम्लकं वराह.अक्षि ख.द्योतः काल.शारिवा",
+   "एतेन-अभ्यक्त.नयनो रात्रौ रूपाणि पश्यति"
+  ],
+  "lines_iast": [
+   "eka.āmlakaṃ varāha.akṣi kha.dyotaḥ kāla.śārivā",
+   "etena-abhyakta.nayano rātrau rūpāṇi paśyati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tri.rātra.upoṣitaḥ",
+      "words": [
+       {
+        "w": "tri-rātra-upoṣitaḥ",
+        "gloss": "having fasted three nights",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣyeṇa",
+      "words": [
+       {
+        "w": "puṣyeṇa",
+        "gloss": "under Puṣya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastra.hatasya",
+      "words": [
+       {
+        "w": "śastra-hatasya",
+        "gloss": "killed by a weapon",
+        "gram": "tat-puruṣa, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūla.protasya",
+      "words": [
+       {
+        "w": "śūla-protasya",
+        "gloss": "impaled on a stake",
+        "gram": "tat-puruṣa, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "puṃsaḥ",
+      "words": [
+       {
+        "w": "puṃsaḥ",
+        "gloss": "of a man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ.kapāle",
+      "words": [
+       {
+        "w": "śiraḥ-kapāle",
+        "gloss": "in the skull",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛttikāyāṃ",
+      "words": [
+       {
+        "w": "mṛttikāyāṃ",
+        "gloss": "in earth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavān",
+      "words": [
+       {
+        "w": "yavān",
+        "gloss": "barley",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "āvāsya-avikṣīreṇa",
+      "words": [
+       {
+        "w": "āvāpya",
+        "gloss": "having sown",
+        "gram": "abs. ā-√vap, caus. (āvāpya, emended from printed āvāsya; see flag)"
+       },
+       {
+        "w": "avi-kṣīreṇa",
+        "gloss": "with sheep's milk",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "secayet",
+      "words": [
+       {
+        "w": "secayet",
+        "gloss": "should sprinkle",
+        "gram": "3 sg. opt. caus. √sic"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन रात उपवास किया हुआ, पुष्य में, शस्त्र से मारे गए अथवा शूल में पिरोए गए पुरुष की खोपड़ी में, मिट्टी में जौ बोकर, भेड़ के दूध से सींचे।",
+  "english": "Having fasted three nights, under Puṣya, having sown barley in earth in the skull of a man killed by a weapon or impaled on a stake, one should sprinkle it with sheep's milk.",
+  "text_flags": [
+   {
+    "src": "āvāsya-avikṣīreṇa",
+    "suggest": "āvāpya-avikṣīreṇa",
+    "why": "possible: āvāpya 'having sown' fits barley (yavān) and the earth; āvāsya (ā-√vas or ā-√vā) gives no clear sense"
+   }
+  ],
+  "notes": "Puṣya is a lunar mansion (nakṣatra); inst. puṣyeṇa taken as 'under/at Puṣya'. 'sow it in earth in the skull' is the literal order; 'it' in the English is the sown barley. If āvāsya is kept, the sense is unclear ('having made them stay'). The whole recipe is given as a bare description; no effect is claimed in this unit. The translation 'sown' follows the emended reading āvāpya; with the printed āvāsya the sense is not established.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.4"
+  ],
+  "lines_deva": [
+   "त्रि.रात्र.उपोषितः पुष्येण शस्त्र.हतस्य शूल.प्रोतस्य वा पुंसः शिरः.कपाले मृत्तिकायां यवान् आवास्य-अविक्षीरेण सेचयेत्"
+  ],
+  "lines_iast": [
+   "tri.rātra.upoṣitaḥ puṣyeṇa śastra.hatasya śūla.protasya vā puṃsaḥ śiraḥ.kapāle mṛttikāyāṃ yavān āvāsya-avikṣīreṇa secayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yava.virūḍha.mālām",
+      "words": [
+       {
+        "w": "yava-virūḍha-mālām",
+        "gloss": "garland of sprouted barley",
+        "gram": "tat-puruṣa, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ābadhya",
+      "words": [
+       {
+        "w": "ābadhya",
+        "gloss": "having tied on",
+        "gram": "abs. ā-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "naṣṭac.chāyā.rūpaś",
+      "words": [
+       {
+        "w": "naṣṭa-chāyā-rūpaḥ",
+        "gloss": "whose shadow-form is lost",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "moves about",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब जौ के अंकुरों की माला बाँधकर, जिसका छाया-रूप नष्ट हो गया है ऐसा वह विचरता है।",
+  "english": "Then, having tied on a garland of sprouted barley, he moves about with his shadow-form lost.",
+  "text_flags": [],
+  "notes": "naṣṭac.chāyā.rūpaś is split naṣṭa-chāyā-rūpaḥ (the e-text has the sandhi cc inside a '.' compound; unit 13 prints naṣṭa.chāyā.rūpaś). chāyā-rūpa 'shadow-form' is kept literal; it may be read 'shadow and form' (dvandva) or 'appearance'; the meaning 'invisible' is not stated in the text. virūḍha = grown, sprouted.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.5"
+  ],
+  "lines_deva": [
+   "ततो यव.विरूढ.मालाम् आबध्य नष्टच्.छाया.रूपश् चरति"
+  ],
+  "lines_iast": [
+   "tato yava.virūḍha.mālām ābadhya naṣṭac.chāyā.rūpaś carati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tri.ratra.upoṣitaḥ",
+      "words": [
+       {
+        "w": "tri-rātra-upoṣitaḥ",
+        "gloss": "having fasted three nights",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣyeṇa",
+      "words": [
+       {
+        "w": "puṣyeṇa",
+        "gloss": "under Puṣya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śva.mārjāra.ulūka.vāgulīnāṃ",
+      "words": [
+       {
+        "w": "śva-mārjāra-ulūka-vāgulīnāṃ",
+        "gloss": "of dog, cat, owl and vāgulī",
+        "gram": "dvandva, f./m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dakṣiṇāni",
+      "words": [
+       {
+        "w": "dakṣiṇāni",
+        "gloss": "right",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāmāni",
+      "words": [
+       {
+        "w": "vāmāni",
+        "gloss": "left",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-akṣīṇi",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "akṣīṇi",
+        "gloss": "eyes",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvidhā",
+      "words": [
+       {
+        "w": "dvidhā",
+        "gloss": "in two parts",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cūrṇaṃ",
+      "words": [
+       {
+        "w": "cūrṇaṃ",
+        "gloss": "powder",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have made",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन रात उपवास किया हुआ, पुष्य में, कुत्ते, बिल्ली, उल्लू और वागुली की दाहिनी और बाईं आँखों का दो भागों में चूर्ण बनवाए।",
+  "english": "Having fasted three nights, under Puṣya, one should have a powder made in two parts of the right and left eyes of dogs, cats, owls and vāgulīs.",
+  "text_flags": [
+   {
+    "src": "tri.ratra.upoṣitaḥ",
+    "suggest": "tri.rātra.upoṣitaḥ",
+    "why": "short a for ā: rātra is spelt with ā in units 4, 8, 10 and 28; the Devanagari also has रत्र"
+   }
+  ],
+  "notes": "vāgulī is an obscure creature name, kept as printed (possibly bat, not stated). The 'right and left eyes' are of the four creatures named.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.6"
+  ],
+  "lines_deva": [
+   "त्रि.रत्र.उपोषितः पुष्येण श्व.मार्जार.उलूक.वागुलीनां दक्षिणानि वामानि च-अक्षीणि द्विधा चूर्णं कारयेत्"
+  ],
+  "lines_iast": [
+   "tri.ratra.upoṣitaḥ puṣyeṇa śva.mārjāra.ulūka.vāgulīnāṃ dakṣiṇāni vāmāni ca-akṣīṇi dvidhā cūrṇaṃ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā.svam",
+      "words": [
+       {
+        "w": "yathā-svam",
+        "gloss": "in his own way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "abhyakta.akṣo",
+      "words": [
+       {
+        "w": "abhyakta-akṣaḥ",
+        "gloss": "whose eyes are anointed",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naṣṭac.chāyā.rūpaś",
+      "words": [
+       {
+        "w": "naṣṭa-chāyā-rūpaḥ",
+        "gloss": "whose shadow-form is lost",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "moves about",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब अपने ढंग से जिसकी आँखें लेपित हैं और जिसका छाया-रूप नष्ट हो गया है, वह विचरता है।",
+  "english": "Then, with his eyes anointed in his own way and his shadow-form lost, he moves about.",
+  "text_flags": [],
+  "notes": "yathā-svam is literally 'according to one's own'; it may mean each powder in its own way (each eye-powder as prescribed) or 'as he himself wishes'. Kept general.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.7"
+  ],
+  "lines_deva": [
+   "ततो यथा.स्वम् अभ्यक्त.अक्षो नष्टच्.छाया.रूपश् चरति"
+  ],
+  "lines_iast": [
+   "tato yathā.svam abhyakta.akṣo naṣṭac.chāyā.rūpaś carati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tri.rātra.upoṣitaḥ",
+      "words": [
+       {
+        "w": "tri-rātra-upoṣitaḥ",
+        "gloss": "having fasted three nights",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣyeṇa",
+      "words": [
+       {
+        "w": "puṣyeṇa",
+        "gloss": "under Puṣya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣa.ghātinaḥ",
+      "words": [
+       {
+        "w": "puruṣa-ghātinaḥ",
+        "gloss": "man-killing",
+        "gram": "tat-puruṣa, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāṇḍakasya",
+      "words": [
+       {
+        "w": "kāṇḍakasya",
+        "gloss": "of the kāṇḍaka",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śalākām",
+      "words": [
+       {
+        "w": "śalākām",
+        "gloss": "rod",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "añjanīṃ",
+      "words": [
+       {
+        "w": "añjanīṃ",
+        "gloss": "añjanī, collyrium container",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have made",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन रात उपवास किया हुआ, पुष्य में, पुरुष का वध करने वाले काण्डक की शलाका और अञ्जनी बनवाए।",
+  "english": "Having fasted three nights, under Puṣya, one should have made a rod and an añjanī of a man-killing kāṇḍaka.",
+  "text_flags": [],
+  "notes": "kāṇḍaka is obscure (it could be an arrow or reed-like object; not stated) and is kept as a name. The genitive kāṇḍakasya may govern only śalākām or both objects; 'of' is placed before both. añjanī = a vessel or stick for eye ointment (añjana).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.8"
+  ],
+  "lines_deva": [
+   "त्रि.रात्र.उपोषितः पुष्येण पुरुष.घातिनः काण्डकस्य शलाकाम् अञ्जनीं च कारयेत्"
+  ],
+  "lines_iast": [
+   "tri.rātra.upoṣitaḥ puṣyeṇa puruṣa.ghātinaḥ kāṇḍakasya śalākām añjanīṃ ca kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anyatamena-akṣi.cūrṇena-abhyakta.akṣo",
+      "words": [
+       {
+        "w": "anyatamena",
+        "gloss": "with any one",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "akṣi-cūrṇena",
+        "gloss": "with eye-powder",
+        "gram": "tat-puruṣa, n. inst. sg."
+       },
+       {
+        "w": "abhyakta-akṣaḥ",
+        "gloss": "whose eyes are anointed",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naṣṭac.chāyā.rūpaś",
+      "words": [
+       {
+        "w": "naṣṭa-chāyā-rūpaḥ",
+        "gloss": "whose shadow-form is lost",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "moves about",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब किसी एक नेत्र-चूर्ण से जिसकी आँखें लेपित हैं, वह नष्ट-छाया-रूप होकर विचरता है।",
+  "english": "Then, with his eyes anointed with any one of the eye-powders, he moves about with his shadow-form lost.",
+  "text_flags": [],
+  "notes": "tato anyatamena: tataḥ is written tato; no avagraha in the e-text. 'the eye-powders' refers back to the powders made in units 1 to 6 (supplied from context).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.9"
+  ],
+  "lines_deva": [
+   "ततो अन्यतमेन-अक्षि.चूर्णेन-अभ्यक्त.अक्षो नष्टच्.छाया.रूपश् चरति"
+  ],
+  "lines_iast": [
+   "tato anyatamena-akṣi.cūrṇena-abhyakta.akṣo naṣṭac.chāyā.rūpaś carati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tri.rātra.upoṣitaḥ",
+      "words": [
+       {
+        "w": "tri-rātra-upoṣitaḥ",
+        "gloss": "having fasted three nights",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣyeṇa",
+      "words": [
+       {
+        "w": "puṣyeṇa",
+        "gloss": "under Puṣya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālāyasīm",
+      "words": [
+       {
+        "w": "kāla-āyasīm",
+        "gloss": "of black iron",
+        "gram": "karmadhāraya, f. acc. sg. (āyasī, fem. of āyasa 'made of iron')"
+       }
+      ]
+     },
+     {
+      "src": "añjanīṃ",
+      "words": [
+       {
+        "w": "añjanīṃ",
+        "gloss": "añjanī, collyrium container",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śalākāṃ",
+      "words": [
+       {
+        "w": "śalākāṃ",
+        "gloss": "rod",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have made",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन रात उपवास किया हुआ, पुष्य में, काले लोहे की अञ्जनी और शलाका बनवाए।",
+  "english": "Having fasted three nights, under Puṣya, one should have an añjanī and a rod of black iron made.",
+  "text_flags": [],
+  "notes": "kālāyasīm = kāla-āyasīm 'of black iron' (āyasa 'made of iron') (feminine, agreeing with añjanīm and śalākām).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.10"
+  ],
+  "lines_deva": [
+   "त्रि.रात्र.उपोषितः पुष्येण कालायसीम् अञ्जनीं शलाकां च कारयेत्"
+  ],
+  "lines_iast": [
+   "tri.rātra.upoṣitaḥ puṣyeṇa kālāyasīm añjanīṃ śalākāṃ ca kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niśā.carāṇāṃ",
+      "words": [
+       {
+        "w": "niśā-carāṇāṃ",
+        "gloss": "night-roaming",
+        "gram": "tat-puruṣa, n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sattvānām",
+      "words": [
+       {
+        "w": "sattvānām",
+        "gloss": "of creatures",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anyatamasya",
+      "words": [
+       {
+        "w": "anyatamasya",
+        "gloss": "of any one",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiraḥ.kapālam",
+      "words": [
+       {
+        "w": "śiraḥ-kapālam",
+        "gloss": "skull",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "añjanena",
+      "words": [
+       {
+        "w": "añjanena",
+        "gloss": "with ointment",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrayitvā",
+      "words": [
+       {
+        "w": "pūrayitvā",
+        "gloss": "having filled",
+        "gram": "abs. caus. √pṝ"
+       }
+      ]
+     },
+     {
+      "src": "mṛtāyāḥ",
+      "words": [
+       {
+        "w": "mṛtāyāḥ",
+        "gloss": "of a dead",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "striyā",
+      "words": [
+       {
+        "w": "striyāḥ",
+        "gloss": "woman",
+        "gram": "f. gen. sg. (emended from printed striyā; see flag)"
+       }
+      ]
+     },
+     {
+      "src": "yonau",
+      "words": [
+       {
+        "w": "yonau",
+        "gloss": "in the vagina",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praveśya",
+      "words": [
+       {
+        "w": "praveśya",
+        "gloss": "having inserted",
+        "gram": "abs. caus. pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "dāhayet",
+      "words": [
+       {
+        "w": "dāhayet",
+        "gloss": "should have burned",
+        "gram": "3 sg. opt. caus. √dah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब रात में विचरने वाले प्राणियों में से किसी एक की खोपड़ी को अञ्जन से भरकर, मरी हुई स्त्री की योनि में डालकर जलवाए।",
+  "english": "Then, having filled the skull of any one of the night-roaming creatures with ointment (añjana) and inserted it in the vagina of a dead woman, one should have it burned.",
+  "text_flags": [
+   {
+    "src": "striyā",
+    "suggest": "striyāḥ",
+    "why": "mṛtāyāḥ is genitive singular and needs striyāḥ; the final visarga looks lost"
+   }
+  ],
+  "notes": "añjana (ointment) is not said to be the one made in units 8 to 10, though context suggests it. 'it' (the filled skull) is supplied in English and implied in Hindi.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.11"
+  ],
+  "lines_deva": [
+   "ततो निशा.चराणां सत्त्वानाम् अन्यतमस्य शिरः.कपालम् अञ्जनेन पूरयित्वा मृतायाः स्त्रिया योनौ प्रवेश्य दाहयेत्"
+  ],
+  "lines_iast": [
+   "tato niśā.carāṇāṃ sattvānām anyatamasya śiraḥ.kapālam añjanena pūrayitvā mṛtāyāḥ striyā yonau praveśya dāhayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "añjanaṃ",
+      "words": [
+       {
+        "w": "añjanaṃ",
+        "gloss": "ointment",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣyeṇa-uddhṛtya",
+      "words": [
+       {
+        "w": "puṣyeṇa",
+        "gloss": "under Puṣya",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "uddhṛtya",
+        "gloss": "having taken out",
+        "gram": "abs. ud-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "tasyām",
+      "words": [
+       {
+        "w": "tasyām",
+        "gloss": "in that",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "añjanyāṃ",
+      "words": [
+       {
+        "w": "añjanyāṃ",
+        "gloss": "in the añjanī",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nidadhyāt",
+      "words": [
+       {
+        "w": "nidadhyāt",
+        "gloss": "should place",
+        "gram": "3 sg. opt. ni-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस अञ्जन को पुष्य में निकालकर उस अञ्जनी में रखे।",
+  "english": "Having taken out that ointment under Puṣya, one should place it in that añjanī.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.12"
+  ],
+  "lines_deva": [
+   "तद् अञ्जनं पुष्येण-उद्धृत्य तस्याम् अञ्जन्यां निदध्यात्"
+  ],
+  "lines_iast": [
+   "tad añjanaṃ puṣyeṇa-uddhṛtya tasyām añjanyāṃ nidadhyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena-abhyakta.akṣo",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "abhyakta-akṣaḥ",
+        "gloss": "whose eyes are anointed",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "naṣṭa.chāyā.rūpaś",
+      "words": [
+       {
+        "w": "naṣṭa-chāyā-rūpaḥ",
+        "gloss": "whose shadow-form is lost",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "moves about",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे जिसकी आँखें लेपित हैं, वह नष्ट-छाया-रूप होकर विचरता है।",
+  "english": "With that, with his eyes anointed, he moves about with his shadow-form lost.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.13"
+  ],
+  "lines_deva": [
+   "तेन-अभ्यक्त.अक्षो नष्ट.छाया.रूपश् चरति"
+  ],
+  "lines_iast": [
+   "tena-abhyakta.akṣo naṣṭa.chāyā.rūpaś carati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "brāhmaṇam",
+      "words": [
+       {
+        "w": "brāhmaṇam",
+        "gloss": "a brāhmaṇa",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āhita.agniṃ",
+      "words": [
+       {
+        "w": "āhita-agniṃ",
+        "gloss": "who has set up the fire",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dagdhaṃ",
+      "words": [
+       {
+        "w": "dagdhaṃ",
+        "gloss": "burnt",
+        "gram": "pp. √dah, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dahyamānaṃ",
+      "words": [
+       {
+        "w": "dahyamānaṃ",
+        "gloss": "being burnt",
+        "gram": "pres. pass. part. √dah, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paśyet",
+      "words": [
+       {
+        "w": "paśyet",
+        "gloss": "should see",
+        "gram": "3 sg. opt. √paś"
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tri.rātra.upoṣitaḥ",
+      "words": [
+       {
+        "w": "tri-rātra-upoṣitaḥ",
+        "gloss": "having fasted three nights",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣyeṇa",
+      "words": [
+       {
+        "w": "puṣyeṇa",
+        "gloss": "under Puṣya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "svayaṃ.mṛtasya",
+      "words": [
+       {
+        "w": "svayaṃ-mṛtasya",
+        "gloss": "of one dead by himself",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsasā",
+      "words": [
+       {
+        "w": "vāsasā",
+        "gloss": "with a garment",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasevaṃ",
+      "words": [
+       {
+        "w": "prasevaṃ",
+        "gloss": "bag",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having made",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "citā.bhasmanā",
+      "words": [
+       {
+        "w": "citā-bhasmanā",
+        "gloss": "with pyre-ashes",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrayitvā",
+      "words": [
+       {
+        "w": "pūrayitvā",
+        "gloss": "having filled",
+        "gram": "abs. caus. √pṝ"
+       }
+      ]
+     },
+     {
+      "src": "tam",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ābadhya",
+      "words": [
+       {
+        "w": "ābadhya",
+        "gloss": "having tied on",
+        "gram": "abs. ā-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "naṣṭac.chāyā.rūpaś",
+      "words": [
+       {
+        "w": "naṣṭa-chāyā-rūpaḥ",
+        "gloss": "whose shadow-form is lost",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "carati",
+      "words": [
+       {
+        "w": "carati",
+        "gloss": "moves about",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जहाँ आहिताग्नि ब्राह्मण को जला हुआ अथवा जलता हुआ देखे, वहाँ तीन रात उपवास किया हुआ, पुष्य में, अपने आप मरे हुए के वस्त्र से थैली बनाकर, चिता की भस्म से भरकर, उसे बाँधकर, नष्ट-छाया-रूप होकर विचरता है।",
+  "english": "Where one should see a brāhmaṇa who has set up the fire, burnt or being burnt, there, having fasted three nights, under Puṣya, having made a bag with the garment of one who has died of himself and having filled it with pyre-ashes and tied it on, he moves about with his shadow-form lost.",
+  "text_flags": [],
+  "notes": "svayaṃ-mṛta is literally 'dead by himself'; it may mean one who died a natural death (not killed). prasevaṃ = bag (the sense of prasevaka); medium confidence. āhita-agni: one who has installed the sacred fire. The Sanskrit does not say whose garment is 'one who has died of himself' (it may be the brāhmaṇa or another).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.14"
+  ],
+  "lines_deva": [
+   "यत्र ब्राह्मणम् आहित.अग्निं दग्धं दह्यमानं वा पश्येत् तत्र त्रि.रात्र.उपोषितः पुष्येण स्वयं.मृतस्य वाससा प्रसेवं कृत्वा चिता.भस्मना पूरयित्वा तम् आबध्य नष्टच्.छाया.रूपश् चरति"
+  ],
+  "lines_iast": [
+   "yatra brāhmaṇam āhita.agniṃ dagdhaṃ dahyamānaṃ vā paśyet tatra tri.rātra.upoṣitaḥ puṣyeṇa svayaṃ.mṛtasya vāsasā prasevaṃ kṛtvā citā.bhasmanā pūrayitvā tam ābadhya naṣṭac.chāyā.rūpaś carati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brāhmaṇasya",
+      "words": [
+       {
+        "w": "brāhmaṇasya",
+        "gloss": "of a brāhmaṇa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "preta.kārye",
+      "words": [
+       {
+        "w": "preta-kārye",
+        "gloss": "in the funeral rite",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaur",
+      "words": [
+       {
+        "w": "gauḥ",
+        "gloss": "cow",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "māryate",
+      "words": [
+       {
+        "w": "māryate",
+        "gloss": "is killed",
+        "gram": "3 sg. pass. √mṛ caus."
+       }
+      ]
+     },
+     {
+      "src": "tasya-asthi.majja.cūrṇa.pūrṇā-ahi.bhastrā",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "its",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "asthi-majja-cūrṇa-pūrṇā",
+        "gloss": "filled with powder of bones and marrow",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ahi-bhastrā",
+        "gloss": "snake-bag",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paśūnām",
+      "words": [
+       {
+        "w": "paśūnām",
+        "gloss": "from animals",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "antar.dhānam",
+      "words": [
+       {
+        "w": "antar-dhānam",
+        "gloss": "concealment",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ब्राह्मण के प्रेतकर्म में जो गौ मारी जाती है, उसकी अस्थि और मज्जा के चूर्ण से भरी साँप की थैली पशुओं से अन्तर्धान है।",
+  "english": "A snake-bag filled with powder of the bones and marrow of the cow that is killed in the funeral rite of a brāhmaṇa is the concealment (antardhāna) from animals.",
+  "text_flags": [],
+  "notes": "Nominal sentence; 'is' is supplied. gaur is masculine (a bovine; 'cow' used). ahi-bhastrā: literally 'snake-bag', possibly a bag made of snake-skin; not decided. asthi-majja may also be read 'bone-marrow'. paśūnām antardhānam: genitive of the creatures from whom one is concealed ('concealment from animals'). In units 15 to 17 the classes paśu (domestic animals), mṛga (beasts) and pakṣin (birds) are named.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.15"
+  ],
+  "lines_deva": [
+   "ब्राह्मणस्य प्रेत.कार्ये यो गौर् मार्यते तस्य-अस्थि.मज्ज.चूर्ण.पूर्णा-अहि.भस्त्रा पशूनाम् अन्तर्.धानम्"
+  ],
+  "lines_iast": [
+   "brāhmaṇasya preta.kārye yo gaur māryate tasya-asthi.majja.cūrṇa.pūrṇā-ahi.bhastrā paśūnām antar.dhānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarpa.daṣṭasya",
+      "words": [
+       {
+        "w": "sarpa-daṣṭasya",
+        "gloss": "of one bitten by a snake",
+        "gram": "tat-puruṣa, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhasmanā",
+      "words": [
+       {
+        "w": "bhasmanā",
+        "gloss": "with ash",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrṇā",
+      "words": [
+       {
+        "w": "pūrṇā",
+        "gloss": "filled",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pracalāka.bhastrā",
+      "words": [
+       {
+        "w": "pracalāka-bhastrā",
+        "gloss": "pracalāka-bag",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛgāṇām",
+      "words": [
+       {
+        "w": "mṛgāṇām",
+        "gloss": "from beasts",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "antar.dhānam",
+      "words": [
+       {
+        "w": "antar-dhānam",
+        "gloss": "concealment",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साँप के काटे हुए की भस्म से भरी प्रचलाक की थैली मृगों से अन्तर्धान है।",
+  "english": "A pracalāka-bag filled with the ash of one bitten by a snake is the concealment from beasts (mṛga).",
+  "text_flags": [],
+  "notes": "pracalāka is obscure and kept as printed (the compound could be 'bag of pracalāka'; a kind of snake or other creature is possible, not stated). 'the ash of one bitten' is literally 'with the ash of the snake-bitten'. mṛga = beasts, deer, wild animals; 'beasts' used.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.16"
+  ],
+  "lines_deva": [
+   "सर्प.दष्टस्य भस्मना पूर्णा प्रचलाक.भस्त्रा मृगाणाम् अन्तर्.धानम्"
+  ],
+  "lines_iast": [
+   "sarpa.daṣṭasya bhasmanā pūrṇā pracalāka.bhastrā mṛgāṇām antar.dhānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ulūka.vāgulī.puccha.purīṣa.jānv.asthi.cūrṇa.pūrṇā-ahi.bhastrā",
+      "words": [
+       {
+        "w": "ulūka-vāgulī-puccha-purīṣa-jānu-asthi-cūrṇa-pūrṇā",
+        "gloss": "filled with powder of tail, dung and knee-bone of owl and vāgulī",
+        "gram": "tat-puruṣa (inst. 'filled with ...'), f. nom. sg."
+       },
+       {
+        "w": "ahi-bhastrā",
+        "gloss": "snake-bag",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pakṣiṇām",
+      "words": [
+       {
+        "w": "pakṣiṇām",
+        "gloss": "from birds",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "antar.dhānam",
+      "words": [
+       {
+        "w": "antar-dhānam",
+        "gloss": "concealment",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उल्लू और वागुली की पूँछ, विष्ठा और घुटने की हड्डी के चूर्ण से भरी साँप की थैली पक्षियों से अन्तर्धान है।",
+  "english": "A snake-bag filled with powder of the tail, dung and knee-bone of the owl and vāgulī is the concealment from birds.",
+  "text_flags": [],
+  "notes": "The compound can also be divided as 'owl; tail, dung and knee-bone of the vāgulī'; the reading 'of both creatures' is chosen. jānv.asthi is jānu-asthi (knee-bone).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.17"
+  ],
+  "lines_deva": [
+   "उलूक.वागुली.पुच्छ.पुरीष.जान्व्.अस्थि.चूर्ण.पूर्णा-अहि.भस्त्रा पक्षिणाम् अन्तर्.धानम्"
+  ],
+  "lines_iast": [
+   "ulūka.vāgulī.puccha.purīṣa.jānv.asthi.cūrṇa.pūrṇā-ahi.bhastrā pakṣiṇām antar.dhānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aṣṭāv",
+      "words": [
+       {
+        "w": "aṣṭau",
+        "gloss": "eight",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "antar.dhāna.yogaḥ",
+      "words": [
+       {
+        "w": "antar-dhāna-yogāḥ",
+        "gloss": "contrivances of concealment",
+        "gram": "tat-puruṣa, m. nom. pl. (emended from printed yogaḥ; see flag)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार अन्तर्धान के आठ योग।",
+  "english": "Thus, eight contrivances of concealment.",
+  "text_flags": [
+   {
+    "src": "yogaḥ",
+    "suggest": "yogāḥ",
+    "why": "possible: aṣṭau 'eight' needs a plural, yogāḥ; though an eight-part set could be taken as a collective singular"
+   }
+  ],
+  "notes": "yoga rendered 'contrivance' as in 12.4 of the glossary (here: a prescribed preparation). The count of eight is not checked against the preceding units here. The closing iti is rendered 'thus'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.18"
+  ],
+  "lines_deva": [
+   "इत्य् अष्टाव् अन्तर्.धान.योगः"
+  ],
+  "lines_iast": [
+   "ity aṣṭāv antar.dhāna.yogaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"baliṃ",
+      "words": [
+       {
+        "w": "\"baliṃ",
+        "gloss": "Bali",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vairocanaṃ",
+      "words": [
+       {
+        "w": "vairocanaṃ",
+        "gloss": "Vairocana, son of Virocana",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vande",
+      "words": [
+       {
+        "w": "vande",
+        "gloss": "I salute",
+        "gram": "1 sg. pres. √vand"
+       }
+      ]
+     },
+     {
+      "src": "śata.māyaṃ",
+      "words": [
+       {
+        "w": "śata-māyaṃ",
+        "gloss": "Shatamaya, of a hundred illusions",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śambaram",
+      "words": [
+       {
+        "w": "śambaram",
+        "gloss": "Shambara",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhaṇḍīra.pākaṃ",
+      "words": [
+       {
+        "w": "bhaṇḍīra-pākaṃ",
+        "gloss": "Bhandirapaka",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "narakaṃ",
+      "words": [
+       {
+        "w": "narakaṃ",
+        "gloss": "Naraka",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nikumbhaṃ",
+      "words": [
+       {
+        "w": "nikumbhaṃ",
+        "gloss": "Nikumbha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kumbham",
+      "words": [
+       {
+        "w": "kumbham",
+        "gloss": "Kumbha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“वैरोचन बलि की, शतमाय और शम्बर की, भण्डीरपाक, नरक, निकुम्भ और कुम्भ की भी मैं वन्दना करता हूँ।",
+  "english": "“I salute Bali Vairocana, Shatamaya and Shambara, Bhandirapaka, Naraka, Nikumbha and Kumbha as well.",
+  "text_flags": [],
+  "notes": "A list of names (asura-like figures; the text calls none of them so here). Vairocana is the patronymic of Bali. śata-māya may be an epithet of Śambara ('Śambara of a hundred illusions') or a separate name; the ca after it points to two names, as in unit 43 where it is written śatamāyaṃ. bhaṇḍīra-pāka may be one name or two (Bhaṇḍīra and Pāka); kept as one, as printed. The opening quotation mark is the editors'; the quoted mantra runs on through the following units.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.19a",
+   "14.03.19b"
+  ],
+  "lines_deva": [
+   "\"बलिं वैरोचनं वन्दे शत.मायं च शम्बरम्",
+   "भण्डीर.पाकं नरकं निकुम्भं कुम्भम् एव च"
+  ],
+  "lines_iast": [
+   "\"baliṃ vairocanaṃ vande śata.māyaṃ ca śambaram",
+   "bhaṇḍīra.pākaṃ narakaṃ nikumbhaṃ kumbham eva ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "devalaṃ",
+      "words": [
+       {
+        "w": "devalaṃ",
+        "gloss": "Devala",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāradaṃ",
+      "words": [
+       {
+        "w": "nāradaṃ",
+        "gloss": "Narada",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vande",
+      "words": [
+       {
+        "w": "vande",
+        "gloss": "I salute",
+        "gram": "1 sg. pres. √vand"
+       }
+      ]
+     },
+     {
+      "src": "vande",
+      "words": [
+       {
+        "w": "vande",
+        "gloss": "I salute",
+        "gram": "1 sg. pres. √vand"
+       }
+      ]
+     },
+     {
+      "src": "sāvarṇi.gālavam",
+      "words": [
+       {
+        "w": "sāvarṇi-gālavam",
+        "gloss": "Savarni-Galava",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "eteṣām",
+      "words": [
+       {
+        "w": "eteṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anuyogena",
+      "words": [
+       {
+        "w": "anuyogena",
+        "gloss": "by the application",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtaṃ",
+      "words": [
+       {
+        "w": "kṛtaṃ",
+        "gloss": "made",
+        "gram": "pp. √kṛ, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "pron. dat./gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāpanaṃ",
+      "words": [
+       {
+        "w": "svāpanaṃ",
+        "gloss": "sleep-causing, putting to sleep",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahat",
+      "words": [
+       {
+        "w": "mahat",
+        "gloss": "great",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवल और नारद की मैं वन्दना करता हूँ, सावर्णि-गालव की वन्दना करता हूँ। इनके अनुयोग से तुम्हारे लिए महान् स्वापन किया गया है।",
+  "english": "I salute Devala and Narada, I salute Savarni-Galava. By the application of these, a great putting to sleep has been made for you.",
+  "text_flags": [],
+  "notes": "sāvarṇi-gālava is singular: it may be one person (Gālava, a Sāvarṇi) or two names fused; kept as printed. anuyoga = application, invocation (also 'enquiry'); 'application' chosen. te: 'for you' (dative sense) or 'your'. svāpana = causing to sleep.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.20a",
+   "14.03.20b"
+  ],
+  "lines_deva": [
+   "देवलं नारदं वन्दे वन्दे सावर्णि.गालवम्",
+   "एतेषाम् अनुयोगेन कृतं ते स्वापनं महत्"
+  ],
+  "lines_iast": [
+   "devalaṃ nāradaṃ vande vande sāvarṇi.gālavam",
+   "eteṣām anuyogena kṛtaṃ te svāpanaṃ mahat"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "just as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svapanty",
+      "words": [
+       {
+        "w": "svapanti",
+        "gloss": "sleep",
+        "gram": "3 pl. pres. √svap"
+       }
+      ]
+     },
+     {
+      "src": "ajagarāḥ",
+      "words": [
+       {
+        "w": "ajagarāḥ",
+        "gloss": "pythons",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svapanty",
+      "words": [
+       {
+        "w": "svapanti",
+        "gloss": "sleep",
+        "gram": "3 pl. pres. √svap"
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "camū.khalāḥ",
+      "words": [
+       {
+        "w": "camū-khalāḥ",
+        "gloss": "camū-khalas (obscure: camū 'army'; khala 'threshing floor' or 'wicked person')",
+        "gram": "compound (type not decided; obscure), m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svapantu",
+      "words": [
+       {
+        "w": "svapantu",
+        "gloss": "let them sleep",
+        "gram": "3 pl. imp. √svap"
+       }
+      ]
+     },
+     {
+      "src": "puruṣā",
+      "words": [
+       {
+        "w": "puruṣāḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "grāme",
+      "words": [
+       {
+        "w": "grāme",
+        "gloss": "in the village",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kutūhalāḥ",
+      "words": [
+       {
+        "w": "kutūhalāḥ",
+        "gloss": "curious",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे अजगर सोते हैं और चमू-खल भी सोते हैं, वैसे ही पुरुष सोएँ, और जो गाँव में उत्सुक हैं।",
+  "english": "Just as pythons sleep, and camū-khalas sleep too, so let men sleep, and those who are curious in the village.",
+  "text_flags": [],
+  "notes": "camū-khala is obscure; camū = army, khala = base or wicked person (also 'threshing floor'), so 'army-scoundrels' is a literal guess; low confidence. ajagara = python (large snake). kutūhala = curiosity, eagerness; 'curious' chosen, alternative 'restless, agitated'. Revised: 'army-scoundrels' / 'सेना के खल' removed; camū-khala is kept untranslated. The particle ca in 'ye ca' is now rendered ('and those who ...').",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.21a",
+   "14.03.21b"
+  ],
+  "lines_deva": [
+   "यथा स्वपन्त्य् अजगराः स्वपन्त्य् अपि चमू.खलाः",
+   "तथा स्वपन्तु पुरुषा ये च ग्रामे कुतूहलाः"
+  ],
+  "lines_iast": [
+   "yathā svapanty ajagarāḥ svapanty api camū.khalāḥ",
+   "tathā svapantu puruṣā ye ca grāme kutūhalāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhaṇḍakānāṃ",
+      "words": [
+       {
+        "w": "bhaṇḍakānāṃ",
+        "gloss": "of the bhaṇḍakas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sahasreṇa",
+      "words": [
+       {
+        "w": "sahasreṇa",
+        "gloss": "with a thousand",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratha.nemi.śatena",
+      "words": [
+       {
+        "w": "ratha-nemi-śatena",
+        "gloss": "with a hundred chariot-rims",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "imaṃ",
+      "words": [
+       {
+        "w": "imaṃ",
+        "gloss": "this",
+        "gram": "n. acc. sg. (agrees with gṛhaṃ)"
+       }
+      ]
+     },
+     {
+      "src": "gṛhaṃ",
+      "words": [
+       {
+        "w": "gṛhaṃ",
+        "gloss": "house",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pravekṣyāmi",
+      "words": [
+       {
+        "w": "pravekṣyāmi",
+        "gloss": "I shall enter",
+        "gram": "1 sg. fut. pra-√viś"
+       }
+      ]
+     },
+     {
+      "src": "tūṣṇīm",
+      "words": [
+       {
+        "w": "tūṣṇīm",
+        "gloss": "silently",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "āsantu",
+      "words": [
+       {
+        "w": "āsantu",
+        "gloss": "let them remain",
+        "gram": "3 pl. imp. √ās"
+       }
+      ]
+     },
+     {
+      "src": "bhāṇḍakāḥ",
+      "words": [
+       {
+        "w": "bhāṇḍakāḥ",
+        "gloss": "vessels",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हज़ार भण्डकों और सौ रथ-नेमियों के साथ मैं इस घर में प्रवेश करूँगा; बर्तन चुप बैठे रहें।",
+  "english": "With a thousand bhaṇḍakas and a hundred chariot-rims I shall enter this house; let the vessels remain silent.",
+  "text_flags": [
+   {
+    "src": "bhaṇḍakānāṃ",
+    "suggest": "bhāṇḍakānāṃ",
+    "why": "possible: bhaṇḍaka is not a known word, whereas bhāṇḍaka (from bhāṇḍa 'vessel, goods') is; the line ends with bhāṇḍakāḥ and the Devanagari has भण्डकानां; the two may be one word. Not confirmed."
+   }
+  ],
+  "notes": "bhaṇḍaka is kept as printed and left untranslated (obscure). bhāṇḍaka is the diminutive of bhāṇḍa 'vessel, ware, goods'; 'vessels' is the literal sense, medium confidence (could be 'goods' or 'baggage'). ratha-nemi = chariot-rim, wheel-rim. sahasreṇa is an instrumental ('with a thousand').",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.22a",
+   "14.03.22b"
+  ],
+  "lines_deva": [
+   "भण्डकानां सहस्रेण रथ.नेमि.शतेन च",
+   "इमं गृहं प्रवेक्ष्यामि तूष्णीम् आसन्तु भाण्डकाः"
+  ],
+  "lines_iast": [
+   "bhaṇḍakānāṃ sahasreṇa ratha.nemi.śatena ca",
+   "imaṃ gṛhaṃ pravekṣyāmi tūṣṇīm āsantu bhāṇḍakāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "namas.kṛtvā",
+      "words": [
+       {
+        "w": "namas-kṛtvā",
+        "gloss": "having made obeisance",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manave",
+      "words": [
+       {
+        "w": "manave",
+        "gloss": "to Manu",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "baddhvā",
+      "words": [
+       {
+        "w": "baddhvā",
+        "gloss": "having bound",
+        "gram": "abs. √bandh"
+       }
+      ]
+     },
+     {
+      "src": "śunaka.phelakāḥ",
+      "words": [
+       {
+        "w": "śunaka-phelakāḥ",
+        "gloss": "śunaka-phelakas (obscure)",
+        "gram": "m. nom. pl. (or voc.) (obscure)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "devā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "deva.lokeṣu",
+      "words": [
+       {
+        "w": "deva-lokeṣu",
+        "gloss": "in the worlds of the gods",
+        "gram": "tat-puruṣa, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mānuṣeṣu",
+      "words": [
+       {
+        "w": "mānuṣeṣu",
+        "gloss": "among humans",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "brāhmaṇāḥ",
+      "words": [
+       {
+        "w": "brāhmaṇāḥ",
+        "gloss": "brāhmaṇas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मनु को नमस्कार करके, बाँधकर — शुनक-फेलक —; जो देव देवलोकों में हैं और मनुष्यों में जो ब्राह्मण हैं,",
+  "english": "Having made obeisance to Manu, having bound — śunaka-phelakas —; the gods who are in the worlds of the gods, and the brāhmaṇas among humans,",
+  "text_flags": [],
+  "notes": "śunaka-phelaka is obscure (śunaka 'dog, little dog'; phelaka may relate to 'leavings'); kept as printed and not translated; the printed -ḥ could be nominative (subject) or an object of baddhvā. The sentence continues in unit 24 (the relative ye ... is completed there by etebhyaḥ). Revised: the ending -āḥ is not an accusative, so 'bound the śunaka-phelakas' is not supported; the grammatical role of śunaka-phelakāḥ (and what is bound) is unclear. Needs a person.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.23a",
+   "14.03.23b"
+  ],
+  "lines_deva": [
+   "नमस्.कृत्वा च मनवे बद्ध्वा शुनक.फेलकाः",
+   "ये देवा देव.लोकेषु मानुषेषु च ब्राह्मणाः"
+  ],
+  "lines_iast": [
+   "namas.kṛtvā ca manave baddhvā śunaka.phelakāḥ",
+   "ye devā deva.lokeṣu mānuṣeṣu ca brāhmaṇāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adhyayana.pāragāḥ",
+      "words": [
+       {
+        "w": "adhyayana-pāragāḥ",
+        "gloss": "gone to the end of study",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "siddhā",
+      "words": [
+       {
+        "w": "siddhāḥ",
+        "gloss": "siddhas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaulāsa",
+      "words": [
+       {
+        "w": "kaulāsa",
+        "gloss": "kaulāsa",
+        "gram": "(obscure)"
+       }
+      ]
+     },
+     {
+      "src": "tāpasāḥ",
+      "words": [
+       {
+        "w": "tāpasāḥ",
+        "gloss": "ascetics",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "etebhyaḥ",
+      "words": [
+       {
+        "w": "etebhyaḥ",
+        "gloss": "from these",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarva.siddhebhyaḥ",
+      "words": [
+       {
+        "w": "sarva-siddhebhyaḥ",
+        "gloss": "all the siddhas",
+        "gram": "karmadhāraya, m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛtaṃ",
+      "words": [
+       {
+        "w": "kṛtaṃ",
+        "gloss": "made",
+        "gram": "pp. √kṛ, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "pron. dat./gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāpanaṃ",
+      "words": [
+       {
+        "w": "svāpanaṃ",
+        "gloss": "putting to sleep",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahat",
+      "words": [
+       {
+        "w": "mahat",
+        "gloss": "great",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अध्ययन के पार पहुँचे हुए सिद्ध, और जो कौलास तपस्वी हैं; इन सब सिद्धों से तुम्हारे लिए महान् स्वापन किया गया है।",
+  "english": "The siddhas who have gone to the end of study, and the kaulāsa ascetics: from these, all the siddhas, a great putting to sleep has been made for you.",
+  "text_flags": [
+   {
+    "src": "kaulāsa",
+    "suggest": "kailāsa",
+    "why": "possible: 'ascetics of Kailāsa' would fit tāpasāḥ; kaulāsa is not a known word. Not confirmed; the Devanagari has कौलास."
+   }
+  ],
+  "notes": "kaulāsa is kept as printed (obscure). etebhyaḥ can be ablative ('from') or dative ('for'); 'from' chosen, as in 'by the application of these' in unit 20. The siddhas here are the perfected ones.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.24a",
+   "14.03.24b"
+  ],
+  "lines_deva": [
+   "अध्ययन.पारगाः सिद्धा ये च कौलास तापसाः",
+   "एतेभ्यः सर्व.सिद्धेभ्यः कृतं ते स्वापनं महत्"
+  ],
+  "lines_iast": [
+   "adhyayana.pāragāḥ siddhā ye ca kaulāsa tāpasāḥ",
+   "etebhyaḥ sarva.siddhebhyaḥ kṛtaṃ te svāpanaṃ mahat"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atigacchanti",
+      "words": [
+       {
+        "w": "atigacchanti",
+        "gloss": "they go past",
+        "gram": "3 pl. pres. ati-√gam"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mayy",
+      "words": [
+       {
+        "w": "mayi",
+        "gloss": "in/on me",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "apagacchantu",
+      "words": [
+       {
+        "w": "apagacchantu",
+        "gloss": "let them go away",
+        "gram": "3 pl. imp. apa-√gam"
+       }
+      ]
+     },
+     {
+      "src": "saṃhatāḥ",
+      "words": [
+       {
+        "w": "saṃhatāḥ",
+        "gloss": "assembled",
+        "gram": "pp. sam-√han, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वे पार जाते हैं; वे एकत्र होकर मुझ पर दूर चले जाएँ।",
+  "english": "And they go past; let them go away, assembled, at me.",
+  "text_flags": [],
+  "notes": "Obscure and possibly corrupt: atigacchanti may be a verb ('they go past, transgress') or a neuter participle ('[things] going past'); the subject is not stated, and 'away from me' renders the locative mayi loosely ('in me'). Rendered literally; low confidence. Revised: Hindi and English now give the same literal reading (finite 'they go past'; mayi rendered 'at me', locative kept). The line may be corrupt or elliptical; needs a person.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.25"
+  ],
+  "lines_deva": [
+   "अतिगच्छन्ति च मय्य् अपगच्छन्तु संहताः"
+  ],
+  "lines_iast": [
+   "atigacchanti ca mayy apagacchantu saṃhatāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alite,",
+      "words": [
+       {
+        "w": "alite,",
+        "gloss": "alite",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "valite,",
+      "words": [
+       {
+        "w": "valite,",
+        "gloss": "valite",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "manave",
+      "words": [
+       {
+        "w": "manave",
+        "gloss": "to Manu",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāhā",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "hail",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अलिते, वलिते, मनु को स्वाहा।",
+  "english": "Alite, valite, hail to Manu!",
+  "text_flags": [],
+  "notes": "alite and valite are mantra words (vocative-looking) of no clear meaning; svāhā is the cry of offering.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.26"
+  ],
+  "lines_deva": [
+   "अलिते, वलिते, मनवे स्वाहा"
+  ],
+  "lines_iast": [
+   "alite, valite, manave svāhā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etasya",
+      "words": [
+       {
+        "w": "etasya",
+        "gloss": "of this",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayogaḥ",
+      "words": [
+       {
+        "w": "prayogaḥ",
+        "gloss": "application",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसका प्रयोग।",
+  "english": "The application of this.",
+  "text_flags": [],
+  "notes": "Heading: the use of the mantra just given.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.27"
+  ],
+  "lines_deva": [
+   "एतस्य प्रयोगः"
+  ],
+  "lines_iast": [
+   "etasya prayogaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tri.rātra.upoṣitaḥ",
+      "words": [
+       {
+        "w": "tri-rātra-upoṣitaḥ",
+        "gloss": "having fasted three nights",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇa.catur.daśyāṃ",
+      "words": [
+       {
+        "w": "kṛṣṇa-catur-daśyāṃ",
+        "gloss": "on the dark fourteenth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṣya.yoginyāṃ",
+      "words": [
+       {
+        "w": "puṣya-yoginyāṃ",
+        "gloss": "joined with Puṣya",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śva.pākī.hastād",
+      "words": [
+       {
+        "w": "śva-pākī-hastāt",
+        "gloss": "from the hand of a dog-cooker woman",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vilakha.avalekhanaṃ",
+      "words": [
+       {
+        "w": "vilakha-avalekhanaṃ",
+        "gloss": "scraping of vilakha",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "krīṇīyāt",
+      "words": [
+       {
+        "w": "krīṇīyāt",
+        "gloss": "should buy",
+        "gram": "3 sg. opt. √krī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन रात उपवास किया हुआ, पुष्य से युक्त कृष्ण-चतुर्दशी को, श्वपाकी के हाथ से विलख का खुरचन खरीदे।",
+  "english": "Having fasted three nights, on the dark fourteenth joined with Puṣya, one should buy the scrapings of vilakha from the hand of a dog-cooker woman.",
+  "text_flags": [],
+  "notes": "vilakha is obscure and kept as printed. avalekhana = scraping, what is scraped off; 'scrapings' (the number is not marked). śva-pākī (feminine of śvapāka, 'dog-cooker') is the name of an outcaste class; kept literal. kṛṣṇa-caturdaśī = fourteenth tithi of the dark fortnight.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.28"
+  ],
+  "lines_deva": [
+   "त्रि.रात्र.उपोषितः कृष्ण.चतुर्.दश्यां पुष्य.योगिन्यां श्व.पाकी.हस्ताद् विलख.अवलेखनं क्रीणीयात्"
+  ],
+  "lines_iast": [
+   "tri.rātra.upoṣitaḥ kṛṣṇa.catur.daśyāṃ puṣya.yoginyāṃ śva.pākī.hastād vilakha.avalekhanaṃ krīṇīyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tan.māṣaiḥ",
+      "words": [
+       {
+        "w": "tat-māṣaiḥ",
+        "gloss": "with its māṣas",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṇḍolikāyāṃ",
+      "words": [
+       {
+        "w": "kaṇḍolikāyāṃ",
+        "gloss": "in a basket",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā-asaṅkīrṇa",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having put",
+        "gram": "abs. √kṛ"
+       },
+       {
+        "w": "asaṅkīrṇe",
+        "gloss": "unmixed",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādahane",
+      "words": [
+       {
+        "w": "ādahane",
+        "gloss": "cremation ground",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nikhānayet",
+      "words": [
+       {
+        "w": "nikhānayet",
+        "gloss": "should have buried",
+        "gram": "3 sg. opt. caus. ni-√khan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे उसके माषों के साथ टोकरी में रखकर असंकीर्ण दाह-स्थान में गड़वाए।",
+  "english": "Having put it together with its māṣas in a basket, one should have it buried in an unmixed cremation ground.",
+  "text_flags": [],
+  "notes": "tan-māṣa = tat-māṣa: 'its māṣas', with tat taken as the scraping; māṣa is a bean or a small weight (not decided; low-medium). 'it' is supplied. asaṅkīrṇa ādahane could also be the compound asaṅkīrṇa-ādahane; asaṅkīrṇa 'unmixed' (alternatives: uncrowded, unfrequented). kaṇḍolikā = a basket (of cane).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.29"
+  ],
+  "lines_deva": [
+   "तन्.माषैः सह कण्डोलिकायां कृत्वा-असङ्कीर्ण आदहने निखानयेत्"
+  ],
+  "lines_iast": [
+   "tan.māṣaiḥ saha kaṇḍolikāyāṃ kṛtvā-asaṅkīrṇa ādahane nikhānayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvitīyasyāṃ",
+      "words": [
+       {
+        "w": "dvitīyasyāṃ",
+        "gloss": "on the second",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturdaśyām",
+      "words": [
+       {
+        "w": "caturdaśyām",
+        "gloss": "fourteenth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "uddhṛtya",
+      "words": [
+       {
+        "w": "uddhṛtya",
+        "gloss": "having taken out",
+        "gram": "abs. ud-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "kumāryā",
+      "words": [
+       {
+        "w": "kumāryā",
+        "gloss": "with/by kumārī",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "peṣayitvā",
+      "words": [
+       {
+        "w": "peṣayitvā",
+        "gloss": "having had ground",
+        "gram": "abs. caus. √piṣ"
+       }
+      ]
+     },
+     {
+      "src": "gulikāḥ",
+      "words": [
+       {
+        "w": "gulikāḥ",
+        "gloss": "pills",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have made",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरी चतुर्दशी को निकालकर, कुमारी से पिसवाकर गोलियाँ बनवाए।",
+  "english": "On the second fourteenth, having taken it out and had it ground with kumārī, one should have pills made.",
+  "text_flags": [],
+  "notes": "kumāryā is ambiguous: kumārī as a plant or drug name ('with kumārī'), or 'by a girl' (agent of the causative). Kept as 'kumārī'; the plant is not identified. 'it' (the buried item) is supplied. 'the second fourteenth' is literally dvitīyā caturdaśī, apparently the next one after the burying.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.30"
+  ],
+  "lines_deva": [
+   "द्वितीयस्यां चतुर्दश्याम् उद्धृत्य कुमार्या पेषयित्वा गुलिकाः कारयेत्"
+  ],
+  "lines_iast": [
+   "dvitīyasyāṃ caturdaśyām uddhṛtya kumāryā peṣayitvā gulikāḥ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tata",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind. (tataḥ)"
+       }
+      ]
+     },
+     {
+      "src": "ekāṃ",
+      "words": [
+       {
+        "w": "ekāṃ",
+        "gloss": "one",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gulikām",
+      "words": [
+       {
+        "w": "gulikām",
+        "gloss": "pill",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhimantrayitvā",
+      "words": [
+       {
+        "w": "abhimantrayitvā",
+        "gloss": "having charmed with a mantra",
+        "gram": "abs. caus. abhi-√mantr"
+       }
+      ]
+     },
+     {
+      "src": "yatra-etana",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       },
+       {
+        "w": "etena",
+        "gloss": "with this",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantreṇa",
+      "words": [
+       {
+        "w": "mantreṇa",
+        "gloss": "mantra",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣipati",
+      "words": [
+       {
+        "w": "kṣipati",
+        "gloss": "throws",
+        "gram": "3 sg. pres. √kṣip"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvaṃ",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasvāpayati",
+      "words": [
+       {
+        "w": "prasvāpayati",
+        "gloss": "puts to sleep",
+        "gram": "3 sg. pres. caus. pra-√svap"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब एक गोली को अभिमन्त्रित करके, इस मन्त्र से जहाँ फेंकता है, वहाँ उस सबको सुला देता है।",
+  "english": "Then, having charmed one pill, wherever he throws it with this mantra, it puts all that to sleep.",
+  "text_flags": [
+   {
+    "src": "yatra-etana",
+    "suggest": "yatra-etena",
+    "why": "etena (instrumental) is needed with mantreṇa; units 33 and 42 read etena mantreṇa"
+   }
+  ],
+  "notes": "'this mantra' is the one in units 19 to 26 (and its prescribed use); the subject of prasvāpayati (the pill) and 'it' are supplied. tat sarvam is literally 'all that'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.31"
+  ],
+  "lines_deva": [
+   "तत एकां गुलिकाम् अभिमन्त्रयित्वा यत्र-एतन मन्त्रेण क्षिपति तत् सर्वं प्रस्वापयति"
+  ],
+  "lines_iast": [
+   "tata ekāṃ gulikām abhimantrayitvā yatra-etana mantreṇa kṣipati tat sarvaṃ prasvāpayati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etena-eva",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "with this",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kalpena",
+      "words": [
+       {
+        "w": "kalpena",
+        "gloss": "by procedure",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvā.vidhaḥ",
+      "words": [
+       {
+        "w": "śvā-vidhaḥ",
+        "gloss": "of the porcupine",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śalyakaṃ",
+      "words": [
+       {
+        "w": "śalyakaṃ",
+        "gloss": "quill",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tri.kālaṃ",
+      "words": [
+       {
+        "w": "tri-kālaṃ",
+        "gloss": "three-kāla",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "triśvetam",
+      "words": [
+       {
+        "w": "triśvetam",
+        "gloss": "three-white",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "asaṅkīrṇa",
+      "words": [
+       {
+        "w": "asaṅkīrṇe",
+        "gloss": "unmixed",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādahane",
+      "words": [
+       {
+        "w": "ādahane",
+        "gloss": "cremation ground",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nikhānayet",
+      "words": [
+       {
+        "w": "nikhānayet",
+        "gloss": "should have buried",
+        "gram": "3 sg. opt. caus. ni-√khan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी विधि से साही के तीन-काल, तीन-श्वेत काँटे को असंकीर्ण दाह-स्थान में गड़वाए।",
+  "english": "By this very procedure, one should have a porcupine's quill, trikāla and three-white (triśveta), buried in an unmixed cremation ground.",
+  "text_flags": [],
+  "notes": "śvāvidh is taken as porcupine (literally 'dog-piercer'); śalyaka = quill, spine. tri-kāla is obscure: 'three times' or 'three black (parts)' (kāla can mean black, matching tri-śveta 'three-white'); kept as 'trikāla'. kalpa = rule, procedure (as in units 28 to 31).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.32"
+  ],
+  "lines_deva": [
+   "एतेन-एव कल्पेन श्वा.विधः शल्यकं त्रि.कालं त्रिश्वेतम् असङ्कीर्ण आदहने निखानयेत्"
+  ],
+  "lines_iast": [
+   "etena-eva kalpena śvā.vidhaḥ śalyakaṃ tri.kālaṃ triśvetam asaṅkīrṇa ādahane nikhānayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvitīyasyāṃ",
+      "words": [
+       {
+        "w": "dvitīyasyāṃ",
+        "gloss": "on the second",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturdaśyām",
+      "words": [
+       {
+        "w": "caturdaśyām",
+        "gloss": "fourteenth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "uddhṛtya-ādahana.bhasmanā",
+      "words": [
+       {
+        "w": "uddhṛtya",
+        "gloss": "having taken out",
+        "gram": "abs. ud-√hṛ"
+       },
+       {
+        "w": "ādahana-bhasmanā",
+        "gloss": "with cremation-ground ashes",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yatra.etena",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       },
+       {
+        "w": "etena",
+        "gloss": "with this",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantreṇa",
+      "words": [
+       {
+        "w": "mantreṇa",
+        "gloss": "mantra",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣipati",
+      "words": [
+       {
+        "w": "kṣipati",
+        "gloss": "throws",
+        "gram": "3 sg. pres. √kṣip"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvaṃ",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasvāpayati",
+      "words": [
+       {
+        "w": "prasvāpayati",
+        "gloss": "puts to sleep",
+        "gram": "3 sg. pres. caus. pra-√svap"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरी चतुर्दशी को निकालकर, दाह-स्थान की भस्म के साथ जहाँ इस मन्त्र से फेंकता है, वहाँ उस सबको सुला देता है।",
+  "english": "On the second fourteenth, having taken it out, together with the ashes of the cremation ground, wherever he throws it with this mantra, it puts all that to sleep.",
+  "text_flags": [],
+  "notes": "'it' (the buried quill) and the subject of prasvāpayati are supplied. The e-text writes yatra.etena with '.', not '-'; read as two words.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.33"
+  ],
+  "lines_deva": [
+   "द्वितीयस्यां चतुर्दश्याम् उद्धृत्य-आदहन.भस्मना सह यत्र.एतेन मन्त्रेण क्षिपति तत् सर्वं प्रस्वापयति"
+  ],
+  "lines_iast": [
+   "dvitīyasyāṃ caturdaśyām uddhṛtya-ādahana.bhasmanā saha yatra.etena mantreṇa kṣipati tat sarvaṃ prasvāpayati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"suvarṇa.puṣpīṃ",
+      "words": [
+       {
+        "w": "\"suvarṇa-puṣpīṃ",
+        "gloss": "Suvarnapushpi, golden-flowered",
+        "gram": "bahuvrīhi, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahmāṇīṃ",
+      "words": [
+       {
+        "w": "brahmāṇīṃ",
+        "gloss": "Brahmani",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahmāṇaṃ",
+      "words": [
+       {
+        "w": "brahmāṇaṃ",
+        "gloss": "Brahma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuśa.dhvajam",
+      "words": [
+       {
+        "w": "kuśa-dhvajam",
+        "gloss": "Kushadhvaja, having a kusha-grass banner",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarvāś",
+      "words": [
+       {
+        "w": "sarvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "devatā",
+      "words": [
+       {
+        "w": "devatāḥ",
+        "gloss": "deities",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vande",
+      "words": [
+       {
+        "w": "vande",
+        "gloss": "I salute",
+        "gram": "1 sg. pres. √vand"
+       }
+      ]
+     },
+     {
+      "src": "vande",
+      "words": [
+       {
+        "w": "vande",
+        "gloss": "I salute",
+        "gram": "1 sg. pres. √vand"
+       }
+      ]
+     },
+     {
+      "src": "sarvāṃś",
+      "words": [
+       {
+        "w": "sarvān",
+        "gloss": "all",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāpasān",
+      "words": [
+       {
+        "w": "tāpasān",
+        "gloss": "ascetics",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“सुवर्णपुष्पी, ब्रह्माणी और ब्रह्मा, कुशध्वज की, सब देवताओं की मैं वन्दना करता हूँ, सब तपस्वियों की वन्दना करता हूँ।",
+  "english": "“I salute Suvarnapushpi, Brahmani and Brahma, Kushadhvaja; I salute all deities, I salute all ascetics.",
+  "text_flags": [],
+  "notes": "Suvarṇa-puṣpī (literally 'golden-flowered') is kept as a name; it could also be a plant name. brahmāṇam read as Brahmā (alternative: 'a brāhmaṇa'). kuśa-dhvaja 'with a kuśa-grass banner' is kept as a name and may be an epithet of Brahmā.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.34a",
+   "14.03.34b"
+  ],
+  "lines_deva": [
+   "\"सुवर्ण.पुष्पीं ब्रह्माणीं ब्रह्माणं च कुश.ध्वजम्",
+   "सर्वाश् च देवता वन्दे वन्दे सर्वांश् च तापसान्"
+  ],
+  "lines_iast": [
+   "\"suvarṇa.puṣpīṃ brahmāṇīṃ brahmāṇaṃ ca kuśa.dhvajam",
+   "sarvāś ca devatā vande vande sarvāṃś ca tāpasān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaśaṃ",
+      "words": [
+       {
+        "w": "vaśaṃ",
+        "gloss": "into control",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "brāhmaṇā",
+      "words": [
+       {
+        "w": "brāhmaṇāḥ",
+        "gloss": "brāhmaṇas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yāntu",
+      "words": [
+       {
+        "w": "yāntu",
+        "gloss": "let them go",
+        "gram": "3 pl. imp. √yā"
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.pālāś",
+      "words": [
+       {
+        "w": "bhūmi-pālāḥ",
+        "gloss": "earth-protectors",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣatriyāḥ",
+      "words": [
+       {
+        "w": "kṣatriyāḥ",
+        "gloss": "kṣatriyas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vaśaṃ",
+      "words": [
+       {
+        "w": "vaśaṃ",
+        "gloss": "into control",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaiśyāś",
+      "words": [
+       {
+        "w": "vaiśyāḥ",
+        "gloss": "vaiśyas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śūdrāś",
+      "words": [
+       {
+        "w": "śūdrāḥ",
+        "gloss": "śūdras",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vaśatāṃ",
+      "words": [
+       {
+        "w": "vaśatāṃ",
+        "gloss": "subjection",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāntu",
+      "words": [
+       {
+        "w": "yāntu",
+        "gloss": "let them go",
+        "gram": "3 pl. imp. √yā"
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "to me",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadā",
+      "words": [
+       {
+        "w": "sadā",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ब्राह्मण मेरे वश में आएँ, और भूमि के पालक क्षत्रिय; वैश्य और शूद्र भी वश में आएँ, वे सदा मेरी वशता को प्राप्त हों।",
+  "english": "Let the brāhmaṇas come under my control, and the earth-protectors, the kṣatriyas; let the vaiśyas and the śūdras also come under control, let them always come into subjection to me.",
+  "text_flags": [],
+  "notes": "bhūmi-pālāś ca kṣatriyāḥ: 'earth-protectors' and 'kṣatriyas' are taken in apposition; they could be two groups (kings and warriors). vaśam yāntu is idiomatic 'come under control/sway'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.35a",
+   "14.03.35b"
+  ],
+  "lines_deva": [
+   "वशं मे ब्राह्मणा यान्तु भूमि.पालाश् च क्षत्रियाः",
+   "वशं वैश्याश् च शूद्राश् च वशतां यान्तु मे सदा"
+  ],
+  "lines_iast": [
+   "vaśaṃ me brāhmaṇā yāntu bhūmi.pālāś ca kṣatriyāḥ",
+   "vaśaṃ vaiśyāś ca śūdrāś ca vaśatāṃ yāntu me sadā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svāhā",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "hail",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "dash (punctuation)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "amile",
+      "words": [
+       {
+        "w": "amile",
+        "gloss": "amile",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "kimile",
+      "words": [
+       {
+        "w": "kimile",
+        "gloss": "kimile",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "vayu.cāre",
+      "words": [
+       {
+        "w": "vayu-cāre",
+        "gloss": "vayu-cāre",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "prayoge",
+      "words": [
+       {
+        "w": "prayoge",
+        "gloss": "prayoge",
+        "gram": "mantra word (obscure; looks like a locative of prayoga but taken as a mantra name)"
+       }
+      ]
+     },
+     {
+      "src": "phakke",
+      "words": [
+       {
+        "w": "phakke",
+        "gloss": "phakke",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "vayuhve",
+      "words": [
+       {
+        "w": "vayuhve",
+        "gloss": "vayuhve",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "vihāle",
+      "words": [
+       {
+        "w": "vihāle",
+        "gloss": "vihāle",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "danta.kaṭake",
+      "words": [
+       {
+        "w": "danta-kaṭake",
+        "gloss": "danta-kaṭake",
+        "gram": "mantra word (obscure)"
+       }
+      ]
+     },
+     {
+      "src": "svāhā",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "hail",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वाहा! अमिले, किमिले, वयुचारे, प्रयोगे, फक्के, वयुह्वे, विहाले, दन्तकटके, स्वाहा!",
+  "english": "Hail! Amile, kimile, vayucāre, prayoge, phakke, vayuhve, vihāle, dantakaṭake, hail!",
+  "text_flags": [],
+  "notes": "A string of mantra words, mostly without clear meaning, kept as printed. vayu-cāre may be 'moving in the vayu (wind?)' and danta-kaṭake literally 'tooth-bracelet/ring' (kaṭaka also 'camp'); not translated. prayoge is a real word ('in the application') but is taken here as one of the vocative mantra names. The dash '-' is a separate token in the e-text.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.36"
+  ],
+  "lines_deva": [
+   "स्वाहा - अमिले किमिले वयु.चारे प्रयोगे फक्के वयुह्वे विहाले दन्त.कटके स्वाहा"
+  ],
+  "lines_iast": [
+   "svāhā - amile kimile vayu.cāre prayoge phakke vayuhve vihāle danta.kaṭake svāhā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sukhaṃ",
+      "words": [
+       {
+        "w": "sukhaṃ",
+        "gloss": "comfortably",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svapantu",
+      "words": [
+       {
+        "w": "svapantu",
+        "gloss": "let them sleep",
+        "gram": "3 pl. imp. √svap"
+       }
+      ]
+     },
+     {
+      "src": "śunakā",
+      "words": [
+       {
+        "w": "śunakāḥ",
+        "gloss": "dogs",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "grāme",
+      "words": [
+       {
+        "w": "grāme",
+        "gloss": "in the village",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kutūhalāḥ",
+      "words": [
+       {
+        "w": "kutūhalāḥ",
+        "gloss": "curious",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śvā.vidhaḥ",
+      "words": [
+       {
+        "w": "śvā-vidhaḥ",
+        "gloss": "of the porcupine",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śalyakaṃ",
+      "words": [
+       {
+        "w": "śalyakaṃ",
+        "gloss": "quill",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-etat",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tri.śvetaṃ",
+      "words": [
+       {
+        "w": "tri-śvetaṃ",
+        "gloss": "three-white",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma.nirmitam",
+      "words": [
+       {
+        "w": "brahma-nirmitam",
+        "gloss": "made by Brahma",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कुत्ते सुख से सोएँ, और जो गाँव में उत्सुक हैं; और साही का यह तीन-श्वेत काँटा ब्रह्मा द्वारा बनाया हुआ है।",
+  "english": "Let the dogs sleep comfortably, and those who are curious in the village; and this three-white quill of the porcupine is made by Brahma.",
+  "text_flags": [],
+  "notes": "brahma-nirmita: brahma may be Brahmā or brahman (sacred power, the Veda); 'Brahma' chosen. 'Is' is supplied. kutūhala as in unit 21.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.37a",
+   "14.03.37b"
+  ],
+  "lines_deva": [
+   "सुखं स्वपन्तु शुनका ये च ग्रामे कुतूहलाः",
+   "श्वा.विधः शल्यकं च-एतत् त्रि.श्वेतं ब्रह्म.निर्मितम्"
+  ],
+  "lines_iast": [
+   "sukhaṃ svapantu śunakā ye ca grāme kutūhalāḥ",
+   "śvā.vidhaḥ śalyakaṃ ca-etat tri.śvetaṃ brahma.nirmitam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prasuptāḥ",
+      "words": [
+       {
+        "w": "prasuptāḥ",
+        "gloss": "fallen asleep",
+        "gram": "pp. pra-√svap, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sarva.siddhā",
+      "words": [
+       {
+        "w": "sarva-siddhāḥ",
+        "gloss": "all the siddhas",
+        "gram": "karmadhāraya, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "etat",
+      "words": [
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "pron. dat./gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāpanaṃ",
+      "words": [
+       {
+        "w": "svāpanaṃ",
+        "gloss": "putting to sleep",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtam",
+      "words": [
+       {
+        "w": "kṛtam",
+        "gloss": "made",
+        "gram": "pp. √kṛ, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yāvad",
+      "words": [
+       {
+        "w": "yāvat",
+        "gloss": "as far as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "grāmasya",
+      "words": [
+       {
+        "w": "grāmasya",
+        "gloss": "of the village",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sīmāntaḥ",
+      "words": [
+       {
+        "w": "sīmāntaḥ",
+        "gloss": "end of the boundary",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūryasya-udgamanād",
+      "words": [
+       {
+        "w": "sūryasya",
+        "gloss": "of the sun",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "udgamanāt",
+        "gloss": "from the rising",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "thus (closing the quotation)",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सब सिद्ध सचमुच सो गए हैं; यह स्वापन तुम्हारे लिए किया गया है, जहाँ तक गाँव की सीमा का अन्त है, सूर्य के उदय तक।",
+  "english": "All the siddhas are indeed asleep; this putting to sleep has been made for you, as far as the end of the village boundary, until the rising of the sun.",
+  "text_flags": [],
+  "notes": "Closing iti marks the end of the quoted mantra; it is not translated, and the quotation closes with the mark in unit 39. udgamanāt (ablative) is taken as 'until sunrise' (limit of time with yāvat); literal 'from the rising'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.38a",
+   "14.03.38b"
+  ],
+  "lines_deva": [
+   "प्रसुप्ताः सर्व.सिद्धा हि एतत् ते स्वापनं कृतम्",
+   "यावद् ग्रामस्य सीमान्तः सूर्यस्य-उद्गमनाद् इति"
+  ],
+  "lines_iast": [
+   "prasuptāḥ sarva.siddhā hi etat te svāpanaṃ kṛtam",
+   "yāvad grāmasya sīmāntaḥ sūryasya-udgamanād iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svāhā\"",
+      "words": [
+       {
+        "w": "svāhā\"",
+        "gloss": "hail",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वाहा!”",
+  "english": "Hail!”",
+  "text_flags": [],
+  "notes": "GROUPING: this one-word unit is the closing svāhā of the mantra of units 34 to 38; the closing quotation mark is part of the token. The quotation marks in unit 19 and 43 openings have no closing mark of their own in this chunk.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.39"
+  ],
+  "lines_deva": [
+   "स्वाहा\""
+  ],
+  "lines_iast": [
+   "svāhā\""
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etasya",
+      "words": [
+       {
+        "w": "etasya",
+        "gloss": "of this",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayogaḥ",
+      "words": [
+       {
+        "w": "prayogaḥ",
+        "gloss": "application",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसका प्रयोग।",
+  "english": "The application of this.",
+  "text_flags": [],
+  "notes": "Heading: the use of the mantra just given.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "14.03.40"
+  ],
+  "lines_deva": [
+   "एतस्य प्रयोगः"
+  ],
+  "lines_iast": [
+   "etasya prayogaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śvā.vidhaḥ",
+      "words": [
+       {
+        "w": "śvā-vidhaḥ",
+        "gloss": "of the porcupine",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śalyakāni",
+      "words": [
+       {
+        "w": "śalyakāni",
+        "gloss": "quills",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tri.śvetāni,",
+      "words": [
+       {
+        "w": "tri-śvetāni",
+        "gloss": "three-white",
+        "gram": "bahuvrīhi, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sapta.rātra.upoṣitaḥ",
+      "words": [
+       {
+        "w": "sapta-rātra-upoṣitaḥ",
+        "gloss": "having fasted seven nights",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣṇa.caturdaśyāṃ",
+      "words": [
+       {
+        "w": "kṛṣṇa-caturdaśyāṃ",
+        "gloss": "on the dark fourteenth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "khādirābhiḥ",
+      "words": [
+       {
+        "w": "khādirābhiḥ",
+        "gloss": "of khadira wood",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "samidhābhir",
+      "words": [
+       {
+        "w": "samidhābhiḥ",
+        "gloss": "with sticks",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "agnim",
+      "words": [
+       {
+        "w": "agnim",
+        "gloss": "fire",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "etena",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "with this",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantreṇa-aṣṭa.śata.sampātaṃ",
+      "words": [
+       {
+        "w": "mantreṇa",
+        "gloss": "mantra",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "aṣṭa-śata-sampātaṃ",
+        "gloss": "having aṣṭa-śata sampātas (aṣṭa-śata usually 108; literally 'eight-hundred')",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having made",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "madhu.ghṛtābhyām",
+      "words": [
+       {
+        "w": "madhu-ghṛtābhyām",
+        "gloss": "with honey and ghee",
+        "gram": "dvandva, n. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "abhijuhuyāt",
+      "words": [
+       {
+        "w": "abhijuhuyāt",
+        "gloss": "should offer",
+        "gram": "3 sg. opt. abhi-√hu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साही के तीन-श्वेत काँटे: सात रात उपवास किया हुआ, कृष्ण-चतुर्दशी को, खदिर की समिधाओं से, इस मन्त्र से अग्नि को एक सौ आठ सम्पात वाला करके, मधु और घी से होम करे।",
+  "english": "The three-white quills of the porcupine: having fasted seven nights, on the dark fourteenth, with sticks of khadira wood, having made the fire one of a hundred and eight sampātas with this mantra, one should offer [them] with honey and ghee.",
+  "text_flags": [],
+  "notes": "Syntax uncertain. The quills are in the accusative/nominative plural and are taken as the things offered ('[them]' supplied). agnim ... aṣṭa-śata-sampātaṃ kṛtvā is literally 'having made the fire have 108 sampātas'; sampāta (here an act of the rite, possibly a repetition or a pouring, 'falling together') is kept untranslated. It may mean reciting the mantra 108 times over the fire. abhijuhuyāt = offer into/over (the fire). khādira: of khadira wood (a tree name, not identified). Count: aṣṭa-śata is read as 108 (the usual ritual number) in English and Hindi; literally it could be 800. Needs a person.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.41"
+  ],
+  "lines_deva": [
+   "श्वा.विधः शल्यकानि त्रि.श्वेतानि, सप्त.रात्र.उपोषितः कृष्ण.चतुर्दश्यां खादिराभिः समिधाभिर् अग्निम् एतेन मन्त्रेण-अष्ट.शत.सम्पातं कृत्वा मधु.घृताभ्याम् अभिजुहुयात्"
+  ],
+  "lines_iast": [
+   "śvā.vidhaḥ śalyakāni tri.śvetāni, sapta.rātra.upoṣitaḥ kṛṣṇa.caturdaśyāṃ khādirābhiḥ samidhābhir agnim etena mantreṇa-aṣṭa.śata.sampātaṃ kṛtvā madhu.ghṛtābhyām abhijuhuyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tata",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind. (tataḥ)"
+       }
+      ]
+     },
+     {
+      "src": "ekam",
+      "words": [
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "etena",
+      "words": [
+       {
+        "w": "etena",
+        "gloss": "with this",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantreṇa",
+      "words": [
+       {
+        "w": "mantreṇa",
+        "gloss": "mantra",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "grāma.dvāri",
+      "words": [
+       {
+        "w": "grāma-dvāri",
+        "gloss": "at the village gate",
+        "gram": "tat-puruṣa, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛha.dvāri",
+      "words": [
+       {
+        "w": "gṛha-dvāri",
+        "gloss": "at the house door",
+        "gram": "tat-puruṣa, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nikhanyate",
+      "words": [
+       {
+        "w": "nikhanyate",
+        "gloss": "is buried",
+        "gram": "3 sg. pass. ni-√khan"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarvaṃ",
+      "words": [
+       {
+        "w": "sarvaṃ",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasvāpayati",
+      "words": [
+       {
+        "w": "prasvāpayati",
+        "gloss": "puts to sleep",
+        "gram": "3 sg. pres. caus. pra-√svap"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब एक को इस मन्त्र से गाँव के द्वार अथवा घर के द्वार पर जहाँ गाड़ा जाता है, वहाँ उस सबको सुला देता है।",
+  "english": "Then one [quill], with this mantra, wherever it is buried at a village gate or a house door, puts all that to sleep.",
+  "text_flags": [],
+  "notes": "'quill' and 'it' are supplied (ekam is neuter, agreeing with śalyaka). dvāri is the locative of dvār (door, gate).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.42"
+  ],
+  "lines_deva": [
+   "तत एकम् एतेन मन्त्रेण ग्राम.द्वारि गृह.द्वारि वा यत्र निखन्यते तत् सर्वं प्रस्वापयति"
+  ],
+  "lines_iast": [
+   "tata ekam etena mantreṇa grāma.dvāri gṛha.dvāri vā yatra nikhanyate tat sarvaṃ prasvāpayati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"baliṃ",
+      "words": [
+       {
+        "w": "\"baliṃ",
+        "gloss": "Bali",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vairocanaṃ",
+      "words": [
+       {
+        "w": "vairocanaṃ",
+        "gloss": "Vairocana, son of Virocana",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vande",
+      "words": [
+       {
+        "w": "vande",
+        "gloss": "I salute",
+        "gram": "1 sg. pres. √vand"
+       }
+      ]
+     },
+     {
+      "src": "śatamāyaṃ",
+      "words": [
+       {
+        "w": "śatamāyaṃ",
+        "gloss": "Shatamaya",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śambaram",
+      "words": [
+       {
+        "w": "śambaram",
+        "gloss": "Shambara",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nikumbhaṃ",
+      "words": [
+       {
+        "w": "nikumbhaṃ",
+        "gloss": "Nikumbha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "narakaṃ",
+      "words": [
+       {
+        "w": "narakaṃ",
+        "gloss": "Naraka",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kumbhaṃ",
+      "words": [
+       {
+        "w": "kumbhaṃ",
+        "gloss": "Kumbha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tantu.kacchaṃ",
+      "words": [
+       {
+        "w": "tantu-kacchaṃ",
+        "gloss": "Tantukaccha",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahā.asuram",
+      "words": [
+       {
+        "w": "mahā-asuram",
+        "gloss": "the great asura",
+        "gram": "karmadhāraya, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“वैरोचन बलि की, शतमाय और शम्बर की मैं वन्दना करता हूँ; निकुम्भ, नरक, कुम्भ, तन्तुकच्छ, महान् असुर की।",
+  "english": "“I salute Bali Vairocana, Shatamaya and Shambara; Nikumbha, Naraka, Kumbha, Tantukaccha, the great asura.",
+  "text_flags": [],
+  "notes": "Name list as in unit 19, in a different order (here Śatamāya is written as one word). mahā-asuram may be an epithet of Tantukaccha or a further figure; 'asura' kept.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "14.03.43a",
+   "14.03.43b"
+  ],
+  "lines_deva": [
+   "\"बलिं वैरोचनं वन्दे शतमायं च शम्बरम्",
+   "निकुम्भं नरकं कुम्भं तन्तु.कच्छं महा.असुरम्"
+  ],
+  "lines_iast": [
+   "\"baliṃ vairocanaṃ vande śatamāyaṃ ca śambaram",
+   "nikumbhaṃ narakaṃ kumbhaṃ tantu.kacchaṃ mahā.asuram"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "armālavaṃ",
+      "words": [
+       {
+        "w": "armālavaṃ",
+        "gloss": "Armalava",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramīlaṃ",
+      "words": [
+       {
+        "w": "pramīlaṃ",
+        "gloss": "Pramila",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maṇḍa.ulūkaṃ",
+      "words": [
+       {
+        "w": "maṇḍa-ulūkaṃ",
+        "gloss": "Manda-uluka",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghaṭa.ubalam",
+      "words": [
+       {
+        "w": "ghaṭa-ubalam",
+        "gloss": "Ghata-ubala",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṛṣṇa.kaṃsa.upacāraṃ",
+      "words": [
+       {
+        "w": "kṛṣṇa-kaṃsa-upacāraṃ",
+        "gloss": "Krishna-kamsa-upachara",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paulomīṃ",
+      "words": [
+       {
+        "w": "paulomīṃ",
+        "gloss": "Paulomi",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaśasvinīm",
+      "words": [
+       {
+        "w": "yaśasvinīm",
+        "gloss": "glorious",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अर्मालव और प्रमील, मण्ड-उलूक, घट-उबल, कृष्ण-कंस-उपचार, और यशस्विनी पौलोमी की भी।",
+  "english": "Armalava and Pramila, Manda-uluka, Ghata-ubala, Krishna-kamsa-upachara, and the glorious Paulomi.",
+  "text_flags": [],
+  "notes": "Name list continuing units 19 and 43 (the verb vande is understood from unit 43). maṇḍa-ulūka, ghaṭa-ubala and kṛṣṇa-kaṃsa-upacāra are obscure compounds kept as names; the last could also be split into separate names (Kṛṣṇa, Kaṃsa-upacāra), not decided. Paulomī is the feminine patronymic of Puloman's family; only that is stated.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "14.03.44a",
+   "14.03.44b"
+  ],
+  "lines_deva": [
+   "अर्मालवं प्रमीलं च मण्ड.उलूकं घट.उबलम्",
+   "कृष्ण.कंस.उपचारं च पौलोमीं च यशस्विनीम्"
+  ],
+  "lines_iast": [
+   "armālavaṃ pramīlaṃ ca maṇḍa.ulūkaṃ ghaṭa.ubalam",
+   "kṛṣṇa.kaṃsa.upacāraṃ ca paulomīṃ ca yaśasvinīm"
+  ],
+  "uncertain": []
+ }
+]

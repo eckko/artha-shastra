@@ -1,0 +1,517 @@
+{
+ "units": [
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उस पर प्रहार करे",
+     "problem": "abhihanyāt has no stated object; Hindi 'उस पर' adds one unmarked (English correctly brackets [it]).",
+     "fix": "प्रहार करे",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उस पर प्रहार करे",
+      "new": "प्रहार करे"
+     }
+    },
+    {
+     "field": "english",
+     "where": "vomit forth",
+     "problem": "Unit 63 renders vāmana 'causing to vomit out'; use one rendering for √vam caus. across the chunk.",
+     "fix": "vomit out",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "vomit forth",
+      "new": "vomit out"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vamayitvā",
+     "problem": "same consistency point",
+     "fix": "having caused to vomit out",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "vamayitvā",
+      "field": "gloss",
+      "value": "having caused to vomit out"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "paṇya-sampātam",
+     "problem": "sampāta is obscure and no sense is established; the draft gives a literal 'passage' with Hindi leaving सम्पात untranslated, which in Hindi means something else (coincidence/falling). Lower confidence and say so.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sampāta",
+     "problem": "state that Hindi keeps सम्पात as the Sanskrit word because no sure Hindi sense exists.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "append_note",
+      "text": "Hindi keeps सम्पात as the Sanskrit word; no sure Hindi equivalent is known. Reviewer: sense of paṇya-sampāta uncertain, a person should check it against a commentary."
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Having pleaded an ally or a kinsman [as pretext]",
+     "problem": "'pleaded an ally' is not English; apa-√diś/apadeśa is 'pretext'. The bracket is then unnecessary (the pretext sense is in the word). Hindi बहाना बनाकर is right.",
+     "fix": "Having made an ally or a kinsman their pretext",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "english",
+      "old": "Having pleaded an ally or a kinsman [as pretext]",
+      "new": "Having made an ally or a kinsman their pretext"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "apadiśya",
+     "problem": "align gloss",
+     "fix": "having made a pretext of",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "word",
+      "match_w": "apadiśya",
+      "field": "gloss",
+      "value": "having made a pretext of"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vyañjñano",
+     "problem": "Flag confirmed: extra ñ, the word is vyañjana (units 39, 46).",
+     "fix": "keep flag",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "At that place and time",
+     "problem": "amuṣmin (adas) here is 'such-and-such', a place and time still to be fixed; 'that' implies an earlier mention.",
+     "fix": "At such-and-such a place and time",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "At that place and time",
+      "new": "At such-and-such a place and time"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उस स्थान और समय पर",
+     "problem": "same",
+     "fix": "अमुक स्थान और समय पर",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उस स्थान और समय पर",
+      "new": "अमुक स्थान और समय पर"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "amuṣmin",
+     "problem": "same",
+     "fix": "in such-and-such",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "amuṣmin",
+      "field": "gloss",
+      "value": "in such-and-such"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "syntax",
+     "problem": "Checked: darśayitvā (caus.) takes a double accusative, pratipannam (the one made to see) and abhyāghāta-saṅkulam (what is seen); niṣkrāntam is the same man when he comes out. The draft's English/Hindi are consistent with this and 'to' is the normal rendering of the causee. Kept; low confidence stays right (what the 'it' is, and where yathā-uktam attaches, are not certain).",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "āṭavvikaṃ",
+     "problem": "Flag confirmed: doubled v, the word is āṭavika (8.1, units 34, 35, 50, 51).",
+     "fix": "keep flag",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्वयं विष से भी मरवाए",
+     "problem": "'भी' renders nothing: svayaṃ vā rasena is 'or himself with poison' (अथवा already given). Unmarked addition.",
+     "fix": "स्वयं विष से मरवाए",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्वयं विष से भी मरवाए",
+      "new": "स्वयं विष से मरवाए"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "upagraha",
+     "problem": "'winning over' kept (cf. glossary 11.1 upagṛhya 'having supported'); the order in Hindi puts the quotation before 'his aim gained', English keeps the Sanskrit order; both acceptable.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "parasya",
+     "problem": "Support for 'to the enemy': in this same chunk the recipient is put in the genitive after preṣayet (samruddhasya preṣayet, units 35, 39, 42), so parasya abhiśaṃset as 'denounce to the enemy' is the likelier reading. Hindi 'शिकायत' is a little weak for abhi-√śaṃs (accuse, denounce) but not wrong.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "append_note",
+      "text": "Reviewer: the genitive of the recipient after a verb of sending/telling occurs in this chunk (saṃruddhasya preṣayet, units 35, 39, 42), which supports 'to the enemy'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "puruṣānasya",
+     "problem": "Flag confirmed: puruṣān asya, missing space.",
+     "fix": "keep flag",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "āpta-bhāva-upagataḥ",
+     "problem": "Labelled bahuvrīhi but upagata is a ppp governing the object bhāvam ('gone to the state of'): a tat-puruṣa (accusative), with āpta-bhāva a karmadhāraya inside.",
+     "fix": "m. nom. sg. ppp. (tat-puruṣa: acc. + ppp.)",
+     "severity": "minor",
+     "patch": {
+      "n": "47",
+      "op": "word",
+      "match_w": "āpta-bhāva-upagataḥ",
+      "field": "gram",
+      "value": "m. nom. sg. ppp. (tat-puruṣa: acc. + ppp.)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Or ... , or having led across",
+     "problem": "The vā stands after dūṣya-āṭavikeṣu and, like vā after the first word in units 38, 39, 46, probably marks the whole sentence as an alternative; apakārayitvā and atinīya may then be two successive gerunds of one action, not two alternatives. The draft's 'A, or B' is one possible reading only. Not certain, so no patch.",
+     "fix": "person to decide; if the second reading: 'Or, having caused a wrong to be done in the case of the treasonable and the forest chiefs, and having led across one part of the army, he should have the fort taken by assault.'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those who have withdrawn back",
+     "problem": "'withdrawn back' is redundant.",
+     "fix": "those who have withdrawn",
+     "severity": "minor",
+     "patch": {
+      "n": "51",
+      "op": "replace",
+      "field": "english",
+      "old": "those who have withdrawn back",
+      "new": "those who have withdrawn"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "ukta / abhipannam",
+     "problem": "The draft confirms ukta->mukta but treats abhipannam as a genuine accusative group and then reads the grammar against itself (accusative recipients of dadyuḥ). Better: one transposed m (see flag text) fixes both. Translations stay as drafted (they already read the group as recipients). Update flag, notes, split and gram.",
+     "fix": "see patches",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "patita.parān.mukha.abhipannam ukta.keśa.śastra.bhaya.virūpebhyaś",
+        "suggest": "patita.parān.mukha.abhipanna mukta.keśa.śastra.bhaya.virūpebhyaś",
+        "why": "One slip explains two oddities: the m of mukta has moved onto the previous word (abhipanna+m / m+ukta -> abhipannam ukta). Restored, ukta (no sense with keśa-śastra) becomes mukta (loosed, dropped) and abhipannam (an accusative where abhayam dadyuḥ needs a dative) becomes the stem abhipanna, so patita-parāṅmukha-abhipanna-mukta-keśa-śastra-bhaya-virūpebhyaḥ is one dative dvandva with ayudhyamānebhyaḥ. The Devanagari repeats the e-text."
+       }
+      ]
+     }
+    },
+    {
+     "field": "gram",
+     "where": "patita-parāṅmukha-abhipanna-",
+     "problem": "",
+     "fix": "first members of a dvandva (dative plural) completed in the next word",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "word",
+      "match_w": "patita-parāṅmukha-abhipannam",
+      "field": "gram",
+      "value": "m. (dvandva members, dative pl. completed in the next word)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "patita-parāṅmukha-abhipanna-",
+     "problem": "",
+     "fix": "[to] the fallen, the turned away, the surrendered",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "word",
+      "match_w": "patita-parāṅmukha-abhipannam",
+      "field": "gloss",
+      "value": "the fallen, the turned away, the surrendered (continues in the next word)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "patita-parāṅmukha-abhipannam",
+     "problem": "Word must not end in -m; first three members of the dative dvandva, continued in the next token.",
+     "fix": "patita-parāṅmukha-abhipanna-",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "word",
+      "match_w": "patita-parāṅmukha-abhipannam",
+      "field": "w",
+      "value": "patita-parāṅmukha-abhipanna-"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mukta-keśa-śastra-bhaya-virūpebhyaḥ",
+     "problem": "joins the previous members",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "word",
+      "match_w": "mukta-keśa-śastra-bhaya-virūpebhyaḥ",
+      "field": "gram",
+      "value": "m. dat. pl. (dvandva, continuing the previous word)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "accusative group",
+     "problem": "Draft note says the first group is accusative; with the m restored it is dative and the note must be replaced. abhipanna kept as 'surrendered' (lit. approached, come to; other senses 'overcome, afflicted'), medium-low.",
+     "fix": "new note",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "set",
+      "field": "notes",
+      "value": "Translation follows two emendations that come from one slip in the e-text: the m of mukta has moved onto the previous word (abhipannam ukta for abhipanna mukta), so the text is read patita-parāṅmukha-abhipanna-mukta-keśa-śastra-bhaya-virūpebhyaḥ, one dative dvandva, all recipients of abhayam together with ayudhyamānebhyaḥ. abhipanna is rendered \"surrendered\" (literally \"approached, come to\"; abhi-√pad can also mean overcome or afflicted), medium-low confidence. mukta-keśa-śastra is read as mukta applying to both keśa and śastra (loosed hair, dropped weapons). bhaya-virūpa read as \"frightened\" and \"disfigured\". The sentence could also be read with skandhāvāraṃ vā patita-... as one phrase; the former reading is used."
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ari-prakṛti",
+     "problem": "ok as literal; no change",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "dvi-guṇa",
+     "problem": "Hindi and English both supply 'becoming/in strength' only in brackets/with होकर; the English bracket [in strength] marks it, Hindi cannot. Accepted with medium confidence.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "vāmana",
+     "problem": "Consistent with unit 33 after the 'vomit out' patch; literal only, correct.",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "31 units (13.4.33-63) reviewed. Issues: 5 error, 24 minor; 20 machine patches. Main finding: unit 52, one transposed m (abhipannam ukta -> abhipanna mukta) explains both the ukta oddity and the impossible accusative; translations stand. Smaller: unit 38 sampāta low confidence; 47 compound label; 41/42/45 wording; 33/63 vomit consistency; unit 50 vā placement for a person. Flags confirmed: 42, 44, 47, 52 (extended), 59. No regrouping suggested. Glossary: one 13.4 line appended."
+}

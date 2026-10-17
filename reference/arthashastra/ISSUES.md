@@ -82,3 +82,23 @@ Settled in `layers-work/GLOSSARY.md` by the reviewers; the owner may want to con
 | 12.03.1, 12.03.13, 12.03.14 | other | reviewer reversed the draft: patty-aśva-ratha-dvipa-mukhyānām taken with mitra-sthānīyeṣu (agents tell the friendly chiefs); `asya` (officer's vs king's); `prakṛti-puruṣa` "men of the constituent elements" | S1 | check translation |
 | 12.04.1, 12.04.23, 12.04.25, 12.04.28, 12.04.29 | other | `paṇya-āgāra-pūrvam`, `sattra`/`stambha-vāṭa`, `khañjana`, `nidhāna-gata`, `yoga-vāmana-yoga` (low confidence) | S1 | check Kangle's notes |
 | 12.05.1, 12.05.42, 12.05.43 | other | corrupt first compound (daivata.ijyāyāṃ is the editors' proposal); `dūṣya-vyañjanaiḥ` construal; `prāśya-prāśam` obscure | S1 | check print |
+
+## Layers, Parts 13, 14, 15 (AI drafts, Sonnet 5.5 drafts and reviews; not read by a person)
+
+Book 14 `yoga` has no single rendering yet: 14.2 "preparation", 14.4 "compound", 12.4 "contrivance". `aparuddha` in Book 13: glossary "prince in disfavour" vs "shut out" accepted in 13.5.18. Several reviewers could not add or remove text_flags with the patch format; flags listed below need a hand edit.
+
+| Line ID | Kind | What | Source(s) | Suggested check |
+|---|---|---|---|---|
+| 13.01.2, 13.01.16, 13.01.19, 13.01.21 | other | `pratyādeśa`/`vijñāpya`; yoktrayā emendation (yoktra is neuter); genitive `apratigṛhṇatām` rendered as dative; `aparigrahaiḥ` | S1 | check translation |
+| 13.02.11/12/14/16/17/19/29/44/48/49/50 | other | low-confidence senses; `sattra-hetubhiḥ` (13.02.50) vs glossary sattra = hiding-place; whether `pratimā` governs the series (13.02.44) | S1 | check Kangle's notes |
+| 13.03 (units 3, 5, 8, 12, 13, 25, 27, 33, 41, 46, 47, 52, 58) | other | low-confidence syntax/referents; 13.03.52 `kṛta-saṅketam` agreement unclear | S1 | a person reads |
+| 13.04.3, 13.04.9, 13.04.12, 13.04.20, 13.04.26 | other | `anyatra-apasarataḥ`; `dāraṃ ca guḍena` (dvāra?); `niṣkira`; `viśvāsa-ghātī vā` (fourth alternative or part of the third); `prahavaṇa`, `saurika` | S1 | check print |
+| 13.04.38, 13.04.50, 13.04.52 | other | `sampāta` (no sure sense); vā marks alternatives or successive gerunds; `abhipannam ukta` read as `abhipanna mukta` (transposed m) | S1 | check print |
+| 13.05.12, 13.05.16, 13.05.18 | other | `cātūrātrikaṃ` unverified; `parā.upagṛhītānāṃ` possible; `aparuddha` rendering | S1 | check print |
+| 14.01.4, 5, 11, 21, 29, 38 | other | missing text_flags for samyuktaṃ/samyogaḥ, kārpāsa.-, niṣpratikāro, eka.antra; `śālmalī` cannot agree with the masculine participles in 14.01.29 | S1 | decide and hand-edit |
+| 14.02.8, 14.02.31, 14.02.44 | other | damaged `astakra(?).marka`; `aṅgi` repaired to `agni` (low confidence); `abhiṣūya` sense ("steeped" unsupported) | S1 | check print |
+| 14.03.23, 14.03.25, 14.03.41 | other | role of `śunaka-phelakāḥ`; line 25 may be corrupt; `aṣṭa-śata` 108 or 800 | S1 | check print |
+| 14.03.51, 14.03.60, 14.03.64, 14.03.79 | other | possible new flags `apayāntu`->upayāntu and `virāmati`->viramati (patch cannot add flags); `āvāsya` is perhaps a real gerund of ā-√vas, the "same slip as āvāpya" claim is unestablished | S1 | check print |
+| 14.04.2, 14.04.9, 14.04.11, 14.04.14 | other | scope of `viṣa-pratīkāraḥ`; adopt re-division mañjiṣṭhā-tagara-lākṣā-rasa-madhuka, and remove the spurious `nihsañjñānāṃ` flag by hand; referent of `eṣām`; gender of `dūṣaṇān` | S1 | check print |
+| 15.01.30, 15.01.31, 15.01.35 | other | compounds `ātma-dravya-prakṛti-sampanna`, `apriya-hita`; whether `pūrveṇa` refers to an earlier example | S1 | a person reads |
+| 15.01.43, 49, 51, 57, 60, 68, 69, 70 | other | uncertain senses: atiśaya, abhipluta-vyapakarṣaṇam, asamitaḥ, sarvatra āyattam ekāntaḥ, pautava, svayañjāta, ūhya, anuśaya | S1 | check Kangle's notes |

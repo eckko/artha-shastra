@@ -1,0 +1,786 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hasty.aśvaṃ flag",
+     "problem": "Not a typo: hasty-aśva is the e-text's regular internal sandhi spelling (cf. aṭavy.āsannam); the flag itself says so. A flag that reports no error is noise.",
+     "fix": "remove the flag",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भी",
+     "problem": "Hindi adds 'भी' (also); the Sanskrit has no api/ca.",
+     "fix": "इससे अमात्यों और आटविकों की व्याख्या हो गई।",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "की भी व्याख्या",
+      "new": "की व्याख्या"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "preṣayet",
+     "problem": "Gloss 'he sends' does not match the optative label.",
+     "fix": "he should send",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "preṣayet",
+      "field": "gloss",
+      "value": "he should send"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "disowned orders",
+     "problem": "'disowned' is more interpretive than the literal 'abandoned' (Hindi already has परित्यक्त); keep English and Hindi aligned and literal for the obscure abhityakta-śāsana.",
+     "fix": "abandoned orders",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "14",
+       "op": "replace",
+       "field": "english",
+       "old": "disowned orders",
+       "new": "abandoned orders"
+      },
+      {
+       "n": "14",
+       "op": "word",
+       "match_w": "abhityakta-śāsanaiḥ",
+       "field": "gloss",
+       "value": "by abandoned orders"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "का सहारा लेकर",
+     "problem": "upagraha here is supporting the kṛtya-pakṣa (glossary 11.1 upagṛhya = सहारा देकर). Hindi 'सहारा लेकर' means relying on them, the reverse; the word gloss 'by gaining' also disagrees with English 'by supporting'.",
+     "fix": "Hindi: कृत्य-पक्ष को सहारा देकर; gloss: by supporting the party of the seducible",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "16",
+       "op": "replace",
+       "field": "hindi",
+       "old": "कृत्य-पक्ष का सहारा लेकर",
+       "new": "कृत्य-पक्ष को सहारा देकर"
+      },
+      {
+       "n": "16",
+       "op": "word",
+       "match_w": "kṛtya-pakṣa-upagraheṇa",
+       "field": "gloss",
+       "value": "by supporting the party of the seducible"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसे",
+     "problem": "Object of grāhayet is unstated; English brackets it, Hindi supplies 'उसे' unmarked.",
+     "fix": "drop 'उसे'",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह उसे पकड़वा ले",
+      "new": "वह पकड़वा ले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "असह्य को अथवा गुप्त दण्ड से",
+     "problem": "Misplaced vā: it follows upāṃśu-daṇḍena and joins this alternative to the earlier ones; it does not link 'the irresistible one' to 'by secret force'. English likewise garbled.",
+     "fix": "Hindi: अथवा असह्य को वह गुप्त दण्ड से मरवा दे। English: Or he should have the irresistible one killed by secret punishment.",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "20",
+       "op": "set",
+       "field": "hindi",
+       "value": "अथवा असह्य को वह गुप्त दण्ड से मरवा दे।"
+      },
+      {
+       "n": "20",
+       "op": "set",
+       "field": "english",
+       "value": "Or he should have the irresistible one killed by secret punishment."
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "upāṃśu-daṇḍena",
+       "field": "gloss",
+       "value": "by secret punishment"
+      },
+      {
+       "n": "20",
+       "op": "append_note",
+       "text": "Reviewer: vā joins this alternative to the preceding ones (not 'the irresistible one, or by secret force'); upāṃśu-daṇḍa = secret punishment, as in glossary 13.5."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "all the contrivances are the same",
+     "problem": "eva (gloss 'indeed') is dropped in both languages.",
+     "fix": "English: ... are just the same as the former; Hindi: ... पहले के समान ही हैं",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "26",
+       "op": "replace",
+       "field": "english",
+       "old": "all the contrivances are the same",
+       "new": "all the contrivances are just the same"
+      },
+      {
+       "n": "26",
+       "op": "replace",
+       "field": "hindi",
+       "old": "पहले के समान हैं",
+       "new": "पहले के समान ही हैं"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "incited / उकसाकर",
+     "problem": "utsāhayati is fixed as 'rouse' (उभारना) in both languages (glossary 13.1). Word gloss of abhiyojayet 'should have march against' is ungrammatical.",
+     "fix": "having roused / उभारकर; abhiyojayet: should cause to attack",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "29",
+       "op": "replace",
+       "field": "english",
+       "old": "having incited the enemy",
+       "new": "having roused the enemy"
+      },
+      {
+       "n": "29",
+       "op": "replace",
+       "field": "hindi",
+       "old": "उकसाकर",
+       "new": "उभारकर"
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "utsāhayitvā",
+       "field": "gloss",
+       "value": "having roused"
+      },
+      {
+       "n": "29",
+       "op": "word",
+       "match_w": "abhiyojayet",
+       "field": "gloss",
+       "value": "should cause to attack"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sāmanta-ādibhiḥ",
+     "problem": "sāmanta-ādi ('neighbours and the rest') is a bahuvrīhi (tad-guṇa-saṃvijñāna), not a dvandva.",
+     "fix": "m. inst. pl., bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "sāmanta-ādibhiḥ",
+      "field": "gram",
+      "value": "m. inst. pl., bahuvrīhi"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bargain openly",
+     "problem": "eva after prakāśam is dropped in English (Hindi has ही).",
+     "fix": "bargain openly indeed",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "he should bargain openly,",
+      "new": "he should bargain openly indeed,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "denounced",
+     "problem": "'denounce' is an invented sense for abhi-vi-√khyā (caus.): the literal sense is make publicly known (Hindi प्रसिद्ध करके). Keep literal; the note already records the doubt.",
+     "fix": "having made publicly known",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "36",
+       "op": "replace",
+       "field": "english",
+       "old": "having denounced",
+       "new": "having made publicly known"
+      },
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "abhivikhyāpya",
+       "field": "gloss",
+       "value": "having made publicly known"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "disowned orders",
+     "problem": "Same as unit 14: align with Hindi परित्यक्त and keep literal.",
+     "fix": "abandoned orders",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "39",
+       "op": "replace",
+       "field": "english",
+       "old": "disowned orders",
+       "new": "abandoned orders"
+      },
+      {
+       "n": "39",
+       "op": "word",
+       "match_w": "abhityakta-śāsanaiḥ",
+       "field": "gloss",
+       "value": "by abandoned orders"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the rear ally is great",
+     "problem": "ākranda in the quoted message is wrong as 'rear ally': the message is about a band of thieves and a village raid, and 'mahān ākrandaḥ' beside 'prabhūtaṃ sainyam āgacchatu' is the outcry/wailing (Hindi आक्रन्द already reads so). The technical 'rear ally' stays in unit 3 only. Glossary entry added.",
+     "fix": "the outcry is great",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "40",
+       "op": "replace",
+       "field": "english",
+       "old": "the rear ally is great",
+       "new": "the outcry is great"
+      },
+      {
+       "n": "40",
+       "op": "word",
+       "match_w": "ākrandaḥ",
+       "field": "gloss",
+       "value": "outcry"
+      },
+      {
+       "n": "40",
+       "op": "append_note",
+       "text": "Reviewer: ākranda in the quotation is read 'outcry', not the technical 'rear ally' of 6.2/unit 3; the speakers report thieves and a village raid. Hindi आक्रन्द kept."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "placed there earlier",
+     "problem": "'there' is not in the Sanskrit (pūrva-praṇihitāḥ).",
+     "fix": "those placed earlier",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "those placed there earlier",
+      "new": "those placed earlier"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "daṇḍa-atinayanam",
+     "problem": "'leading in' adds a direction: ati-nī is literally 'lead across/over' (cf. ātivāhika, 'carrying across'). Hindi 'भीतर' likewise unsupported. Obscure sense, so keep literal.",
+     "fix": "leading across of the army / सेना को पार ले जाना",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "48",
+       "op": "replace",
+       "field": "english",
+       "old": "the leading in of the army",
+       "new": "the leading across of the army"
+      },
+      {
+       "n": "48",
+       "op": "replace",
+       "field": "hindi",
+       "old": "सेना को भीतर ले जाना",
+       "new": "सेना को पार ले जाना"
+      },
+      {
+       "n": "48",
+       "op": "word",
+       "match_w": "daṇḍa-atinayanam",
+       "field": "gloss",
+       "value": "the leading across of the army"
+      },
+      {
+       "n": "48",
+       "op": "append_note",
+       "text": "Reviewer: atinayana kept literal ('leading across'); the direction (into a fort) is not stated."
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "घोड़ों और बिक्री की वस्तुओं का व्यवहार करने वालों",
+     "problem": "Hindi reads aśva-paṇya as 'horses and wares' while the gloss and English read 'horses as merchandise'; the two must agree (literal: horse-wares).",
+     "fix": "बिक्री के घोड़ों का व्यवहार करने वालों",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "hindi",
+      "old": "घोड़ों और बिक्री की वस्तुओं का व्यवहार करने वालों",
+      "new": "बिक्री के घोड़ों का व्यवहार करने वालों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "rāja-apasarpāḥ means the spies employed against a king",
+     "problem": "Note states a contested interpretation as fact.",
+     "fix": "soften",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "notes",
+      "old": "Closing summary of units 36-48; rāja-apasarpāḥ means the spies employed against a king",
+      "new": "Presumably a closing summary of units 36-48; rāja-apasarpāḥ is read 'spies of the king' (spies employed against a king is also possible)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Having arranged a signal",
+     "problem": "English and Hindi take kṛta-saṅketam as a separate action, but the word gloss/gram (bahuvrīhi, n. acc. sg.) make it an adjective of anna-pānam ('food and drink with the signal arranged'). English, Hindi and gloss disagree; the sequence of kṛtvā and the position of ca remain doubtful, so a person should decide.",
+     "fix": "e.g. Having made food and drink here with the signal arranged, or mixed with madana poison, they should go away.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by the rite called prahavaṇa",
+     "problem": "'rite' is an invented sense (and 'called' is added); glossary 13.4 keeps prahavaṇa untranslated with the doubt in notes, karman = action.",
+     "fix": "by the prahavaṇa action",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "54",
+       "op": "replace",
+       "field": "english",
+       "old": "by the rite called prahavaṇa",
+       "new": "by the prahavaṇa action"
+      },
+      {
+       "n": "54",
+       "op": "word",
+       "match_w": "prahavaṇa-karmaṇā",
+       "field": "gloss",
+       "value": "by the prahavaṇa action"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "on the occasion of",
+     "problem": "nimittam is 'on account of / for the purpose of'; 'occasion' is an added sense, and so is 'selling and presenting' vs the gloss 'the sale and presenting'.",
+     "fix": "on account of selling and presenting liquor",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "56",
+       "op": "replace",
+       "field": "english",
+       "old": "on the occasion of selling and presenting liquor",
+       "new": "on account of selling and presenting liquor"
+      },
+      {
+       "n": "56",
+       "op": "word",
+       "match_w": "surā-vikraya-upāyana-nimittam",
+       "field": "gloss",
+       "value": "on account of the sale and presenting of liquor"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "spies against thieves",
+     "problem": "corāṇām apasarpāḥ is 'spies of thieves' (cf. unit 50 'of the forest tribes', rendered literally); 'against' and Hindi 'के विषय में' are interpretive, and the gloss says 'of thieves'.",
+     "fix": "English: the spies of thieves; Hindi: चोरों के गुप्तचर",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "58",
+       "op": "replace",
+       "field": "english",
+       "old": "the spies against thieves",
+       "new": "the spies of thieves"
+      },
+      {
+       "n": "58",
+       "op": "replace",
+       "field": "hindi",
+       "old": "चोरों के विषय में गुप्तचर",
+       "new": "चोरों के गुप्तचर"
+      }
+     ]
+    },
+    {
+     "field": "hindi",
+     "where": "टोली",
+     "problem": "Hindi supplies the noun 'band' unmarked (English brackets it); the Sanskrit gives only feminine praviṣṭām.",
+     "fix": "drop 'टोली' (explanation stays in notes)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "58",
+       "op": "replace",
+       "field": "hindi",
+       "old": "घुसी हुई टोली को",
+       "new": "घुसी हुई को"
+      },
+      {
+       "n": "58",
+       "op": "append_note",
+       "text": "Reviewer: Hindi leaves the feminine object unstated, no noun supplied."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "58 units reviewed; 23 issues (6 error, 17 minor) in 21 units; no regrouping. Flags: unit 2 āśrtya CONFIRMED (āśritya); unit 7 amātya.aṭavikā accepted as 'possible' (āṭavika is used elsewhere in the chunk, visarga loss before v is regular); unit 32 ichet CONFIRMED (icchet; Devanagari इछेत्) and the vairiṇā omission kept as 'possible' (parallel to units 21 and 23, not provable); unit 35 ceṣteta CONFIRMED (Devanagari चेष्तेत्, ceṣṭeta); unit 44 vvā CONFIRMED (vā); unit 48 daṇaḍ CONFIRMED (daṇḍa); the unlisted hasty.aśvaṃ flag in unit 3 REJECTED (regular sandhi spelling). Units 40-41: ākranda in the quoted message is 'outcry' (error fixed in 40; 'rear ally' kept in unit 3). Low-confidence units 3, 5, 8, 12, 13, 25, 27, 33, 41, 46, 47, 52, 58 keep their low rating and need a human on syntax/referents; 52 has an unresolved English/Hindi/gloss disagreement over kṛta-saṅketam (no patch). Obscure terms (abhityakta-śāsana, grāhayet, abhivikhyāpya, ātivāhika, kanyā-vāhika, prahavaṇa-karman) now literal in both languages."
+}

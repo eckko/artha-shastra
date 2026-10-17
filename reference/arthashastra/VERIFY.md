@@ -17,3 +17,9 @@ Dated log of the verify-vedic-book-reference run. Append only.
 - Written: text/p08-, p10-, p11-, p12- `-sandhi.md`, `-hindi.md`, `-english.md`. check_extraction: layers align with the Sanskrit IDs; only the 3 known source-typo errors remain.
 - Reviewers' common finding: drafts put bracketed glosses inside the Hindi (forbidden by the brief); these were removed by the review patches. Open items needing a person are in ISSUES.md.
 - Layers done: Parts 06, 08, 10, 11, 12. Not run: Parts 01-05, 07, 09, 13-15.
+
+## 2026-10-17, third layer run: Parts 13, 14, 15 (13 chunks, 475 units, branch docs/2026-10-17/version-2)
+- The owner merged docs/2026-10-17/version-1 into main (PR #1) during the run, so the rest was continued on a new branch, docs/2026-10-17/version-2 (main untouched).
+- Same pipeline with Sonnet 5.5 agents for drafting and review (drafts told not to put bracketed glosses in Hindi). All patches applied without failure. Hand edit: 13.5.2 duplicated `ca` in the word split removed.
+- Written: text/p13-, p14-, p15- `-sandhi.md`, `-hindi.md`, `-english.md`. check_extraction: layers align with the Sanskrit IDs; only the 3 known source-typo errors remain.
+- Layers done: Parts 06, 08, 10, 11, 12, 13, 14, 15. Not run: Parts 01-05, 07, 09 (large).

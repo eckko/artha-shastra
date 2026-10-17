@@ -1,0 +1,1125 @@
+{
+ "units": [
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "siddhi-artham",
+     "problem": "artha in -artham \"for the sake of\" is a neuter accusative used adverbially, not masculine",
+     "fix": "n. acc. sg. used adverbially, tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "siddhi-artham",
+      "field": "gram",
+      "value": "n. acc. sg. used adverbially, tat-puruṣa",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ayāt",
+     "problem": "ayāt is the 3 sg imperfect/injunctive of √yā (as after yāvat), not an optative of √i (that would be iyāt); gloss \"may go\" asserts a mood",
+     "fix": "3 sg impf. (injunctive sense) √yā; gloss \"goes\"",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "ayāt",
+      "field": "gram",
+      "value": "3 sg impf. (injunctive sense after yāvat) √yā",
+      "n": "46"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ayāt",
+     "problem": "see gram",
+     "fix": "goes",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ayāt",
+      "field": "gloss",
+      "value": "goes",
+      "n": "46"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तब तक प्रयोजन और फल मेरा हो",
+     "problem": "Hindi adds \"और\" between artham and phalam (no ca in the Sanskrit; GLOSSARY 14.3 forbids added और) and a correlative \"तब तक\" not matching the English",
+     "fix": "जब तक प्रयोजन है, फल मेरा हो",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तब तक प्रयोजन और फल मेरा हो",
+      "new": "जब तक प्रयोजन है, फल मेरा हो",
+      "n": "46"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "yāvad artham",
+     "problem": "yāvad artham may be the idiom \"as far as needed / to the extent of the purpose\"; the draft English \"as long as [there is] the object\" is one guess among several; keep low",
+     "fix": "add note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative for the third line: yāvad-artham as an idiom, \"to the extent of the purpose\", with ayāt read as a subjunctive-like imperfect after yāvat. The Hindi and English \"as long as ... is\" are literal guesses.",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "iti",
+     "problem": "Closing iti of a mantra: GLOSSARY 13.1 says a bare iti closing a quotation is not rendered \"thus\". Draft renders it; acceptable here because the mantra is not quoted in print, but a person should decide for consistency",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "catur-bhakta-upavāsī",
+     "problem": "not a bahuvrīhi: catur-bhakta is the object of the agent noun upavāsin (tat-puruṣa)",
+     "fix": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "catur-bhakta-upavāsī",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+      "n": "49"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "asaṅkīrṇe",
+     "problem": "agrees with ādahane, which is neuter",
+     "fix": "n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "asaṅkīrṇe",
+      "field": "gram",
+      "value": "n. loc. sg.",
+      "n": "49"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "asaṅkīrṇe",
+     "problem": "GLOSSARY 14.3: asaṅkīrṇa ādahana = unmixed cremation ground",
+     "fix": "unmixed",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "asaṅkīrṇe",
+      "field": "gloss",
+      "value": "unmixed",
+      "n": "49"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in an uncrowded cremation ground",
+     "problem": "GLOSSARY 14.3 fixed rendering \"unmixed cremation ground\"",
+     "fix": "in an unmixed cremation ground",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in an uncrowded cremation ground",
+      "new": "in an unmixed cremation ground",
+      "n": "49"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भीड़ से रहित श्मशान में",
+     "problem": "GLOSSARY 14.3: असंकीर्ण दाह-स्थान; \"भीड़ से रहित\" is an interpretation",
+     "fix": "असंकीर्ण दाह-स्थान में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "भीड़ से रहित श्मशान में",
+      "new": "असंकीर्ण दाह-स्थान में",
+      "n": "49"
+     }
+    },
+    {
+     "field": "english",
+     "where": "on the fourteenth of the dark half",
+     "problem": "GLOSSARY 14.3: kṛṣṇa-caturdaśī = the dark fourteenth",
+     "fix": "on the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "on the fourteenth of the dark half",
+      "new": "on the dark fourteenth",
+      "n": "49"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कृष्ण पक्ष की चतुर्दशी",
+     "problem": "GLOSSARY 14.3: कृष्ण-चतुर्दशी",
+     "fix": "कृष्ण-चतुर्दशी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कृष्ण पक्ष की चतुर्दशी",
+      "new": "कृष्ण-चतुर्दशी",
+      "n": "49"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṛṣṇa-caturdaśyām",
+     "problem": "glossary wording",
+     "fix": "on the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṛṣṇa-caturdaśyām",
+      "field": "gloss",
+      "value": "on the dark fourteenth",
+      "n": "49"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पौत्री-पोट्टलिका",
+     "problem": "printed form is poṭṭalikam (not -ā); keep the name as printed",
+     "fix": "पौत्री-पोट्टलिक",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पौत्री-पोट्टलिका",
+      "new": "पौत्री-पोट्टलिक",
+      "n": "49"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Having pierced it in the middle with",
+     "problem": "tad-madhye = \"in the middle of it\"; the draft moves \"it\" to the object of viddhvā unmarked",
+     "fix": "Having pierced, in the middle of it, with the quill of a porcupine, wherever [it] is buried with this mantra, it puts all that to sleep.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Having pierced it in the middle with the quill of a porcupine, wherever it is buried",
+      "new": "Having pierced, in the middle of it, with the quill of a porcupine, wherever [it] is buried",
+      "n": "50"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वहाँ वह सबको सुला देता है",
+     "problem": "Hindi turns tat sarvam into \"वहाँ ... सबको\", contradicting the English \"all that\" (the note itself calls \"all there\" an alternative)",
+     "fix": "उस सबको वह सुला देता है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वहाँ वह सबको सुला देता है",
+      "new": "उस सबको वह सुला देता है",
+      "n": "50"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "apayāntu",
+     "problem": "Contradiction with vaśatāṃ yāntu is real; upayāntu (\"let all approach\") is a plausible but unproven correction. Keep printed apayāntu in words, add a text_flag, confidence medium is fair. Needs a person (no flag patch operation).",
+     "fix": "add text_flag {src: apayāntu, suggest: upayāntu, why: possible typo; \"go away\" clashes with \"come into my subjection\"}",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "54",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tri-rātra-upoṣitaḥ",
+     "problem": "not a bahuvrīhi: a participle with accusative of duration (tat-puruṣa), as in GLOSSARY tri-rātra-upoṣita",
+     "fix": "m. nom. sg., tat-puruṣa (acc. of duration + ppp.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tri-rātra-upoṣitaḥ",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa (tri-rātra + upoṣita)",
+      "n": "54"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तीन रात उपवास किए हुए",
+     "problem": "GLOSSARY 14.3: तीन रात उपवास किया हुआ",
+     "fix": "तीन रात उपवास किया हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीन रात उपवास किए हुए",
+      "new": "तीन रात उपवास किया हुआ",
+      "n": "54"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इक्कीस बार सम्पात",
+     "problem": "\"बार\" is added and \"सम्पात\" is left, while English says \"pourings\"; GLOSSARY 14.3: sampāta stays sampāta",
+     "fix": "इक्कीस सम्पात",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इक्कीस बार सम्पात",
+      "new": "इक्कीस सम्पात",
+      "n": "54"
+     }
+    },
+    {
+     "field": "english",
+     "where": "twenty-one pourings",
+     "problem": "invented sense for obscure sampāta; GLOSSARY keeps sampāta",
+     "fix": "twenty-one sampātas",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "twenty-one pourings",
+      "new": "twenty-one sampātas",
+      "n": "54"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "eka-viṃśati-sampātam",
+     "problem": "same",
+     "fix": "twenty-one sampātas",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eka-viṃśati-sampātam",
+      "field": "gloss",
+      "value": "twenty-one sampātas",
+      "n": "54"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "pebbles",
+     "problem": "The note says the pebbles are supplied from context; in fact śarkarā(ḥ) is printed (acc. pl.) and could be the object of kṛtvā or of abhijuhuyāt; the English choice is one construal",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Construction: the printed accusative śarkarāḥ may go with sampātaṃ kṛtvā or with abhijuhuyāt; \"offer upon the pebbles\" is one construal. sampāta is kept untranslated (pouring/falling together is only a guess).",
+      "n": "54"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "uposṣitaḥ",
+     "problem": "Confirmed: upoṣitaḥ (cf. 64, 79); extra ṣ is a typo",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "abhyantarm",
+     "problem": "Confirmed: abhyantaram/abhyantaraṃ",
+     "fix": "keep",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "abhyantaram",
+     "problem": "abhyantaram agrees grammatically with dvāram (n. nom. sg.), so \"the inner door\" is as likely as the adverb \"inside\"",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative: abhyantaram as adjective of dvāram, \"the inner door of four pebbles is opened\".",
+      "n": "57"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "on the fourteenth of the dark half",
+     "problem": "GLOSSARY 14.3",
+     "fix": "on the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "on the fourteenth of the dark half",
+      "new": "on the dark fourteenth",
+      "n": "58"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कृष्ण पक्ष की चतुर्दशी",
+     "problem": "GLOSSARY 14.3",
+     "fix": "कृष्ण-चतुर्दशी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कृष्ण पक्ष की चतुर्दशी",
+      "new": "कृष्ण-चतुर्दशी",
+      "n": "58"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṛṣṇa-caturdaśyām",
+     "problem": "glossary wording",
+     "fix": "on the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṛṣṇa-caturdaśyām",
+      "field": "gloss",
+      "value": "on the dark fourteenth",
+      "n": "58"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "catur-bhakta-upavāsī",
+     "problem": "as in 49",
+     "fix": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "catur-bhakta-upavāsī",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+      "n": "58"
+     }
+    }
+   ]
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dvi-go-yuktam",
+     "problem": "yuktam is governed by an instrumental sense (yoked with two cattle): tat-puruṣa, not bahuvrīhi",
+     "fix": "n. nom. sg., tat-puruṣa (dvi-go + yukta)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dvi-go-yuktam",
+      "field": "gram",
+      "value": "n. nom. sg., tat-puruṣa (dvi-go + yukta)",
+      "n": "59"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दो बैलों से जुती हुई बैलगाड़ी",
+     "problem": "Hindi says oxen/bullock-cart, English (and go) say cattle; \"ṛṣabha\" is the word for bull elsewhere",
+     "fix": "दो गौओं से जुता हुआ गो-यान लाया जाता है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "दो गौओं से जुता हुआ गो-यान लाया जाता है।",
+      "n": "59"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "virāmati",
+     "problem": "The regular form is viramati (short a); virāmati may be a typo (or another verb, e.g. virājati). Unproven; person to decide",
+     "fix": "add text_flag {src: virāmati, suggest: viramati}",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "61",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "62",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "caṇḍālī-kumbhī-tumba-kaṭuka-sāra-oghaḥ",
+     "problem": "the four names form a dvandva inside the tat-puruṣa",
+     "fix": "m. nom. sg., tat-puruṣa (dvandva of four names + sāra + ogha)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "caṇḍālī-kumbhī-tumba-kaṭuka-sāra-oghaḥ",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa (dvandva of the four names + sāra + ogha)",
+      "n": "62"
+     }
+    }
+   ]
+  },
+  {
+   "n": "63",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "64",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tri-rātra-upoṣitaḥ",
+     "problem": "as in 54",
+     "fix": "m. nom. sg., tat-puruṣa (tri-rātra + upoṣita)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tri-rātra-upoṣitaḥ",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa (tri-rātra + upoṣita)",
+      "n": "64"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तीन रात उपवास किए हुए",
+     "problem": "GLOSSARY 14.3",
+     "fix": "तीन रात उपवास किया हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीन रात उपवास किए हुए",
+      "new": "तीन रात उपवास किया हुआ",
+      "n": "64"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tuvarī.rāvāsya-udakena",
+     "problem": "The flag is reasonable but its \"why\" is garbled (rāvāsya is tuvarīr + āvāsya, not rāvāpya). Also the same āvāsya in 79 makes a double typo less likely: āvāsya could be the gerund of causative ā-√vas (\"having made to dwell, having planted\"), and the gerund of ā-√vap would be āvapya, not āvāpya. So \"having sown\" is an inferred sense; person to decide",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative to the proposed correction: the printed āvāsya (here and in 79) may be a real causative gerund of ā-√vas, \"having had (them) set/planted\"; the gerund of ā-√vap would be āvapya. The rendering \"having sown\" is inferred from context.",
+      "n": "64"
+     }
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sajyānām",
+     "problem": "agrees with dhanuṣām (n.)",
+     "fix": "n. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sajyānām",
+      "field": "gram",
+      "value": "n. gen. pl. (with dhanuṣām)",
+      "n": "66"
+     }
+    }
+   ]
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ucchvāsamṛttikayā",
+     "problem": "w lacks the hyphen, though the note says it is split like unit 67",
+     "fix": "ucchvāsa-mṛttikayā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ucchvāsamṛttikayā",
+      "field": "w",
+      "value": "ucchvāsa-mṛttikayā",
+      "n": "68"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(obstruction)",
+     "problem": "invented sense for ānāha; unit 71 and the note keep it as a term with the literal sense",
+     "fix": "ānāha (literally \"binding up\")",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(obstruction)",
+      "new": "(literally \"binding up\")",
+      "n": "68"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बन्दर की नस से",
+     "problem": "snāyu is sinew/tendon (English says sinew); नस is vein/nerve",
+     "fix": "बन्दर के स्नायु से",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बन्दर की नस से",
+      "new": "बन्दर के स्नायु से",
+      "n": "68"
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "On the fourteenth of the dark half",
+     "problem": "GLOSSARY 14.3",
+     "fix": "On the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "On the fourteenth of the dark half",
+      "new": "On the dark fourteenth",
+      "n": "69"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कृष्ण पक्ष की चतुर्दशी",
+     "problem": "GLOSSARY 14.3",
+     "fix": "कृष्ण-चतुर्दशी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कृष्ण पक्ष की चतुर्दशी",
+      "new": "कृष्ण-चतुर्दशी",
+      "n": "69"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṛṣṇa-caturdaśyām",
+     "problem": "glossary wording",
+     "fix": "on the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṛṣṇa-caturdaśyām",
+      "field": "gloss",
+      "value": "on the dark fourteenth",
+      "n": "69"
+     }
+    }
+   ]
+  },
+  {
+   "n": "70",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "on the fourteenth of the dark half",
+     "problem": "GLOSSARY 14.3",
+     "fix": "on the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "on the fourteenth of the dark half",
+      "new": "on the dark fourteenth",
+      "n": "70"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कृष्ण पक्ष की चतुर्दशी",
+     "problem": "GLOSSARY 14.3",
+     "fix": "कृष्ण-चतुर्दशी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कृष्ण पक्ष की चतुर्दशी",
+      "new": "कृष्ण-चतुर्दशी",
+      "n": "70"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṛṣṇa-caturdaśyām",
+     "problem": "glossary wording",
+     "fix": "on the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṛṣṇa-caturdaśyām",
+      "field": "gloss",
+      "value": "on the dark fourteenth",
+      "n": "70"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "catur-bhakta-upavāsī",
+     "problem": "as in 49",
+     "fix": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "catur-bhakta-upavāsī",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa (catur-bhakta + upavāsin)",
+      "n": "70"
+     }
+    }
+   ]
+  },
+  {
+   "n": "71",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ānāham",
+     "problem": "\"(obstruction)\" in the gloss is an interpretation (see 68)",
+     "fix": "ānāha (lit. binding up)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ānāham",
+      "field": "gloss",
+      "value": "ānāha (lit. binding up)",
+      "n": "71"
+     }
+    }
+   ]
+  },
+  {
+   "n": "72",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बन्दर का रोम और मनुष्य की हड्डी",
+     "problem": "Hindi adds और where the Sanskrit has asyndeton (GLOSSARY 14.3); मुर्दे is colloquial",
+     "fix": "बन्दर का रोम, मनुष्य की हड्डी, मृतक के वस्त्र से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बन्दर का रोम और मनुष्य की हड्डी मुर्दे के वस्त्र से",
+      "new": "बन्दर का रोम, मनुष्य की हड्डी, मृतक के वस्त्र से",
+      "n": "73"
+     }
+    }
+   ]
+  },
+  {
+   "n": "74",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "yat padaṃ nayet",
+     "problem": "pada is \"footprint\" in 71, 75, 78 but \"place, step\" here; the subject of nayet is unclear. Keep low; person to decide",
+     "fix": "none (needs a person)",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "पुत्र और पत्नी तथा धन सहित",
+     "problem": "\"तथा\" is added; sa-putra-dāraḥ / sa-dhanaḥ are two bahuvrīhis",
+     "fix": "पुत्र और पत्नी सहित, धन सहित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुत्र और पत्नी तथा धन सहित",
+      "new": "पुत्र और पत्नी सहित, धन सहित",
+      "n": "74"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "sadhana.strīn",
+     "problem": "Confirmed: stray dot; sadhanas trīn",
+     "fix": "keep",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "75",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "76",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुत्र और पत्नी तथा धन सहित",
+     "problem": "as in 74",
+     "fix": "पुत्र और पत्नी सहित, धन सहित",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुत्र और पत्नी तथा धन सहित",
+      "new": "पुत्र और पत्नी सहित, धन सहित",
+      "n": "76"
+     }
+    }
+   ]
+  },
+  {
+   "n": "77",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "of goat and monkey, of cat and mongoose",
+     "problem": "the ca closing line a is dropped",
+     "fix": "of goat and monkey, and of cat and mongoose",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "of goat and monkey, of cat and mongoose",
+      "new": "of goat and monkey, and of cat and mongoose",
+      "n": "77"
+     }
+    }
+   ]
+  },
+  {
+   "n": "78",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आल्य तथा",
+     "problem": "the editors' doubt mark (?) is kept in English but lost in Hindi, so Hindi presents a firm word",
+     "fix": "आल्य(?) तथा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आल्य तथा",
+      "new": "आल्य(?) तथा",
+      "n": "78"
+     }
+    }
+   ]
+  },
+  {
+   "n": "79",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तीन रात उपवास किए हुए",
+     "problem": "GLOSSARY 14.3",
+     "fix": "तीन रात उपवास किया हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीन रात उपवास किए हुए",
+      "new": "तीन रात उपवास किया हुआ",
+      "n": "79"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tri-rātra-upoṣitaḥ",
+     "problem": "as in 54",
+     "fix": "m. nom. sg., tat-puruṣa (tri-rātra + upoṣita)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tri-rātra-upoṣitaḥ",
+      "field": "gram",
+      "value": "m. nom. sg., tat-puruṣa (tri-rātra + upoṣita)",
+      "n": "79"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "āvāsya",
+     "problem": "see unit 64: the \"same slip\" is not established",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The identical printed āvāsya in unit 64 suggests it may be a real form (causative gerund of ā-√vas), not a double typo; \"having sown\" is inferred. See note at unit 64.",
+      "n": "79"
+     }
+    }
+   ]
+  },
+  {
+   "n": "80",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "81",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "82",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pradīpa-agniṣu",
+     "problem": "label dvandva contradicts the rendering \"lamp-fires\" (that is tat-puruṣa)",
+     "fix": "m. loc. pl., tat-puruṣa (alternative dvandva \"lamps and fires\")",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pradīpa-agniṣu",
+      "field": "gram",
+      "value": "m. loc. pl., tat-puruṣa (alternative: dvandva \"lamps and fires\")",
+      "n": "82"
+     }
+    }
+   ]
+  },
+  {
+   "n": "83",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "84",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "85",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गिरी हुई उसे स्वयं ले ले",
+     "problem": "svayam belongs to patitām (as the English and the note say), but the Hindi attaches it to gṛhṇīyāt: \"he himself should take\"",
+     "fix": "अपने आप गिरी हुई उसको ले ले।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गिरी हुई उसे स्वयं ले ले",
+      "new": "अपने आप गिरी हुई उसको ले ले",
+      "n": "85"
+     }
+    },
+    {
+     "field": "english",
+     "where": "On the fourteenth of the dark half",
+     "problem": "GLOSSARY 14.3",
+     "fix": "On the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "On the fourteenth of the dark half",
+      "new": "On the dark fourteenth",
+      "n": "85"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कृष्ण पक्ष की चतुर्दशी",
+     "problem": "GLOSSARY 14.3",
+     "fix": "कृष्ण-चतुर्दशी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कृष्ण पक्ष की चतुर्दशी",
+      "new": "कृष्ण-चतुर्दशी",
+      "n": "85"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṛṣṇa-caturdaśyām",
+     "problem": "glossary wording",
+     "fix": "on the dark fourteenth",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṛṣṇa-caturdaśyām",
+      "field": "gloss",
+      "value": "on the dark fourteenth",
+      "n": "85"
+     }
+    }
+   ]
+  },
+  {
+   "n": "87",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "88",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गुप्त योग",
+     "problem": "\"गुप्त\" has no Sanskrit counterpart and English says only \"contrivances\"",
+     "fix": "योग",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो गुप्त योग हैं",
+      "new": "जो योग हैं",
+      "n": "88"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "māyā-kṛtāḥ",
+     "problem": "kṛta takes the instrument: made by illusion (English already says \"by\")",
+     "fix": "made by illusion",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "māyā-kṛtāḥ",
+      "field": "gloss",
+      "value": "made by illusion",
+      "n": "88"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "43 units reviewed. 10 errors, 57 minor (60 machine patches; rest need a person or only confirm). No regrouping suggested. Text flags: uposṣitaḥ(54), abhyantarm(57), sadhana.strīn(74,76) confirmed; tuvarī.rāvāsya/āvāsya (64,79) kept but the draft's 'same slip' claim and the flag text are not established (āvāsya may be a real causative gerund of ā-√vas; gerund of ā-√vap would be āvapya); proposed new flags for apayāntu(51) and virāmati(60) need a person. Hindi patches follow GLOSSARY 14.3 (कृष्ण-चतुर्दशी, तीन रात उपवास किया हुआ, असंकीर्ण दाह-स्थान, सम्पात kept, no added और/तथा). Unit 86 absent from input, none invented."
+}

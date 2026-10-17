@@ -1,0 +1,396 @@
+{
+ "units": [
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "urasyam",
+     "problem": "urasyam is printed with -am and listed as the nominative of a list with pakṣau and pratigrahaḥ; labelled m. but the form is neuter nom. sg.",
+     "fix": "n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "urasyam",
+      "field": "gram",
+      "value": "n. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Description of the excess",
+     "problem": "'the excess' inserts an article the Sanskrit does not support (atiśaya-varṇanā, no determiner); keep the literal rendering and the note.",
+     "fix": "Description of excess (atiśaya) is explanation (vyākhyāna).",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "english",
+      "old": "Description of the excess (atiśaya)",
+      "new": "Description of excess (atiśaya)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सबसे अधिक पापिष्ठ",
+     "problem": "पापिष्ठ is itself a superlative; 'सबसे अधिक पापिष्ठ' doubles it and keeps an untranslated Sanskrit adjective where English says 'worst'.",
+     "fix": "व्यसनों में सबसे बुरा है",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्यसनों में सबसे अधिक पापिष्ठ है",
+      "new": "व्यसनों में सबसे बुरा है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "what has been overrun",
+     "problem": "'what has been overrun' assumes a neuter object; abhipluta has no stated gender and the Hindi and gloss say 'the overrun'.",
+     "fix": "Drawing away of the overrun is apavarga.",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "english",
+      "old": "Drawing away of what has been overrun is apavarga.",
+      "new": "Drawing away of the overrun is apavarga."
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसकी भूमि के अनुसार अनन्तर",
+     "problem": "'उसकी भूमि के अनुसार अनन्तर' adds 'according to' and garbles bhūmy-anantarā (next in land); prakṛti is the noun, not predicate.",
+     "fix": "“पहली प्रकृति; उसकी, भूमि में अनन्तर वाली दूसरी, एक भूमि के अन्तर वाली तीसरी।”",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "set",
+      "field": "hindi",
+      "value": "“पहली प्रकृति; उसकी, भूमि में अनन्तर वाली दूसरी, एक भूमि के अन्तर वाली तीसरी।”"
+     }
+    },
+    {
+     "field": "english",
+     "where": "The first [is] the constituent element",
+     "problem": "'The first [is] the constituent element' makes prakṛti a predicate; Sanskrit is 'the first prakṛti' (prathamā agrees with prakṛtiḥ). Keeping glossary 'constituent element' (this is the 6.2 ari/mitra-prakṛti usage, where Kangle also says constituent).",
+     "fix": "“The first constituent element; of him the one next in land [is] the second, the one with one land between [is] the third.”",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "set",
+      "field": "english",
+      "value": "“The first constituent element; of him the one next in land [is] the second, the one with one land between [is] the third.”"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "Remove the open question about the glossary term; settled.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "append_note",
+      "text": "Reviewer: prathamā agrees with prakṛtiḥ ('the first constituent element'); the glossary term is kept for the members of the circle."
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "to be refuted",
+     "problem": "pratiṣidh is 'reject' in unit 41 (apratiṣiddham) and Hindi uses निषेध in both; 'refuted' is inconsistent.",
+     "fix": "A statement to be rejected is the pūrva-pakṣa (the first side).",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "english",
+      "old": "A statement to be refuted is",
+      "new": "A statement to be rejected is"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pratiṣeddhavyam",
+     "problem": "same as above",
+     "fix": "to be rejected",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "pratiṣeddhavyam",
+      "field": "gloss",
+      "value": "to be rejected"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "57",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "'word-order' is wrong: the issue is the printed spelling. Text flag aveṣkaṇam -> avekṣaṇam confirmed (ṣk for kṣ; parallel to unit 59).",
+     "fix": "The printed spelling 'aveṣkaṇam' is read as avekṣaṇam.",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "notes",
+      "old": "The word-order 'aveṣkaṇam' is read as avekṣaṇam.",
+      "new": "The printed spelling 'aveṣkaṇam' is read as avekṣaṇam."
+     }
+    }
+   ]
+  },
+  {
+   "n": "62",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "63",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऐसे ही",
+     "problem": "'ऐसे ही' adds emphasis (ही) not in evam na anyathā.",
+     "fix": "“ऐसे, अन्यथा नहीं” — यह नियोग है।",
+     "severity": "minor",
+     "patch": {
+      "n": "63",
+      "op": "replace",
+      "field": "hindi",
+      "old": "“ऐसे ही, अन्यथा नहीं”",
+      "new": "“ऐसे, अन्यथा नहीं”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "64",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "anarthaym",
+     "problem": "Flag confirmed: anarthaym -> anarthyam is correct (parallel arthyam, adharmyam). No change needed.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "65",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "66",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "67",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "68",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "The note asserts a technical sense ('a son born of himself') that the line does not give; unsupported.",
+     "fix": "svayañjāta is rendered literally; its technical sense is not given in the line and is not guessed here.",
+     "severity": "minor",
+     "patch": {
+      "n": "68",
+      "op": "replace",
+      "field": "notes",
+      "old": "its technical sense (a son born of himself / of his own accord) is not given in the line.",
+      "new": "its technical sense is not given in the line and is not guessed here."
+     }
+    }
+   ]
+  },
+  {
+   "n": "69",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "70",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "71",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "72",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Inconsistent with unit 64, where anarthyam is rendered 'unprofitable', not 'loss'.",
+     "fix": "anartha is rendered 'loss' (opposite of artha; compare anarthyam 'unprofitable' in unit 64).",
+     "severity": "minor",
+     "patch": {
+      "n": "72",
+      "op": "replace",
+      "field": "notes",
+      "old": "(opposite of artha, as anarthya in unit 64)",
+      "new": "(opposite of artha; compare anarthyam 'unprofitable' in unit 64)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "73",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसी ने",
+     "problem": "'उसी ने' adds emphasis (ही); Sanskrit has plain tena.",
+     "fix": "जिसने ... उद्धार किया, उसने यह शास्त्र बनाया।",
+     "severity": "minor",
+     "patch": {
+      "n": "73",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसी ने यह शास्त्र बनाया।",
+      "new": "उसने यह शास्त्र बनाया।"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "36 units (15.01.38-73) reviewed. Mostly sound literal drafts. Errors: unit 52 (Hindi 'के अनुसार' garble; English made prakṛti a predicate). Minor: gender label (42), article/emphasis additions (43, 49, 63, 73), Hindi double superlative (44), rejected/refuted consistency (53), notes fixes (61, 68, 72). Text flags 61 and 64 confirmed; no other typos found (51 asamitaḥ kept as printed with the draft's note). No regrouping suggested."
+}

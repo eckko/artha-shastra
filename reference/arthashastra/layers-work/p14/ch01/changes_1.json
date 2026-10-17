@@ -1,0 +1,399 @@
+[
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "mleccha-jātīyaiḥ",
+  "old": "of foreign-tribe kind",
+  "new": "of mleccha kind",
+  "why": "reviewer (minor): mleccha is a name kept as such (glossary 13.5); \"foreign-tribe\" is an unmarked reinterpretation"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "The class of poisons beginning with Kālakūṭa is to be administered, in the enemy's bodily enjoyments, by approved women and men of foreign-tribe kind, under credible pretexts of country, dress, craft, speech and family, in the guise of hunchbacks, dwarfs, Kirātas, mutes, the deaf, the dull and the blind.",
+  "new": "The class of poisons beginning with Kālakūṭa is to be administered, in the enemy's bodily enjoyments, by approved women and men of mleccha kind, under credible pretexts of country, dress, craft, speech and family, in the guise of hunchbacks, dwarfs, Kirātas, mutes, the deaf, the dull and the blind.",
+  "why": "reviewer (minor): same: keep mleccha"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "कालकूट आदि विषों का समूह, विश्वसनीय देश, वेश, शिल्प, भाषा और कुल के बहानों से, कुबड़ों, बौनों, किरातों, गूँगों, बहरों, जड़ों और अन्धों के रूप में, म्लेच्छ जाति के अभिप्रेत स्त्रियों और पुरुषों द्वारा, शत्रु के शरीर के उपभोगों में प्रयुक्त किया जाना चाहिए।",
+  "new": "कालकूट आदि विषों का समूह, देश, वेश, शिल्प, भाषा और कुल के विश्वसनीय बहानों से, कुबड़ों, बौनों, किरातों, गूँगों, बहरों, जड़ों और अन्धों के रूप में, म्लेच्छ जाति के अभिप्रेत स्त्रियों और पुरुषों द्वारा, शत्रु के शरीर के उपभोगों में प्रयुक्त किया जाना चाहिए।",
+  "why": "reviewer (minor): śraddheya heads the whole compound (credible pretexts of country, dress ...); the Hindi order makes only देश credible"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Secret agents should make a deposit of weapons in the king's playthings, vessels, deposits and articles of use; and those living by sattra, night-wanderers and those living by fire [should make] a deposit of fire.",
+  "new": "Secret agents should make a deposit of weapons in the king's playthings, vessels, deposits, articles and objects of enjoyment; and those living by sattra, night-wanderers and those living by fire [should make] a deposit of fire.",
+  "why": "reviewer (minor): English merges dravya+upabhoga into \"articles of use\" while Hindi makes upabhoga the head noun of the whole list (\"in the enjoyment of ...\"); the two languages disagree on the grouping"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "गुप्तचर राजा के क्रीड़ा-साधनों, पात्रों, निधियों और द्रव्यों के उपभोग में शस्त्रों का निधान करें, और सत्र से जीविका चलाने वाले, रात्रि में विचरने वाले तथा अग्नि से जीविका चलाने वाले अग्नि का निधान करें।",
+  "new": "गुप्तचर राजा के क्रीड़ा-साधनों, पात्रों, निधियों, द्रव्यों और उपभोग की वस्तुओं में शस्त्रों का निधान करें, और सत्र से जीविका चलाने वाले, रात्रि में विचरने वाले तथा अग्नि से जीविका चलाने वाले अग्नि का निधान करें।",
+  "why": "reviewer (minor): see above; Hindi aligned to English"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "rāja-krīḍā-bhāṇḍa-nidhāna-dravya-upabhogeṣu",
+  "old": "in the king's playthings, vessels, deposits, articles of use",
+  "new": "in the king's playthings, vessels, deposits, articles and objects of enjoyment",
+  "why": "reviewer (minor): gloss aligned to English"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "sattra-ājīvin: sattra is rendered literally (a 'sattra' cover or institution); the exact sense is not given by the line, so the alternative 'those living by a ruse/cover' is possible; low confidence on this word. The e-text '-' in ca-agni.nidhānam marks an unsandhied join; the verb 'should make' is understood for the second clause (bracketed in English). krīḍā-bhāṇḍa could also be 'toys and vessels' as separate members.",
+  "new": "sattra-ājīvin: sattra is rendered literally (a 'sattra' cover or institution); the exact sense is not given by the line, so the alternative 'those living by a ruse/cover' is possible; low confidence on this word. The e-text '-' in ca-agni.nidhānam marks an unsandhied join; the verb 'should make' is understood for the second clause (bracketed in English). krīḍā-bhāṇḍa could also be 'toys and vessels' as separate members. Alternative grouping of the first compound: 'in the use of the king's play-vessels, deposits and goods' (upabhoga as head noun); English and Hindi now both take the list reading. text_flag upabbhogeṣu confirmed: typo for upabhogeṣu.",
+  "why": "reviewer (minor): record the alternative grouping"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "चित्र मेंढक, कौण्डिन्यक, कृकण, पाँच कुष्ठ और शतपदी का चूर्ण; उच्चिदिङ्ग, कम्बली, शतकन्द (या कर्दम), इध्म और कृकलास का चूर्ण; गृह-गोलिक, अन्धा साँप, कक्र-कण्टक, सड़ा कीट और गोमारिका का चूर्ण, भल्लातक, अवल्गु और जर से मिला हुआ, तत्काल प्राण हर लेता है; अथवा इनका धुआँ।",
+  "new": "चित्र मेंढक, कौण्डिन्यक, कृकण, पाँच कुष्ठ और शतपदी का चूर्ण; उच्चिदिङ्ग, कम्बली, शतकन्द अथवा कर्दम, इध्म और कृकलास का चूर्ण; गृह-गोलिक, अन्धा साँप, कक्र-कण्टक, सड़ा कीट और गोमारिका का चूर्ण, भल्लातक, अवल्गु और जर से मिला हुआ, तत्काल प्राण हर लेता है; अथवा इनका धुआँ।",
+  "why": "reviewer (minor): round brackets inside the Hindi (the print has an editor's doubt mark kanda(kardama?)); brackets are not allowed in the Hindi"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Obscure names (kauṇḍinyaka, kṛkaṇa, kuṣṭha, ucci-diṅga, kambalī, śata-kanda/kardama, idhma, kṛkalāsa, golika, kakra, gomārikā, avalgu, jara) are kept as names; citra-bheka 'variegated frog', śata-padī 'hundred-footed' (centipede?), andha-ahi 'blind snake', pūti-kīṭa 'stinking insect' are literal. 'kṛkalāsa' commonly a chameleon-like lizard; left as name. 'idhma' literally kindling; sense here uncertain. 'saṃyuktaṃ' appears as 'samyuktaṃ' in the e-text (m before y written unsandhied), same in later units. Alternative: eteṣāṃ vā dhūmaḥ is a separate sentence 'or the smoke of these'.",
+  "new": "Obscure names (kauṇḍinyaka, kṛkaṇa, kuṣṭha, ucci-diṅga, kambalī, śata-kanda/kardama, idhma, kṛkalāsa, golika, kakra, gomārikā, avalgu, jara) are kept as names; citra-bheka 'variegated frog', śata-padī 'hundred-footed', andha-ahi 'blind snake', pūti-kīṭa 'stinking insect' are literal. 'kṛkalāsa' commonly a chameleon-like lizard; left as name. 'idhma' literally kindling; sense here uncertain. 'saṃyuktaṃ' appears as 'samyuktaṃ' in the e-text (m before y written unsandhied), same in later units. Alternative: eteṣāṃ vā dhūmaḥ is a separate sentence 'or the smoke of these'.",
+  "why": "reviewer (minor): guessed identification of an obscure creature in notes (glossary 13.2/14.3: no guessed sense)"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Obscure names (kauṇḍinyaka, kṛkaṇa, kuṣṭha, ucci-diṅga, kambalī, śata-kanda/kardama, idhma, kṛkalāsa, golika, kakra, gomārikā, avalgu, jara) are kept as names; citra-bheka 'variegated frog', śata-padī 'hundred-footed', andha-ahi 'blind snake', pūti-kīṭa 'stinking insect' are literal. 'kṛkalāsa' commonly a chameleon-like lizard; left as name. 'idhma' literally kindling; sense here uncertain. 'saṃyuktaṃ' appears as 'samyuktaṃ' in the e-text (m before y written unsandhied), same in later units. Alternative: eteṣāṃ vā dhūmaḥ is a separate sentence 'or the smoke of these'.",
+  "new": "Obscure names (kauṇḍinyaka, kṛkaṇa, kuṣṭha, ucci-diṅga, kambalī, śata-kanda/kardama, idhma, kṛkalāsa, golika, kakra, gomārikā, avalgu, jara) are kept as names; citra-bheka 'variegated frog', śata-padī 'hundred-footed', andha-ahi 'blind snake', pūti-kīṭa 'stinking insect' are literal. 'idhma' literally kindling; sense here uncertain. 'saṃyuktaṃ' appears as 'samyuktaṃ' in the e-text (m before y written unsandhied), same in later units. Alternative: eteṣāṃ vā dhūmaḥ is a separate sentence 'or the smoke of these'.",
+  "why": "reviewer (minor): identification imported from outside the line"
+ },
+ {
+  "n": "5",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): subject and object of śoṣayet are not given; the combination as subject \"would cause [one] to dry up\" is only one reading. Equally possible: kīṭa is the object, \"one should dry (it); this combination is held to take life at once\". Medium is too firm"
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "The object of śoṣayet is not stated ('[one]' supplied in brackets). priyaṅgu kept as a name (a plant name). Verse metre: two 16-syllable lines (anuṣṭubh).",
+  "new": "The object of śoṣayet is not stated ('[one]' supplied in brackets). priyaṅgu kept as a name (a plant name). Verse metre: two 16-syllable lines (anuṣṭubh). Alternative reading of śoṣayet: 'one should dry (the heated insect)', with kīṭaḥ as its object and eṣa saṃyogaḥ as the subject of mataḥ only.",
+  "why": "reviewer (minor): record the alternative reading"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "vyāghātaka is kept as a name (it may also be the name of a bird or tree). māsika is rendered literally ('of one month'); the sense (duration of effect) is not stated. Compare unit 6.",
+  "new": "vyāghātaka is kept as a name (sense unknown). māsika is rendered literally ('of one month'); the sense (duration of effect) is not stated. Compare unit 6.",
+  "why": "reviewer (minor): unsupported guess about an obscure name"
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Plant, insect and fish names are kept as names (karavīra is split kara-vīra in the e-text). 'dhūmo' is the subject; the smoke is made with the straws as fuel/medium (instrumental). pravāta-anuvāte: alternatively 'where the wind blows, along the wind'. yāvat carati tāvat mārayati: literally 'as long as it goes, so long it kills'.",
+  "new": "Plant, insect and fish names are kept as names (karavīra is split kara-vīra in the e-text). 'dhūmo' is the subject; the smoke is made with the straws as fuel/medium (instrumental). pravāta-anuvāte: alternatively 'where the wind blows, along the wind'. yāvat carati tāvat mārayati: literally 'as long as it goes, so long it kills'. yāvat may also be spatial: 'as far as it spreads, so far it kills' (same in units 13 and 33 with paśyati: 'as far as it sees').",
+  "why": "reviewer (minor): yāvat can be spatial as well as temporal; \"for as long as it moves\" is only one reading (same in units 13 and 33)"
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "indra-gopa literally 'Indra's cowherd' (a name of a red insect); kept literal. kṣudra-ārālā: kṣudra 'small' taken as the member of the name; the grouping kṣudra/ārālā/hema/vidārī is uncertain. 'andhī.karo' = andhī-karaḥ (cvi formation 'making blind'). Names kept as names.",
+  "new": "indra-gopa literally 'Indra's cowherd'; kept as a name. kṣudra-ārālā: kṣudra 'small' taken as the member of the name; the grouping kṣudra/ārālā/hema/vidārī is uncertain. 'andhī.karo' = andhī-karaḥ (cvi formation 'making blind'). Names kept as names.",
+  "why": "reviewer (minor): identification imported from outside the line; glossary candidate keeps indra-gopa literal"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "कबूतरों, प्लवकों और मांसभक्षियों का, तथा हाथी, मनुष्य और सूअर का मूत्र और मल; कासीस, हींग, जौ, भूसी, कण और चावल के दाने; कपास, कुटज और कोशातकी के बीज; गोमूत्रिका और भाण्डी की जड़; नीम, सहिजन, फणिर्ज, काक्षीव, पीलु और भङ्ग; साँप और शफरी मछली की खाल; हाथी के नख और सींग का चूर्ण; इस प्रकार यह धुआँ, मदन और कोदो की पराली से अथवा हस्तिकर्ण-पलाश की पराली से, प्रत्येक से अलग-अलग छोड़ा गया, जब तक चलता है तब तक मारता है।",
+  "new": "कबूतरों, प्लवकों और मांसभक्षियों का, तथा हाथी, मनुष्य और सूअर का मूत्र और मल; कासीस, हींग, जौ, भूसी, कण और चावल के दाने; कपास, कुटज और कोशातकी के बीज; गोमूत्रिका और भाण्डी की जड़; निम्ब, शिग्रु, फणिर्ज, काक्षीव, पीलु और भङ्ग; साँप और शफरी मछली की खाल; हाथी के नख और सींग का चूर्ण; इस प्रकार यह धुआँ, मदन और कोदो की पराली से अथवा हस्तिकर्ण-पलाश की पराली से, प्रत्येक से अलग-अलग छोड़ा गया, जब तक चलता है तब तक मारता है।",
+  "why": "reviewer (minor): Hindi identifies nimba and śigru (नीम, सहिजन) while English and the glossary rule keep drug names as printed, unidentified"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "A catalogue of ingredients; names kept as names, not identified (kośātakī is split kośa-atakī in the e-text; plavaka 'a water-bird?' left as name; kaṇa not translated; bhaṅga could be 'hemp' or 'breaking'; the whole list is the content of the smoke). 'ity eṣa dhūmaḥ' closes the list: 'thus this smoke'. pratyekaśaḥ: each of the groups separately (alternative: each ingredient).",
+  "new": "A catalogue of ingredients; names kept as names, not identified (kośātakī is split kośa-atakī in the e-text; plavaka left as name; kaṇa not translated; bhaṅga could be 'hemp' or 'breaking'; the whole list is the content of the smoke). 'ity eṣa dhūmaḥ' closes the list: 'thus this smoke'. pratyekaśaḥ: each of the groups separately (alternative: each ingredient).",
+  "why": "reviewer (minor): guessed sense in notes"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "A catalogue of ingredients; names kept as names, not identified (kośātakī is split kośa-atakī in the e-text; plavaka left as name; kaṇa not translated; bhaṅga could be 'hemp' or 'breaking'; the whole list is the content of the smoke). 'ity eṣa dhūmaḥ' closes the list: 'thus this smoke'. pratyekaśaḥ: each of the groups separately (alternative: each ingredient).",
+  "new": "A catalogue of ingredients; names kept as names, not identified (kośātakī is split kośa-atakī in the e-text; plavaka left as name; kaṇa not translated; bhaṅga could be a plant name or 'breaking'; the whole list is the content of the smoke). 'ity eṣa dhūmaḥ' closes the list: 'thus this smoke'. pratyekaśaḥ: each of the groups separately (alternative: each ingredient).",
+  "why": "reviewer (minor): guessed identification"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "काली, कुष्ठ, नड और शतावली की जड़, अथवा साँप, प्रचलाक, कृकण और पाँच कुष्ठ का चूर्ण; यह धुआँ, पहले बताई विधि से गीली या सूखी पराली के साथ छोड़ा गया, युद्ध, उतरने और आक्रमण की भीड़ में, आँखों के जल से धोने का उपचार कर चुके लोगों द्वारा छोड़ा गया, सब प्राणियों की आँखों का नाश करने वाला है।",
+  "new": "काली, कुष्ठ, नड और शतावली की जड़, अथवा साँप, प्रचलाक, कृकण और पाँच कुष्ठ का चूर्ण; यह धुआँ, पूर्व विधि से गीली या सूखी पराली के साथ छोड़ा गया, युद्ध, उतरने और आक्रमण की भीड़ में, आँखों के जल से धोने का उपचार कर चुके लोगों द्वारा छोड़ा गया, सब प्राणियों की आँखों का नाश करने वाला है।",
+  "why": "reviewer (minor): \"बताई\" (stated) is added; pūrva-kalpena is just \"by the former procedure\""
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "pūrva-kalpena refers back to the earlier preparation (units 9, 13). The long compound kṛta-nejana-udaka-akṣi-pratīkāraiḥ is taken as 'by those for whom the remedy of the eyes by washing with water has been made'; low-medium certainty; alternative: 'with remedies for the eyes (i.e. washing with water) made'. The e-text '-' in pūrva.kalpena-ārdra marks an unsandhied join. 'sarpa' may be a snake or part of a name; kept as 'snake'.",
+  "new": "pūrva-kalpena refers back to the earlier preparation (units 9, 13). The long compound kṛta-nejana-udaka-akṣi-pratīkāraiḥ is taken as 'by those for whom the remedy of the eyes by washing with water has been made'; low-medium certainty; alternative: 'with remedies for the eyes (i.e. washing with water) made'. The e-text '-' in pūrva.kalpena-ārdra marks an unsandhied join. 'sarpa' may be a snake or part of a name; kept as 'snake'. Reading check: the bahuvrīhi may also be 'those by whom the eye-remedy of washing with water has been done'; English and Hindi use the active form. Stays low confidence.",
+  "why": "reviewer (minor): the note says \"by those for whom ... has been made\" while English/Hindi say \"by those who have made\"; reading kept at low confidence, which is right"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "शारिका, कबूतर, बगुला और बलाका की बीट, आक, अक्षिपीलु और थूहर के दूध के साथ पीसी हुई, अन्धा करने वाला अञ्जन है और जल को दूषित करने वाली भी।",
+  "new": "शारिका, कबूतर, बगुला और बलाका की बीट, अर्क, अक्षिपीलु और स्नुही के दूध के साथ पीसी हुई, अन्धा करने वाला अञ्जन है और जल को दूषित करने वाली भी।",
+  "why": "reviewer (minor): Hindi identifies arka and snuhi (आक, थूहर); English keeps the printed names"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "The smoke of kṛta, kaṇḍala, kṛkalāsa, house-golika and blind snake causes destruction of the eyes and madness.",
+  "new": "The smoke of kṛta-kaṇḍala, kṛkalāsa, house-golika and blind snake causes destruction of the eyes and madness.",
+  "why": "reviewer (minor): the split into two separate names is itself a guess; the printed kṛta.kaṇḍala is an unexplained word. Keep it undivided"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "कृत, कण्डल, कृकलास, गृह-गोलिक और अन्धे साँप का धुआँ आँखों का नाश और उन्माद करता है।",
+  "new": "कृत-कण्डल, कृकलास, गृह-गोलिक और अन्धे साँप का धुआँ आँखों का नाश और उन्माद करता है।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "kṛta-kaṇḍala-kṛkalāsa-gṛha-golika-andha-ahika-dhūmaḥ",
+  "old": "smoke of kṛta, kaṇḍala, kṛkalāsa, house-golika, blind snake",
+  "new": "smoke of kṛta-kaṇḍala (obscure), kṛkalāsa, house-golika, blind snake",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "citram",
+  "old": "n. acc. sg.",
+  "new": "n. acc. sg. as printed; no clear function, perhaps compound member citra-, see text_flags",
+  "why": "reviewer (minor): \"n. acc. sg.\" gives citram a function it does not have in the sentence (the object of āpādayati is prameham); it is probably a corrupt compound member citra- (see flag) or an unexplained word. The translation \"joined with citra\" is a guess; also eka.antra might be a slip for ekāntara (alternate), not flagged"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Dūṣī poison, powder of madana and kodrava: the apajihvikā compound.",
+  "new": "Tainting poison (dūṣī-viṣa), powder of madana and kodrava: the apajihvikā compound.",
+  "why": "reviewer (error): glossary 14.4 fixes dūṣī-viṣa = tainting poison (दूषी-विष)"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "दूषी विष, मदन और कोदो का चूर्ण, अपजिह्विका-योग है।",
+  "new": "दूषी-विष, मदन और कोदो का चूर्ण, अपजिह्विका-योग है।",
+  "why": "reviewer (minor): should be the glossary term"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "dūṣī-viṣam",
+  "old": "dūṣī poison",
+  "new": "tainting poison (dūṣī-viṣa)",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "dūṣī-viṣa (a technical term, 'slow-acting/vitiated poison' in later usage) kept as 'dūṣī poison'; apajihvikā (literally 'uvula, lit. off-tongue') kept as a name. The line is elliptical; how the three items relate is not stated. Rendered literally as a list.",
+  "new": "dūṣī-viṣa = tainting poison (glossary 14.4); apajihvikā (literally 'off-tongue') kept as a name. The line is elliptical; how the three items relate is not stated. Rendered literally as a list.",
+  "why": "reviewer (minor): imports later usage and the apajihvikā \"uvula\" sense is not literal"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "पाँच कुष्ठक, कौण्डिन्य, करांज वृक्ष के फूल और मधु का योग ज्वर करने वाला है।",
+  "new": "पाँच कुष्ठक, कौण्डिन्य, कराज वृक्ष के फूल और मधु का योग ज्वर करने वाला है।",
+  "why": "reviewer (minor): Hindi silently changes the printed karāja to karañja (करांज)"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "[A dose of] one kalā in measure for men; thus the same as the former.",
+  "new": "“[A dose of] one kalā in measure for men”: the same as the former.",
+  "why": "reviewer (minor): iti closes the quoted dose \"kalā-mātraṃ puruṣāṇām\", it does not mean \"thus\"; \"इस प्रकार\" is an unmarked addition (glossary 13.1: bare iti closing a quotation is not rendered)"
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "पुरुषों के लिए एक कला भर; इस प्रकार पहले के समान।",
+  "new": "“पुरुषों के लिए एक कला भर”: पहले के समान।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "thus",
+  "new": "closes the quoted dose (not rendered)",
+  "why": "reviewer (minor): gloss \"thus\""
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "औषधियों के लिए भङ्ग और क्वाथ का योग, प्राणियों के लिए चूर्ण, अथवा सबके लिए क्वाथ का योग; इस प्रकार यह अधिक वीर्यवान् हो जाता है।",
+  "new": "औषधियों के लिए भङ्ग और क्वाथ मिलाना, प्राणियों के लिए चूर्ण, अथवा सबके लिए क्वाथ मिलाना; इस प्रकार यह अधिक वीर्यवान् हो जाता है।",
+  "why": "reviewer (minor): योग renders upanayana (adding) but योग is the fixed term for yoga = compound in this book; the reader would take it as the technical word"
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "The line is elliptical: 'is done/prescribed' is not stated. bhaṅga here taken as 'crushing/breaking'; alternative: the plant bhaṅga (hemp) as in unit 13. auṣadhi = herbs/plants; prāṇa-bhṛt = living creatures (animal ingredients). 'it' is supplied (bracketed).",
+  "new": "The line is elliptical: 'is done/prescribed' is not stated. bhaṅga here taken as 'crushing/breaking'; alternative: bhaṅga as a plant name, as in unit 13. auṣadhi = herbs/plants; prāṇa-bhṛt = living creatures (animal ingredients). 'it' is supplied (bracketed).",
+  "why": "reviewer (minor): guessed identification"
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "The arrow, smeared with a smear of the blood of a musk-rat, [with] śālmalī boiled with vidārī and grain and joined with the root of vatsa-nābha: whomever it pierces, he, pierced, bites ten other men; they, bitten, bite ten other men.",
+  "new": "Śālmalī: the arrow, boiled with vidārī and grain, joined with the root of vatsa-nābha and smeared with a smear of the blood of a musk-rat — whomever it pierces, he, pierced, bites ten other men; they, bitten, bite ten other men.",
+  "why": "reviewer (error): grammar: siddhaḥ, saṃyuktaḥ, digdhaḥ are masculine and agree with bāṇaḥ; they cannot agree with the feminine śālmalī. The draft makes śālmalī the thing that is boiled and joined, and then the arrow smeared, which does not parse"
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "शाल्मली, विदारी और अन्न के साथ पकाई हुई, मूल और वत्सनाभ से युक्त, चुच्छुन्दरी के रक्त के लेप से लिप्त बाण जिसे बेधता है, वह बिंधा हुआ दूसरे दस पुरुषों को काटता है; वे काटे गए दस अन्य पुरुषों को काटते हैं।",
+  "new": "शाल्मली: विदारी और अन्न के साथ पकाया हुआ, वत्सनाभ की जड़ से युक्त, चुच्छुन्दरी के रक्त के लेप से लिप्त बाण जिसे बेधता है, वह बिंधा हुआ दूसरे दस पुरुषों को काटता है; वे काटे गए दस अन्य पुरुषों को काटते हैं।",
+  "why": "reviewer (error): Hindi (\"root and vatsa-nābha\") contradicts English (\"root of vatsa-nābha\"); also same agreement problem"
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "śālmalī",
+  "old": "śālmalī (silk-cotton)",
+  "new": "śālmalī (silk-cotton), printed apart from the next compound; relation to the arrow unresolved",
+  "why": "reviewer (minor): keep the printed word, state that its relation to the arrow is unresolved"
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "Elliptical and obscure: śālmalī is nominative and stands loose before the participle clause; rendered as 'śālmalī boiled with vidārī and grain' but the grammar could also be 'the arrow, boiled (steeped) with...'. 'mūla-vatsa-nābha' taken 'root of vatsa-nābha' (vatsa-nābha, literally 'calf-navel', a drug name); alternative: 'root and vatsa-nābha'. cucchundarī literally a musk-rat (shrew), kept 'musk-rat'. 'dhānya' = grain. The final 'puruṣān' completes 'daśa-anyān'.",
+  "new": "Elliptical and obscure: śālmalī is nominative and stands loose before the participle clause; rendered as 'śālmalī boiled with vidārī and grain' but the grammar could also be 'the arrow, boiled (steeped) with...'. 'mūla-vatsa-nābha' taken 'root of vatsa-nābha' (vatsa-nābha, literally 'calf-navel', a drug name); alternative: 'root and vatsa-nābha'. cucchundarī literally a musk-rat (shrew), kept 'musk-rat'. 'dhānya' = grain. The final 'puruṣān' completes 'daśa-anyān'. Review: śālmalī stands apart before the compound; it is left as an unresolved opening word. Either it is a member of the compound (a dropped dot: boiled with śālmalī, vidārī and grain) or it names the arrow's wood. The masculine participles siddhaḥ, saṃyuktaḥ, digdhaḥ agree with bāṇaḥ, so the earlier reading of śālmalī as the thing boiled is rejected. mūla-vatsa-nābha is rendered 'root of vatsa-nābha' in both languages; alternative: 'root and vatsa-nābha'.",
+  "why": "reviewer (minor): replace the draft grammar remark"
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "A decoction with flowers of bhallātaka, yātudhāna, dhānāva, anudhā, mārgava and bāṇa, and of elaka, akṣi, guggulu and hālāhala, joined with the blood of a goat and of a man, is the bite compound.",
+  "new": "A decoction with flowers of bhallātaka, yātu-dhānāva, anudhā, mārgava and bāṇa, and of elaka, akṣi, guggulu and hālāhala, joined with the blood of a goat and of a man, is the bite compound.",
+  "why": "reviewer (minor): the printed word is yātu.dhānāva; the draft lists both \"yātudhāna\" and \"dhānāva\", counting dhāna twice and inventing a form not printed"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "भल्लातक, यातुधान, धानाव, अनुधा, मार्गव और बाण के फूलों से तथा एलक, अक्षि, गुग्गुलु और हालाहल से बना काढ़ा, बकरे और मनुष्य के रक्त से युक्त, दंश-योग है।",
+  "new": "भल्लातक, यातु-धानाव, अनुधा, मार्गव और बाण के फूलों से तथा एलक, अक्षि, गुग्गुलु और हालाहल से बना काढ़ा, बकरे और मनुष्य के रक्त से युक्त, दंश-योग है।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "bhallātaka-yātu-dhānāva-anudhā-mārgava-bāṇānām",
+  "old": "of bhallātaka, yātudhāna, dhānāva, anudhā, mārgava, bāṇa",
+  "new": "of bhallātaka, yātu-dhānāva, anudhā, mārgava, bāṇa",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "kaṣāyam",
+  "old": "m. nom. sg.",
+  "new": "n. nom. sg.",
+  "why": "reviewer (minor): -aṃ nominative agreeing with neuter yuktam must be neuter"
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "basta-nara-śoṇita-yuktam",
+  "old": "dvandva+tat-puruṣa, m. nom. sg.",
+  "new": "dvandva+tat-puruṣa, n. nom. sg.",
+  "why": "reviewer (minor): yuktam is neuter, not masculine"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "तब आधे धरणिक का योग, सत्तू और खली के साथ जल में डाला हुआ, सौ धनुष लम्बे जलाशय को दूषित कर देता है।",
+  "new": "तब आधे धरण का योग, सत्तू और खली के साथ जल में डाला हुआ, सौ धनुष लम्बे जलाशय को दूषित कर देता है।",
+  "why": "reviewer (minor): ardha-dharaṇika is \"of half a dharaṇa\"; \"धरणिक\" is not a unit name"
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "For a succession of fish, bitten or touched by this, becomes poisonous; and whoever drinks or touches this water [likewise].",
+  "new": "For a succession of fish, bitten or touched by this, becomes poisonous; and whoever drinks or touches this water —",
+  "why": "reviewer (minor): the Sanskrit relative clause has no predicate; glossary 13.2 allows only a bare copula, never an interpretive supply, and 14.3 forbids an added भी in Hindi"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "क्योंकि इससे काटी या छुई हुई मछलियों की परम्परा विषैली हो जाती है; और जो इस जल को पीता या छूता है, वह भी।",
+  "new": "क्योंकि इससे काटी या छुई हुई मछलियों की परम्परा विषैली हो जाती है; और जो इस जल को पीता या छूता है —",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "32",
+  "field": "notes",
+  "old": "The relative clause 'yaś ca etad udakaṃ pibati spṛśati vā' has no predicate; '[likewise]' is supplied in English and 'वह भी' in Hindi. 'etena' is taken as the polluted water/fish; matsya-paramparā 'a chain of fish' (each infecting the next).",
+  "new": "The relative clause 'yaś ca etad udakaṃ pibati spṛśati vā' has no predicate; nothing is supplied in English or Hindi; probably viṣī-bhavati ('becomes poisonous') carries over to the relative clause. 'etena' (by this) refers back to the compound of unit 31 or to the water; matsya-paramparā 'a chain of fish' (each infecting the next).",
+  "why": "reviewer (minor): update note and correct the reference of etena"
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "A godhā (iguana), placed with red and white mustard seeds for three fortnights in a uṣṭrikā buried in the ground and taken out by one to be executed, kills as long as it sees; or a black snake.",
+  "new": "A godhā (monitor lizard), placed with red and white mustard seeds for three fortnights in a uṣṭrikā buried in the ground and taken out by one to be executed, kills as long as it sees; or a black snake.",
+  "why": "reviewer (minor): godhā is the Indian monitor lizard; iguana is not a Indian animal and the Hindi गोह already says monitor lizard"
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "godhā",
+  "old": "iguana",
+  "new": "monitor lizard",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "33",
+  "field": "notes",
+  "old": "uṣṭrikā is kept as a name for a vessel (literally 'camel-like' pot); uncertain. tri-pakṣa 'three fortnights'. 'vadhyena uddhṛtā': taken out by a man condemned to death (vadhya). yāvat paśyati: as long as it looks (at the victim).",
+  "new": "uṣṭrikā is kept as a name for a vessel (literally 'camel-like' pot); uncertain. tri-pakṣa 'three fortnights'. 'vadhyena uddhṛtā': taken out by a man condemned to death (vadhya). yāvat paśyati: as long as it looks (at the victim). yāvat may be spatial: 'as far as it sees'.",
+  "why": "reviewer (minor): see unit 9: spatial reading possible"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "लोहार से अग्नि लाकर शहद से अलग-अलग आहुति दे; कलवार से अग्नि को सुरा से, और मार्ग से अग्नि को घी से।",
+  "new": "लोहार से अग्नि लाकर शहद से अलग-अलग आहुति दे; शराब बनाने वाले से अग्नि को सुरा से, और मार्ग से अग्नि को घी से।",
+  "why": "reviewer (minor): कलवार is a caste name; śauṇḍika is \"distiller\" as in the English"
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "[Fire] of a one-wife woman with a garland, and fire of an unchaste woman with mustard seeds; fire among women recently delivered with curd, and fire of one who has laid the sacred fires with rice grains.",
+  "new": "Fire of an eka-patnī (literally 'one wife') with a garland, and fire of an unchaste woman with mustard seeds; fire among women recently delivered with curd, and fire of one who has laid the sacred fires with rice grains.",
+  "why": "reviewer (minor): \"a one-wife woman\" suggests a woman with one wife; eka-patnī is obscure (one husband, or sole wife). Do not invent a sense: keep the word and give the literal \"one wife\""
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "eka-patnī-agnim",
+  "old": "fire of a one-wife woman",
+  "new": "fire of an eka-patnī (literally 'one wife')",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "Continues unit 35: each fire is offered with the substance named. 'eka-patnī' literally 'one wife' (a woman with one husband, or a man with one wife); rendered 'one-wife woman', low-medium. The English bracket '[Fire]' supplies the first noun from the compound agni.",
+  "new": "Continues unit 35: each fire is offered with the substance named. 'eka-patnī' literally 'one wife' (a woman with one husband, or a man with one wife); kept as eka-patnī, low confidence.",
+  "why": "reviewer (minor): update"
+ }
+]

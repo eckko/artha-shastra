@@ -1,0 +1,424 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pratyādeśo mukhyānām",
+     "problem": "mukhyānām is an objective genitive, parallel to prakāśanaṃ rāja-dviṣṭa-kāriṇām in the same unit (exposure OF those who...); 'to the chiefs' turns it into a dative and adds '[of them]'. pratyādeśa is obscure ('pointing out' is not a certain sense; also 'rejection').",
+     "fix": "the pointing out of the chiefs",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "the pointing out [of them] to the chiefs",
+      "new": "the pointing out of the chiefs"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मुखियों को बताना",
+     "problem": "same: genitive rendered as dative",
+     "fix": "मुखियों का निर्देश करना",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुखियों को बताना",
+      "new": "मुखियों का निर्देश करना"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ahar",
+     "problem": "ahar is the sandhi form; the pre-sandhi dictionary form is ahaḥ (cf. tad -> tat, pratyādeśo -> pratyādeśaḥ)",
+     "fix": "ahaḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "ahar",
+      "field": "w",
+      "value": "ahaḥ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vijñāpya-upāyana-khyāpanam",
+     "problem": "unnoted alternative: vijñāpya can be the absolutive of the causative vi-√jñā ('having informed'), not only the gerundive 'to be reported'; with pratyādeśa this unit is closer to low than medium confidence.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "append_note",
+      "text": "Reviewer: mukhyānām is read as objective genitive, parallel to rāja-dviṣṭa-kāriṇām. vijñāpya may also be the absolutive 'having informed' (vijñāpya upāyana-khyāpanam = proclaiming the present after informing); pratyādeśa and this compound are uncertain, so confidence is effectively low for these two clauses."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[the use of] the fats of",
+     "problem": "vasābhiḥ is instrumental plural; the English makes it a nominative/accusative object ('the fats of ...'), which the Sanskrit does not allow. The Hindi (चर्बियों से) keeps the instrumental.",
+     "fix": "by the fats of the spotted deer",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "[the use of] the fats of the spotted deer",
+      "new": "by the fats of the spotted deer"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "nāga-varuṇa-vyañjanaiḥ",
+     "problem": "'Nāgas' keeps a diacritic; names in English use plain letters (GLOSSARY).",
+     "fix": "in the guise of Nagas and Varuna",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "nāga-varuṇa-vyañjanaiḥ",
+      "field": "gloss",
+      "value": "in the guise of Nagas and Varuna"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vā ... śata-pākyaṃ tailaṃ",
+     "problem": "alternative not noted: since vasābhiḥ is instrumental, śata-pākyaṃ tailaṃ may be the thing prepared 'with the fats' (oil cooked a hundred times with the fats), the second vā then not dividing two alternatives.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "append_note",
+      "text": "Reviewer: vasābhiḥ is instrumental, so the fats are 'by/with', not the object; a possible reading is 'oil cooked a hundred times with the fats of ... (applied) through the nose'. The Hindi 'सिर ढके हुए' states the covering that English brackets as [covered]; both are inferred. Confidence stays low."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "paurāṇika.ikṣaṇika -> īkṣaṇika",
+     "problem": "Flag confirmed as 'possible': īkṣaṇika is the known word; the source sandhi (paurāṇikekṣaṇika) is ambiguous between i and ī, so the typist's short i is unverified. Keep as flag, not a correction.",
+     "fix": "keep flag",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "गुप्त पुरुष",
+     "problem": "GLOSSARY (12.4): gūḍha-puruṣa = secret agent (गूढ़ पुरुष); the draft's Hindi differs from the fixed rendering.",
+     "fix": "गूढ़ पुरुष",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गुप्त पुरुष",
+      "new": "गूढ़ पुरुष"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[and] the reverse of the enemy's",
+     "problem": "note says the predicate is supplied in brackets, but the English supplies only '[and]'; viparītam is an accusative object of brūyuḥ.",
+     "fix": "[they should tell] the reverse of the enemy's",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "[and] the reverse of the enemy's",
+      "new": "[they should tell] the reverse of the enemy's"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और शत्रु की विपरीत।",
+     "problem": "ungrammatical Hindi (feminine की with a masculine/neuter noun) and no verb",
+     "fix": "और शत्रु का विपरीत बताएँ।",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और शत्रु की विपरीत।",
+      "new": "और शत्रु का विपरीत बताएँ।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vāyasa-aṅga-vidyā",
+     "problem": "'crows' stands bare in both languages as a topic; vāyasa-aṅga-vidyā is more likely 'lore of crows and of limbs' (vidyā shared). Grouping is already noted as uncertain; a person may decide. Do not regroup the unit.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "They should show",
+     "problem": "the note claims ca joins sadundubhim and ulkām, impossible since sadundubhim is an adjective of ulkām; ca links this sentence to the previous one and is dropped in both languages.",
+     "fix": "And they should show ...",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "They should show a meteor",
+      "new": "And they should show a meteor"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शत्रु के नक्षत्र में",
+     "problem": "ca dropped",
+     "fix": "और शत्रु के नक्षत्र में दुन्दुभि के साथ उल्का दिखाएँ।",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "और शत्रु के नक्षत्र में दुन्दुभि के साथ उल्का दिखाएँ।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ca",
+     "problem": "correct the note",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "append_note",
+      "text": "Reviewer: ca here connects this sentence with the preceding one ('and ... a meteor'); sadundubhim qualifies ulkām."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tulya-yoga-kṣemam",
+     "problem": "a dvandva (yoga-kṣema) in the singular is neuter by samāhāra; 'm. acc. sg.' is wrong and the compound type is missing.",
+     "fix": "n. acc. sg., karmadhāraya (tulya + samāhāra-dvandva yoga-kṣema)",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "tulya-yoga-kṣemam",
+      "field": "gram",
+      "value": "n. acc. sg., tulya + samāhāra-dvandva yoga-kṣema"
+     }
+    },
+    {
+     "field": "english",
+     "where": "of the ministers and of the men of arms",
+     "problem": "genitive relation unresolved (equal to theirs? granted to them?). Draft already says so in notes; confidence medium is generous, acceptable.",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उत्तेजित करे",
+     "problem": "utsāhayantaḥ in unit 20 is rendered उभारते हुए; same verb, same English 'rouse', different Hindi.",
+     "fix": "उभारे",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्तेजित करे",
+      "new": "उभारे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "फिर",
+     "problem": "bhūyas = further/more (English says 'more'); फिर says 'again/later'.",
+     "fix": "और हम और भी कहेंगे।",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "hindi",
+      "value": "और हम और भी कहेंगे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कुल के मेढ़े से उद्विग्नों को",
+     "problem": "ca (ca-udvignān) is rendered 'and' in English but dropped in Hindi.",
+     "fix": "और कुल के मेढ़े से उद्विग्नों को",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुल के मेढ़े से उद्विग्नों को",
+      "new": "और कुल के मेढ़े से उद्विग्नों को"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "karaka.yoṣṭrayā -> karaka.yoktrayā",
+     "problem": "Flag kept as 'possible'. The suggested form yoktrayā presupposes a feminine yoktrā; yoktra is neuter (inst. yoktreṇa), so the exact emendation is uncertain. Printed form stays in the split.",
+     "fix": "keep flag; a person to decide the emendation",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "iti",
+     "problem": "the sequence is instruments + iti + class (and a final iti); 'thus' is a literal rendering with no verified function, and the English reorders 'thus' relative to the Sanskrit. Acceptable as literal only because confidence is low; no meaning should be taken from it.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "append_note",
+      "text": "Reviewer: in the Sanskrit each iti follows a list of means and precedes the next class (vihata-āśān, pūjā-phalān) or closes the list (final iti); the English moves the class first. 'thus' is the bare literal sense and its function is unknown. upahita, durbhaga-alaṅkāra and dveṣin (adjective of alaṅkāreṇa or a separate 'hostile one') have unresolved readings."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "To those who do not accept",
+     "problem": "genitive apratigṛhṇatām rendered as a dative without a bracket; it may instead be a genitive of disregard/absolute ('when they do not accept'). Not certain, so no patch.",
+     "fix": "In the case of those who do not accept, they should bring ornaments of women and boys.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by goods, grains and non-acceptances",
+     "problem": "dravya-dhānyāni is nominative/accusative plural (-āni); only aparigrahaiḥ is instrumental. English and Hindi wrongly put all three in the instrumental, contradicting the draft's own note. Also 'thus' after the closing quote adds a word the glossary says not to render, and kāryam is 'to be done', not 'given'.",
+     "fix": "",
+     "severity": "error",
+     "patch": {
+      "n": "21",
+      "op": "set",
+      "field": "english",
+      "value": "When they have agreed, [saying] \"So be it\": goods and grains, by non-acceptances; \"assistance is to be rendered\" – this great [result] has arisen from secret instigation."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्रव्य, धान्य और अपरिग्रहों के द्वारा",
+     "problem": "same instrumental error; 'इस प्रकार' twice renders quote-closing iti; महान् placed so it qualifies उपजाप though mahat agrees with bhūtam.",
+     "fix": "",
+     "severity": "error",
+     "patch": {
+      "n": "21",
+      "op": "set",
+      "field": "hindi",
+      "value": "\"वैसा ही\" — यह स्वीकार कर चुकने पर, द्रव्य और धान्य, अपरिग्रहों से; \"सहायता करनी चाहिए\" — उपजाप से यह महान् उत्पन्न हुआ।"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "21 units reviewed. Errors: 2 (units 3 english instrumental fats, 21 english+hindi instrumental/iti). Minor: 17. Unit 9 grouping and units 12, 16, 19 left as drafted with notes; no regrouping suggested. Flags: unit 7 confirmed (possible); unit 16 kept but emendation form uncertain. Units 3, 16, 21 stay low. Need a person: unit 16 meaning, unit 19 genitive, unit 2 pratyādeśa/vijñāpya, unit 21 aparigrahaiḥ."
+}

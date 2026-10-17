@@ -1,0 +1,220 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "yathā-niviṣṭam",
+  "old": "ind.; past part. ni-√viś",
+  "new": "past part. ni-√viś; m. acc. sg. (yathā- 'as'), agreeing with jana-padam",
+  "why": "reviewer (minor): labelled ind.; it is a past participle compound agreeing with jana-padam (acc. sg.), as the English 'as it is settled' itself treats it"
+ },
+ {
+  "n": "3",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "niveṣayet,",
+    "suggest": "niveśayet,",
+    "why": "typo: causative of ni-√viś is niveśayet (ś), as printed in unit 4; ṣ is not possible here"
+   }
+  ],
+  "why": "reviewer (error): printed niveṣayet (ṣ) is not a form of ni-√viś caus.; unit 4 prints niveśayet. Not flagged by the draft; the word was copied with the typo"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "niveṣayet",
+  "old": "niveṣayet",
+  "new": "niveśayet",
+  "why": "reviewer (error): word must carry the corrected form"
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "apasarataḥ",
+  "old": "pres. part. apa-√sṛ; abl./gen. sg.",
+  "new": "pres. part. apa-√sṛ; abl./gen. sg. m./n., or acc. pl. m.",
+  "why": "reviewer (minor): pres. part. apa-√sṛ: -ataḥ is also acc. pl. m. ('those moving away elsewhere'), which fits a list of objects of niveṣayet better than abl./gen. sg.; the draft omitted it"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "Object of niveṣayet is not stated; utthitam is taken as 'the risen (country/people)'. The last phrase anyatra-apasarataḥ is not clearly connected: apasarataḥ could be gen. sg. or abl. sg. of the present participle, 'of/from one withdrawing elsewhere'. Rendered literally; sense uncertain. parihāra rendered 'exemption' (alternatively 'avoidance').",
+  "new": "Object of niveṣayet is not stated; utthitam is taken as 'the risen (country/people)'. The last phrase anyatra-apasarataḥ is not clearly connected: apasarataḥ could be gen. sg. or abl. sg. of the present participle, 'of/from one withdrawing elsewhere'. Rendered literally; sense uncertain. parihāra rendered 'exemption' (alternatively 'avoidance'). Review: apasarataḥ may also be acc. pl. m. ('[those] moving away elsewhere'), parallel to utthitam; left literal, confidence stays low.",
+  "why": "reviewer (minor): same point in notes"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "He should resettle what has risen up, by favours and exemptions; from one moving away elsewhere.",
+  "new": "He should resettle what has risen up, by favour and exemption; from one moving away elsewhere.",
+  "why": "reviewer (minor): anugraha-parihārābhyām is a dual of two singular nouns; plural 'favours/exemptions' is an unmarked change (glossary 13.5: parihāra = exemption)"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "उठे हुए को अनुग्रह और परिहार के द्वारा बसाए; अन्यत्र हटते हुए से।",
+  "new": "उठे हुए को अनुग्रह और छूट के द्वारा बसाए; अन्यत्र हटते हुए से।",
+  "why": "reviewer (minor): glossary 13.5: parihāra = exemption (छूट)"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "From cutting off the foraging force and the supply line, and also from destroying the fist and the crops, from ejection and from secret killing, there arises the decay of the constituent elements.",
+  "new": "From cutting off the foraging force and the supply line, and also from destroying the fist and the crops, from vomiting (vamana) and from secret killing, there arises the decay of the constituent elements.",
+  "why": "reviewer (minor): 'ejection' is an invented sense for vamana (vomiting); glossary 13.4 says literal only"
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "vamanāt",
+  "old": "from ejection",
+  "new": "from vomiting",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "Token 'vīvadhac.chedān' is sandhi for vīvadha-chedāt (t + m- -> n; a + ch- -> cch). vamana literally 'vomiting, ejection'; its object is unstated and the sense is uncertain. The decay is not said to belong to anyone; prakṛti per glossary.",
+  "new": "Token 'vīvadhac.chedān' is sandhi for vīvadha-chedāt (t + m- -> n; a + ch- -> cch). vamana literally 'vomiting, ejection'; its object is unstated and the sense is uncertain. The decay is not said to belong to anyone; prakṛti per glossary. Review: English now literal 'vomiting'; 'ejection/expulsion (of troops)' is only a conjecture; sense of vamana here unknown.",
+  "why": "reviewer (minor): record the alternatives"
+ },
+ {
+  "n": "7",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): vamana sense unknown, a literal rendering with lowered confidence is the project rule"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "“मैं प्रचुर उत्तम धान्य, कुप्य, यन्त्र, शस्त्र, आवरण और विष्टि वाला हूँ; मेरी सेना पूर्ण है; ऋतु आगे है, शत्रु के लिए अनृतु है; रोग, दुर्भिक्ष, संचय और रक्षा का क्षय, खरीदी हुई सेना की निराशा और मित्र की सेना की निराशा है,” इस प्रकार मानकर घेरा डाले।",
+  "new": "“मैं प्रचुर उत्तम धान्य, कुप्य, यन्त्र, शस्त्र, आवरण और विष्टि वाला हूँ; मेरी सेना पूर्ण है; ऋतु आगे है, शत्रु के लिए अनृतु है; रोग, दुर्भिक्ष, संचय और रक्षा का क्षय, खरीदी हुई सेना की निराशा और मित्र की सेना की निराशा है,” इस प्रकार घेरा डाले।",
+  "why": "reviewer (minor): 'मानकर' (thinking) is an unmarked addition; English marks it [thinking] but Hindi does not"
+ },
+ {
+  "n": "8",
+  "field": "word.w",
+  "word": "prabhūta-guṇavat-dhānya-kupya-yantra-śastra-āvaraṇa-viṣṭiḥ",
+  "old": "prabhūta-guṇavat-dhānya-kupya-yantra-śastra-āvaraṇa-viṣṭiḥ",
+  "new": "prabhūta-guṇavad-dhānya-kupya-yantra-śastra-āvaraṇa-viṣṭiḥ",
+  "why": "reviewer (minor): text_flag 1 confirmed (guṇavad-dhānya, printed 'guṇa.vaddha.anya'); before dh the usual form is guṇavad-"
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "OBSCURE: bala-kuṭikā (literally 'strength/army' + 'hut') and the closing phrase dāraṃ ca guḍena (dāra 'splitting, breach'; guḍa 'lump, ball' or 'jaggery') are rendered literally; sense uncertain. sāla rendered 'palisade' (enclosure); khāta-sāla might also be 'ditch and wall'. pathaḥ is gen. sg. of pathin ('of the road'); it could also be acc. pl. 'roads'. hārayet 'have carried off, removed'.",
+  "new": "OBSCURE: bala-kuṭikā (literally 'strength/army' + 'hut') and the closing phrase dāraṃ ca guḍena (dāra 'splitting, breach'; guḍa 'lump, ball' or 'jaggery') are rendered literally; sense uncertain. sāla rendered 'palisade' (enclosure); khāta-sāla might also be 'ditch and wall'. pathaḥ is gen. sg. of pathin ('of the road'); it could also be acc. pl. 'roads'. hārayet 'have carried off, removed'. Review: dāram kept as printed (the e-text is not flagged); a person should check the printed edition whether dvāram is meant. Hindi दार also means 'wife'. hārayet does not govern dāram naturally, so the clause is loosely rendered.",
+  "why": "reviewer (minor): dāra here may be a typo for dvāra ('gate'); an alternative reading cannot be decided from the e-text alone. Hindi दार also means 'wife'. No variant invented; needs a person with the printed edition"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "और दुर्ग के भीतर के रक्षक गुप्त पुरुष, नेवलों, बन्दरों, बिल्लियों और कुत्तों की पूँछों में अग्नि-योग रखकर, काण्ड के संचय तथा रक्षा-व्यवस्था के घरों में छोड़ें।",
+  "new": "और दुर्ग के भीतर के रक्षक गूढ़ पुरुष, नेवलों, बन्दरों, बिल्लियों और कुत्तों की पूँछों में अग्नि-योग रखकर, काण्ड के संचय तथा रक्षा-व्यवस्था के घरों में छोड़ें।",
+  "why": "reviewer (minor): gūḍha-puruṣa in Hindi is गूढ़ पुरुष (glossary 12.4, 13.1)"
+ },
+ {
+  "n": "16",
+  "field": "word.gram",
+  "word": "kāṇḍa-nicaya-rakṣā-vidhāna-veśmasu",
+  "old": "dvandva; n. loc. pl.",
+  "new": "tat-puruṣa (with dvandva members); n. loc. pl.",
+  "why": "reviewer (minor): 'dvandva' is wrong for the whole compound (final member veśma; dvandva only inside)"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "leṇḍam",
+  "old": "n. acc. sg. (or nom.)",
+  "new": "n. nom. sg.",
+  "why": "reviewer (minor): labelled 'acc. (or nom.)' but it is the subject (with gulikāḥ) of predicate agni-dhāraṇam: nominative"
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "Token 2 split as avalguja / maṣī / madhu-ucchiṣṭam on the possible correction. In the original the word list is only 'priyāla powder, ... dung'; no verb. madhu-ucchiṣṭa 'residue of honey' (usually beeswax, not stated here). Plant names not identified.",
+  "new": "Token 2 split as avalguja / maṣī / madhu-ucchiṣṭam on the possible correction. In the original the word list is only 'priyāla powder, ... dung'; no verb. madhu-ucchiṣṭa 'residue of honey' (usually beeswax, not stated here). Plant names not identified. Review: flag confirmed. The compound avalguja-maṣī-madhūcchiṣṭam is one token; it may also be read as three items 'avalguja, soot, residue of honey'.",
+  "why": "reviewer (minor): CONFIRMED (avalguja.maṣī). But the token is one compound, so 'soot of avalguja, residue of honey' (draft) versus 'avalguja, soot and residue of honey' is an unmarked grouping choice"
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "सब धातुओं का चूर्ण, अग्नि के रंग का, अथवा कुम्भी, सीस और त्रपु का चूर्ण, अथवा पारिभद्रक, पलाश, पुष्प, केश, कालिख, तेल, मधु का अवशेष और श्रीवेष्टक से युक्त अग्नि-योग, अथवा विश्वास का घात करने वाला।",
+  "new": "सब धातुओं का चूर्ण, अग्नि के रंग का, अथवा कुम्भी, सीसा और रांगा का चूर्ण, अथवा पारिभद्रक, पलाश, पुष्प, केश, कालिख, तेल, मधु का अवशेष और श्रीवेष्टक से युक्त अग्नि-योग, अथवा विश्वास का घात करने वाला।",
+  "why": "reviewer (minor): English translates lead and tin, Hindi leaves Sanskrit words (glossary 13.4: सीसा/रांगा)"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "“मैं सब कार्यों के उपकरणों और विष्टि से सम्पन्न हूँ; शत्रु रोगी है, या उपधा से उसकी प्रकृतियाँ विरुद्ध हो गई हैं, या उसने दुर्ग का कार्य और संचय नहीं किया है, चाहे वह सहायक सेना से रहित हो या सहित, मित्रों के साथ जुड़ने से पहले,” यह अवमर्द का समय है।",
+  "new": "“मैं सब कार्यों के उपकरणों और विष्टि से सम्पन्न हूँ; शत्रु रोगी है, या उपधा से उसकी प्रकृतियाँ विरुद्ध हो गई हैं, या उसने दुर्ग का कार्य और संचय नहीं किया है, चाहे वह सहायक सेना से रहित हो या सहित, मित्रों के साथ जुड़ने से पहले,” यह कुचलने का समय है।",
+  "why": "reviewer (minor): glossary: avamarda = crushing (कुचलना); English says 'crushing' but Hindi leaves the Sanskrit"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अथवा मित्र या आसार के मुख्य का वेश धारण किया हुआ, घेरे हुए के साथ मित्रता करके, मरने के लिए छोड़े हुए दूत को भेजे — “यह तुम्हारा छिद्र है, ये दूष्य हैं।” “अथवा घेरने वाले का छिद्र है, यह तुम्हारा कृत्य-पक्ष है।”",
+  "new": "अथवा मित्र या आसार के मुख्य का वेश धारण किया हुआ, घिरे हुए के साथ मित्रता करके, मरने के लिए छोड़े हुए दूत को भेजे — “यह तुम्हारा छिद्र है, ये दूष्य हैं।” “अथवा घेरने वाले का छिद्र है, यह तुम्हारा कृत्य-पक्ष है।”",
+  "why": "reviewer (minor): glossary 13.4: saṃruddha = घिरा हुआ, saṃroddhṛ = घेरा डालने वाला"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अथवा मित्र या आसार के मुख्य का वेश धारण किया हुआ, घिरे हुए के साथ मित्रता करके, मरने के लिए छोड़े हुए दूत को भेजे — “यह तुम्हारा छिद्र है, ये दूष्य हैं।” “अथवा घेरने वाले का छिद्र है, यह तुम्हारा कृत्य-पक्ष है।”",
+  "new": "अथवा मित्र या आसार के मुख्य का वेश धारण किया हुआ, घिरे हुए के साथ मित्रता करके, मरने के लिए छोड़े हुए दूत को भेजे — “यह तुम्हारा छिद्र है, ये दूष्य हैं।” “अथवा घेरा डालने वाले का छिद्र है, यह तुम्हारा कृत्य-पक्ष है।”",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "अथवा तब मित्र या आसार का वेश धारण किया हुआ घेरे हुए से कहे — “मुझे बचाने के लिए बाहर निकलो, अथवा मेरे साथ घेरने वाले को मार डालो।”",
+  "new": "अथवा तब मित्र या आसार का वेश धारण किया हुआ घिरे हुए से कहे — “मुझे बचाने के लिए बाहर निकलो, अथवा मेरे साथ घेरने वाले को मार डालो।”",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "अथवा तब मित्र या आसार का वेश धारण किया हुआ घिरे हुए से कहे — “मुझे बचाने के लिए बाहर निकलो, अथवा मेरे साथ घेरने वाले को मार डालो।”",
+  "new": "अथवा तब मित्र या आसार का वेश धारण किया हुआ घिरे हुए से कहे — “मुझे बचाने के लिए बाहर निकलो, अथवा मेरे साथ घेरा डालने वाले को मार डालो।”",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "One who has complied he should have killed by pressure from both sides, or by seizing [him] alive he should have an exchange of kingdoms made.",
+  "new": "One who has accepted he should have killed by pressure from both sides, or by seizing [him] alive he should have an exchange of kingdoms made.",
+  "why": "reviewer (minor): glossary 13.4: pratipanna = the one who has accepted"
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "pratipannam",
+  "old": "who has complied",
+  "new": "who has accepted",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "One who has accepted he should have killed by pressure from both sides, or by seizing [him] alive he should have an exchange of kingdoms made.",
+  "new": "One who has accepted he should have killed by pressure from both sides, or by seizing [him] alive he should have an exchange of the kingdom made.",
+  "why": "reviewer (minor): rājya-vinimaya is singular; plural 'kingdoms' is an unmarked sense (swap of two realms); literal is 'exchange of the kingdom'"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "स्वीकार कर लेने वाले को दोनों ओर से दबाकर मरवाए, अथवा जीवित पकड़कर राज्यों की अदला-बदली करवाए।",
+  "new": "स्वीकार कर लेने वाले को दोनों ओर से दबाकर मरवाए, अथवा जीवित पकड़कर राज्य का विनिमय करवाए।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "rājya-vinimayam",
+  "old": "exchange of kingdoms",
+  "new": "exchange of the kingdom",
+  "why": "reviewer (minor): same"
+ }
+]
