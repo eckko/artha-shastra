@@ -1,0 +1,389 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जिस पर चढ़ाई की जानी है, जिस पर चढ़ाई होने वाली है, सन्धि के कारण को ग्रहण करने की इच्छा वाला अथवा नष्ट करने की इच्छा वाला, सामवायिकों में से किसी एक से लाभ की दुगुनी मात्रा पर सौदा करे।",
+  "new": "जिस पर चढ़ाई करनी हो, जिस पर चढ़ाई होने वाली है, सन्धि के कारण को ग्रहण करने की इच्छा वाला अथवा नष्ट करने की इच्छा वाला, सामवायिकों में से किसी एक से लाभ की दुगुनी मात्रा पर सौदा करे।",
+  "why": "reviewer (minor): Glossary (7.5): yātavya (noun) = the one to be marched against (जिस पर चढ़ाई करनी हो)"
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The one to be marched against [or] the one about to be marched upon, wishing either to take up or to destroy the cause of peace, should bargain with any one of the confederates for double the gain.",
+  "new": "The one to be marched against [or] the one about to be marched upon, wishing either to take up or to destroy the cause of peace, should strike a bargain with any one of the confederates for double the gain.",
+  "why": "reviewer (minor): Glossary (7.7): paṇ = strike a bargain (सौदा करना)"
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "paṇeta",
+  "old": "should bargain",
+  "new": "should strike a bargain",
+  "why": "reviewer (error): Glossary (7.7): paṇ = strike a bargain"
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जिस पर चढ़ाई करनी हो, जिस पर चढ़ाई होने वाली है, सन्धि के कारण को ग्रहण करने की इच्छा वाला अथवा नष्ट करने की इच्छा वाला, सामवायिकों में से किसी एक से लाभ की दुगुनी मात्रा पर सौदा करे।",
+  "new": "जिस पर चढ़ाई करनी हो, जिस पर चढ़ाई होने वाली है, सन्धि के कारण को ग्रहण करने की इच्छा वाला अथवा नष्ट करने की इच्छा वाला, सामवायिकों में से किसी एक से दुगुने लाभ पर सौदा करे।",
+  "why": "reviewer (minor): \"मात्रा\" is added; dvaiguṇya has no such noun"
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "sāmavāyikānām",
+  "old": "of the confederates",
+  "new": "of the associates",
+  "why": "reviewer (error): Other Book 7 chapters (7.4, 7.9) render sāmavāyika \"associate\"; \"confederate\" is inconsistent"
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The one to be marched against [or] the one about to be marched upon, wishing either to take up or to destroy the cause of peace, should strike a bargain with any one of the confederates for double the gain.",
+  "new": "The one to be marched against [or] the one about to be marched upon, wishing either to take up or to destroy the cause of peace, should strike a bargain with any one of the associates for double the gain.",
+  "why": "reviewer (minor): sāmavāyika = associate as in 7.4 and 7.9"
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "Subject: yātavyaḥ and abhiyāsyamānaḥ stand side by side with no vā; '[or]' is supplied in English only. 'sandhi-kāraṇam ādātu-kāmaḥ' is literal (wishing to take up / to destroy the cause of peace). sāmavāyika = member of a samavāya (association), rendered 'confederate'. paṇeta from √paṇ 'bargain, stake'; sandhi = peace as in Books 8-9.",
+  "new": "Subject: yātavyaḥ and abhiyāsyamānaḥ stand side by side with no vā; '[or]' is supplied in English only. 'sandhi-kāraṇam ādātu-kāmaḥ' is literal (wishing to take up / to destroy the cause of peace). sāmavāyika = member of a samavāya (association), rendered 'associate' as in 7.4 and 7.9. paṇeta from √paṇ 'bargain, stake'; sandhi = peace as in Books 8-9.",
+  "why": "reviewer (minor): notes still say \"confederate\""
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "kṣaya-vyaya-pravāsa-pratyavāya-para-upakāra-śarīra-ābādhān",
+  "old": "losses, expenditures, absences abroad, setbacks, benefits to others, bodily harms",
+  "new": "losses, expenditures, absences from home, obstacles, benefits to others, bodily harms",
+  "why": "reviewer (error): Glossary (7.2): pravāsa = absence from home, pratyavāya = obstacle; draft has \"absences abroad\", \"setbacks\""
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "While bargaining, [he] should describe his losses, expenditures, absences abroad, setbacks, benefits to others and bodily harms.",
+  "new": "While bargaining, [he] should describe his losses, expenditures, absences from home, obstacles, benefits to others and bodily harms.",
+  "why": "reviewer (error): glossary 7.2 renderings of pravāsa and pratyavāya"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "सौदा करता हुआ इसके क्षय, व्यय, प्रवास, प्रत्यवाय, दूसरों के उपकार और शरीर की बाधाओं का वर्णन करे।",
+  "new": "सौदा करता हुआ इसके क्षय, व्यय, प्रवास, बाधा, दूसरों के उपकार और शरीर की पीड़ाओं का वर्णन करे।",
+  "why": "reviewer (error): Glossary 7.2: pratyavāya = obstacle (बाधा); bare प्रत्यवाय is not Hindi gloss; बाधा then used twice, so ābādha becomes पीड़ा"
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "varṇayet",
+  "old": "3 sg. opt. caus. √vṛ (varṇ)",
+  "new": "3 sg. opt. √varṇ (class 10)",
+  "why": "reviewer (minor): varṇayati is class 10 (denominative of varṇa), not a causative of √vṛ; cf. glossary 3.10 on class 10 verbs"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "paṇamānaḥ",
+  "old": "bargaining",
+  "new": "the one bargaining",
+  "why": "reviewer (error): Glossary (7.7): paṇamāna = the one bargaining (सौदा करने वाला)"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "While bargaining, [he] should describe his losses, expenditures, absences from home, obstacles, benefits to others and bodily harms.",
+  "new": "The one bargaining should describe his losses, expenditures, absences from home, obstacles, benefits to others and bodily harms.",
+  "why": "reviewer (error): Glossary (7.7): paṇamāna = the one bargaining; the bracketed [he] is not needed"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "सौदा करता हुआ इसके क्षय, व्यय, प्रवास, बाधा, दूसरों के उपकार और शरीर की पीड़ाओं का वर्णन करे।",
+  "new": "सौदा करने वाला इसके क्षय, व्यय, प्रवास, बाधा, दूसरों के उपकार और शरीर की पीड़ाओं का वर्णन करे।",
+  "why": "reviewer (error): Glossary (7.7): paṇamāna = सौदा करने वाला"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जिसका कर्म बुरी तरह आरम्भ हुआ है उसे क्षय और व्यय से अधिक जोड़ने की इच्छा वाला, अथवा भली-भाँति आरम्भ की हुई यात्रा की सिद्धि को नष्ट करने की इच्छा वाला, मूल पर अथवा यात्रा पर प्रहार करने की इच्छा वाला, यातव्य से मिला हुआ, फिर माँगने की इच्छा वाला, वर्तमान अर्थ में कठिनाई वाला, अथवा उसमें अविश्वास करने वाला, वर्तमान में थोड़ा लाभ चाहे, भविष्य में बहुत।",
+  "new": "बुरी तरह आरम्भ किए कर्म वाले को अधिक क्षय और व्यय से जोड़ने की इच्छा वाला, अथवा भली-भाँति आरम्भ की हुई यात्रा की सिद्धि को नष्ट करने की इच्छा वाला, मूल पर अथवा यात्रा पर प्रहार करने की इच्छा वाला, यातव्य से मिला हुआ, फिर माँगने की इच्छा वाला, वर्तमान अर्थ में कठिनाई वाला, अथवा उसमें अविश्वास करने वाला, वर्तमान में थोड़ा लाभ चाहे, भविष्य में बहुत।",
+  "why": "reviewer (minor): Added copula \"है\" and relative clause \"जिसका ... उसे\"; bhūyaḥ = अधिक (glossary 7.7)"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "[One] wishing to burden further, with loss and expenditure, one whose undertaking is badly begun, or wishing to thwart the success of a well begun expedition, wishing to strike at the base or at the expedition, allied with the one to be marched against, wishing to ask again, in difficulty over an immediate object, or distrustful of him, should desire a small gain in the present, a great one in the future.",
+  "new": "[One] wishing to connect one whose action is badly begun with more loss and expenditure, or wishing to thwart the success of a well begun expedition, wishing to strike at the base or at the expedition, allied with the one to be marched against, wishing to ask again, in difficulty over an immediate object, or distrustful of him, should desire a small gain in the present, a great one in the future.",
+  "why": "reviewer (minor): karma = action (glossary); \"burden\" is an invented sense of √yuj (glossary 7.7: yoktu-kāma = desiring to connect); bhūyaḥ = more (glossary 7.7)"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "bhūyaḥ",
+  "old": "further",
+  "new": "more",
+  "why": "reviewer (error): Glossary (7.7): bhūyaḥ = more"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "durārabdha-karmāṇam",
+  "old": "one whose undertaking is badly begun",
+  "new": "one whose action is badly begun",
+  "why": "reviewer (error): karma = action (glossary), not \"undertaking\""
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "yoktu-kāmaḥ",
+  "old": "wishing to burden",
+  "new": "wishing to connect",
+  "why": "reviewer (error): \"burden\" is an invented sense; literal √yuj \"join/connect\" (7.7, and unit 3 yojayet)"
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "su-ārabdhām",
+  "old": "f. acc. sg. past part.",
+  "new": "f. acc. sg. past part. ā-√rabh; agrees with siddhim",
+  "why": "reviewer (minor): root missing; ārabdhām is feminine accusative and agrees with the compound head siddhim, not with yātrā inside the compound"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "[One] wishing to connect one whose action is badly begun with more loss and expenditure, or wishing to thwart the success of a well begun expedition, wishing to strike at the base or at the expedition, allied with the one to be marched against, wishing to ask again, in difficulty over an immediate object, or distrustful of him, should desire a small gain in the present, a great one in the future.",
+  "new": "[One] wishing to connect one whose action is badly begun with more loss and expenditure, or wishing to thwart the well begun success of the expedition, wishing to strike at the base or at the expedition, allied with the one to be marched against, wishing to ask again, in difficulty over an immediate object, or distrustful of him, should desire a small gain in the present, a great one in the future.",
+  "why": "reviewer (minor): Agreement: ārabdhām qualifies siddhim; \"a well begun expedition\" is an interpretive regrouping"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "बुरी तरह आरम्भ किए कर्म वाले को अधिक क्षय और व्यय से जोड़ने की इच्छा वाला, अथवा भली-भाँति आरम्भ की हुई यात्रा की सिद्धि को नष्ट करने की इच्छा वाला, मूल पर अथवा यात्रा पर प्रहार करने की इच्छा वाला, यातव्य से मिला हुआ, फिर माँगने की इच्छा वाला, वर्तमान अर्थ में कठिनाई वाला, अथवा उसमें अविश्वास करने वाला, वर्तमान में थोड़ा लाभ चाहे, भविष्य में बहुत।",
+  "new": "बुरी तरह आरम्भ किए कर्म वाले को अधिक क्षय और व्यय से जोड़ने की इच्छा वाला, अथवा भली-भाँति आरम्भ की हुई यात्रा की सिद्धि को नष्ट करने की इच्छा वाला, मूल पर अथवा यात्रा पर प्रहार करने की इच्छा वाला, जिस पर चढ़ाई करनी हो उससे मिला हुआ, फिर माँगने की इच्छा वाला, वर्तमान अर्थ में कठिनाई वाला, अथवा उसमें अविश्वास करने वाला, वर्तमान में थोड़ा लाभ चाहे, भविष्य में बहुत।",
+  "why": "reviewer (minor): Glossary (7.5): yātavya = जिस पर चढ़ाई करनी हो; bare यातव्य is not used"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "bhūyaḥ",
+  "old": "further",
+  "new": "more",
+  "why": "reviewer (error): Glossary (7.7): bhūyaḥ = more"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Looking to the benefit to an ally, the injury to an enemy, [and] the sequel of gain, wishing to cause the earlier benefactor [to act] further, [one] should, having given up a great gain in the present, desire a small one in the future.",
+  "new": "Looking to the benefit to an ally, the injury to an enemy, [and] the sequel of gain, wishing to cause the earlier benefactor [to act] more, [one] should, having given up a great gain in the present, desire a small one in the future.",
+  "why": "reviewer (minor): Glossary (7.7): bhūyaḥ = more"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "मित्र के उपकार, शत्रु के उपघात, अर्थ के अनुबन्ध को देखता हुआ, पहले उपकार करने वाले को फिर कराने की इच्छा वाला, वर्तमान में बड़ा लाभ छोड़कर भविष्य में थोड़ा चाहे।",
+  "new": "मित्र के उपकार, शत्रु के उपघात, अर्थ के अनुबन्ध को देखता हुआ, पहले उपकार करने वाले को अधिक कराने की इच्छा वाला, वर्तमान में बड़ा लाभ छोड़कर भविष्य में थोड़ा चाहे।",
+  "why": "reviewer (minor): Glossary (7.7): bhūyaḥ = अधिक"
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "jyāyasā",
+  "old": "by a stronger one",
+  "new": "by the superior",
+  "why": "reviewer (error): Glossary (7.5): jyāyas = the superior (श्रेष्ठ); \"stronger\" adds a sense"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Wishing to protect one attacked by the treasonable and the enemy, by a base-seizer or by a stronger one, wishing to have such a benefit done, or looking to the relationship, [one] should not accept gain, both in the present and in the future.",
+  "new": "Wishing to protect one attacked by the treasonable and the enemy, by a base-seizer or by the superior, wishing to have such a benefit done, or looking to the relationship, [one] should not accept gain, both in the present and in the future.",
+  "why": "reviewer (error): Glossary (7.5): jyāyas = the superior"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "दूष्य और शत्रु से, मूल का हरण करने वाले से अथवा अधिक बलवान से आक्रान्त की रक्षा करने की इच्छा वाला, वैसा उपकार कराने की इच्छा वाला, अथवा सम्बन्ध को देखने वाला, वर्तमान में और भविष्य में लाभ स्वीकार न करे।",
+  "new": "दूष्य और शत्रु से, मूल का हरण करने वाले से अथवा श्रेष्ठ से आक्रान्त की रक्षा करने की इच्छा वाला, वैसा उपकार कराने की इच्छा वाला, अथवा सम्बन्ध को देखने वाला, वर्तमान में और भविष्य में लाभ स्वीकार न करे।",
+  "why": "reviewer (error): Glossary (7.5): jyāyas = श्रेष्ठ"
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "mūla-hareṇa",
+  "old": "by a base-seizer",
+  "new": "by a taker of the base",
+  "why": "reviewer (error): Glossary 7.2: mūla-hara = taker of the base (मूल हरने वाला); \"base-seizer\" differs"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Wishing to protect one attacked by the treasonable and the enemy, by a base-seizer or by the superior, wishing to have such a benefit done, or looking to the relationship, [one] should not accept gain, both in the present and in the future.",
+  "new": "Wishing to protect one attacked by the treasonable and the enemy, by a taker of the base or by the superior, wishing to have such a benefit done, or looking to the relationship, [one] should not accept gain, both in the present and in the future.",
+  "why": "reviewer (error): glossary 7.2"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "दूष्य और शत्रु से, मूल का हरण करने वाले से अथवा श्रेष्ठ से आक्रान्त की रक्षा करने की इच्छा वाला, वैसा उपकार कराने की इच्छा वाला, अथवा सम्बन्ध को देखने वाला, वर्तमान में और भविष्य में लाभ स्वीकार न करे।",
+  "new": "दूष्य और शत्रु से, मूल हरने वाले से अथवा श्रेष्ठ से आक्रान्त की रक्षा करने की इच्छा वाला, वैसा उपकार कराने की इच्छा वाला, अथवा सम्बन्ध को देखने वाला, वर्तमान में और भविष्य में लाभ स्वीकार न करे।",
+  "why": "reviewer (error): glossary 7.2 (मूल हरने वाला)"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "mūla-hara literal 'taking the base/capital' (usurper or seizer of the root); sense not imported. vigṛhīta 'attacked, set at war with'. The first member pair has no vā; vā stands once after mūla-hareṇa. 'tadātve ca āyatyāṃ ca' = both ... and.",
+  "new": "mūla-hara literal 'taker of the base' (as 7.2); no sense imported. vigṛhīta 'attacked, set at war with'. The first member pair has no vā; vā stands once after mūla-hareṇa. 'tadātve ca āyatyāṃ ca' = both ... and.",
+  "why": "reviewer (minor): notes import the sense \"usurper\" for mūla-hara, against glossary 7.2"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "उसे, दूसरा वर्तमान में और भविष्य में क्रम को देखे।",
+  "new": "दूसरा उसे वर्तमान में और भविष्य में क्रम को देखे।",
+  "why": "reviewer (minor): Word order puts tam before the subject with a comma (\"उसे, दूसरा\"); reads as a fragment"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "किन्तु शत्रु और विजिगीषु के अपने-अपने मित्र पर अनुग्रह करने पर शक्य, कल्य, भव्य कार्य आरम्भ करने वाले, स्थिर कर्म वाले, अनुरक्त प्रकृति वालों से भेद।",
+  "new": "किन्तु शत्रु और विजिगीषु के अपने-अपने मित्र पर अनुग्रह करने पर शक्य, कल्य, भव्य का आरम्भ करने वाले, स्थिर कर्म वाले, अनुरक्त प्रकृति वालों से भेद।",
+  "why": "reviewer (error): \"कार्य\" is an added noun; unit 12 uses \"का आरम्भ करने वाला\""
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "kṣaya-vyaya-pravāsa-para-upakārān",
+  "old": "losses, expenditures, absences abroad, benefits to others",
+  "new": "losses, expenditures, absences from home, benefits to others",
+  "why": "reviewer (minor): glossary 7.2: pravāsa = absence from home"
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "For [one] obtains growth of himself from an ally; the other, [obtains] losses, expenditures, absences abroad, [and] benefits to others.",
+  "new": "For [one] obtains growth of himself from an ally; the other, [obtains] losses, expenditures, absences from home, [and] benefits to others.",
+  "why": "reviewer (minor): glossary 7.2"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "But of the two favouring the middle king, he who favours the middle king, [whether] an ally or a closer ally, outwits.",
+  "new": "But of the two favouring the middle king, he who favours the middle king, an ally or a closer ally, outwits.",
+  "why": "reviewer (minor): Hindi lists three objects (मध्यम पर, मित्र पर अथवा मित्रतर पर) while English adds bracketed \"[whether]\" making an apposition; keep both literal and equally open (note already records the ambiguity)"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "kṣaya-vyaya-pravāsa-para-upakārān",
+  "old": "losses, expenditures, absences abroad, benefits to others",
+  "new": "losses, expenditures, absences from home, benefits to others",
+  "why": "reviewer (minor): glossary 7.2: pravāsa = absence from home"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "For [one] obtains growth of himself from an ally; the other, [obtains] losses, expenditures, absences abroad, [and] benefits to others.",
+  "new": "For [one] obtains growth of himself from an ally; the other, [obtains] losses, expenditures, absences from home, [and] benefits to others.",
+  "why": "reviewer (minor): glossary 7.2"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "क्योंकि प्रयास किए हुए, हटे हुए, एक अर्थ को प्राप्त हुए मध्यम-शत्रु को प्राप्त करता है।",
+  "new": "क्योंकि प्रयास किए हुए, हटे हुए, एक अर्थ को पहुँचे हुए मध्यम-शत्रु को प्राप्त करता है।",
+  "why": "reviewer (minor): upagata and prāpnoti both rendered प्राप्त, which blurs two different words"
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "atisandhīyate",
+  "old": "3 sg. pass. ati-sam-√dhā",
+  "new": "3 sg. pres. pass. ati-sam-√dhā",
+  "why": "reviewer (minor): tense label missing"
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "daṇḍa here = army (Book 8/9 glossary lines). kṛta-astra literally 'whose weapons are made'; the usual sense 'trained in arms' is used (medium). The gen. dual madhyama-udāsīnayoḥ is read with dāne ('to'). The adjectives are neuter-agreeing with daṇḍam in sense; vā closes the list.",
+  "new": "daṇḍa here = army (Books 8/9 glossary lines). kṛta-astra literally 'whose weapons are made'; the usual sense 'trained in arms' is used (medium). The gen. dual madhyama-udāsīnayoḥ is read with dāne ('to'). The adjectives agree with daṇḍam (m.); vā closes the list.",
+  "why": "reviewer (minor): notes say \"neuter-agreeing\" but daṇḍa is masculine and the gram labels are m."
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "'taṃ vā ca-artham anyāṃś ca' has both vā and ca after tam; the grammar is doubtful (probably taṃ ca-artham anyāṃś ca, 'him, the object and others'); both particles are rendered literally as printed. 'tam' (him) = the recipient of the army. daṇḍa = army (Book 9 glossary). Troops: hereditary/hired/guild/ally/forest-tribe (9.2). upalabdha-deśa-kāla 'of ascertained place and time'; vyavahita 'separated, intervening' (alt. 'distant'). amitra-aṭavī-bala read as a dvandva (enemy troops and forest-tribe troops). dadyāt governs both objects.",
+  "new": "'taṃ vā ca-artham anyāṃś ca' has both vā and ca after tam; the grammar is doubtful (probably taṃ ca-artham anyāṃś ca, 'him, the object and others'); both particles are rendered literally as printed. 'tam' (him) = the recipient of the army. daṇḍa = army (Book 9 glossary). Troops: hereditary/hired/guild/ally/forest-tribe (9.2). upalabdha-deśa-kāla 'of ascertained place and time'; vyavahita 'separated, intervening' (alt. 'distant'). amitra-aṭavī-bala read as a dvandva (enemy troops and forest-tribe troops). dadyāt governs both objects. Alternative reading: tam agrees with artham ('that object'), giving 'accomplishes that object and others'; the vā is then stray. The Hindi/English 'him or—and—' follows the printed particles literally.",
+  "why": "reviewer (minor): Reading of tam as \"him\" is not safe; the demonstrative may go with artham. Hindi/English are literal but near-unreadable; keep low confidence"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "But [him] whom [one] might think, “One whose purpose is accomplished might take my army, or lodge [it] among enemies, in forests, on unsuitable ground or out of season, or make [it] fruitless,” him [one] should not favour, on the pretext of the army's engagement.",
+  "new": "But [him] whom [one] might think, “One whose purpose is accomplished might take my army, or lodge [it] among enemies, in forests, on unsuitable ground and out of season, or make [it] fruitless,” him [one] should not favour, on the pretext of the army's engagement.",
+  "why": "reviewer (error): The Sanskrit has only two vā (before vāsayet and after aphalam); the \"or\" inside the four-member dvandva is unmarked. A dvandva takes \"and\" (glossary 3.15)"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "किन्तु जिसके विषय में सोचे—“कृतार्थ मेरी सेना को ले ले, शत्रु, वन, अनुपयुक्त भूमि अथवा बेमौसम में बसा दे, अथवा निष्फल कर दे”—उस पर सेना के व्यासङ्ग के बहाने अनुग्रह न करे।",
+  "new": "किन्तु जिसके विषय में सोचे—“कृतार्थ मेरी सेना को ले ले, अथवा शत्रु, वन, अनुपयुक्त भूमि, बेमौसम में बसा दे, अथवा निष्फल कर दे”—उस पर सेना के व्यासङ्ग के बहाने अनुग्रह न करे।",
+  "why": "reviewer (minor): Hindi puts the first अथवा inside the dvandva list; English puts it before \"lodge\"; align (vā is postpositive in the second alternative; dvandva of three or more members takes commas only)"
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "Four ca/verb positions: ca after ā-samāpteḥ, after yodhayet, and after bala-vyasanebhyaḥ are all rendered 'and'.",
+  "new": "Three ca: after ā-samāpteḥ, after yodhayet and after bala-vyasanebhyaḥ, all rendered 'and'.",
+  "why": "reviewer (minor): notes say \"Four ca/verb positions\"; there are three ca"
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "apasrāvayet",
+  "old": "should cause to slip away",
+  "new": "should cause to flow away",
+  "why": "reviewer (error): \"slip away\" is an invented sense; notes themselves say literal \"cause to flow away\""
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "And [one] should cause [him] to slip away, with a pretext, from [the one] whose purpose is accomplished.",
+  "new": "And [one] should cause [him] to flow away, with a pretext, from [the one] whose purpose is accomplished.",
+  "why": "reviewer (error): literal sense of caus. apa-√sru"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "और कृतार्थ से बहाने सहित खिसकवाए।",
+  "new": "और कृतार्थ से बहाने सहित अपस्रावित कराए।",
+  "why": "reviewer (error): \"खिसकवाए\" (slip) is an invented sense; literal causative kept in Sanskrit-derived Hindi (बहाने-बहाए would pun with बहाना = pretext)"
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "अथवा यातव्य से सन्धि करके इसे छल ले।",
+  "new": "अथवा जिस पर चढ़ाई करनी हो उससे सन्धि करके इसे छल ले।",
+  "why": "reviewer (minor): Glossary (7.5): yātavya = जिस पर चढ़ाई करनी हो"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "क्योंकि समान लाभ में सन्धि हो, विषम में विक्रम माना गया है; सम, हीन, विशिष्ट के सन्धि और विक्रम कहे गए हैं।",
+  "new": "क्योंकि समान लाभ में सन्धि हो, विषम में आक्रमण माना गया है; ये सम, हीन, विशिष्ट के कहे गए सन्धि और आक्रमण हैं।",
+  "why": "reviewer (minor): vikrama = attack: English says \"attack\" but Hindi keeps विक्रम (7.6 and glossary use आक्रमण); closing \"ity uktāḥ sandhi-vikramāḥ\" is a summing-up line and takes \"Such are ...\" / \"ये ... हैं\" (glossary 3.7, 5.2) rather than being dropped"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "For in an equal gain there should be peace; in an unequal [one], attack is deemed [right]; peace and attacks have been stated for the equal, the inferior and the superior.",
+  "new": "For in an equal gain there should be peace; in an unequal [one], attack is deemed. Such are the peace and attacks stated for the equal, the inferior and the superior.",
+  "why": "reviewer (error): \"[right]\" is an invented supplied word; closing iti line rendered \"Such are\" per glossary"
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "Verse (two half-lines). The iti after sama-hīna-viśiṣṭānām closes the verse's statement and is glossed 'closing particle', not rendered. viṣame: the noun lābhe is understood. vikrama = attack (alt. 'prowess, valour').",
+  "new": "Verse (two half-lines). The closing 'ity uktāḥ sandhi-vikramāḥ' is a summing-up line, rendered 'Such are ...' (glossary), iti glossed 'closing particle'. viṣame: the noun lābhe is understood. vikrama = attack (alt. 'prowess, valour').",
+  "why": "reviewer (minor): notes say iti is not rendered"
+ }
+]
