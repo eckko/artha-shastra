@@ -1,0 +1,303 @@
+[
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "मार्ग का माप दुर्ग के बसाने में बताया जा चुका है।",
+  "new": "मार्ग के माप की व्याख्या दुर्ग के बसाने में की गई है।",
+  "why": "reviewer (minor): vyākhyātam is rendered 'explained' in English; Hindi must follow the fixed formula व्याख्या की गई (glossary 4.1, 3.6, 3.8), not बताया जा चुका."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "For one who obstructs the path of small animals and men, the fine is twelve paṇas; [for the] path of large animals, twenty-four paṇas; [for the] path of elephants and fields, fifty-four paṇas; [for the] path of embankments and woods, [a fine] of six hundred; [for the] path of cremation ground and village, of two hundred; [for the] path of the droṇa-mukha, of five hundred; [for the] path of provincial town, country and pasture, of a thousand.",
+  "new": "For one who obstructs the path of small animals and men, the penalty is twelve paṇas; [for the] path of large animals, twenty-four paṇas; [for the] path of elephants and fields, fifty-four paṇas; [for the] path of embankments and woods, [a fine] of six hundred; [for the] path of cremation ground and village, of two hundred; [for the] path of the droṇa-mukha, of five hundred; [for the] path of provincial town, country and pasture, of a thousand.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "For one who obstructs the path of small animals and men, the penalty is twelve paṇas; [for the] path of large animals, twenty-four paṇas; [for the] path of elephants and fields, fifty-four paṇas; [for the] path of embankments and woods, [a fine] of six hundred; [for the] path of cremation ground and village, of two hundred; [for the] path of the droṇa-mukha, of five hundred; [for the] path of provincial town, country and pasture, of a thousand.",
+  "new": "For one who obstructs the path of small animals and men, the penalty is twelve paṇas; [for the] path of large animals, twenty-four paṇas; [for the] path of elephants and fields, fifty-four paṇas; [for the] path of embankments and woods, [a penalty] of six hundred; [for the] path of cremation ground and village, of two hundred; [for the] path of the droṇa-mukha, of five hundred; [for the] path of provincial town, country and pasture, of a thousand.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "And in over-ploughing (ati-karṣaṇa) of these, the fines are a fourth of the fine.",
+  "new": "And in over-ploughing (ati-karṣaṇa) of these, the penalties are a fourth of the penalty.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "daṇḍa-caturthāḥ",
+  "old": "a fourth of the fine",
+  "new": "a fourth of the penalty",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "daṇḍāḥ",
+  "old": "fines",
+  "new": "penalties",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "For a field-holder who is not casting [seed], or who abandons the field of an upavāsa, at seed-time, the fine is twelve paṇas, except for faults, mishaps and what cannot be borne.",
+  "new": "For a field-holder who is not casting [seed], or who abandons the field of an upavāsa, at seed-time, the penalty is twelve paṇas, except for faults, mishaps and what cannot be borne.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "परन्तु कर देने वाले में प्रवेश करने वाले की सब वस्तुओं में इच्छा की स्वतन्त्रता हो, घर को छोड़कर।",
+  "new": "किन्तु कर देने वाले में प्रवेश करने वाले की सब वस्तुओं में इच्छा की स्वतन्त्रता हो, घर को छोड़कर।",
+  "why": "reviewer (minor): Glossary 3.7: a tu ('but') is rendered (But / किन्तु)."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "The upavāsas should follow in turn the village headman (grāmika) who is going on the interest of the village.",
+  "new": "The upavāsas should follow in turn the village headman (grāmika) who is going for the interest of the village.",
+  "why": "reviewer (minor): 'going on the interest' is not English; grāma-arthena = for the interest (प्रयोजन से)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "Those who do not follow should give a payment of paṇa-ardha-paṇika per yojana.",
+  "new": "Those who do not follow should give paṇa-ardha-paṇika per yojana.",
+  "why": "reviewer (error): Unmarked added noun 'a payment of' (the Sanskrit has only the obscure paṇa-ardha-paṇikam); Hindi has none."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "For a village headman who expels from the village one who is not a thief or an adulterer, the fine is twenty-four paṇas; for the village, the highest.",
+  "new": "For a village headman who expels from the village one who is not a thief or an adulterer, the penalty is twenty-four paṇas; for the village, the highest.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "खम्भों से ग्राम से चारों ओर सौ धनुष दूर उपसाल बनवाए।",
+  "new": "ग्राम से चारों ओर सौ धनुष दूर खम्भों से उपसाल बनवाए।",
+  "why": "reviewer (minor): Two 'से' in a row make the Hindi ambiguous (posts from the village?); reorder so that ग्राम से attaches to the distance and खम्भों से to the making."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "चरागाह को चरकर चले गए ऊँटों और भैंसों का चौथाई सिक्का लें; गायों, घोड़ों, गधों का आधा चौथाई; छोटे पशुओं का सोलहवें भाग वाला।",
+  "new": "चरागाह को चरकर चले गए ऊँटों और भैंसों का चौथाई सिक्का लें; गाय-बैलों, घोड़ों, गधों का आधा चौथाई; छोटे पशुओं का सोलहवें भाग वाला।",
+  "why": "reviewer (minor): gava (go) is glossed and translated 'cattle' in English; Hindi 'cows' narrows it."
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "bhakṣayitvā",
+  "old": "abs. caus. √bhakṣ",
+  "new": "abs. √bhakṣ (class 10)",
+  "why": "reviewer (error): bhakṣayati is a class-10 present, not a causative (glossary 4.9 on class-10 presents); 'caus.' is wrong."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "For those that, having eaten, have settled down, these very fines are doubled; for those staying around, fourfold.",
+  "new": "For those that, having eaten, have settled down, these very penalties are doubled; for those staying around, fourfold.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "daṇḍāḥ",
+  "old": "fines",
+  "new": "penalties",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "23",
+  "field": "word.gram",
+  "word": "bhakṣayitvā",
+  "old": "abs. caus. √bhakṣ",
+  "new": "abs. √bhakṣ (class 10)",
+  "why": "reviewer (error): bhakṣayati is a class-10 present, not a causative; 'caus.' is wrong."
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "go-vṛṣāḥ",
+  "old": "bulls of the herd",
+  "new": "cattle-bulls",
+  "why": "reviewer (minor): 'of the herd' is not in the text; literal go-vṛṣa = cattle-bull (the draft's own English and notes already say 'cattle-bulls')."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "Bulls of the village deity, or a milch cow whose ten days are not complete, oxen and cattle-bulls are not to be punished.",
+  "new": "Bulls of the village deity, or [one] whose ten days are not complete, or a milch cow, oxen and cattle-bulls are not to be punished.",
+  "why": "reviewer (error): The second vā (after anirdaśa-ahā) is dropped in both languages: 'X vā Y vā dhenuḥ' has three alternatives. Render both vā; anirdaśa-ahā stands as its own item (the reading in which it qualifies dhenuḥ goes to notes)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "ग्राम के देव-वृषभ, या जिसके दस दिन पूरे नहीं हुए ऐसी दुधारू गाय, बैल और गो-वृषभ दण्ड के अयोग्य हैं।",
+  "new": "ग्राम के देव-वृषभ, या जिसके दस दिन पूरे नहीं हुए, या दुधारू गाय, बैल और गो-वृषभ दण्ड के अयोग्य हैं।",
+  "why": "reviewer (error): Second vā not rendered; the merged relative clause 'ऐसी दुधारू गाय' decides a reading the Sanskrit does not mark."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "anirdaśa-ahā: literally 'whose ten days are not complete'; the event from which the days are counted (calving?) is not stated. grāma-deva-vṛṣa: 'bulls of the village deity' is a literal tat-puruṣa reading ('deity-bulls of the village' possible). The pairing 'vā ... vā' is kept as 'or ... or' only once in English.",
+  "new": "anirdaśa-ahā: literally 'whose ten days are not complete'; the event from which the days are counted (calving?) is not stated. grāma-deva-vṛṣa: 'bulls of the village deity' is a literal tat-puruṣa reading ('deity-bulls of the village' possible). The pairing 'vā ... vā' is kept as 'or ... or' only once in English. Alternative reading: anirdaśa-ahā qualifies dhenuḥ ('a milch cow whose ten days are not complete', one vā rendered); the translation keeps both vā as separate alternatives.",
+  "why": "reviewer (minor): Add reviewer note."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "फसल चरने पर, फसल की हानि को उपज के अनुसार गिनकर दुगुना दिलवाए।",
+  "new": "फसल चरने पर, फसल की हानि को उपज से गिनकर दुगुना दिलवाए।",
+  "why": "reviewer (minor): niṣpattitaḥ is 'from the yield'; 'के अनुसार' (according to) is an added sense."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "niṣpattitaḥ",
+  "old": "f. abl. sg. (-tas)",
+  "new": "ind. (-tas suffix, ablative sense)",
+  "why": "reviewer (minor): -tas is an adverbial suffix; 'f. abl. sg.' is not a real case form here."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "And for one who, without informing the owner, makes [them] graze, a fine of twelve paṇas; for one who lets [them] loose, of twenty-four paṇas.",
+  "new": "And for one who, without informing the owner, makes [them] graze, a penalty of twelve paṇas; for one who lets [them] loose, of twenty-four paṇas.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "For keepers, half fines.",
+  "new": "For keepers, half penalties.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "ardha-daṇḍāḥ",
+  "old": "half fines",
+  "new": "half penalties",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "किसान के ग्राम को स्वीकार करके कार्य न करने पर ग्राम ही अत्यय ले।",
+  "new": "किसान के ग्राम में आकर न करने पर ग्राम ही अत्यय ले।",
+  "why": "reviewer (error): Unbracketed added noun 'कार्य' (the notes say the object of akurvataḥ is not stated), and 'स्वीकार करके' ('accepting') disagrees with the English 'having come to' (abhyupetya, literal)."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "For not doing the work, double the pay for the work; for not giving money, double for each share; and for not giving food and drink at the prahavaṇas, he should give a double share.",
+  "new": "For not doing the work, double the pay for the work; for not giving money, double for each share; and for not giving food and drink at the prahavaṇas, [one] should give a double share.",
+  "why": "reviewer (minor): Unmarked subject 'he' for a subjectless dadyāt (glossary 4.9: '[one]', never 'he')."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "At a spectacle, one who gives no share — he, together with his own people, should not watch.",
+  "new": "At a spectacle, one who gives no share — together with his own people, should not watch.",
+  "why": "reviewer (minor): Added pronoun 'he': in the draft's own reading sa = 'with', so there is no separate 'he'."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "प्रेक्षा में अंश न देने वाला, वह अपने जनों सहित न देखे।",
+  "new": "प्रेक्षा में अंश न देने वाला, अपने जनों सहित न देखे।",
+  "why": "reviewer (minor): Added 'वह' for the same reason (sa = 'with', rendered by सहित)."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "For not doing [it], a fine of twelve paṇas.",
+  "new": "For not doing [it], a penalty of twelve paṇas.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "Or if, having combined, they strike him, separately for each of these, a fine double the offence.",
+  "new": "Or if, having combined, they strike him, separately for each of these, a penalty double the offence.",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness."
+ },
+ {
+  "n": "41",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): The placement of vā after sambhūya (linking back to unit 40 vs 'together or separately') is doubtful; medium is too firm."
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "Among the strikers, the distinguished [one].",
+  "new": "Among the strikers, the distinguished.",
+  "why": "reviewer (minor): Glossary 3.7: a bare adjective/participle gets no supplied noun in either language; '[one]' is a supplied noun."
+ },
+ {
+  "n": "44",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): 'na akāmāḥ kuryuḥ' admits opposite readings (do not act unwillingly / act not unwilling); the notes say so, so medium is too firm."
+ }
+]
