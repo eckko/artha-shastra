@@ -1,0 +1,499 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "“You and I settle the empty [place]” — such is the anavasita treaty.",
+  "new": "“Both you and I settle the empty [place]” — such is the anavasita treaty.",
+  "why": "reviewer (minor): tvaṃ ca … ahaṃ ca is ca…ca: glossary 7.5 gives English \"both … and\" (Hindi one और); ca-ca not both shown."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "niveśayāvahe",
+  "old": "1 du. pres. mid. caus. √viś",
+  "new": "1 du. pres. mid. caus. ni-√viś",
+  "why": "reviewer (minor): Root given without its prefix ni- (unit 32 has ni-√viś)."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "niveśayati",
+  "old": "3 sg. pres. caus. √viś",
+  "new": "3 sg. pres. caus. ni-√viś",
+  "why": "reviewer (minor): Root without prefix ni-; align with unit 32."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "atisandhatte",
+  "old": "3 sg. pres. mid. ati-√sandhā",
+  "new": "3 sg. pres. mid. ati-sam-√dhā",
+  "why": "reviewer (error): Wrong root: atisandhatte is ati-sam-√dhā; \"√sandhā\" is not a root."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "There too, “dry land or watery” — a small watery [one] is better than a large dry land, because of the continuity and the stability of the yields.",
+  "new": "There too, “dry land or watery” — a small watery [one] [is] better than a large dry land, because of the continuity and the stability of the fruits.",
+  "why": "reviewer (minor): Copula unbracketed (verbless śreyaḥ); phala = fruit per 7.4 glossary (\"phala (gain) = fruit\")."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "वहाँ भी “स्थल या जलीय” — बड़े स्थल से छोटा जलीय श्रेष्ठ है, फलों की निरन्तरता और स्थिरता के कारण।",
+  "new": "वहाँ भी “स्थल या जलीय” — बड़े स्थल से छोटा जलीय श्रेष्ठ, फलों की निरन्तरता और स्थिरता के कारण।",
+  "why": "reviewer (minor): Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "phalānām",
+  "old": "of the yields",
+  "new": "of the fruits",
+  "why": "reviewer (minor): phala = fruit (7.4 glossary), not \"yield\"."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "दो स्थलों में भी प्रचुर पूर्व और अपर सस्य वाला, अल्प वर्षा से पकने वाला, अबाध आरम्भ वाला श्रेष्ठ है।",
+  "new": "दो स्थलों में भी प्रचुर पूर्व और अपर सस्य वाला, अल्प वर्षा से पकने वाला, अबाध आरम्भ वाला श्रेष्ठ।",
+  "why": "reviewer (minor): Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जलीय दोनों में भी धान्य की बुवाई वाला अधान्य की बुवाई वाले से श्रेष्ठ है।",
+  "new": "जलीय दोनों में भी धान्य की बुआई वाला अधान्य की बुआई वाले से श्रेष्ठ।",
+  "why": "reviewer (minor): Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi. Also vāpa = sowing (बुआई) per glossary 7.14."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "उन दोनों में अल्पता और बहुलता के विषय में छोटे धान्य-कान्त से बड़ा अधान्य-कान्त श्रेष्ठ है।",
+  "new": "उन दोनों की अल्पता और बहुलता में छोटे धान्य-कान्त से बड़ा अधान्य-कान्त श्रेष्ठ।",
+  "why": "reviewer (minor): \"के विषय में\" is an added interpretive phrase for the locative alpa-bahutve; tayoḥ is genitive (\"of the two\"); copula per 7.9."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "sthālyāḥ",
+  "old": "sthālya (obscure; of dry land?)",
+  "new": "sthālya (obscure)",
+  "why": "reviewer (minor): Gloss guesses \"of dry land?\" for an obscure word; keep obscure words unglossed with the doubt in notes only."
+ },
+ {
+  "n": "7",
+  "field": "word.gram",
+  "word": "mahati",
+  "old": "n. loc. sg.",
+  "new": "m./n. loc. sg.",
+  "why": "reviewer (minor): mahati agrees with masculine avakāśe; label m./n. (as glossary 3.5 for sati)."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "For the qualities of land are artificial.",
+  "new": "For the qualities of land [are] artificial.",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "The printed \"kṛtrimā hi\" is the e-text's regular spelling of kṛtrimāḥ hi (visarga before h written as long ā; glossary 7.10), not flagged. kṛtrima: made, artificial (brought about by effort).",
+  "new": "The printed \"kṛtrimā hi\" is regular sandhi for kṛtrimāḥ hi (āḥ before a voiced consonant becomes ā; glossary 7.10), not flagged. kṛtrima: made, artificial (brought about by effort).",
+  "why": "reviewer (minor): Explanation is wrong: kṛtrimā hi is ordinary visarga sandhi, not an e-text habit."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Of the enjoyment of mines and the enjoyment of grain, the enjoyment of mines is the maker of the treasury; the enjoyment of grain is the maker of treasury, granary and storehouse.",
+  "new": "Of the enjoyment of mines and the enjoyment of grain, the enjoyment of mines [is] the maker of the treasury; the enjoyment of grain [is] the maker of treasury, granary and storehouse.",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "खनि और धान्य के भोग में खनि का भोग कोश बनाने वाला है; धान्य का भोग कोश, कोष्ठ और अगार बनाने वाला है।",
+  "new": "खनि और धान्य के भोग में खनि का भोग कोश बनाने वाला है; धान्य का भोग कोश, कोष्ठ, अगार बनाने वाला है।",
+  "why": "reviewer (error): Hindi list of 3 members takes commas only (the three are a compound without ca)."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "\"dhānya.mūlā hi\" is the regular e-text spelling of dhānya-mūlāḥ hi (glossary 7.10), not flagged. karma = works (glossary 7.1).",
+  "new": "\"dhānya.mūlā hi\" is regular sandhi for dhānya-mūlāḥ hi (āḥ before a voiced consonant becomes ā; glossary 7.10), not flagged. karma = works (glossary 7.1).",
+  "why": "reviewer (minor): Same wrong explanation as unit 9."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "बड़े देश की बिक्री या खनि का भोग श्रेष्ठ है।",
+  "new": "बड़े देश की बिक्री या खनि का भोग श्रेष्ठ।",
+  "why": "reviewer (minor): Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "“Of the enjoyment of produce forests and of elephant forests, the enjoyment of a produce forest is the source of all works and is capable of abundant storing; the enjoyment of an elephant forest is the reverse,” say the teachers.",
+  "new": "“Of the enjoyment of produce forests and of elephant forests, the enjoyment of a produce forest [is] the source of all works and [is] capable of abundant storing; the enjoyment of an elephant forest [is] the reverse,” say the teachers.",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "“द्रव्य-वन और हस्ति-वन के भोग में द्रव्य-वन का भोग सब कर्मों का स्रोत है और प्रचुर संचय में समर्थ है; हस्ति-वन का भोग विपरीत है” — ऐसा आचार्य कहते हैं।",
+  "new": "“द्रव्य-वन और हस्ति-वन के भोग में द्रव्य-वन का भोग सब कर्मों का स्रोत है और प्रचुर संचय में समर्थ है; हस्ति-वन का भोग विपरीत है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): Glossary 46 formula: “...,” ऐसा X कहते हैं। (comma inside the quote, no dash)."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "क्योंकि पर के सेना-दल का वध हाथी-प्रधान है।",
+  "new": "क्योंकि दूसरे के सेना-दल का वध हाथी-प्रधान है।",
+  "why": "reviewer (minor): Glossary 9.2: pare/para = the others (दूसरे); \"पर के\" is not Hindi usage for it."
+ },
+ {
+  "n": "16",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): The closing iti with no opening quotation is a real doubt (3.8 precedent: carried by quotation marks and flagged); confidence \"high\" is too firm."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "The closing iti closes the reason begun in unit 15 (Kautilya's reply); it has no opening quotation and is not rendered. para = the other (glossary 9.2: not \"enemy\"). anīka = division (glossary 10.6).",
+  "new": "The closing iti closes the reason begun in unit 15 (Kautilya's reply); it has no opening quotation and is not rendered. para = the other (glossary 9.2: not \"enemy\"). anīka = division (glossary 10.6). iti closes Kautilya's reason begun in unit 15 (after unit 14); compare glossary 3.8 (a closing iti with no opening quotation is carried by quotation marks); left unrendered here, a person should decide.",
+  "why": "reviewer (minor): Doubt not recorded."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "Of the enjoyment of the water-route and the enjoyment of the land-route, the enjoyment of the water-route is impermanent; the enjoyment of the land-route is permanent.",
+  "new": "Of the enjoyment of the water-route and the enjoyment of the land-route, the enjoyment of the water-route [is] impermanent; the enjoyment of the land-route [is] permanent.",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "“Land having broken men, or having guild men” — [the one] having broken men is better.",
+  "new": "“Land having broken men, or having guild men” — [the one] having broken men [is] better.",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "“भूमि टूटे हुए मनुष्यों वाली या श्रेणी के मनुष्यों वाली” — टूटे हुए मनुष्यों वाली श्रेष्ठ है।",
+  "new": "“भूमि टूटे हुए मनुष्यों वाली या श्रेणी के मनुष्यों वाली” — टूटे हुए मनुष्यों वाली श्रेष्ठ।",
+  "why": "reviewer (minor): Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "[Land] having guild men is the reverse; in a revolt [it is] of great defects.",
+  "new": "[Land] having guild men [is] the reverse; in a revolt [it is] of great defects.",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "In that [land], in the settlement of the four varṇas, [land] mostly of the lower varṇas is better, from bearing every enjoyment; [land] having cultivators [is better], from the abundance and stability of agriculture; [land] having cow-keepers [is better], from being the promoter both of agriculture and of other undertakings; [land] having rich merchants [is better], from the favour of stocks of wares and of loans.",
+  "new": "In that [land], in the settlement of the four varṇas, [land] mostly of the lower varṇas [is] better, from bearing every enjoyment; [land] having cultivators [is better], from the abundance and stability of agriculture; [land] having cow-keepers [is better], from being the promoter both of agriculture and of other undertakings; [land] having rich merchants [is better], from the favour of stocks of wares and of loans.",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "उसमें चातुर्वर्ण्य के निवेश में सब भोग सहने के कारण प्रायः निम्न वर्णों वाली श्रेष्ठ है; खेती की बहुलता और स्थिरता के कारण किसानों वाली; खेती और अन्य आरम्भों की प्रेरक होने के कारण गो-रक्षकों वाली; पण्य के संचय और ऋण के अनुग्रह के कारण धनी वणिकों वाली।",
+  "new": "उसमें चातुर्वर्ण्य के निवेश में सब भोग सहने के कारण प्रायः निम्न वर्णों वाली श्रेष्ठ; खेती की बहुलता और स्थिरता के कारण किसानों वाली; खेती और अन्य आरम्भों की प्रेरक होने के कारण गो-रक्षकों वाली; पण्य के संचय और ऋण के अनुग्रह के कारण धनी वणिकों वाली।",
+  "why": "reviewer (minor): Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi."
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "anyeṣām",
+  "old": "n. gen. pl.",
+  "new": "m./n. gen. pl.",
+  "why": "reviewer (minor): Agrees with masculine ārambhāṇām; \"n.\" alone is wrong."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "भूमि के गुणों में अपाश्रय श्रेष्ठ है।",
+  "new": "भूमि के गुणों में आश्रय श्रेष्ठ।",
+  "why": "reviewer (minor): Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi. apāśraya = refuge (आश्रय) per glossary 7.12."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Of the qualities of land, the support (apāśraya) [is] better.",
+  "new": "Of the qualities of land, the refuge [is] better.",
+  "why": "reviewer (minor): Glossary 7.12: apāśraya = refuge (आश्रय), not kept as a term."
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "apāśrayaḥ",
+  "old": "support (apāśraya)",
+  "new": "refuge",
+  "why": "reviewer (minor): Align with glossary 7.12."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "apāśraya (apa-āśraya) = support, refuge, what one leans on; the following unit compares land supported by forts with land supported by men. The sentence may also mean \"support is the better of the qualities of land\". The term is kept in both languages.",
+  "new": "apāśraya (apa-āśraya) = support, refuge, what one leans on; the following unit compares land supported by forts with land supported by men. The sentence may also mean \"support is the better of the qualities of land\". Rendered \"refuge\" (glossary 7.12).",
+  "why": "reviewer (minor): Align note."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "“Land having the fort as its support, or having men as its support” — [the one] having men as its support is better.",
+  "new": "“Land having the fort as its refuge, or having men as its refuge” — [the one] having men as its refuge [is] better.",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here. Also apāśraya = refuge (glossary 7.12)."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "“भूमि दुर्ग के अपाश्रय वाली या पुरुषों के अपाश्रय वाली” — पुरुषों के अपाश्रय वाली श्रेष्ठ है।",
+  "new": "“भूमि दुर्ग के आश्रय वाली या पुरुषों के आश्रय वाली” — पुरुषों के आश्रय वाली श्रेष्ठ।",
+  "why": "reviewer (minor): Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi. apāśraya = refuge (आश्रय) per glossary 7.12."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "durga-apāśrayā",
+  "old": "having the fort as support",
+  "new": "having the fort as refuge",
+  "why": "reviewer (minor): Align with 7.12."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "For a kingdom is one possessing men.",
+  "new": "For a kingdom [is] possessing men.",
+  "why": "reviewer (minor): \"is one possessing\" adds an unbracketed \"one\" and an unbracketed copula."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "puruṣavat may be possessive \"having men\" (taken here, the sense of unit 25) or comparative \"like a man\" (a kingdom is like a man). \"puruṣavad dhi\" has the e-text's doubled consonant before h, not flagged.",
+  "new": "puruṣavat may be possessive \"having men\" (taken here, the sense of unit 25) or comparative \"like a man\" (a kingdom is like a man). \"puruṣavad dhi\" is regular sandhi (t + h becomes d dh), not flagged.",
+  "why": "reviewer (minor): Not an e-text habit but ordinary sandhi."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "A cow without a man is barren indeed; what would [one] milk?",
+  "new": "A cow without a man [is] barren indeed; what would [one] milk?",
+  "why": "reviewer (minor): Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "But one desiring to obtain land whose settlement involves great loss and expenditure should first indeed strike a bargain with a buyer [who is] weak, not of royal seed, without energy, without a party, of unjust conduct, afflicted (vyasanin), taking the divine as authority, or doing anything whatever.",
+  "new": "But one desiring to obtain land whose settlement involves great loss and expenditure should first indeed strike a bargain with a buyer [who is] weak, not of royal seed, without energy, without a party, of unjust conduct, given to vice (vyasana), taking the divine as authority, or doing anything whatever.",
+  "why": "reviewer (minor): vyasanin in a list of the buyer's character faults (beside unjust conduct, fatalism) = given to vice (glossary 4.6, 7.6, 8.3); 3.11 \"afflicted\" is only for the exception list. Unit 33 (explained by the unjust-conduct case) fits \"given to vice\"."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "vyasaninam",
+  "old": "afflicted (vyasanin)",
+  "new": "given to vice",
+  "why": "reviewer (minor): Same: align gloss."
+ },
+ {
+  "n": "26",
+  "field": "notes",
+  "old": "paṇ = strike a bargain (glossary 7.7). arāja-bījin: bījin = \"of seed/descent\", so \"not of royal descent\"; kept literal. vyasanin: \"afflicted\" (glossary 3.11); \"given to vice\" is possible (4.6). daiva-pramāṇa: \"taking fate/the divine as the authority\". kṣaya = loss, vyaya = expenditure (glossary 9.4). The list of adjectives has only the final vā.",
+  "new": "paṇ = strike a bargain (glossary 7.7). arāja-bījin: bījin = \"of seed/descent\", so \"not of royal descent\"; kept literal. vyasanin: \"given to vice\" (glossary 4.6; personal faults 7.6, 8.3); \"afflicted\" (3.11, exception list) is possible. daiva-pramāṇa: \"taking fate/the divine as the authority\". kṣaya = loss, vyaya = expenditure (glossary 9.4). The list of adjectives has only the final vā.",
+  "why": "reviewer (minor): Align note."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "किन्तु महान् क्षय और व्यय वाली बसावट की भूमि को पाने की इच्छा वाला पहले ही दुर्बल, राज-बीज से रहित, उत्साहहीन, पक्षहीन, अन्याय आचरण वाले, व्यसन वाले, दैव को प्रमाण मानने वाले अथवा जो कुछ भी करने वाले क्रेता से सौदा करे।",
+  "new": "किन्तु महान् क्षय और व्यय वाली बसावट की भूमि को पाने की इच्छा वाला पहले ही दुर्बल, राज-बीज से रहित, उत्साहहीन, पक्षहीन, अन्यायपूर्ण आचरण वाले, व्यसन वाले, दैव को प्रमाण मानने वाले अथवा जो कुछ भी करने वाले क्रेता से सौदा करे।",
+  "why": "reviewer (minor): Glossary 7.5: anyāya-vṛtti = अन्यायपूर्ण आचरण वाला."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "किन्तु महान् क्षय और व्यय वाली बसावट की भूमि को पाने की इच्छा वाला पहले ही दुर्बल, राज-बीज से रहित, उत्साहहीन, पक्षहीन, अन्यायपूर्ण आचरण वाले, व्यसन वाले, दैव को प्रमाण मानने वाले अथवा जो कुछ भी करने वाले क्रेता से सौदा करे।",
+  "new": "किन्तु महान् क्षय और व्यय वाली बसावट की भूमि को पाने की इच्छा वाला पहले ही दुर्बल, राज-बीज से रहित, उत्साहहीन, पक्षहीन, अन्यायपूर्ण आचरण वाले, व्यसन वाले, दैव को प्रमाण मानने वाले अथवा जो कुछ करने वाले क्रेता से सौदा करे।",
+  "why": "reviewer (error): भी added: yat-kiñcana has no api."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "क्योंकि महान् क्षय और व्यय वाली बसावट की भूमि में बसा हुआ दुर्बल राज-बीजी सगन्ध प्रकृतियों के साथ क्षय और व्यय से डूबता है।",
+  "new": "क्योंकि महान् क्षय और व्यय वाली बसावट की भूमि में बसा हुआ दुर्बल राज-बीज वाला सगन्ध प्रकृतियों के साथ क्षय और व्यय से डूबता है।",
+  "why": "reviewer (minor): Same word rendered differently in 26 (राज-बीज से रहित), 27 and 28; use one Hindi form."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "बलवान् अराज-बीजी क्षय और व्यय के भय से असगन्ध प्रकृतियों द्वारा त्याग दिया जाता है।",
+  "new": "बलवान् राज-बीज से रहित क्षय और व्यय के भय से असगन्ध प्रकृतियों द्वारा त्याग दिया जाता है।",
+  "why": "reviewer (minor): Align with unit 26."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "कोश वाला भी, पक्षहीन, क्षय और व्यय में अनुग्रह से रहित होने के कारण, कहीं से भी प्राप्त नहीं करता।",
+  "new": "कोश वाला भी, पक्षहीन, क्षय और व्यय में अनुग्रह से रहित होने के कारण, कहीं से प्राप्त नहीं करता।",
+  "why": "reviewer (error): भी added; kutaścit has no api."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "अन्याय आचरण वाला बसे हुए को भी उठवाए।",
+  "new": "अन्यायपूर्ण आचरण वाला बसे हुए को भी उठवाए।",
+  "why": "reviewer (minor): Glossary 7.5 form."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "By that, the afflicted (vyasanin) is explained.",
+  "new": "By that, the one given to vice is explained.",
+  "why": "reviewer (minor): Align with unit 26 (given to vice); \"(vyasana)\" is given once, in unit 26."
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "vyasanī",
+  "old": "afflicted (vyasanin)",
+  "new": "given to vice",
+  "why": "reviewer (minor): Align gloss."
+ },
+ {
+  "n": "33",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): Rests on the vyasanin choice."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "जो कुछ भी करने वाला कुछ प्राप्त नहीं करता।",
+  "new": "जो कुछ करने वाला कुछ प्राप्त नहीं करता।",
+  "why": "reviewer (error): भी added without api."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "“क्योंकि जो कुछ भी आरम्भ करने वाला विजिगीषु का कभी छिद्र पा सकता है” — ऐसा आचार्य कहते हैं।",
+  "new": "“क्योंकि जो कुछ आरम्भ करने वाला विजिगीषु का कभी छिद्र पा सकता है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (error): भी added without api; formula (glossary 46) has the comma inside the quote and no dash."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "“जैसे छिद्र, वैसे विनाश भी पा सकता है” — ऐसा कौटिल्य कहते हैं।",
+  "new": "“जैसे छिद्र, वैसे विनाश भी पा सकता है,” ऐसा कौटिल्य कहते हैं।",
+  "why": "reviewer (minor): Glossary 46 formula: comma inside the quote, no dash."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "“As [he may find] a weak point, so he may find even destruction,” says Kautilya.",
+  "new": "“As [he may find] a weak point, so [he] may find even destruction,” says Kautilya.",
+  "why": "reviewer (minor): \"he\" is not in the Sanskrit (3 sg. opt. only); supplied pronoun must be bracketed."
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "उनके अलाभ में, जैसे पार्ष्णिग्राह के सहारे के विषय में कहेंगे, वैसे भूमि को स्थापित करे।",
+  "new": "उनकी अप्राप्ति में, जैसे पार्ष्णिग्राह के सहारे के विषय में कहेंगे, वैसे भूमि को स्थापित करे।",
+  "why": "reviewer (minor): Glossary 7.10: alābha = non-obtaining (अप्राप्ति)."
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "In the non-obtaining of them, as we shall state in the support (upagraha) of the heel-seizer, so he should establish the land.",
+  "new": "In the non-obtaining of them, as we shall state in the support (upagraha) of the heel-seizer, so [he] should establish the land.",
+  "why": "reviewer (minor): Supplied \"he\" must be bracketed."
+ },
+ {
+  "n": "41",
+  "field": "english",
+  "old": "Asked by a strong one, by purchase, for land possessing qualities or acceptable, [he] should give [it], having established a treaty.",
+  "new": "Asked by a strong one, by purchase, for land possessing qualities or acceptable, [he] should give [it], having established peace.",
+  "why": "reviewer (error): Bare sandhi = peace (glossary 7.3 and the task convention); \"treaty\" only inside named kinds. (Units 40/42 labels stay treaty.)"
+ },
+ {
+  "n": "41",
+  "field": "word.gloss",
+  "word": "sandhim",
+  "old": "treaty",
+  "new": "peace",
+  "why": "reviewer (error): Align gloss with bare sandhi = peace."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "Subject unstated (\"[he]\"), the owner of the land. ādeya = acceptable (glossary 9.4). krayeṇa: \"by purchase / as a purchase\". sandhi = treaty as in the chapter.",
+  "new": "Subject unstated (\"[he]\"), the owner of the land. ādeya = acceptable (glossary 9.4). krayeṇa: \"by purchase / as a purchase\". bare sandhi = peace (glossary 7.3); \"treaty\" is possible here, a person should decide.",
+  "why": "reviewer (minor): Align note."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "गुणवती अथवा आदेय भूमि के लिए बलवान् द्वारा क्रय के रूप में माँगा गया, सन्धि स्थापित करके दे।",
+  "new": "गुणवती अथवा आदेय भूमि के लिए बलवान् द्वारा क्रय से माँगा गया, सन्धि स्थापित करके दे।",
+  "why": "reviewer (minor): \"के रूप में\" (as) is added; krayeṇa is a plain instrumental."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "अथवा बराबर वाले द्वारा माँगा गया, कारण पर विचार करके दे — “मेरे द्वारा भूमि वापस ली जा सकती है अथवा वश में है; इससे बँधा हुआ दूसरा मेरे वश में होगा; अथवा भूमि की बिक्री से मित्र और धन का लाभ मेरे कार्य की सामर्थ्य करने वाला होगा।”",
+  "new": "अथवा बराबर वाले द्वारा माँगा गया, कारण पर विचार करके दे — “मेरे द्वारा भूमि प्रत्यादेय है अथवा वश में है; इससे बँधा हुआ दूसरा मेरे वश में होगा; अथवा भूमि की बिक्री से मित्र और धन का लाभ मेरे कार्य की सामर्थ्य करने वाला होगा।”",
+  "why": "reviewer (minor): Glossary 9.4/7.10: pratyādeya is kept as a term (प्रत्यादेय), as ādeya is in unit 41."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "अथवा बराबर वाले द्वारा माँगा गया, कारण पर विचार करके दे — “मेरे द्वारा भूमि प्रत्यादेय है अथवा वश में है; इससे बँधा हुआ दूसरा मेरे वश में होगा; अथवा भूमि की बिक्री से मित्र और धन का लाभ मेरे कार्य की सामर्थ्य करने वाला होगा।”",
+  "new": "अथवा बराबर वाले द्वारा माँगा गया, कारण पर विचार करके दे — “मेरे द्वारा भूमि प्रत्यादेय है अथवा वश में है; इससे बँधा हुआ दूसरा मेरे वश में होगा; अथवा भूमि की बिक्री से मित्र और धन का लाभ मेरे लिए कार्य की सामर्थ्य करने वाला होगा।”",
+  "why": "reviewer (minor): \"me\" is dative/genitive with bhaviṣyati (\"for me\"), not attached to kārya; \"मेरे कार्य\" misattaches it."
+ },
+ {
+  "n": "43",
+  "field": "word.gloss",
+  "word": "vaśyaḥ",
+  "old": "subject",
+  "new": "under control",
+  "why": "reviewer (minor): Glossary 7.9: vaśya = controlled; the draft glosses vaśyā \"under control\" but vaśyaḥ \"subject\"."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Or, asked by an equal, having considered the reason, [he] should give — “The land is retakable by me, or under control; another, bound by this, will become subject to me; or, from the sale of land, the gain of an ally and money, producing capability for the task, will be mine.”",
+  "new": "Or, asked by an equal, having considered the reason, [he] should give — “The land is retakable by me, or under control; another, bound by this, will come under my control; or, from the sale of land, the gain of an ally and money, producing capability for the task, will be mine.”",
+  "why": "reviewer (minor): Align with vaśyā \"under control\" in the same quotation (7.9 vaśya = controlled)."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "In this way, obtaining an ally and money, and land peopled and unpeopled, the knower of the treatise outwits the associates.",
+  "new": "In this way, obtaining an ally and money, land with people and without people, the knower of the treatise outwits the associates.",
+  "why": "reviewer (error): The second \"and\" has no ca in the Sanskrit (two ca: mitraṃ hiraṇyaṃ ca; sajanām ajanāṃ ca); unbracketed addition."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "इस प्रकार मित्र और धन को, और जन-सहित और जन-रहित भूमि को पाता हुआ शास्त्र का ज्ञाता सामवायिकों को छल लेता है।",
+  "new": "इस प्रकार मित्र और धन को, जन-सहित और जन-रहित भूमि को पाता हुआ शास्त्र का ज्ञाता सामवायिकों को छल लेता है।",
+  "why": "reviewer (error): Added और with no ca."
+ },
+ {
+  "n": "45",
+  "field": "word.gram",
+  "word": "atisandhatte",
+  "old": "3 sg. pres. mid. ati-√sandhā",
+  "new": "3 sg. pres. mid. ati-sam-√dhā",
+  "why": "reviewer (error): Wrong root (see unit 2)."
+ }
+]

@@ -1,0 +1,1238 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "“You and I settle",
+     "problem": "tvaṃ ca … ahaṃ ca is ca…ca: glossary 7.5 gives English \"both … and\" (Hindi one और); ca-ca not both shown.",
+     "fix": "“Both you and I",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "“You and I",
+      "new": "“Both you and I"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "niveśayāvahe",
+     "problem": "Root given without its prefix ni- (unit 32 has ni-√viś).",
+     "fix": "1 du. pres. mid. caus. ni-√viś",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "niveśayāvahe",
+      "field": "gram",
+      "value": "1 du. pres. mid. caus. ni-√viś"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "niveśayati",
+     "problem": "Root without prefix ni-; align with unit 32.",
+     "fix": "3 sg. pres. caus. ni-√viś",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "niveśayati",
+      "field": "gram",
+      "value": "3 sg. pres. caus. ni-√viś"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "atisandhatte",
+     "problem": "Wrong root: atisandhatte is ati-sam-√dhā; \"√sandhā\" is not a root.",
+     "fix": "3 sg. pres. mid. ati-sam-√dhā",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "atisandhatte",
+      "field": "gram",
+      "value": "3 sg. pres. mid. ati-sam-√dhā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "English",
+     "problem": "Copula unbracketed (verbless śreyaḥ); phala = fruit per 7.4 glossary (\"phala (gain) = fruit\").",
+     "fix": "There too, “dry land or watery” — a small watery [one] [is] better than a large dry land, because of the continuity and the stability of the fruits.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "english",
+      "value": "There too, “dry land or watery” — a small watery [one] [is] better than a large dry land, because of the continuity and the stability of the fruits."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi.",
+     "fix": "वहाँ भी “स्थल या जलीय” — बड़े स्थल से छोटा जलीय श्रेष्ठ, फलों की निरन्तरता और स्थिरता के कारण।",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "hindi",
+      "value": "वहाँ भी “स्थल या जलीय” — बड़े स्थल से छोटा जलीय श्रेष्ठ, फलों की निरन्तरता और स्थिरता के कारण।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "phalānām",
+     "problem": "phala = fruit (7.4 glossary), not \"yield\".",
+     "fix": "of the fruits",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "phalānām",
+      "field": "gloss",
+      "value": "of the fruits"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi.",
+     "fix": "दो स्थलों में भी प्रचुर पूर्व और अपर सस्य वाला, अल्प वर्षा से पकने वाला, अबाध आरम्भ वाला श्रेष्ठ।",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "hindi",
+      "value": "दो स्थलों में भी प्रचुर पूर्व और अपर सस्य वाला, अल्प वर्षा से पकने वाला, अबाध आरम्भ वाला श्रेष्ठ।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi. Also vāpa = sowing (बुआई) per glossary 7.14.",
+     "fix": "जलीय दोनों में भी धान्य की बुआई वाला अधान्य की बुआई वाले से श्रेष्ठ।",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "hindi",
+      "value": "जलीय दोनों में भी धान्य की बुआई वाला अधान्य की बुआई वाले से श्रेष्ठ।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "\"के विषय में\" is an added interpretive phrase for the locative alpa-bahutve; tayoḥ is genitive (\"of the two\"); copula per 7.9.",
+     "fix": "उन दोनों की अल्पता और बहुलता में छोटे धान्य-कान्त से बड़ा अधान्य-कान्त श्रेष्ठ।",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "set",
+      "field": "hindi",
+      "value": "उन दोनों की अल्पता और बहुलता में छोटे धान्य-कान्त से बड़ा अधान्य-कान्त श्रेष्ठ।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sthālyāḥ",
+     "problem": "Gloss guesses \"of dry land?\" for an obscure word; keep obscure words unglossed with the doubt in notes only.",
+     "fix": "sthālya (obscure)",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "sthālyāḥ",
+      "field": "gloss",
+      "value": "sthālya (obscure)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mahati",
+     "problem": "mahati agrees with masculine avakāśe; label m./n. (as glossary 3.5 for sati).",
+     "fix": "m./n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "mahati",
+      "field": "gram",
+      "value": "m./n. loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prabhūtyena",
+     "problem": "prabhūtya is not a known dictionary word (the abstract of prabhūta is prābhūtya \"abundance\"); the draft explains it by a form it had to assume instead of recording a possible slip (low certainty). HAND EDIT: add text_flag {src:\"prabhūtyena\", suggest:\"prābhūtyena\", why:\"possible: prabhūtya is not attested, prābhūtya = abundance\"} and read w prābhūtyena (no patch: word-split edit).",
+     "fix": "hand edit, see problem",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "are artificial",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here.",
+     "fix": "[are] artificial",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "are artificial",
+      "new": "[are] artificial"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Explanation is wrong: kṛtrimā hi is ordinary visarga sandhi, not an e-text habit.",
+     "fix": "is regular sandhi for kṛtrimāḥ hi (āḥ before a voiced consonant becomes ā; glossary 7.10)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "notes",
+      "old": "is the e-text's regular spelling of kṛtrimāḥ hi (visarga before h written as long ā; glossary 7.10)",
+      "new": "is regular sandhi for kṛtrimāḥ hi (āḥ before a voiced consonant becomes ā; glossary 7.10)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "English",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here.",
+     "fix": "Of the enjoyment of mines and the enjoyment of grain, the enjoyment of mines [is] the maker of the treasury; the enjoyment of grain [is] the maker of treasury, granary and storehouse.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "english",
+      "value": "Of the enjoyment of mines and the enjoyment of grain, the enjoyment of mines [is] the maker of the treasury; the enjoyment of grain [is] the maker of treasury, granary and storehouse."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कोश, कोष्ठ और अगार",
+     "problem": "Hindi list of 3 members takes commas only (the three are a compound without ca).",
+     "fix": "कोश, कोष्ठ, अगार बनाने वाला",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कोश, कोष्ठ और अगार बनाने वाला",
+      "new": "कोश, कोष्ठ, अगार बनाने वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Same wrong explanation as unit 9.",
+     "fix": "\"dhānya.mūlā hi\" is regular sandhi for dhānya-mūlāḥ hi (āḥ before a voiced consonant becomes ā; glossary 7.10)",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "notes",
+      "old": "\"dhānya.mūlā hi\" is the regular e-text spelling of dhānya-mūlāḥ hi (glossary 7.10)",
+      "new": "\"dhānya.mūlā hi\" is regular sandhi for dhānya-mūlāḥ hi (āḥ before a voiced consonant becomes ā; glossary 7.10)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi.",
+     "fix": "बड़े देश की बिक्री या खनि का भोग श्रेष्ठ।",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "set",
+      "field": "hindi",
+      "value": "बड़े देश की बिक्री या खनि का भोग श्रेष्ठ।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "English",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here.",
+     "fix": "“Of the enjoyment of produce forests and of elephant forests, the enjoyment of a produce forest [is] the source of all works and [is] capable of abundant storing; the enjoyment of an elephant forest [is] the reverse,” say the teachers.",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "english",
+      "value": "“Of the enjoyment of produce forests and of elephant forests, the enjoyment of a produce forest [is] the source of all works and [is] capable of abundant storing; the enjoyment of an elephant forest [is] the reverse,” say the teachers."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Glossary 46 formula: “...,” ऐसा X कहते हैं। (comma inside the quote, no dash).",
+     "fix": "“द्रव्य-वन और हस्ति-वन के भोग में द्रव्य-वन का भोग सब कर्मों का स्रोत है और प्रचुर संचय में समर्थ है; हस्ति-वन का भोग विपरीत है,” ऐसा आचार्य कहते हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "set",
+      "field": "hindi",
+      "value": "“द्रव्य-वन और हस्ति-वन के भोग में द्रव्य-वन का भोग सब कर्मों का स्रोत है और प्रचुर संचय में समर्थ है; हस्ति-वन का भोग विपरीत है,” ऐसा आचार्य कहते हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पर के सेना-दल",
+     "problem": "Glossary 9.2: pare/para = the others (दूसरे); \"पर के\" is not Hindi usage for it.",
+     "fix": "दूसरे के",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पर के",
+      "new": "दूसरे के"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "The closing iti with no opening quotation is a real doubt (3.8 precedent: carried by quotation marks and flagged); confidence \"high\" is too firm.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Doubt not recorded.",
+     "fix": "iti closes Kautilya's reason that begins in unit 15 (after \"na iti kauṭilyaḥ\"); compare glossary 3.8 (closing iti without an opening quotation); left unrendered here, a person should decide.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "append_note",
+      "text": "iti closes Kautilya's reason begun in unit 15 (after unit 14); compare glossary 3.8 (a closing iti with no opening quotation is carried by quotation marks); left unrendered here, a person should decide."
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "English",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here.",
+     "fix": "Of the enjoyment of the water-route and the enjoyment of the land-route, the enjoyment of the water-route [is] impermanent; the enjoyment of the land-route [is] permanent.",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "english",
+      "value": "Of the enjoyment of the water-route and the enjoyment of the land-route, the enjoyment of the water-route [is] impermanent; the enjoyment of the land-route [is] permanent."
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is better",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here.",
+     "fix": "having broken men [is] better.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "having broken men is better.",
+      "new": "having broken men [is] better."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "श्रेष्ठ है",
+     "problem": "Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi.",
+     "fix": "श्रेष्ठ।",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्रेष्ठ है।",
+      "new": "श्रेष्ठ।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is the reverse",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here.",
+     "fix": "having guild men [is] the reverse",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "having guild men is the reverse",
+      "new": "having guild men [is] the reverse"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is better",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here.",
+     "fix": "mostly of the lower varṇas [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "mostly of the lower varṇas is better",
+      "new": "mostly of the lower varṇas [is] better"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "श्रेष्ठ है",
+     "problem": "Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi.",
+     "fix": "श्रेष्ठ;",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्रेष्ठ है;",
+      "new": "श्रेष्ठ;"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "anyeṣām",
+     "problem": "Agrees with masculine ārambhāṇām; \"n.\" alone is wrong.",
+     "fix": "m./n. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "anyeṣām",
+      "field": "gram",
+      "value": "m./n. gen. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi. apāśraya = refuge (आश्रय) per glossary 7.12.",
+     "fix": "भूमि के गुणों में आश्रय श्रेष्ठ।",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "hindi",
+      "value": "भूमि के गुणों में आश्रय श्रेष्ठ।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "support (apāśraya)",
+     "problem": "Glossary 7.12: apāśraya = refuge (आश्रय), not kept as a term.",
+     "fix": "the refuge [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "the support (apāśraya) [is] better",
+      "new": "the refuge [is] better"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "apāśrayaḥ",
+     "problem": "Align with glossary 7.12.",
+     "fix": "refuge",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "apāśrayaḥ",
+      "field": "gloss",
+      "value": "refuge"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Align note.",
+     "fix": "Rendered \"refuge\" (glossary 7.12).",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "notes",
+      "old": "The term is kept in both languages.",
+      "new": "Rendered \"refuge\" (glossary 7.12)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "English",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here. Also apāśraya = refuge (glossary 7.12).",
+     "fix": "“Land having the fort as its refuge, or having men as its refuge” — [the one] having men as its refuge [is] better.",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "english",
+      "value": "“Land having the fort as its refuge, or having men as its refuge” — [the one] having men as its refuge [is] better."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Glossary 7.9: a verbless 'Z śreyaḥ' has the copula bracketed in English only, none in Hindi. apāśraya = refuge (आश्रय) per glossary 7.12.",
+     "fix": "“भूमि दुर्ग के आश्रय वाली या पुरुषों के आश्रय वाली” — पुरुषों के आश्रय वाली श्रेष्ठ।",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "hindi",
+      "value": "“भूमि दुर्ग के आश्रय वाली या पुरुषों के आश्रय वाली” — पुरुषों के आश्रय वाली श्रेष्ठ।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "durga-apāśrayā",
+     "problem": "Align with 7.12.",
+     "fix": "having the fort as refuge",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "durga-apāśrayā",
+      "field": "gloss",
+      "value": "having the fort as refuge"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "puruṣa-apāśrayā (two entries)",
+     "problem": "Two identical w entries, so no match_w patch: HAND EDIT gloss of both to \"having men as refuge\" (7.12 apāśraya = refuge).",
+     "fix": "hand edit, see problem",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "English",
+     "problem": "\"is one possessing\" adds an unbracketed \"one\" and an unbracketed copula.",
+     "fix": "For a kingdom [is] possessing men.",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "set",
+      "field": "english",
+      "value": "For a kingdom [is] possessing men."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Not an e-text habit but ordinary sandhi.",
+     "fix": "\"puruṣavad dhi\" is regular sandhi (t + h becomes d dh), not flagged.",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "notes",
+      "old": "\"puruṣavad dhi\" has the e-text's doubled consonant before h, not flagged.",
+      "new": "\"puruṣavad dhi\" is regular sandhi (t + h becomes d dh), not flagged."
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is barren",
+     "problem": "Verbless Sanskrit: the supplied English copula must be bracketed (7.9 line: Z [is] better; 3.7 verbless rule); the draft brackets it in units 4,5,6,12,22 but not here.",
+     "fix": "A cow without a man [is] barren indeed",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "english",
+      "old": "A cow without a man is barren indeed",
+      "new": "A cow without a man [is] barren indeed"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vandhy",
+     "problem": "Suggest field is muddled: vandhyā + eva gives vandhyaiva, so the printed \"vandhy eva\" is a slip for \"vandhyaiva\" (ā + e gives ai). HAND EDIT: set the flag suggest to \"vandhyaiva\" and why \"possible: vandhyā + eva = vandhyaiva; printed vandhy eva cannot come from vandhyā\" (w stays vandhyā, eva).",
+     "fix": "hand edit, see problem",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "afflicted (vyasanin)",
+     "problem": "vyasanin in a list of the buyer's character faults (beside unjust conduct, fatalism) = given to vice (glossary 4.6, 7.6, 8.3); 3.11 \"afflicted\" is only for the exception list. Unit 33 (explained by the unjust-conduct case) fits \"given to vice\".",
+     "fix": "given to vice (vyasana)",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "afflicted (vyasanin)",
+      "new": "given to vice (vyasana)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyasaninam",
+     "problem": "Same: align gloss.",
+     "fix": "given to vice",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "vyasaninam",
+      "field": "gloss",
+      "value": "given to vice"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Align note.",
+     "fix": "vyasanin: \"given to vice\" (glossary 4.6; personal faults 7.6, 8.3); \"afflicted\" (3.11, exception list) is possible.",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "notes",
+      "old": "vyasanin: \"afflicted\" (glossary 3.11); \"given to vice\" is possible (4.6).",
+      "new": "vyasanin: \"given to vice\" (glossary 4.6; personal faults 7.6, 8.3); \"afflicted\" (3.11, exception list) is possible."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अन्याय आचरण वाले",
+     "problem": "Glossary 7.5: anyāya-vṛtti = अन्यायपूर्ण आचरण वाला.",
+     "fix": "अन्यायपूर्ण आचरण वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्याय आचरण वाले",
+      "new": "अन्यायपूर्ण आचरण वाले"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो कुछ भी",
+     "problem": "भी added: yat-kiñcana has no api.",
+     "fix": "जो कुछ करने वाले",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो कुछ भी करने वाले",
+      "new": "जो कुछ करने वाले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "राज-बीजी",
+     "problem": "Same word rendered differently in 26 (राज-बीज से रहित), 27 and 28; use one Hindi form.",
+     "fix": "राज-बीज वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राज-बीजी",
+      "new": "राज-बीज वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अराज-बीजी",
+     "problem": "Align with unit 26.",
+     "fix": "राज-बीज से रहित",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अराज-बीजी",
+      "new": "राज-बीज से रहित"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कहीं से भी",
+     "problem": "भी added; kutaścit has no api.",
+     "fix": "कहीं से",
+     "severity": "error",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कहीं से भी",
+      "new": "कहीं से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अन्याय आचरण वाला",
+     "problem": "Glossary 7.5 form.",
+     "fix": "अन्यायपूर्ण आचरण वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्याय आचरण वाला",
+      "new": "अन्यायपूर्ण आचरण वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "English",
+     "problem": "Align with unit 26 (given to vice); \"(vyasana)\" is given once, in unit 26.",
+     "fix": "By that, the one given to vice is explained.",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "english",
+      "value": "By that, the one given to vice is explained."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyasanī",
+     "problem": "Align gloss.",
+     "fix": "given to vice",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "vyasanī",
+      "field": "gloss",
+      "value": "given to vice"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "Rests on the vyasanin choice.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो कुछ भी",
+     "problem": "भी added without api.",
+     "fix": "जो कुछ करने वाला",
+     "severity": "error",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो कुछ भी करने वाला",
+      "new": "जो कुछ करने वाला"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "भी added without api; formula (glossary 46) has the comma inside the quote and no dash.",
+     "fix": "“क्योंकि जो कुछ आरम्भ करने वाला विजिगीषु का कभी छिद्र पा सकता है,” ऐसा आचार्य कहते हैं।",
+     "severity": "error",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "hindi",
+      "value": "“क्योंकि जो कुछ आरम्भ करने वाला विजिगीषु का कभी छिद्र पा सकता है,” ऐसा आचार्य कहते हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "Hindi",
+     "problem": "Glossary 46 formula: comma inside the quote, no dash.",
+     "fix": "“जैसे छिद्र, वैसे विनाश भी पा सकता है,” ऐसा कौटिल्य कहते हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "set",
+      "field": "hindi",
+      "value": "“जैसे छिद्र, वैसे विनाश भी पा सकता है,” ऐसा कौटिल्य कहते हैं।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "so he may find",
+     "problem": "\"he\" is not in the Sanskrit (3 sg. opt. only); supplied pronoun must be bracketed.",
+     "fix": "so [he] may find",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "so he may find",
+      "new": "so [he] may find"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उनके अलाभ में",
+     "problem": "Glossary 7.10: alābha = non-obtaining (अप्राप्ति).",
+     "fix": "उनकी अप्राप्ति में",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनके अलाभ में",
+      "new": "उनकी अप्राप्ति में"
+     }
+    },
+    {
+     "field": "english",
+     "where": "so he should establish",
+     "problem": "Supplied \"he\" must be bracketed.",
+     "fix": "so [he] should establish",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "english",
+      "old": "so he should establish",
+      "new": "so [he] should establish"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a treaty",
+     "problem": "Bare sandhi = peace (glossary 7.3 and the task convention); \"treaty\" only inside named kinds. (Units 40/42 labels stay treaty.)",
+     "fix": "having established peace",
+     "severity": "error",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "english",
+      "old": "having established a treaty",
+      "new": "having established peace"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sandhim",
+     "problem": "Align gloss with bare sandhi = peace.",
+     "fix": "peace",
+     "severity": "error",
+     "patch": {
+      "n": "41",
+      "op": "word",
+      "match_w": "sandhim",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Align note.",
+     "fix": "bare sandhi = peace (glossary 7.3); \"treaty\" is possible here, a person should decide.",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "notes",
+      "old": "sandhi = treaty as in the chapter.",
+      "new": "bare sandhi = peace (glossary 7.3); \"treaty\" is possible here, a person should decide."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "क्रय के रूप में",
+     "problem": "\"के रूप में\" (as) is added; krayeṇa is a plain instrumental.",
+     "fix": "क्रय से",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्रय के रूप में",
+      "new": "क्रय से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वापस ली जा सकती है",
+     "problem": "Glossary 9.4/7.10: pratyādeya is kept as a term (प्रत्यादेय), as ādeya is in unit 41.",
+     "fix": "प्रत्यादेय है",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वापस ली जा सकती है",
+      "new": "प्रत्यादेय है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मेरे कार्य",
+     "problem": "\"me\" is dative/genitive with bhaviṣyati (\"for me\"), not attached to kārya; \"मेरे कार्य\" misattaches it.",
+     "fix": "मेरे लिए कार्य की सामर्थ्य",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मेरे कार्य की सामर्थ्य",
+      "new": "मेरे लिए कार्य की सामर्थ्य"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vaśyaḥ",
+     "problem": "Glossary 7.9: vaśya = controlled; the draft glosses vaśyā \"under control\" but vaśyaḥ \"subject\".",
+     "fix": "under control",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "word",
+      "match_w": "vaśyaḥ",
+      "field": "gloss",
+      "value": "under control"
+     }
+    },
+    {
+     "field": "english",
+     "where": "will become subject to me",
+     "problem": "Align with vaśyā \"under control\" in the same quotation (7.9 vaśya = controlled).",
+     "fix": "will come under my control",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "english",
+      "old": "will become subject to me",
+      "new": "will come under my control"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "me (three entries)",
+     "problem": "Enclitic me is labelled \"inst.\" (first) and \"dat./gen.\"; use gen./dat. (genitive of agent with the gerundive). Three identical w \"me\" so no match_w patch: HAND EDIT first me gram → \"pron. gen. sg. (enclitic; agent)\", second \"pron. dat./gen. sg. (enclitic)\".",
+     "fix": "hand edit, see problem",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and land",
+     "problem": "The second \"and\" has no ca in the Sanskrit (two ca: mitraṃ hiraṇyaṃ ca; sajanām ajanāṃ ca); unbracketed addition.",
+     "fix": "and money, land with people and without people",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "english",
+      "old": "and money, and land peopled and unpeopled",
+      "new": "and money, land with people and without people"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और जन-सहित",
+     "problem": "Added और with no ca.",
+     "fix": "धन को, जन-सहित",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धन को, और जन-सहित",
+      "new": "धन को, जन-सहित"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "atisandhatte",
+     "problem": "Wrong root (see unit 2).",
+     "fix": "3 sg. pres. mid. ati-sam-√dhā",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "word",
+      "match_w": "atisandhatte",
+      "field": "gram",
+      "value": "3 sg. pres. mid. ati-sam-√dhā"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Issues 73 (error 11, minor 62). No regrouping. Main themes: unbracketed copulas on verbless clauses and Hindi copula on śreyaḥ clauses (7.9 rule); भी added in Hindi where Sanskrit has cit/no api (26,30,35,37); Hindi 3-member list with और (10); extra 'and' in 45; wrong root for atisandhatte (2,45); bare sandhi in 41 should be peace; vyasanin = given to vice in a character list (26,33); Hindi quote formula dash/comma (13,37,38); alābha/anyāya-vṛtti/pratyādeya Hindi per glossary. Hand edits (no patch): text_flag prabhūtyena (8), refine flag suggest vandhyaiva (25), gram of three me (43)."
+}
