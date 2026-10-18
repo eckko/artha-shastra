@@ -1,0 +1,356 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोष, उपनिपात और असह्य",
+     "problem": "Added 'और' in a three-member dvandva with no ca; glossary 14.3 and unit 3 of this chunk use commas",
+     "fix": "दोष, उपनिपात, असह्य को छोड़कर",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोष, उपनिपात और असह्य को",
+      "new": "दोष, उपनिपात, असह्य को"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "doṣa-upanipāta-aviṣahyebhyaḥ",
+     "problem": "Dvandva takes the gender of its last member; aviṣahya is neuter (unit 4 aviṣahyam n.)",
+     "fix": "n. abl. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "doṣa-upanipāta-aviṣahyebhyaḥ",
+      "field": "gram",
+      "value": "n. abl. pl., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसके अतिक्रमण में",
+     "problem": "Glossary 3.8 fixes 'tasya-atikrame' = उसका अतिक्रमण होने पर",
+     "fix": "उसका अतिक्रमण होने पर चौबीस पण का दण्ड, अथवा पण्य का दसवाँ भाग।",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके अतिक्रमण में",
+      "new": "उसका अतिक्रमण होने पर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "On transgression of that",
+     "problem": "Glossary 3.8 fixed rendering 'in transgression of that'",
+     "fix": "In transgression of that",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "On transgression of that",
+      "new": "In transgression of that"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोष, उपनिपात और असह्य",
+     "problem": "Added 'और' in a three-member dvandva with no ca; glossary 14.3 and unit 3 of this chunk use commas",
+     "fix": "दोष, उपनिपात, असह्य को छोड़कर",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोष, उपनिपात और असह्य को",
+      "new": "दोष, उपनिपात, असह्य को"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "doṣa-upanipāta-aviṣahyebhyaḥ",
+     "problem": "Dvandva takes the gender of its last member; aviṣahya is neuter (unit 4 aviṣahyam n.)",
+     "fix": "n. abl. pl., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "doṣa-upanipāta-aviṣahyebhyaḥ",
+      "field": "gram",
+      "value": "n. abl. pl., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "prakarman",
+     "problem": "Notes give a guessed sense 'beginning, undertaking'; glossary 4.12 lists prakarman under pra-√kṛ = act upon (acted upon). Term is kept untranslated, but the guess is unsupported and a person should align the sense with 4.12",
+     "fix": "append a note recording the 4.12 entry",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "append_note",
+      "text": "Reviewer: the sense 'beginning, undertaking' above is a guess. Glossary 4.12 lists prakarman under pra-√kṛ = act upon; the term is kept untranslated here and a person should decide the sense."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "eva",
+     "problem": "Gloss 'at all' is the idiom na tu eva, not the sense of eva alone",
+     "fix": "indeed (na tu eva = not at all)",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "eva",
+      "field": "gloss",
+      "value": "indeed (na tu eva = not at all)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "woman's wealth",
+     "problem": "Glossary 3.2/3.3: strī-dhana = woman's property",
+     "fix": "woman's property",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "woman's wealth",
+      "new": "woman's property"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्त्री-धन",
+     "problem": "Glossary 3.2/3.3 spells स्त्रीधन",
+     "fix": "स्त्रीधन",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्त्री-धन",
+      "new": "स्त्रीधन"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śulka-strī-dhana-pratidānam",
+     "problem": "woman's wealth -> woman's property",
+     "fix": "giving back of bride-price and woman's property",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "śulka-strī-dhana-pratidānam",
+      "field": "gloss",
+      "value": "giving back of bride-price and woman's property"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "strī-dhana = woman's wealth",
+     "problem": "align with glossary",
+     "fix": "strī-dhana = woman's property, literal.",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "notes",
+      "old": "strī-dhana = woman's wealth, literal.",
+      "new": "strī-dhana = woman's property, literal."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vindataḥ",
+     "problem": "Glossary 3.2: vid of taking a spouse = marrying, not 'obtaining'",
+     "fix": "of one marrying",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "vindataḥ",
+      "field": "gloss",
+      "value": "of one marrying"
+     }
+    },
+    {
+     "field": "english",
+     "where": "who obtains [her]",
+     "problem": "same; align with 3.2",
+     "fix": "who marries [her]",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "who obtains [her]",
+      "new": "who marries [her]"
+     }
+    },
+    {
+     "field": "english",
+     "where": "woman's wealth",
+     "problem": "strī-dhana = woman's property",
+     "fix": "woman's property",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "woman's wealth",
+      "new": "woman's property"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole sentence",
+     "problem": "'पाने वाले' (obtaining) wrong sense for vid, awkward order, and स्त्री-धन spelling",
+     "fix": "अथवा वर के दोष को बताए बिना विवाह करने वाले वरण करने वाले का दोगुना, और शुल्क, स्त्रीधन का नाश।",
+     "severity": "error",
+     "patch": {
+      "n": "15",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा वर के दोष को बताए बिना विवाह करने वाले वरण करने वाले का दोगुना, और शुल्क, स्त्रीधन का नाश।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śulka-strī-dhana-nāśaḥ",
+     "problem": "woman's wealth -> woman's property",
+     "fix": "loss of bride-price and woman's property",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "śulka-strī-dhana-nāśaḥ",
+      "field": "gloss",
+      "value": "loss of bride-price and woman's property"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vindataḥ (obtaining)",
+     "problem": "align with 3.2",
+     "fix": "vindataḥ (marrying, vid as in 3.2)",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "notes",
+      "old": "vindataḥ (obtaining)",
+      "new": "vindataḥ (marrying, vid as in 3.2)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Draft is sound: all printed tokens present, dotted/hyphen word-entry convention followed everywhere, no Latin or brackets in Hindi, no typos found (Devanagari and IAST lines agree; quotes in unit 7 balanced), 0 text_flags is correct. Issues: 3 errors (unit 15 vid = marrying per 3.2, in gloss, English, Hindi), 12 minor (strī-dhana = woman's property, 3.8 'tasya-atikrame' wording, Hindi 'और' in a 3-member dvandva in units 1 and 9, dvandva gender, eva gloss, prakarman note). No regrouping suggested. Needs a person: prakarman sense (4.12 pra-√kṛ vs term), kanyā girl (3.5) vs maiden (3.2), Hindi vaidehaka (वैदेहक 8.4 vs व्यापारी 12.2), iti closing unmarked quotes in unit 17 (3.8 rule would flag; not flagged as no typo)."
+}

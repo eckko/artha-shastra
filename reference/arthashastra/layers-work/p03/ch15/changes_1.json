@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "बेचकर पण्य न सौंपने वाले को बारह पण का दण्ड, दोष, उपनिपात और असह्य को छोड़कर।",
+  "new": "बेचकर पण्य न सौंपने वाले को बारह पण का दण्ड, दोष, उपनिपात, असह्य को छोड़कर।",
+  "why": "reviewer (minor): Added 'और' in a three-member dvandva with no ca; glossary 14.3 and unit 3 of this chunk use commas"
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "doṣa-upanipāta-aviṣahyebhyaḥ",
+  "old": "m. abl. pl., dvandva",
+  "new": "n. abl. pl., dvandva",
+  "why": "reviewer (minor): Dvandva takes the gender of its last member; aviṣahya is neuter (unit 4 aviṣahyam n.)"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "उसके अतिक्रमण में चौबीस पण का दण्ड, अथवा पण्य का दसवाँ भाग।",
+  "new": "उसका अतिक्रमण होने पर चौबीस पण का दण्ड, अथवा पण्य का दसवाँ भाग।",
+  "why": "reviewer (minor): Glossary 3.8 fixes 'tasya-atikrame' = उसका अतिक्रमण होने पर"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "On transgression of that, the penalty [is] twenty-four paṇas, or a tenth part of the wares.",
+  "new": "In transgression of that, the penalty [is] twenty-four paṇas, or a tenth part of the wares.",
+  "why": "reviewer (minor): Glossary 3.8 fixed rendering 'in transgression of that'"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "खरीदकर पण्य न लेने वाले को बारह पण का दण्ड, दोष, उपनिपात और असह्य को छोड़कर।",
+  "new": "खरीदकर पण्य न लेने वाले को बारह पण का दण्ड, दोष, उपनिपात, असह्य को छोड़कर।",
+  "why": "reviewer (minor): Added 'और' in a three-member dvandva with no ca; glossary 14.3 and unit 3 of this chunk use commas"
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "doṣa-upanipāta-aviṣahyebhyaḥ",
+  "old": "m. abl. pl., dvandva",
+  "new": "n. abl. pl., dvandva",
+  "why": "reviewer (minor): Dvandva takes the gender of its last member; aviṣahya is neuter (unit 4 aviṣahyam n.)"
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "upāvartana: literally 'turning back'; here the reversal of the marriage. prakarman is obscure ('beginning, undertaking') and kept untranslated. 'Shudras' in the genitive plural is read with the elided upāvartana. siddha: 'established, valid'.",
+  "new": "upāvartana: literally 'turning back'; here the reversal of the marriage. prakarman is obscure ('beginning, undertaking') and kept untranslated. 'Shudras' in the genitive plural is read with the elided upāvartana. siddha: 'established, valid'. Reviewer: the sense 'beginning, undertaking' above is a guess. Glossary 4.12 lists prakarman under pra-√kṛ = act upon; the term is kept untranslated here and a person should decide the sense.",
+  "why": "reviewer (minor): Notes give a guessed sense 'beginning, undertaking'; glossary 4.12 lists prakarman under pra-√kṛ = act upon (acted upon). Term is kept untranslated, but the guess is unsupported and a person should align the sense with 4.12"
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "eva",
+  "old": "at all",
+  "new": "indeed (na tu eva = not at all)",
+  "why": "reviewer (minor): Gloss 'at all' is the idiom na tu eva, not the sense of eva alone"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "For one who gives away the girl without declaring an aupaśāyika defect of the girl, the penalty [is] ninety-six, and the giving back of the bride-price [and] woman's wealth.",
+  "new": "For one who gives away the girl without declaring an aupaśāyika defect of the girl, the penalty [is] ninety-six, and the giving back of the bride-price [and] woman's property.",
+  "why": "reviewer (minor): Glossary 3.2/3.3: strī-dhana = woman's property"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "औपशायिक कन्या-दोष को बताए बिना कन्या देने वाले का छियानवे का दण्ड, और शुल्क, स्त्री-धन को लौटाना।",
+  "new": "औपशायिक कन्या-दोष को बताए बिना कन्या देने वाले का छियानवे का दण्ड, और शुल्क, स्त्रीधन को लौटाना।",
+  "why": "reviewer (minor): Glossary 3.2/3.3 spells स्त्रीधन"
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "śulka-strī-dhana-pratidānam",
+  "old": "giving back of bride-price and woman's wealth",
+  "new": "giving back of bride-price and woman's property",
+  "why": "reviewer (minor): woman's wealth -> woman's property"
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "Unit of the ninety-six is not stated (not supplied). 'Girl' (kanyā) kept literal. śulka = bride-price in this marriage context (elsewhere toll). strī-dhana = woman's wealth, literal. 'ṣaṇ.ṇavatiḥ' = ṣaṭ + navatiḥ, regular sandhi. 'ṣaṇ.ṇavatir' dotted as a compound by the editors.",
+  "new": "Unit of the ninety-six is not stated (not supplied). 'Girl' (kanyā) kept literal. śulka = bride-price in this marriage context (elsewhere toll). strī-dhana = woman's property, literal. 'ṣaṇ.ṇavatiḥ' = ṣaṭ + navatiḥ, regular sandhi. 'ṣaṇ.ṇavatir' dotted as a compound by the editors.",
+  "why": "reviewer (minor): align with glossary"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "vindataḥ",
+  "old": "of one obtaining",
+  "new": "of one marrying",
+  "why": "reviewer (error): Glossary 3.2: vid of taking a spouse = marrying, not 'obtaining'"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Or for the chooser who obtains [her] without declaring the defect of the groom, [the penalty is] twofold, and the loss of the bride-price [and] woman's wealth.",
+  "new": "Or for the chooser who marries [her] without declaring the defect of the groom, [the penalty is] twofold, and the loss of the bride-price [and] woman's wealth.",
+  "why": "reviewer (error): same; align with 3.2"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Or for the chooser who marries [her] without declaring the defect of the groom, [the penalty is] twofold, and the loss of the bride-price [and] woman's wealth.",
+  "new": "Or for the chooser who marries [her] without declaring the defect of the groom, [the penalty is] twofold, and the loss of the bride-price [and] woman's property.",
+  "why": "reviewer (minor): strī-dhana = woman's property"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "अथवा वर के दोष को बताए बिना पाने वाले वरण करने वाले का दोगुना, और शुल्क, स्त्री-धन का नाश।",
+  "new": "अथवा वर के दोष को बताए बिना विवाह करने वाले वरण करने वाले का दोगुना, और शुल्क, स्त्रीधन का नाश।",
+  "why": "reviewer (error): 'पाने वाले' (obtaining) wrong sense for vid, awkward order, and स्त्री-धन spelling"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "śulka-strī-dhana-nāśaḥ",
+  "old": "loss of bride-price and woman's wealth",
+  "new": "loss of bride-price and woman's property",
+  "why": "reviewer (minor): woman's wealth -> woman's property"
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "varayitṛ (one who chooses, i.e. in marriage) is rendered literally; vindataḥ (obtaining) has no stated object, so [her] is bracketed. 'Twofold' is understood of the penalty of unit 14 (dvi-guṇaḥ with daṇḍaḥ not stated). Whether the one who conceals is the groom or his party is not stated.",
+  "new": "varayitṛ (one who chooses, i.e. in marriage) is rendered literally; vindataḥ (marrying, vid as in 3.2) has no stated object, so [her] is bracketed. 'Twofold' is understood of the penalty of unit 14 (dvi-guṇaḥ with daṇḍaḥ not stated). Whether the one who conceals is the groom or his party is not stated.",
+  "why": "reviewer (minor): align with 3.2"
+ }
+]
