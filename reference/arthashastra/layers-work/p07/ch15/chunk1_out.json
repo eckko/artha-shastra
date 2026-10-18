@@ -143,7 +143,7 @@
       "words": [
        {
         "w": "vṛddha-samyogāt",
-        "gloss": "from connection with elders",
+        "gloss": "from connection with the grown",
         "gram": "tat-puruṣa, m. abl. sg."
        }
       ]
@@ -171,10 +171,10 @@
     ]
    }
   ],
-  "hindi": "समान मन्त्रशक्ति वालों में विशेषता अधीन सम्पत् वाले से अथवा वृद्धों के सम्पर्क से है।",
-  "english": "Among [those] of equal powers of counsel, the distinction [is] from [one whose] excellence is under control, or from connection with elders.",
+  "hindi": "समान मन्त्रशक्ति वालों में विशेषता अधीन सम्पत् वाले से अथवा बढ़े हुओं के सम्पर्क से है।",
+  "english": "Among [those] of equal powers of counsel, the distinction [is] from [one whose] excellence is under control, or from connection with the grown.",
   "text_flags": [],
-  "notes": "No verb in the Sanskrit; bare copula supplied. āyatta-sampadaḥ is ambiguous (ablative 'from one whose excellence is dependent/under control' or genitive); āyatta = dependent on, under control; the exact sense (excellence in one's own hand, or dependent on another) is not certain. vṛddha = elder (alternative: the aged/grown). samyoga = connection (glossary 4.7 'saṃyoga = connection'); the e-text writes samyoga with m before y, as it writes sambhūya, sandhi (e-text habit, not flagged).",
+  "notes": "No verb in the Sanskrit; bare copula supplied. āyatta-sampadaḥ is ambiguous (ablative 'from one whose excellence is dependent/under control' or genitive); āyatta = dependent on, under control; the exact sense (excellence in one's own hand, or dependent on another) is not certain. vṛddha = grown (glossary 7.4: never 'old'), i.e. those who have grown (prospered); the alternative 'elders' is possible. samyoga = connection (glossary 4.7 'saṃyoga = connection'); the e-text writes samyoga with m before y, as it writes sambhūya, sandhi (e-text habit, not flagged).",
   "confidence": "medium"
  },
  {
@@ -499,7 +499,7 @@
       "words": [
        {
         "w": "sva-yuddha-bhūmi-lābhāt",
-        "gloss": "from acquisition of one's own battle-ground",
+        "gloss": "from gain of one's own battle-ground",
         "gram": "tat-puruṣa, m. abl. sg."
        }
       ]
@@ -518,9 +518,9 @@
    }
   ],
   "hindi": "समान उत्साह-शक्ति वालों में अपनी युद्ध-भूमि के लाभ से विशेषता है।",
-  "english": "Among [those] of equal power of energy, the distinction [is] from acquisition of one's own battle-ground.",
+  "english": "Among [those] of equal power of energy, the distinction [is] from gain of one's own battle-ground.",
   "text_flags": [],
-  "notes": "Bare copula supplied. lābha = acquisition (13.5).",
+  "notes": "Bare copula supplied. lābha = gain (glossary 7.7/7.10; never 'acquisition' in Book 7).",
   "confidence": "high"
  },
  {
@@ -543,7 +543,7 @@
       "words": [
        {
         "w": "sva-yuddha-kāla-lābhāt",
-        "gloss": "from acquisition of one's own time of battle",
+        "gloss": "from gain of one's own time of battle",
         "gram": "tat-puruṣa, m. abl. sg."
        }
       ]
@@ -562,7 +562,7 @@
    }
   ],
   "hindi": "समान भूमि वालों में अपने युद्ध-काल के लाभ से विशेषता है।",
-  "english": "Among [those] of equal ground, the distinction [is] from acquisition of one's own time of battle.",
+  "english": "Among [those] of equal ground, the distinction [is] from gain of one's own time of battle.",
   "text_flags": [],
   "notes": "Bare copula supplied.",
   "confidence": "high"
@@ -577,7 +577,7 @@
       "words": [
        {
         "w": "tulya-deśa-kālānām",
-        "gloss": "of [those] of equal region and time",
+        "gloss": "of [those] of equal place and time",
         "gram": "bahuvrīhi, m. gen. pl."
        }
       ]
@@ -587,7 +587,7 @@
       "words": [
        {
         "w": "yugya-śastra-āvaraṇataḥ",
-        "gloss": "from draught animals, weapons and armour",
+        "gloss": "from draught-animals, weapons and armour",
         "gram": "dvandva, ind. (-tas)"
        }
       ]
@@ -605,10 +605,10 @@
     ]
    }
   ],
-  "hindi": "समान प्रदेश और काल वालों में युग्य, शस्त्र, आवरण से विशेषता है।",
-  "english": "Among [those] of equal region and time, the distinction [is] from draught animals, weapons and armour.",
+  "hindi": "समान देश और काल वालों में जोतने योग्य पशु, शस्त्र, आवरण से विशेषता है।",
+  "english": "Among [those] of equal place and time, the distinction [is] from draught-animals, weapons and armour.",
   "text_flags": [],
-  "notes": "yugya = yoked animal or conveyance (draught animals/vehicles); the exact sense is not certain, Hindi keeps युग्य. āvaraṇa = covering, rendered 'armour' (alternative: protective coverings in general). deśa = region (glossary 4.3). Bare copula supplied.",
+  "notes": "yugya = draught-animal (glossary 7.4; 7.5 keeps yugya without 'animals', a person should align); alternatively conveyances fit for the yoke. āvaraṇa = covering, rendered 'armour' (alternative: protective coverings in general). deśa-kāla = place and time (glossary 7.10). Bare copula supplied.",
   "confidence": "medium"
  },
  {
@@ -1390,7 +1390,7 @@
       "words": [
        {
         "w": "vīvadha-āsāra-prasāra-vadhena",
-        "gloss": "by destruction of the supply line, reinforcements and foraging force",
+        "gloss": "by destruction of the supplies, reinforcements and foraging force",
         "gram": "dvandva + tat-puruṣa, m. inst. sg."
        }
       ]
@@ -1480,7 +1480,7 @@
       "words": [
        {
         "w": "sarva-sandohena",
-        "gloss": "with the whole mass",
+        "gloss": "with the whole gathering",
         "gram": "karmadhāraya, m. inst. sg."
        }
       ]
@@ -1530,7 +1530,7 @@
       "words": [
        {
         "w": "sandhim",
-        "gloss": "treaty",
+        "gloss": "peace",
         "gram": "m. acc. sg."
        }
       ]
@@ -1824,7 +1824,7 @@
       "words": [
        {
         "w": "nimna-khāta-rātri-yuddha-viśāradam",
-        "gloss": "skilled in battle on low ground, in pits and at night",
+        "gloss": "skilled in battle on low ground, in excavations and at night",
         "gram": "bahuvrīhi, n. nom. sg."
        }
       ]
@@ -1918,7 +1918,7 @@
       "words": [
        {
         "w": "viruddha-deśa-kālam",
-        "gloss": "unfavourable region and time",
+        "gloss": "unfavourable place and time",
         "gram": "karmadhāraya + dvandva, m. acc. sg."
        }
       ]
@@ -2180,8 +2180,8 @@
     ]
    }
   ],
-  "hindi": "उसका आश्रय ले इन कारणों से — “पार्ष्णिग्राह, आसार, मध्यम अथवा उदासीन को प्रस्तुत करूँगा; सामन्त, आटविक, उसके कुल का सदस्य और निकाले गए राजकुमार — इनमें से किसी एक के द्वारा उसका राज्य हरवाऊँगा अथवा मरवाऊँगा; अथवा कृत्य-पक्ष को सहारा देने से उसके दुर्ग, राष्ट्र या स्कन्धावार में कोप उत्पन्न करूँगा; अथवा शस्त्र, अग्नि, विष के औपनिषदिक प्रणिधानों से इच्छा के अनुसार पास वाले को मारूँगा; अथवा स्वयं अधिष्ठित योग-प्रणिधान से इसे क्षय और व्यय तक पहुँचाऊँगा; अथवा क्षय, व्यय, प्रवास से सन्तप्त उसके मित्र-वर्ग या सेना में क्रम से उपजाप प्राप्त करूँगा; अथवा रसद, सहायक सेना, प्रसार के वध से उसके स्कन्धावार की रोक करूँगा; अथवा सेना को पास लाने से उसके रन्ध्र को उठाकर पूरे समूह से प्रहार करूँगा; अथवा प्रतिहत उत्साह से इच्छा के अनुसार सन्धि प्राप्त करूँगा; अथवा मुझ में बँधे हुए के सब ओर से कोप उठ खड़े होंगे; अथवा आसार-रहित उसके मूल को मित्र, आटवी, सेना से नष्ट कराऊँगा; अथवा बड़े प्रदेश के योग और क्षेम की यहाँ रहते हुए रक्षा करूँगा; स्वयं बिखेरी हुई अथवा मित्र द्वारा बिखेरी हुई मेरी सेना यहाँ रहने वाले की एक स्थान पर खड़ी असह्य होगी; अथवा निम्न, खात और रात्रि के युद्ध में निपुण मेरी सेना मार्ग की बाधा से मुक्त पास वाले में कर्म करेगी; अथवा प्रतिकूल प्रदेश और काल में यहाँ आया हुआ स्वयं ही क्षय और व्यय से नहीं रहेगा; बड़े क्षय और व्यय से पहुँचने योग्य यह प्रदेश है, दुर्ग, वन और अपसार की बहुलता से; दूसरों के लिए रोग-प्राय, और सेना के व्यायामों के लिए जिसकी भूमि प्राप्त नहीं है; आपत्ति में पड़ा हुआ उसमें प्रवेश करेगा, अथवा प्रवेश कर चुका बाहर नहीं निकलेगा।”",
-  "english": "That he should resort to for these reasons: “I shall produce the heel-seizer, the reinforcer, the middle king or the neutral king; by any one of the neighbouring chief, forest chief, member of his family and prince in disfavour, I shall have his kingdom taken away or have [him] killed; or by supporting the party of the seducible I shall raise a revolt in his fort, country or camp; or by aupaniṣadika (upaniṣad-type) applications of weapon, fire and poison I shall kill [the one] near, as desired; or by an application of contrivance presided over by myself I shall bring him to loss and expenditure; or, in his group of allies or in [his] army, [when] afflicted by loss, expenditure and absence from home, I shall in due order obtain secret instigation; or by destruction of the supply line, reinforcements and foraging force I shall make a restraint of his camp; or, having raised a weak point by bringing up the army, I shall strike with the whole mass; or, [his] energy struck back, I shall obtain a treaty as desired; or, of [one] bound to me, revolts will arise on all sides; or I shall have his base, [being] without reinforcement, destroyed by allies, forest tribes and armies; or, staying here, I shall protect the acquisition and security of a great region; my army, self-dispersed or dispersed by an ally, [standing] in one [place], will be unbearable for [me] staying here; or my army, skilled in battle on low ground, in pits and at night, free from hindrance of the road, will do action in [the one] near; or [one] who has come here, [to an] unfavourable region and time, will not be, by himself indeed, through loss and expenditure; this region [is] one to be approached through great loss and expenditure, because of the abundance of forts, forests and places of retreat; for the others [it is] mostly disease, and [it is] one with ground not obtained for the exertions of armies; one fallen into adversity will enter it, or, having entered, will not come out.”",
+  "hindi": "उसका आश्रय ले इन कारणों से — “पार्ष्णिग्राह, आसार, मध्यम अथवा उदासीन को प्रस्तुत करूँगा; सामन्त, आटविक, उसके कुल का सदस्य और निकाले गए राजकुमार — इनमें से किसी एक के द्वारा उसका राज्य हरवाऊँगा अथवा मरवाऊँगा; अथवा कृत्य-पक्ष को सहारा देने से उसके दुर्ग, राष्ट्र या स्कन्धावार में कोप उत्पन्न करूँगा; अथवा शस्त्र, अग्नि, विष के औपनिषदिक प्रणिधानों से अभीष्ट के अनुसार पास वाले को मारूँगा; अथवा स्वयं अधिष्ठित योग-प्रणिधान से इसे क्षय और व्यय तक पहुँचाऊँगा; अथवा क्षय, व्यय, प्रवास से सन्तप्त उसके मित्र-वर्ग या सेना में क्रम से उपजाप प्राप्त करूँगा; अथवा रसद, सहायक सेना, प्रसार के वध से उसके स्कन्धावार की रोक करूँगा; अथवा सेना को पास लाने से उसके रन्ध्र को उठाकर सर्व-समूह से प्रहार करूँगा; अथवा प्रतिहत उत्साह से अभीष्ट के अनुसार सन्धि प्राप्त करूँगा; अथवा मुझ में बँधे हुए के सब ओर से कोप उठ खड़े होंगे; अथवा आसार-रहित उसके मूल को मित्र, आटवी, सेना से नष्ट कराऊँगा; अथवा बड़े प्रदेश के योग और क्षेम की यहाँ रहते हुए रक्षा करूँगा; स्वयं बिखेरी हुई अथवा मित्र द्वारा बिखेरी हुई मेरी सेना यहाँ रहने वाले की एक स्थान पर खड़ी असह्य होगी; अथवा निम्न, खात और रात्रि के युद्ध में निपुण मेरी सेना मार्ग की बाधा से मुक्त पास वाले में कर्म करेगी; अथवा प्रतिकूल देश और काल में यहाँ आया हुआ स्वयं ही क्षय और व्यय से नहीं रहेगा; बड़े क्षय और व्यय से पहुँचने योग्य यह प्रदेश है, दुर्ग, वन और अपसार की बहुलता से; दूसरों के लिए रोग-प्राय, और सेना के व्यायामों के लिए जिसकी भूमि प्राप्त नहीं है; आपत्ति में पड़ा हुआ उसमें प्रवेश करेगा, अथवा प्रवेश कर चुका बाहर नहीं निकलेगा।”",
+  "english": "That he should resort to for these reasons: “I shall produce the heel-seizer, the reinforcer, the middle king or the neutral king; by any one of the neighbouring chief, forest chief, member of his family and prince in disfavour, I shall have his kingdom taken away or have [him] killed; or by supporting the party of the seducible I shall raise a revolt in his fort, country or camp; or by aupaniṣadika (upaniṣad-type) applications of weapon, fire and poison I shall kill [the one] near, as desired; or by an application of contrivance presided over by myself I shall bring him to loss and expenditure; or, in his group of allies or in [his] army, [when] afflicted by loss, expenditure and absence from home, I shall in due order obtain secret instigation; or by destruction of the supplies, reinforcements and foraging force I shall make a restraint of his camp; or, having raised a weak point by bringing up the army, I shall strike with the whole gathering; or, [his] energy struck back, I shall obtain peace as desired; or, of [one] bound to me, revolts will arise on all sides; or I shall have his base, [being] without reinforcement, destroyed by allies, forest tribes and armies; or, staying here, I shall protect the acquisition and security of a great region; my army, self-dispersed or dispersed by an ally, [standing] in one [place], will be unbearable for [me] staying here; or my army, skilled in battle on low ground, in excavations and at night, free from hindrance of the road, will do action in [the one] near; or [one] who has come here, [to an] unfavourable place and time, will not be, by himself indeed, through loss and expenditure; this region [is] one to be approached through great loss and expenditure, because of the abundance of forts, forests and places of retreat; for the others [it is] mostly disease, and [it is] one with ground not obtained for the exertions of armies; one fallen into adversity will enter it, or, having entered, will not come out.”",
   "text_flags": [
    {
     "src": "kārṇair",
@@ -2189,7 +2189,7 @@
     "why": "likely typo: ra and a transposed (kāraṇa 'reason'); the sense 'by these reasons' needs kāraṇaiḥ"
    }
   ],
-  "notes": "Lone '-' tokens at line ends are the e-text's continuation marks between the clauses of the quoted speech; the Hindi and English render them as clause breaks. The speech is the weak king's, addressed to the stronger king whose protection he seeks; 'tad' (n. acc.) has no clear referent (possibly the 'human fort' of unit 11, the strong king; or an adverb 'then/therefore'), rendered literally 'that'. Doubtful points: (1) pratipādayiṣyāmi (caus. prati-√pad) rendered 'produce' (glossary 3.11); the sense 'set up against him' is likely, the recipient is not stated. (2) aupaniṣadika = 'of the upaniṣad kind' (secret); praṇidhāna = application, placing; yoga-praṇidhāna rendered 'application of contrivance' (yoga as in 12.4), the sense could also be 'employment of agents'. (3) āsannam = 'the one near' (neighbour or one close by). (4) pratihata-utsāhena (instrumental) is taken as 'his energy struck back'; alternatively my own energy. (5) vadha rendered by 'destruction' for objects (supply line etc.), 'killing' possible. (6) daṇḍa-upanaya = bringing up the army; alternative: bringing him under force. (7) ihasthasya taken as genitive agreeing with the 'me' of me sainyam ('of [me] staying here'), ambiguous; ekastha = standing together in one place; aviṣahya = unbearable. (8) nimna-khāta-rātri-yuddha = battle on low ground, in pits, at night. (9) pathya-ābādha: pathya = of the road (also 'wholesome'); ābādha = hindrance. (10) 'kṣaya-vyayābhyāṃ na bhaviṣyati' literal 'will not be through loss and expenditure', probably 'will perish of itself'. (11) pareṣāṃ vyādhi-prāyaḥ sainya-vyāyāmānām alabdha-bhaumaḥ ca: nominatives taken as describing the region (ayaṃ deśaḥ): 'mostly disease for the others, and with ground not obtained for army exertions'; the exact sense of alabdha-bhauma is uncertain. (12) sāmanta = neighbouring chief, āṭavika = forest chief, tat-kulīna = member of his family, aparuddha = prince in disfavour; mitra-varga = group of allies; skandha-āvāra = camp; kopa = revolt; upajāpa = secret instigation. The closing iti closes the quoted speech and is not rendered.",
+  "notes": "Lone '-' tokens at line ends are the e-text's continuation marks between the clauses of the quoted speech; the Hindi and English render them as clause breaks. The speech is the weak king's, addressed to the stronger king whose protection he seeks; 'tad' (n. acc.) has no clear referent (possibly the 'human fort' of unit 11, the strong king; or an adverb 'then/therefore'), rendered literally 'that'. Doubtful points: (1) pratipādayiṣyāmi (caus. prati-√pad) rendered 'produce' (glossary 3.11); the sense 'set up against him' is likely, the recipient is not stated. (2) aupaniṣadika = 'of the upaniṣad kind' (secret); praṇidhāna = application, placing; yoga-praṇidhāna rendered 'application of contrivance' (yoga as in 12.4), the sense could also be 'employment of agents'. (3) āsannam = 'the one near' (neighbour or one close by). (4) pratihata-utsāhena (instrumental) is taken as 'his energy struck back'; alternatively my own energy. (5) vadha rendered by 'destruction' for objects (supplies etc.), 'killing' possible. (6) daṇḍa-upanaya = bringing up the army; alternative: bringing him under force. sandhi: bare sandhi as the policy or its result is rendered 'peace' (glossary 7.3/7.4/7.8); 7.7 uses 'treaty' for its chapter, a person should align. Glossary conflicts: saṃśraya/yugya see units 8 and 21; sarva-sandoha = the whole gathering (7.4). (7) ihasthasya taken as genitive agreeing with the 'me' of me sainyam ('of [me] staying here'), ambiguous; ekastha = standing together in one place; aviṣahya = unbearable. (8) nimna-khāta-rātri-yuddha = battle on low ground, in pits, at night. (9) pathya-ābādha: pathya = of the road (also 'wholesome'); ābādha = hindrance. (10) 'kṣaya-vyayābhyāṃ na bhaviṣyati' literal 'will not be through loss and expenditure', probably 'will perish of itself'. (11) pareṣāṃ vyādhi-prāyaḥ sainya-vyāyāmānām alabdha-bhaumaḥ ca: nominatives taken as describing the region (ayaṃ deśaḥ): 'mostly disease for the others, and with ground not obtained for army exertions'; the exact sense of alabdha-bhauma is uncertain. (12) sāmanta = neighbouring chief, āṭavika = forest chief, tat-kulīna = member of his family, aparuddha = prince in disfavour; mitra-varga = group of allies; skandha-āvāra = camp; kopa = revolt; upajāpa = secret instigation. The closing iti closes the quoted speech and is not rendered.",
   "confidence": "low"
  },
  {
@@ -2448,7 +2448,7 @@
       "words": [
        {
         "w": "sandheyatām",
-        "gloss": "fitness for a treaty",
+        "gloss": "fitness for peace",
         "gram": "f. acc. sg."
        }
       ]
@@ -2493,7 +2493,7 @@
       "words": [
        {
         "w": "sandadhīta",
-        "gloss": "should join [in a treaty]",
+        "gloss": "should make peace",
         "gram": "3 sg. opt. mid. sam-√dhā"
        }
       ]
@@ -2501,10 +2501,10 @@
     ]
    }
   ],
-  "hindi": "अपने और दूसरे के सन्धि-योग्य होने को जानकर सन्धान करे।",
-  "english": "Having perceived the fitness for a treaty of himself and of the other, [he] should join [in a treaty].",
+  "hindi": "स्वयं के और दूसरे के सन्धि-योग्य होने को जानकर सन्धि करे।",
+  "english": "Having perceived the fitness for peace of himself and of the other, [he] should make peace.",
   "text_flags": [],
-  "notes": "sandheyatā = the state of being fit for a treaty (sandheya = to be made a treaty with / fit for a treaty). upalabhya = having perceived (also: obtained, found). sandadhīta is sam-√dhā (join); the object 'treaty' is not stated in the Sanskrit and is bracketed in English; Hindi keeps the verb literal (सन्धान करे).",
+  "notes": "sandheyatā = the state of being fit for peace (sandheya = to be made peace with; 'treaty' of 7.7/12.1 is the alternative, see glossary 7.3/7.4/7.7). upalabhya = having perceived (also: obtained, found). sandadhīta is sam-√dhā, 'make peace' (cf. sandhāya = having made peace, 7.4).",
   "confidence": "medium"
  },
  {
@@ -2527,7 +2527,7 @@
       "words": [
        {
         "w": "vikrameṇa",
-        "gloss": "by prowess",
+        "gloss": "by attack",
         "gram": "m. inst. sg."
        }
       ]
@@ -2537,7 +2537,7 @@
       "words": [
        {
         "w": "sandhim",
-        "gloss": "treaty",
+        "gloss": "peace",
         "gram": "m. acc. sg."
        }
       ]
@@ -2575,10 +2575,10 @@
     ]
    }
   ],
-  "hindi": "विपर्यय में पराक्रम से सन्धि अथवा अपसार को पाना चाहे।",
-  "english": "In the reverse [case], [he] should seek to obtain, by prowess, a treaty or a place of retreat.",
+  "hindi": "विपर्यय में आक्रमण से सन्धि अथवा अपसार को पाना चाहे।",
+  "english": "In the reverse [case], [he] should seek to obtain, by attack, peace or a place of retreat.",
   "text_flags": [],
-  "notes": "viparyaya = reversal, the contrary case (when the fitness for a treaty is not found). vikrama = prowess (also 'attack'). lipseta = desiderative of √labh, 'wish to obtain'.",
+  "notes": "viparyaya = the reverse, the contrary case (when the fitness for peace is not found). vikrama = attack (glossary 7.8); alternative 'prowess'. lipseta = desiderative of √labh, 'wish to obtain'.",
   "confidence": "medium"
  },
  {
@@ -2591,7 +2591,7 @@
       "words": [
        {
         "w": "sandheyasya",
-        "gloss": "of [one] fit for a treaty",
+        "gloss": "of [one] fit for peace",
         "gram": "gerundive m. gen. sg. sam-√dhā"
        }
       ]
@@ -2630,9 +2630,9 @@
    }
   ],
   "hindi": "या सन्धि के योग्य के दूत को भेजे।",
-  "english": "Or [he] should send an envoy of [one] fit for a treaty.",
+  "english": "Or [he] should send an envoy of [one] fit for peace.",
   "text_flags": [],
-  "notes": "The genitive sandheyasya is rendered literally 'of'; the sense is 'to the one fit for a treaty' (an envoy to him) or 'of him' (his envoy), the next unit suggests the envoy sent by that king. Kept literal.",
+  "notes": "The genitive sandheyasya is rendered literally 'of'; the sense is 'to the one fit for peace' (an envoy to him) or 'of him' (his envoy), the next unit suggests the envoy sent by that king. Kept literal.",
   "confidence": "medium"
  },
  {
@@ -2923,7 +2923,7 @@
       "words": [
        {
         "w": "āvāha-vivāha-putra-abhiṣeka-aśva-paṇya-hasti-grahaṇa-sattra-yātrā-",
-        "gloss": "bringing in [a bride], marriage, anointing of a son, horse-wares, elephant-capture, sacrificial session, expedition (compound continues in next token)",
+        "gloss": "bringing in [a bride], marriage, anointing of a son, horse-wares, elephant-capture, sattra, expedition (compound continues in next token)",
         "gram": "dvandva, first members"
        }
       ]
@@ -2966,10 +2966,10 @@
     ]
    }
   ],
-  "hindi": "दुर्ग आदि कर्म और आवाह, विवाह, पुत्र-अभिषेक, अश्व-पण्य, हस्ति-ग्रहण, सत्र, यात्रा, विहार और गमन — अनुमति पाया हुआ करे।",
-  "english": "And works beginning with forts, and bringing in [a bride], marriage, anointing of a son, horse-wares, elephant-capture, sacrificial session, expedition, amusement and goings—[he], permitted, should do.",
+  "hindi": "दुर्ग आदि कर्म और आवाह, विवाह, पुत्र-अभिषेक, अश्व-पण्य, हस्ति-ग्रहण, सत्त्र, यात्रा, विहार, गमन — अनुमति पाया हुआ करे।",
+  "english": "Both works beginning with forts and bringing in [a bride], marriage, anointing of a son, horse-wares, elephant-capture, sattra, expedition, amusement, goings—[he], permitted, should do.",
   "text_flags": [],
-  "notes": "The token ending in '.-' and the next token vihāra.gamanāni are one dvandva compound broken across a line by the edition's continuation mark (the stray space after '.-' is that mark, not flagged); the two words entries carry the members. Obscure: āvāha (lit. 'bringing in'; the bringing home of a bride) and vivāha (marriage); aśva-paṇya (lit. horse-wares, i.e. trade in horses) and hasti-grahaṇa (elephant-capture) are taken as separate members; sattra rendered 'sacrificial session' (alternative: hiding-place/ambush as in 8.5); yātrā = expedition (5.6); karmāṇi = works (glossary 5.1). The two ca are rendered 'and ... and'.",
+  "notes": "The token ending in '.-' and the next token vihāra.gamanāni are one dvandva compound broken across a line by the edition's continuation mark (the stray space after '.-' is that mark, not flagged); the two words entries carry the members. Obscure: āvāha (lit. 'bringing in'; the bringing home of a bride) and vivāha (marriage); aśva-paṇya (lit. horse-wares, i.e. trade in horses) and hasti-grahaṇa (elephant-capture) are taken as separate members; sattra left untranslated (glossary 7.5; alternatives: sacrificial session as in 5.6, hiding-place as in 8.5); yātrā = expedition (5.6); karmāṇi = works (glossary 5.1). The two ca are rendered 'both ... and' in English, one और in Hindi (glossary 7.5).",
   "confidence": "medium"
  },
  {
@@ -2982,7 +2982,7 @@
       "words": [
        {
         "w": "sva-bhūmi-avasthita-prakṛti-sandhim",
-        "gloss": "treaty with the constituent elements standing on one's own ground",
+        "gloss": "peace with the constituent elements standing on one's own ground",
         "gram": "tat-puruṣa, m. acc. sg."
        }
       ]
@@ -3051,9 +3051,9 @@
    }
   ],
   "hindi": "अनुमति पाया हुआ सब करे — अपनी भूमि पर स्थित प्रकृतियों से सन्धि, उपघात, अथवा पीछे हटे हुओं में।",
-  "english": "Permitted, [one] should do everything—a treaty with the constituent elements standing on his own ground, an injury, or [a matter] among those who have withdrawn.",
+  "english": "Permitted, [one] should do everything—peace with the constituent elements standing on his own ground, an injury, or [a matter] among those who have withdrawn.",
   "text_flags": [],
-  "notes": "Obscure and doubtful. The compound ending in sandhim is read 'treaty with the constituent elements standing on his own ground' (sandhi = treaty; alternative 'joining, reconciliation'); upaghāta = injury (of them or to the treaty); apasṛteṣu = among those who have withdrawn (alternative: among spies, apasarpa). Whether sandhim and upaghātam are two alternatives of one list ending in 'vā', and what is governed by apasṛteṣu, is not clear. Kept literal.",
+  "notes": "Obscure and doubtful. The compound ending in sandhim is read 'peace with the constituent elements standing on his own ground' (sandhi = peace, glossary 7.3; alternatives 'treaty', 'joining, reconciliation'); upaghāta = injury (of them or to the treaty); apasṛteṣu = among those who have withdrawn (alternative: among spies, apasarpa). Whether sandhim and upaghātam are two alternatives of one list ending in 'vā', and what is governed by apasṛteṣu, is not clear. Kept literal.",
   "confidence": "low"
  },
  {
