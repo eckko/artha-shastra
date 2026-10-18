@@ -1,0 +1,359 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "utthitebhyaḥ",
+     "problem": "anyatra takes the ablative; 'dat./abl.' is undecided",
+     "fix": "abl. pl., ppp. ud-√sthā",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "utthitebhyaḥ",
+      "field": "gram",
+      "value": "abl. pl. (with anyatra), ppp. ud-√sthā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "The property of one having sons",
+     "problem": "riktha is 'inheritance' in the gloss; 'property' is used for dravya in unit 9",
+     "fix": "The inheritance of one having sons",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "The property of one having sons",
+      "new": "The inheritance of one having sons"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "dharamāṇaḥ",
+     "problem": "form is irregular for dhriyamāṇa; should carry a 'possible' text_flag and the corrected form in w",
+     "fix": "text_flags: src dharamāṇaḥ, suggest dhriyamāṇaḥ, why 'possible: irregular present participle; dhriyamāṇa expected'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक ही गर्भ से उत्पन्न, अनेक पिताओं वाले भाइयों",
+     "problem": "unmarked added word ही and added 'उत्पन्न' (sodarya = of the same womb)",
+     "fix": "अनेक पिताओं वाले सहोदरों के दाय का विभाग पिता से है।",
+     "severity": "error",
+     "patch": {
+      "n": "14",
+      "op": "set",
+      "field": "hindi",
+      "value": "अनेक पिताओं वाले सहोदरों के दाय का विभाग पिता से है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "asati",
+     "problem": "gender 'n.' is wrong: agrees with arthe (m.); the loc. sg. of the participle is m./n.",
+     "fix": "m./n. loc. sg., pres. part. a-√as",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "asati",
+      "field": "gram",
+      "value": "m./n. loc. sg., pres. part. a-√as"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mithyā-vṛttebhyaḥ",
+     "problem": "abl. pl. of persons glossed as a bare 'of false conduct'",
+     "fix": "those of false conduct",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "mithyā-vṛttebhyaḥ",
+      "field": "gloss",
+      "value": "those of false conduct"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should be divided by those having nothing",
+     "problem": "vibhajeran is active; the draft turns it into a passive and changes the object",
+     "fix": "“Those who have nothing should divide even the water-vessels,” say the teachers.",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "english",
+      "value": "“Those who have nothing should divide even the water-vessels,” say the teachers."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "निष्किञ्चन जल-पात्र भी बाँट लें",
+     "problem": "reads as 'destitute water-vessels'; subject and object unclear",
+     "fix": "“जल-पात्र भी निष्किञ्चन बाँट लें,” ऐसा आचार्य कहते हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "hindi",
+      "value": "“जल-पात्र भी निष्किञ्चन बाँट लें,” ऐसा आचार्य कहते हैं।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sataḥ / asataḥ",
+     "problem": "gender 'n.' fixed although arthasya is m.; the genitive of the participle is m./n.",
+     "fix": "m./n. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "sataḥ",
+      "field": "gram",
+      "value": "m./n. gen. sg., pres. part. √as"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "asataḥ",
+     "problem": "same",
+     "fix": "m./n. gen. sg., pres. part. a-√as",
+     "severity": "minor",
+     "patch": {
+      "n": "25",
+      "op": "word",
+      "match_w": "asataḥ",
+      "field": "gram",
+      "value": "m./n. gen. sg., pres. part. a-√as"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Such is the common property; of it, such is each share",
+     "problem": "etāvān glossed 'so much' but translated 'Such is'",
+     "fix": "So much is the common property; of it, so much is each share",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "Such is the common property; of it, such is each share",
+      "new": "So much is the common property; of it, so much is each share"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "prati-aṃśaḥ",
+     "problem": "'avyayībhāva' is indeclinable/neuter, yet labelled m. nom. sg.",
+     "fix": "m. nom. sg., compound (prati + aṃśa, 'each share')",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "prati-aṃśaḥ",
+      "field": "gram",
+      "value": "m. nom. sg., compound (prati + aṃśa, 'each share')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sati",
+     "problem": "gender 'n.' wrong: agrees with bhāryā-arthe (m.)",
+     "fix": "m./n. loc. sg., pres. part. √as",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "sati",
+      "field": "gram",
+      "value": "m./n. loc. sg., pres. part. √as"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "prakalpayet",
+     "problem": "singular verb after plural subject sṛjeyuḥ; possible slip for prakalpayeyuḥ, or a different subject; metre cannot decide (draft note says metre agrees)",
+     "fix": "add text_flag src prakalpayet, suggest prakalpayeyuḥ?, why 'possible: number disagrees with sṛjeyuḥ'",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "33 units reviewed. 1 error, 13 minor issues. No regrouping suggested. Hindi has no Latin letters or brackets; no 'thus'/'इस प्रकार' for iti; each word listed once per token; one unmarked ही fixed (unit 14). Needs hand edit: text_flags for units 11 and 33 (patch ops cannot add flags). Low-confidence units 3, 4, 8, 15, 21, 31, 33 are rightly low. All AI draft, unreviewed by a person."
+}
