@@ -1,0 +1,96 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "eka-strī-putrāṇām",
+  "old": "gen. pl.; bahuvrīhi/tat-puruṣa",
+  "new": "m. gen. pl.; tat-puruṣa",
+  "why": "reviewer (minor): two compound types offered ('bahuvrīhi/tat-puruṣa'); it is a tat-puruṣa (sons of one wife) and the gender is missing"
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "ajāḥ",
+  "old": "m. nom. pl.",
+  "new": "m./f. nom. pl.",
+  "why": "reviewer (minor): nom. pl. ajāḥ is both masculine (aja) and feminine (ajā); not necessarily masculine"
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "avayaḥ",
+  "old": "m. nom. pl.",
+  "new": "m./f. nom. pl.",
+  "why": "reviewer (minor): avi is masculine or feminine"
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "The stand-alone '-' is the edition's join mark (a pause), not a word. The predicate is omitted in Sanskrit. 'ajāḥ' is masculine plural, so goats in general (not only she-goats); 'avayaḥ' sheep. 'Of one wife' is the literal sense of eka-strī; sons of a single wife as opposed to the several wives of unit 13.",
+  "new": "The stand-alone '-' is the edition's join mark (a pause), not a word. The predicate is omitted in Sanskrit. 'ajāḥ' and 'avayaḥ' are plural forms that can be masculine or feminine, so goats and sheep in general. 'Of one wife' is the literal sense of eka-strī; sons of a single wife as opposed to the several wives of unit 13.",
+  "why": "reviewer (error): claim that the form is masculine only is wrong; the form is ambiguous"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "पिता के परिवाप में से यान और आभरण ज्येष्ठ का भाग हैं; शयन-आसन और प्रयुक्त काँसा मध्यम भाग हैं; काला, अनाज और लोहे का सामान, घर का परिवाप और गोशकट कनिष्ठ भाग हैं।",
+  "new": "पिता के परिवाप में से यान और आभरण ज्येष्ठ का भाग हैं; शयन-आसन और प्रयुक्त काँसा मध्यम भाग हैं; काला, अनाज और लोहे का सामान, घर का परिवाप और गो-शकट कनिष्ठ भाग हैं।",
+  "why": "reviewer (minor): Sanskrit compound left as one run-on word; glossary pattern is hyphenated (go-yāna = गो-यान)"
+ },
+ {
+  "n": "12",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): mānuṣa is left untranslated (obscure), so 'high' is not honest"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "परन्तु भिन्न-भिन्न स्त्रियों के पुत्रों में संस्कार किए हुए और संस्कार रहित के, कन्या-कृत और क्षत के अभाव में, तथा एक स्त्री के दो पुत्रों अथवा जुड़वाँ में पहले जन्म से ज्येष्ठ होना होता है।",
+  "new": "परन्तु भिन्न-भिन्न स्त्रियों के पुत्रों में संस्कार किए हुए और संस्कार रहित के, कन्या-कृत और क्षत के अभाव में, तथा एक स्त्री के दो पुत्रों अथवा जुड़वाँ में पहले जन्म से ज्येष्ठ-भाव होता है।",
+  "why": "reviewer (minor): awkward, makes jyeṣṭha-bhāvaḥ a verbal phrase; literal is the noun 'status of eldest'"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "ब्राह्मण का अनन्तरा स्त्री का पुत्र समान भाग वाला है।",
+  "new": "ब्राह्मण का अनन्तरा-पुत्र समान भाग वाला है।",
+  "why": "reviewer (minor): 'स्त्री' (woman) is an unmarked added word; the Sanskrit has the feminine anantarā only"
+ },
+ {
+  "n": "19",
+  "field": "notes",
+  "old": "The first token 'brāhmaṇasya-anantarā.putraḥ' has a '-' join (unsandhied) of brāhmaṇasya and anantarā-putraḥ, so two word entries are given. 'anantarā' = the woman of the immediately following class; supplied word '[class]' in brackets. 'Equal' to the brahmin-woman's son (unit 17).",
+  "new": "The first token 'brāhmaṇasya-anantarā.putraḥ' has a '-' join (unsandhied) of brāhmaṇasya and anantarā-putraḥ, so two word entries are given. 'anantarā' = the woman of the immediately following class; supplied word '[class]' in brackets. 'Equal' presumably to the brahmin-woman's son of unit 17; the text does not say.",
+  "why": "reviewer (minor): inference stated as fact"
+ },
+ {
+  "n": "23",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): referent of tad and the scope of pituḥ are inferred (as the notes admit); 'high' is too firm"
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "Or an appointed [man] should beget for him, in the field, a field-born son; a mother's kinsman or one of the same gotra should assign that wealth to him.",
+  "new": "Or an appointed [man] should beget in the field a field-born son of his; a mother's kinsman or one of the same gotra should assign that wealth to him.",
+  "why": "reviewer (error): asya is genitive 'his' (the gloss says so); 'for him' is a dative the text does not have, and English and Hindi disagree"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "अथवा क्षेत्र में नियुक्त पुरुष इसका क्षेत्रज पुत्र उत्पन्न करे; माता का बन्धु अथवा सगोत्र उसे वह धन सौंपे।",
+  "new": "अथवा नियुक्त व्यक्ति क्षेत्र में इसका क्षेत्रज पुत्र उत्पन्न करे; माता का बन्धु अथवा सगोत्र उसे वह धन सौंपे।",
+  "why": "reviewer (error): kṣetre belongs to janayet, not to niyuktaḥ; 'पुरुष' is an unmarked supplied noun (English brackets [man])"
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "Reading is uncertain on who is who: 'asya' is the one without issue (from the preceding units); 'tasmai' may be the field-born son or the appointed man; and 'mātṛ-bandhuḥ sagotro vā' may either name who is appointed (niyukta) in line a, or be the one who assigns the wealth, as translated. 'kṣetra' = field, literally (here the wife); no sense imported. Anuṣṭubh, 16 + 16 syllables.",
+  "new": "Reading is uncertain on who is who: 'asya' presumably refers to the man without a son; the preceding units do not say so; 'tasmai' may be the field-born son or the appointed man; and 'mātṛ-bandhuḥ sagotro vā' may either name who is appointed (niyukta) in line a, or be the one who assigns the wealth, as translated. 'kṣetra' = field, literally (here the wife); no sense imported. Anuṣṭubh, 16 + 16 syllables.",
+  "why": "reviewer (minor): the preceding units do not mention a man without a son; unsupported"
+ }
+]

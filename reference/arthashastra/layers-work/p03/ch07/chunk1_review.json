@@ -1,0 +1,669 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "Alternative: vidyamāna valid",
+     "problem": "Invented sense: \"valid, existing as a claim\" is not supported for vidyamāna.",
+     "fix": "Read vidyamāna as existing, present only.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: the alternative sense 'valid' in the note above is withdrawn; vidyamāna is 'existing, present'.",
+      "n": "3"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "whole unit",
+     "problem": "Units 1 and 2 print the quoted view in quotation marks; unit 3 prints none, so the quote marks are missing (possible).",
+     "fix": "Hand edit: add text_flags entry {\"src\":\"vidyamānam\",\"suggest\":\"\\\"vidyamānam\",\"why\":\"possible missing opening quotation mark; the closing one would follow ubhayam (cf. units 1-2)\"}.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "svayaṃ.jātaḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"svayam-jātaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "kṛta.kriyāyām",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"kṛta-kriyāyām\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "वह औरस है",
+     "problem": "Unmarked added pronoun वह (and a clumsy relative clause); the Sanskrit has no pronoun.",
+     "fix": "जिसके विषय में क्रिया की जा चुकी है, उसमें स्वयं उत्पन्न औरस है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "जिसके विषय में क्रिया की जा चुकी है, उसमें स्वयं उत्पन्न औरस है।",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "putrikā.putraḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"putrikā-putraḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "kṣetra.jātaḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"kṣetra-jātaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "नियुक्त पुरुष",
+     "problem": "Unmarked added word पुरुष (niyuktena is a bare participle; glossary: no unstated noun supplied).",
+     "fix": "नियुक्त किए गए सगोत्र अथवा अन्य गोत्र वाले द्वारा क्षेत्र में उत्पन्न पुत्र क्षेत्रज पुत्र है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "नियुक्त किए गए सगोत्र अथवा अन्य गोत्र वाले द्वारा क्षेत्र में उत्पन्न पुत्र क्षेत्रज पुत्र है।",
+      "n": "6"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Hindi पुरुष",
+     "problem": "Note says Hindi पुरुष follows the masculine form; it is an addition and is removed.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: Hindi पुरुष removed; no noun is supplied in either language.",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "dvi.pitṛko",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"dvi-pitṛkaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "svadhā.riktha.bhāg",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"svadhā-riktha-bhāk\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "asati",
+     "problem": "Bare \"loc. abs. √as\" is not a grammar tag.",
+     "fix": "loc. sg. pres. part. √as (loc. abs.)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "asati",
+      "field": "gram",
+      "value": "loc. sg. pres. part. √as (loc. abs.)",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tat.sadharmā",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"tat-sadharmā\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "gūḍha.jātas",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"gūḍha-jātaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "same standing",
+     "problem": "Glossary fixes dharma = dharma; sadharman is \"of the same dharma\", not \"standing\".",
+     "fix": "[One] of the same dharma as that",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "of the same standing as that",
+      "new": "of the same dharma as that",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह संस्कार",
+     "problem": "Unmarked added pronoun वह (English correctly brackets [he is]; Hindi leaves an unnamed subject unstated per glossary 4.12).",
+     "fix": "... अपविद्ध है; संस्कार करने वाले का पुत्र है।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "है; वह संस्कार",
+      "new": "है; संस्कार",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "kanyā.garbhaḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"kanyā-garbhaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sagarbha.ūḍhāyāḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"sa-garbha-ūḍhāyāḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "saha.ūḍhaḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"saha-ūḍhaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "punar.bhūtāyāḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"punar-bhūtāyāḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "svayaṃ.jātaḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"svayam-jātaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "para.jātaḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"para-jātaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tat.sadharmā",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"tat-sadharmā\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "same standing",
+     "problem": "As unit 8: dharma stays dharma.",
+     "fix": "[One] of the same dharma as that",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "of the same standing as that",
+      "new": "of the same dharma as that",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "putra.bhāva.upagata",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"putra-bhāva-upagataḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "tṛtīya.aṃśa.harāḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"tṛtīya-aṃśa-harāḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "grāsa.ācchādana.bhāginaḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"grāsa-ācchādana-bhāginaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "When an aurasa",
+     "problem": "tu (\"but\") in \"aurase tu-utpanne\" is dropped in both languages.",
+     "fix": "But when an aurasa has been born, ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "When an aurasa",
+      "new": "But when an aurasa",
+      "n": "19"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "औरस के उत्पन्न",
+     "problem": "tu dropped.",
+     "fix": "किन्तु औरस के उत्पन्न होने पर ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "औरस के उत्पन्न होने पर",
+      "new": "किन्तु औरस के उत्पन्न होने पर",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "brāhmaṇa.kṣatriyayor",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"brāhmaṇa-kṣatriyayoḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "anantarā.putrāḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"anantarā-putrāḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "eka.antarā",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"eka-antarā(ḥ)\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "acarita.vratebhyo",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"acarita-vratebhyaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "āyogava.kṣatta.caṇḍālāḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"āyogava-kṣatta-caṇḍālāḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "kṣatta",
+     "problem": "The note calls kṣatta a compound-initial form of kṣattṛ; that is not a valid compound-initial form (it would be kṣattṛ-). The printed kṣatta is a variant stem or a possible typo for kṣattṛ.",
+     "fix": "Keep as printed; flag as possible (hand edit text_flags: {\"src\":\"āyogava.kṣatta.caṇḍālāḥ\",\"suggest\":\"āyogava.kṣattṛ.caṇḍālāḥ\",\"why\":\"possible: compound-initial of kṣattṛ would be kṣattṛ-; printed kṣatta may be a variant\"}).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: kṣatta is not the regular compound-initial form of kṣattṛ (that would be kṣattṛ-); read as the printed variant, a typo for kṣattṛ is possible. Kept as printed.",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "māgadha.vaidehakau",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"māgadha-vaidehakau\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "svadharma.atikramād",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"sva-dharma-atikramāt\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कुक्कुट होता है",
+     "problem": "Supplied verb होता है is stronger than a bare copula; sibling units (21, 22, 26, 28) leave the births verbless.",
+     "fix": "उग्र से निषाद स्त्री में कुक्कुट, उलटे क्रम में पुल्कस।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": " कुक्कुट होता है,",
+      "new": " कुक्कुट,",
+      "n": "31"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वैण होता है",
+     "problem": "As unit 31.",
+     "fix": "अम्बष्ठ से वैदेहिका स्त्री में वैण, उलटे क्रम में कुशीलव।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": " वैण होता है,",
+      "new": " वैण,",
+      "n": "32"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ratha.kāraḥ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"ratha-kāraḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sva.yonau",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"sva-yonau\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "pūrva.apara.gāmitvaṃ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"pūrva-apara-gāmitvam\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "split",
+     "where": "vṛtta.anuvṛttaṃ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"vṛtta-anuvṛttam\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "vṛtta and its following",
+     "problem": "\"its\" is an unsupported addition and the tat-puruṣa/dvandva reading is a guess; glossary: obscure words stay untranslated.",
+     "fix": "... and vṛtta-anuvṛtta.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "and vṛtta and its following.",
+      "new": "and vṛtta-anuvṛtta.",
+      "n": "36"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वृत्त का अनुवर्तन",
+     "problem": "का imposes a genitive reading that the Sanskrit does not give; अनुवर्तन translates anuvṛtta.",
+     "fix": "और वृत्त-अनुवृत्त।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और वृत्त का अनुवर्तन।",
+      "new": "और वृत्त-अनुवृत्त।",
+      "n": "36"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vṛtta-anuvṛtta",
+     "problem": "Companion to the English/Hindi change.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: vṛtta-anuvṛtta is now left untranslated in both languages (doubt as above); 'its following' and 'का अनुवर्तन' were unsupported.",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "śūdra.sadharmāṇo",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"śūdra-sadharmāṇaḥ\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "dāya.dharmaṃ",
+     "problem": "Compound printed with \".\" is listed as separate word entries; the project convention (and para-parigrahe, dvi-gotraḥ, sa-gotreṇa in this chunk, and ch06) is ONE entry per compound with members joined by \"-\". Patch ops cannot delete a word.",
+     "fix": "Hand edit: merge the entries of this token into one word w=\"dāya-dharmam\" with a combined gloss and gram (compound type).",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 40 units (3.7.1-40). Word-level Sanskrit, case labels and sandhi are sound; the main defect is structural: ~32 tokens printed with '.' compounds were split into several word entries instead of one hyphenated w (hand edit). Content patches: 3 Hindi added-words removed (units 4, 6, 9), dharma/standing fixed (8, 15), dropped tu restored (19), supplied होता है removed (31, 32), vṛtta-anuvṛtta left untranslated (36), a gram tag (7), notes (3, 6, 26, 36). No 'thus'/'इस प्रकार' for iti, no Latin or brackets in Hindi, no unbalanced quotes. Confidences are honest (low on 8, 15, 20, 24, 29, 35, 36). No regrouping suggested. Unreviewed AI draft until a person reads it."
+}

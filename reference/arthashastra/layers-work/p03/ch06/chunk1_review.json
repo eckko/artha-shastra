@@ -1,0 +1,320 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "eka-strī-putrāṇām",
+     "problem": "two compound types offered ('bahuvrīhi/tat-puruṣa'); it is a tat-puruṣa (sons of one wife) and the gender is missing",
+     "fix": "m. gen. pl.; tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "eka-strī-putrāṇām",
+      "field": "gram",
+      "value": "m. gen. pl.; tat-puruṣa"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ajāḥ",
+     "problem": "nom. pl. ajāḥ is both masculine (aja) and feminine (ajā); not necessarily masculine",
+     "fix": "m./f. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "ajāḥ",
+      "field": "gram",
+      "value": "m./f. nom. pl."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "avayaḥ",
+     "problem": "avi is masculine or feminine",
+     "fix": "m./f. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "avayaḥ",
+      "field": "gram",
+      "value": "m./f. nom. pl."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'ajāḥ' is masculine plural, so goats in general",
+     "problem": "claim that the form is masculine only is wrong; the form is ambiguous",
+     "fix": "'ajāḥ' and 'avayaḥ' are plural forms that can be masculine or feminine, so goats and sheep in general.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "notes",
+      "old": "'ajāḥ' is masculine plural, so goats in general (not only she-goats); 'avayaḥ' sheep.",
+      "new": "'ajāḥ' and 'avayaḥ' are plural forms that can be masculine or feminine, so goats and sheep in general."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Ushanas / Aushanasa",
+     "problem": "glossary spells the sage Usanas (10.6) and Ausanasas (15.1) but Vishalaksha/Parashara (sh for ś); settled as Ushanas / Aushanasa; draft already conforms",
+     "fix": "no change",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गोशकट",
+     "problem": "Sanskrit compound left as one run-on word; glossary pattern is hyphenated (go-yāna = गो-यान)",
+     "fix": "गो-शकट",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गोशकट",
+      "new": "गो-शकट"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "mānuṣa is left untranslated (obscure), so 'high' is not honest",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ज्येष्ठ होना होता है",
+     "problem": "awkward, makes jyeṣṭha-bhāvaḥ a verbal phrase; literal is the noun 'status of eldest'",
+     "fix": "ज्येष्ठ-भाव होता है",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ज्येष्ठ होना होता है",
+      "new": "ज्येष्ठ-भाव होता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनन्तरा स्त्री का पुत्र",
+     "problem": "'स्त्री' (woman) is an unmarked added word; the Sanskrit has the feminine anantarā only",
+     "fix": "ब्राह्मण का अनन्तरा-पुत्र समान भाग वाला है।",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनन्तरा स्त्री का पुत्र",
+      "new": "अनन्तरा-पुत्र"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'Equal' to the brahmin-woman's son (unit 17).",
+     "problem": "inference stated as fact",
+     "fix": "'Equal' presumably to the brahmin-woman's son of unit 17; the text does not say.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "notes",
+      "old": "'Equal' to the brahmin-woman's son (unit 17).",
+      "new": "'Equal' presumably to the brahmin-woman's son of unit 17; the text does not say."
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "referent of tad and the scope of pituḥ are inferred (as the notes admit); 'high' is too firm",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should beget for him, in the field",
+     "problem": "asya is genitive 'his' (the gloss says so); 'for him' is a dative the text does not have, and English and Hindi disagree",
+     "fix": "should beget in the field a field-born son of his",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "should beget for him, in the field, a field-born son",
+      "new": "should beget in the field a field-born son of his"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अथवा क्षेत्र में नियुक्त पुरुष",
+     "problem": "kṣetre belongs to janayet, not to niyuktaḥ; 'पुरुष' is an unmarked supplied noun (English brackets [man])",
+     "fix": "अथवा नियुक्त व्यक्ति क्षेत्र में इसका क्षेत्रज पुत्र उत्पन्न करे",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा क्षेत्र में नियुक्त पुरुष इसका क्षेत्रज पुत्र उत्पन्न करे",
+      "new": "अथवा नियुक्त व्यक्ति क्षेत्र में इसका क्षेत्रज पुत्र उत्पन्न करे"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'asya' is the one without issue (from the preceding units)",
+     "problem": "the preceding units do not mention a man without a son; unsupported",
+     "fix": "'asya' presumably refers to the man without a son; the preceding units do not say so",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "notes",
+      "old": "'asya' is the one without issue (from the preceding units)",
+      "new": "'asya' presumably refers to the man without a son; the preceding units do not say so"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "3 errors, 11 minor issues; no regrouping suggested. Unit 13 remains low-confidence and obscure (kanyā-kṛta, kṣata, the genitive duals with abhāve). Units 9, 12, 20 keep mānuṣa untranslated. Sage spelling settled as Ushanas/Aushanasa (sh rule), which differs from 10.6 'Usanas' and 15.1 'Ausanasas'. Unreviewed AI draft."
+}
