@@ -1,0 +1,84 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "शरीर, प्रकृति, श्रुत, वृत्ति, जनपद के (उपवादों) में, शरीर के उपवाद में, काने, लंगड़े आदि के द्वारा, सत्य होने पर तीन पण का दण्ड; मिथ्या उपवाद में छह पण का दण्ड।",
+  "new": "शरीर, प्रकृति, श्रुत, वृत्ति, जनपद में से शरीर के उपवाद में, काने, लंगड़े आदि के द्वारा, सत्य होने पर तीन पण का दण्ड; मिथ्या उपवाद में छह पण का दण्ड।",
+  "why": "reviewer (error): Bracketed added word in Hindi (forbidden); the note wrongly says no brackets used; 'में' after a genitive list is also loose."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "The genitive of the five heads is taken as partitive ('among'). 'satye' is a locative absolute with 'upavāde' understood. prakṛti = nature (svabhāva), śruta = learning (literally 'what is heard'), vṛtti = livelihood (also possible: mode of life, conduct). Hindi 'में' after the five heads and the bare 'उपवादों' follow the Sanskrit genitive; no brackets used.",
+  "new": "The genitive of the five heads is taken as partitive ('among'). 'satye' is a locative absolute with 'upavāde' understood. prakṛti = nature (svabhāva), śruta = learning (literally 'what is heard'), vṛtti = livelihood (also possible: mode of life, conduct). Hindi 'में से' renders the partitive genitive of the five heads; no noun is supplied and no brackets are used.",
+  "why": "reviewer (minor): Note contradicts the Hindi (brackets) and must follow the new Hindi."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "stuti-nindāyām",
+  "old": "f. loc. sg.",
+  "new": "dvandva, f. loc. sg.",
+  "why": "reviewer (minor): Compound type missing (every other compound is labelled)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "कुष्ठ, उन्माद, क्लैब्य आदि से कुत्सा में, और सत्य, मिथ्या, स्तुति, निन्दा में, समान लोगों के बीच बारह पण अधिक वाले दण्ड।",
+  "new": "कुष्ठ, उन्माद, क्लैब्य आदि से कुत्सा में, और सत्य, मिथ्या, स्तुति, निन्दा में, बारह पण अधिक वाले दण्ड, समानों में।",
+  "why": "reviewer (error): 'लोगों' is an added noun (tulyeṣu = among equals)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "इससे वाणी से जीने वालों का श्रुत का उपवाद, कारुओं और कुशीलवों का वृत्ति का उपवाद, और प्राज्जूणक, गान्धार आदि के जनपद के उपवाद की व्याख्या की गई।",
+  "new": "इससे वाणी से जीने वालों का श्रुत का उपवाद, कारुओं और कुशीलवों का वृत्ति का उपवाद, और प्राज्जूणक, गान्धार आदि के जनपद के उपवादों की व्याख्या की गई।",
+  "why": "reviewer (minor): jana-pada-upavādāḥ is plural; Hindi singular loses the plural."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "tasya",
+  "old": "of him",
+  "new": "of that",
+  "why": "reviewer (minor): 'tasya karaṇe' is 'in the doing of that (act)'; gloss 'of him' and English 'his' attribute the penalty to a person, not stated."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "tasya",
+  "old": "m. gen. sg.",
+  "new": "m./n. gen. sg.",
+  "why": "reviewer (minor): Gender: tasya may be m. or n."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Whoever threatens another, \"I shall make you thus,\" by doing [it] — in non-doing, [he] should give half of that penalty which [is] his for the doing.",
+  "new": "Whoever threatens another, \"I shall make you thus,\" by doing [it] — in non-doing, [he] should give half of that penalty which [is] for the doing of that.",
+  "why": "reviewer (minor): 'his' not supported (see tasya)."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "असमर्थ यदि क्रोध, मद या मोह का हवाला दे, तो बारह पण का दण्ड दे।",
+  "new": "असमर्थ क्रोध, मद या मोह का हवाला दे; बारह पण का दण्ड दे।",
+  "why": "reviewer (minor): Unmarked added यदि and तो (English brackets its '[If]'; Hindi cannot)."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "sva-deśa-grāmayoḥ",
+  "old": "dvandva, loc. du.",
+  "new": "dvandva, gen./loc. du.",
+  "why": "reviewer (minor): Gloss says 'of' but gram says loc.; -yoḥ is gen./loc. dual."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "jāti-saṅghayoḥ",
+  "old": "dvandva, loc. du.",
+  "new": "dvandva, gen./loc. du.",
+  "why": "reviewer (minor): Same as above."
+ }
+]
