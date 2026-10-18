@@ -1479,5 +1479,934 @@
   "text_flags": [],
   "notes": "",
   "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ta",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ete",
+      "words": [
+       {
+        "w": "ete",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.arthāḥ",
+      "words": [
+       {
+        "w": "kṛta-arthāḥ",
+        "gloss": "those whose purpose is accomplished",
+        "gram": "m. nom. pl.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sukhena",
+      "words": [
+       {
+        "w": "sukhena",
+        "gloss": "easily",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabhūtaṃ",
+      "words": [
+       {
+        "w": "prabhūtam",
+        "gloss": "much",
+        "gram": "n. acc. sg. / adv."
+       }
+      ]
+     },
+     {
+      "src": "ca-upakurvanti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upakurvanti",
+        "gloss": "help",
+        "gram": "3 pl. pres. upa-√kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे ये कृतार्थ सुख से और बहुत उपकार करते हैं।",
+  "english": "Those, these, their purpose accomplished, help easily and greatly.",
+  "text_flags": [],
+  "notes": "'te ete' (written ta ete) = 'those, these', both rendered. The referent (the allies of the types in units 11-14) is not stated. sukhena 'easily' (alt. 'happily').",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ataḥ",
+      "words": [
+       {
+        "w": "ataḥ",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratilomā",
+      "words": [
+       {
+        "w": "pratilomāḥ",
+        "gloss": "contrary ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na-anugrāhyāḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "anugrāhyāḥ",
+        "gloss": "to be favoured",
+        "gram": "m. nom. pl. gerundive anu-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अतः विपरीत अनुग्रह किए जाने योग्य नहीं।",
+  "english": "Therefore the contrary [ones] are not to be favoured.",
+  "text_flags": [],
+  "notes": "pratiloma 'contrary' (literally 'against the grain'); it is not the caste sense of Book 3. The contrary ones are the opposites of the types in units 11-14.",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tayor",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "of those two",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "eka.puruṣa.anugrahe",
+      "words": [
+       {
+        "w": "eka-puruṣa-anugrahe",
+        "gloss": "in the favouring of one person",
+        "gram": "m. loc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitra.taraṃ",
+      "words": [
+       {
+        "w": "mitrataram",
+        "gloss": "closer ally",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-anugṛhṇāti",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anugṛhṇāti",
+        "gloss": "favours",
+        "gram": "3 sg. pres. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन दोनों के एक पुरुष पर अनुग्रह करने में जो मित्र पर अथवा मित्रतर पर अनुग्रह करता है, वह छल लेता है।",
+  "english": "Of those two, in the favouring of one person, he who favours an ally or a closer ally outwits.",
+  "text_flags": [
+   {
+    "src": "mitra.taraṃ",
+    "suggest": "mitrataraṃ",
+    "why": "possible stray compound dot: -tara is a comparative suffix, not a member, and units 20 and 23-style parallels print mitrataraṃ (unit 20)"
+   }
+  ],
+  "notes": "'in the favouring of one person' = when the two favour the same person (the object of unit 11's allies); sense of the unit: the one who favours an ally or closer ally outwits the other. mitra-tara 'closer ally' (literally 'more of an ally').",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitrād",
+      "words": [
+       {
+        "w": "mitrāt",
+        "gloss": "from an ally",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ātma.vṛddhiṃ",
+      "words": [
+       {
+        "w": "ātma-vṛddhim",
+        "gloss": "growth of himself",
+        "gram": "f. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāpnoti,",
+      "words": [
+       {
+        "w": "prāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyaya.pravāsa.para.upakārān",
+      "words": [
+       {
+        "w": "kṣaya-vyaya-pravāsa-para-upakārān",
+        "gloss": "losses, expenditures, absences abroad, benefits to others",
+        "gram": "m. acc. pl.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "itaraḥ",
+      "words": [
+       {
+        "w": "itaraḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि मित्र से स्वयं की वृद्धि प्राप्त करता है, दूसरा क्षय, व्यय, प्रवास, दूसरों के उपकारों को।",
+  "english": "For [one] obtains growth of himself from an ally; the other, [obtains] losses, expenditures, absences abroad, [and] benefits to others.",
+  "text_flags": [],
+  "notes": "The verb is not repeated for itaraḥ; English supplies '[obtains]' in brackets, Hindi leaves the clause open. Subject of prāpnoti unstated. ātma = self.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛta.arthaś",
+      "words": [
+       {
+        "w": "kṛta-arthaḥ",
+        "gloss": "one whose purpose is accomplished",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śatrur",
+      "words": [
+       {
+        "w": "śatruḥ",
+        "gloss": "enemy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaiguṇyam",
+      "words": [
+       {
+        "w": "vaiguṇyam",
+        "gloss": "hostility",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "eti",
+      "words": [
+       {
+        "w": "eti",
+        "gloss": "goes to",
+        "gram": "3 sg. pres. √i"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और कृतार्थ शत्रु प्रतिकूलता को जाता है।",
+  "english": "And an enemy whose purpose is accomplished goes to hostility.",
+  "text_flags": [],
+  "notes": "vaiguṇya literal 'lack of good qualities / deficiency'; rendered 'hostility' with viguṇa = hostile (11.1 glossary line); see unit 22.",
+  "confidence": "medium"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhyamaṃ",
+      "words": [
+       {
+        "w": "madhyamam",
+        "gloss": "the middle king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tv",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anugṛhṇator",
+      "words": [
+       {
+        "w": "anugṛhṇatoḥ",
+        "gloss": "of the two favouring",
+        "gram": "m. gen. du. pres. part. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyamaṃ",
+      "words": [
+       {
+        "w": "madhyamam",
+        "gloss": "the middle king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitrataraṃ",
+      "words": [
+       {
+        "w": "mitrataram",
+        "gloss": "closer ally",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-anugṛhṇāti",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anugṛhṇāti",
+        "gloss": "favours",
+        "gram": "3 sg. pres. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु मध्यम पर अनुग्रह करने वाले दोनों में से जो मध्यम पर, मित्र पर अथवा मित्रतर पर अनुग्रह करता है, वह छल लेता है।",
+  "english": "But of the two favouring the middle king, he who favours the middle king, [whether] an ally or a closer ally, outwits.",
+  "text_flags": [],
+  "notes": "Ambiguity: 'yo madhyamaṃ mitraṃ mitrataraṃ vā' may mean 'who favours the middle king, [being] an ally or a closer ally' (as rendered) or 'who favours the middle king's ally or closer ally'. Parallel to unit 17.",
+  "confidence": "low"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitrād",
+      "words": [
+       {
+        "w": "mitrāt",
+        "gloss": "from an ally",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ātma.vṛddhiṃ",
+      "words": [
+       {
+        "w": "ātma-vṛddhim",
+        "gloss": "growth of himself",
+        "gram": "f. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāpnoti,",
+      "words": [
+       {
+        "w": "prāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyaya.pravāsa.para.upakārān",
+      "words": [
+       {
+        "w": "kṣaya-vyaya-pravāsa-para-upakārān",
+        "gloss": "losses, expenditures, absences abroad, benefits to others",
+        "gram": "m. acc. pl.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "itaraḥ",
+      "words": [
+       {
+        "w": "itaraḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि मित्र से स्वयं की वृद्धि प्राप्त करता है, दूसरा क्षय, व्यय, प्रवास, दूसरों के उपकारों को।",
+  "english": "For [one] obtains growth of himself from an ally; the other, [obtains] losses, expenditures, absences abroad, [and] benefits to others.",
+  "text_flags": [],
+  "notes": "Identical to unit 18 in the e-text (repeated line, as in the edition). The verb is not repeated for itaraḥ; English supplies '[obtains]' in brackets.",
+  "confidence": "medium"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhyamaś",
+      "words": [
+       {
+        "w": "madhyamaḥ",
+        "gloss": "the middle king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ced",
+      "words": [
+       {
+        "w": "cet",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anugṛhīto",
+      "words": [
+       {
+        "w": "anugṛhītaḥ",
+        "gloss": "favoured",
+        "gram": "m. nom. sg. past part. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "viguṇaḥ",
+      "words": [
+       {
+        "w": "viguṇaḥ",
+        "gloss": "hostile",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syād",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "should become",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "amitro",
+      "words": [
+       {
+        "w": "amitraḥ",
+        "gloss": "enemy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यदि मध्यम अनुग्रह पाकर प्रतिकूल हो जाए, शत्रु छल लेता है।",
+  "english": "If the middle king, when favoured, should become hostile, the enemy outwits.",
+  "text_flags": [],
+  "notes": "viguṇa literal 'lacking good qualities'; rendered 'hostile' as in 11.1. Hindi has no 'तो' because the Sanskrit has no correlative.",
+  "confidence": "medium"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛta.prayāsaṃ",
+      "words": [
+       {
+        "w": "kṛta-prayāsam",
+        "gloss": "one who has made effort",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madhyama.amitram",
+      "words": [
+       {
+        "w": "madhyama-amitram",
+        "gloss": "the middle-enemy",
+        "gram": "m. acc. sg.; karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "apasṛtam",
+      "words": [
+       {
+        "w": "apasṛtam",
+        "gloss": "withdrawn",
+        "gram": "m. acc. sg. past part. apa-√sṛ"
+       }
+      ]
+     },
+     {
+      "src": "eka.artha.upagataṃ",
+      "words": [
+       {
+        "w": "eka-artha-upagatam",
+        "gloss": "gone to a single object",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "prāpnoti",
+      "words": [
+       {
+        "w": "prāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. pra-√āp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि प्रयास किए हुए, हटे हुए, एक अर्थ को प्राप्त हुए मध्यम-शत्रु को प्राप्त करता है।",
+  "english": "For [he] obtains the middle-enemy, one who has made effort, withdrawn, [and] gone to a single object.",
+  "text_flags": [],
+  "notes": "Syntax and sense doubtful: subject of prāpnoti is not stated (probably the enemy of unit 22); madhyama-amitra taken as 'the middle [king] become an enemy' (alt. 'the enemy of the middle king'). eka-artha 'single object' (alt. 'same purpose').",
+  "confidence": "low"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena-udāsīna.anugraho",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "udāsīna-anugrahaḥ",
+        "gloss": "favouring of the neutral king",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātaḥ",
+      "words": [
+       {
+        "w": "vyākhyātaḥ",
+        "gloss": "is explained",
+        "gram": "m. nom. sg. past part. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे उदासीन के अनुग्रह की व्याख्या की गई।",
+  "english": "By that, the favouring of the neutral king is explained.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhyama.udāsīnayor",
+      "words": [
+       {
+        "w": "madhyama-udāsīnayoḥ",
+        "gloss": "to the middle and the neutral king",
+        "gram": "m. gen. du.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "bala.aṃśa.dāne",
+      "words": [
+       {
+        "w": "bala-aṃśa-dāne",
+        "gloss": "in the giving of a share of the army",
+        "gram": "n. loc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūraṃ",
+      "words": [
+       {
+        "w": "śūram",
+        "gloss": "brave",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.astraṃ",
+      "words": [
+       {
+        "w": "kṛta-astram",
+        "gloss": "trained in arms",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "duḥkha.saham",
+      "words": [
+       {
+        "w": "duḥkha-saham",
+        "gloss": "enduring hardship",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anuraktaṃ",
+      "words": [
+       {
+        "w": "anuraktam",
+        "gloss": "devoted",
+        "gram": "m. acc. sg. past part. anu-√rañj"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaṃ",
+      "words": [
+       {
+        "w": "daṇḍam",
+        "gloss": "army",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadāti",
+      "words": [
+       {
+        "w": "dadāti",
+        "gloss": "gives",
+        "gram": "3 sg. pres. √dā"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhīyate",
+      "words": [
+       {
+        "w": "atisandhīyate",
+        "gloss": "is outwitted",
+        "gram": "3 sg. pass. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मध्यम और उदासीन को सेना का अंश देने में जो शूर, अस्त्र में प्रशिक्षित, कष्ट सहने वाली अथवा अनुरक्त सेना देता है, वह छला जाता है।",
+  "english": "In the giving of a share of the army to the middle and the neutral king, he who gives an army that is brave, trained in arms, enduring hardship, or devoted, is outwitted.",
+  "text_flags": [],
+  "notes": "daṇḍa here = army (Book 8/9 glossary lines). kṛta-astra literally 'whose weapons are made'; the usual sense 'trained in arms' is used (medium). The gen. dual madhyama-udāsīnayoḥ is read with dāne ('to'). The adjectives are neuter-agreeing with daṇḍam in sense; vā closes the list.",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparīto",
+      "words": [
+       {
+        "w": "viparītaḥ",
+        "gloss": "the opposite one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विपरीत छल लेता है।",
+  "english": "The opposite one outwits.",
+  "text_flags": [],
+  "notes": "'The opposite' = he who gives an army not of the kinds listed in unit 25; the noun is not stated.",
+  "confidence": "medium"
  }
 ]

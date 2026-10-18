@@ -2205,10 +2205,1009 @@
     ]
    }
   ],
-  "hindi": "क्योंकि वश में न रहने वाले को साम आदि से वश में किया जा सकता है, दूसरा नहीं, कार्य में लगा हुआ, वापस समेटा जा सकता।",
+  "hindi": "क्योंकि वश में न रहने वाले को साम आदि से वश में किया जा सकता है, दूसरा नहीं, कार्य में लगा हुआ, वापस समेटा जाने योग्य।",
   "english": "For the uncontrolled [one] can be made controlled by conciliation and the rest, not the other, engaged in a task, to be drawn back.",
   "text_flags": [],
-  "notes": "'Śakyam' is understood with the second clause (na itarat ... pratisaṃhartum): 'the other, engaged in a task, [cannot] be drawn back'. The English keeps the elliptic form; the Hindi supplies the bare negative of the possibility. vyāsakta = engaged, absorbed (in a task).",
+  "notes": "'Śakyam' is understood with the second clause (na itarat ... pratisaṃhartum): 'the other, engaged in a task, [cannot] be drawn back'. The translations keep the elliptic form. vyāsakta = engaged, absorbed (in a task).",
+  "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "puruṣa.bhogaṃ",
+      "words": [
+       {
+        "w": "puruṣa-bhogam",
+        "gloss": "of enjoyment in men",
+        "gram": "n. nom./acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "hiraṇya.bhogaṃ",
+      "words": [
+       {
+        "w": "hiraṇya-bhogam",
+        "gloss": "of enjoyment in money",
+        "gram": "n. nom./acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"puruṣa.bhogaṃ",
+      "words": [
+       {
+        "w": "\"puruṣa-bhogam",
+        "gloss": "of enjoyment in men",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyaḥ,",
+      "words": [
+       {
+        "w": "śreyaḥ,",
+        "gloss": "better",
+        "gram": "n. nom. sg. compar."
+       }
+      ]
+     },
+     {
+      "src": "pruṣa.bhogaṃ",
+      "words": [
+       {
+        "w": "puruṣa-bhogam",
+        "gloss": "of enjoyment in men",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratāpa.karaṃ",
+      "words": [
+       {
+        "w": "pratāpa-karam",
+        "gloss": "causing might",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "bhavati,",
+      "words": [
+       {
+        "w": "bhavati,",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "yadā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca-uttiṣṭhate",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uttiṣṭhate",
+        "gloss": "rises",
+        "gram": "3 sg. pres. mid. ud-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "tadā",
+      "words": [
+       {
+        "w": "tadā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāryaṃ",
+      "words": [
+       {
+        "w": "kāryam",
+        "gloss": "task",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhayati\"",
+      "words": [
+       {
+        "w": "sādhayati\"",
+        "gloss": "accomplishes",
+        "gram": "3 sg. pres. caus. √sādh"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "ity",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुरुषों में भोग वाला अथवा धन में भोग वाला मित्र — “पुरुषों में भोग वाला मित्र श्रेष्ठ है, पुरुषों में भोग वाला मित्र प्रताप उत्पन्न करने वाला होता है, और जब उठता है तब कार्य साधता है,” ऐसा आचार्य कहते हैं।",
+  "english": "An ally of enjoyment in men or of enjoyment in money — “An ally of enjoyment in men is better; an ally of enjoyment in men is a producer of might, and when [it] rises, then [it] accomplishes the task,” say the teachers.",
+  "text_flags": [
+   {
+    "src": "pruṣa.bhogaṃ",
+    "suggest": "puruṣa.bhogaṃ",
+    "why": "likely typo: puruṣa is the word in the same quotation and in the first half of the unit; pruṣa is not a word"
+   }
+  ],
+  "notes": "puruṣa-bhoga is literally 'enjoyment (use) of men', understood as an ally whose enjoyment (benefit) consists of men; bhoga rendered as in unit 13. The first iti closes the either-or question and is not rendered.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg. (name)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“No,” says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hiraṇya.bhogaṃ",
+      "words": [
+       {
+        "w": "hiraṇya-bhogam",
+        "gloss": "of enjoyment in money",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyaḥ",
+      "words": [
+       {
+        "w": "śreyaḥ",
+        "gloss": "better",
+        "gram": "n. nom. sg. compar."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन में भोग वाला मित्र श्रेष्ठ है।",
+  "english": "An ally of enjoyment in money is better.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nityo",
+      "words": [
+       {
+        "w": "nityaḥ",
+        "gloss": "constant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hiraṇyena",
+      "words": [
+       {
+        "w": "hiraṇyena",
+        "gloss": "with money",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yogaḥ",
+      "words": [
+       {
+        "w": "yogaḥ",
+        "gloss": "connection",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kadācid",
+      "words": [
+       {
+        "w": "kadācit",
+        "gloss": "sometimes",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍena",
+      "words": [
+       {
+        "w": "daṇḍena",
+        "gloss": "with the army",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि धन से जुड़ाव नित्य है, सेना से कभी-कभी।",
+  "english": "For connection with money is constant, with the army sometimes.",
+  "text_flags": [],
+  "notes": "yoga is rendered 'connection' (joining), not the 6.2 'acquisition'. daṇḍa = army here (the prakṛti sense, glossary 6.2/8.5/9.7: army); no Book 7 line exists; 'force' or 'punishment' are not intended. The verb of the second clause is understood.",
+  "confidence": "medium"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daṇḍaś",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "army",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hiraṇyena-anye",
+      "words": [
+       {
+        "w": "hiraṇyena",
+        "gloss": "by money",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "anye",
+        "gloss": "other",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāmāḥ",
+      "words": [
+       {
+        "w": "kāmāḥ",
+        "gloss": "desires",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prāpyanta",
+      "words": [
+       {
+        "w": "prāpyante",
+        "gloss": "are obtained",
+        "gram": "3 pl. pres. pass. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सेना और अन्य कामनाएँ धन से प्राप्त की जाती हैं।",
+  "english": "Both the army and other desires are obtained by money.",
+  "text_flags": [],
+  "notes": "daṇḍa = army, as in unit 29 (note there). The two ca are rendered 'both ... and'. The closing iti completes the reason and is not rendered. Printed 'hiraṇyena-anye' is the '-' join of two words (hiraṇyena, anye).",
+  "confidence": "medium"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hiraṇya.bhogaṃ",
+      "words": [
+       {
+        "w": "hiraṇya-bhogam",
+        "gloss": "of enjoyment in money",
+        "gram": "n. nom./acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.bhogaṃ",
+      "words": [
+       {
+        "w": "bhūmi-bhogam",
+        "gloss": "of enjoyment in land",
+        "gram": "n. nom./acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"hiraṇya.bhogaṃ",
+      "words": [
+       {
+        "w": "\"hiraṇya-bhogam",
+        "gloss": "of enjoyment in money",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "gatimattvāt",
+      "words": [
+       {
+        "w": "gatimattvāt",
+        "gloss": "because of having movement",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarva.vyaya.pratīkāra.karam\"",
+      "words": [
+       {
+        "w": "sarva-vyaya-pratīkāra-karam\"",
+        "gloss": "causing the remedy of all expenditure",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "ity",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन में भोग वाला अथवा भूमि में भोग वाला मित्र — “धन में भोग वाला, गतिमान् होने से, सब व्ययों का प्रतिकार करने वाला है,” ऐसा आचार्य कहते हैं।",
+  "english": "An ally of enjoyment in money or of enjoyment in land — “[The ally] of enjoyment in money, because of having movement, is one who causes the remedy of all expenditure,” say the teachers.",
+  "text_flags": [],
+  "notes": "gatimattva literally 'having movement/motion' (of money, i.e. mobility); no sense added. pratīkāra = remedy (glossary). The quoted sentence has no stated subject noun; '[The ally]' is understood.",
+  "confidence": "medium"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg. (name)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“No,” says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitra.hiraṇye",
+      "words": [
+       {
+        "w": "mitra-hiraṇye",
+        "gloss": "ally and money",
+        "gram": "n. nom. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.lābhād",
+      "words": [
+       {
+        "w": "bhūmi-lābhāt",
+        "gloss": "from the acquisition of land",
+        "gram": "m. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "bhavata",
+      "words": [
+       {
+        "w": "bhavataḥ",
+        "gloss": "come into being",
+        "gram": "3 du. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "uktaṃ",
+      "words": [
+       {
+        "w": "uktam",
+        "gloss": "said",
+        "gram": "n. nom. sg. ppp. √vac"
+       }
+      ]
+     },
+     {
+      "src": "purastād",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "before",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि “मित्र और धन भूमि के लाभ से होते हैं”, यह पहले कहा गया है।",
+  "english": "For “ally and money arise from the acquisition of land” has been said before.",
+  "text_flags": [],
+  "notes": "Refers back to unit 2. The printed 'bhavata ity' is bhavataḥ iti. Hindi 'यह' is not in the Sanskrit; it only points to the quoted sentence and may be dropped.",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmād",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.bhogaṃ",
+      "words": [
+       {
+        "w": "bhūmi-bhogam",
+        "gloss": "of enjoyment in land",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreya",
+      "words": [
+       {
+        "w": "śreyaḥ",
+        "gloss": "better",
+        "gram": "n. nom. sg. compar."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए भूमि में भोग वाला मित्र श्रेष्ठ है।",
+  "english": "Therefore an ally of enjoyment in land is better.",
+  "text_flags": [],
+  "notes": "The closing iti of the conclusion is not rendered.",
+  "confidence": "high"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulye",
+      "words": [
+       {
+        "w": "tulye",
+        "gloss": "equal",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣa.bhoge",
+      "words": [
+       {
+        "w": "puruṣa-bhoge",
+        "gloss": "in enjoyment in men",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vikramaḥ",
+      "words": [
+       {
+        "w": "vikramaḥ",
+        "gloss": "valour",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kleśa.sahatvam",
+      "words": [
+       {
+        "w": "kleśa-sahatvam",
+        "gloss": "endurance of hardship",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "anurāgaḥ",
+      "words": [
+       {
+        "w": "anurāgaḥ",
+        "gloss": "attachment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarva.bala.lābho",
+      "words": [
+       {
+        "w": "sarva-bala-lābhaḥ",
+        "gloss": "acquisition of all troops",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitra.kulād",
+      "words": [
+       {
+        "w": "mitra-kulāt",
+        "gloss": "from the ally's family",
+        "gram": "n. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "viśeṣaḥ",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "distinction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुरुषों में भोग के बराबर होने पर पराक्रम, कष्ट सहने की क्षमता, अनुराग अथवा सब सेना का लाभ मित्र के कुल से विशेष है।",
+  "english": "When enjoyment in men is equal, valour, endurance of hardship, attachment, or the acquisition of all troops [is] the distinction from the ally's family.",
+  "text_flags": [],
+  "notes": "mitra-kulāt (ablative) is obscure: 'the distinction arising from / in comparison with the ally's family' are both possible; rendered literally. kleśa-sahatva = being able to bear hardship. bala = troops.",
+  "confidence": "medium"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulye",
+      "words": [
+       {
+        "w": "tulye",
+        "gloss": "equal",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hiraṇya.bhoge",
+      "words": [
+       {
+        "w": "hiraṇya-bhoge",
+        "gloss": "in enjoyment in money",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "prārthita.arthatā",
+      "words": [
+       {
+        "w": "prārthita-arthatā",
+        "gloss": "the state of the object requested",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "prābhūtyam",
+      "words": [
+       {
+        "w": "prābhūtyam",
+        "gloss": "abundance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "alpa.prayasatā",
+      "words": [
+       {
+        "w": "alpa-prayasatā",
+        "gloss": "littleness of effort",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sātatyaṃ",
+      "words": [
+       {
+        "w": "sātatyam",
+        "gloss": "continuity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣaḥ",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "distinction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन में भोग के बराबर होने पर प्रार्थित-अर्थता, प्रचुरता, अल्प प्रयास और निरन्तरता विशेष है।",
+  "english": "When enjoyment in money is equal, the state of the object requested, abundance, littleness of effort and continuity [are] the distinction.",
+  "text_flags": [],
+  "notes": "prārthita-arthatā is rendered literally ('state of [having] the requested object'); the sense (the object asked for being obtained) is not stated. alpa-prayasatā = 'having little effort'; ca joins the last item.",
+  "confidence": "medium"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra-etad",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there, in this matter",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस विषय में यह है।",
+  "english": "In this matter there is this [verse].",
+  "text_flags": [],
+  "notes": "Formula introducing the verses that follow (units 38-49); '[verse]' is supplied because the verses follow in the next units.",
   "confidence": "medium"
  }
 ]
