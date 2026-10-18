@@ -152,3 +152,11 @@ Open points for a person (reviews could not settle them; the glossary in layers-
 - Obscure terms kept literal or untranslated, low confidence: tīrtha, śulka, ādhi, bandha (daśa-/pañca-), anuśaya, prakarman, upaliṅgana, pārañcika, ardha-sītika, saṃnidhāna-sannā, avara-ardhya.
 - Hindi "सीमा" added without brackets in 3.1.30 and 3.17.6 (lower/upper limit of a paṇa range).
 - Text typos only flagged as possible (not corrected): e.g. 3.1.13, 3.2.24, 3.4.8, 3.5.11, 3.5.33, 3.11.26, 3.12.11/21/34/50, 3.13.5/12/35/37, 3.14.28/34/37, 3.16.39, 3.17.5/6/10/12/13, 3.19.2/13/28, 3.20.5.
+
+## Layers, Part 07 (for a person)
+- sandhi is not uniform: drafts of 7.7 render a bare sandhi as 'treaty', later chunks and the glossary lines 7.2-7.5 as 'peace' (named kinds such as sama-sandhi are 'treaty'). Part 07 ch07 still has a few bare 'treaty' (for example unit 5); ch09 follows 7.7. Align by one rule.
+- 7.1.32 'yena vā vigṛhīto mayā sandhatte' is unsettled; a reviewer's alternative reading is in the unit's notes.
+- yugya: 'draught-animal' (7.4) against 'those fit for the yoke' (7.15 and 7.5); saṃśraya 'refuge' against 'shelter'; svāmin 'master' against bhartṛ 'master' (7.6, 7.24, 7.26); samādhi 'settlement' against untranslated in samādhi-mokṣa (7.17); vaṇik-patha 'merchant-road' (7.14) against 'merchant route' (7.12); pratighāta 'repulse' (7.13) against 'retaliation' (7.6); asaṃvṛta Hindi (7.13.43 and 44).
+- Closing 'iti' without an opening quote: 7.11.16, 7.17.31, 7.6 units 5-7 and 20 (dash-linked predicate after iti).
+- 7.17.61 vikramya may mean 'having attacked'; 7.17.48 sandhi-cheda is 'joint'.
+- Possible typos only flagged, not corrected: 7.1.13, 7.1.28, 7.1.32, 7.2.23, 7.3.4, 7.5.12/45/46, 7.7.22/25/31, 7.8.17/27, 7.9.4/21/26/36/41, 7.10.5/9/11/14/23/31/38, 7.11.8/25/43, 7.12.8/22/25, 7.13.20/31, 7.14.6/10/11/27, 7.15.12/25, 7.16.1/16, 7.17.7/16/24/40, 7.18.1/5/9/28/31.

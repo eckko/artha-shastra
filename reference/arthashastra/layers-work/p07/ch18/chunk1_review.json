@@ -1,0 +1,1235 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[one] having the nature of an ally",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "an ally-natured [one]",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[one] having the nature of an ally",
+      "new": "an ally-natured [one]",
+      "n": "5"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mitra-bhāvi",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "ally-natured",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mitra-bhāvi",
+      "field": "gloss",
+      "value": "ally-natured",
+      "n": "5"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मित्र-स्वभाव वाले को",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "मित्रभावी को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मित्र-स्वभाव वाले को",
+      "new": "मित्रभावी को",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "who has grown very great",
+     "problem": "atipravṛddha = very much grown; 'great' is an addition",
+     "fix": "excessively grown",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "who has grown very great",
+      "new": "excessively grown",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vihanāma",
+     "problem": "vihanāma is the imperative (lot) 1 pl. of han (hanāma), not subjunctive/optative",
+     "fix": "imp. 1 pl. vi-√han",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vihanāma",
+      "field": "gram",
+      "value": "imp. 1 pl. vi-√han",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pradhānam",
+     "problem": "gender of the unexpressed noun cannot be fixed (kings are m., but the noun is not stated); unit 9 gives dvitīyam as m. while this unit gave n.",
+     "fix": "m./n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pradhānam",
+      "field": "gram",
+      "value": "m./n. acc. sg.",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ekam",
+     "problem": "gender of the unexpressed noun cannot be fixed (kings are m., but the noun is not stated); unit 9 gives dvitīyam as m. while this unit gave n.",
+     "fix": "m./n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ekam",
+      "field": "gram",
+      "value": "m./n. acc. sg.",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āsannam",
+     "problem": "gender of the unexpressed noun cannot be fixed (kings are m., but the noun is not stated); unit 9 gives dvitīyam as m. while this unit gave n.",
+     "fix": "m./n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "āsannam",
+      "field": "gram",
+      "value": "m./n. acc. sg.",
+      "n": "8"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जो राजा परस्पर अनुगृहीत होकर अनेक ठहरें",
+     "problem": "the first vā of the three alternatives (paraspara-anugṛhītā vā) is not rendered; Hindi या ... या ... या",
+     "fix": "जो राजा या परस्पर अनुगृहीत होकर अनेक ठहरें",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो राजा परस्पर अनुगृहीत होकर अनेक ठहरें",
+      "new": "जो राजा या परस्पर अनुगृहीत होकर अनेक ठहरें",
+      "n": "8"
+     }
+    },
+    {
+     "field": "english",
+     "where": "who, mutually favoured, might stand many",
+     "problem": "the first vā (paraspara-anugṛhītā vā) is not rendered",
+     "fix": "who, either mutually favoured, might stand many",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "who, mutually favoured, might stand many",
+      "new": "who, either mutually favoured, might stand many",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dvitīyam",
+     "problem": "the noun is not stated, so gender cannot be fixed",
+     "fix": "m./n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dvitīyam",
+      "field": "gram",
+      "value": "m./n. acc. sg.",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tṛtīyam",
+     "problem": "the noun is not stated, so gender cannot be fixed",
+     "fix": "m./n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tṛtīyam",
+      "field": "gram",
+      "value": "m./n. acc. sg.",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "abhyuccitaḥ",
+     "problem": "abhyuccita (abhi-ud-√ci) = heaped up, per 7.1 abhyuccaya and 7.17 abhyuccīyamāna; 'built up'/बढ़ा हुआ is an invented sense",
+     "fix": "heaped up",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "abhyuccitaḥ",
+      "field": "gloss",
+      "value": "heaped up",
+      "n": "10"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Thus built up",
+     "problem": "gloss as above; evam = in this way (glossary), not 'thus'",
+     "fix": "In this way heaped up",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "Thus built up",
+      "new": "In this way heaped up",
+      "n": "10"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इस प्रकार बढ़ा हुआ मध्यम राजा को रोके।",
+     "problem": "abhyuccita rendered बढ़ा हुआ (grown) instead of heaped up",
+     "fix": "इस प्रकार संचित किया हुआ, मध्यम राजा को रोके।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इस प्रकार संचित किया हुआ, मध्यम राजा को रोके।",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kuryāt",
+     "problem": "√kṛ with sācivya = render; 'give' is an invented sense",
+     "fix": "should render",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kuryāt",
+      "field": "gloss",
+      "value": "should render",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should give assistance to the ally",
+     "problem": "as above",
+     "fix": "should render assistance to the ally",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should give assistance to the ally",
+      "new": "should render assistance to the ally",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "karma-sandhim",
+     "problem": "karma-sandhi = treaty of works, karma = works (7.12 glossary), not 'action'",
+     "fix": "treaty of works",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "karma-sandhim",
+      "field": "gloss",
+      "value": "treaty of works",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a treaty of action (karma-sandhi)",
+     "problem": "as above",
+     "fix": "a treaty of works (karma-sandhi)",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "a treaty of action (karma-sandhi)",
+      "new": "a treaty of works (karma-sandhi)",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ucchedanīyam",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "to be uprooted",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ucchedanīyam",
+      "field": "gloss",
+      "value": "to be uprooted",
+      "n": "14"
+     }
+    },
+    {
+     "field": "english",
+     "where": "his ally who is to be cut off",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "his ally who is to be uprooted",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "his ally who is to be cut off",
+      "new": "his ally who is to be uprooted",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ucchinnam",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "uprooted",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ucchinnam",
+      "field": "gloss",
+      "value": "uprooted",
+      "n": "15"
+     }
+    },
+    {
+     "field": "english",
+     "where": "him, cut off, in hand",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "him, uprooted, in hand",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "him, cut off, in hand",
+      "new": "him, uprooted, in hand",
+      "n": "15"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "या कटे हुए को",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "या उच्छिन्न को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "या कटे हुए को",
+      "new": "या उच्छिन्न को",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "karśanīya-ucchedanīyayoḥ",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "of the one to be weakened and the one to be uprooted",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "karśanīya-ucchedanīyayoḥ",
+      "field": "gloss",
+      "value": "of the one to be weakened and the one to be uprooted",
+      "n": "16"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the one to be cut off",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "the one to be uprooted",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the one to be cut off",
+      "new": "the one to be uprooted",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[one] having the nature of an ally",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "an ally-natured [one]",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[one] having the nature of an ally",
+      "new": "an ally-natured [one]",
+      "n": "20"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mitra-bhāvi",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "ally-natured",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mitra-bhāvi",
+      "field": "gloss",
+      "value": "ally-natured",
+      "n": "20"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मित्र-स्वभाव वाले को",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "मित्रभावी को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मित्र-स्वभाव वाले को",
+      "new": "मित्रभावी को",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ucchettum",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "to uproot",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ucchettum",
+      "field": "gloss",
+      "value": "to uproot",
+      "n": "21"
+     }
+    },
+    {
+     "field": "english",
+     "where": "You ought not to cut off the ally.",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "You ought not to uproot the ally.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "You ought not to cut off the ally.",
+      "new": "You ought not to uproot the ally.",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "upekṣeta",
+     "problem": "upekṣeta (verb) = should disregard (उपेक्षा करे), 7.1 glossary",
+     "fix": "should disregard",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "upekṣeta",
+      "field": "gloss",
+      "value": "should disregard",
+      "n": "22"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should overlook [it]",
+     "problem": "upekṣeta (verb) = should disregard (उपेक्षा करे), 7.1 glossary",
+     "fix": "should disregard [it]",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should overlook [it]",
+      "new": "should disregard [it]",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "approved by the circle",
+     "problem": "abhipreta = intended/desired; 'approved' is a different sense",
+     "fix": "desired by the circle",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "approved by the circle",
+      "new": "desired by the circle",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ari-bhāvinaḥ",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "enemy-natured",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ari-bhāvinaḥ",
+      "field": "gloss",
+      "value": "enemy-natured",
+      "n": "29"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mitra-bhāvinaḥ",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "ally-natured",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mitra-bhāvinaḥ",
+      "field": "gloss",
+      "value": "ally-natured",
+      "n": "29"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhṛtya-bhāvinaḥ",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "servant-natured",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhṛtya-bhāvinaḥ",
+      "field": "gloss",
+      "value": "servant-natured",
+      "n": "29"
+     }
+    },
+    {
+     "field": "english",
+     "where": "such are those of enemy nature",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "such are the enemy-natured",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "such are those of enemy nature",
+      "new": "such are the enemy-natured",
+      "n": "29"
+     }
+    },
+    {
+     "field": "english",
+     "where": "such are those of ally nature",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "such are the ally-natured",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "such are those of ally nature",
+      "new": "such are the ally-natured",
+      "n": "29"
+     }
+    },
+    {
+     "field": "english",
+     "where": "such neighbouring chiefs are those of servant nature",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "such neighbouring chiefs are servant-natured",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "such neighbouring chiefs are those of servant nature",
+      "new": "such neighbouring chiefs are servant-natured",
+      "n": "29"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये शत्रु-स्वभाव वाले हैं",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "ये शत्रुभावी हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ये शत्रु-स्वभाव वाले हैं",
+      "new": "ये शत्रुभावी हैं",
+      "n": "29"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये मित्र-स्वभाव वाले हैं",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "ये मित्रभावी हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ये मित्र-स्वभाव वाले हैं",
+      "new": "ये मित्रभावी हैं",
+      "n": "29"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये सामन्त भृत्य-स्वभाव वाले हैं",
+     "problem": "-bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\"",
+     "fix": "ये सामन्त भृत्यभावी हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ये सामन्त भृत्य-स्वभाव वाले हैं",
+      "new": "ये सामन्त भृत्यभावी हैं",
+      "n": "29"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "नेता का अभियोक्ता",
+     "problem": "abhiyoktṛ = attacker (आक्रमणकारी) per 12.1; Hindi अभियोक्ता means prosecutor (the 3.1 legal sense)",
+     "fix": "नेता का आक्रमणकारी",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "नेता का अभियोक्ता",
+      "new": "नेता का आक्रमणकारी",
+      "n": "29"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "व्यसनी, जिस पर",
+     "problem": "Hindi व्यसनी means one addicted to vice; vyasanin is rendered व्यसन वाला (3.11, 7.11)",
+     "fix": "व्यसन वाला, जिस पर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्यसनी, जिस पर",
+      "new": "व्यसन वाला, जिस पर",
+      "n": "29"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in calamity, to be marched against",
+     "problem": "yātavya as a noun = the one to be marched against (7.4, 7.5)",
+     "fix": "in calamity, the one to be marched against",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in calamity, to be marched against",
+      "new": "in calamity, the one to be marched against",
+      "n": "29"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "note correction",
+     "fix": "Reviewer: -bhāvin aligned with 7.9 (ally-natured / मित्रभावी); the earlier note giving 'having the nature of' is superseded.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: -bhāvin aligned with 7.9 (ally-natured / मित्रभावी); the earlier note giving 'having the nature of' is superseded.",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एकप्रयोजन हो जाए",
+     "problem": "eka-arthatām vrajet = go to oneness of aim; the abstract -tā is dropped and vraj becomes 'हो जाए'",
+     "fix": "एकप्रयोजनता को पहुँचे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "एकप्रयोजन हो जाए",
+      "new": "एकप्रयोजनता को पहुँचे",
+      "n": "31"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tat-prakṛtibhyām",
+     "problem": "gloss 'by its two constituent elements' is a tat-puruṣa; 'bahuvrīhi' contradicts it",
+     "fix": "f. inst. du., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "tat-prakṛtibhyām",
+      "field": "gram",
+      "value": "f. inst. du., tat-puruṣa",
+      "n": "32"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "anugraha-apekṣam",
+     "problem": "subject of tiṣṭhet is mitram (n., understood from unit 32): nominative neuter, not 'm. acc.' and not an adverb",
+     "fix": "n. nom. sg., tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "anugraha-apekṣam",
+      "field": "gram",
+      "value": "n. nom. sg., tat-puruṣa",
+      "n": "33"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vaśyam",
+     "problem": "as above",
+     "fix": "n. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vaśyam",
+      "field": "gram",
+      "value": "n. nom. sg.",
+      "n": "33"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vaśyam",
+     "problem": "vaśya = controlled (7.9, 7.11), not 'controllable'",
+     "fix": "controlled",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vaśyam",
+      "field": "gloss",
+      "value": "controlled",
+      "n": "33"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "note correction",
+     "fix": "Reviewer: anugraha-apekṣam and vaśyam are read as neuter nominatives agreeing with mitram understood from unit 32, not as adverbs.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: anugraha-apekṣam and vaśyam are read as neuter nominatives agreeing with mitram understood from unit 32, not as adverbs.",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one who knows his interest",
+     "problem": "'his' is an unmarked addition; artha left as printed with alternatives in notes",
+     "fix": "one who knows artha",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "one who knows his interest",
+      "new": "one who knows artha",
+      "n": "34"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "artha-vit",
+     "problem": "as above",
+     "fix": "knower of artha",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "artha-vit",
+      "field": "gloss",
+      "value": "knower of artha",
+      "n": "34"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "note correction",
+     "fix": "Reviewer: arthavit rendered 'one who knows artha' (interest, gain or wealth all possible); 'his interest' was dropped.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: arthavit rendered 'one who knows artha' (interest, gain or wealth all possible); 'his interest' was dropped.",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "w",
+     "where": "caret",
+     "problem": "printed token is caled (= calet, √cal); w 'caret' is a different word (√car)",
+     "fix": "calet",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "caret",
+      "field": "w",
+      "value": "calet",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ucchindyāt",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "should uproot",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ucchindyāt",
+      "field": "gloss",
+      "value": "should uproot",
+      "n": "36"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should cut off [that one]",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "should uproot [that one]",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should cut off [that one]",
+      "new": "should uproot [that one]",
+      "n": "36"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अलग हुए को काट दे, तब आगे शत्रु को",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering; anantaram rendered आगे (further), not 'next'",
+     "fix": "अलग हुए का उच्छेद करे, तब अनन्तर शत्रु को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अलग हुए को काट दे, तब आगे शत्रु को",
+      "new": "अलग हुए का उच्छेद करे, तब अनन्तर शत्रु को",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसे सेना से अनुग्रह दे जिससे",
+     "problem": "anugṛhṇīyāt is अनुग्रह करे everywhere else in the chunk",
+     "fix": "उस पर सेना से अनुग्रह करे जिससे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसे सेना से अनुग्रह दे जिससे",
+      "new": "उस पर सेना से अनुग्रह करे जिससे",
+      "n": "38"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दूसरी भूमि में बसाए; पहले",
+     "problem": "vā (anyasyāṃ bhūmau vā) is not rendered in Hindi; English has \"or\"",
+     "fix": "वहाँ से हटाकर दूसरी भूमि में बसाए, या पहले वहाँ दूसरे को बसाकर, सेना पर अनुग्रह के कारण से।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "वहाँ से हटाकर दूसरी भूमि में बसाए, या पहले वहाँ दूसरे को बसाकर, सेना पर अनुग्रह के कारण से।",
+      "n": "39"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "note correction",
+     "fix": "Reviewer: daṇḍa-anugraha-hetunā may equally mean 'for the reason of favour by means of the army' (cf. kośa-daṇḍābhyām anugṛhṇīyāt, units 8 and 23); both readings are possible.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: daṇḍa-anugraha-hetunā may equally mean 'for the reason of favour by means of the army' (cf. kośa-daṇḍābhyām anugṛhṇīyāt, units 8 and 23); both readings are possible.",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ucchindyāt",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "should uproot",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ucchindyāt",
+      "field": "gloss",
+      "value": "should uproot",
+      "n": "40"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should cut off indeed",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "should uproot indeed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should cut off indeed",
+      "new": "should uproot indeed",
+      "n": "40"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उस मित्र को ही काट दे",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "उस मित्र का ही उच्छेद करे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उस मित्र को ही काट दे",
+      "new": "उस मित्र का ही उच्छेद करे",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "virajyati",
+     "problem": "virajyati is the class-4 present of rañj, not a passive",
+     "fix": "3 sg. pres. (class 4) vi-√rañj",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "virajyati",
+      "field": "gram",
+      "value": "3 sg. pres. (class 4) vi-√rañj",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "karśana-ucchedanam",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "weakening and uprooting",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "karśana-ucchedanam",
+      "field": "gloss",
+      "value": "weakening and uprooting",
+      "n": "43"
+     }
+    },
+    {
+     "field": "english",
+     "where": "weakening and cutting off",
+     "problem": "ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering",
+     "fix": "weakening and uprooting",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "weakening and cutting off",
+      "new": "weakening and uprooting",
+      "n": "43"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कर्शन और उच्छेदन",
+     "problem": "karśana = weakening (क्षीण करना), 13.4 glossary; uccheda per 7.10",
+     "fix": "क्षीण करना और उच्छेद करना",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कर्शन और उच्छेदन",
+      "new": "क्षीण करना और उच्छेद करना",
+      "n": "43"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "anyonya-sañcāram",
+     "problem": "translation (English and Hindi) reads it as 'having mutual movement' (bahuvrīhi, neuter), but gram says tat-puruṣa m.",
+     "fix": "n. acc. sg., bahuvrīhi (agreeing with ṣāḍguṇyam)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "anyonya-sañcāram",
+      "field": "gram",
+      "value": "n. acc. sg., bahuvrīhi (agreeing with ṣāḍguṇyam)",
+      "n": "44"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "71 issues (5 error, 66 minor), 71 machine patches. No regrouping suggested. Text flags: unit 1 prakṛtī (kept: stray word with no function), 5 madyamaś (true typo, Deva also मद्यमश्), 9 tri.gunas (true: Deva also गुनस्), 28 upabṛhya (kept as a possible missing anusvāra), 31 tad.anugṛhṇīyād (kept: pronoun cannot be a compound member of a verb) are all retained; 40 tan.mitraṃ is a regular tat- compound member, no flag needed. Main fixes: w 'caret' for printed caled (unit 35), vā unrendered in Hindi (units 8, 39), abhiyoktṛ Hindi अभियोक्ता (29), karma-sandhi 'action' vs works (11), bhāvin aligned to the 7.9 '-natured', uccheda- aligned to 7.10 'uproot', abhyuccita aligned to 'heaped up', gram labels (vihanāma, virajyati, units 32, 33, 44). Hand edits: none required (no word or text_flag add/delete). Low-confidence units 9, 23, 24, 27, 29, 32, 36(medium ok), 39, 40, 42, 43 keep their confidence; unit 21 sa-apekṣam and unit 36 could stay medium. Units 12 and 20: sva/asya referents ambiguous, as noted by the drafter."
+}

@@ -156,5 +156,5 @@ Updated: 2026-10-18 on branch docs/2026-10-17/version-3. Base source: S1.
 | 15 | 01 | 76 | S1 | AI draft, reviewed (p15-hindi.md) | AI draft, reviewed (p15-english.md) | pass | word split in p15-sandhi.md |
 
 ## Next
-- Layers (word split, Hindi, English): done for Parts 03, 04, 05, 06, 08, 09, 10, 11, 12, 13, 14 and 15, as AI drafts that went through an independent AI review; no person has read them. Parts 01, 02 and 07 (about 2,500 verses) are not finished (see layers-work/STATUS.md). No outside translation was found.
+- Layers (word split, Hindi, English): done for Parts 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14 and 15, as AI drafts that went through an independent AI review; no person has read them. Parts 01 and 02 (about 1,800 verses) are not finished (see layers-work/STATUS.md). No outside translation was found.
 - Proofreading stage: compare against Kangle's print edition, resolve ISSUES.md, decide on compound marks.
