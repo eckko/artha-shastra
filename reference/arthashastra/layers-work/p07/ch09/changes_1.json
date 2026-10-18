@@ -1,0 +1,619 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "In a march in alliance, of the acquisitions of ally, money and land, each succeeding acquisition [is] better.",
+  "new": "In a march in alliance, of the gains of ally, money and land, each succeeding gain [is] better.",
+  "why": "reviewer (error): lābha = gain in Book 7 (glossary 7.7 'a gain equal to the army', 7.10 'bhūmi-lābha = gain of land'; bare lābha with no artha beside it = gain)."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "mitra-hiraṇya-bhūmi-lābhānām",
+  "old": "of the acquisitions of ally, money and land",
+  "new": "of the gains of ally, money and land",
+  "why": "reviewer (error): lābha = gain in Book 7 (glossary 7.7 'a gain equal to the army', 7.10 'bhūmi-lābha = gain of land'; bare lābha with no artha beside it = gain). (part 2)"
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "lābhaḥ",
+  "old": "acquisition",
+  "new": "gain",
+  "why": "reviewer (error): lābha = gain in Book 7 (glossary 7.7 'a gain equal to the army', 7.10 'bhūmi-lābha = gain of land'; bare lābha with no artha beside it = gain). (part 3)"
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "saṃhita-prayāṇa taken literally as a march made allied or joined; the text does not say with whom. hiraṇya = money (glossary 5.2). uttara.uttaraḥ read as the repeated compound 'each later one'. mitra-hiraṇya-bhūmi-lābhānām: lābha = acquisition (Book 7 chapter on acquisitions); the dvandva is of the three things acquired.",
+  "new": "saṃhita-prayāṇa taken literally as a march made allied or joined; the text does not say with whom. hiraṇya = money (glossary 5.2). uttara.uttaraḥ read as the repeated compound 'each later one'. mitra-hiraṇya-bhūmi-lābhānām: lābha = acquisition (Book 7 chapter on acquisitions); the dvandva is of the three things acquired. Reviewer: lābha = gain (glossary 7.7, 7.10), not 'acquisition'.",
+  "why": "reviewer (error): lābha = gain in Book 7 (glossary 7.7 'a gain equal to the army', 7.10 'bhūmi-lābha = gain of land'; bare lābha with no artha beside it = gain). (part 4)"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "For ally and money arise from the acquisition of land, ally from the acquisition of money.",
+  "new": "For ally and money arise from the gain of land, ally from the acquisition of money.",
+  "why": "reviewer (error): same (lābha = gain)."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "For ally and money arise from the gain of land, ally from the acquisition of money.",
+  "new": "For ally and money arise from the gain of land, ally from the gain of money.",
+  "why": "reviewer (error): same (lābha = gain). (part 2)"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhāt",
+  "old": "from the acquisition of land",
+  "new": "from the gain of land",
+  "why": "reviewer (error): same (lābha = gain). (part 3)"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "hiraṇya-lābhāt",
+  "old": "from the acquisition of money",
+  "new": "from the gain of money",
+  "why": "reviewer (error): same (lābha = gain). (part 4)"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Or whichever acquisition, accomplished, accomplishes one of the remaining two.",
+  "new": "Or whichever gain, accomplished, accomplishes one of the remaining two.",
+  "why": "reviewer (error): same (lābha = gain)."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "lābhaḥ",
+  "old": "acquisition",
+  "new": "gain",
+  "why": "reviewer (error): same (lābha = gain). (part 2)"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "“तुम और मैं मित्र प्राप्त करते हैं”, इस प्रकार आदि वाली सम सन्धि है।",
+  "new": "“तुम और मैं मित्र प्राप्त करते हैं”, इस प्रकार आदि वाली सम-सन्धि है।",
+  "why": "reviewer (minor): Compound 'sama-sandhi' written as two Hindi words; glossary (10.5, 12.1) hyphenates the pair (सम-/विषम-)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "“You and I obtain an ally”, [that] which has this as its beginning is an even treaty.",
+  "new": "“You and I obtain an ally”, [that] which has this as its beginning is an equal treaty.",
+  "why": "reviewer (error): Glossary 7.7: sama-/viṣama-/ati-sandhi = equal / unequal / outwitting treaty."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "sama-sandhiḥ",
+  "old": "even treaty",
+  "new": "equal treaty",
+  "why": "reviewer (error): Glossary 7.7: sama-/viṣama-/ati-sandhi = equal / unequal / outwitting treaty. (part 2)"
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "sama-sandhi = even treaty (glossary: sandhi = treaty; sama/viṣama = even/uneven as in 10.5). labhāvahe is a 1 du. present middle (the imperative would be labhāvahai). The closing iti of the quotation is carried by the quotation marks.",
+  "new": "sama-sandhi = even treaty (glossary: sandhi = treaty; sama/viṣama = even/uneven as in 10.5). labhāvahe is a 1 du. present middle (the imperative would be labhāvahai). The closing iti of the quotation is carried by the quotation marks. Reviewer: sama/viṣama-sandhi = equal/unequal treaty (glossary 7.7), not 'even/uneven'.",
+  "why": "reviewer (error): Glossary 7.7: sama-/viṣama-/ati-sandhi = equal / unequal / outwitting treaty. (part 3)"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "“तुम मित्र”, इस प्रकार आदि वाली विषम सन्धि है।",
+  "new": "“तुम मित्र”, इस प्रकार आदि वाली विषम-सन्धि है।",
+  "why": "reviewer (minor): Same: hyphenate the compound."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "“You [are] an ally”, [that] which has this as its beginning is an uneven treaty.",
+  "new": "“You [are] an ally”, [that] which has this as its beginning is an unequal treaty.",
+  "why": "reviewer (error): same (7.7)."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "viṣama-sandhiḥ",
+  "old": "uneven treaty",
+  "new": "unequal treaty",
+  "why": "reviewer (error): same (7.7). (part 2)"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "From a special acquisition of those two, [there is] atisandhi.",
+  "new": "From a special gain of those two, [there is] an outwitting treaty (atisandhi).",
+  "why": "reviewer (error): Glossary 7.7: ati-sandhi = outwitting treaty (Hindi अतिसन्धि kept as the term); lābha = gain."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "viśeṣa-lābhāt",
+  "old": "from a special acquisition",
+  "new": "from a special gain",
+  "why": "reviewer (error): Glossary 7.7: ati-sandhi = outwitting treaty (Hindi अतिसन्धि kept as the term); lābha = gain. (part 2)"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "atisandhiḥ",
+  "old": "atisandhi",
+  "new": "outwitting treaty (atisandhi; literally 'over-treaty')",
+  "why": "reviewer (error): Glossary 7.7: ati-sandhi = outwitting treaty (Hindi अतिसन्धि kept as the term); lābha = gain. (part 3)"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "किन्तु सम सन्धि में जो उत्कृष्ट मित्र अथवा मित्र के संकट में मित्र प्राप्त करता है, वह छल लेता है।",
+  "new": "किन्तु सम-सन्धि में जो उत्कृष्ट मित्र अथवा मित्र की कठिनाई में मित्र प्राप्त करता है, वह छल लेता है।",
+  "why": "reviewer (minor): Hyphenate sama-sandhi; kṛcchra is 'difficulty', and Hindi संकट reads as calamity/vyasana (kept apart in the glossary)."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "But in an even treaty, he who obtains an excellent ally, or an ally in an ally's difficulty, outwits [the other].",
+  "new": "But in an equal treaty, he who obtains an excellent ally, or an ally in an ally's difficulty, outwits [the other].",
+  "why": "reviewer (error): same (7.7)."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "sama-sandhau",
+  "old": "in an even treaty",
+  "new": "in an equal treaty",
+  "why": "reviewer (error): same (7.7). (part 2)"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "मित्र के संकट में भी नित्य, वश में न रहने वाला, अथवा अनित्य, वश में रहने वाला — “नित्य, वश में न रहने वाला श्रेष्ठ है, क्योंकि वह उपकार न करता हुआ भी अपकार नहीं करता,” ऐसा आचार्य कहते हैं।",
+  "new": "मित्र की कठिनाई में भी नित्य, वश में न रहने वाला, अथवा अनित्य, वश में रहने वाला — “नित्य, वश में न रहने वाला श्रेष्ठ है, क्योंकि वह उपकार न करता हुआ भी अपकार नहीं करता,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): kṛcchra = difficulty, not संकट (calamity)."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "The controlled, inconstant [one] is better.",
+  "new": "The controlled, inconstant [one] [is] better.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "As long as [it] helps, for so long [it] is an ally; an ally [is] one having help as its mark.",
+  "new": "As long as [it] helps, so long [it] is an ally; an ally [is] one having help as its mark.",
+  "why": "reviewer (minor): 'for' reads as a rendering of hi, which is absent; tāvat = 'so long'."
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "upakaroti,",
+  "old": "upakaroti,",
+  "new": "upakaroti",
+  "why": "reviewer (minor): The comma is attached to the wrong word: the printed comma follows bhavati, not upakaroti."
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "bhavati",
+  "old": "bhavati",
+  "new": "bhavati,",
+  "why": "reviewer (minor): The comma is attached to the wrong word: the printed comma follows bhavati, not upakaroti. (part 2)"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "The constant [one] of small enjoyment is better.",
+  "new": "The constant [one] of small enjoyment [is] better.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "भारी रूप से उठने वाला महान् मित्र अथवा हल्के रूप से उठने वाला अल्प — “भारी रूप से उठने वाला महान् मित्र प्रताप उत्पन्न करने वाला होता है, और जब उठता है तब कार्य साधता है,” ऐसा आचार्य कहते हैं।",
+  "new": "भारी उत्थान वाला महान् मित्र अथवा हल्के उत्थान वाला अल्प — “भारी उत्थान वाला महान् मित्र प्रताप उत्पन्न करने वाला होता है, और जब उठता है तब कार्य साधता है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): 'रूप से' (in a ... manner) is added; the compounds are 'of heavy / light rising' (guru-/laghu-samuttha)."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "A great ally of heavy rising or a small one of light rising — “A great ally of heavy rising is a producer of might, and when [it] rises, then [it] accomplishes the task,” say the teachers.",
+  "new": "A great ally of heavy rising or a small one of light rising — “A great ally of heavy rising is a producer of splendour, and when [it] rises, then [it] accomplishes the task,” say the teachers.",
+  "why": "reviewer (error): Glossary 7.4: pratāpa = splendour (प्रताप), not 'might' (prabhāva)."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "pratāpa-karam",
+  "old": "causing might",
+  "new": "causing splendour",
+  "why": "reviewer (error): Glossary 7.4: pratāpa = splendour (प्रताप), not 'might' (prabhāva). (part 2)"
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "guru-samuttha / laghu-samuttha taken literally 'heavy-rising / light-rising' (i.e. slow or quick to rise, to take the field); the text does not say more. pratāpa = might, majesty. The first iti closes the either-or question; not rendered.",
+  "new": "guru-samuttha / laghu-samuttha taken literally 'heavy-rising / light-rising' (i.e. slow or quick to rise, to take the field); the text does not say more. pratāpa = might, majesty. The first iti closes the either-or question; not rendered. Reviewer: pratāpa = splendour (glossary 7.4), not 'might'.",
+  "why": "reviewer (error): Glossary 7.4: pratāpa = splendour (प्रताप), not 'might' (prabhāva). (part 3)"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "The small [one] of light rising is better.",
+  "new": "The small [one] of light rising [is] better.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "हल्के रूप से उठने वाला अल्प श्रेष्ठ है।",
+  "new": "हल्के उत्थान वाला अल्प श्रेष्ठ है।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "हल्के रूप से उठने वाला अल्प मित्र कार्य के समय को निकलने नहीं देता, और दुर्बलता से इच्छानुसार उपभोग्य होता है, दूसरा नहीं, प्रकृष्ट भूमि वाला।",
+  "new": "हल्के उत्थान वाला अल्प मित्र कार्य के समय को निकलने नहीं देता, और दुर्बलता से इच्छानुसार उपभोग्य होता है, दूसरा नहीं, प्रकृष्ट भूमि वाला।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "yathā-iṣṭa-bhogyam",
+  "old": "to be enjoyed as desired",
+  "new": "to be used as desired",
+  "why": "reviewer (minor): Glossary 7.5: bhogya = fit to be used (भोग्य); the gloss says 'enjoyed' and Hindi उपभोग्य."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "हल्के उत्थान वाला अल्प मित्र कार्य के समय को निकलने नहीं देता, और दुर्बलता से इच्छानुसार उपभोग्य होता है, दूसरा नहीं, प्रकृष्ट भूमि वाला।",
+  "new": "हल्के उत्थान वाला अल्प मित्र कार्य के समय को निकलने नहीं देता, और दुर्बलता से इच्छानुसार भोग्य होता है, दूसरा नहीं, प्रकृष्ट भूमि वाला।",
+  "why": "reviewer (minor): Glossary 7.5: bhogya = fit to be used (भोग्य); the gloss says 'enjoyed' and Hindi उपभोग्य. (part 2)"
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "[The one] having uncontrolled troops is better.",
+  "new": "[The one] having uncontrolled troops [is] better.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "For the uncontrolled [one] can be made controlled by conciliation and the rest, not the other, engaged in a task, to be drawn back.",
+  "new": "For the uncontrolled [one] can be made controlled by conciliation and the rest, not the other, engaged in a task, [can be] drawn back.",
+  "why": "reviewer (error): Elliptic clause left without its supplied predicate (śakyam understood from the first clause); as it stands the English and Hindi ('वापस समेटा जाने योग्य') read as if the other WERE fit to be drawn back."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "क्योंकि वश में न रहने वाले को साम आदि से वश में किया जा सकता है, दूसरा नहीं, कार्य में लगा हुआ, वापस समेटा जाने योग्य।",
+  "new": "क्योंकि वश में न रहने वाले को साम आदि से वश में किया जा सकता है, कार्य में लगा हुआ दूसरा वापस समेटा नहीं जा सकता।",
+  "why": "reviewer (error): Elliptic clause left without its supplied predicate (śakyam understood from the first clause); as it stands the English and Hindi ('वापस समेटा जाने योग्य') read as if the other WERE fit to be drawn back. (part 2)"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "An ally of enjoyment in men or of enjoyment in money — “An ally of enjoyment in men is better; an ally of enjoyment in men is a producer of might, and when [it] rises, then [it] accomplishes the task,” say the teachers.",
+  "new": "An ally of enjoyment in men or of enjoyment in money — “An ally of enjoyment in men is better; an ally of enjoyment in men is a producer of splendour, and when [it] rises, then [it] accomplishes the task,” say the teachers.",
+  "why": "reviewer (error): same (7.4)."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "pratāpa-karam",
+  "old": "causing might",
+  "new": "causing splendour",
+  "why": "reviewer (error): same (7.4). (part 2)"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "An ally of enjoyment in money is better.",
+  "new": "An ally of enjoyment in money [is] better.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "For connection with money is constant, with the army sometimes.",
+  "new": "For connection with money [is] constant, with the army sometimes.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "An ally of enjoyment in money or of enjoyment in land — “[The ally] of enjoyment in money, because of having movement, is one who causes the remedy of all expenditure,” say the teachers.",
+  "new": "An ally of enjoyment in money or of enjoyment in land — “[The ally] of enjoyment in money, because of having movement, [is] one who causes the remedy of all expenditure,” say the teachers.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "For “ally and money arise from the acquisition of land” has been said before.",
+  "new": "For “ally and money arise from the gain of land” has been said before.",
+  "why": "reviewer (error): same (lābha = gain)."
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhāt",
+  "old": "from the acquisition of land",
+  "new": "from the gain of land",
+  "why": "reviewer (error): same (lābha = gain). (part 2)"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "Therefore an ally of enjoyment in land is better.",
+  "new": "Therefore an ally of enjoyment in land [is] better.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "पुरुषों में भोग के बराबर होने पर पराक्रम, कष्ट सहने की क्षमता, अनुराग अथवा सब सेना का लाभ मित्र के कुल से विशेष है।",
+  "new": "पुरुषों में भोग के बराबर होने पर पराक्रम, कष्ट सहने की क्षमता, अनुराग अथवा सब सेना का लाभ मित्र के कुल से विशेषता है।",
+  "why": "reviewer (minor): 'विशेष' alone reads as the adjective 'special'; viśeṣa here is the noun 'distinction'."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "When enjoyment in men is equal, valour, endurance of hardship, attachment, or the acquisition of all troops [is] the distinction from the ally's family.",
+  "new": "When enjoyment in men is equal, valour, endurance of hardship, attachment, or the gain of all troops [is] the distinction from the ally's family.",
+  "why": "reviewer (error): same (lābha = gain)."
+ },
+ {
+  "n": "35",
+  "field": "word.gloss",
+  "word": "sarva-bala-lābhaḥ",
+  "old": "acquisition of all troops",
+  "new": "gain of all troops",
+  "why": "reviewer (error): same (lābha = gain). (part 2)"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "धन में भोग के बराबर होने पर प्रार्थित-अर्थता, प्रचुरता, अल्प प्रयास और निरन्तरता विशेष है।",
+  "new": "धन में भोग के बराबर होने पर माँगे हुए अर्थ का भाव, प्रचुरता, प्रयास की अल्पता और निरन्तरता विशेषता है।",
+  "why": "reviewer (minor): English translates prārthita-arthatā ('the state of the object requested') and 'littleness of effort' but Hindi leaves the first as a Sanskrit compound and drops the abstract -tā of alpa-prayasatā; 'विशेष' as in unit 35."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "In this matter there is this [verse].",
+  "new": "In this matter, this is.",
+  "why": "reviewer (minor): '[verse]' is an interpretive noun supplied by the drafter (the glossary allows only a bare copula); the Hindi is already literal."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "नित्य, वश में रहने वाला, हल्के रूप से उठने वाला, पिता-पितामह का, महान् और द्वैधभाव से रहित — उत्कृष्ट मित्र छह गुणों वाला कहा जाता है।",
+  "new": "नित्य, वश में रहने वाला, हल्के उत्थान वाला, पिता-पितामह का, महान् और द्वैधभाव से रहित — उत्कृष्ट मित्र छह गुणों वाला कहा जाता है।",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "Constant, controlled, of light rising, of father and grandfather, great, and without duplicity — an excellent ally is called one having six qualities.",
+  "new": "Constant, controlled, of light rising, of father and grandfather, great, and non-dual — an excellent ally is called one having six qualities.",
+  "why": "reviewer (minor): 'duplicity' adds the sense of deceit; advaidhya is literally 'non-doubleness' (cf. glossary dvaidhī-bhāva, dvaidhī-bhūta)."
+ },
+ {
+  "n": "38",
+  "field": "word.gloss",
+  "word": "advaidhyam",
+  "old": "without duplicity",
+  "new": "non-dual (literally 'not double')",
+  "why": "reviewer (minor): 'duplicity' adds the sense of deceit; advaidhya is literally 'non-doubleness' (cf. glossary dvaidhī-bhāva, dvaidhī-bhūta). (part 2)"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "वश में रहने वाला तीन प्रकार का कहा जाता है: सर्व, चित्र और महान् भोग वाला; एक ओर से भोग करने वाला, दोनों ओर से, और दूसरा सब ओर से भोग करने वाला।",
+  "new": "वश में रहने वाला तीन प्रकार का कहा जाता है: सर्व, चित्र और महान् भोग वाला; एक ओर से भोग करने वाला, दोनों ओर से, सब ओर से भोग करने वाला, और दूसरा।",
+  "why": "reviewer (error): Sanskrit order is ekato-bhogī, ubhayataḥ, sarvato-bhogi, ca, aparam; the draft moves 'and the other' in front of sarvato-bhogi and attaches 'the other' to it, which the text does not say (the draft's own note says the mapping is uncertain)."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "The controlled [ally] is called threefold: of all, varied and great enjoyment; enjoying from one side, from both sides, and the other enjoying from all sides.",
+  "new": "The controlled [ally] is called threefold: of all, varied and great enjoyment; enjoying from one side, from both sides, enjoying from all sides, and another.",
+  "why": "reviewer (error): Sanskrit order is ekato-bhogī, ubhayataḥ, sarvato-bhogi, ca, aparam; the draft moves 'and the other' in front of sarvato-bhogi and attaches 'the other' to it, which the text does not say (the draft's own note says the mapping is uncertain). (part 2)"
+ },
+ {
+  "n": "40",
+  "field": "word.w",
+  "word": "ekatas-bhogī",
+  "old": "ekatas-bhogī",
+  "new": "ekatas-bhogi",
+  "why": "reviewer (minor): Labelled n. nom. sg. but w has the masculine long ī; the printed neuter form is short (sarvato.bhogi)."
+ },
+ {
+  "n": "40",
+  "field": "word.w",
+  "word": "sarvatas-bhogī",
+  "old": "sarvatas-bhogī",
+  "new": "sarvatas-bhogi",
+  "why": "reviewer (minor): Labelled n. nom. sg. but w has the masculine long ī; the printed neuter form is short (sarvato.bhogi). (part 2)"
+ },
+ {
+  "n": "40",
+  "field": "word.w",
+  "word": "ubhayatas",
+  "old": "ubhayatas",
+  "new": "ubhayataḥ",
+  "why": "reviewer (minor): w must keep the printed ending (ubhayataḥ)."
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "[The ally] which is assailed from another quarter, or indeed has a light calamity, and makes a treaty for help — that ally is controlled, unstable.",
+  "new": "[The ally] which is assailed from another quarter, or indeed has a light calamity, and makes a treaty for help — that ally [is] controlled, unstable.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "42",
+  "field": "word.w",
+  "word": "anyatas",
+  "old": "anyatas",
+  "new": "anyataḥ",
+  "why": "reviewer (minor): w must keep the printed ending (anyataḥ, as in 'niṣpattitaḥ' of the glossary)."
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Bound by a single purpose, then changeable toward the one to be helped, and ally-natured, this ally is without duplicity in adversity.",
+  "new": "Bound by a single purpose, then changeable toward the one to be helped, and ally-natured, this ally is non-dual in adversity.",
+  "why": "reviewer (minor): same as unit 38."
+ },
+ {
+  "n": "43",
+  "field": "word.gloss",
+  "word": "advaidhyam",
+  "old": "without duplicity",
+  "new": "non-dual (literally 'not double')",
+  "why": "reviewer (minor): same as unit 38. (part 2)"
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "यह मित्र, एक अर्थ से बँधा हुआ, तब उपकार्य के प्रति परिवर्तनशील और मित्रभावी, आपत्ति में द्वैधभाव से रहित है।",
+  "new": "यह मित्र, एक प्रयोजन से बँधा हुआ, तब उपकार्य के प्रति परिवर्तनशील और मित्रभावी, आपत्ति में द्वैधभाव से रहित है।",
+  "why": "reviewer (minor): artha = 'purpose' in the English; Hindi अर्थ alone is ambiguous (meaning/wealth)."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "मित्र-भाव से मित्र ध्रुव है, शत्रु के साथ साझा होने से चल; किसी का नहीं, उदासीन; दोनों में वह दोनों के भाव वाला है।",
+  "new": "मित्र-भाव से मित्र स्थिर है, शत्रु के साथ साझा होने से चल; किसी का नहीं, उदासीन; दोनों में वह दोनों के भाव वाला है।",
+  "why": "reviewer (minor): dhruva is rendered 'firm' in English; unit 53 Hindi uses स्थिर for the same word, and adhruva (unit 42) is अस्थिर."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "The ally which is an enemy of the conqueror, gone to concealment, or not engaged in helping, or incapable — that is non-helping.",
+  "new": "The ally which is an enemy of the conqueror, gone to concealment, not engaged in helping, or incapable, or non-helping — that [one].",
+  "why": "reviewer (error): Sanskrit has 'upakāre aniviṣṭaṃ vā aśaktaṃ vā anupakāri tat': vā stands before aśakta and before anupakāri. The draft puts 'or' between 'concealment' and 'not engaged' (no vā there) and drops the vā before anupakāri."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "जो मित्र विजिगीषु का अमित्र है, छिपाव में चला गया है, अथवा उपकार में लगा नहीं है, अथवा असमर्थ है, वह उपकार न करने वाला है।",
+  "new": "जो मित्र विजिगीषु का अमित्र है, छिपाव में चला गया है, उपकार में लगा नहीं है, अथवा असमर्थ है, अथवा उपकार न करने वाला है — वह।",
+  "why": "reviewer (error): Sanskrit has 'upakāre aniviṣṭaṃ vā aśaktaṃ vā anupakāri tat': vā stands before aśakta and before anupakāri. The draft puts 'or' between 'concealment' and 'not engaged' (no vā there) and drops the vā before anupakāri. (part 2)"
+ },
+ {
+  "n": "45",
+  "field": "notes",
+  "old": "antardhitāṃ gatam: 'gone to concealment' (antardhitā, feminine abstract), taken literally. The list of unhelpful kinds is read as alternatives: enemy of the conqueror gone into concealment / not engaged in helping / incapable. vijigīṣu = the conqueror (glossary 6.2).",
+  "new": "antardhitāṃ gatam: 'gone to concealment' (antardhitā, feminine abstract), taken literally. The list of unhelpful kinds is read as alternatives: enemy of the conqueror gone into concealment / not engaged in helping / incapable. vijigīṣu = the conqueror (glossary 6.2). Reviewer: vā kept where printed (before aśaktam and before anupakāri); the alternative reading 'tat anupakāri' as a predicate 'that is non-helping' is possible.",
+  "why": "reviewer (error): Sanskrit has 'upakāre aniviṣṭaṃ vā aśaktaṃ vā anupakāri tat': vā stands before aśakta and before anupakāri. The draft puts 'or' between 'concealment' and 'not engaged' (no vā there) and drops the vā before anupakāri. (part 3)"
+ },
+ {
+  "n": "46",
+  "field": "english",
+  "old": "The ally who favours [one] dear to the other, or [one] to be protected, venerable, or indeed connected — for that [ally] is common with the enemy.",
+  "new": "The ally who favours [one] dear to the other, or [one] to be protected, venerable, or indeed connected — for that [ally] [is] common with the enemy.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "48",
+  "field": "hindi",
+  "old": "जो शत्रु और नेता की वृद्धि का दुर्बलता से अनुसरण करता है, दोनों के द्वारा भी जिससे द्वेष नहीं किया गया, उसे उभयभावी जाने।",
+  "new": "जो शत्रु और नेता की वृद्धि का दुर्बलता से अनुसरण करता है, दोनों के द्वारा भी द्वेष न किया गया, उसे दोनों के भाव वाला जाने।",
+  "why": "reviewer (minor): ubhaya-bhāvin is rendered 'दोनों के भाव वाला' in unit 44 and 'of both-nature' in English; 'जिससे' is an added relative pronoun (the English brackets '[and is]')."
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "kāraṇa-akāraṇa-dhvastam",
+  "old": "m. acc. sg. (tat-puruṣa, dvandva)",
+  "new": "n. acc. sg. (tat-puruṣa, dvandva)",
+  "why": "reviewer (minor): Labelled m. acc. sg. but they qualify mitram, which the draft itself labels n. acc. sg."
+ },
+ {
+  "n": "49",
+  "field": "word.gram",
+  "word": "kāraṇa-akāraṇa-āgatam",
+  "old": "m. acc. sg. (tat-puruṣa, dvandva)",
+  "new": "n. acc. sg. (tat-puruṣa, dvandva)",
+  "why": "reviewer (minor): Labelled m. acc. sg. but they qualify mitram, which the draft itself labels n. acc. sg. (part 2)"
+ },
+ {
+  "n": "50",
+  "field": "english",
+  "old": "A small acquisition quickly, or a great one after a long time — “A small acquisition quickly, one agreeing with the task, place and time, is better,” say the teachers.",
+  "new": "A small gain quickly, or a great [one] after a long time — “A small gain quickly, agreeing with the task, place and time, [is] better,” say the teachers.",
+  "why": "reviewer (minor): Supplied 'one' (for lābha) is unbracketed in both places; Hindi 'जो ... है' adds a relative clause for the adjective saṃvādakaḥ."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "शीघ्र अल्प लाभ अथवा देर से महान् — “शीघ्र अल्प लाभ, जो कार्य, देश और काल के अनुरूप है, श्रेष्ठ है,” ऐसा आचार्य कहते हैं।",
+  "new": "शीघ्र अल्प लाभ अथवा देर से महान् — “शीघ्र अल्प लाभ, कार्य, देश और काल के अनुरूप, श्रेष्ठ है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): Supplied 'one' (for lābha) is unbracketed in both places; Hindi 'जो ... है' adds a relative clause for the adjective saṃvādakaḥ. (part 2)"
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "A great acquisition, not perishing for a long time, of the same nature as seed, is better; in the contrary [case], the former.",
+  "new": "A great acquisition, not perishing for a long time, of the same nature as seed, [is] better; in the contrary [case], the former.",
+  "why": "reviewer (minor): Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked)."
+ },
+ {
+  "n": "52",
+  "field": "english",
+  "old": "A great acquisition, not perishing for a long time, of the same nature as seed, [is] better; in the contrary [case], the former.",
+  "new": "A great gain, not perishing for a long time, of the same nature as seed, [is] better; in the contrary [case], the former.",
+  "why": "reviewer (error): same (lābha = gain)."
+ },
+ {
+  "n": "52",
+  "field": "word.gloss",
+  "word": "lābhaḥ",
+  "old": "acquisition",
+  "new": "gain",
+  "why": "reviewer (error): same (lābha = gain). (part 2)"
+ },
+ {
+  "n": "53",
+  "field": "word.gloss",
+  "word": "dhruve",
+  "old": "in a firm",
+  "new": "firm (agreeing with lābhe)",
+  "why": "reviewer (minor): gloss 'in a firm' is an unfinished phrase."
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "Having seen thus the rise of qualities in a firm acquisition and in a share of acquisition, [one] intent on the accomplishment of his own purpose should march, allied with the associates.",
+  "new": "Having seen thus the rise of qualities in a firm gain and in a share of gain, [one] intent on the accomplishment of his own purpose should march, allied with the associates.",
+  "why": "reviewer (error): same (lābha = gain)."
+ },
+ {
+  "n": "53",
+  "field": "word.gloss",
+  "word": "lābhe",
+  "old": "acquisition",
+  "new": "in a gain",
+  "why": "reviewer (error): same (lābha = gain). (part 2)"
+ },
+ {
+  "n": "53",
+  "field": "word.gloss",
+  "word": "lābha-aṃśe",
+  "old": "in a share of acquisition",
+  "new": "in a share of gain",
+  "why": "reviewer (error): same (lābha = gain). (part 3)"
+ }
+]
