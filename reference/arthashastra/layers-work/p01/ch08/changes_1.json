@@ -1,0 +1,31 @@
+[
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "और अमानुषों में भी यह देखा जाता है।",
+  "new": "और मनुष्येतरों में भी यह देखा जाता है।",
+  "why": "reviewer (minor): Hindi अमानुष commonly means 'inhuman, cruel'; the Sanskrit amānuṣa here is 'non-human' (beings other than humans). The Hindi would invite the wrong sense."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "“क्योंकि वे उसके सब को रोककर स्वामी के समान आचरण करते हैं।",
+  "new": "“क्योंकि वे उसके सब कुछ को रोककर स्वामी के समान आचरण करते हैं।",
+  "why": "reviewer (minor): sarvam is neuter 'everything'; Hindi 'सब को' reads as 'all (persons)'. Keep the neuter sense without adding a noun."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Therefore [one] should make ministers endowed with high birth, wisdom, purity, valour and attachment, because of the primacy of qualities.”",
+  "new": "Therefore [one] should make ministers endowed with high birth, insight, purity, valour and attachment, because of the primacy of qualities.”",
+  "why": "reviewer (minor): Glossary (1.5): prajñā = insight (प्रज्ञा); the English must match."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "abhijana-prajñā-śauca-śaurya-anurāga-yuktān",
+  "old": "endowed with high birth, wisdom, purity, valour, attachment",
+  "new": "endowed with high birth, insight, purity, valour, attachment",
+  "why": "reviewer (minor): Same: 'wisdom' should be 'insight' (glossary 1.5)."
+ }
+]
