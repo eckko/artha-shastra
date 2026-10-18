@@ -1,0 +1,382 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "\"गूढ़ पुरुषों को, गुप्तचरों,\"",
+     "problem": "The ca after the compound sattri-tīkṣṇa-rasada-bhikṣukīḥ (joining it to the preceding vyañjana list) is not rendered in Hindi; English has it.",
+     "fix": "...गूढ़ पुरुषों को और गुप्तचरों, तीक्ष्णों, ...",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गूढ़ पुरुषों को, गुप्तचरों,",
+      "new": "गूढ़ पुरुषों को और गुप्तचरों,",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "साहसी",
+     "problem": "pragalbha 'bold': साहसी is built on साहस, which the glossary fixes as 'rashness' (sāhasa, 12.2).",
+     "fix": "निर्भीक",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "साहसी",
+      "new": "निर्भीक",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसका जो बुरा तुम देखो, उसे उसी समय सूचित करो",
+     "problem": "(a) तुम is an added pronoun (the 2nd person is in the verb ending); (b) 'उसे ... सूचित करो' makes 'him' the person informed; tat is the bad thing reported (pratyādiś = report).",
+     "fix": "जिसका जो बुरा देखो, उसकी उसी समय सूचना दो",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसका जो बुरा तुम देखो, उसे उसी समय सूचित करो",
+      "new": "जिसका जो बुरा देखो, उसकी उसी समय सूचना दो",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रतिविधान करे",
+     "problem": "prati-vi-√dhā with food/clothing/lodgings = provide; Hindi प्रतिविधान reads as 'counter-measure' (the 7.6 'provide against' sense). प्रबन्ध करे is the Book 1 rendering (cf. glossary 4.3 upagraha = provision, प्रबन्ध).",
+     "fix": "का प्रबन्ध करे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "का प्रतिविधान करे",
+      "new": "का प्रबन्ध करे",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जीविका से क्षीण",
+     "problem": "English says 'diminished in livelihood' (locative-type relation); Hindi 'से' gives another relation. Align with the English.",
+     "fix": "जीविका में क्षीण",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जीविका से क्षीण",
+      "new": "जीविका में क्षीण",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जीविका से क्षीण",
+     "problem": "As unit 9.",
+     "fix": "जीविका में क्षीण",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जीविका से क्षीण",
+      "new": "जीविका में क्षीण",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मुण्डित सिर वाला",
+     "problem": "सिर is an extra noun; muṇḍa alone (English gloss 'shaven-headed'); also align with unit 14 'मुण्डित'.",
+     "fix": "मुण्डित या जटाओं वाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मुण्डित सिर वाला या",
+      "new": "मुण्डित या",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vaidehaka-antevāsinaḥ",
+     "problem": "Compound relation: by the parallel of unit 14 (prabhūta-muṇḍa-jaṭila-antevāsī, pupils who are shaven-headed/matted-haired) the first member describes the pupils: 'pupils who are vaidehakas' (karmadhāraya). 'Pupils of the trader' supplies a possessor no text names; the draft's note (the agent of unit 11, 14) is also muddled.",
+     "fix": "karmadhāraya, m. nom. pl.",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "vaidehaka-antevāsinaḥ",
+      "field": "gram",
+      "value": "karmadhāraya, m. nom. pl. (pupils who are vaidehakas; cf. unit 14)",
+      "n": "15"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vaidehaka-antevāsinaḥ",
+     "problem": "as above",
+     "fix": "pupils who are traders (vaidehaka)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "vaidehaka-antevāsinaḥ",
+      "field": "gloss",
+      "value": "pupils who are traders (vaidehaka)",
+      "n": "15"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pupils of the trader (vaidehaka)",
+     "problem": "as above; keep the relation open",
+     "fix": "And the trader (vaidehaka) pupils should honour him with samiddha-yogas.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the pupils of the trader (vaidehaka)",
+      "new": "the trader (vaidehaka) pupils",
+      "n": "15"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वैदेहक के शिष्य",
+     "problem": "as above",
+     "fix": "और वैदेहक शिष्य उसे समिद्ध-योगों से सम्मानित करें।",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वैदेहक के शिष्य",
+      "new": "वैदेहक शिष्य",
+      "n": "15"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vaidehaka-antevāsin = pupils of the vaidehaka (the agent of unit 11, 14)",
+     "problem": "Note names no clear antecedent.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: vaidehaka-antevāsinaḥ is read as a karmadhāraya, 'pupils who are traders', by the parallel of prabhūta-muṇḍa-jaṭila-antevāsī in unit 14; no possessor ('of the trader') is stated, so none is supplied. The tat-puruṣa 'pupils of a trader' remains possible.",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the deeds accomplished",
+     "problem": "karma = action is the glossary's general entry (3.1.17 'actions' in a list of particulars); 'deeds' is a second word for it.",
+     "fix": "the actions accomplished",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the deeds accomplished",
+      "new": "the actions accomplished",
+      "n": "17"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "karmāṇi",
+     "problem": "same",
+     "fix": "actions",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "karmāṇi",
+      "field": "gloss",
+      "value": "actions",
+      "n": "17"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "karma = deeds",
+     "problem": "Note still says deeds; also abhijane/glossary 5.6 'high birth' (कुल): 'family' as the place stays, quality sense is a different use (1.11 glossary line added).",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: karma is rendered 'actions' (glossary general entry), not 'deeds'. abhijane is kept as 'in the family' (कुल), the place where the actions were accomplished; the 5.6 'high birth' is the quality sense and is not meant here.",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "gūḍhāḥ ... sattriṇaḥ",
+     "problem": "Not an error: the glossary fixes both gūḍha (person) and sattrin as secret agent / गुप्तचर (12.1, 12.3, 12.5, 11.1) and does not allow Hindi to tell them apart; the draft's English brackets are the right way. Recorded in glossary (1.11).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "राजा के द्वेष्य कार्य करने वालों को",
+     "problem": "कार्य is a bare noun added where Sanskrit has dviṣṭa (neuter participle used as noun) + kārin (glossary 3.3: Hindi never adds a bare noun such as कार्य).",
+     "fix": "राजा के द्वेष्य को करने वालों को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "राजा के द्वेष्य कार्य करने वालों को",
+      "new": "राजा के द्वेष्य को करने वालों को",
+      "n": "21"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "akāraṇa-kruddhān",
+     "problem": "akāraṇa-kruddha is not a bahuvrīhi: akāraṇa is an adverbial first member of the participle kruddha ('angry without cause').",
+     "fix": "tat-puruṣa (akāraṇa adverbial), m. acc. pl., p.p. √krudh",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "akāraṇa-kruddhān",
+      "field": "gram",
+      "value": "tat-puruṣa (akāraṇa adverbial), m. acc. pl., p.p. √krudh",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "राजा के आश्रय से जीने वालों",
+     "problem": "upajīvin = one who lives on/off; 'आश्रय' (shelter) adds a sense and clashes with glossary āśraya = resort.",
+     "fix": "राजा पर जीने वालों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "राजा के आश्रय से जीने वालों",
+      "new": "राजा पर जीने वालों",
+      "n": "22"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 22 units fresh against the Sanskrit. Issues: {'error': 6, 'minor': 13}; 18 machine patches. Main errors: unit 1 Hindi drops the ca joining the two agent lists; unit 3 Hindi adds तुम and misplaces the object of pratyādiś; unit 15 vaidehaka-antevāsin read as karmadhāraya (pupils who are traders) not 'pupils of the trader'. Minor: karma 'deeds'->'actions' (17), प्रतिविधान->प्रबन्ध (6), कार्य added (21), akāraṇa-kruddha label (21), आश्रय (22), साहसी (2), सिर (13), से/में (9, 11). Unit 18 gūḍha/sattrin: glossary allows no Hindi distinction, English brackets kept. text_flags units 1 and 4 are sound (tīṣkṇa -> tīkṣṇa; stray space in pravrajyā pratyavasitaḥ, same handling as 1.7 and 1.5). No regrouping suggested. No hand edits needed (no word or flag to add or delete)."
+}

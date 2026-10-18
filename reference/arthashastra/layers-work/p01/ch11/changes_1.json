@@ -1,0 +1,132 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "उपधाओं से शुद्ध अमात्य-समूह कापटिक, उदास्थित, गृहपतिक, वैदेहक, तापस के वेश वाले गूढ़ पुरुषों को, गुप्तचरों, तीक्ष्णों, विष देने वालों, भिक्षुकियों को उत्पन्न करे।",
+  "new": "उपधाओं से शुद्ध अमात्य-समूह कापटिक, उदास्थित, गृहपतिक, वैदेहक, तापस के वेश वाले गूढ़ पुरुषों को और गुप्तचरों, तीक्ष्णों, विष देने वालों, भिक्षुकियों को उत्पन्न करे।",
+  "why": "reviewer (error): The ca after the compound sattri-tīkṣṇa-rasada-bhikṣukīḥ (joining it to the preceding vyañjana list) is not rendered in Hindi; English has it."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "दूसरों के मर्म जानने वाला, साहसी, छात्र कापटिक।",
+  "new": "दूसरों के मर्म जानने वाला, निर्भीक, छात्र कापटिक।",
+  "why": "reviewer (minor): pragalbha 'bold': साहसी is built on साहस, which the glossary fixes as 'rashness' (sāhasa, 12.2)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "उसे धन और सम्मान से प्रोत्साहित करके मन्त्री कहे — “राजा को और मुझे प्रमाण बनाकर जिसका जो बुरा तुम देखो, उसे उसी समय सूचित करो।”",
+  "new": "उसे धन और सम्मान से प्रोत्साहित करके मन्त्री कहे — “राजा को और मुझे प्रमाण बनाकर जिसका जो बुरा देखो, उसकी उसी समय सूचना दो।”",
+  "why": "reviewer (error): (a) तुम is an added pronoun (the 2nd person is in the verb ending); (b) 'उसे ... सूचित करो' makes 'him' the person informed; tat is the bad thing reported (pratyādiś = report)."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "और कर्म के फल से सब प्रव्रजितों के लिए भोजन, वस्त्र, निवास का प्रतिविधान करे।",
+  "new": "और कर्म के फल से सब प्रव्रजितों के लिए भोजन, वस्त्र, निवास का प्रबन्ध करे।",
+  "why": "reviewer (minor): prati-vi-√dhā with food/clothing/lodgings = provide; Hindi प्रतिविधान reads as 'counter-measure' (the 7.6 'provide against' sense). प्रबन्ध करे is the Book 1 rendering (cf. glossary 4.3 upagraha = provision, प्रबन्ध)."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "किसान, जीविका से क्षीण, प्रज्ञा और शुचिता से युक्त, गृहपतिक के वेश वाला।",
+  "new": "किसान, जीविका में क्षीण, प्रज्ञा और शुचिता से युक्त, गृहपतिक के वेश वाला।",
+  "why": "reviewer (minor): English says 'diminished in livelihood' (locative-type relation); Hindi 'से' gives another relation. Align with the English."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "वणिक्, जीविका से क्षीण, प्रज्ञा और शुचिता से युक्त, वैदेहक के वेश वाला।",
+  "new": "वणिक्, जीविका में क्षीण, प्रज्ञा और शुचिता से युक्त, वैदेहक के वेश वाला।",
+  "why": "reviewer (minor): As unit 9."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "मुण्डित सिर वाला या जटाओं वाला, जीविका चाहने वाला, तापस के वेश वाला।",
+  "new": "मुण्डित या जटाओं वाला, जीविका चाहने वाला, तापस के वेश वाला।",
+  "why": "reviewer (minor): सिर is an extra noun; muṇḍa alone (English gloss 'shaven-headed'); also align with unit 14 'मुण्डित'."
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "vaidehaka-antevāsinaḥ",
+  "old": "tat-puruṣa, m. nom. pl.",
+  "new": "karmadhāraya, m. nom. pl. (pupils who are vaidehakas; cf. unit 14)",
+  "why": "reviewer (error): Compound relation: by the parallel of unit 14 (prabhūta-muṇḍa-jaṭila-antevāsī, pupils who are shaven-headed/matted-haired) the first member describes the pupils: 'pupils who are vaidehakas' (karmadhāraya). 'Pupils of the trader' supplies a possessor no text names; the draft's note (the agent of unit 11, 14) is also muddled."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "vaidehaka-antevāsinaḥ",
+  "old": "pupils of the trader (vaidehaka)",
+  "new": "pupils who are traders (vaidehaka)",
+  "why": "reviewer (error): as above"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "And the pupils of the trader (vaidehaka) should honour him with samiddha-yogas.",
+  "new": "And the trader (vaidehaka) pupils should honour him with samiddha-yogas.",
+  "why": "reviewer (error): as above; keep the relation open"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "और वैदेहक के शिष्य उसे समिद्ध-योगों से सम्मानित करें।",
+  "new": "और वैदेहक शिष्य उसे समिद्ध-योगों से सम्मानित करें।",
+  "why": "reviewer (error): as above"
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "samiddha-yoga is obscure and kept untranslated: samiddha literally \"kindled, flourishing\", yoga has several senses in this text (compound, contrivance, connection) and none is chosen here. A plausible sense is lavish arrangements or provisions, but the line does not say so. Low confidence for that phrase. vaidehaka-antevāsin = pupils of the vaidehaka (the agent of unit 11, 14).",
+  "new": "samiddha-yoga is obscure and kept untranslated: samiddha literally \"kindled, flourishing\", yoga has several senses in this text (compound, contrivance, connection) and none is chosen here. A plausible sense is lavish arrangements or provisions, but the line does not say so. Low confidence for that phrase. vaidehaka-antevāsin = pupils of the vaidehaka (the agent of unit 11, 14). Review: vaidehaka-antevāsinaḥ is read as a karmadhāraya, 'pupils who are traders', by the parallel of prabhūta-muṇḍa-jaṭila-antevāsī in unit 14; no possessor ('of the trader') is stated, so none is supplied. The tat-puruṣa 'pupils of a trader' remains possible.",
+  "why": "reviewer (minor): Note names no clear antecedent."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "And [he] should declare, of those who have approached with wishes for prosperity, the deeds accomplished in the family, by the science of the limbs (aṅga-vidyā) and by the signals of the pupils: small gain, burning by fire, fear of thieves, killing of the treasonable, giving of satisfaction, knowledge of tidings from abroad, “This will happen today or tomorrow, or the king will do this.”",
+  "new": "And [he] should declare, of those who have approached with wishes for prosperity, the actions accomplished in the family, by the science of the limbs (aṅga-vidyā) and by the signals of the pupils: small gain, burning by fire, fear of thieves, killing of the treasonable, giving of satisfaction, knowledge of tidings from abroad, “This will happen today or tomorrow, or the king will do this.”",
+  "why": "reviewer (minor): karma = action is the glossary's general entry (3.1.17 'actions' in a list of particulars); 'deeds' is a second word for it."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "karmāṇi",
+  "old": "deeds",
+  "new": "actions",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "samedha-āśāsti is obscure: samedha is read as \"prosperity\" (from sam-√edh) and āśāsti as \"wish, blessing\"; low confidence for this compound. Two ca: the first joins the sentence to the preceding units and the second joins aṅga-vidyayā with śiṣya-sañjñābhiḥ. abhijane: glossary 5.6 gives abhijana = high birth (कुल); here it is rendered \"family\" as the place where the deeds were accomplished, and a person should align. karma = deeds (the actions of the visitors' families). dūṣya = the treasonable (glossary). The items after the dash are in apposition to karmāṇi; the quoted prediction is the last item, with no ca before it. The closing iti is carried by the quotation marks. The lone \"-\" is dash punctuation.",
+  "new": "samedha-āśāsti is obscure: samedha is read as \"prosperity\" (from sam-√edh) and āśāsti as \"wish, blessing\"; low confidence for this compound. Two ca: the first joins the sentence to the preceding units and the second joins aṅga-vidyayā with śiṣya-sañjñābhiḥ. abhijane: glossary 5.6 gives abhijana = high birth (कुल); here it is rendered \"family\" as the place where the deeds were accomplished, and a person should align. karma = deeds (the actions of the visitors' families). dūṣya = the treasonable (glossary). The items after the dash are in apposition to karmāṇi; the quoted prediction is the last item, with no ca before it. The closing iti is carried by the quotation marks. The lone \"-\" is dash punctuation. Review: karma is rendered 'actions' (glossary general entry), not 'deeds'. abhijane is kept as 'in the family' (कुल), the place where the actions were accomplished; the 5.6 'high birth' is the quality sense and is not meant here.",
+  "why": "reviewer (minor): Note still says deeds; also abhijane/glossary 5.6 'high birth' (कुल): 'family' as the place stays, quality sense is a different use (1.11 glossary line added)."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "और जो कारण से क्रुद्ध, उन्हें धन और सम्मान से शान्त करे; बिना कारण क्रुद्धों को चुपचाप दण्ड से; और राजा के द्वेष्य कार्य करने वालों को।",
+  "new": "और जो कारण से क्रुद्ध, उन्हें धन और सम्मान से शान्त करे; बिना कारण क्रुद्धों को चुपचाप दण्ड से; और राजा के द्वेष्य को करने वालों को।",
+  "why": "reviewer (minor): कार्य is a bare noun added where Sanskrit has dviṣṭa (neuter participle used as noun) + kārin (glossary 3.3: Hindi never adds a bare noun such as कार्य)."
+ },
+ {
+  "n": "21",
+  "field": "word.gram",
+  "word": "akāraṇa-kruddhān",
+  "old": "bahuvrīhi, m. acc. pl.",
+  "new": "tat-puruṣa (akāraṇa adverbial), m. acc. pl., p.p. √krudh",
+  "why": "reviewer (minor): akāraṇa-kruddha is not a bahuvrīhi: akāraṇa is an adverbial first member of the participle kruddha ('angry without cause')."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "और राजा द्वारा धन और सम्मान से पूजित, राजा के आश्रय से जीने वालों की शुचिता जानें — ये पाँच संस्थाएँ कही गई हैं।",
+  "new": "और राजा द्वारा धन और सम्मान से पूजित, राजा पर जीने वालों की शुचिता जानें — ये पाँच संस्थाएँ कही गई हैं।",
+  "why": "reviewer (minor): upajīvin = one who lives on/off; 'आश्रय' (shelter) adds a sense and clashes with glossary āśraya = resort."
+ }
+]
