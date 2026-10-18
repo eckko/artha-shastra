@@ -1,0 +1,421 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The strong one desiring to conquer [the one] causing agitation [by] the permitted treaty-stipulation should march from there, from where [there are] one's own ground and the course of one's own season for one's own troops, and [where] the enemy [has] a retreat that is no fort, [has] no rear and no reinforcer.",
+  "new": "The strong one desiring to conquer [the one] causing agitation [by] the permitted treaty-stipulation should march from there, from where [there are] one's own ground and the course of one's own season for one's own troops, [where] the enemy [has] a retreat that is no fort, [has] no rear and no reinforcer.",
+  "why": "reviewer (error): Unbracketed 'and' with no Sanskrit ca: the two ca of the Sanskrit are already rendered ('and the course', 'no rear and no reinforcer')."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "माने हुए सन्धि-पण के उद्वेग को करने वाले को जीतना चाहने वाला बलवान्, जहाँ से अपनी भूमि और अपनी सेनाओं की अपनी ऋतु की वृत्ति हो, और शत्रु दुर्ग-रहित अपसार वाला, पार्ष्णि-रहित और आसार-रहित हो, वहाँ से चढ़ाई करे।",
+  "new": "माने हुए सन्धि-पण के उद्वेग को करने वाले को जीतना चाहने वाला बलवान्, जहाँ से अपनी भूमि और अपनी सेनाओं की अपनी ऋतु की वृत्ति हो, शत्रु दुर्ग-रहित अपसार वाला, पार्ष्णि-रहित और आसार-रहित हो, वहाँ से चढ़ाई करे।",
+  "why": "reviewer (error): Third और; the Sanskrit has only two ca (after sva-ṛtu-vṛtti and after anāsāra)."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "माने हुए सन्धि-पण के उद्वेग को करने वाले को जीतना चाहने वाला बलवान्, जहाँ से अपनी भूमि और अपनी सेनाओं की अपनी ऋतु की वृत्ति हो, शत्रु दुर्ग-रहित अपसार वाला, पार्ष्णि-रहित और आसार-रहित हो, वहाँ से चढ़ाई करे।",
+  "new": "अनुमत सन्धि-पण से उद्वेग करने वाले को जीतना चाहने वाला बलवान्, जहाँ से अपनी भूमि और अपनी सेनाओं की अपनी ऋतु की वृत्ति हो, शत्रु दुर्ग-रहित अपसार वाला, पार्ष्णि-रहित और आसार-रहित हो, वहाँ से चढ़ाई करे।",
+  "why": "reviewer (minor): Hindi reads 'agitation of the stipulation' while English says 'agitation [by] the permitted stipulation'; 'माने हुए' is 'accepted', not 'permitted' (anujñāta)."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The strong one desiring to conquer [the one] causing agitation [by] the permitted treaty-stipulation should march from there, from where [there are] one's own ground and the course of one's own season for one's own troops, [where] the enemy [has] a retreat that is no fort, [has] no rear and no reinforcer.",
+  "new": "The strong one desiring to conquer [the one] causing agitation [by] the permitted peace-stipulation should march from there, from where [there are] one's own ground and the course of one's own season for one's own troops, [where] the enemy [has] a retreat that is no fort, [has] no rear and no reinforcer.",
+  "why": "reviewer (minor): Book 7 convention: bare sandhi (not a named kind) = peace."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "anujñāta-sandhi-paṇa-udvega-karam",
+  "old": "causing agitation [by] the permitted treaty-stipulation",
+  "new": "causing agitation [by] the permitted peace-stipulation",
+  "why": "reviewer (minor): Same: bare sandhi = peace."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "The first compound anujñāta-sandhi-paṇa-udvega-karam is obscure: taken as accusative object of vijigīṣamāṇaḥ ('desiring to conquer [him who] causes agitation over a permitted treaty-stipulation'); alternatives: a different reading of paṇa (bargain, stake) or of anujñāta (permitted, assented to). sandhi = treaty (Book 7). adurga-apasāra: taken as 'whose retreat is no fort'; alternative 'without fort and without retreat'. apārṣṇi: 'without a rear'; alternative 'without a heel-seizer' (pārṣṇi-grāha). sva-ṛtu-vṛtti: 'course of own season' is literal, i.e. the season suiting one's own troops. ca after anāsāra joins the last items. yāyāt = should march.",
+  "new": "The first compound anujñāta-sandhi-paṇa-udvega-karam is obscure: taken as accusative object of vijigīṣamāṇaḥ ('desiring to conquer [him who] causes agitation over a permitted treaty-stipulation'); alternatives: a different reading of paṇa (bargain, stake) or of anujñāta (permitted, assented to). sandhi = treaty (Book 7). adurga-apasāra: taken as 'whose retreat is no fort'; alternative 'without fort and without retreat'. apārṣṇi: 'without a rear'; alternative 'without a heel-seizer' (pārṣṇi-grāha). sva-ṛtu-vṛtti: 'course of own season' is literal, i.e. the season suiting one's own troops. ca after anāsāra joins the last items. yāyāt = should march. Correction: bare sandhi here = peace (Book 7 convention), so 'peace-stipulation' is used; the earlier 'sandhi = treaty' is superseded.",
+  "why": "reviewer (minor): Note contradicts the Book 7 convention (bare sandhi = peace)."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "“Protection of village [and] forest dependants, cattle-stations [and] merchant-routes, and the handing over of [those] abandoned, fled [and] doing harm” — he should practise conciliation.",
+  "new": "“Protection of village [and] forest dependants, cattle-stations [and] merchant-routes, and the handing over of [those] abandoned, fled and doing harm” — he should practise conciliation.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and' (7.17 convention, as 3.16/3.20)."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "ujjhita-apasṛta-apakāriṇām",
+  "old": "of [those] abandoned, fled [and] doing harm",
+  "new": "of [those] abandoned, fled and doing harm",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "“Gift of land, property [and] a maiden, and of freedom from fear” — he should practise gift.",
+  "new": "“Gift of land, property and a girl, and of freedom from fear” — he should practise gift.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and'; kanyā-dāna = gift of a girl in 7.14, align."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "bhūmi-dravya-kanyā-dānam",
+  "old": "gift of land, property [and] a maiden",
+  "new": "gift of land, property and a girl",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "“Request for treasury, army, land [and] share, by the support of any one of the neighbouring chiefs, forest chiefs, members of his family [and] princes in disfavour” — he should practise dissension.",
+  "new": "“Request for treasury, army, land and share, by the support of any one of the neighbouring chiefs, forest chiefs, members of his family [and] princes in disfavour” — he should practise dissension.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and'."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "“Request for treasury, army, land and share, by the support of any one of the neighbouring chiefs, forest chiefs, members of his family [and] princes in disfavour” — he should practise dissension.",
+  "new": "“Request for treasury, army, land and share, by the support of any one of the neighbouring chiefs, forest chiefs, members of his family and princes in disfavour” — he should practise dissension.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "sāmanta-āṭavika-tat-kulīna-aparuddhānām",
+  "old": "of neighbouring chiefs, forest chiefs, members of his family [and] princes in disfavour",
+  "new": "of neighbouring chiefs, forest chiefs, members of his family and princes in disfavour",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "kośa-daṇḍa-bhūmi-dāya-yācanam",
+  "old": "request for treasury, army, land [and] share",
+  "new": "request for treasury, army, land and share",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "Glossary terms: sāmanta = neighbouring chief, āṭavika = forest chief, tat-kulīna = member of his family, aparuddha = prince in disfavour; upagraha = support. 'his' in tat-kulīna is not identified in the unit. dāya = share (alternatives: gift, inheritance). daṇḍa here = army. bheda as upāya = dissension. iti closes the description (quotation marks).",
+  "new": "Glossary terms: sāmanta = neighbouring chief, āṭavika = forest chief, tat-kulīna = member of his family, aparuddha = prince in disfavour; upagraha = support. 'his' in tat-kulīna is not identified in the unit. dāya = share (alternatives: gift, inheritance). daṇḍa here = army. bheda as upāya = dissension. iti closes the description (quotation marks). Alternative grouping: dāya may be a share in the treasury, army and land (kośa-daṇḍa-bhūmi) rather than a fourth item.",
+  "why": "reviewer (minor): The grouping 'treasury, army, land, share' is one reading; 'a share of the treasury, army and land' is possible and should be recorded."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "“Capture of enemies by the means of open, treacherous [and] silent fighting [and] acquisition of forts” — he should practise force.",
+  "new": "“Capture of enemies by the means of open battle, treacherous warfare, silent battle and acquisition of forts” — he should practise force.",
+  "why": "reviewer (error): Glossary (12.1, 7.6): prakāśa-yuddha / kūṭa-yuddha / tūṣṇīm-yuddha = open battle / treacherous warfare / silent battle; Hindi already uses the terms, English must match; dvandva 'and' unbracketed."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "prakāśa-kūṭa-tūṣṇīm-yuddha-durga-lambha-upāyaiḥ",
+  "old": "by the means of open, treacherous [and] silent fighting [and] acquisition of forts",
+  "new": "by the means of open battle, treacherous warfare, silent battle and acquisition of forts",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "“प्रकाश-युद्ध, कूटयुद्ध, मौन युद्ध, दुर्ग-लाभ के उपायों से अमित्रों का प्रग्रहण” — दण्ड का आचरण करे।",
+  "new": "“प्रकाश-युद्ध, कूटयुद्ध, तूष्णीं-युद्ध, दुर्ग-लाभ के उपायों से अमित्रों का प्रग्रहण” — दण्ड का आचरण करे।",
+  "why": "reviewer (minor): 7.6 glossary: तूष्णीं-युद्ध."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "“प्रकाश-युद्ध, कूटयुद्ध, तूष्णीं-युद्ध, दुर्ग-लाभ के उपायों से अमित्रों का प्रग्रहण” — दण्ड का आचरण करे।",
+  "new": "“प्रकाश-युद्ध, कूटयुद्ध, तूष्णीं-युद्ध, दुर्ग-लाभ के उपायों से अमित्रों को पकड़ना” — दण्ड का आचरण करे।",
+  "why": "reviewer (minor): English says 'capture' but Hindi leaves प्रग्रहण untranslated (and the glossary has प्रग्रह = favouring elsewhere)."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Of them, what [one] benefits many times by gems, valuables, trifling [things] [and] raw materials born from wares, towns, villages [and] mines, or by vehicle [and] mount arisen from property, elephants, forest [and] cattle-station — that [has] varied enjoyment.",
+  "new": "Of them, what [one] benefits many times by gems, valuables, insignificant [things] and raw materials born from wares, towns, villages and mines, or by vehicle and conveyance arisen from produce forests, elephant forests and cattle-stations — that [has] varied enjoyment.",
+  "why": "reviewer (error): (a) phalgu of goods = insignificant (3.17 glossary), not 'trifling'; (b) dravya-hasti-vana is 'produce forests and elephant forests' in 7.1/7.11/7.12/7.14 chunks, not 'property, elephants, forest'; (c) dvandva 'and' unbracketed; (d) yāna/vāhana = vehicle/conveyance (7.14)."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "उनमें से जो पण्य, पत्तन, ग्राम, खान से उत्पन्न रत्न, सार, फल्गु, कुप्य से, या द्रव्य, हाथी, वन, व्रज से उठे यान-वाहन से बहुत बार उपकार करता है, वह विचित्र भोग वाला है।",
+  "new": "उनमें से जो पण्य, पत्तन, ग्राम, खान से उत्पन्न रत्न, बहुमूल्य वस्तुएँ, तुच्छ, कुप्य से, या द्रव्य-वन, हस्ति-वन, व्रज से उठे यान और वाहन से बहुत बार उपकार करता है, वह विचित्र भोग वाला है।",
+  "why": "reviewer (error): Hindi must follow glossary: sāra = बहुमूल्य वस्तुएँ (12.1), phalgu = तुच्छ (3.17); द्रव्य-वन, हस्ति-वन as in 7.12 (not 'द्रव्य, हाथी, वन'); a two-member dvandva takes और (यान और वाहन)."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "paṇya-pattana-grāma-khani-sañjātena",
+  "old": "born from wares, towns, villages [and] mines",
+  "new": "born from wares, towns, villages and mines",
+  "why": "reviewer (minor): Dvandva 'and' unbracketed."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "ratna-sāra-phalgu-kupyena",
+  "old": "by gems, valuables, trifling [things] [and] raw materials",
+  "new": "by gems, valuables, insignificant [things] and raw materials",
+  "why": "reviewer (minor): phalgu = insignificant."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "dravya-hasti-vana-vraja-samutthena",
+  "old": "arisen from property, elephants, forest [and] cattle-station",
+  "new": "arisen from produce forests, elephant forests and cattle-stations",
+  "why": "reviewer (minor): Align with 7.1/7.11/7.12."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "yāna-vāhanena",
+  "old": "by vehicle [and] mount",
+  "new": "by vehicle and conveyance",
+  "why": "reviewer (minor): 7.14: vehicle / conveyance; dvandva 'and'."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "The attachment of the two participles is a guess: sañjāta with ratna-sāra-phalgu-kupya, samuttha with yāna-vāhana. yāna here = vehicle (not the Book 7 'march'). phalgu = trifling (alternative: weak, inferior). sāra = valuables; kupya = raw materials. bahuśaḥ: many times (alternative: in large quantity). citra-bhoga: 'of varied enjoyment/benefit'; likely a technical name for a kind of helper, kept literal; the subject of upakaroti is unstated. teṣām refers back to the helpers of unit 9.",
+  "new": "The attachment of the two participles is a guess: sañjāta with ratna-sāra-phalgu-kupya, samuttha with yāna-vāhana. yāna here = vehicle (not the Book 7 'march'). phalgu = trifling (alternative: weak, inferior). sāra = valuables; kupya = raw materials. bahuśaḥ: many times (alternative: in large quantity). citra-bhoga: 'of varied enjoyment/benefit'; likely a technical name for a kind of helper, kept literal; the subject of upakaroti is unstated. teṣām refers back to the helpers of unit 9. Correction: vāhana = conveyance (7.14); dravya-hasti-vana read 'produce forests and elephant forests' as in 7.1, 7.11, 7.12.",
+  "why": "reviewer (minor): Note still says 'mount'."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "What [one] benefits by army, treasury [and] lands, that [has] all enjoyment.",
+  "new": "What [one] benefits by army, treasury and lands, that [has] all enjoyment.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and'."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "daṇḍa-kośa-bhūmībhiḥ",
+  "old": "by army, treasury [and] lands",
+  "new": "by army, treasury and lands",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "What [one] counteracts enemies, reinforcers, neighbours [and] forest chiefs on all sides, that [has] enjoyment on all sides.",
+  "new": "What [one] counteracts enemies, reinforcers, neighbours and forest chiefs on all sides, that [has] enjoyment on all sides.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and'."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "amitra-āsāra-prativeśa-āṭavikān",
+  "old": "enemies, reinforcers, neighbours [and] forest chiefs",
+  "new": "enemies, reinforcers, neighbours and forest chiefs",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "If any heel-seizer and forest chief, enemy's chief or enemy, to be won over by a gift of land, should be found: with a land without qualities he should cause him to take up; with [one] not connected, [the one] standing in a fort; with [one] not to be lived off, the forest chief; with a retakable [one], the enemy's member of his family; with a cut-off [one], the enemy's prince in disfavour; with [one] having permanent enemies, the guild troops; with [one] having strong neighbouring chiefs, [one] with united army; with both, [one] adverse in battle; with [one] whose activity is not obtained, the energetic [one]; with an empty [one], [one] of the enemy's party; with a weakened [one], the carried away [one]; with [one] having great loss, expenditure [and] settlement, the one gone and returned; with [one] without refuge, the one retreated back; with [one] not to be inhabited by the other, he should cause the master himself indeed to take up.",
+  "new": "[If] any heel-seizer and forest chief, enemy's chief or enemy, to be won over by a gift of land, should be found: with a land without qualities he should cause him to take up; with [one] not connected, [the one] standing in a fort; with [one] not to be lived off, the forest chief; with a retakable [one], the enemy's member of his family; with a cut-off [one], the enemy's prince in disfavour; with [one] having permanent enemies, the guild troops; with [one] having strong neighbouring chiefs, [one] with united army; with both, [one] adverse in battle; with [one] whose activity is not obtained, the energetic [one]; with an empty [one], [one] of the enemy's party; with a weakened [one], the carried away [one]; with [one] having great loss, expenditure [and] settlement, the one gone and returned; with [one] without refuge, the one retreated back; with [one] not to be inhabited by the other, he should cause the master himself indeed to take up.",
+  "why": "reviewer (error): Supplied 'If' (the Sanskrit has the optional āsādyeta, no yadi) must be bracketed."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "[If] any heel-seizer and forest chief, enemy's chief or enemy, to be won over by a gift of land, should be found: with a land without qualities he should cause him to take up; with [one] not connected, [the one] standing in a fort; with [one] not to be lived off, the forest chief; with a retakable [one], the enemy's member of his family; with a cut-off [one], the enemy's prince in disfavour; with [one] having permanent enemies, the guild troops; with [one] having strong neighbouring chiefs, [one] with united army; with both, [one] adverse in battle; with [one] whose activity is not obtained, the energetic [one]; with an empty [one], [one] of the enemy's party; with a weakened [one], the carried away [one]; with [one] having great loss, expenditure [and] settlement, the one gone and returned; with [one] without refuge, the one retreated back; with [one] not to be inhabited by the other, he should cause the master himself indeed to take up.",
+  "new": "[If] any heel-seizer and forest chief, enemy's chief or enemy, to be won over by a gift of land, should be found: with a land without qualities he should cause him to take up; with [one] not connected, [the one] standing in a fort; with [one] not to be lived off, the forest chief; with a retakable [one], the enemy's member of his family; with a cut-off [one], the enemy's prince in disfavour; with [one] having permanent enemies, the guild troops; with [one] having strong neighbouring chiefs, [one] with united army; with both, [one] adverse in battle; with [one] whose exertion is not obtained, the energetic [one]; with an empty [one], [one] of the enemy's party; with a weakened [one], the carried away [one]; with [one] having great loss, expenditure [and] settlement, the one gone and returned; with [one] without refuge, the one retreated back; with [one] not to be inhabited by the other, he should cause the master himself indeed to take up.",
+  "why": "reviewer (minor): Book 7 vyāyāma = exertion (7.12, 7.13), not the 6.2 'activity'."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "alabdha-vyāyāmayā",
+  "old": "whose activity is not obtained",
+  "new": "whose exertion is not obtained",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "पार्ष्णिग्राह और आटविक, शत्रु का मुख्य या शत्रु, भूमि-दान से साधने योग्य, कोई मिल जाए; गुणहीन भूमि से इसे ग्रहण कराए; असम्बद्ध से दुर्ग में स्थित को; जीविका के अयोग्य से आटविक को; पुनः ली जा सकने वाली से शत्रु के तत्कुलीन को; कटी हुई से शत्रु के अपरुद्ध को; नित्य शत्रु वाली से श्रेणी-सैन्य को; बलवान् सामन्त वाली से संगठित सेना वाले को; दोनों से युद्ध में प्रतिकूल को; जिसमें व्यायाम प्राप्त नहीं हुआ उससे उत्साही को; शून्य से शत्रु-पक्ष के को; क्षीण की हुई से अलग ले जाए गए को; महा-क्षय-व्यय-निवेश वाली से गए और लौटे हुए को; आश्रय-रहित से पीछे हटे हुए को; दूसरे से न बसाए जा सकने वाली से स्वयं ही भर्ता को ग्रहण कराए।",
+  "new": "पार्ष्णिग्राह और आटविक, शत्रु का मुख्य या शत्रु, भूमि-दान से साधने योग्य, कोई मिल जाए; गुणहीन भूमि से इसे ग्रहण कराए; असम्बद्ध से दुर्ग में स्थित को; जीविका के अयोग्य से आटविक को; पुनः ली जा सकने वाली से शत्रु के तत्कुलीन को; कटी हुई से शत्रु के अपरुद्ध को; नित्य शत्रु वाली से श्रेणी-सैन्य को; बलवान् सामन्त वाली से संगठित सेना वाले को; दोनों से युद्ध में प्रतिकूल को; अलब्ध-व्यायाम वाली से उत्साही को; शून्य से शत्रु-पक्ष के को; क्षीण की हुई से अलग ले जाए गए को; महा-क्षय-व्यय-निवेश वाली से गए और लौटे हुए को; आश्रय-रहित से पीछे हटे हुए को; दूसरे से न बसाए जा सकने वाली से स्वयं ही भर्ता को ग्रहण कराए।",
+  "why": "reviewer (minor): Adds a relative/correlative pair (जिसमें...उससे) that is not in the Sanskrit; the bahuvrīhi should be rendered like महा-क्षय-व्यय-निवेश वाली."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "पार्ष्णिग्राह और आटविक, शत्रु का मुख्य या शत्रु, भूमि-दान से साधने योग्य, कोई मिल जाए; गुणहीन भूमि से इसे ग्रहण कराए; असम्बद्ध से दुर्ग में स्थित को; जीविका के अयोग्य से आटविक को; पुनः ली जा सकने वाली से शत्रु के तत्कुलीन को; कटी हुई से शत्रु के अपरुद्ध को; नित्य शत्रु वाली से श्रेणी-सैन्य को; बलवान् सामन्त वाली से संगठित सेना वाले को; दोनों से युद्ध में प्रतिकूल को; अलब्ध-व्यायाम वाली से उत्साही को; शून्य से शत्रु-पक्ष के को; क्षीण की हुई से अलग ले जाए गए को; महा-क्षय-व्यय-निवेश वाली से गए और लौटे हुए को; आश्रय-रहित से पीछे हटे हुए को; दूसरे से न बसाए जा सकने वाली से स्वयं ही भर्ता को ग्रहण कराए।",
+  "new": "पार्ष्णिग्राह और आटविक, शत्रु का मुख्य या शत्रु, भूमि-दान से साधने योग्य, कोई मिल जाए; गुणहीन भूमि से इसे ग्रहण कराए; असम्बद्ध से दुर्ग में स्थित को; जीविका के अयोग्य से आटविक को; पुनः ली जा सकने वाली से शत्रु के तत्कुलीन को; कटी हुई से शत्रु के अपरुद्ध को; नित्य शत्रु वाली से श्रेणी-सैन्य को; बलवान् सामन्त वाली से संगठित सेना वाले को; दोनों से युद्ध में प्रतिकूल को; अलब्ध-व्यायाम वाली से उत्साही को; शून्य से शत्रु-पक्ष वाले को; क्षीण की हुई से अलग ले जाए गए को; महा-क्षय-व्यय-निवेश वाली से गए और लौटे हुए को; आश्रय-रहित से पीछे हटे हुए को; दूसरे से न बसाए जा सकने वाली से स्वयं ही भर्ता को ग्रहण कराए।",
+  "why": "reviewer (error): Ungrammatical Hindi (के को)."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "पार्ष्णिग्राह और आटविक, शत्रु का मुख्य या शत्रु, भूमि-दान से साधने योग्य, कोई मिल जाए; गुणहीन भूमि से इसे ग्रहण कराए; असम्बद्ध से दुर्ग में स्थित को; जीविका के अयोग्य से आटविक को; पुनः ली जा सकने वाली से शत्रु के तत्कुलीन को; कटी हुई से शत्रु के अपरुद्ध को; नित्य शत्रु वाली से श्रेणी-सैन्य को; बलवान् सामन्त वाली से संगठित सेना वाले को; दोनों से युद्ध में प्रतिकूल को; अलब्ध-व्यायाम वाली से उत्साही को; शून्य से शत्रु-पक्ष वाले को; क्षीण की हुई से अलग ले जाए गए को; महा-क्षय-व्यय-निवेश वाली से गए और लौटे हुए को; आश्रय-रहित से पीछे हटे हुए को; दूसरे से न बसाए जा सकने वाली से स्वयं ही भर्ता को ग्रहण कराए।",
+  "new": "पार्ष्णिग्राह और आटविक, शत्रु का मुख्य या शत्रु, भूमि-दान से साधने योग्य, कोई मिल जाए; गुणहीन भूमि से इसे ग्रहण कराए; असम्बद्ध से दुर्ग में स्थित को; जीविका के अयोग्य से आटविक को; पुनः ली जा सकने वाली से शत्रु के तत्कुलीन को; कटी हुई से शत्रु के अपरुद्ध को; नित्य शत्रु वाली से श्रेणी-सैन्य को; बलवान् सामन्त वाली से संगठित सेना वाले को; दोनों से युद्ध में प्रतिकूल को; अलब्ध-व्यायाम वाली से उत्साही को; शून्य से शत्रु-पक्ष वाले को; क्षीण की हुई से दूर ले जाए गए को; महा-क्षय-व्यय-निवेश वाली से गए और लौटे हुए को; आश्रय-रहित से पीछे हटे हुए को; दूसरे से न बसाए जा सकने वाली से स्वयं ही भर्ता को ग्रहण कराए।",
+  "why": "reviewer (minor): apa- is 'away', not 'separate'."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "उनमें से बड़े उपकार वाले और विकार-रहित का अनुसरण कराए।",
+  "new": "उनमें से बड़े उपकार वाले और विकार-रहित को अनुसरण कराए।",
+  "why": "reviewer (minor): With a causative the accusative is the person made to follow (as in the English); 'का अनुसरण कराए' reverses it."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "और इनमें तिरस्कार, उपघात, निन्दा, अतिवाद का प्रयोग न करे।",
+  "new": "और इनमें तिरस्कार, उपघात, कुत्सा, अतिभाषण का प्रयोग न करे।",
+  "why": "reviewer (error): Glossary (4.1): Hindi अतिवाद is never used for ati-vāda (over-speaking); kutsa/kutsā = disparagement (3.18), Hindi कुत्सा."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "And in these he should not apply contempt, injury, reproach [or] over-speaking.",
+  "new": "And in these he should not apply contempt, injury, disparagement and over-speaking.",
+  "why": "reviewer (minor): kutsā/kutsana = disparagement (3.18); dvandva with unbracketed 'and' (no ca/vā in the Sanskrit list)."
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "paribhava-upaghāta-kutsa-ativādān",
+  "old": "contempt, injury, reproach [and] over-speaking",
+  "new": "contempt, injury, disparagement and over-speaking",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "24",
+  "field": "word.gram",
+  "word": "tat",
+  "old": "m./n. adj.",
+  "new": "n. sg. (neuter beside m. doṣa: irregular agreement, or adverbial)",
+  "why": "reviewer (minor): Note claims tat agrees with masculine doṣa; tat is neuter, so the agreement is irregular (or tat is adverbial)."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "asya = 'to him' (the person won over in the preceding units); tad doṣam: tad is the sandhi form of tat before d, agreeing with the masculine doṣa. ghātayet (caus. √han) = cause to be killed. prakāśam adverbial: openly (cf. prakāśa-yuddha, open battle).",
+  "new": "asya = 'to him' (the person won over in the preceding units); tad doṣam: tad is the sandhi form of tat before d, agreeing with the masculine doṣa. ghātayet (caus. √han) = cause to be killed. prakāśam adverbial: openly (cf. prakāśa-yuddha, open battle). Correction: tat is neuter and doṣa masculine, so tad doṣam is irregular in agreement; tat may be read adverbially. The sense is unchanged.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "And he should not aim at the land, property, sons [and] wives of the slain.",
+  "new": "And he should not aim at the land, property, sons and wives of the slain.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and'."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "bhūmi-dravya-putra-dārān",
+  "old": "land, property, sons [and] wives",
+  "new": "land, property, sons and wives",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "He should station even his kinsmen in [their] own offices.",
+  "new": "He should station even his kinsmen in [their] own pātras.",
+  "why": "reviewer (error): 'offices' is an invented sense for pātra (literally vessel); keep the word, as other obscure terms are kept."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "pātreṣu",
+  "old": "offices",
+  "new": "pātras (literally 'vessels'; sense uncertain)",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "इस प्रकार इसके सेना सहित समर्पण करने वाले पुत्रों और पौत्रों का अनुसरण करते हैं।",
+  "new": "इस प्रकार इसके सेना सहित समर्पण करने वाले, पुत्रों और पौत्रों का अनुसरण करते हैं।",
+  "why": "reviewer (error): Hindi has no clear subject: 'सेना सहित समर्पण करने वाले' reads as an adjective of the sons; the subject daṇḍa-upanatāḥ must stand apart."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "In this way his [people] submitting with their army follow [his] sons [and] grandsons.",
+  "new": "In this way his [people] submitting with their army follow [his] sons and grandsons.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and'."
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "putra-pautrān",
+  "old": "sons [and] grandsons",
+  "new": "sons and grandsons",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "But whoever, having killed or bound [those] submitted, should aim at [their] land, property, sons [and] wives — his agitated circle rises up for [his] non-existence.",
+  "new": "But whoever, having killed or bound [those] submitted, should aim at [their] land, property, sons and wives — his agitated circle rises up for [his] non-existence.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and'."
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "bhūmi-dravya-putra-dārān",
+  "old": "land, property, sons [and] wives",
+  "new": "land, property, sons and wives",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "किन्तु जो उपनतों को मारकर या बाँधकर भूमि, द्रव्य, पुत्र, स्त्रियों को लक्ष्य बनाए, उसका उद्विग्न मण्डल अभाव के लिए उठता है।",
+  "new": "किन्तु जो समर्पण करने वालों को मारकर या बाँधकर भूमि, द्रव्य, पुत्र, स्त्रियों को लक्ष्य बनाए, उसका उद्विग्न मण्डल अभाव के लिए उठता है।",
+  "why": "reviewer (minor): Untranslated participle; glossary renders upanata as one who submits (समर्पण करने वाला), as in unit 29."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "और जो इसके अमात्य अपनी भूमियों में आश्रित हैं, और वे इससे उद्विग्न मण्डल का आश्रय लेते हैं।",
+  "new": "और जो इसके अमात्य अपनी भूमियों पर निर्भर हैं, और वे इससे उद्विग्न मण्डल का आश्रय लेते हैं।",
+  "why": "reviewer (minor): āyatta = dependent on; आश्रित collides with āśrayante (आश्रय लेते हैं) in the same sentence."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "और अपनी भूमियों में राजा इसलिए साम से रक्षित होकर राजा के अनुकूल, पुत्र-पौत्रों का अनुसरण करने वाले होते हैं।",
+  "new": "और अपनी भूमियों में राजा इसलिए साम से रक्षित राजा के अनुकूल, पुत्र-पौत्रों का अनुसरण करने वाले होते हैं।",
+  "why": "reviewer (minor): 'होकर' is an added word (anupālitāḥ is a plain participle)."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "और अपनी भूमियों में राजा इसलिए साम से रक्षित राजा के अनुकूल, पुत्र-पौत्रों का अनुसरण करने वाले होते हैं।",
+  "new": "और अपनी भूमियों में राजा इसलिए साम से रक्षित राजा के अनुकूल, पुत्रों और पौत्रों का अनुसरण करने वाले होते हैं।",
+  "why": "reviewer (minor): Consistency with unit 29 (two-member dvandva takes और)."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "And, therefore, the kings in [their] own lands, protected by conciliation, become favourable to the king, following [his] sons [and] grandsons.",
+  "new": "And, therefore, the kings in [their] own lands, protected by conciliation, become favourable to the king, following [his] sons and grandsons.",
+  "why": "reviewer (minor): Dvandva takes unbracketed 'and'."
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "putra-pautra-anuvartinaḥ",
+  "old": "following sons [and] grandsons",
+  "new": "following sons and grandsons",
+  "why": "reviewer (minor): Same."
+ }
+]
