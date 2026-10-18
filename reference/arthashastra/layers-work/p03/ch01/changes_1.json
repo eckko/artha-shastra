@@ -1,0 +1,169 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "तीन धर्मस्थ, तीन अमात्य जनपद, सन्धि, संग्रहण, द्रोणमुख, स्थानीय में व्यवहार-सम्बन्धी विषयों को सम्पन्न करें।",
+  "new": "तीन धर्मस्थ, तीन अमात्य, जनपद, सन्धि, संग्रहण, द्रोणमुख, स्थानीय में व्यवहार-सम्बन्धी विषयों को सम्पन्न करें।",
+  "why": "reviewer (minor): Missing comma lets 'अमात्य जनपद' read as one phrase."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "छिपाकर, घर के भीतर, रात में, वन में, उपधि से, एकान्त स्थान में किए गए व्यवहारों का वे निषेध करें।",
+  "new": "और छिपाकर, घर के भीतर, रात में, वन में, उपधि से, एकान्त स्थान में किए गए व्यवहारों का वे निषेध करें।",
+  "why": "reviewer (error): The Sanskrit ca is dropped in the Hindi (the note admits it); ca = 'and/also' must be rendered."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "दाय, निक्षेप, उपनिधि, विवाह से सम्बद्ध, घर के भीतर किए गए व्यवहार बाहर न निकलने वाली स्त्रियों के और अचेत न हुई चेतना वाले रोगियों के सिद्ध हों।",
+  "new": "दाय, निक्षेप, उपनिधि, विवाह से सम्बद्ध, घर के भीतर किए गए व्यवहार बाहर न निकलने वाली स्त्रियों के और भ्रमित न हुई चेतना वाले रोगियों के सिद्ध हों।",
+  "why": "reviewer (minor): 'अचेत' means unconscious, which is not amūḍha (unconfused); the phrase is also redundant."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "साहस, अनुप्रवेश, कलह, विवाह, राजा के नियोग से सम्बद्ध तथा रात के पूर्व भाग में व्यवहार करने वालों के रात में किए गए सिद्ध हों।",
+  "new": "साहस, अनुप्रवेश, कलह, विवाह, राजा की नियुक्ति से सम्बद्ध तथा रात के पूर्व भाग में व्यवहार करने वालों के रात में किए गए सिद्ध हों।",
+  "why": "reviewer (minor): Hindi नियोग means levirate, which misleads for rāja-niyoga (royal appointment/assignment)."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "In a mutual gathering, and [those] made in a secluded place, [transactions] would be valid.",
+  "new": "In a mutual association, and [those] made in a secluded place, [transactions] would be valid.",
+  "why": "reviewer (minor): samavāya = association (same word rendered 'partnership' in unit 25); align on 'association'."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "mithaḥ-samavāye",
+  "old": "in a mutual gathering",
+  "new": "in a mutual association",
+  "why": "reviewer (minor): align with English fix"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "इससे भिन्न प्रकार से वे सिद्ध न हों; और जो सहारा रखने वालों द्वारा किए गए हों, पिता वाले पुत्र द्वारा, पुत्र वाले पिता द्वारा, कुलरहित भाई द्वारा, अविभक्त भाग वाले छोटे भाई द्वारा, पति वाली और पुत्र वाली स्त्री द्वारा, दास-आहितक द्वारा, जिसने व्यवहार की अवस्था प्राप्त नहीं की और जो उसे पार कर चुका, उन दोनों द्वारा, तथा अभिशस्त, प्रव्रजित, न्यङ्ग और व्यसनियों द्वारा; जिन्हें व्यवहार सौंपा गया है उनको छोड़कर।",
+  "new": "इससे भिन्न प्रकार से वे सिद्ध न हों; और जो सहारा रखने वालों द्वारा किए गए हों, पिता वाले पुत्र द्वारा, पुत्र वाले पिता द्वारा, कुलरहित भाई द्वारा, अविभक्त भाग वाले छोटे भाई द्वारा, पति वाली और पुत्र वाली स्त्री द्वारा, दास-आहितक द्वारा, जिसने व्यवहार को प्राप्त नहीं किया और जो उसे पार कर चुका, उन दोनों द्वारा, तथा अभिशस्त, प्रव्रजित, न्यङ्ग और व्यसनियों द्वारा; जिन्हें व्यवहार सौंपा गया है उनको छोड़कर।",
+  "why": "reviewer (minor): Hindi adds 'अवस्था' (stage), which implies an age/capacity sense the notes say is not stated."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "वहाँ भी क्रोधित, पीड़ित, मत्त-उन्मत्त अथवा जकड़े हुए व्यक्ति द्वारा किए गए व्यवहार सिद्ध न हों।",
+  "new": "वहाँ भी क्रोधित, पीड़ित, मत्त-उन्मत्त अथवा पकड़े हुए व्यक्ति द्वारा किए गए व्यवहार सिद्ध न हों।",
+  "why": "reviewer (minor): जकड़ना = bind tightly; the English/gloss is 'seized' (पकड़ा हुआ)."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "For doers, instigators [and] hearers, the penalties [are] separately as stated.",
+  "new": "For doers, those who have it done [and] hearers, the penalties [are] separately as stated.",
+  "why": "reviewer (minor): kārayitṛ is 'one who has it done' (unit 3); 'instigator' is an interpretation, and the note wrongly says it appears only in the gloss."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "kartṛ-kārayitṛ-śrotṝṇām",
+  "old": "of doers, instigators, hearers",
+  "new": "of doers, those who have it done, hearers",
+  "why": "reviewer (minor): align with unit 3"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "और इनमें अन्तिम करण आदेश और आधि को छोड़कर विश्वसनीय है। — यह व्यवहार की स्थापना है।",
+  "new": "और इनमें अन्तिम करण आदेश और बन्धक को छोड़कर विश्वसनीय है। — यह व्यवहार की स्थापना है।",
+  "why": "reviewer (minor): Hindi आधि means mental distress; English says 'pledge' and unit 36 Hindi uses बन्धक."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "वर्ष, ऋतु, मास, पक्ष, दिवस, करण, अधिकरण, ऋण तथा वेदक और आवेदक के, जिनकी अवस्था किया हुआ तथा समर्थ है, देश, ग्राम, जाति, गोत्र, नाम, कर्मों को लिखकर वादी और प्रतिवादी के प्रश्नों को वस्तु के क्रम से दर्ज करे।",
+  "new": "वर्ष, ऋतु, मास, पक्ष, दिवस, करण, अधिकरण, ऋण तथा वेदक और आवेदक के, जिनकी अवस्था कृत-समर्थ है, देश, ग्राम, जाति, गोत्र, नाम, कर्मों को लिखकर वादी और प्रतिवादी के प्रश्नों को वस्तु के क्रम से दर्ज करे।",
+  "why": "reviewer (minor): Ungrammatical Hindi, and 'तथा' joins two members that the Sanskrit compounds without ca."
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "vādi-prativādi-praśnān",
+  "old": "tat-puruṣa, m. acc. pl.",
+  "new": "dvandva + tat-puruṣa, m. acc. pl.",
+  "why": "reviewer (minor): The first two members are a dvandva (plaintiff and defendant), then tat-puruṣa with praśna."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "बँधे हुए वाद को छोड़कर दूसरे वाद में चला जाता है; पहले कहे हुए को बाद के कथन से नहीं जोड़ता; दूसरे के वचन को, जो पकड़ने योग्य नहीं, पकड़कर टिका रहता है; प्रतिज्ञा करके “स्थान बताओ” ऐसा कहे जाने पर नहीं बताता; हीन स्थान या अदेश बताता है; बताए गए स्थान से भिन्न स्थान प्रस्तुत करता है; स्थान के प्रस्तुत होने पर विषय के कथन को “ऐसा नहीं” कहकर अस्वीकार करता है; साक्षियों द्वारा निश्चित किए हुए को नहीं चाहता; जिस स्थान पर बात करना मना है वहाँ साक्षियों से एकान्त में बात करता है। — ये परा-उक्त होने के कारण हैं।",
+  "new": "बँधे हुए वाद को छोड़कर दूसरे वाद में चला जाता है; पहले कहे हुए को बाद के विषय से नहीं जोड़ता; दूसरे के वचन को, जो पकड़ने योग्य नहीं, पकड़कर टिका रहता है; प्रतिज्ञा करके “स्थान बताओ” ऐसा कहे जाने पर नहीं बताता; हीन स्थान या अदेश बताता है; बताए गए स्थान से भिन्न स्थान प्रस्तुत करता है; स्थान के प्रस्तुत होने पर विषय के कथन को “ऐसा नहीं” कहकर अस्वीकार करता है; साक्षियों द्वारा निश्चित किए हुए को नहीं चाहता; जिस स्थान पर बात करना मना है वहाँ साक्षियों से एकान्त में बात करता है। — ये परा-उक्त होने के कारण हैं।",
+  "why": "reviewer (minor): artha is 'matter' (English 'the later matter', Hindi elsewhere विषय); कथन = statement is a different word."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "मार्ग का भोजन मूल्य के भेद के अनुसार है।",
+  "new": "मार्ग में भोजन मूल्य के भेद के अनुसार है।",
+  "why": "reviewer (minor): pathi is locative ('on the road'), Hindi का is genitive."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "The accused should not counter-charge, except [in cases of] quarrel, rashness [and] caravan-partnership.",
+  "new": "The accused should not counter-charge, except [in cases of] quarrel, rashness [and] caravan-association.",
+  "why": "reviewer (minor): 'partnership' is an interpretation; samavāya = association (see unit 11)."
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "kalaha-sāhasa-sārtha-samavāyebhyaḥ",
+  "old": "quarrel, rashness, caravan-partnership",
+  "new": "quarrel, rashness, caravan-association",
+  "why": "reviewer (minor): align with English fix"
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "यदि अभियोक्ता उत्तर पाने पर उसी दिन ही उत्तर न दे, तो वह परा-उक्त होगा।",
+  "new": "यदि अभियोक्ता उत्तर पाने पर उसी दिन उत्तर न दे, तो वह परा-उक्त होगा।",
+  "why": "reviewer (minor): eva is already carried by 'उसी'; the extra ही doubles it (an unmarked added word)."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "अथवा वह अपनी इच्छा से बन्धक रखवाए।",
+  "new": "अथवा वह इच्छानुसार बन्धक रखवाए।",
+  "why": "reviewer (minor): 'अपनी' (his own) is added; the Sanskrit says only 'at will'."
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "For the penalty (daṇḍa) alone protects the other world and this one, [when] imposed equally by the king on a son and on an enemy according to the fault.",
+  "new": "For the penalty (daṇḍa) alone protects the other world and this one, [when] held equally by the king on a son and on an enemy according to the fault.",
+  "why": "reviewer (minor): English 'imposed' vs Hindi 'धारण किया गया' (held): dhṛta = held/borne; 'imposed' is an interpretation."
+ },
+ {
+  "n": "42",
+  "field": "word.gloss",
+  "word": "dhṛtaḥ",
+  "old": "imposed",
+  "new": "held",
+  "why": "reviewer (minor): align"
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "kenacit",
+  "old": "in some [respect]",
+  "new": "some (with nyāyena)",
+  "why": "reviewer (minor): Gloss 'in some [respect]' contradicts the translation and the m. inst. label, which take kenacit as 'some' qualifying nyāyena."
+ },
+ {
+  "n": "47",
+  "field": "hindi",
+  "old": "पहले और बाद के विषय के विरोध में, साक्षी के वक्तव्य के कारण में, और चर के हाथ से भाग निकलने में पराजय घोषित की जानी चाहिए।",
+  "new": "पहले और बाद के विषय के विरोध में, साक्षी के वक्तव्य के कारण में, और चार के हाथ से भाग निकलने में पराजय घोषित की जानी चाहिए।",
+  "why": "reviewer (minor): English keeps cāra untranslated and the note says spy/guard/prison are all possible; Hindi चर ('moving/spy') fixes a sense."
+ }
+]
