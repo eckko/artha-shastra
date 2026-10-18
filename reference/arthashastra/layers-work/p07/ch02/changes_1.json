@@ -1,0 +1,60 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "क्योंकि विग्रह में क्षय, व्यय, प्रवास और बाधाएँ होती हैं।",
+  "new": "क्योंकि विग्रह में क्षय, व्यय, प्रवास, बाधाएँ होती हैं।",
+  "why": "reviewer (error): Four-member dvandva with no ca in the Sanskrit: Hindi takes commas only (glossary 3.15/3.16); the added और is unmarked."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "asya = the king he has taken shelter with. antaḥ-kopa = internal revolt (glossary 8.2). 'upasthitaṃ vā' is construed with the whole list ('or [any such] arisen'); alternatives: 'or at hand'. tan-nimittām: nimitta read as 'cause' (glossary's 'for the purpose of' does not fit a feminine adjective of vṛddhi); 'for the sake of that' is the alternative. sambhāvya (gerundive of sam-√bhū caus.) = 'to be thought possible, plausible'; it may qualify only vyādhi. The three pretexts form one dvandva (commas in Hindi). apadeśa = pretext (lit. pointing out).",
+  "new": "asya = the king he has taken shelter with. antaḥ-kopa = internal revolt (glossary 8.2). 'upasthitaṃ vā' is construed with the whole list ('or [any such] arisen'); alternatives: 'or at hand'. tan-nimittām: nimitta read as 'cause' (glossary's 'for the purpose of' does not fit a feminine adjective of vṛddhi); 'for the sake of that' is the alternative. sambhāvya (gerundive of sam-√bhū caus.) = 'to be thought possible, plausible'; it may qualify only vyādhi. The three pretexts form one dvandva (commas in Hindi). apadeśa = pretext (lit. pointing out). Alternative: upasthitam (n.) may agree with mitra-vyasanam ('an ally's calamity that has arisen'), and the vā may then join the last item ('or his own growth caused by that').",
+  "why": "reviewer (minor): upasthitam is neuter acc. sg. and the only neuter noun in the list is mitra-vyasanam, so it may agree with that (an ally's calamity that has arisen) rather than with the whole list; the bracketed '[any such]' and the Hindi 'या उपस्थित को' rest on the drafter's choice. Also vā may join the final item (tan-nimittām ... vṛddhim). Text left as drafted (confidence already low)."
+ },
+ {
+  "n": "14",
+  "field": "notes",
+  "old": "kapāla-saṃśraya is obscure (kapāla = skull, potsherd, bowl) and kept untranslated; no sense guessed. mūla-hara is rendered literally ('taker of the base'; mūla = base, glossary 9.2); a technical sense (e.g. one who seizes the capital or root) is possible. 'itarasya itaram' is read as 'to the one, the other'; 'each to the other' is also possible.",
+  "new": "kapāla-saṃśraya is obscure (kapāla = skull, potsherd, bowl) and kept untranslated; no sense guessed. mūla-hara is rendered literally ('taker of the base'; mūla = base, glossary 9.2); a technical sense (e.g. one who seizes the capital or root) is possible. 'itarasya itaram' is read as 'to the one, the other'; 'each to the other' is also possible. Alternative: itarasya taken with mūla-haram: 'pointing out the other as the taker of the other's base'; the genitive is not a true dative.",
+  "why": "reviewer (minor): Reading itarasya as a dative-like 'to the other' is a stretch for a genitive; the genitive may go with mūla-haram ('the taker of the other's base, the other [king]'). Text left as drafted, confidence low."
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "paraspara-apadeśam",
+  "old": "tat-puruṣa, m. acc. sg.",
+  "new": "bahuvrīhi, m. acc. sg.",
+  "why": "reviewer (minor): Label says tat-puruṣa but the gloss 'with mutual pointing-out' and the notes read it as a bahuvrīhi agreeing with bhedam."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Or, harmed by two, [he] should remain having the circle as refuge; [he] should take shelter with the middle [king] or the neutral [king].",
+  "new": "Or, harmed by two, [he] should remain having the circle as refuge; [he] should take shelter with the middle king or the neutral king.",
+  "why": "reviewer (minor): Glossary 6.2 fixes madhyama = the middle king, udāsīna = the neutral king; 'king' is part of the term, not a supplied word, so no brackets."
+ },
+ {
+  "n": "23",
+  "field": "word.w",
+  "word": "madhya-udāsīnayoḥ",
+  "old": "madhya-udāsīnayoḥ",
+  "new": "madhyama-udāsīnayoḥ",
+  "why": "reviewer (error): Flag is sound (madhyama.udāsīna 25 times elsewhere, madhya.udāsīnayos once), but w keeps the typo; the corrected form belongs in words."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Or, cut off by two, [he] should resort to the just conduct of the middle [king] and the neutral [king], or of kings belonging to their party.",
+  "new": "Or, cut off by two, [he] should resort to the just conduct of the middle king and the neutral king, or of kings belonging to their party.",
+  "why": "reviewer (minor): As unit 21."
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "Or, among equals, [the one] whose constituent elements would find pleasure in him; or [the place] standing where [he] could rescue himself; or where [there is] a course fit for ancestors, or a near connection, [or where] allies would be more numerous or very powerful.",
+  "new": "Or, among equals, [the one] whose constituent elements would find pleasure in him; or, standing where, [he] could rescue himself; or where [there is] a course fit for ancestors, or a near connection, [or where] allies would be more numerous or very powerful.",
+  "why": "reviewer (error): yatra-sthaḥ is nominative (the person who stands where); a place cannot 'stand', and the bracketed noun is an unsupported supply. The Hindi is already correct."
+ }
+]

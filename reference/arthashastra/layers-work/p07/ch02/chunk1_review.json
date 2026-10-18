@@ -1,0 +1,267 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "क्षय, व्यय, प्रवास और बाधाएँ",
+     "problem": "Four-member dvandva with no ca in the Sanskrit: Hindi takes commas only (glossary 3.15/3.16); the added और is unmarked.",
+     "fix": "क्षय, व्यय, प्रवास, बाधाएँ",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्षय, व्यय, प्रवास और बाधाएँ",
+      "new": "क्षय, व्यय, प्रवास, बाधाएँ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "upasthitaṃ vā",
+     "problem": "upasthitam is neuter acc. sg. and the only neuter noun in the list is mitra-vyasanam, so it may agree with that (an ally's calamity that has arisen) rather than with the whole list; the bracketed '[any such]' and the Hindi 'या उपस्थित को' rest on the drafter's choice. Also vā may join the final item (tan-nimittām ... vṛddhim). Text left as drafted (confidence already low).",
+     "fix": "Add alternative to notes.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "append_note",
+      "text": "Alternative: upasthitam (n.) may agree with mitra-vyasanam ('an ally's calamity that has arisen'), and the vā may then join the last item ('or his own growth caused by that')."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "itarasya-itaram mūla.haram",
+     "problem": "Reading itarasya as a dative-like 'to the other' is a stretch for a genitive; the genitive may go with mūla-haram ('the taker of the other's base, the other [king]'). Text left as drafted, confidence low.",
+     "fix": "Add alternative to notes.",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "append_note",
+      "text": "Alternative: itarasya taken with mūla-haram: 'pointing out the other as the taker of the other's base'; the genitive is not a true dative."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "paraspara-apadeśam",
+     "problem": "Label says tat-puruṣa but the gloss 'with mutual pointing-out' and the notes read it as a bahuvrīhi agreeing with bhedam.",
+     "fix": "bahuvrīhi, m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "paraspara-apadeśam",
+      "field": "gram",
+      "value": "bahuvrīhi, m. acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the middle [king] or the neutral [king]",
+     "problem": "Glossary 6.2 fixes madhyama = the middle king, udāsīna = the neutral king; 'king' is part of the term, not a supplied word, so no brackets.",
+     "fix": "the middle king or the neutral king",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "the middle [king] or the neutral [king]",
+      "new": "the middle king or the neutral king"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "madhya-udāsīnayoḥ",
+     "problem": "Flag is sound (madhyama.udāsīna 25 times elsewhere, madhya.udāsīnayos once), but w keeps the typo; the corrected form belongs in words.",
+     "fix": "madhyama-udāsīnayoḥ",
+     "severity": "error",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "madhya-udāsīnayoḥ",
+      "field": "w",
+      "value": "madhyama-udāsīnayoḥ"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "madhya-udāsīnayoḥ",
+     "problem": "Brackets around 'king' contradict glossary 6.2 (the middle king, the neutral king).",
+     "fix": "of the middle king and the neutral king",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "madhya-udāsīnayoḥ",
+      "field": "gloss",
+      "value": "of the middle king and the neutral king"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the middle [king] and the neutral [king]",
+     "problem": "As unit 21.",
+     "fix": "the middle king and the neutral king",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "the middle [king] and the neutral [king]",
+      "new": "the middle king and the neutral king"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "or [the place] standing where [he] could rescue himself",
+     "problem": "yatra-sthaḥ is nominative (the person who stands where); a place cannot 'stand', and the bracketed noun is an unsupported supply. The Hindi is already correct.",
+     "fix": "or, standing where, [he] could rescue himself",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "or [the place] standing where [he] could rescue himself",
+      "new": "or, standing where, [he] could rescue himself"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो जिसका प्रिय हो / Who would be dear to whom",
+     "problem": "The first priyaḥ has no yaḥ in the Sanskrit; Hindi जो and English 'Who' are unmarked additions (the second clause has a real yo). Sense is uncertain, so no machine patch.",
+     "fix": "Hindi 'प्रिय जिसका हो, अथवा जो इसका प्रिय हो, ...'; English 'Dear to whom [he] would be, or who is dear to him: which of the two?'",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "9 patches, 0 hand edits. Issues: 3 error (u2 Hindi और in a 4-member dvandva; u23 w keeps the flagged typo; u24 English '[the place] standing'), 6 minor (u10 and u14 alternative readings noted, u15 gram label, u21/u23 brackets round 'king', u25 unmarked jo/who). All drafter doubts (7,10,13,14,16,18,24,25 low; 2 pratyavāya 'obstacles'; 15 verbless clause) are reasonable and left as drafted; text_flag in 23 is correct. No regrouping suggested."
+}
