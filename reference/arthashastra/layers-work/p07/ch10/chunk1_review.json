@@ -1,0 +1,851 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "tvaṃ ca ahaṃ ca",
+     "problem": "Glossary 7.5: correlative ca … ca = 'both … and' in English (Hindi keeps one और).",
+     "fix": "“Both you and I obtain land”",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "“You and I obtain land”",
+      "new": "“Both you and I obtain land”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pratyupasthita-arthaḥ",
+     "problem": "Gloss says 'matter' but English and Hindi say 'purpose'/प्रयोजन (glossary: artha in such compounds = purpose); align.",
+     "fix": "one whose purpose is at hand",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "pratyupasthita-arthaḥ",
+      "field": "gloss",
+      "value": "one whose purpose is at hand"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tulye",
+     "problem": "tulye agrees with alābhe, which is masculine (glossary 3.5: label m./n.); 'n.' is wrong.",
+     "fix": "m./n. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "tulye",
+      "field": "gram",
+      "value": "m./n. loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pratāpam",
+     "problem": "Glossary 7.4: pratāpa = splendour (प्रताप), not 'might'; 'prowess' is a different word.",
+     "fix": "and splendour.",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "and prowess.",
+      "new": "and splendour."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pratāpam",
+     "problem": "Align gloss with glossary 7.4.",
+     "fix": "splendour",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "pratāpam",
+      "field": "gloss",
+      "value": "splendour"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bhūmi-lābham",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "the gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of land",
+      "new": "the gain of land"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābham",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "bhūmi-lābham",
+      "field": "gloss",
+      "value": "gain of land"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes still say 'prowess'.",
+     "fix": "pratāpa taken as splendour (glossary 7.4)",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": "pratāpa taken as prowess",
+      "new": "pratāpa taken as splendour (glossary 7.4)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole line",
+     "problem": "Glossary lābha = gain; also the passive 'is acquired' turns the locative noun bhūmi-lābhe into a verb clause.",
+     "fix": "In the gain of land from a weak [king], there is truly ease.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "english",
+      "value": "In the gain of land from a weak [king], there is truly ease."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābhe",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "in the gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "bhūmi-lābhe",
+      "field": "gloss",
+      "value": "in the gain of land"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "the gain of land is weak",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of land is weak",
+      "new": "the gain of land is weak"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "bhūmi-lābhaḥ",
+      "field": "gloss",
+      "value": "gain of land"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "balīyastve",
+     "problem": "balīyas- is comparative ('greater strength', English 'superior strength'); बलवत्ता loses the comparative.",
+     "fix": "अधिक बल समान होने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बलवत्ता समान होने पर",
+      "new": "अधिक बल समान होने पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhūmi-lābhe",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "In the gain of land from a fickle enemy",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "In the acquisition of land from a fickle enemy",
+      "new": "In the gain of land from a fickle enemy"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābhe",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "in the gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "bhūmi-lābhe",
+      "field": "gloss",
+      "value": "in the gain of land"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "second sampannā (hi clause)",
+     "problem": "Hindi adds the bare noun भूमि (no Sanskrit word; English correctly brackets [land]); also सिद्ध करना reads as 'prove'; sampādayati = provides/procures. Comma keeps सम्पन्न from being read with कोश.",
+     "fix": "क्योंकि सम्पन्न, कोश और सेना को जुटाती है",
+     "severity": "error",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "क्योंकि सम्पन्न भूमि कोश और सेना को सिद्ध करती है",
+      "new": "क्योंकि सम्पन्न, कोश और सेना को जुटाती है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śatru-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "the gain of enemies is greater",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of enemies is greater",
+      "new": "the gain of enemies is greater"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śatru-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "gain of enemies",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "śatru-lābhaḥ",
+      "field": "gloss",
+      "value": "gain of enemies"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "nitya.amitra.alābhe",
+     "problem": "(hand edit, optional) The literal 'non-obtaining of a permanent enemy' makes the sentence contradict itself, and the sense (Kautilya's answer to the teachers: gaining land with permanent enemies brings a greater gain of enemies) fits a feminine nityāmitrā + lābhe, printed nityāmitrā-lābhe. Same possibility for sampanna.alābhe in unit 3. Not decidable without the printed text, so the literal reading and low confidence stay; a person may add a text_flag (suggest 'nitya.amitrā.lābhe').",
+     "fix": "nitya.amitrā.lābhe",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "upakṛte ca apakṛte ca",
+     "problem": "Glossary 7.5: ca … ca = 'both … and' in English.",
+     "fix": "both when benefited and when harmed",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "when benefited and when harmed",
+      "new": "both when benefited and when harmed"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "anapakārāt",
+     "problem": "Hindi adds a verb (करने) to the noun anapakāra; keep it a noun.",
+     "fix": "अनपकार से",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपकार न करने से",
+      "new": "अनपकार से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "The note treats yasyā…bhūmeḥ as a doubtful double genitive; it is the normal relative adjective agreeing with bhūmeḥ.",
+     "fix": "yasyā is yasyāḥ with the visarga regularly dropped before the voiced hi (not a typo); yasyāḥ agrees with bhūmeḥ ('of which land'), it is not a double genitive. pratyantāḥ rendered 'frontier [regions]' (could be frontier peoples). aṭavī = forest tribes as in glossary 8.1; mleccha kept as a name.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "set",
+      "field": "notes",
+      "value": "yasyā is yasyāḥ with the visarga regularly dropped before the voiced hi (not a typo); yasyāḥ agrees with bhūmeḥ ('of which land'), it is not a double genitive. pratyantāḥ rendered 'frontier [regions]' (could be frontier peoples). aṭavī = forest tribes as in glossary 8.1; mleccha kept as a name."
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "yasyā",
+     "problem": "FALSE POSITIVE (hand edit: delete this text_flag). yasyāḥ + hi gives yasyā hi by regular sandhi (visarga after ā drops before a voiced consonant); nothing is missing.",
+     "fix": "delete the flag",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "nitya-avirahitāḥ",
+     "problem": "'सदा … नहीं' can be read 'not always devoid' (wrong scope); avirahita = not devoid, nitya = always.",
+     "fix": "सदा अविरहित हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सदा रहित नहीं हैं",
+      "new": "सदा अविरहित हैं"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "viparyaye",
+     "problem": "Hindi adds the noun स्थिति (no Sanskrit word).",
+     "fix": "विपर्यय में",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विपरीत स्थिति में",
+      "new": "विपर्यय में"
+     }
+    },
+    {
+     "field": "english",
+     "where": "viparyaye",
+     "problem": "'case' is added; viparyaya = reversal.",
+     "fix": "in the reverse",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "in the opposite case",
+      "new": "in the reverse"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "viparyaye",
+     "problem": "Align gloss.",
+     "fix": "in the reverse",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "viparyaye",
+      "field": "gloss",
+      "value": "in the reverse"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "alpā pratyāsannā mahatī vyavahitā",
+     "problem": "English adds 'and' between adjectives with no ca in the Sanskrit (glossary 3.4: series without ca are not joined by 'and').",
+     "fix": "“Land that is small, near, or large, separated”",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "“Land that is small and near, or large and separated”",
+      "new": "“Land that is small, near, or large, separated”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "daṇḍa-dhāraṇā / ātma-dhāraṇā",
+     "problem": "Gloss and unit 22 render dhāraṇā as the noun 'holding', but unit 20 turns it into a participle ('land held by …', Hindi धारण की जाने वाली). Needs a person to align with unit 22 (e.g. 'land of holding by the army … of holding by itself').",
+     "fix": "(no machine fix)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhūmi-lābha",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "“Gain of land from a fool or from a wise [man]”",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "“Acquisition of land from a fool or from a wise [man]”",
+      "new": "“Gain of land from a fool or from a wise [man]”"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "“Gain of land from a fool is better.”",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "“Acquisition of land from a fool is better.”",
+      "new": "“Gain of land from a fool is better.”"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "both bhūmi-lābhaḥ entries",
+     "problem": "(hand edit) change both glosses 'acquisition of land' to 'gain of land'; the two entries share the same w so a word patch cannot address them.",
+     "fix": "gain of land",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "apratyādeyā",
+     "problem": "Glossary 9.4 fixes pratyādeya = retakable (प्रत्यादेय); the Hindi paraphrase adds 'वापस'.",
+     "fix": "और अप्रत्यादेय",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और वापस न लिए जाने योग्य",
+      "new": "और अप्रत्यादेय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "the gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of land",
+      "new": "the gain of land"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "bhūmi-lābhaḥ",
+      "field": "gloss",
+      "value": "gain of land"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "the gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of land",
+      "new": "the gain of land"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "bhūmi-lābhaḥ",
+      "field": "gloss",
+      "value": "gain of land"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "anihśrāvi.śatru",
+     "problem": "FALSE POSITIVE (hand edit: delete this text_flag). The e-text regularly writes visarga before a sibilant or consonant as h (nihśalyaḥ, nihsaṃśayam, nihsukhaḥ, nihsnehāḥ, anihśrāvī at 1.15.3); w aniḥśrāvi is correct and nothing is mistyped.",
+     "fix": "delete the flag",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record the convention.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "append_note",
+      "text": "The h in anihśrāvi is the e-text's usual spelling of visarga before a sibilant (cf. nihśalyaḥ), so no text_flag."
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "the gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of land",
+      "new": "the gain of land"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "bhūmi-lābhaḥ",
+      "field": "gloss",
+      "value": "gain of land"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note is ambiguous and could be read as saying the Devanagari lacks the stray b.",
+     "fix": "the Devanagari line has the same ब्भूमि (the e-text also has लब्भेत, यथा.लाब्भम्, उत्साह.अब्भावे), so it is an e-text slip, not a transcription of the Sanskrit",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "notes",
+      "old": "the stray b (ब्भूमि) is not repeated in the Devanagari reading either",
+      "new": "the Devanagari line has the same ब्भूमि (the e-text also has लब्भेत, यथा.लाब्भम्, उत्साह.अब्भावे), so it is an e-text slip, not a transcription of the Sanskrit"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "su-ārakṣam",
+     "problem": "सुरक्षा योग्य means 'fit for protection'; English and gloss say 'easy to guard'.",
+     "fix": "पार्वत सुरक्षा में सरल",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पार्वत सुरक्षा योग्य",
+      "new": "पार्वत सुरक्षा में सरल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "the gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of land",
+      "new": "the gain of land"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "bhūmi-lābhaḥ",
+      "field": "gloss",
+      "value": "gain of land"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "'high' is not earned: nimna-yodhin = 'fighting in low ground' and deśa-kāla = 'place and time' are interpretive renderings.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "the gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of land",
+      "new": "the gain of land"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-lābhaḥ",
+     "problem": "Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha).",
+     "fix": "gain of land",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "word",
+      "match_w": "bhūmi-lābhaḥ",
+      "field": "gloss",
+      "value": "gain of land"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "5 error, 43 minor issues; 43 machine patches. Hand edits: delete text_flags in units 16 (yasyā is regular sandhi) and 29 (h for visarga is the e-text convention); unit 23 gloss of both bhūmi-lābhaḥ -> 'gain of land'; optional: add text_flag for nitya.amitra.alābhe (14) and sampanna.alābhe (3) suggesting nitya.amitrā.lābhe / sampannā.lābhe (sense, not verifiable). Flags kept: 5, 9, 23 (dot after ablative: only about 5 such cases in the e-text, units 26/28/31 write the same pattern with a space, earlier chunks p03/ch02 and p05/ch05 joined it silently), 11, 31, 38. No regrouping. daṇḍa=army, aṭavī=forest tribes, mleccha name, sampanna=excellent all consistent. Glossary: bhūmi-lābha = gain (7.7/9.4 rule), pratāpa = splendour (7.4), ca…ca = both…and (7.5) applied."
+}

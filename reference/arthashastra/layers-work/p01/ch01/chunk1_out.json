@@ -1,0 +1,3811 @@
+[
+ {
+  "n": "0",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "oṃ.namaḥ.śukra.bṛhaspatibhyāṃ",
+      "words": [
+       {
+        "w": "oṃ",
+        "gloss": "oṃ (sacred syllable)",
+        "gram": "ind."
+       },
+       {
+        "w": "namaḥ",
+        "gloss": "salutation",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "śukra-bṛhaspatibhyām",
+        "gloss": "to Shukra and Brihaspati",
+        "gram": "dvandva, m. dat. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ॐ। शुक्र और बृहस्पति को नमः।",
+  "english": "Oṃ. Salutation to Shukra and Brihaspati.",
+  "text_flags": [
+   {
+    "src": "oṃ.namaḥ.śukra.bṛhaspatibhyāṃ",
+    "suggest": "oṃ namaḥ śukra.bṛhaspatibhyāṃ",
+    "why": "possible: the e-text joins the separate words oṃ and namaḥ (and śukra.bṛhaspatibhyāṃ) with compound dots; oṃ and namaḥ are not compound members"
+   }
+  ],
+  "notes": "The invocation is split into oṃ, namaḥ and the dvandva śukra-bṛhaspatibhyām (dual dative). The speaker and the sense of the invocation are not stated in the line. Śukra and Bṛhaspati are named only; no role is given by the line.",
+  "confidence": "medium"
+ },
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛthivyā",
+      "words": [
+       {
+        "w": "pṛthivyā",
+        "gloss": "of the earth",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābhe",
+      "words": [
+       {
+        "w": "lābhe",
+        "gloss": "in the gain",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pālane",
+      "words": [
+       {
+        "w": "pālane",
+        "gloss": "in the protection",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāvanty",
+      "words": [
+       {
+        "w": "yāvanti",
+        "gloss": "as many",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "artha.śāstrāṇi",
+      "words": [
+       {
+        "w": "artha-śāstrāṇi",
+        "gloss": "treatises on wealth",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pūrva.ācāryaiḥ",
+      "words": [
+       {
+        "w": "pūrva-ācāryaiḥ",
+        "gloss": "by earlier teachers",
+        "gram": "karmadhāraya, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "prasthāpitāni",
+      "words": [
+       {
+        "w": "prasthāpitāni",
+        "gloss": "set forth",
+        "gram": "ppp caus. pra-√sthā, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prāyaśas",
+      "words": [
+       {
+        "w": "prāyaśaḥ",
+        "gloss": "for the most part",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tāni",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "those",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃhṛtya-ekam",
+      "words": [
+       {
+        "w": "saṃhṛtya",
+        "gloss": "having brought together",
+        "gram": "abs. sam-√hṛ"
+       },
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "idam",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "artha.śāstraṃ",
+      "words": [
+       {
+        "w": "artha-śāstram",
+        "gloss": "treatise on wealth",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtam",
+      "words": [
+       {
+        "w": "kṛtam",
+        "gloss": "made",
+        "gram": "ppp √kṛ, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पृथ्वी के लाभ और पालन के लिए पूर्व आचार्यों द्वारा जितने अर्थशास्त्र प्रस्थापित किए गए, प्रायः उन्हें एकत्र करके यह एक अर्थशास्त्र बनाया गया।",
+  "english": "As many treatises on wealth as were set forth by earlier teachers for the gain and protection of the earth, for the most part having brought those together, this one treatise on wealth was made.",
+  "text_flags": [],
+  "notes": "pṛthivyā is printed without visarga (an old genitive form in -ā, or pṛthivyāḥ); read as genitive 'of the earth', governed by lābhe and pālane. The locatives lābhe pālane are rendered 'for the gain and protection' (purpose); literally 'in the gain and protection'. artha in artha-śāstra is wealth (alternatively 'the earth' in the commentators' reading, not applied). prasthāpita is from caus. pra-√sthā 'caused to be set forth'; 'composed' is an alternative. ekam idam can be read 'this one' or 'one, this'. Printed 'saṃhṛtya-ekam' is the e-text's unsandhied join.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya-ayaṃ",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m./n. gen. sg."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakaraṇa.adhikaraṇa.samuddeśaḥ",
+      "words": [
+       {
+        "w": "prakaraṇa-adhikaraṇa-samuddeśaḥ",
+        "gloss": "enumeration of the topics and sections",
+        "gram": "tat-puruṣa over dvandva, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका यह प्रकरणों और अधिकरणों का समुद्देश।",
+  "english": "Of that, this [is] the enumeration of the topics and sections.",
+  "text_flags": [],
+  "notes": "samuddeśa is rendered 'enumeration' (literally a pointing out / summary statement). prakaraṇa = topic, adhikaraṇa = section (the fifteen books). 'tasya' refers to the treatise of unit 1. Printed 'tasya-ayaṃ' is an unsandhied join of two words.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vidyā.samuddeśaḥ,",
+      "words": [
+       {
+        "w": "vidyā-samuddeśaḥ",
+        "gloss": "enumeration of the sciences",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛddha.samuddeśaḥ,",
+      "words": [
+       {
+        "w": "vṛddha-samuddeśaḥ",
+        "gloss": "enumeration of the elders",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indriya.jayaḥ,",
+      "words": [
+       {
+        "w": "indriya-jayaḥ",
+        "gloss": "conquest of the senses",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "amātya.utpattiḥ,",
+      "words": [
+       {
+        "w": "amātya-utpattiḥ",
+        "gloss": "origin of the minister",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantri.purohita.utpattiḥ,",
+      "words": [
+       {
+        "w": "mantri-purohita-utpattiḥ",
+        "gloss": "origin of the counsellor and chaplain",
+        "gram": "tat-puruṣa over dvandva, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upadhābhiḥ",
+      "words": [
+       {
+        "w": "upadhābhiḥ",
+        "gloss": "by upadhās (term kept)",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śauca.aśauca.jñānam",
+      "words": [
+       {
+        "w": "śauca-aśauca-jñānam",
+        "gloss": "knowledge of purity and impurity",
+        "gram": "tat-puruṣa over dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "amātyānām,",
+      "words": [
+       {
+        "w": "amātyānām",
+        "gloss": "of the ministers",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gūḍha.puruṣa.praṇidhiḥ,",
+      "words": [
+       {
+        "w": "gūḍha-puruṣa-praṇidhiḥ",
+        "gloss": "deployment of secret agents",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.viṣaye",
+      "words": [
+       {
+        "w": "sva-viṣaye",
+        "gloss": "in one's own territory",
+        "gram": "karmadhāraya, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtya.akṛtya.pakṣa.rakṣaṇam,",
+      "words": [
+       {
+        "w": "kṛtya-akṛtya-pakṣa-rakṣaṇam",
+        "gloss": "protection of the party of the seducible and the unseducible",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "para.viṣaye",
+      "words": [
+       {
+        "w": "para-viṣaye",
+        "gloss": "in another's territory",
+        "gram": "karmadhāraya, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtya.akṛtya.pakṣa.upagrahaḥ,",
+      "words": [
+       {
+        "w": "kṛtya-akṛtya-pakṣa-upagrahaḥ",
+        "gloss": "support of the party of the seducible and the unseducible",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mantra.adhikāraḥ,",
+      "words": [
+       {
+        "w": "mantra-adhikāraḥ",
+        "gloss": "section on counsel",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dūta.praṇidhiḥ,",
+      "words": [
+       {
+        "w": "dūta-praṇidhiḥ",
+        "gloss": "deployment of envoys",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.putra.rakṣaṇam,",
+      "words": [
+       {
+        "w": "rāja-putra-rakṣaṇam",
+        "gloss": "protection of the king's son",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aparuddha.vṛttam,",
+      "words": [
+       {
+        "w": "aparuddha-vṛttam",
+        "gloss": "conduct of the prince in disfavour",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aparuddhe",
+      "words": [
+       {
+        "w": "aparuddhe",
+        "gloss": "towards the prince in disfavour",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛttiḥ,",
+      "words": [
+       {
+        "w": "vṛttiḥ",
+        "gloss": "behaviour",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.praṇidhiḥ,",
+      "words": [
+       {
+        "w": "rāja-praṇidhiḥ",
+        "gloss": "the king's routine",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "niśānta.praṇidhiḥ,",
+      "words": [
+       {
+        "w": "niśānta-praṇidhiḥ",
+        "gloss": "deployment in the residence",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ātma.rakṣitakam",
+      "words": [
+       {
+        "w": "ātma-rakṣitakam",
+        "gloss": "protection of oneself",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vinaya.adhikārikaṃ",
+      "words": [
+       {
+        "w": "vinaya-adhikārikam",
+        "gloss": "concerned with the topic of discipline",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prathamam",
+      "words": [
+       {
+        "w": "prathamam",
+        "gloss": "first",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विद्याओं का समुद्देश, वृद्धों का समुद्देश, इन्द्रियों पर जय, अमात्य की उत्पत्ति, मन्त्री और पुरोहित की उत्पत्ति, उपधाओं से अमात्यों की शुचिता और अशुचिता का ज्ञान, गूढ़ पुरुषों की प्रणिधि, अपने देश में कृत्य और अकृत्य पक्ष की रक्षा, दूसरे के देश में कृत्य और अकृत्य पक्ष को सहारा देना, मन्त्र-अधिकार, दूतों की प्रणिधि, राजपुत्र की रक्षा, निकाले गए राजकुमार का आचरण, निकाले गए राजकुमार के प्रति वृत्ति, राजा की दिनचर्या, निवास की प्रणिधि, स्वयं की रक्षा, यह विनय-अधिकारिक प्रथम अधिकरण है।",
+  "english": "Enumeration of the sciences; enumeration of the elders; conquest of the senses; origin of the minister; origin of the counsellor and chaplain; knowledge of the purity and impurity of the ministers by means of upadhās; deployment of secret agents; protection of the party of the seducible and the unseducible in one's own territory; support of the party of the seducible and the unseducible in another's territory; section on counsel; deployment of envoys; protection of the king's son; conduct of the prince in disfavour; behaviour towards the prince in disfavour; the king's routine; deployment in the residence; protection of oneself. Such is the first section, [that] concerned with discipline.",
+  "text_flags": [],
+  "notes": "A table of contents: each comma-separated item is a nominative compound heading of Book 1 (chapters 2-21), the list closing with the section label. praṇidhi is rendered 'deployment' (literally 'placing forth'); rāja-praṇidhi follows the glossary ('the king's routine'). upadhā is kept untranslated (commentators: tests of honesty; not applied). vṛddha-samuddeśa: vṛddha = elders (the older advisers); not expanded. aparuddha: glossary rendering 'prince in disfavour'; the literal sense is 'confined / restrained'; vṛtta = conduct, vṛtti = behaviour (towards, locative). niśānta lit. 'end of night', here 'residence' (house); alternative 'palace'. ātma-rakṣitaka: the -ka form is obscure, rendered 'protection of oneself'. The lone '-' at the end of lines 1 and 2 is the e-text's continuation mark; the '-' before iti is a dash. The viṣaya = territory (Hindi देश).",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "janapada.niveśaḥ,",
+      "words": [
+       {
+        "w": "janapada-niveśaḥ",
+        "gloss": "settlement of the country",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmic.chidra.apidhānam,",
+      "words": [
+       {
+        "w": "bhūmi-chidra-apidhānam",
+        "gloss": "closing of the gaps of the land",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "durga.vidhānam,",
+      "words": [
+       {
+        "w": "durga-vidhānam",
+        "gloss": "arrangement of the fort",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "durga.niveśaḥ,",
+      "words": [
+       {
+        "w": "durga-niveśaḥ",
+        "gloss": "settlement of the fort",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samnidhātṛ.nicaya.karma,",
+      "words": [
+       {
+        "w": "saṃnidhātṛ-nicaya-karma",
+        "gloss": "the Treasurer's work of accumulation",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samāhartṛ.samudaya.prasthāpanam,",
+      "words": [
+       {
+        "w": "samāhartṛ-samudaya-prasthāpanam",
+        "gloss": "the Collector's setting forth of the revenue",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "akṣa.paṭale",
+      "words": [
+       {
+        "w": "akṣa-paṭale",
+        "gloss": "in the akṣa-paṭala (term kept)",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gāṇanikya.adhikāraḥ,",
+      "words": [
+       {
+        "w": "gāṇanikya-adhikāraḥ",
+        "gloss": "section on reckoning (gāṇanikya)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "samudayasya",
+      "words": [
+       {
+        "w": "samudayasya",
+        "gloss": "of the revenue",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yukta.apahṛtasya",
+      "words": [
+       {
+        "w": "yukta-apahṛtasya",
+        "gloss": "carried off by the yuktas",
+        "gram": "tat-puruṣa, ppp, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyānayanam,",
+      "words": [
+       {
+        "w": "pratyānayanam",
+        "gloss": "bringing back",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upayukta.parīkṣā,",
+      "words": [
+       {
+        "w": "upayukta-parīkṣā",
+        "gloss": "examination of the upayuktas",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāsana.adhikāraḥ,",
+      "words": [
+       {
+        "w": "śāsana-adhikāraḥ",
+        "gloss": "section on edicts",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kośa.praveśya.ratna.parīkṣā,",
+      "words": [
+       {
+        "w": "kośa-praveśya-ratna-parīkṣā",
+        "gloss": "examination of gems to be taken into the treasury",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ākara.karma.anta.pravartanam,",
+      "words": [
+       {
+        "w": "ākara-karma-anta-pravartanam",
+        "gloss": "setting in motion of mines and karmāntas",
+        "gram": "tat-puruṣa over dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "akṣa.śālāyāṃ",
+      "words": [
+       {
+        "w": "akṣa-śālāyām",
+        "gloss": "in the akṣa-śālā (term kept)",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "suvarṇa.adhyakṣaḥ",
+      "words": [
+       {
+        "w": "suvarṇa-adhyakṣaḥ",
+        "gloss": "superintendent of gold",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśikhāyāṃ",
+      "words": [
+       {
+        "w": "viśikhāyām",
+        "gloss": "in the street",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sauvarṇika.pracāraḥ,",
+      "words": [
+       {
+        "w": "sauvarṇika-pracāraḥ",
+        "gloss": "operation of the goldsmith",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "koṣṭha.āgāra.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "koṣṭha-āgāra-adhyakṣaḥ",
+        "gloss": "superintendent of the storehouse",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṇya.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "paṇya-adhyakṣaḥ",
+        "gloss": "superintendent of wares",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kupya.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "kupya-adhyakṣaḥ",
+        "gloss": "superintendent of raw materials",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "āyudha.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "āyudha-adhyakṣaḥ",
+        "gloss": "superintendent of weapons",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tulā.māna.pautavam,",
+      "words": [
+       {
+        "w": "tulā-māna-pautavam",
+        "gloss": "tulā, measure and pautava (terms kept)",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "deśa.kāla.mānam,",
+      "words": [
+       {
+        "w": "deśa-kāla-mānam",
+        "gloss": "measure of place and time",
+        "gram": "tat-puruṣa over dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śulka.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "śulka-adhyakṣaḥ",
+        "gloss": "superintendent of śulka (term kept)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūtra.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "sūtra-adhyakṣaḥ",
+        "gloss": "superintendent of thread",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sīta.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "sīta-adhyakṣaḥ",
+        "gloss": "superintendent of the furrow",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "surā.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "surā-adhyakṣaḥ",
+        "gloss": "superintendent of liquor",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūna.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "sūna-adhyakṣaḥ",
+        "gloss": "superintendent of the slaughter-house",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gaṇikā.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "gaṇikā-adhyakṣaḥ",
+        "gloss": "superintendent of courtesans",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nāv.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "nau-adhyakṣaḥ",
+        "gloss": "superintendent of ships",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "go.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "go-adhyakṣaḥ",
+        "gloss": "superintendent of cattle",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aśva.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "aśva-adhyakṣaḥ",
+        "gloss": "superintendent of horses",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hasty.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "hasti-adhyakṣaḥ",
+        "gloss": "superintendent of elephants",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratha.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "ratha-adhyakṣaḥ",
+        "gloss": "superintendent of chariots",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "patty.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "patti-adhyakṣaḥ",
+        "gloss": "superintendent of foot-soldiers",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "senā.pati.pracāraḥ,",
+      "words": [
+       {
+        "w": "senā-pati-pracāraḥ",
+        "gloss": "operation of the commander of the army",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mudrā.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "mudrā-adhyakṣaḥ",
+        "gloss": "superintendent of the pass",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vivīta.adhyakṣaḥ,",
+      "words": [
+       {
+        "w": "vivīta-adhyakṣaḥ",
+        "gloss": "superintendent of pastures",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samāhartṛ.pracāraḥ,",
+      "words": [
+       {
+        "w": "samāhartṛ-pracāraḥ",
+        "gloss": "operation of the Collector",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gṛha.patika.vaidehaka.tāpasa.vyañjanāḥ",
+      "words": [
+       {
+        "w": "gṛha-patika-vaidehaka-tāpasa-vyañjanāḥ",
+        "gloss": "in the guise of householder, trader and ascetic",
+        "gram": "bahuvrīhi over dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "praṇidhayaḥ,",
+      "words": [
+       {
+        "w": "praṇidhayaḥ",
+        "gloss": "deployments",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nāgarika.praṇidhiḥ",
+      "words": [
+       {
+        "w": "nāgarika-praṇidhiḥ",
+        "gloss": "deployment of the nāgarika",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "adhyakṣa.pracāro",
+      "words": [
+       {
+        "w": "adhyakṣa-pracāraḥ",
+        "gloss": "operation of the superintendents",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvitīyam",
+      "words": [
+       {
+        "w": "dvitīyam",
+        "gloss": "second",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जनपद की बसावट, भूमि के छिद्रों को ढकना, दुर्ग का विधान, दुर्ग की बसावट, सन्निधाता का संचय-कर्म, समाहर्ता का समुदय-प्रस्थापन, अक्षपटल में गणना-अधिकार, युक्तों द्वारा अपहृत समुदय को वापस लाना, उपयुक्तों की परीक्षा, शासन-अधिकार, कोश में प्रवेश कराए जाने योग्य रत्नों की परीक्षा, आकर और कर्मान्त का प्रवर्तन, अक्षशाला में सोने का अध्यक्ष, गली में सुनार का संचालन, कोष्ठागार का अध्यक्ष, पण्य का अध्यक्ष, कुप्य का अध्यक्ष, आयुध का अध्यक्ष, तुला, माप और पौतव, देश और काल का माप, शुल्क का अध्यक्ष, सूत्र का अध्यक्ष, कूँड़ का अध्यक्ष, सुरा का अध्यक्ष, वधस्थान का अध्यक्ष, गणिका का अध्यक्ष, नौका का अध्यक्ष, गाय-बैल का अध्यक्ष, घोड़े का अध्यक्ष, हाथी का अध्यक्ष, रथ का अध्यक्ष, पैदल सैनिक का अध्यक्ष, सेनापति का संचालन, मुद्रा का अध्यक्ष, चरागाह का अध्यक्ष, समाहर्ता का संचालन, गृहपतिक, वैदेहक, तापस के वेश वाली प्रणिधियाँ, नागरिक की प्रणिधि, यह अध्यक्षों का संचालन द्वितीय अधिकरण है।",
+  "english": "Settlement of the country; closing of the gaps of the land; arrangement of the fort; settlement of the fort; the Treasurer's work of accumulation; the Collector's setting forth of the revenue; in the akṣa-paṭala, the section on reckoning; bringing back of the revenue carried off by the yuktas; examination of the upayuktas; section on edicts; examination of gems to be taken into the treasury; setting in motion of mines and karmāntas; in the akṣa-śālā, the superintendent of gold; in the street, the operation of the goldsmith; superintendent of the storehouse; superintendent of wares; superintendent of raw materials; superintendent of weapons; tulā, measure and pautava; measure of place and time; superintendent of śulka; superintendent of thread; superintendent of the furrow; superintendent of liquor; superintendent of the slaughter-house; superintendent of courtesans; superintendent of ships; superintendent of cattle; superintendent of horses; superintendent of elephants; superintendent of chariots; superintendent of foot-soldiers; operation of the commander of the army; superintendent of the pass; superintendent of pastures; operation of the Collector; deployments in the guise of householder, trader and ascetic; deployment of the nāgarika. Such is the operation of the superintendents, the second section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 2. Doubtful or obscure items rendered literally: bhūmi-chidra-apidhāna 'closing of the gaps of the land' (commentators: use of waste land; not applied); niveśa 'settlement'; samudaya-prasthāpana 'setting forth of the revenue' (sense 'collection' not stated); akṣa-paṭala, akṣa-śālā, pautava, śulka, nāgarika kept as terms (as in the glossary for 4.9, 4.2, 4.6); ākara-karma-anta read as a dvandva 'mines and karmāntas' (karmānta lit. 'end of work', workshop / works; alternative: one compound 'mine-works'); upayukta, yukta = appointed officers (lit. 'employed'), kept; gāṇanikya = relating to reckoning; sīta here 'furrow' (alternative: agriculture); sūna 'slaughter-house'; mudrā 'pass' (glossary 10.1; alternative 'seal'); viśikhā 'street'; tulā-māna-pautava read as a dvandva of three. pracāra is rendered 'operation' (Hindi संचालन); alternative 'conduct'. In the last line gṛha-patika-vaidehaka-tāpasa-vyañjana is a bahuvrīhi 'having the guise of ...' qualifying praṇidhayaḥ; the Hindi list takes commas only. nāv.adhyakṣa is nau-adhyakṣa; hasty., patty. are hasti-, patti- before a vowel. The lone '-' at line ends is the e-text's continuation mark; the '-' before ity is a dash.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyavahāra.sthāpanā,",
+      "words": [
+       {
+        "w": "vyavahāra-sthāpanā",
+        "gloss": "establishment of transactions",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vivāda.pada.nibandhaḥ,",
+      "words": [
+       {
+        "w": "vivāda-pada-nibandhaḥ",
+        "gloss": "binding of the grounds of dispute",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vivāha.samyuktam,",
+      "words": [
+       {
+        "w": "vivāha-saṃyuktam",
+        "gloss": "connected with marriage",
+        "gram": "tat-puruṣa, ppp, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāya.vibhāgaḥ,",
+      "words": [
+       {
+        "w": "dāya-vibhāgaḥ",
+        "gloss": "division of inheritance",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāstukam,",
+      "words": [
+       {
+        "w": "vāstukam",
+        "gloss": "relating to the site",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samayasya",
+      "words": [
+       {
+        "w": "samayasya",
+        "gloss": "of agreement",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "anapākarma,",
+      "words": [
+       {
+        "w": "anapākarma",
+        "gloss": "anapākarma (term kept)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛṇa.adānam,",
+      "words": [
+       {
+        "w": "ṛṇa-adānam",
+        "gloss": "non-giving of the debt",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aupanidhikam,",
+      "words": [
+       {
+        "w": "aupanidhikam",
+        "gloss": "relating to upanidhi",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāsa.karma.kara.kalpaḥ,",
+      "words": [
+       {
+        "w": "dāsa-karma-kara-kalpaḥ",
+        "gloss": "rule for slaves and workers",
+        "gram": "tat-puruṣa, over dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sambhūya",
+      "words": [
+       {
+        "w": "sambhūya",
+        "gloss": "having come together",
+        "gram": "abs. sam-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "samutthānam,",
+      "words": [
+       {
+        "w": "samutthānam",
+        "gloss": "rising up",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikrīta.krīta.anuśayaḥ,",
+      "words": [
+       {
+        "w": "vikrīta-krīta-anuśayaḥ",
+        "gloss": "anuśaya of the sold and the bought",
+        "gram": "tat-puruṣa, over dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dattasya",
+      "words": [
+       {
+        "w": "dattasya",
+        "gloss": "of the given",
+        "gram": "ppp √dā, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "anapākarma,",
+      "words": [
+       {
+        "w": "anapākarma",
+        "gloss": "anapākarma (term kept)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asvāmi.vikrayaḥ,",
+      "words": [
+       {
+        "w": "asvāmi-vikrayaḥ",
+        "gloss": "sale by a non-master",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.svāmi.sambandhaḥ,",
+      "words": [
+       {
+        "w": "sva-svāmi-sambandhaḥ",
+        "gloss": "relation of property and master",
+        "gram": "dvandva + tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāhasam,",
+      "words": [
+       {
+        "w": "sāhasam",
+        "gloss": "rashness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāk.pāruṣyam,",
+      "words": [
+       {
+        "w": "vāk-pāruṣyam",
+        "gloss": "verbal injury",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.pāruṣyam,",
+      "words": [
+       {
+        "w": "daṇḍa-pāruṣyam",
+        "gloss": "physical injury",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dyūta.samāhvayam,",
+      "words": [
+       {
+        "w": "dyūta-samāhvayam",
+        "gloss": "gambling and samāhvaya",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakīrṇakam",
+      "words": [
+       {
+        "w": "prakīrṇakam",
+        "gloss": "miscellany",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti,",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dharma.sthīyaṃ",
+      "words": [
+       {
+        "w": "dharma-sthīyam",
+        "gloss": "relating to the dharmasthas",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛtīyam",
+      "words": [
+       {
+        "w": "tṛtīyam",
+        "gloss": "third",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्यवहार की स्थापना, विवाद के पदों का निबन्धन, विवाह से जुड़ा, दाय का विभाग, वास्तु-सम्बन्धी, समझौते का अनपाकर्म, ऋण न देना, उपनिधि-सम्बन्धी, दास और कर्मकरों का कल्प, मिलकर उठ खड़ा होना, बेचे और खरीदे हुए का अनुशय, दिए हुए का अनपाकर्म, अस्वामी द्वारा बिक्री, स्व और स्वामी का सम्बन्ध, साहस, वाक्-पारुष्य, दण्ड-पारुष्य, द्यूत और समाह्वय, प्रकीर्णक, यह धर्मस्थ-सम्बन्धी तृतीय अधिकरण है।",
+  "english": "Establishment of transactions; binding of the grounds of dispute; [that] connected with marriage; division of inheritance; [that] relating to the site; anapākarma of agreement; non-giving of the debt; [that] relating to upanidhi; rule for slaves and workers; having come together, the rising up; anuśaya of the sold and the bought; anapākarma of the given; sale by a non-master; relation of property and master; rashness; verbal injury; physical injury; gambling and samāhvaya; miscellany. Such is the third section, [that] relating to the dharmasthas.",
+  "text_flags": [
+   {
+    "src": "iti,",
+    "suggest": "iti",
+    "why": "possible stray comma after iti"
+   }
+  ],
+  "notes": "Table of contents of Book 3. Terms kept per the glossary: anapākarma, upanidhi, anuśaya, samāhvaya, dharmastha. vivāda-pada-nibandha: pada 'ground' (alternatives 'title / step'), nibandha lit. 'binding' (compilation); medium. sva-svāmi-sambandha: sva read as 'own (property)'; svāmin = master; alternative 'ownership'. asvāmi-vikraya: 'sale by a non-owner' (svāmin = master); the genitive-style tat-puruṣa could be 'sale of a non-owner'. dyūta-samāhvaya read as a dvandva (alternative: samāhvaya as a kind of dyūta). vāk-pāruṣya / daṇḍa-pāruṣya follow the Book 3 renderings (verbal / physical injury). sambhūya samutthānam 'having come together, the rising up'. vāstuka, aupanidhika: the -ka adjectives are rendered 'relating to'. The e-text prints 'iti,' with a comma.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāru.kara.kṣaṇam,",
+      "words": [
+       {
+        "w": "kāruka-rakṣaṇam",
+        "gloss": "protection of artisans",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaidehaka.rakṣaṇam,",
+      "words": [
+       {
+        "w": "vaidehaka-rakṣaṇam",
+        "gloss": "protection of traders",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upanipāta.pratīkāraḥ,",
+      "words": [
+       {
+        "w": "upanipāta-pratīkāraḥ",
+        "gloss": "remedy for mishaps",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gūḍha.ājīvināṃ",
+      "words": [
+       {
+        "w": "gūḍha-ājīvinām",
+        "gloss": "of those with concealed livelihood",
+        "gram": "bahuvrīhi, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rakṣā,",
+      "words": [
+       {
+        "w": "rakṣā",
+        "gloss": "protection",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "siddha.vyañjanair",
+      "words": [
+       {
+        "w": "siddha-vyañjanaiḥ",
+        "gloss": "by agents in the guise of holy men",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "māṇava.prakāśanam,",
+      "words": [
+       {
+        "w": "māṇava-prakāśanam",
+        "gloss": "revealing of young men",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṅkā.rūpa.karma.abhigrahaḥ,",
+      "words": [
+       {
+        "w": "śaṅkā-rūpa-karma-abhigrahaḥ",
+        "gloss": "seizure by suspicion, object and act",
+        "gram": "tat-puruṣa over dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āśu.mṛtaka.parīkṣā,",
+      "words": [
+       {
+        "w": "āśu-mṛtaka-parīkṣā",
+        "gloss": "examination of one who died suddenly",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vākya.karma.anuyogaḥ,",
+      "words": [
+       {
+        "w": "vākya-karma-anuyogaḥ",
+        "gloss": "questioning by statement and action",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarva.adhikaraṇa.rakṣaṇaṃ",
+      "words": [
+       {
+        "w": "sarva-adhikaraṇa-rakṣaṇam",
+        "gloss": "protection of all departments",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "eka.aṅga.vadha.niṣkrayaḥ,",
+      "words": [
+       {
+        "w": "eka-aṅga-vadha-niṣkrayaḥ",
+        "gloss": "redemption of the destruction of one limb",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuddhaś",
+      "words": [
+       {
+        "w": "śuddhaḥ",
+        "gloss": "plain",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "citraś",
+      "words": [
+       {
+        "w": "citraḥ",
+        "gloss": "varied",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa",
+      "words": [
+       {
+        "w": "daṇḍa",
+        "gloss": "penalty (first member of daṇḍa-kalpaḥ)",
+        "gram": "stem"
+       }
+      ]
+     },
+     {
+      "src": "kalpaḥ,",
+      "words": [
+       {
+        "w": "kalpaḥ",
+        "gloss": "rule",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kanyā.prakarma,",
+      "words": [
+       {
+        "w": "kanyā-prakarma",
+        "gloss": "prakarma of a girl",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aticāra.daṇḍāḥ",
+      "words": [
+       {
+        "w": "aticāra-daṇḍāḥ",
+        "gloss": "penalties for transgression",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaṇṭaka.śodhanaṃ",
+      "words": [
+       {
+        "w": "kaṇṭaka-śodhanam",
+        "gloss": "cleansing of thorns",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturtham",
+      "words": [
+       {
+        "w": "caturtham",
+        "gloss": "fourth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कारुओं की रक्षा, वैदेहकों की रक्षा, उपनिपात का प्रतिकार, छिपी जीविका वालों की रक्षा, सिद्ध के वेश वाले गुप्तचरों द्वारा युवकों को प्रकट करना, शंका, वस्तु, कर्म के आधार पर पकड़, अचानक मरे व्यक्ति की परीक्षा, वाक्य और कर्म से पूछताछ, सभी अधिकरणों की रक्षा, एक अंग के नाश का निष्क्रय, शुद्ध और विविध प्रकार का दण्ड-कल्प, कन्या का प्रकर्म, अतिचार के दण्ड, यह कण्टक-शोधन चतुर्थ अधिकरण है।",
+  "english": "Protection of artisans; protection of traders; remedy for mishaps; protection of those with concealed livelihood; revealing of young men by agents in the guise of holy men; seizure by suspicion, object and act; examination of one who died suddenly; questioning by statement and action; protection of all departments; redemption of the destruction of one limb; the plain and the varied rule of penalty; prakarma of a girl; penalties for transgression. Such is the cleansing of thorns, the fourth section.",
+  "text_flags": [
+   {
+    "src": "kāru.kara.kṣaṇam",
+    "suggest": "kāruka.rakṣaṇam",
+    "why": "likely misplaced compound dots: the same letters read kāruka-rakṣaṇam 'protection of artisans', parallel to vaidehaka-rakṣaṇam"
+   },
+   {
+    "src": "daṇḍa",
+    "suggest": "daṇḍa.kalpaḥ",
+    "why": "stray space instead of the compound dot (daṇḍa-kalpaḥ)"
+   }
+  ],
+  "notes": "Table of contents of Book 4. The first item is read with the corrected form kāruka-rakṣaṇam (flagged). vākya-karma-anuyoga: 'questioning by statement and action' (alternative: questioning of statement and action); adhikaraṇa in sarva-adhikaraṇa = department / office, not 'section'; aticāra printed with short i (glossary atīcāra = transgression, kept as printed). prakarma kept untranslated (glossary 3.15); the sense of 'kanyā' girl. ājīvin 'those living by', gūḍha 'concealed'. śuddha / citra: plain / varied (glossary 4.11). The lone '-' at the end of lines 1 and 2 is the e-text's continuation mark; the '-' before iti is a dash.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dāṇḍakarmikam,",
+      "words": [
+       {
+        "w": "dāṇḍakarmikam",
+        "gloss": "dāṇḍakarmika (term kept)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kośa.abhisaṃharaṇam,",
+      "words": [
+       {
+        "w": "kośa-abhisaṃharaṇam",
+        "gloss": "collection of the treasury",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhṛtya.bharaṇīyam,",
+      "words": [
+       {
+        "w": "bhṛtya-bharaṇīyam",
+        "gloss": "the maintaining of servants",
+        "gram": "tat-puruṣa, gerundive used as noun, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anujīvi.vṛttam,",
+      "words": [
+       {
+        "w": "anujīvi-vṛttam",
+        "gloss": "conduct of dependants",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samaya.ācārikam,",
+      "words": [
+       {
+        "w": "samaya-ācārikam",
+        "gloss": "samaya-ācārika (term kept)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājya.pratisandhānam,",
+      "words": [
+       {
+        "w": "rājya-pratisandhānam",
+        "gloss": "rejoining of the kingdom",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eka.aiśvaryam",
+      "words": [
+       {
+        "w": "eka-aiśvaryam",
+        "gloss": "sole sovereignty",
+        "gram": "karmadhāraya, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yoga.vṛttaṃ",
+      "words": [
+       {
+        "w": "yoga-vṛttam",
+        "gloss": "conduct of secret contrivance",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pañcamam",
+      "words": [
+       {
+        "w": "pañcamam",
+        "gloss": "fifth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दाण्डकर्मिक, कोश का अभिसंहरण, भृत्यों का भरण, अनुजीवियों का आचरण, समय-आचारिक, राज्य को फिर से जोड़ना, एकैश्वर्य, यह योग का आचरण पञ्चम अधिकरण है।",
+  "english": "Dāṇḍakarmika; collection of the treasury; the maintaining of servants; conduct of dependants; samaya-ācārika; rejoining of the kingdom; sole sovereignty. Such is the conduct of secret contrivance (yoga), the fifth section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 5. dāṇḍakarmika and samaya-ācārika are kept untranslated (glossary 5.6, 7.15; the latter lit. 'of agreed conduct'). kośa-abhisaṃharaṇa 'collection of the treasury' (kośa genitive-like). bhṛtya-bharaṇīya is a gerundive used as a noun: 'what is to be maintained regarding servants'. anujīvin 'dependant' (lit. one living after / on another). rājya-pratisandhāna 'rejoining of the kingdom' is literal and uncertain. yoga-vṛtta: yoga given as 'secret contrivance' (glossary 5.6); the alternative 'acquisition' (6.2) is possible; low certainty.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakṛti.sampadaḥ,",
+      "words": [
+       {
+        "w": "prakṛti-sampadaḥ",
+        "gloss": "excellences of the constituent elements",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śama.vyāyāmikam",
+      "words": [
+       {
+        "w": "śama-vyāyāmikam",
+        "gloss": "relating to peace and activity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maṇḍala.yoniḥ",
+      "words": [
+       {
+        "w": "maṇḍala-yoniḥ",
+        "gloss": "source of the circle",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṣṭham",
+      "words": [
+       {
+        "w": "ṣaṣṭham",
+        "gloss": "sixth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रकृतियों की सम्पत्, शम और व्यायाम से सम्बन्धित, यह मण्डल का स्रोत षष्ठ अधिकरण है।",
+  "english": "Excellences of the constituent elements; [that] relating to peace and activity. Such is the source of the circle, the sixth section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 6. yoni lit. 'womb', rendered 'source' per the glossary. śama and vyāyāma as in 6.2 (peace; activity).",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṣāḍguṇya.samuddeśaḥ,",
+      "words": [
+       {
+        "w": "ṣāḍguṇya-samuddeśaḥ",
+        "gloss": "enumeration of the sixfold policy",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.sthāna.vṛddhi.niścayaḥ,",
+      "words": [
+       {
+        "w": "kṣaya-sthāna-vṛddhi-niścayaḥ",
+        "gloss": "determination of decline, stagnation and growth",
+        "gram": "tat-puruṣa over dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃśraya.vṛttiḥ,",
+      "words": [
+       {
+        "w": "saṃśraya-vṛttiḥ",
+        "gloss": "behaviour of shelter",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samahīna.jyāyasāṃ",
+      "words": [
+       {
+        "w": "sama-hīna-jyāyasām",
+        "gloss": "of the equal, the inferior and the superior",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "guṇa.abhiniveśaḥ,",
+      "words": [
+       {
+        "w": "guṇa-abhiniveśaḥ",
+        "gloss": "adherence to the guṇas",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hīna.sandhayaḥ,",
+      "words": [
+       {
+        "w": "hīna-sandhayaḥ",
+        "gloss": "inferior treaties",
+        "gram": "karmadhāraya, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhya",
+      "words": [
+       {
+        "w": "vigṛhya",
+        "gloss": "having made war",
+        "gram": "abs. vi-√grah"
+       }
+      ]
+     },
+     {
+      "src": "āsanam,",
+      "words": [
+       {
+        "w": "āsanam",
+        "gloss": "staying quiet",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhāya",
+      "words": [
+       {
+        "w": "sandhāya",
+        "gloss": "having made peace",
+        "gram": "abs. sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "āsanam,",
+      "words": [
+       {
+        "w": "āsanam",
+        "gloss": "staying quiet",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhya",
+      "words": [
+       {
+        "w": "vigṛhya",
+        "gloss": "having made war",
+        "gram": "abs. vi-√grah"
+       }
+      ]
+     },
+     {
+      "src": "yānam,",
+      "words": [
+       {
+        "w": "yānam",
+        "gloss": "marching",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhāya",
+      "words": [
+       {
+        "w": "sandhāya",
+        "gloss": "having made peace",
+        "gram": "abs. sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "yānam,",
+      "words": [
+       {
+        "w": "yānam",
+        "gloss": "marching",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sambhūya",
+      "words": [
+       {
+        "w": "sambhūya",
+        "gloss": "having come together",
+        "gram": "abs. sam-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "prayāṇam,",
+      "words": [
+       {
+        "w": "prayāṇam",
+        "gloss": "marching forth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātavya.amitrayor",
+      "words": [
+       {
+        "w": "yātavya-amitrayoḥ",
+        "gloss": "of the one to be marched against and the enemy",
+        "gram": "dvandva, m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "abhigraha.cintā,",
+      "words": [
+       {
+        "w": "abhigraha-cintā",
+        "gloss": "consideration of the seizure",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.lobha.virāga.hetavaḥ",
+      "words": [
+       {
+        "w": "kṣaya-lobha-virāga-hetavaḥ",
+        "gloss": "causes of loss, greed and disaffection",
+        "gram": "tat-puruṣa over dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtīnām,",
+      "words": [
+       {
+        "w": "prakṛtīnām",
+        "gloss": "of the constituent elements",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāmavāyika.viparimarśaḥ,",
+      "words": [
+       {
+        "w": "sāmavāyika-viparimarśaḥ",
+        "gloss": "reflection on the associate (sāmavāyika)",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃhita",
+      "words": [
+       {
+        "w": "saṃhita",
+        "gloss": "allied (first member of saṃhita-prayāṇikam)",
+        "gram": "ppp stem"
+       }
+      ]
+     },
+     {
+      "src": "prayāṇikam,",
+      "words": [
+       {
+        "w": "prayāṇikam",
+        "gloss": "relating to marching forth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇita.aparipaṇita.apasṛtāḥ",
+      "words": [
+       {
+        "w": "paripaṇita-aparipaṇita-apasṛtāḥ",
+        "gloss": "stipulated, unstipulated and gone away",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sandhayaḥ,",
+      "words": [
+       {
+        "w": "sandhayaḥ",
+        "gloss": "treaties",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvaidhī.bhāvikāḥ",
+      "words": [
+       {
+        "w": "dvaidhī-bhāvikāḥ",
+        "gloss": "relating to the dual policy",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sandhi.vikramāḥ,",
+      "words": [
+       {
+        "w": "sandhi-vikramāḥ",
+        "gloss": "peace and attacks",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yātavya.vṛttiḥ,",
+      "words": [
+       {
+        "w": "yātavya-vṛttiḥ",
+        "gloss": "behaviour of the one to be marched against",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anugrāhya.mitra.viśeṣāḥ,",
+      "words": [
+       {
+        "w": "anugrāhya-mitra-viśeṣāḥ",
+        "gloss": "distinctions of allies to be favoured",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mitra.hiraṇya.bhūmi.karma.sandhayaḥ,",
+      "words": [
+       {
+        "w": "mitra-hiraṇya-bhūmi-karma-sandhayaḥ",
+        "gloss": "treaties of ally, money, land and works",
+        "gram": "tat-puruṣa over dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pārṣṇi.grāha.cintā,",
+      "words": [
+       {
+        "w": "pārṣṇi-grāha-cintā",
+        "gloss": "consideration of the heel-seizer",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hīna.śakti.pūraṇam,",
+      "words": [
+       {
+        "w": "hīna-śakti-pūraṇam",
+        "gloss": "filling up of deficient power",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavatā",
+      "words": [
+       {
+        "w": "balavatā",
+        "gloss": "with the strong",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhya",
+      "words": [
+       {
+        "w": "vigṛhya",
+        "gloss": "having made war",
+        "gram": "abs. vi-√grah"
+       }
+      ]
+     },
+     {
+      "src": "uparodha.hetavaḥ,",
+      "words": [
+       {
+        "w": "uparodha-hetavaḥ",
+        "gloss": "causes of obstruction",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.upanata.vṛttam,",
+      "words": [
+       {
+        "w": "daṇḍa-upanata-vṛttam",
+        "gloss": "conduct of one submitting with his army",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "daṇḍa.upanāyi.vṛttam,",
+      "words": [
+       {
+        "w": "daṇḍa-upanāyi-vṛttam",
+        "gloss": "conduct of one who brings the army near",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhi.karma,",
+      "words": [
+       {
+        "w": "sandhi-karma",
+        "gloss": "work of peace",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samādhi.mokṣaḥ,",
+      "words": [
+       {
+        "w": "samādhi-mokṣaḥ",
+        "gloss": "release of the samādhi",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyama.caritam,",
+      "words": [
+       {
+        "w": "madhyama-caritam",
+        "gloss": "conduct of the middle king",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "udāsīna.caritam,",
+      "words": [
+       {
+        "w": "udāsīna-caritam",
+        "gloss": "conduct of the neutral king",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇḍala.caritam",
+      "words": [
+       {
+        "w": "maṇḍala-caritam",
+        "gloss": "conduct of the circle",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣāḍguṇyaṃ",
+      "words": [
+       {
+        "w": "ṣāḍguṇyam",
+        "gloss": "the sixfold policy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saptamam",
+      "words": [
+       {
+        "w": "saptamam",
+        "gloss": "seventh",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "षाड्गुण्य का समुद्देश, क्षय, स्थान, वृद्धि का निश्चय, संश्रय की वृत्ति, समान, हीन, श्रेष्ठ के गुणों का अभिनिवेश, हीन सन्धियाँ, युद्ध करके आसन, सन्धि करके आसन, युद्ध करके यान, सन्धि करके यान, मिलकर प्रयाण, जिस पर चढ़ाई करनी हो और शत्रु के अभिग्रह की चिन्ता, प्रकृतियों के क्षय, लोभ, विरक्ति के कारण, सामवायिक का विपरिमर्श, संहित प्रयाणिक, परिपणित, अपरिपणित, अपसृत सन्धियाँ, द्वैधीभाव सम्बन्धी सन्धि और आक्रमण, जिस पर चढ़ाई करनी हो उसकी वृत्ति, अनुग्रह किए जाने योग्य मित्रों की विशेषताएँ, मित्र, धन, भूमि, कर्म की सन्धियाँ, पार्ष्णिग्राह की चिन्ता, हीन शक्ति की पूर्ति, बलवान् के साथ युद्ध करके उपरोध के कारण, सेना सहित समर्पण करने वाले का आचरण, सेना को निकट लाने वाले का आचरण, सन्धि का कर्म, समाधि-मोक्ष, मध्यम का आचरण, उदासीन का आचरण, मण्डल का आचरण, यह षाड्गुण्य सप्तम अधिकरण है।",
+  "english": "Enumeration of the sixfold policy; determination of decline, stagnation and growth; behaviour of shelter; adherence to the guṇas of the equal, the inferior and the superior; inferior treaties; having made war, staying quiet; having made peace, staying quiet; having made war, marching; having made peace, marching; having combined, marching forth; consideration of the seizure of the one to be marched against and the enemy; causes of loss, greed and disaffection of the constituent elements; reflection on the associate (sāmavāyika); allied marching forth; treaties stipulated, unstipulated and gone away; peace and attacks relating to the dual policy; behaviour of the one to be marched against; distinctions of allies to be favoured; treaties of ally, money, land and works; consideration of the heel-seizer; filling up of deficient power; causes of obstruction, having made war with the strong; conduct of one submitting with his army; conduct of one who brings the army near; work of peace; release of the samādhi; conduct of the middle king; conduct of the neutral king; conduct of the circle. Such is the sixfold policy, the seventh section.",
+  "text_flags": [
+   {
+    "src": "saṃhita",
+    "suggest": "saṃhita.prayāṇikam",
+    "why": "possible: missing compound dot / stray space between saṃhita and prayāṇikam"
+   }
+  ],
+  "notes": "Table of contents of Book 7. Doubtful renderings (literal, medium): saṃśraya-vṛtti 'behaviour of shelter' (alternative: conduct in seeking shelter); guṇa-abhiniveśa 'adherence to the guṇas' (alternative: application); hīna-sandhi read as 'inferior treaties' (a named kind in 7.3; alternative: treaties of the weaker king); abhigraha 'seizure' (alternative: attack, approach); viparimarśa 'reflection'; paripaṇita / aparipaṇita as terms, apasṛta 'gone away' (obscure); dvaidhī-bhāvika 'relating to the dual policy'; uparodha 'obstruction' (alternatives: blockade, siege); upanāyin 'one who brings near' (the object daṇḍa 'army'); samādhi-mokṣa as in 7.17 (alternative 'release of the settlement', 7.17a); sandhi-karma 'work of peace'. In bare sandhi compounds, sandhi = peace; in treaty names = treaty. yātavya.vṛtti could also mean 'behaviour towards'. 'Having combined, marching forth' renders sambhūya prayāṇam. The lone '-' at line ends is the e-text's continuation mark.",
+  "confidence": "medium"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakṛti.vyasana.vargaḥ,",
+      "words": [
+       {
+        "w": "prakṛti-vyasana-vargaḥ",
+        "gloss": "group of calamities of the constituent elements",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.rājyayor",
+      "words": [
+       {
+        "w": "rāja-rājyayoḥ",
+        "gloss": "of the king and the kingdom",
+        "gram": "dvandva, m./n. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "vyasana.cintā,",
+      "words": [
+       {
+        "w": "vyasana-cintā",
+        "gloss": "consideration of calamity",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruṣa.vyasana.vargaḥ,",
+      "words": [
+       {
+        "w": "puruṣa-vyasana-vargaḥ",
+        "gloss": "group of vices (vyasana) of the person",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pīḍana.vargaḥ,",
+      "words": [
+       {
+        "w": "pīḍana-vargaḥ",
+        "gloss": "group of afflictions",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "stambha.vargaḥ,",
+      "words": [
+       {
+        "w": "stambha-vargaḥ",
+        "gloss": "group of obstructions",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kośa.saṅga.vargaḥ,",
+      "words": [
+       {
+        "w": "kośa-saṅga-vargaḥ",
+        "gloss": "group of impediments of the treasury",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitra.vyasana.vargaḥ",
+      "words": [
+       {
+        "w": "mitra-vyasana-vargaḥ",
+        "gloss": "group of calamities of the ally",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyasana.ādhikārikam",
+      "words": [
+       {
+        "w": "vyasana-ādhikārikam",
+        "gloss": "concerned with the topic of calamity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṣṭamam",
+      "words": [
+       {
+        "w": "aṣṭamam",
+        "gloss": "eighth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रकृतियों के व्यसनों का वर्ग, राजा और राज्य के व्यसन की चिन्ता, पुरुष के व्यसनों का वर्ग, पीड़न का वर्ग, स्तम्भ का वर्ग, कोश के सङ्ग का वर्ग, मित्र के व्यसनों का वर्ग, यह व्यसन-अधिकारिक अष्टम अधिकरण है।",
+  "english": "Group of calamities of the constituent elements; consideration of the calamity of the king and the kingdom; group of vices (vyasana) of the person; group of afflictions; group of obstructions; group of impediments of the treasury; group of calamities of the ally. Such is the eighth section, [that] concerned with the topic of calamity.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 8. vyasana = calamity for prakṛti, king-and-kingdom and ally, but 'vice' for puruṣa-vyasana (the person's own vices, 8.3), per the glossary. pīḍana = affliction, stambha = obstruction, saṅga = impediment (glossary 8.4). rāja-rājyayoḥ is a dual genitive.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śakti.deśa.kāla.bala.abala.jñānam,",
+      "words": [
+       {
+        "w": "śakti-deśa-kāla-bala-abala-jñānam",
+        "gloss": "knowledge of power, place, time, strength and weakness",
+        "gram": "tat-puruṣa over dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātrā.kālāḥ,",
+      "words": [
+       {
+        "w": "yātrā-kālāḥ",
+        "gloss": "times of the march",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bala.upādāna.kālāḥ,",
+      "words": [
+       {
+        "w": "bala-upādāna-kālāḥ",
+        "gloss": "times of taking up troops",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "samnāha.guṇāḥ,",
+      "words": [
+       {
+        "w": "saṃnāha-guṇāḥ",
+        "gloss": "qualities of arming (saṃnāha)",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratibala.karma,",
+      "words": [
+       {
+        "w": "pratibala-karma",
+        "gloss": "work of the counterforce",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paścāt",
+      "words": [
+       {
+        "w": "paścāt",
+        "gloss": "later",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopa.cintā,",
+      "words": [
+       {
+        "w": "kopa-cintā",
+        "gloss": "consideration of revolt",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.ābhyantara.prakṛti.kopa.pratīkārāḥ",
+      "words": [
+       {
+        "w": "bāhya-ābhyantara-prakṛti-kopa-pratīkārāḥ",
+        "gloss": "remedies for uprisings of the external and internal constituent elements",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣaya.vyaya.lābha.-",
+      "words": [
+       {
+        "w": "kṣaya-vyaya-lābha",
+        "gloss": "loss, expenditure and gain (compound continued after the line break)",
+        "gram": "dvandva, first members"
+       }
+      ]
+     },
+     {
+      "src": "viparimarśaḥ,",
+      "words": [
+       {
+        "w": "viparimarśaḥ",
+        "gloss": "reflection",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.ābhyantarāś",
+      "words": [
+       {
+        "w": "bāhya-ābhyantarāḥ",
+        "gloss": "external and internal",
+        "gram": "dvandva, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-āpadaḥ,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āpadaḥ",
+        "gloss": "adversities",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "duṣya.śatru.samyuktāḥ,",
+      "words": [
+       {
+        "w": "dūṣya-śatru-saṃyuktāḥ",
+        "gloss": "connected with the treasonable and the enemy",
+        "gram": "tat-puruṣa, over dvandva, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "artha.anartha.saṃśaya.yuktāḥ,",
+      "words": [
+       {
+        "w": "artha-anartha-saṃśaya-yuktāḥ",
+        "gloss": "joined with gain, loss and doubt",
+        "gram": "tat-puruṣa, over dvandva, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāsām",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "upāya.vikalpajāḥ",
+      "words": [
+       {
+        "w": "upāya-vikalpa-jāḥ",
+        "gloss": "born of alternatives of means",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "siddhayaḥ",
+      "words": [
+       {
+        "w": "siddhayaḥ",
+        "gloss": "successes",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "abhiyāsyat",
+      "words": [
+       {
+        "w": "abhiyāsyat",
+        "gloss": "about to march against",
+        "gram": "fut. part. abhi-√yā"
+       }
+      ]
+     },
+     {
+      "src": "karma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "work",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "navamam",
+      "words": [
+       {
+        "w": "navamam",
+        "gloss": "ninth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शक्ति, देश, काल, बल, दुर्बलता का ज्ञान, चढ़ाई के काल, सेना को ग्रहण करने के काल, सन्नाह के गुण, प्रतिबल का कर्म, पीछे के कोप की चिन्ता, बाहरी और भीतरी प्रकृतियों के विद्रोह के प्रतिकार, क्षय, व्यय, लाभ का विपरिमर्श, और बाहरी और भीतरी आपत्तियाँ, दूष्य और शत्रु से जुड़ी, अर्थ, अनर्थ, संशय से युक्त, उनकी उपायों के विकल्प से उत्पन्न सिद्धियाँ, यह चढ़ाई करने वाले का कर्म नवम अधिकरण है।",
+  "english": "Knowledge of power, place, time, strength and weakness; times of the march; times of taking up troops; qualities of arming (saṃnāha); work of the counterforce; consideration of the later revolt; remedies for uprisings of the external and internal constituent elements; reflection on loss, expenditure and gain; and external and internal adversities, connected with the treasonable and the enemy, joined with gain, loss and doubt; of these, the successes born of alternatives of means. Such is the work of [him who is] about to march against [an enemy], the ninth section.",
+  "text_flags": [
+   {
+    "src": "duṣya.śatru.samyuktāḥ",
+    "suggest": "dūṣya.śatru.samyuktāḥ",
+    "why": "likely short u for dūṣya (the treasonable); duṣya is not a word"
+   },
+   {
+    "src": "paścāt",
+    "suggest": "paścāt.kopa.cintā",
+    "why": "possible missing compound dot / stray space (paścāt-kopa 'later revolt')"
+   },
+   {
+    "src": "abhiyāsyat",
+    "suggest": "abhiyāsyat.karma",
+    "why": "possible missing compound dot / stray space (abhiyāsyat-karma)"
+   }
+  ],
+  "notes": "Table of contents of Book 9. The compound kṣaya.vyaya.lābha.- continues across the line break (the '.-' is the e-text's continuation mark); the first token carries the first members, the second token viparimarśaḥ. The last items run on: 'and the external and internal adversities (āpadaḥ), connected with ..., joined with ...; of these (tāsām) the successes ...'. bala-abala 'strength and weakness'; bala-upādāna 'taking up troops' (glossary 9.2); saṃnāha lit. 'binding on', rendered 'arming' (alternative: preparation, mobilisation); paścāt-kopa 'later revolt' (glossary 9.3); vikalpa 'alternatives'. abhiyāsyat is a future participle, 'about to march against'; the object is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "skandha.āvāra.niveśaḥ,",
+      "words": [
+       {
+        "w": "skandha-āvāra-niveśaḥ",
+        "gloss": "encampment of the camp",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "skandha.āvāra.prayāṇam,",
+      "words": [
+       {
+        "w": "skandha-āvāra-prayāṇam",
+        "gloss": "marching forth of the camp",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bala.vyasana.avaskanda.kāla.rakṣaṇam,",
+      "words": [
+       {
+        "w": "bala-vyasana-avaskanda-kāla-rakṣaṇam",
+        "gloss": "protection at the time of calamity of the army and assault",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kūṭa.yuddha.vikalpāḥ,",
+      "words": [
+       {
+        "w": "kūṭa-yuddha-vikalpāḥ",
+        "gloss": "alternatives of treacherous warfare",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sva.sainya.utsāhanam,",
+      "words": [
+       {
+        "w": "sva-sainya-utsāhanam",
+        "gloss": "rousing of one's own army",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.bala.anya.bala.vyāyogaḥ,",
+      "words": [
+       {
+        "w": "sva-bala-anya-bala-vyāyogaḥ",
+        "gloss": "mixed yoking of one's own army and another's army",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuddha.bhūmayaḥ,",
+      "words": [
+       {
+        "w": "yuddha-bhūmayaḥ",
+        "gloss": "battle-grounds",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "patty.aśva.ratha.hasti.karmāṇi,",
+      "words": [
+       {
+        "w": "patti-aśva-ratha-hasti-karmāṇi",
+        "gloss": "actions of foot-soldiers, horses, chariots and elephants",
+        "gram": "tat-puruṣa, over dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pakṣa.kakṣa.urasyānāṃ",
+      "words": [
+       {
+        "w": "pakṣa-kakṣa-urasyānām",
+        "gloss": "of wings, flanks and centres",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bala.agrato",
+      "words": [
+       {
+        "w": "bala-agrataḥ",
+        "gloss": "from the front of the army",
+        "gram": "tat-puruṣa + -tas, ind."
+       }
+      ]
+     },
+     {
+      "src": "vyūha.vibhāgaḥ,",
+      "words": [
+       {
+        "w": "vyūha-vibhāgaḥ",
+        "gloss": "division of the array",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāra.phalgu.bala.vibhāgaḥ,",
+      "words": [
+       {
+        "w": "sāra-phalgu-bala-vibhāgaḥ",
+        "gloss": "division of strong and weak force",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "patty.aśva.ratha.hasti.yuddhāni,",
+      "words": [
+       {
+        "w": "patti-aśva-ratha-hasti-yuddhāni",
+        "gloss": "modes of fighting of foot-soldiers, horses, chariots and elephants",
+        "gram": "tat-puruṣa, over dvandva, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.bhoga.maṇḍala.asaṃhata.vyūha.vyūhanam,",
+      "words": [
+       {
+        "w": "daṇḍa-bhoga-maṇḍala-asaṃhata-vyūha-vyūhanam",
+        "gloss": "arraying of the staff, snake, circle and loose arrays",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prativyūha.sthāpanam",
+      "words": [
+       {
+        "w": "prativyūha-sthāpanam",
+        "gloss": "establishing of the counter-array",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāṅgrāmikaṃ",
+      "words": [
+       {
+        "w": "sāṅgrāmikam",
+        "gloss": "relating to battle",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daśamam",
+      "words": [
+       {
+        "w": "daśamam",
+        "gloss": "tenth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्कन्धावार का पड़ाव, स्कन्धावार का प्रयाण, सेना के व्यसन और आक्रमण के समय की रक्षा, कूटयुद्ध के विकल्प, अपनी सेना को उभारना, अपने बल और दूसरे के बल का मिश्रित जोड़ना, युद्ध की भूमियाँ, पैदल, घोड़े, रथ, हाथी के कर्म, पक्षों, कक्षों, उरस्यों का सेना के आगे से व्यूह का विभाग, सार और दुर्बल बल का विभाग, पैदल, घोड़े, रथ, हाथी के युद्ध, दण्ड, भोग, मण्डल, असंहत व्यूह का व्यूहन, उसके प्रतिव्यूह की स्थापना, यह संग्राम-सम्बन्धी दशम अधिकरण है।",
+  "english": "Encampment of the camp; marching forth of the camp; protection at the time of calamity of the army and assault; alternatives of treacherous warfare; rousing of one's own army; mixed yoking of one's own army and another's army; battle-grounds; actions of foot-soldiers, horses, chariots and elephants; division of the array of wings, flanks and centres from the front of the army; division of strong and weak force; modes of fighting of foot-soldiers, horses, chariots and elephants; arraying of the staff, snake, circle and loose arrays; establishing of the counter-array of that. Such is [that] relating to battle, the tenth section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 10. skandhāvāra-niveśa: literally 'encampment of the camp' (the glossary gives skandhāvāra = camp, niveśa = encampment). vyāyoga is rendered 'mixed yoking' after the earlier draft of 10.4 (gava-aśva-vyāyoga); the sense is uncertain (alternatives: separation, combination). bala-agrataḥ 'from the front of the army' is literal; the sense of the whole item is uncertain (medium-low). The array names daṇḍa / bhoga / maṇḍala / asaṃhata follow the glossary (staff / snake / circle / loose array). sāra-phalgu-bala = strong and weak force. karma in patti-...-karma = actions. The Hindi 'सेना' and 'बल' follow the glossary.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bheda.upādānāni,",
+      "words": [
+       {
+        "w": "bheda-upādānāni",
+        "gloss": "takings up of dissension",
+        "gram": "tat-puruṣa, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "upāṃśu.daṇḍāḥ",
+      "words": [
+       {
+        "w": "upāṃśu-daṇḍāḥ",
+        "gloss": "secret punishments",
+        "gram": "karmadhāraya, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saṅgha.vṛttam",
+      "words": [
+       {
+        "w": "saṅgha-vṛttam",
+        "gloss": "conduct of the saṅgha",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ekādaśam",
+      "words": [
+       {
+        "w": "ekādaśam",
+        "gloss": "eleventh",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भेद के उपादान, गुप्त दण्ड, यह संघ का आचरण एकादश अधिकरण है।",
+  "english": "Takings up of dissension; secret punishments. Such is the conduct of the saṅgha, the eleventh section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 11. upādāna lit. 'taking up' (alternative sense: means, instrument); bheda = dissension; saṅgha kept (glossary 11.1); upāṃśu-daṇḍa = secret punishment (glossary 13.5).",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūta.karma,",
+      "words": [
+       {
+        "w": "dūta-karma",
+        "gloss": "work of the envoy",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mantra.yuddham,",
+      "words": [
+       {
+        "w": "mantra-yuddham",
+        "gloss": "war of counsel",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "senā.mukhya.vadhaḥ,",
+      "words": [
+       {
+        "w": "senā-mukhya-vadhaḥ",
+        "gloss": "killing of the chief of the army",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "maṇḍala.protsāhanam,",
+      "words": [
+       {
+        "w": "maṇḍala-protsāhanam",
+        "gloss": "urging on of the circle",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastra.agni.rasa.praṇidhayaḥ,",
+      "words": [
+       {
+        "w": "śastra-agni-rasa-praṇidhayaḥ",
+        "gloss": "deployments of weapon, fire and poison",
+        "gram": "tat-puruṣa, over dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vīvadha.āsāra.prasāra.vadhaḥ,",
+      "words": [
+       {
+        "w": "vīvadha-āsāra-prasāra-vadhaḥ",
+        "gloss": "killing of the supply line, reinforcements and foraging force",
+        "gram": "tat-puruṣa, over dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoga.atisandhānam,",
+      "words": [
+       {
+        "w": "yoga-atisandhānam",
+        "gloss": "outwitting by secret contrivance",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.atisandhānam,",
+      "words": [
+       {
+        "w": "daṇḍa-atisandhānam",
+        "gloss": "outwitting by force",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eka.vijayaḥ",
+      "words": [
+       {
+        "w": "eka-vijayaḥ",
+        "gloss": "sole victory",
+        "gram": "karmadhāraya, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ābalīyasaṃ",
+      "words": [
+       {
+        "w": "ābalīyasam",
+        "gloss": "ābalīyasa (term kept)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśam",
+      "words": [
+       {
+        "w": "dvādaśam",
+        "gloss": "twelfth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूत का कर्म, मन्त्रयुद्ध, सेना के मुखिया का वध, मण्डल को प्रोत्साहन देना, शस्त्र, अग्नि, विष की प्रणिधियाँ, रसद, सहायक सेना, प्रसार का वध, योग-अतिसन्धान, दण्ड-अतिसन्धान, एकमात्र विजय, यह आबलीयस द्वादश अधिकरण है।",
+  "english": "Work of the envoy; war of counsel; killing of the chief of the army; urging on of the circle; deployments of weapon, fire and poison; killing of the supply line, reinforcements and foraging force; outwitting by secret contrivance; outwitting by force; sole victory. Such is the ābalīyasa, the twelfth section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 12. rasa in śastra-agni-rasa = poison (glossary). yoga = secret contrivance (Book 12); daṇḍa-atisandhāna 'by force' (daṇḍa as upāya, glossary 12.1); alternative 'by the army'. The relation between the first member and atisandhāna is a bare tat-puruṣa; 'by' is the likeliest reading. vadha = killing (applied also to the supply line, reinforcements and foragers). ābalīyasa kept untranslated (glossary 7.3). eka-vijaya 'sole victory' (alternative: victory of one).",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "upajāpaḥ,",
+      "words": [
+       {
+        "w": "upajāpaḥ",
+        "gloss": "secret instigation",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoga.vāmanam,",
+      "words": [
+       {
+        "w": "yoga-vāmanam",
+        "gloss": "causing to vomit out by secret contrivance",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "apasarpa.praṇidhiḥ,",
+      "words": [
+       {
+        "w": "apasarpa-praṇidhiḥ",
+        "gloss": "deployment of spies",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paryupāsana.karma,",
+      "words": [
+       {
+        "w": "paryupāsana-karma",
+        "gloss": "siege operation",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "avamardaḥ,",
+      "words": [
+       {
+        "w": "avamardaḥ",
+        "gloss": "crushing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "labdha.praśamanam",
+      "words": [
+       {
+        "w": "labdha-praśamanam",
+        "gloss": "pacification of what is obtained",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "durga.lambha.upāyas",
+      "words": [
+       {
+        "w": "durga-lambha-upāyaḥ",
+        "gloss": "means of acquiring the fort",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "trayodaśam",
+      "words": [
+       {
+        "w": "trayodaśam",
+        "gloss": "thirteenth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उपजाप, योग-वमन कराना, गुप्तचरों की प्रणिधि, घेराबन्दी का कार्य, कुचलना, प्राप्त का प्रशमन, यह दुर्ग के लाभ का उपाय त्रयोदश अधिकरण है।",
+  "english": "Secret instigation; causing to vomit out [by] secret contrivance; deployment of spies; siege operation; crushing; pacification of what is obtained. Such is the means of acquiring the fort, the thirteenth section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 13. vāmana is rendered literally (the sense 'luring out' only in this note); the bracketed [by] marks the supplied relation between yoga and vāmana. lambha = acquisition (glossary 13.5). labdha 'what is obtained' (the object is not stated).",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "para.bala.ghāta.prayogaḥ,",
+      "words": [
+       {
+        "w": "para-bala-ghāta-prayogaḥ",
+        "gloss": "application of the killing of the other's army",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pralambhanam,",
+      "words": [
+       {
+        "w": "pralambhanam",
+        "gloss": "deceiving",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.bala.upaghāta.pratīkāraḥ",
+      "words": [
+       {
+        "w": "sva-bala-upaghāta-pratīkāraḥ",
+        "gloss": "remedy for injury to one's own army",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aupaniṣadikaṃ",
+      "words": [
+       {
+        "w": "aupaniṣadikam",
+        "gloss": "aupaniṣadika (term kept)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturdaśam",
+      "words": [
+       {
+        "w": "caturdaśam",
+        "gloss": "fourteenth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूसरे की सेना के घात का प्रयोग, धोखा देना, अपनी सेना की क्षति का प्रतिकार, यह औपनिषदिक चतुर्दश अधिकरण है।",
+  "english": "Application of the killing of the other's army; deceiving; remedy for injury to one's own army. Such is the aupaniṣadika, the fourteenth section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 14. para = 'the other' (glossary 9.2); ghāta 'killing'; pralambhana lit. 'deceiving'; aupaniṣadika kept untranslated (glossary 7.15).",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tantra.yuktayaḥ",
+      "words": [
+       {
+        "w": "tantra-yuktayaḥ",
+        "gloss": "devices of the treatise",
+        "gram": "tat-puruṣa, f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "continuation mark (not a word)",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tantra.yuktiḥ",
+      "words": [
+       {
+        "w": "tantra-yuktiḥ",
+        "gloss": "device of the treatise",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pañcadaśam",
+      "words": [
+       {
+        "w": "pañcadaśam",
+        "gloss": "fifteenth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhikaraṇam",
+      "words": [
+       {
+        "w": "adhikaraṇam",
+        "gloss": "section",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तन्त्र की युक्तियाँ, यह तन्त्रयुक्ति पञ्चदश अधिकरण है।",
+  "english": "The devices of the treatise. Such is the device of the treatise, the fifteenth section.",
+  "text_flags": [],
+  "notes": "Table of contents of Book 15. tantra = treatise, yukti = device (glossary 15.1).",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śāstra.samuddeśaḥ",
+      "words": [
+       {
+        "w": "śāstra-samuddeśaḥ",
+        "gloss": "enumeration of the treatise",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pañcadaśa.adhikaraṇāni",
+      "words": [
+       {
+        "w": "pañcadaśa-adhikaraṇāni",
+        "gloss": "fifteen sections",
+        "gram": "karmadhāraya, n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa-aśīti.prakaraṇa.śataṃ",
+      "words": [
+       {
+        "w": "sa-aśīti-prakaraṇa-śatam",
+        "gloss": "a hundred topics with eighty (180)",
+        "gram": "bahuvrīhi/karmadhāraya, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa-pañcāśad.adhyāya.śataṃ",
+      "words": [
+       {
+        "w": "sa-pañcāśat-adhyāya-śatam",
+        "gloss": "a hundred chapters with fifty (150)",
+        "gram": "bahuvrīhi/karmadhāraya, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ.śloka.sahasrāṇi-iti",
+      "words": [
+       {
+        "w": "ṣaṭ-śloka-sahasrāṇi",
+        "gloss": "six thousand ślokas",
+        "gram": "tat-puruṣa, n. nom. pl."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शास्त्र का समुद्देश: पन्द्रह अधिकरण, एक सौ अस्सी प्रकरण, एक सौ पचास अध्याय, छह हज़ार श्लोक।",
+  "english": "The enumeration of the treatise [is]: fifteen sections, one hundred and eighty topics, one hundred and fifty chapters, six thousand ślokas.",
+  "text_flags": [],
+  "notes": "sa-aśīti-prakaraṇa-śata is literally 'a hundred topics together with eighty', read as 180; sa-pañcāśat-adhyāya-śata 'a hundred chapters together with fifty', read as 150 (the numbers are an arithmetic reading of the compounds). The closing iti ends the statement and is not rendered. The '-' joins in 'sa-aśīti' and 'sa-pañcāśad' are unsandhied joins inside one compound; each compound has one word entry.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sukha.grahaṇa.vijñeyaṃ",
+      "words": [
+       {
+        "w": "sukha-grahaṇa-vijñeyam",
+        "gloss": "to be understood with easy grasping",
+        "gram": "karmadhāraya/tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tattva.artha.pada.niścitam",
+      "words": [
+       {
+        "w": "tattva-artha-pada-niścitam",
+        "gloss": "settled in principles, meanings and words",
+        "gram": "tat-puruṣa over dvandva, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kauṭilyena",
+      "words": [
+       {
+        "w": "kauṭilyena",
+        "gloss": "by Kautilya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛtaṃ",
+      "words": [
+       {
+        "w": "kṛtam",
+        "gloss": "made",
+        "gram": "ppp √kṛ, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śāstraṃ",
+      "words": [
+       {
+        "w": "śāstram",
+        "gloss": "treatise",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vimukta.grantha.vistaram",
+      "words": [
+       {
+        "w": "vimukta-grantha-vistaram",
+        "gloss": "free from the prolixity of texts",
+        "gram": "bahuvrīhi, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सरल ग्रहण से जानने योग्य, तत्त्व, अर्थ, पद में निश्चित, कौटिल्य द्वारा बनाया गया, ग्रन्थ-विस्तार से विमुक्त शास्त्र।",
+  "english": "[This is] the treatise, to be understood with easy grasping, settled in principles, meanings and words, made by Kautilya, free from the prolixity of texts.",
+  "text_flags": [],
+  "notes": "The sentence is verbless: the two lines are neuter adjectives and nouns (sukha-grahaṇa-vijñeyam, tattva-artha-pada-niścitam, kṛtam, śāstram, vimukta-grantha-vistaram) and 'This is' is supplied. sukha-grahaṇa-vijñeya could also be read 'easy to grasp and to be understood' (alternative); tattva-artha-pada: principles, meanings, words; vimukta-grantha-vistara lit. 'released from the expansion of texts'.",
+  "confidence": "medium"
+ }
+]

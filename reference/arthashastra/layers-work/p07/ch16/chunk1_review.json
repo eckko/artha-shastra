@@ -1,0 +1,974 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'and [where] the enemy'",
+     "problem": "Unbracketed 'and' with no Sanskrit ca: the two ca of the Sanskrit are already rendered ('and the course', 'no rear and no reinforcer').",
+     "fix": "[where] the enemy",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "and [where] the enemy",
+      "new": "[where] the enemy"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'और शत्रु दुर्ग-रहित'",
+     "problem": "Third और; the Sanskrit has only two ca (after sva-ṛtu-vṛtti and after anāsāra).",
+     "fix": "शत्रु दुर्ग-रहित",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और शत्रु दुर्ग-रहित",
+      "new": "शत्रु दुर्ग-रहित"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'माने हुए सन्धि-पण के उद्वेग को करने वाले को'",
+     "problem": "Hindi reads 'agitation of the stipulation' while English says 'agitation [by] the permitted stipulation'; 'माने हुए' is 'accepted', not 'permitted' (anujñāta).",
+     "fix": "अनुमत सन्धि-पण से उद्वेग करने वाले को",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "माने हुए सन्धि-पण के उद्वेग को करने वाले को",
+      "new": "अनुमत सन्धि-पण से उद्वेग करने वाले को"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'treaty-stipulation'",
+     "problem": "Book 7 convention: bare sandhi (not a named kind) = peace.",
+     "fix": "peace-stipulation",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "treaty-stipulation",
+      "new": "peace-stipulation"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anujñāta-sandhi-paṇa-udvega-karam",
+     "problem": "Same: bare sandhi = peace.",
+     "fix": "causing agitation [by] the permitted peace-stipulation",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "anujñāta-sandhi-paṇa-udvega-karam",
+      "field": "gloss",
+      "value": "causing agitation [by] the permitted peace-stipulation"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'sandhi = treaty (Book 7)'",
+     "problem": "Note contradicts the Book 7 convention (bare sandhi = peace).",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "append_note",
+      "text": "Correction: bare sandhi here = peace (Book 7 convention), so 'peace-stipulation' is used; the earlier 'sandhi = treaty' is superseded."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'fled [and] doing harm'",
+     "problem": "Dvandva takes unbracketed 'and' (7.17 convention, as 3.16/3.20).",
+     "fix": "fled and doing harm",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "fled [and] doing harm",
+      "new": "fled and doing harm"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ujjhita-apasṛta-apakāriṇām",
+     "problem": "Same.",
+     "fix": "of [those] abandoned, fled and doing harm",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "ujjhita-apasṛta-apakāriṇām",
+      "field": "gloss",
+      "value": "of [those] abandoned, fled and doing harm"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'land, property [and] a maiden'",
+     "problem": "Dvandva takes unbracketed 'and'; kanyā-dāna = gift of a girl in 7.14, align.",
+     "fix": "land, property and a girl",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "land, property [and] a maiden",
+      "new": "land, property and a girl"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-dravya-kanyā-dānam",
+     "problem": "Same.",
+     "fix": "gift of land, property and a girl",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "bhūmi-dravya-kanyā-dānam",
+      "field": "gloss",
+      "value": "gift of land, property and a girl"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'land [and] share' / 'family [and] princes'",
+     "problem": "Dvandva takes unbracketed 'and'.",
+     "fix": "land and share; members of his family and princes in disfavour",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "land [and] share",
+      "new": "land and share"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'family [and] princes in disfavour'",
+     "problem": "Same.",
+     "fix": "members of his family and princes in disfavour",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "members of his family [and] princes",
+      "new": "members of his family and princes"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sāmanta-āṭavika-tat-kulīna-aparuddhānām",
+     "problem": "Same.",
+     "fix": "of neighbouring chiefs, forest chiefs, members of his family and princes in disfavour",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "sāmanta-āṭavika-tat-kulīna-aparuddhānām",
+      "field": "gloss",
+      "value": "of neighbouring chiefs, forest chiefs, members of his family and princes in disfavour"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kośa-daṇḍa-bhūmi-dāya-yācanam",
+     "problem": "Same.",
+     "fix": "request for treasury, army, land and share",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "kośa-daṇḍa-bhūmi-dāya-yācanam",
+      "field": "gloss",
+      "value": "request for treasury, army, land and share"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "dāya",
+     "problem": "The grouping 'treasury, army, land, share' is one reading; 'a share of the treasury, army and land' is possible and should be recorded.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "append_note",
+      "text": "Alternative grouping: dāya may be a share in the treasury, army and land (kośa-daṇḍa-bhūmi) rather than a fourth item."
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'open, treacherous [and] silent fighting [and] acquisition of forts'",
+     "problem": "Glossary (12.1, 7.6): prakāśa-yuddha / kūṭa-yuddha / tūṣṇīm-yuddha = open battle / treacherous warfare / silent battle; Hindi already uses the terms, English must match; dvandva 'and' unbracketed.",
+     "fix": "by the means of open battle, treacherous warfare, silent battle and acquisition of forts",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "by the means of open, treacherous [and] silent fighting [and] acquisition of forts",
+      "new": "by the means of open battle, treacherous warfare, silent battle and acquisition of forts"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "prakāśa-kūṭa-tūṣṇīm-yuddha-durga-lambha-upāyaiḥ",
+     "problem": "Same.",
+     "fix": "by the means of open battle, treacherous warfare, silent battle and acquisition of forts",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "prakāśa-kūṭa-tūṣṇīm-yuddha-durga-lambha-upāyaiḥ",
+      "field": "gloss",
+      "value": "by the means of open battle, treacherous warfare, silent battle and acquisition of forts"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'मौन युद्ध'",
+     "problem": "7.6 glossary: तूष्णीं-युद्ध.",
+     "fix": "तूष्णीं-युद्ध",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मौन युद्ध",
+      "new": "तूष्णीं-युद्ध"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'अमित्रों का प्रग्रहण'",
+     "problem": "English says 'capture' but Hindi leaves प्रग्रहण untranslated (and the glossary has प्रग्रह = favouring elsewhere).",
+     "fix": "अमित्रों को पकड़ना",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अमित्रों का प्रग्रहण",
+      "new": "अमित्रों को पकड़ना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole sentence",
+     "problem": "(a) phalgu of goods = insignificant (3.17 glossary), not 'trifling'; (b) dravya-hasti-vana is 'produce forests and elephant forests' in 7.1/7.11/7.12/7.14 chunks, not 'property, elephants, forest'; (c) dvandva 'and' unbracketed; (d) yāna/vāhana = vehicle/conveyance (7.14).",
+     "fix": "Of them, what [one] benefits many times by gems, valuables, insignificant [things] and raw materials born from wares, towns, villages and mines, or by vehicle and conveyance arisen from produce forests, elephant forests and cattle-stations — that [has] varied enjoyment.",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "english",
+      "value": "Of them, what [one] benefits many times by gems, valuables, insignificant [things] and raw materials born from wares, towns, villages and mines, or by vehicle and conveyance arisen from produce forests, elephant forests and cattle-stations — that [has] varied enjoyment."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole sentence",
+     "problem": "Hindi must follow glossary: sāra = बहुमूल्य वस्तुएँ (12.1), phalgu = तुच्छ (3.17); द्रव्य-वन, हस्ति-वन as in 7.12 (not 'द्रव्य, हाथी, वन'); a two-member dvandva takes और (यान और वाहन).",
+     "fix": "उनमें से जो पण्य, पत्तन, ग्राम, खान से उत्पन्न रत्न, बहुमूल्य वस्तुएँ, तुच्छ, कुप्य से, या द्रव्य-वन, हस्ति-वन, व्रज से उठे यान और वाहन से बहुत बार उपकार करता है, वह विचित्र भोग वाला है।",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "उनमें से जो पण्य, पत्तन, ग्राम, खान से उत्पन्न रत्न, बहुमूल्य वस्तुएँ, तुच्छ, कुप्य से, या द्रव्य-वन, हस्ति-वन, व्रज से उठे यान और वाहन से बहुत बार उपकार करता है, वह विचित्र भोग वाला है।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "paṇya-pattana-grāma-khani-sañjātena",
+     "problem": "Dvandva 'and' unbracketed.",
+     "fix": "born from wares, towns, villages and mines",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "paṇya-pattana-grāma-khani-sañjātena",
+      "field": "gloss",
+      "value": "born from wares, towns, villages and mines"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ratna-sāra-phalgu-kupyena",
+     "problem": "phalgu = insignificant.",
+     "fix": "by gems, valuables, insignificant [things] and raw materials",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "ratna-sāra-phalgu-kupyena",
+      "field": "gloss",
+      "value": "by gems, valuables, insignificant [things] and raw materials"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dravya-hasti-vana-vraja-samutthena",
+     "problem": "Align with 7.1/7.11/7.12.",
+     "fix": "arisen from produce forests, elephant forests and cattle-stations",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "dravya-hasti-vana-vraja-samutthena",
+      "field": "gloss",
+      "value": "arisen from produce forests, elephant forests and cattle-stations"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yāna-vāhana",
+     "problem": "7.14: vehicle / conveyance; dvandva 'and'.",
+     "fix": "by vehicle and conveyance",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "yāna-vāhanena",
+      "field": "gloss",
+      "value": "by vehicle and conveyance"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "yāna here = vehicle ... 'mount'",
+     "problem": "Note still says 'mount'.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "append_note",
+      "text": "Correction: vāhana = conveyance (7.14); dravya-hasti-vana read 'produce forests and elephant forests' as in 7.1, 7.11, 7.12."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'treasury [and] lands'",
+     "problem": "Dvandva takes unbracketed 'and'.",
+     "fix": "army, treasury and lands",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "treasury [and] lands",
+      "new": "treasury and lands"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍa-kośa-bhūmībhiḥ",
+     "problem": "Same.",
+     "fix": "by army, treasury and lands",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "daṇḍa-kośa-bhūmībhiḥ",
+      "field": "gloss",
+      "value": "by army, treasury and lands"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'neighbours [and] forest chiefs'",
+     "problem": "Dvandva takes unbracketed 'and'.",
+     "fix": "reinforcers, neighbours and forest chiefs",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "neighbours [and] forest chiefs",
+      "new": "neighbours and forest chiefs"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "amitra-āsāra-prativeśa-āṭavikān",
+     "problem": "Same.",
+     "fix": "enemies, reinforcers, neighbours and forest chiefs",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "amitra-āsāra-prativeśa-āṭavikān",
+      "field": "gloss",
+      "value": "enemies, reinforcers, neighbours and forest chiefs"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'If any heel-seizer'",
+     "problem": "Supplied 'If' (the Sanskrit has the optional āsādyeta, no yadi) must be bracketed.",
+     "fix": "[If] any heel-seizer",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "If any heel-seizer",
+      "new": "[If] any heel-seizer"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'whose activity is not obtained'",
+     "problem": "Book 7 vyāyāma = exertion (7.12, 7.13), not the 6.2 'activity'.",
+     "fix": "with [one] whose exertion is not obtained",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "whose activity is not obtained",
+      "new": "whose exertion is not obtained"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "alabdha-vyāyāmayā",
+     "problem": "Same.",
+     "fix": "whose exertion is not obtained",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "alabdha-vyāyāmayā",
+      "field": "gloss",
+      "value": "whose exertion is not obtained"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'जिसमें व्यायाम प्राप्त नहीं हुआ उससे'",
+     "problem": "Adds a relative/correlative pair (जिसमें...उससे) that is not in the Sanskrit; the bahuvrīhi should be rendered like महा-क्षय-व्यय-निवेश वाली.",
+     "fix": "अलब्ध-व्यायाम वाली से उत्साही को",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसमें व्यायाम प्राप्त नहीं हुआ उससे",
+      "new": "अलब्ध-व्यायाम वाली से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'शत्रु-पक्ष के को'",
+     "problem": "Ungrammatical Hindi (के को).",
+     "fix": "शत्रु-पक्ष वाले को",
+     "severity": "error",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रु-पक्ष के को",
+      "new": "शत्रु-पक्ष वाले को"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'अलग ले जाए गए'",
+     "problem": "apa- is 'away', not 'separate'.",
+     "fix": "दूर ले जाए गए",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अलग ले जाए गए",
+      "new": "दूर ले जाए गए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "'विकार-रहित का अनुसरण कराए'",
+     "problem": "With a causative the accusative is the person made to follow (as in the English); 'का अनुसरण कराए' reverses it.",
+     "fix": "विकार-रहित को अनुसरण कराए",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विकार-रहित का अनुसरण कराए",
+      "new": "विकार-रहित को अनुसरण कराए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "'अतिवाद'",
+     "problem": "Glossary (4.1): Hindi अतिवाद is never used for ati-vāda (over-speaking); kutsa/kutsā = disparagement (3.18), Hindi कुत्सा.",
+     "fix": "और इनमें तिरस्कार, उपघात, कुत्सा, अतिभाषण का प्रयोग न करे।",
+     "severity": "error",
+     "patch": {
+      "n": "22",
+      "op": "set",
+      "field": "hindi",
+      "value": "और इनमें तिरस्कार, उपघात, कुत्सा, अतिभाषण का प्रयोग न करे।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'reproach [or] over-speaking'",
+     "problem": "kutsā/kutsana = disparagement (3.18); dvandva with unbracketed 'and' (no ca/vā in the Sanskrit list).",
+     "fix": "And in these he should not apply contempt, injury, disparagement and over-speaking.",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "reproach [or] over-speaking",
+      "new": "disparagement and over-speaking"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "paribhava-upaghāta-kutsa-ativādān",
+     "problem": "Same.",
+     "fix": "contempt, injury, disparagement and over-speaking",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "paribhava-upaghāta-kutsa-ativādān",
+      "field": "gloss",
+      "value": "contempt, injury, disparagement and over-speaking"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tat",
+     "problem": "Note claims tat agrees with masculine doṣa; tat is neuter, so the agreement is irregular (or tat is adverbial).",
+     "fix": "n. sg. (neuter beside m. doṣa: irregular agreement, or adverbial)",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "tat",
+      "field": "gram",
+      "value": "n. sg. (neuter beside m. doṣa: irregular agreement, or adverbial)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'agreeing with the masculine doṣa'",
+     "problem": "Same.",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "append_note",
+      "text": "Correction: tat is neuter and doṣa masculine, so tad doṣam is irregular in agreement; tat may be read adverbially. The sense is unchanged."
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'sons [and] wives'",
+     "problem": "Dvandva takes unbracketed 'and'.",
+     "fix": "sons and wives",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "sons [and] wives",
+      "new": "sons and wives"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-dravya-putra-dārān",
+     "problem": "Same.",
+     "fix": "land, property, sons and wives",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "bhūmi-dravya-putra-dārān",
+      "field": "gloss",
+      "value": "land, property, sons and wives"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'in [their] own offices'",
+     "problem": "'offices' is an invented sense for pātra (literally vessel); keep the word, as other obscure terms are kept.",
+     "fix": "He should station even his kinsmen in [their] own pātras.",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "in [their] own offices",
+      "new": "in [their] own pātras"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pātreṣu",
+     "problem": "Same.",
+     "fix": "pātras (literally 'vessels'; sense uncertain)",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "pātreṣu",
+      "field": "gloss",
+      "value": "pātras (literally 'vessels'; sense uncertain)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "'इसके सेना सहित समर्पण करने वाले पुत्रों और पौत्रों का अनुसरण करते हैं'",
+     "problem": "Hindi has no clear subject: 'सेना सहित समर्पण करने वाले' reads as an adjective of the sons; the subject daṇḍa-upanatāḥ must stand apart.",
+     "fix": "इस प्रकार इसके सेना सहित समर्पण करने वाले, पुत्रों और पौत्रों का अनुसरण करते हैं।",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "set",
+      "field": "hindi",
+      "value": "इस प्रकार इसके सेना सहित समर्पण करने वाले, पुत्रों और पौत्रों का अनुसरण करते हैं।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'sons [and] grandsons'",
+     "problem": "Dvandva takes unbracketed 'and'.",
+     "fix": "[his] sons and grandsons",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "english",
+      "old": "sons [and] grandsons",
+      "new": "sons and grandsons"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "putra-pautrān",
+     "problem": "Same.",
+     "fix": "sons and grandsons",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "putra-pautrān",
+      "field": "gloss",
+      "value": "sons and grandsons"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'sons [and] wives'",
+     "problem": "Dvandva takes unbracketed 'and'.",
+     "fix": "sons and wives",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "sons [and] wives",
+      "new": "sons and wives"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhūmi-dravya-putra-dārān",
+     "problem": "Same.",
+     "fix": "land, property, sons and wives",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "bhūmi-dravya-putra-dārān",
+      "field": "gloss",
+      "value": "land, property, sons and wives"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'उपनतों'",
+     "problem": "Untranslated participle; glossary renders upanata as one who submits (समर्पण करने वाला), as in unit 29.",
+     "fix": "समर्पण करने वालों को",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपनतों को",
+      "new": "समर्पण करने वालों को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "'आश्रित हैं'",
+     "problem": "āyatta = dependent on; आश्रित collides with āśrayante (आश्रय लेते हैं) in the same sentence.",
+     "fix": "अपनी भूमियों पर निर्भर हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपनी भूमियों में आश्रित हैं",
+      "new": "अपनी भूमियों पर निर्भर हैं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "'रक्षित होकर'",
+     "problem": "'होकर' is an added word (anupālitāḥ is a plain participle).",
+     "fix": "साम से रक्षित",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "साम से रक्षित होकर",
+      "new": "साम से रक्षित"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'पुत्र-पौत्रों'",
+     "problem": "Consistency with unit 29 (two-member dvandva takes और).",
+     "fix": "पुत्रों और पौत्रों का अनुसरण करने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुत्र-पौत्रों का अनुसरण",
+      "new": "पुत्रों और पौत्रों का अनुसरण"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'sons [and] grandsons'",
+     "problem": "Dvandva takes unbracketed 'and'.",
+     "fix": "sons and grandsons",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "sons [and] grandsons",
+      "new": "sons and grandsons"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "putra-pautra-anuvartinaḥ",
+     "problem": "Same.",
+     "fix": "following sons and grandsons",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "putra-pautra-anuvartinaḥ",
+      "field": "gloss",
+      "value": "following sons and grandsons"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "12 errors, 45 minor, 57 machine patches; no regrouping suggested. Main problems: dvandva '[and]' brackets against the 7.17/3.16/3.20 convention, unit 8 yuddha terms and unit 10 list renderings against the glossary (phalgu, sāra, dravya-hasti-vana, yāna-vāhana), unit 16 unbracketed 'If', unit 22 Hindi अतिवाद (barred in 4.1), unit 27 invented 'offices', unit 29 Hindi without a clear subject. Bare sandhi in unit 1 = peace. No text_flag or word add/delete needed; the two drafter flags (units 1, 16) are right."
+}

@@ -1,0 +1,830 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "pāda.ṣṭhīvikābhyāṃ",
+     "problem": "Missing text_flag (possible): ṣṭhīvikā is not a usual word; niṣṭhīvikā (spitting) is, and a dropped ni after pāda. fits the printed form. Not checked against any source. Needs a person to confirm; meaning (foot and spittle) is unchanged.",
+     "fix": "Add text_flag {src: pāda.ṣṭhīvikābhyāṃ, suggest: pāda.niṣṭhīvikābhyāṃ, why: ni apparently dropped (possible)}",
+     "severity": "minor"
+    },
+    {
+     "field": "gloss",
+     "where": "spṛśataḥ",
+     "problem": "Genitive participle glossed without \"of one\", unlike the other genitive participles of the chunk.",
+     "fix": "of one touching",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "spṛśataḥ",
+      "field": "gloss",
+      "value": "of one touching"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पैर, थूक से छह पण",
+     "problem": "Two-member dvandva takes और in Hindi (glossary 3.15 line); the comma list is for three or more members.",
+     "fix": "पैर और थूक से छह पण",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पैर, थूक से छह पण",
+      "new": "पैर और थूक से छह पण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समान लोगों में",
+     "problem": "Added noun लोगों (unmarked); glossary 3.18 fixes sameṣu/tulyeṣu = समानों में, \"Hindi never adds लोग\".",
+     "fix": "समानों में",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समान लोगों में",
+      "new": "समानों में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "श्रेष्ठों में दुगुने",
+     "problem": "Glossary 3.18: viśiṣṭeṣu = विशिष्टों में (and English \"the superior\").",
+     "fix": "विशिष्टों में दुगुने",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्रेष्ठों में दुगुने",
+      "new": "विशिष्टों में दुगुने"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "viśiṣṭa = distinguished/superior; \"श्रेष्ठ\" is used for it in Hindi.",
+     "problem": "Note must follow the glossary rendering.",
+     "fix": "viśiṣṭa = distinguished/superior; Hindi विशिष्टों as in glossary 3.18.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "notes",
+      "old": "viśiṣṭa = distinguished/superior; \"श्रेष्ठ\" is used for it in Hindi.",
+      "new": "viśiṣṭa = distinguished/superior; Hindi विशिष्टों as in glossary 3.18."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "penalties of six paṇas upward.",
+     "problem": "Glossary 3.18 settles X-paṇa-uttara = higher by X paṇas (X पण अधिक).",
+     "fix": "penalties higher by six paṇas.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "penalties of six paṇas upward.",
+      "new": "penalties higher by six paṇas."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "छह पण से ऊपर के दण्ड",
+     "problem": "Glossary 3.18: X-paṇa-uttara = X पण अधिक.",
+     "fix": "छह पण अधिक के दण्ड",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "छह पण से ऊपर के दण्ड",
+      "new": "छह पण अधिक के दण्ड"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ṣaṭ-paṇa-uttarāḥ",
+     "problem": "Follow glossary 3.18.",
+     "fix": "higher by six paṇas",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "ṣaṭ-paṇa-uttarāḥ",
+      "field": "gloss",
+      "value": "higher by six paṇas"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "end",
+     "problem": "Record that the reading follows glossary 3.18 and the earlier reading stays an alternative.",
+     "fix": "Rendered \"higher by six paṇas\" (glossary 3.18, X-paṇa-uttara); \"six paṇas upward\" remains an alternative.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "append_note",
+      "text": "Rendered \"higher by six paṇas\" as fixed in glossary 3.18 (X-paṇa-uttara); \"six paṇas upward\" remains an alternative reading."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pāda-vastra-hasta-keśa-avalambaneṣu",
+     "problem": "Final member avalambana is the head: a tat-puruṣa with a dvandva first part (as unit 28).",
+     "fix": "n. loc. pl., dvandva + tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "pāda-vastra-hasta-keśa-avalambaneṣu",
+      "field": "gram",
+      "value": "n. loc. pl., dvandva + tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pīḍana-āveṣṭana-añcana-prakarṣaṇa-adhyāsaneṣu",
+     "problem": "Same: dvandva members plus a final head noun.",
+     "fix": "n. loc. pl., dvandva + tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "pīḍana-āveṣṭana-añcana-prakarṣaṇa-adhyāsaneṣu",
+      "field": "gram",
+      "value": "n. loc. pl., dvandva + tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi leaves avagūrṇa as अवगूर्ण although the English and unit 1 and unit 11 give \"threatening\"/धमकाना; the note says \"kept as in unit 1\".",
+     "fix": "धमकाने में निष्क्रय, स्पर्श में आधा दण्ड।",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "set",
+      "field": "hindi",
+      "value": "धमकाने में निष्क्रय, स्पर्श में आधा दण्ड।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "चाण्डालों, अपवित्रों की",
+     "problem": "Two-member dvandva takes और (glossary 3.15 line).",
+     "fix": "चाण्डालों और अपवित्रों की",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चाण्डालों, अपवित्रों की",
+      "new": "चाण्डालों और अपवित्रों की"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dravyeṇa",
+     "problem": "dravya is \"article\" in units 12, 23, 25; unit 11 says \"object\".",
+     "fix": "with an article",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "dravyeṇa",
+      "field": "gloss",
+      "value": "with an article"
+     }
+    },
+    {
+     "field": "english",
+     "where": "with an object causing pain",
+     "problem": "Consistent rendering of dravya as article.",
+     "fix": "with an article causing pain",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "with an object causing pain",
+      "new": "with an article causing pain"
+     }
+    },
+    {
+     "field": "english",
+     "where": "with [one] endangering life",
+     "problem": "The note says the adjective qualifies an unstated dravya; the bracket should name it (as unit 25).",
+     "fix": "with [an article] endangering life",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "with [one] endangering life",
+      "new": "with [an article] endangering life"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[has] three paṇas as the lowest [and] twelve paṇas as the highest",
+     "problem": "Glossary 3.17 fixes the paired range as \"with X as the lower [limit] and Y as the upper\".",
+     "fix": "[has] three paṇas as the lower [limit] and twelve paṇas as the upper",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "[has] three paṇas as the lowest [and] twelve paṇas as the highest",
+      "new": "[has] three paṇas as the lower [limit] and twelve paṇas as the upper"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तीन पण निम्नतम, बारह पण उच्चतम वाला दण्ड",
+     "problem": "Glossary 3.17: X निम्न सीमा वाला, Y उच्च सीमा वाला, no और.",
+     "fix": "तीन पण निम्न सीमा वाला, बारह पण उच्च सीमा वाला दण्ड",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीन पण निम्नतम, बारह पण उच्चतम वाला दण्ड",
+      "new": "तीन पण निम्न सीमा वाला, बारह पण उच्च सीमा वाला दण्ड"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tri-paṇa-avaraḥ",
+     "problem": "Glossary 3.17.",
+     "fix": "having three paṇas as the lower [limit]",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "tri-paṇa-avaraḥ",
+      "field": "gloss",
+      "value": "having three paṇas as the lower [limit]"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dvādaśa-paṇa-paraḥ",
+     "problem": "Glossary 3.17.",
+     "fix": "having twelve paṇas as the upper [limit]",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "dvādaśa-paṇa-paraḥ",
+      "field": "gloss",
+      "value": "having twelve paṇas as the upper [limit]"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "the glossary rendering of X-paṇa-avara as \"X paṇas or lower\" (4.10) does not fit this paired use, so the literal lowest/highest is given.",
+     "problem": "Note must follow glossary 3.17.",
+     "fix": "the 4.10 rendering \"X paṇas or lower\" does not fit this paired use; the range rendering of glossary 3.17 (lower [limit] / upper [limit]) is used. Range 3 to 12 paṇas.",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "notes",
+      "old": "the glossary rendering of X-paṇa-avara as \"X paṇas or lower\" (4.10) does not fit this paired use, so the literal lowest/highest is given.",
+      "new": "the 4.10 rendering \"X paṇas or lower\" does not fit this paired use; the range rendering of glossary 3.17 (lower [limit] / upper [limit]) is used. Range 3 to 12 paṇas."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kāṣṭha-loṣṭa-pāṣāṇa-loha-daṇḍa-rajju-dravyāṇām",
+     "problem": "Final member dravya heads the compound (dvandva + tat-puruṣa), as in unit 28.",
+     "fix": "n. gen. pl., dvandva + tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "kāṣṭha-loṣṭa-pāṣāṇa-loha-daṇḍa-rajju-dravyāṇām",
+      "field": "gram",
+      "value": "n. gen. pl., dvandva + tat-puruṣa"
+     }
+    },
+    {
+     "field": "english",
+     "where": "except [in the case of] bad blood",
+     "problem": "Glossary 3.4: anyatra X = except for X, nothing added.",
+     "fix": "except for bad blood",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "except [in the case of] bad blood",
+      "new": "except for bad blood"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "except [in the case of] bad wounds",
+     "problem": "Glossary 3.4: anyatra X = except for X.",
+     "fix": "except for bad wounds",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "except [in the case of] bad wounds",
+      "new": "except for bad wounds"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हाथ-पैर का पारञ्चिक",
+     "problem": "Two-member dvandva takes और.",
+     "fix": "हाथ और पैर का पारञ्चिक",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हाथ-पैर का पारञ्चिक",
+      "new": "हाथ और पैर का पारञ्चिक"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कान, नाक के काटने में",
+     "problem": "Two-member dvandva takes और.",
+     "fix": "कान और नाक के काटने में",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कान, नाक के काटने में",
+      "new": "कान और नाक के काटने में"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रक्तहीन रूप से मारने वाले",
+     "problem": "√han here is \"strike\" (unit 8, English \"strikes\"); मारने can read as killing, which ghāta/han does not mean in 3.19.",
+     "fix": "रक्तहीन रूप से प्रहार करने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रक्तहीन रूप से मारने वाले",
+      "new": "रक्तहीन रूप से प्रहार करने वाले"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pāṇi-pāda-danta-bhaṅge",
+     "problem": "Final member bhaṅga heads the compound.",
+     "fix": "m. loc. sg., dvandva + tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "pāṇi-pāda-danta-bhaṅge",
+      "field": "gram",
+      "value": "m. loc. sg., dvandva + tat-puruṣa"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "karṇa-nāsa-ācchedane",
+     "problem": "Final member ācchedana heads the compound.",
+     "fix": "n. loc. sg., dvandva + tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "karṇa-nāsa-ācchedane",
+      "field": "gram",
+      "value": "n. loc. sg., dvandva + tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जाँघ, गर्दन तोड़ने में",
+     "problem": "Two-member dvandva takes और.",
+     "fix": "जाँघ और गर्दन तोड़ने में",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जाँघ, गर्दन तोड़ने में",
+      "new": "जाँघ और गर्दन तोड़ने में"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sakthi-grīva-ābhañjane",
+     "problem": "Final member ābhañjana heads the compound.",
+     "fix": "n. loc. sg., dvandva + tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "sakthi-grīva-ābhañjane",
+      "field": "gram",
+      "value": "n. loc. sg., dvandva + tat-puruṣa"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vākya-ceṣṭā-bhojana-uparodheṣu",
+     "problem": "Final member uparodha heads the compound.",
+     "fix": "m. loc. pl., dvandva + tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "vākya-ceṣṭā-bhojana-uparodheṣu",
+      "field": "gram",
+      "value": "m. loc. pl., dvandva + tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मारने पर",
+     "problem": "√han = strike, not kill (see unit 13).",
+     "fix": "प्रहार करने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मारने पर",
+      "new": "प्रहार करने पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "abhiyojyaḥ",
+     "problem": "Glossary 3.3: abhiyojya = to be proceeded against (अभियोग चलाने योग्य).",
+     "fix": "to be proceeded against",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "abhiyojyaḥ",
+      "field": "gloss",
+      "value": "to be proceeded against"
+     }
+    },
+    {
+     "field": "english",
+     "where": "is not to be prosecuted",
+     "problem": "Same glossary entry.",
+     "fix": "is not to be proceeded against",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "is not to be prosecuted",
+      "new": "is not to be proceeded against"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "text_flags[0] (na-asty)",
+     "problem": "Not a sound flag: the e-text never prints quotation marks around Kautilya's own view (every \"iti kauṭilyaḥ\" / \"na iti kauṭilyaḥ\" in the text, e.g. 1.2.8, 1.4.7, 8.1.12, and unit 20 here, is unquoted); only the teachers' views are quoted. There is no misprint to correct, and other chapters (3.4.12, 3.5.24) gave this pattern no flag.",
+     "fix": "Delete the text_flag; the unit stays as drafted.",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "The note says the opening mark is \"flagged\"; the flag is to be removed (hand edit).",
+     "fix": "Closing iti carried by quotation marks only, as in the other \"iti kauṭilyaḥ\" units; the e-text itself prints no quotation marks around Kautilya's own view, so the marks are the translator's.",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "notes",
+      "value": "Closing iti carried by quotation marks only, as in the other \"iti kauṭilyaḥ\" units; the e-text itself prints no quotation marks around Kautilya's own view, so the marks are the translator's."
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": ", perhaps being put in the wrong or defeated, but the text does not say.",
+     "problem": "Guessed sense in the notes for an obscure term (glossary 13.2 practice).",
+     "fix": "; the text does not say what it means.",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "notes",
+      "old": ", perhaps being put in the wrong or defeated, but the text does not say.",
+      "new": "; the text does not say what it means."
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "chedana-bhedane",
+     "problem": "\"loc. du.\" is not a possible form (a dual locative ends -yoḥ); read as a locative singular of a neuter dvandva.",
+     "fix": "n. loc. sg., dvandva",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "chedana-bhedane",
+      "field": "gram",
+      "value": "n. loc. sg., dvandva"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "chedana-bhedane is a dual locative.",
+     "problem": "Note repeats the impossible dual locative.",
+     "fix": "chedana-bhedane is read as a locative singular of a neuter dvandva (a dual locative would end in -yoḥ).",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "notes",
+      "old": "chedana-bhedane is a dual locative.",
+      "new": "chedana-bhedane is read as a locative singular of a neuter dvandva (a dual locative would end in -yoḥ)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "काटने, तोड़ने में",
+     "problem": "Two-member dvandva takes और.",
+     "fix": "काटने और तोड़ने में",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "काटने, तोड़ने में",
+      "new": "काटने और तोड़ने में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्राण को संकट में डालने वाले का प्रथम साहस-दण्ड।",
+     "problem": "As drafted the genitive reads as the thrower \"who endangers life\"; in the Sanskrit prāṇa-ābādhikam is an accusative adjective of the unstated dravya (the English brackets it). Hindi cannot bracket, so the accusative with the governing verb repeated is used.",
+     "fix": "प्राण को संकट में डालने वाले को फेंकने पर प्रथम साहस-दण्ड।",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्राण को संकट में डालने वाले का प्रथम साहस-दण्ड।",
+      "new": "प्राण को संकट में डालने वाले को फेंकने पर प्रथम साहस-दण्ड।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दुःख देने में",
+     "problem": "utpādana is rendered उत्पन्न करना throughout (units 11, 12, 25).",
+     "fix": "दुःख उत्पन्न करने में",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दुःख देने में",
+      "new": "दुःख उत्पन्न करने में"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kāṣṭha-ādibhiḥ",
+     "problem": "kāṣṭha-ādi (\"wood and the rest\") is a bahuvrīhi, not a tat-puruṣa.",
+     "fix": "n. inst. pl., bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "kāṣṭha-ādibhiḥ",
+      "field": "gram",
+      "value": "n. inst. pl., bahuvrīhi"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नगर, उपवन के",
+     "problem": "Two-member dvandva takes और.",
+     "fix": "नगर और उपवन के",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "नगर, उपवन के",
+      "new": "नगर और उपवन के"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "puṇya-sthāna-tapas-vana-śmaśāna-drumeṣu",
+     "problem": "Final member druma heads the compound.",
+     "fix": "m. loc. pl., dvandva + tat-puruṣa",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "puṇya-sthāna-tapas-vana-śmaśāna-drumeṣu",
+      "field": "gram",
+      "value": "m. loc. pl., dvandva + tat-puruṣa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "राज-वनों में",
+     "problem": "\"राज-वन\" is a hyphenated coinage; the genitive is clearer and matches the English \"the king's forests\".",
+     "fix": "राजा के वनों में",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "राज-वनों में",
+      "new": "राजा के वनों में"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 30 units. 48 issues (6 error, 42 minor). Hand edits needed (no patch op): (1) unit 18: delete the text_flag on na-asty (unsound, the e-text never quotes Kautilya's own view); (2) possible missing text_flag in unit 2: pāda.ṣṭhīvikābhyāṃ, suggest pāda.niṣṭhīvikābhyāṃ (ni dropped; marked possible, no web check); no word-entry additions/deletions or compound-convention violations found. Cross-chapter: glossary 3.18 (X-paṇa-uttara, viśiṣṭeṣu/sameṣu) applied; unit 11 aligned to glossary 3.17 (X-paṇa-avara/Y-paṇa-para = lower [limit]/upper [limit], no और). The cca (unit 13) and pīna.śākhāc.cchedane (unit 28) flags are sound; the unit 28 w is correct. No regrouping suggested. Confidence labels are honest."
+}

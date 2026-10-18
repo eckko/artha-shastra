@@ -1,0 +1,340 @@
+[
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "spṛśataḥ",
+  "old": "touching",
+  "new": "of one touching",
+  "why": "reviewer (minor): Genitive participle glossed without \"of one\", unlike the other genitive participles of the chunk."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "नाभि से नीचे के शरीर को हाथ, कीचड़, भस्म, धूल से छूने वाले का तीन पण का दण्ड; उन्हीं अपवित्रों से और पैर, थूक से छह पण; वमन, मूत्र, मल आदि से बारह पण।",
+  "new": "नाभि से नीचे के शरीर को हाथ, कीचड़, भस्म, धूल से छूने वाले का तीन पण का दण्ड; उन्हीं अपवित्रों से और पैर और थूक से छह पण; वमन, मूत्र, मल आदि से बारह पण।",
+  "why": "reviewer (minor): Two-member dvandva takes और in Hindi (glossary 3.15 line); the comma list is for three or more members."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "नाभि के ऊपर दुगुने, सिर पर चौगुने, समान लोगों में।",
+  "new": "नाभि के ऊपर दुगुने, सिर पर चौगुने, समानों में।",
+  "why": "reviewer (error): Added noun लोगों (unmarked); glossary 3.18 fixes sameṣu/tulyeṣu = समानों में, \"Hindi never adds लोग\"."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "श्रेष्ठों में दुगुने, हीनों में आधे दण्ड, दूसरों की स्त्रियों में दुगुने, प्रमाद, मद, मोह आदि से आधे दण्ड।",
+  "new": "विशिष्टों में दुगुने, हीनों में आधे दण्ड, दूसरों की स्त्रियों में दुगुने, प्रमाद, मद, मोह आदि से आधे दण्ड।",
+  "why": "reviewer (minor): Glossary 3.18: viśiṣṭeṣu = विशिष्टों में (and English \"the superior\")."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Verbless; read as an extension of units 2-3 (penalties depending on the rank of the person touched). viśiṣṭa = distinguished/superior; \"श्रेष्ठ\" is used for it in Hindi.",
+  "new": "Verbless; read as an extension of units 2-3 (penalties depending on the rank of the person touched). viśiṣṭa = distinguished/superior; Hindi विशिष्टों as in glossary 3.18.",
+  "why": "reviewer (minor): Note must follow the glossary rendering."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "In seizing by the foot, garment, hand [or] hair, penalties of six paṇas upward.",
+  "new": "In seizing by the foot, garment, hand [or] hair, penalties higher by six paṇas.",
+  "why": "reviewer (minor): Glossary 3.18 settles X-paṇa-uttara = higher by X paṇas (X पण अधिक)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "पैर, वस्त्र, हाथ, केश पकड़ने में छह पण से ऊपर के दण्ड।",
+  "new": "पैर, वस्त्र, हाथ, केश पकड़ने में छह पण अधिक के दण्ड।",
+  "why": "reviewer (minor): Glossary 3.18: X-paṇa-uttara = X पण अधिक."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "ṣaṭ-paṇa-uttarāḥ",
+  "old": "six paṇas upward",
+  "new": "higher by six paṇas",
+  "why": "reviewer (minor): Follow glossary 3.18."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "ṣaṭ-paṇa-uttara taken literally as having six paṇas as the \"higher/further\" part, i.e. six paṇas upward. Alternatives: penalties increasing by six paṇas (each step); six paṇas as the lowest. avalambana = hanging on to, seizing.",
+  "new": "ṣaṭ-paṇa-uttara taken literally as having six paṇas as the \"higher/further\" part, i.e. six paṇas upward. Alternatives: penalties increasing by six paṇas (each step); six paṇas as the lowest. avalambana = hanging on to, seizing. Rendered \"higher by six paṇas\" as fixed in glossary 3.18 (X-paṇa-uttara); \"six paṇas upward\" remains an alternative reading.",
+  "why": "reviewer (minor): Record that the reading follows glossary 3.18 and the earlier reading stays an alternative."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "pāda-vastra-hasta-keśa-avalambaneṣu",
+  "old": "n. loc. pl., dvandva",
+  "new": "n. loc. pl., dvandva + tat-puruṣa",
+  "why": "reviewer (minor): Final member avalambana is the head: a tat-puruṣa with a dvandva first part (as unit 28)."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "pīḍana-āveṣṭana-añcana-prakarṣaṇa-adhyāsaneṣu",
+  "old": "n. loc. pl., dvandva",
+  "new": "n. loc. pl., dvandva + tat-puruṣa",
+  "why": "reviewer (minor): Same: dvandva members plus a final head noun."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अवगूर्ण में निष्क्रय, स्पर्श में आधा दण्ड।",
+  "new": "धमकाने में निष्क्रय, स्पर्श में आधा दण्ड।",
+  "why": "reviewer (error): Hindi leaves avagūrṇa as अवगूर्ण although the English and unit 1 and unit 11 give \"threatening\"/धमकाना; the note says \"kept as in unit 1\"."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "इससे चाण्डालों, अपवित्रों की व्याख्या की गई।",
+  "new": "इससे चाण्डालों और अपवित्रों की व्याख्या की गई।",
+  "why": "reviewer (minor): Two-member dvandva takes और (glossary 3.15 line)."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "dravyeṇa",
+  "old": "with an object",
+  "new": "with an article",
+  "why": "reviewer (minor): dravya is \"article\" in units 12, 23, 25; unit 11 says \"object\"."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "For threatening with the hand, the penalty [has] three paṇas as the lowest [and] twelve paṇas as the highest; with the foot, double; with an object causing pain, the first fine for rashness; with [one] endangering life, the middle.",
+  "new": "For threatening with the hand, the penalty [has] three paṇas as the lowest [and] twelve paṇas as the highest; with the foot, double; with an article causing pain, the first fine for rashness; with [one] endangering life, the middle.",
+  "why": "reviewer (minor): Consistent rendering of dravya as article."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "For threatening with the hand, the penalty [has] three paṇas as the lowest [and] twelve paṇas as the highest; with the foot, double; with an article causing pain, the first fine for rashness; with [one] endangering life, the middle.",
+  "new": "For threatening with the hand, the penalty [has] three paṇas as the lowest [and] twelve paṇas as the highest; with the foot, double; with an article causing pain, the first fine for rashness; with [an article] endangering life, the middle.",
+  "why": "reviewer (minor): The note says the adjective qualifies an unstated dravya; the bracket should name it (as unit 25)."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "For threatening with the hand, the penalty [has] three paṇas as the lowest [and] twelve paṇas as the highest; with the foot, double; with an article causing pain, the first fine for rashness; with [an article] endangering life, the middle.",
+  "new": "For threatening with the hand, the penalty [has] three paṇas as the lower [limit] and twelve paṇas as the upper; with the foot, double; with an article causing pain, the first fine for rashness; with [an article] endangering life, the middle.",
+  "why": "reviewer (minor): Glossary 3.17 fixes the paired range as \"with X as the lower [limit] and Y as the upper\"."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "हाथ से धमकाने में तीन पण निम्नतम, बारह पण उच्चतम वाला दण्ड, पैर से दुगुना, दुःख उत्पन्न करने वाले द्रव्य से प्रथम साहस-दण्ड, प्राण को संकट में डालने वाले से मध्यम।",
+  "new": "हाथ से धमकाने में तीन पण निम्न सीमा वाला, बारह पण उच्च सीमा वाला दण्ड, पैर से दुगुना, दुःख उत्पन्न करने वाले द्रव्य से प्रथम साहस-दण्ड, प्राण को संकट में डालने वाले से मध्यम।",
+  "why": "reviewer (minor): Glossary 3.17: X निम्न सीमा वाला, Y उच्च सीमा वाला, no और."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "tri-paṇa-avaraḥ",
+  "old": "having three paṇas as the lowest",
+  "new": "having three paṇas as the lower [limit]",
+  "why": "reviewer (minor): Glossary 3.17."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "dvādaśa-paṇa-paraḥ",
+  "old": "having twelve paṇas as the highest",
+  "new": "having twelve paṇas as the upper [limit]",
+  "why": "reviewer (minor): Glossary 3.17."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "tri-paṇa-avara / dvādaśa-paṇa-para are paired as lower and upper limit; the glossary rendering of X-paṇa-avara as \"X paṇas or lower\" (4.10) does not fit this paired use, so the literal lowest/highest is given. madhyamaḥ is left bare (glossary 4.11); prāṇa-ābādhikena qualifies an unstated dravya.",
+  "new": "tri-paṇa-avara / dvādaśa-paṇa-para are paired as lower and upper limit; the 4.10 rendering \"X paṇas or lower\" does not fit this paired use; the range rendering of glossary 3.17 (lower [limit] / upper [limit]) is used. Range 3 to 12 paṇas. madhyamaḥ is left bare (glossary 4.11); prāṇa-ābādhikena qualifies an unstated dravya.",
+  "why": "reviewer (minor): Note must follow glossary 3.17."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "kāṣṭha-loṣṭa-pāṣāṇa-loha-daṇḍa-rajju-dravyāṇām",
+  "old": "n. gen. pl., dvandva",
+  "new": "n. gen. pl., dvandva + tat-puruṣa",
+  "why": "reviewer (minor): Final member dravya heads the compound (dvandva + tat-puruṣa), as in unit 28."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "For one causing pain without blood by any one of the articles wood, clod, stone, iron, stick [or] rope, the penalty [is] twenty-four paṇas; in causing blood, double; except [in the case of] bad blood.",
+  "new": "For one causing pain without blood by any one of the articles wood, clod, stone, iron, stick [or] rope, the penalty [is] twenty-four paṇas; in causing blood, double; except for bad blood.",
+  "why": "reviewer (minor): Glossary 3.4: anyatra X = except for X, nothing added."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "For one who strikes [a man] bloodlessly, like one dead, or who makes a pārañcika of hand and foot, the first fine for rashness; and in breaking a hand, foot [or] tooth, in cutting off an ear [or] nose, in splitting open a wound; except [in the case of] bad wounds.",
+  "new": "For one who strikes [a man] bloodlessly, like one dead, or who makes a pārañcika of hand and foot, the first fine for rashness; and in breaking a hand, foot [or] tooth, in cutting off an ear [or] nose, in splitting open a wound; except for bad wounds.",
+  "why": "reviewer (minor): Glossary 3.4: anyatra X = except for X."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "मृत के समान, रक्तहीन रूप से मारने वाले का, या हाथ-पैर का पारञ्चिक करने वाले का प्रथम साहस-दण्ड; हाथ, पैर, दाँत के तोड़ने में, कान, नाक के काटने में और घाव के फाड़ने में, दूषित घावों को छोड़कर।",
+  "new": "मृत के समान, रक्तहीन रूप से मारने वाले का, या हाथ और पैर का पारञ्चिक करने वाले का प्रथम साहस-दण्ड; हाथ, पैर, दाँत के तोड़ने में, कान, नाक के काटने में और घाव के फाड़ने में, दूषित घावों को छोड़कर।",
+  "why": "reviewer (minor): Two-member dvandva takes और."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "मृत के समान, रक्तहीन रूप से मारने वाले का, या हाथ और पैर का पारञ्चिक करने वाले का प्रथम साहस-दण्ड; हाथ, पैर, दाँत के तोड़ने में, कान, नाक के काटने में और घाव के फाड़ने में, दूषित घावों को छोड़कर।",
+  "new": "मृत के समान, रक्तहीन रूप से मारने वाले का, या हाथ और पैर का पारञ्चिक करने वाले का प्रथम साहस-दण्ड; हाथ, पैर, दाँत के तोड़ने में, कान और नाक के काटने में और घाव के फाड़ने में, दूषित घावों को छोड़कर।",
+  "why": "reviewer (minor): Two-member dvandva takes और."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "मृत के समान, रक्तहीन रूप से मारने वाले का, या हाथ और पैर का पारञ्चिक करने वाले का प्रथम साहस-दण्ड; हाथ, पैर, दाँत के तोड़ने में, कान और नाक के काटने में और घाव के फाड़ने में, दूषित घावों को छोड़कर।",
+  "new": "मृत के समान, रक्तहीन रूप से प्रहार करने वाले का, या हाथ और पैर का पारञ्चिक करने वाले का प्रथम साहस-दण्ड; हाथ, पैर, दाँत के तोड़ने में, कान और नाक के काटने में और घाव के फाड़ने में, दूषित घावों को छोड़कर।",
+  "why": "reviewer (minor): √han here is \"strike\" (unit 8, English \"strikes\"); मारने can read as killing, which ghāta/han does not mean in 3.19."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "pāṇi-pāda-danta-bhaṅge",
+  "old": "m. loc. sg., dvandva",
+  "new": "m. loc. sg., dvandva + tat-puruṣa",
+  "why": "reviewer (minor): Final member bhaṅga heads the compound."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "karṇa-nāsa-ācchedane",
+  "old": "n. loc. sg., dvandva",
+  "new": "n. loc. sg., dvandva + tat-puruṣa",
+  "why": "reviewer (minor): Final member ācchedana heads the compound."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "जाँघ, गर्दन तोड़ने में या आँख फोड़ने में, और वाणी, चेष्टा, भोजन के अवरोध में मध्यम साहस-दण्ड और उठ खड़े होने का व्यय।",
+  "new": "जाँघ और गर्दन तोड़ने में या आँख फोड़ने में, और वाणी, चेष्टा, भोजन के अवरोध में मध्यम साहस-दण्ड और उठ खड़े होने का व्यय।",
+  "why": "reviewer (minor): Two-member dvandva takes और."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "sakthi-grīva-ābhañjane",
+  "old": "n. loc. sg., dvandva",
+  "new": "n. loc. sg., dvandva + tat-puruṣa",
+  "why": "reviewer (minor): Final member ābhañjana heads the compound."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "vākya-ceṣṭā-bhojana-uparodheṣu",
+  "old": "m. loc. pl., dvandva",
+  "new": "m. loc. pl., dvandva + tat-puruṣa",
+  "why": "reviewer (minor): Final member uparodha heads the compound."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "बड़े जनसमूह के एक को मारने पर प्रत्येक का दुगुना दण्ड।",
+  "new": "बड़े जनसमूह के एक को प्रहार करने पर प्रत्येक का दुगुना दण्ड।",
+  "why": "reviewer (minor): √han = strike, not kill (see unit 13)."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "abhiyojyaḥ",
+  "old": "to be prosecuted",
+  "new": "to be proceeded against",
+  "why": "reviewer (minor): Glossary 3.3: abhiyojya = to be proceeded against (अभियोग चलाने योग्य)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "\"A stale quarrel or an entering-in is not to be prosecuted,\" say the teachers.",
+  "new": "\"A stale quarrel or an entering-in is not to be proceeded against,\" say the teachers.",
+  "why": "reviewer (minor): Same glossary entry."
+ },
+ {
+  "n": "18",
+  "field": "notes",
+  "old": "Closing iti carried by quotation marks only; the opening mark is supplied in the translation and flagged.",
+  "new": "Closing iti carried by quotation marks only, as in the other \"iti kauṭilyaḥ\" units; the e-text itself prints no quotation marks around Kautilya's own view, so the marks are the translator's.",
+  "why": "reviewer (minor): The note says the opening mark is \"flagged\"; the flag is to be removed (hand edit)."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "paścāt-kāra is obscure and kept untranslated; literally \"making behind / putting behind\", perhaps being put in the wrong or defeated, but the text does not say.",
+  "new": "paścāt-kāra is obscure and kept untranslated; literally \"making behind / putting behind\"; the text does not say what it means.",
+  "why": "reviewer (minor): Guessed sense in the notes for an obscure term (glossary 13.2 practice)."
+ },
+ {
+  "n": "24",
+  "field": "word.gram",
+  "word": "chedana-bhedane",
+  "old": "n. loc. du., dvandva",
+  "new": "n. loc. sg., dvandva",
+  "why": "reviewer (error): \"loc. du.\" is not a possible form (a dual locative ends -yoḥ); read as a locative singular of a neuter dvandva."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "pratīkāra = remedy (glossary 14.4), probably repair of the damage; not stated. chedana-bhedane is a dual locative.",
+  "new": "pratīkāra = remedy (glossary 14.4), probably repair of the damage; not stated. chedana-bhedane is read as a locative singular of a neuter dvandva (a dual locative would end in -yoḥ).",
+  "why": "reviewer (error): Note repeats the impossible dual locative."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "दूसरे की दीवार को प्रहार से हिला देने वाले का तीन पण का दण्ड; काटने, तोड़ने में छह पण, और प्रतिकार।",
+  "new": "दूसरे की दीवार को प्रहार से हिला देने वाले का तीन पण का दण्ड; काटने और तोड़ने में छह पण, और प्रतिकार।",
+  "why": "reviewer (minor): Two-member dvandva takes और."
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "दूसरे के घर में दुःख उत्पन्न करने वाला द्रव्य फेंकने वाले का बारह पण का दण्ड; प्राण को संकट में डालने वाले का प्रथम साहस-दण्ड।",
+  "new": "दूसरे के घर में दुःख उत्पन्न करने वाला द्रव्य फेंकने वाले का बारह पण का दण्ड; प्राण को संकट में डालने वाले को फेंकने पर प्रथम साहस-दण्ड।",
+  "why": "reviewer (error): As drafted the genitive reads as the thrower \"who endangers life\"; in the Sanskrit prāṇa-ābādhikam is an accusative adjective of the unstated dravya (the English brackets it). Hindi cannot bracket, so the accusative with the governing verb repeated is used."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "छोटे पशुओं को लकड़ी आदि से दुःख देने में एक पण या दुगुना दण्ड; रक्त उत्पन्न करने में दुगुना।",
+  "new": "छोटे पशुओं को लकड़ी आदि से दुःख उत्पन्न करने में एक पण या दुगुना दण्ड; रक्त उत्पन्न करने में दुगुना।",
+  "why": "reviewer (minor): utpādana is rendered उत्पन्न करना throughout (units 11, 12, 25)."
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "kāṣṭha-ādibhiḥ",
+  "old": "n. inst. pl., tat-puruṣa",
+  "new": "n. inst. pl., bahuvrīhi",
+  "why": "reviewer (minor): kāṣṭha-ādi (\"wood and the rest\") is a bahuvrīhi, not a tat-puruṣa."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "नगर, उपवन के पुष्प, फल, छाया वाले वृक्षों के अंकुर काटने में छह पण, छोटी शाखा काटने में बारह पण, मोटी शाखा काटने में चौबीस पण, तने के वध में प्रथम साहस-दण्ड, समुच्छेद में मध्यम।",
+  "new": "नगर और उपवन के पुष्प, फल, छाया वाले वृक्षों के अंकुर काटने में छह पण, छोटी शाखा काटने में बारह पण, मोटी शाखा काटने में चौबीस पण, तने के वध में प्रथम साहस-दण्ड, समुच्छेद में मध्यम।",
+  "why": "reviewer (minor): Two-member dvandva takes और."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "puṇya-sthāna-tapas-vana-śmaśāna-drumeṣu",
+  "old": "m. loc. pl., dvandva",
+  "new": "m. loc. pl., dvandva + tat-puruṣa",
+  "why": "reviewer (minor): Final member druma heads the compound."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "सीमा के वृक्षों, चैत्यों और चिह्नित वृक्षों में तथा राज-वनों में वे ही दण्ड दुगुने किए जाएँ।",
+  "new": "सीमा के वृक्षों, चैत्यों और चिह्नित वृक्षों में तथा राजा के वनों में वे ही दण्ड दुगुने किए जाएँ।",
+  "why": "reviewer (minor): \"राज-वन\" is a hyphenated coinage; the genitive is clearer and matches the English \"the king's forests\"."
+ }
+]

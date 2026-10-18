@@ -1,0 +1,93 @@
+[
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "utthitebhyaḥ",
+  "old": "dat./abl. pl., ppp. ud-√sthā",
+  "new": "abl. pl. (with anyatra), ppp. ud-√sthā",
+  "why": "reviewer (minor): anyatra takes the ablative; 'dat./abl.' is undecided"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "The property of one having sons [should be taken by] sons or daughters born in the most righteous marriages.",
+  "new": "The inheritance of one having sons [should be taken by] sons or daughters born in the most righteous marriages.",
+  "why": "reviewer (minor): riktha is 'inheritance' in the gloss; 'property' is used for dravya in unit 9"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "एक ही गर्भ से उत्पन्न, अनेक पिताओं वाले भाइयों के दाय का विभाग पिता से है।",
+  "new": "अनेक पिताओं वाले सहोदरों के दाय का विभाग पिता से है।",
+  "why": "reviewer (error): unmarked added word ही and added 'उत्पन्न' (sodarya = of the same womb)"
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "asati",
+  "old": "n. loc. sg., pres. part. a-√as",
+  "new": "m./n. loc. sg., pres. part. a-√as",
+  "why": "reviewer (minor): gender 'n.' is wrong: agrees with arthe (m.); the loc. sg. of the participle is m./n."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "mithyā-vṛttebhyaḥ",
+  "old": "of false conduct",
+  "new": "those of false conduct",
+  "why": "reviewer (minor): abl. pl. of persons glossed as a bare 'of false conduct'"
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "“Even water-vessels should be divided by those having nothing,” say the teachers.",
+  "new": "“Those who have nothing should divide even the water-vessels,” say the teachers.",
+  "why": "reviewer (minor): vibhajeran is active; the draft turns it into a passive and changes the object"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "“निष्किञ्चन जल-पात्र भी बाँट लें,” ऐसा आचार्य कहते हैं।",
+  "new": "“जल-पात्र भी निष्किञ्चन बाँट लें,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): reads as 'destitute water-vessels'; subject and object unclear"
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "sataḥ",
+  "old": "n. gen. sg., pres. part. √as",
+  "new": "m./n. gen. sg., pres. part. √as",
+  "why": "reviewer (minor): gender 'n.' fixed although arthasya is m.; the genitive of the participle is m./n."
+ },
+ {
+  "n": "25",
+  "field": "word.gram",
+  "word": "asataḥ",
+  "old": "n. gen. sg., pres. part. a-√as",
+  "new": "m./n. gen. sg., pres. part. a-√as",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Having repeated “Such is the common property; of it, such is each share,” and saying [it] among the witnesses, he should have the division made.",
+  "new": "Having repeated “So much is the common property; of it, so much is each share,” and saying [it] among the witnesses, he should have the division made.",
+  "why": "reviewer (minor): etāvān glossed 'so much' but translated 'Such is'"
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "prati-aṃśaḥ",
+  "old": "m. nom. sg., avyayībhāva",
+  "new": "m. nom. sg., compound (prati + aṃśa, 'each share')",
+  "why": "reviewer (minor): 'avyayībhāva' is indeclinable/neuter, yet labelled m. nom. sg."
+ },
+ {
+  "n": "31",
+  "field": "word.gram",
+  "word": "sati",
+  "old": "n. loc. sg., pres. part. √as",
+  "new": "m./n. loc. sg., pres. part. √as",
+  "why": "reviewer (minor): gender 'n.' wrong: agrees with bhāryā-arthe (m.)"
+ }
+]

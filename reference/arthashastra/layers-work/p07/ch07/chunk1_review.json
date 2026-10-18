@@ -1,0 +1,742 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "'evam' refers to what follows in the chapter.",
+     "problem": "Note asserts that 'evam' points forward; the text does not say so.",
+     "fix": "'evam' is rendered 'in this way'; what it points to is not stated here.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'evam' refers to what follows in the chapter.",
+      "new": "'evam' is rendered 'in this way'; what it points to is not stated here.",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दुर्ग, वन और अपसारों में",
+     "problem": "Three-member list: Hindi takes commas only (glossary 3.20, 14.3); 'और' has no ca in the Sanskrit.",
+     "fix": "दुर्ग, वन, अपसारों में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दुर्ग, वन और अपसारों में",
+      "new": "दुर्ग, वन, अपसारों में",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चढ़ाई करने योग्य के पास नहीं जाएगा",
+     "problem": "Glossary 7.5: yātavya (noun) = जिस पर चढ़ाई करनी है; align with Book 7 chunks.",
+     "fix": "जिस पर चढ़ाई करनी है, उसके पास नहीं जाएगा",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "चढ़ाई करने योग्य के पास नहीं जाएगा",
+      "new": "जिस पर चढ़ाई करनी है, उसके पास नहीं जाएगा",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चढ़ाई करने योग्य को असह्य दोष में",
+     "problem": "Glossary 7.5: yātavya (noun) = जिस पर चढ़ाई करनी है.",
+     "fix": "जिस पर चढ़ाई करनी है, उसे असह्य दोष में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "चढ़ाई करने योग्य को असह्य दोष में",
+      "new": "जिस पर चढ़ाई करनी है, उसे असह्य दोष में",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "last 'me' (viśvāsayiṣyati)",
+     "problem": "'me' is glossed 'acc./dat.'; the enclitic me is only genitive/dative (acc. is mā). Hand edit (several words 'me' in this unit, so no machine patch).",
+     "fix": "gram: gen./dat. sg. (enclitic); gloss 'me'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dvaidhī-bhūtaḥ",
+     "problem": "Glossary 7.2: dvaidhī-bhūta = who has become dual (द्वैधीभूत).",
+     "fix": "who has become dual",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dvaidhī-bhūtaḥ",
+      "field": "gloss",
+      "value": "who has become dual",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "Align with glossary 7.2 (dvaidhī-bhūta = who has become dual).",
+     "fix": "Or [he] who has become dual should seek to obtain army by means of treasury, treasury by means of army, from any one of the neighbouring chiefs.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Or [he] who has become dual should seek to obtain army by means of treasury, treasury by means of army, from any one of the neighbouring chiefs.",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Align with glossary 7.2 (द्वैधीभूत); 'होकर' also adds a conjunctive form.",
+     "fix": "या द्वैधीभूत, कोश के द्वारा सेना को, सेना के द्वारा कोश को, सामन्तों में से किसी एक से पाने की इच्छा करे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "या द्वैधीभूत, कोश के द्वारा सेना को, सेना के द्वारा कोश को, सामन्तों में से किसी एक से पाने की इच्छा करे।",
+      "n": "3"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "is rendered literally 'having become twofold'",
+     "problem": "Note must match the new rendering.",
+     "fix": "is rendered 'who has become dual' (glossary 7.2)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "is rendered literally 'having become twofold'",
+      "new": "is rendered 'who has become dual' (glossary 7.2)",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "hīnādd",
+     "problem": "False positive: 'dd h' is the e-text's habit for sandhi d+dh (also bala.samādd, parasmādd, paśyedd elsewhere). Remove the flag (hand edit); w hīnāt is right.",
+     "fix": "delete text_flags entry",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record why no flag.",
+     "fix": "The e-text writes the sandhi d+dh as 'dd h' (hīnādd hīnena); w reads hīnāt; not flagged (glossary 7.7).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The e-text writes the sandhi d+dh as 'dd h' (hīnādd hīnena); w reads hīnāt; not flagged (glossary 7.7).",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "या ऐसा होकर,",
+     "problem": "evaṃ-bhūta rendered 'ऐसा हुआ' in units 20/29; 'होकर' (conjunctive) is not what a -bhūta compound says.",
+     "fix": "या ऐसा हुआ,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "या ऐसा होकर,",
+      "new": "या ऐसा हुआ,",
+      "n": "9"
+     }
+    },
+    {
+     "field": "english",
+     "where": "deficient power and majesty",
+     "problem": "Glossary 7.4: pratāpa = splendour (not 'majesty/might').",
+     "fix": "deficient power and splendour",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "deficient power and majesty",
+      "new": "deficient power and splendour",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hīna-śakti-pratāpa-pūraṇa-artham",
+     "problem": "Glossary 7.4: pratāpa = splendour.",
+     "fix": "for filling up the deficient power and splendour",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hīna-śakti-pratāpa-pūraṇa-artham",
+      "field": "gloss",
+      "value": "for filling up the deficient power and splendour",
+      "n": "9"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "power and majesty of the inferior",
+     "problem": "Keep note consistent with splendour.",
+     "fix": "power and splendour of the inferior",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "power and majesty of the inferior",
+      "new": "power and splendour of the inferior",
+      "n": "9"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "pratāpa rendered 'majesty' (literally 'heat, glory'); 'might' possible.",
+     "problem": "Keep note consistent with splendour.",
+     "fix": "pratāpa rendered 'splendour' (glossary 7.4; literally 'heat, glory'); 'might' (prabhāva, 9.1) is not used.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "pratāpa rendered 'majesty' (literally 'heat, glory'); 'might' possible.",
+      "new": "pratāpa rendered 'splendour' (glossary 7.4; literally 'heat, glory'); 'might' (prabhāva, 9.1) is not used.",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "'श्रेष्ठ से हीन' reads as 'inferior to the superior' (the bargaining verb comes only at the end); 'तय करके' adds a verb not in yātu-kāma.",
+     "fix": "हीन, व्यसन उत्पन्न हुए, प्रकृतियों में रन्ध्र वाले, या उपस्थित अनर्थ वाले श्रेष्ठ से, या दुर्ग और मित्र से सहारा पाया हुआ, छोटे मार्ग से शत्रु पर जाने की इच्छा वाला, या बिना युद्ध के अथवा एक-अन्त सिद्धि वाले लाभ को लेने की इच्छा वाला, सेना के बराबर से हीन लाभ के द्वारा सौदा करे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "हीन, व्यसन उत्पन्न हुए, प्रकृतियों में रन्ध्र वाले, या उपस्थित अनर्थ वाले श्रेष्ठ से, या दुर्ग और मित्र से सहारा पाया हुआ, छोटे मार्ग से शत्रु पर जाने की इच्छा वाला, या बिना युद्ध के अथवा एक-अन्त सिद्धि वाले लाभ को लेने की इच्छा वाला, सेना के बराबर से हीन लाभ के द्वारा सौदा करे।",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "eka-anta-siddhim",
+     "problem": "'one-sided' is an interpretation of eka-anta; keep literal (Hindi already literal).",
+     "fix": "of success at one end",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eka-anta-siddhim",
+      "field": "gloss",
+      "value": "of success at one end",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "or of one-sided success",
+     "problem": "Literal rendering, consistent with the Hindi एक-अन्त.",
+     "fix": "or of success at one end",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "or of one-sided success",
+      "new": "or of success at one end",
+      "n": "11"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "rendered 'one-sided' (ekānta may mean 'certain')",
+     "problem": "Note must match the literal rendering.",
+     "fix": "kept literal (ekānta may mean 'certain' or 'one-sided')",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "rendered 'one-sided' (ekānta may mean 'certain')",
+      "new": "kept literal (ekānta may mean 'certain' or 'one-sided')",
+      "n": "11"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "bala.samādd",
+     "problem": "False positive (e-text 'dd h' habit). Remove the flag (hand edit).",
+     "fix": "delete text_flags entry",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record why no flag.",
+     "fix": "The e-text writes the sandhi d+dh as 'dd h' (bala.samādd hīnena); w reads bala-samāt; not flagged (glossary 7.7).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The e-text writes the sandhi d+dh as 'dd h' (bala.samādd hīnena); w reads bala-samāt; not flagged (glossary 7.7).",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "को और अधिक क्षय और व्यय से",
+     "problem": "'और' here stands for bhūyaḥ 'more' but reads as a conjunction; no ca in the Sanskrit.",
+     "fix": "को अधिक क्षय और व्यय से",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "को और अधिक क्षय और व्यय से",
+      "new": "को अधिक क्षय और व्यय से",
+      "n": "13"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दूर भेजने की इच्छा वाला",
+     "problem": "'दूर' (far) is not in pravāsayitu; glossary 7.2 pravāsa = प्रवास.",
+     "fix": "प्रवास में भेजने की इच्छा वाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दूर भेजने की इच्छा वाला",
+      "new": "प्रवास में भेजने की इच्छा वाला",
+      "n": "13"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सन्धि को प्रधान रखने वाला",
+     "problem": "'रखने वाला' adds a verb to the bahuvrīhi sandhi-pradhāna.",
+     "fix": "सन्धि-प्रधान",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सन्धि को प्रधान रखने वाला",
+      "new": "सन्धि-प्रधान",
+      "n": "13"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note claims 'glossary 4.13 for non-persons' but an army is made of persons; record the conflict.",
+     "fix": "Glossary 11.1/12.3 reads pravāsayet of a person as 'do away with'; here the object is an army (dūṣya-daṇḍa), so 'send away' is kept literal; a person should decide.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Glossary 11.1/12.3 reads pravāsayet of a person as 'do away with'; here the object is an army (dūṣya-daṇḍa), so 'send away' is kept literal; a person should decide.",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mitra-aṭavīnām",
+     "problem": "A dvandva takes the gender of its last member (aṭavī, f.); 'f./m.' is wrong.",
+     "fix": "dvandva; f. gen. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mitra-aṭavīnām",
+      "field": "gram",
+      "value": "dvandva; f. gen. pl.",
+      "n": "16"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सम, सेना के बराबर लाभ के द्वारा,",
+     "problem": "Glossary 7.5: sama = समान.",
+     "fix": "समान, सेना के बराबर लाभ के द्वारा,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम, सेना के बराबर लाभ के द्वारा,",
+      "new": "समान, सेना के बराबर लाभ के द्वारा,",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनेक से विरुद्ध से, या दूसरी ओर से पाता हुआ सम,",
+     "problem": "Garbled 'विरुद्ध से' (the object of paṇeta needs its postposition once); glossary 7.5 sama = समान.",
+     "fix": "अनेक से विरुद्ध के साथ, या दूसरी ओर से पाता हुआ समान,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनेक से विरुद्ध से, या दूसरी ओर से पाता हुआ सम,",
+      "new": "अनेक से विरुद्ध के साथ, या दूसरी ओर से पाता हुआ समान,",
+      "n": "18"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "bala.samādd",
+     "problem": "False positive (e-text 'dd h' habit). Remove the flag (hand edit).",
+     "fix": "delete text_flags entry",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record why no flag.",
+     "fix": "The e-text writes the sandhi d+dh as 'dd h' (bala.samādd hīnena); w reads bala-samāt; not flagged (glossary 7.7).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The e-text writes the sandhi d+dh as 'dd h' (bala.samādd hīnena); w reads bala-samāt; not flagged (glossary 7.7).",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऐसा हुआ सम, जिसका कार्य सामन्त के अधीन है, या जिसकी सेना बनानी है,",
+     "problem": "'जिसका ... है' adds a relative clause and copula to two bahuvrīhis (other units use 'वाला'); glossary 7.5 sama = समान.",
+     "fix": "ऐसा हुआ समान, सामन्त के अधीन कार्य वाला, या बनाई जाने योग्य सेना वाला,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऐसा हुआ सम, जिसका कार्य सामन्त के अधीन है, या जिसकी सेना बनानी है,",
+      "new": "ऐसा हुआ समान, सामन्त के अधीन कार्य वाला, या बनाई जाने योग्य सेना वाला,",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रन्ध्र वाले पर प्रहार करने की इच्छा वाला;",
+     "problem": "abhi-√han and pra-√hṛ (prahartu-kāma, later in the unit) both came out as 'प्रहार'; keep them distinct.",
+     "fix": "रन्ध्र वाले पर आघात करने की इच्छा वाला;",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "रन्ध्र वाले पर प्रहार करने की इच्छा वाला;",
+      "new": "रन्ध्र वाले पर आघात करने की इच्छा वाला;",
+      "n": "22"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "या चढ़ाई करने योग्य से अधिक पाता हुआ",
+     "problem": "Glossary 7.5: yātavya (noun).",
+     "fix": "या जिस पर चढ़ाई करनी है, उससे अधिक पाता हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "या चढ़ाई करने योग्य से अधिक पाता हुआ",
+      "new": "या जिस पर चढ़ाई करनी है, उससे अधिक पाता हुआ",
+      "n": "22"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सम से और माँगे",
+     "problem": "'और' for bhūyaḥ 'more' reads as a conjunction (no ca); glossary 7.5 sama = समान.",
+     "fix": "समान से अधिक माँगे",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम से और माँगे",
+      "new": "समान से अधिक माँगे",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "eka-anta-siddhim",
+     "problem": "Literal rendering instead of 'one-sided'.",
+     "fix": "of success at one end",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "eka-anta-siddhim",
+      "field": "gloss",
+      "value": "of success at one end",
+      "n": "22"
+     }
+    },
+    {
+     "field": "english",
+     "where": "one-sided success",
+     "problem": "Literal rendering.",
+     "fix": "success at one end",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "one-sided success",
+      "new": "success at one end",
+      "n": "22"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "('one-sided success')",
+     "problem": "Note must match the literal rendering.",
+     "fix": "('success at one end')",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "('one-sided success')",
+      "new": "('success at one end')",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "को चढ़ाई करने योग्य के बहाने",
+     "problem": "Glossary 7.5: yātavya (noun).",
+     "fix": "को जिस पर चढ़ाई करनी है, उसके बहाने",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "को चढ़ाई करने योग्य के बहाने",
+      "new": "को जिस पर चढ़ाई करनी है, उसके बहाने",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "या चढ़ाई करने योग्य से मिला हुआ रहे; या इसे दूष्य, शत्रु और वन-जातियों की सेना दे।",
+     "problem": "Three-member list takes commas only (glossary 3.20/14.3); yātavya per glossary 7.5.",
+     "fix": "या जिस पर चढ़ाई करनी है, उससे मिला हुआ रहे; या इसे दूष्य, शत्रु, वन-जातियों की सेना दे।",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "या चढ़ाई करने योग्य से मिला हुआ रहे; या इसे दूष्य, शत्रु और वन-जातियों की सेना दे।",
+      "new": "या जिस पर चढ़ाई करनी है, उससे मिला हुआ रहे; या इसे दूष्य, शत्रु, वन-जातियों की सेना दे।",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "'इस प्रकार हुए हीन से श्रेष्ठ' is ambiguous (reads as 'superior ... from the inferior'); name the bargainer first.",
+     "fix": "श्रेष्ठ, इस प्रकार हुए हीन से, सेना के बराबर से हीन लाभ के द्वारा सौदा करे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "श्रेष्ठ, इस प्रकार हुए हीन से, सेना के बराबर से हीन लाभ के द्वारा सौदा करे।",
+      "n": "29"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "bala.samādd",
+     "problem": "False positive (e-text 'dd h' habit). Remove the flag (hand edit).",
+     "fix": "delete text_flags entry",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record why no flag.",
+     "fix": "The e-text writes the sandhi d+dh as 'dd h' (bala.samādd hīnena); w reads bala-samāt; not flagged (glossary 7.7).",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "The e-text writes the sandhi d+dh as 'dd h' (bala.samādd hīnena); w reads bala-samāt; not flagged (glossary 7.7).",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोनों ओर से विचार करके",
+     "problem": "English and gloss say 'on both sides'; Hindi 'से' changes it to 'from'.",
+     "fix": "दोनों ओर विचार करके",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों ओर से विचार करके",
+      "new": "दोनों ओर विचार करके",
+      "n": "31"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 31 units against the Sanskrit. Substance of the draft is sound (splits, cases, roots, ca/vā/eva rendered, paṇ/paṇita readings consistent). Issues: 2 error, 42 minor; 39 machine patches. Main points: Hindi 'और' used for bhūyaḥ (13, 22) and in 3-member lists (2, 26); yātavya/sama/pratāpa/dvaidhī-bhūta aligned with glossary 7.2/7.4/7.5; ekānta kept literal; the 'dd h' text_flags in 4, 11, 18, 29 are false positives (e-text habit) and must be removed by hand. Kept as drafted: pārṣṇi 'heel' in pārṣṇim grah / pārṣṇi-grāha and 'rear' in mūla-pārṣṇi (12.1); āsāra 'reinforcements' in vīvadha-āsārau (10.4) and 'reinforcer' as a thing crushed (unit 23, 6.2); doṣa 'defect'; paṇ 'strike a bargain'; daṇḍa army; sandhi treaty (12.1; 7.4/8.5 say peace, a person should align). No regrouping suggested. Hand edits: unit 2 last 'me' gram; remove text_flags in 4, 11, 18, 29."
+}

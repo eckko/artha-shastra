@@ -1,0 +1,231 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अमानुषों",
+     "problem": "Hindi अमानुष commonly means 'inhuman, cruel'; the Sanskrit amānuṣa here is 'non-human' (beings other than humans). The Hindi would invite the wrong sense.",
+     "fix": "और मनुष्येतरों में भी यह देखा जाता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अमानुषों",
+      "new": "मनुष्येतरों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसके सब को",
+     "problem": "sarvam is neuter 'everything'; Hindi 'सब को' reads as 'all (persons)'. Keep the neuter sense without adding a noun.",
+     "fix": "क्योंकि वे उसके सब कुछ को रोककर स्वामी के समान आचरण करते हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके सब को",
+      "new": "उसके सब कुछ को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "wisdom",
+     "problem": "Glossary (1.5): prajñā = insight (प्रज्ञा); the English must match.",
+     "fix": "Therefore [one] should make ministers endowed with high birth, insight, purity, valour and attachment, because of the primacy of qualities.”",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "wisdom",
+      "new": "insight"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "abhijana-prajñā-śauca-śaurya-anurāga-yuktān",
+     "problem": "Same: 'wisdom' should be 'insight' (glossary 1.5).",
+     "fix": "endowed with high birth, insight, purity, valour, attachment",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "abhijana-prajñā-śauca-śaurya-anurāga-yuktān",
+      "field": "gloss",
+      "value": "endowed with high birth, insight, purity, valour, attachment"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "| 28 |",
+     "problem": "Glossary 3.14 (and ch09 unit 8): an embedded '| N |' marker needs its own text_flag; the draft has only the sāmarthyaś flag. HAND EDIT: add text_flag {src:'| 28 |', suggest:\"remove '| 28 |' from the text line\", why:'embedded verse number and bars inside the unit line; not Sanskrit words'}.",
+     "fix": "add the text_flag",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "GROUPING (comment only): the words 'sāmarthyaś ca --' after '| 28 |' are an unfinished lead-in ('And capacity --') to the verse of unit 29; they most likely belong at the head of unit 29 (the dash runs into the verse). Not regrouped by patch.",
+     "fix": "none (grouping decision for a person)",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "sāmarthyaḥ",
+     "problem": "w 'sāmarthyaḥ' is labelled m. nom. sg. although sāmarthya is neuter; the flag already doubts the printed form (LAYER_NOTES 2 says the corrected form goes in w). Left to a person: either keep the printed reading as is (low) or use sāmarthyam (n. nom. sg.) once the flag is accepted.",
+     "fix": "decision for a person",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Independent check of ch08 chunk 1 (29 units) against the Sanskrit and glossary: split, cases, roots, quotation structure (units 1-27) and all particles (hi, ca, vā, eva, api, tu) are correct and rendered in both languages; no added pronouns or copulas in Hindi. 7 minor issues (4 machine patches), 0 errors: unit 18 Hindi अमानुष (= inhuman), unit 21 Hindi 'सब को', unit 26 wisdom vs glossary insight (english + gloss, 2 issues), unit 28 missing '| 28 |' text_flag, unit 28 w sāmarthyaḥ (m. label), unit 28 GROUPING comment. Unit 24 flag (stray space in bāhu.dantī putraḥ) is plausible: the name occurs only here, so it stays 'possible'. Unit 28 'sāmarthyaś ca --' most likely belongs at the head of unit 29 (comment only, no regroup by patch). Low units 8 and 28 and medium unit 21 (ava-√grah 'restrain', per glossary 5.6/9.2) are honestly graded. Hand edits: unit 28 add text_flag '| 28 |'."
+}

@@ -1,0 +1,529 @@
+[
+ {
+  "n": "5",
+  "field": "english",
+  "old": "If the middle king should wish to obtain the conqueror's ally, [one] having the nature of an ally, [the conqueror], having raised up the allies of the ally and of himself and having split the allies away from the middle king, should protect the ally.",
+  "new": "If the middle king should wish to obtain the conqueror's ally, an ally-natured [one], [the conqueror], having raised up the allies of the ally and of himself and having split the allies away from the middle king, should protect the ally.",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "mitra-bhāvi",
+  "old": "having the nature of an ally",
+  "new": "ally-natured",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "यदि मध्यम राजा विजिगीषु के मित्र को, मित्र-स्वभाव वाले को, पाना चाहे, मित्र के और अपने मित्रों को उठाकर और मध्यम राजा से मित्रों को फोड़कर मित्र की रक्षा करे।",
+  "new": "यदि मध्यम राजा विजिगीषु के मित्र को, मित्रभावी को, पाना चाहे, मित्र के और अपने मित्रों को उठाकर और मध्यम राजा से मित्रों को फोड़कर मित्र की रक्षा करे।",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Or [the conqueror] should rouse the circle: \"This middle king, who has grown very great, has risen up for the destruction of all of us; having come together, let us thwart his march.\"",
+  "new": "Or [the conqueror] should rouse the circle: \"This middle king, excessively grown, has risen up for the destruction of all of us; having come together, let us thwart his march.\"",
+  "why": "reviewer (minor): atipravṛddha = very much grown; 'great' is an addition"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "vihanāma",
+  "old": "1 pl. subj. (opt.) vi-√han",
+  "new": "imp. 1 pl. vi-√han",
+  "why": "reviewer (minor): vihanāma is the imperative (lot) 1 pl. of han (hanāma), not subjunctive/optative"
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "pradhānam",
+  "old": "n. acc. sg.",
+  "new": "m./n. acc. sg.",
+  "why": "reviewer (minor): gender of the unexpressed noun cannot be fixed (kings are m., but the noun is not stated); unit 9 gives dvitīyam as m. while this unit gave n."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "ekam",
+  "old": "n. acc. sg.",
+  "new": "m./n. acc. sg.",
+  "why": "reviewer (minor): gender of the unexpressed noun cannot be fixed (kings are m., but the noun is not stated); unit 9 gives dvitīyam as m. while this unit gave n."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "āsannam",
+  "old": "n. acc. sg.",
+  "new": "m./n. acc. sg.",
+  "why": "reviewer (minor): gender of the unexpressed noun cannot be fixed (kings are m., but the noun is not stated); unit 9 gives dvitīyam as m. while this unit gave n."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "यदि अनुग्रह न करे, कोश और सेना से मित्र पर अनुग्रह करके, मध्यम राजा से द्वेष रखने वाले जो राजा परस्पर अनुगृहीत होकर अनेक ठहरें, या एक की सिद्धि होने पर अनेक सिद्ध हों, या परस्पर से शंकित होकर न उठें, उनमें से एक प्रधान को या निकट को साम और दान से प्राप्त करे।",
+  "new": "यदि अनुग्रह न करे, कोश और सेना से मित्र पर अनुग्रह करके, मध्यम राजा से द्वेष रखने वाले जो राजा या परस्पर अनुगृहीत होकर अनेक ठहरें, या एक की सिद्धि होने पर अनेक सिद्ध हों, या परस्पर से शंकित होकर न उठें, उनमें से एक प्रधान को या निकट को साम और दान से प्राप्त करे।",
+  "why": "reviewer (minor): the first vā of the three alternatives (paraspara-anugṛhītā vā) is not rendered; Hindi या ... या ... या"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "If [the circle] should not favour [that], having favoured the ally with treasury and army, [the conqueror] should obtain, by conciliation and gifts, one chief or a near [one] of those kings who hate the middle king, who, mutually favoured, might stand many, or upon the success of one many might succeed, or, suspicious of one another, might not rise up.",
+  "new": "If [the circle] should not favour [that], having favoured the ally with treasury and army, [the conqueror] should obtain, by conciliation and gifts, one chief or a near [one] of those kings who hate the middle king, who, either mutually favoured, might stand many, or upon the success of one many might succeed, or, suspicious of one another, might not rise up.",
+  "why": "reviewer (minor): the first vā (paraspara-anugṛhītā vā) is not rendered"
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "dvitīyam",
+  "old": "m. acc. sg.",
+  "new": "m./n. acc. sg.",
+  "why": "reviewer (minor): the noun is not stated, so gender cannot be fixed"
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "tṛtīyam",
+  "old": "m. acc. sg.",
+  "new": "m./n. acc. sg.",
+  "why": "reviewer (minor): the noun is not stated, so gender cannot be fixed"
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "abhyuccitaḥ",
+  "old": "built up",
+  "new": "heaped up",
+  "why": "reviewer (minor): abhyuccita (abhi-ud-√ci) = heaped up, per 7.1 abhyuccaya and 7.17 abhyuccīyamāna; 'built up'/बढ़ा हुआ is an invented sense"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Thus built up, [the conqueror] should restrain the middle king.",
+  "new": "In this way heaped up, [the conqueror] should restrain the middle king.",
+  "why": "reviewer (minor): gloss as above; evam = in this way (glossary), not 'thus'"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "इस प्रकार बढ़ा हुआ मध्यम राजा को रोके।",
+  "new": "इस प्रकार संचित किया हुआ, मध्यम राजा को रोके।",
+  "why": "reviewer (minor): abhyuccita rendered बढ़ा हुआ (grown) instead of heaped up"
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "kuryāt",
+  "old": "should give",
+  "new": "should render",
+  "why": "reviewer (minor): √kṛ with sācivya = render; 'give' is an invented sense"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Or, when place and time lapse, having made peace with the middle king, [the conqueror] should give assistance to the ally; or [should make] a treaty of action (karma-sandhi) among the treasonable.",
+  "new": "Or, when place and time lapse, having made peace with the middle king, [the conqueror] should render assistance to the ally; or [should make] a treaty of action (karma-sandhi) among the treasonable.",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "karma-sandhim",
+  "old": "treaty of action",
+  "new": "treaty of works",
+  "why": "reviewer (error): karma-sandhi = treaty of works, karma = works (7.12 glossary), not 'action'"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Or, when place and time lapse, having made peace with the middle king, [the conqueror] should render assistance to the ally; or [should make] a treaty of action (karma-sandhi) among the treasonable.",
+  "new": "Or, when place and time lapse, having made peace with the middle king, [the conqueror] should render assistance to the ally; or [should make] a treaty of works (karma-sandhi) among the treasonable.",
+  "why": "reviewer (error): as above"
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "ucchedanīyam",
+  "old": "to be cut off",
+  "new": "to be uprooted",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Or, if the middle king should wish to obtain his ally who is to be cut off, [the conqueror] should protect him, weakened, from fear of the growth of the middle king.",
+  "new": "Or, if the middle king should wish to obtain his ally who is to be uprooted, [the conqueror] should protect him, weakened, from fear of the growth of the middle king.",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "ucchinnam",
+  "old": "cut off",
+  "new": "uprooted",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Or [the conqueror] should take him, cut off, in hand by the favour of land, from fear of [his] retreat elsewhere.",
+  "new": "Or [the conqueror] should take him, uprooted, in hand by the favour of land, from fear of [his] retreat elsewhere.",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "या कटे हुए को भूमि के अनुग्रह से हाथ में कर ले, अन्यत्र हट जाने के भय से।",
+  "new": "या उच्छिन्न को भूमि के अनुग्रह से हाथ में कर ले, अन्यत्र हट जाने के भय से।",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "karśanīya-ucchedanīyayoḥ",
+  "old": "of the one to be weakened and the one to be cut off",
+  "new": "of the one to be weakened and the one to be uprooted",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "If the allies of the one to be weakened and the one to be cut off should be givers of assistance of the middle king, peace should be made through another man.",
+  "new": "If the allies of the one to be weakened and the one to be uprooted should be givers of assistance of the middle king, peace should be made through another man.",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "If the middle king should wish to obtain [the conqueror's] own ally, [one] having the nature of an ally, [the conqueror] should make peace through another man.",
+  "new": "If the middle king should wish to obtain [the conqueror's] own ally, an ally-natured [one], [the conqueror] should make peace through another man.",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "mitra-bhāvi",
+  "old": "having the nature of an ally",
+  "new": "ally-natured",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "यदि मध्यम राजा अपने मित्र को, मित्र-स्वभाव वाले को, पाना चाहे, दूसरे पुरुष के द्वारा सन्धि करे।",
+  "new": "यदि मध्यम राजा अपने मित्र को, मित्रभावी को, पाना चाहे, दूसरे पुरुष के द्वारा सन्धि करे।",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "ucchettum",
+  "old": "to cut off",
+  "new": "to uproot",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Or [the conqueror] should restrain [him] with regard: \"You ought not to cut off the ally.\"",
+  "new": "Or [the conqueror] should restrain [him] with regard: \"You ought not to uproot the ally.\"",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "upekṣeta",
+  "old": "should overlook",
+  "new": "should disregard",
+  "why": "reviewer (minor): upekṣeta (verb) = should disregard (उपेक्षा करे), 7.1 glossary"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Or [the conqueror] should overlook [it]: \"Let his circle be angry because of the killing of its own party.\"",
+  "new": "Or [the conqueror] should disregard [it]: \"Let his circle be angry because of the killing of its own party.\"",
+  "why": "reviewer (minor): upekṣeta (verb) = should disregard (उपेक्षा करे), 7.1 glossary"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "Of the middle king and the neutral king, [the conqueror] should resort to whichever is approved by the circle.",
+  "new": "Of the middle king and the neutral king, [the conqueror] should resort to whichever is desired by the circle.",
+  "why": "reviewer (minor): abhipreta = intended/desired; 'approved' is a different sense"
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "ari-bhāvinaḥ",
+  "old": "having the nature of enemies",
+  "new": "enemy-natured",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "mitra-bhāvinaḥ",
+  "old": "having the nature of allies",
+  "new": "ally-natured",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "bhṛtya-bhāvinaḥ",
+  "old": "having the nature of servants",
+  "new": "servant-natured",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Even when there is, of him, the state of being an enemy: [one] not self-possessed, constantly harming, an enemy, allied with an enemy, or a heel-seizer; in calamity, to be marched against; or, in calamity, an attacker of the leader — such are those of enemy nature. Set out with the same aim, set out with a separate aim, marching in combination, marching allied, set out with his own aim, an associate in the rising, a buyer or seller of either treasury or army, one of the dual policy — such are those of ally nature. A neighbouring chief [who is] a repeller of a strong one, an antardhi, or a neighbour of a strong one, or a heel-seizer of a strong one, one who has submitted of himself, one submitted through splendour, or one submitted with his army — such neighbouring chiefs are those of servant nature.",
+  "new": "Even when there is, of him, the state of being an enemy: [one] not self-possessed, constantly harming, an enemy, allied with an enemy, or a heel-seizer; in calamity, to be marched against; or, in calamity, an attacker of the leader — such are the enemy-natured. Set out with the same aim, set out with a separate aim, marching in combination, marching allied, set out with his own aim, an associate in the rising, a buyer or seller of either treasury or army, one of the dual policy — such are those of ally nature. A neighbouring chief [who is] a repeller of a strong one, an antardhi, or a neighbour of a strong one, or a heel-seizer of a strong one, one who has submitted of himself, one submitted through splendour, or one submitted with his army — such neighbouring chiefs are those of servant nature.",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Even when there is, of him, the state of being an enemy: [one] not self-possessed, constantly harming, an enemy, allied with an enemy, or a heel-seizer; in calamity, to be marched against; or, in calamity, an attacker of the leader — such are the enemy-natured. Set out with the same aim, set out with a separate aim, marching in combination, marching allied, set out with his own aim, an associate in the rising, a buyer or seller of either treasury or army, one of the dual policy — such are those of ally nature. A neighbouring chief [who is] a repeller of a strong one, an antardhi, or a neighbour of a strong one, or a heel-seizer of a strong one, one who has submitted of himself, one submitted through splendour, or one submitted with his army — such neighbouring chiefs are those of servant nature.",
+  "new": "Even when there is, of him, the state of being an enemy: [one] not self-possessed, constantly harming, an enemy, allied with an enemy, or a heel-seizer; in calamity, to be marched against; or, in calamity, an attacker of the leader — such are the enemy-natured. Set out with the same aim, set out with a separate aim, marching in combination, marching allied, set out with his own aim, an associate in the rising, a buyer or seller of either treasury or army, one of the dual policy — such are the ally-natured. A neighbouring chief [who is] a repeller of a strong one, an antardhi, or a neighbour of a strong one, or a heel-seizer of a strong one, one who has submitted of himself, one submitted through splendour, or one submitted with his army — such neighbouring chiefs are those of servant nature.",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Even when there is, of him, the state of being an enemy: [one] not self-possessed, constantly harming, an enemy, allied with an enemy, or a heel-seizer; in calamity, to be marched against; or, in calamity, an attacker of the leader — such are the enemy-natured. Set out with the same aim, set out with a separate aim, marching in combination, marching allied, set out with his own aim, an associate in the rising, a buyer or seller of either treasury or army, one of the dual policy — such are the ally-natured. A neighbouring chief [who is] a repeller of a strong one, an antardhi, or a neighbour of a strong one, or a heel-seizer of a strong one, one who has submitted of himself, one submitted through splendour, or one submitted with his army — such neighbouring chiefs are those of servant nature.",
+  "new": "Even when there is, of him, the state of being an enemy: [one] not self-possessed, constantly harming, an enemy, allied with an enemy, or a heel-seizer; in calamity, to be marched against; or, in calamity, an attacker of the leader — such are the enemy-natured. Set out with the same aim, set out with a separate aim, marching in combination, marching allied, set out with his own aim, an associate in the rising, a buyer or seller of either treasury or army, one of the dual policy — such are the ally-natured. A neighbouring chief [who is] a repeller of a strong one, an antardhi, or a neighbour of a strong one, or a heel-seizer of a strong one, one who has submitted of himself, one submitted through splendour, or one submitted with his army — such neighbouring chiefs are servant-natured.",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का अभियोक्ता — ये शत्रु-स्वभाव वाले हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्र-स्वभाव वाले हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्य-स्वभाव वाले हैं।",
+  "new": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का अभियोक्ता — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्र-स्वभाव वाले हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्य-स्वभाव वाले हैं।",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का अभियोक्ता — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्र-स्वभाव वाले हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्य-स्वभाव वाले हैं।",
+  "new": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का अभियोक्ता — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्रभावी हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्य-स्वभाव वाले हैं।",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का अभियोक्ता — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्रभावी हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्य-स्वभाव वाले हैं।",
+  "new": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का अभियोक्ता — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्रभावी हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्यभावी हैं।",
+  "why": "reviewer (minor): -bhāvin is rendered -natured per the 7.9 glossary line (ally-natured, मित्रभावी), not \"having the nature of\""
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का अभियोक्ता — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्रभावी हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्यभावी हैं।",
+  "new": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का आक्रमणकारी — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्रभावी हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्यभावी हैं।",
+  "why": "reviewer (error): abhiyoktṛ = attacker (आक्रमणकारी) per 12.1; Hindi अभियोक्ता means prosecutor (the 3.1 legal sense)"
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसनी, जिस पर चढ़ाई करनी है; या व्यसन में नेता का आक्रमणकारी — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्रभावी हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्यभावी हैं।",
+  "new": "उसके शत्रु-भाव के होने पर भी: अनात्मवान्, नित्य अपकार करने वाला, शत्रु, शत्रु से संहित या पार्ष्णि-ग्राह; व्यसन वाला, जिस पर चढ़ाई करनी है; या व्यसन में नेता का आक्रमणकारी — ये शत्रुभावी हैं। एक प्रयोजन से चल पड़ा हुआ, अलग प्रयोजन से चल पड़ा हुआ, मिलकर यात्रा करने वाला, संहित होकर प्रयाण करने वाला, अपने प्रयोजन से चल पड़ा हुआ, साथ उठ खड़ा होने वाला साथी, कोश और सेना में से किसी एक का क्रेता या विक्रेता, द्वैधीभाव वाला — ये मित्रभावी हैं। सामन्त: बलवान् का प्रतिघात करने वाला, अन्तर्धि, या बलवान् का पड़ोसी, या बलवान् का पार्ष्णि-ग्राह, अपने आप समर्पण करने वाला, प्रताप से समर्पण करने वाला, या सेना सहित समर्पण करने वाला — ये सामन्त भृत्यभावी हैं।",
+  "why": "reviewer (minor): Hindi व्यसनी means one addicted to vice; vyasanin is rendered व्यसन वाला (3.11, 7.11)"
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Even when there is, of him, the state of being an enemy: [one] not self-possessed, constantly harming, an enemy, allied with an enemy, or a heel-seizer; in calamity, to be marched against; or, in calamity, an attacker of the leader — such are the enemy-natured. Set out with the same aim, set out with a separate aim, marching in combination, marching allied, set out with his own aim, an associate in the rising, a buyer or seller of either treasury or army, one of the dual policy — such are the ally-natured. A neighbouring chief [who is] a repeller of a strong one, an antardhi, or a neighbour of a strong one, or a heel-seizer of a strong one, one who has submitted of himself, one submitted through splendour, or one submitted with his army — such neighbouring chiefs are servant-natured.",
+  "new": "Even when there is, of him, the state of being an enemy: [one] not self-possessed, constantly harming, an enemy, allied with an enemy, or a heel-seizer; in calamity, the one to be marched against; or, in calamity, an attacker of the leader — such are the enemy-natured. Set out with the same aim, set out with a separate aim, marching in combination, marching allied, set out with his own aim, an associate in the rising, a buyer or seller of either treasury or army, one of the dual policy — such are the ally-natured. A neighbouring chief [who is] a repeller of a strong one, an antardhi, or a neighbour of a strong one, or a heel-seizer of a strong one, one who has submitted of himself, one submitted through splendour, or one submitted with his army — such neighbouring chiefs are servant-natured.",
+  "why": "reviewer (minor): yātavya as a noun = the one to be marched against (7.4, 7.5)"
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "GROUPING: the unit is one sentence over two printed lines; the lone '-' at the end of line 1 is the e-text's continuation mark (the sentence continues with 'sāmantaḥ'). The e-text prints no commas within the lists, so the list segmentation is a reading: the first list is read as (1) anātmavān nitya-apakārī śatruḥ, (2) śatru-saṃhitaḥ pārṣṇi-grāho vā, (3) vyasanī yātavyaḥ, (4) vyasane vā netur abhiyoktā; alternatives are possible. 'tasya' (of him) is not identified. -bhāvin = 'having the nature of' (alternative 'likely to become'); medium. 'daṇḍa-upanata' = submitted with his army (glossary 12.5), 'pratāpa' = splendour (7.4), 'antardhi' kept untranslated (7.2), 'sāmutthāyika' = associate in the rising (8.2), dvaidhī-bhāva = dual policy. The English 'one' before participles is a natural-English carrier of the -a nominative.",
+  "new": "GROUPING: the unit is one sentence over two printed lines; the lone '-' at the end of line 1 is the e-text's continuation mark (the sentence continues with 'sāmantaḥ'). The e-text prints no commas within the lists, so the list segmentation is a reading: the first list is read as (1) anātmavān nitya-apakārī śatruḥ, (2) śatru-saṃhitaḥ pārṣṇi-grāho vā, (3) vyasanī yātavyaḥ, (4) vyasane vā netur abhiyoktā; alternatives are possible. 'tasya' (of him) is not identified. -bhāvin = 'having the nature of' (alternative 'likely to become'); medium. 'daṇḍa-upanata' = submitted with his army (glossary 12.5), 'pratāpa' = splendour (7.4), 'antardhi' kept untranslated (7.2), 'sāmutthāyika' = associate in the rising (8.2), dvaidhī-bhāva = dual policy. The English 'one' before participles is a natural-English carrier of the -a nominative. Reviewer: -bhāvin aligned with 7.9 (ally-natured / मित्रभावी); the earlier note giving 'having the nature of' is superseded.",
+  "why": "reviewer (minor): note correction"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "उनमें से जो मित्र शत्रु के विरोध में एकप्रयोजन हो जाए, उसका उस शक्ति से अनुग्रह करे जिससे दूसरे को सह सके।",
+  "new": "उनमें से जो मित्र शत्रु के विरोध में एकप्रयोजनता को पहुँचे, उसका उस शक्ति से अनुग्रह करे जिससे दूसरे को सह सके।",
+  "why": "reviewer (minor): eka-arthatām vrajet = go to oneness of aim; the abstract -tā is dropped and vraj becomes 'हो जाए'"
+ },
+ {
+  "n": "32",
+  "field": "word.gram",
+  "word": "tat-prakṛtibhyām",
+  "old": "f. inst. du., bahuvrīhi",
+  "new": "f. inst. du., tat-puruṣa",
+  "why": "reviewer (minor): gloss 'by its two constituent elements' is a tat-puruṣa; 'bahuvrīhi' contradicts it"
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "anugraha-apekṣam",
+  "old": "m. acc. sg., tat-puruṣa",
+  "new": "n. nom. sg., tat-puruṣa",
+  "why": "reviewer (minor): subject of tiṣṭhet is mitram (n., understood from unit 32): nominative neuter, not 'm. acc.' and not an adverb"
+ },
+ {
+  "n": "33",
+  "field": "word.gram",
+  "word": "vaśyam",
+  "old": "m. acc. sg.",
+  "new": "n. nom. sg.",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "vaśyam",
+  "old": "controllable",
+  "new": "controlled",
+  "why": "reviewer (minor): vaśya = controlled (7.9, 7.11), not 'controllable'"
+ },
+ {
+  "n": "33",
+  "field": "notes",
+  "old": "'tasya' = of that ally (unit 32). The 'vā' of line 1 is rendered as the opening 'or' of the unit and the 'vā' of line 2 as 'or'. 'anugraha-apekṣam vaśyam' are neuter/accusative-looking forms read adverbially; medium. tat-kulīna = member of his family, aparuddha = prince in disfavour (12.3).",
+  "new": "'tasya' = of that ally (unit 32). The 'vā' of line 1 is rendered as the opening 'or' of the unit and the 'vā' of line 2 as 'or'. 'anugraha-apekṣam vaśyam' are neuter/accusative-looking forms read adverbially; medium. tat-kulīna = member of his family, aparuddha = prince in disfavour (12.3). Reviewer: anugraha-apekṣam and vaśyam are read as neuter nominatives agreeing with mitram understood from unit 32, not as adverbs.",
+  "why": "reviewer (minor): note correction"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "[The ally] which, overly weakened, would not help or would go to the enemy — that ally one who knows his interest should keep undiminished and ungrown.",
+  "new": "[The ally] which, overly weakened, would not help or would go to the enemy — that ally one who knows artha should keep undiminished and ungrown.",
+  "why": "reviewer (minor): 'his' is an unmarked addition; artha left as printed with alternatives in notes"
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "artha-vit",
+  "old": "one who knows his interest",
+  "new": "knower of artha",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "34",
+  "field": "notes",
+  "old": "'artha-vit' = knower of artha (literally; 'gain', 'wealth', 'interest' possible), rendered 'one who knows his interest'; medium. The ally is the object 'mitram' of line 2; 'yat' of line 1 refers to it.",
+  "new": "'artha-vit' = knower of artha (literally; 'gain', 'wealth', 'interest' possible), rendered 'one who knows his interest'; medium. The ally is the object 'mitram' of line 2; 'yat' of line 1 refers to it. Reviewer: arthavit rendered 'one who knows artha' (interest, gain or wealth all possible); 'his interest' was dropped.",
+  "why": "reviewer (minor): note correction"
+ },
+ {
+  "n": "35",
+  "field": "word.w",
+  "word": "caret",
+  "old": "caret",
+  "new": "calet",
+  "why": "reviewer (error): printed token is caled (= calet, √cal); w 'caret' is a different word (√car)"
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "ucchindyāt",
+  "old": "should cut off",
+  "new": "should uproot",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "Or [the ally] which should stand shared with the enemy — that deceitful one [he] should split from the enemy; [when] split, [he] should cut off [that one]; then the enemy next.",
+  "new": "Or [the ally] which should stand shared with the enemy — that deceitful one [he] should split from the enemy; [when] split, [he] should uproot [that one]; then the enemy next.",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "या जो शत्रु के साथ साझा होकर रहे, उस शठ को शत्रु से अलग करे, अलग हुए को काट दे, तब आगे शत्रु को।",
+  "new": "या जो शत्रु के साथ साझा होकर रहे, उस शठ को शत्रु से अलग करे, अलग हुए का उच्छेद करे, तब अनन्तर शत्रु को।",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering; anantaram rendered आगे (further), not 'next'"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "जो दुर्बल शत्रु और विजिगीषु के पास आता-जाता है, उसे सेना से अनुग्रह दे जिससे विमुख न हो।",
+  "new": "जो दुर्बल शत्रु और विजिगीषु के पास आता-जाता है, उस पर सेना से अनुग्रह करे जिससे विमुख न हो।",
+  "why": "reviewer (minor): anugṛhṇīyāt is अनुग्रह करे everywhere else in the chunk"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "वहाँ से हटाकर दूसरी भूमि में बसाए; पहले वहाँ दूसरे को बसाकर, सेना पर अनुग्रह के कारण से।",
+  "new": "वहाँ से हटाकर दूसरी भूमि में बसाए, या पहले वहाँ दूसरे को बसाकर, सेना पर अनुग्रह के कारण से।",
+  "why": "reviewer (error): vā (anyasyāṃ bhūmau vā) is not rendered in Hindi; English has \"or\""
+ },
+ {
+  "n": "39",
+  "field": "notes",
+  "old": "The grammar of the two lines is loose; the second line ('having first settled another there, for the reason of favouring the army') is left as a dependent clause of the first and may be understood differently. The object (the weak one of unit 38) is not stated. 'vā' at the end of line 1 is rendered 'or'. daṇḍa = army.",
+  "new": "The grammar of the two lines is loose; the second line ('having first settled another there, for the reason of favouring the army') is left as a dependent clause of the first and may be understood differently. The object (the weak one of unit 38) is not stated. 'vā' at the end of line 1 is rendered 'or'. daṇḍa = army. Reviewer: daṇḍa-anugraha-hetunā may equally mean 'for the reason of favour by means of the army' (cf. kośa-daṇḍābhyām anugṛhṇīyāt, units 8 and 23); both readings are possible.",
+  "why": "reviewer (minor): note correction"
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "ucchindyāt",
+  "old": "should cut off",
+  "new": "should uproot",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "[The ally] which would do harm, or, being capable, would not help in adversity — that ally [he] should cut off indeed, [if it] has trusted and come near [his] lap.",
+  "new": "[The ally] which would do harm, or, being capable, would not help in adversity — that ally [he] should uproot indeed, [if it] has trusted and come near [his] lap.",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "जो हानि पहुँचाए, या समर्थ होकर आपत्ति में उपकार न करे, उस मित्र को ही काट दे, जो विश्वास करके गोद के पास आ गया हो।",
+  "new": "जो हानि पहुँचाए, या समर्थ होकर आपत्ति में उपकार न करे, उस मित्र का ही उच्छेद करे, जो विश्वास करके गोद के पास आ गया हो।",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "42",
+  "field": "word.gram",
+  "word": "virajyati",
+  "old": "3 sg. pass. vi-√rañj",
+  "new": "3 sg. pres. (class 4) vi-√rañj",
+  "why": "reviewer (minor): virajyati is the class-4 present of rañj, not a passive"
+ },
+ {
+  "n": "43",
+  "field": "word.gloss",
+  "word": "karśana-ucchedanam",
+  "old": "weakening and cutting off",
+  "new": "weakening and uprooting",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "43",
+  "field": "english",
+  "old": "Growth, decline and stagnation, likewise weakening and cutting off — all these means [he] should apply, and who is a knower of the Arthashastra.",
+  "new": "Growth, decline and stagnation, likewise weakening and uprooting — all these means [he] should apply, and who is a knower of the Arthashastra.",
+  "why": "reviewer (minor): ucchedanīya/uccheda- family = uproot (7.10 glossary: ucchedanīya = to be uprooted, उच्छेद); 'cut off' is not the fixed rendering"
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "वृद्धि, क्षय और स्थान, तथा कर्शन और उच्छेदन — इन सब उपायों को लगाए, और जो अर्थशास्त्र का ज्ञाता है।",
+  "new": "वृद्धि, क्षय और स्थान, तथा क्षीण करना और उच्छेद करना — इन सब उपायों को लगाए, और जो अर्थशास्त्र का ज्ञाता है।",
+  "why": "reviewer (minor): karśana = weakening (क्षीण करना), 13.4 glossary; uccheda per 7.10"
+ },
+ {
+  "n": "44",
+  "field": "word.gram",
+  "word": "anyonya-sañcāram",
+  "old": "m. acc. sg., tat-puruṣa",
+  "new": "n. acc. sg., bahuvrīhi (agreeing with ṣāḍguṇyam)",
+  "why": "reviewer (minor): translation (English and Hindi) reads it as 'having mutual movement' (bahuvrīhi, neuter), but gram says tat-puruṣa m."
+ }
+]

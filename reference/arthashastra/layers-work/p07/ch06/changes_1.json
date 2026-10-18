@@ -1,0 +1,667 @@
+[
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "saṃhita-prayāṇe",
+  "old": "karmadhāraya, m. loc. sg.",
+  "new": "karmadhāraya, n. loc. sg.",
+  "why": "reviewer (error): prayāṇa is neuter (n.), not m."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "saṃhita-prayāṇe",
+  "old": "in the joint march",
+  "new": "in the allied march",
+  "why": "reviewer (minor): Glossary 7.3 / 7.1: saṃhita = allied (संहित); keep Book 7 consistent."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "[One] should engage the neighbouring chief in a joint march [with the words]: “You go from here, I shall go from here; the gain [is] equal.”",
+  "new": "[One] should engage the neighbouring chief in an allied march [with the words]: “You go from here, I shall go from here; the gain [is] equal.”",
+  "why": "reviewer (minor): saṃhita = allied (glossary 7.3, 7.1)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "सामन्त को संयुक्त प्रयाण में लगाए: “तुम यहाँ से जाओ, मैं यहाँ से जाऊँगा, लाभ समान है।”",
+  "new": "सामन्त को संहित प्रयाण में लगाए: “तुम यहाँ से जाओ, मैं यहाँ से जाऊँगा, लाभ समान है।”",
+  "why": "reviewer (minor): saṃhita = allied (संहित), glossary 7.3, 7.1."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Subject unstated, so '[one]'. itaḥ (from here / hence) is kept literal; the two itaḥ may point to different directions. saṃhita-prayāṇe: saṃhita 'joined' with prayāṇa 'march' (glossary yātrā = march). Closing iti is carried by the quotation marks.",
+  "new": "Subject unstated, so '[one]'. itaḥ (from here / hence) is kept literal; the two itaḥ may point to different directions. saṃhita-prayāṇe: saṃhita = allied (glossary 7.3) with prayāṇa 'march' (glossary yātrā = march). Closing iti is carried by the quotation marks.",
+  "why": "reviewer (minor): Align with glossary 7.3."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "vaiṣamye",
+  "old": "in inequality",
+  "new": "in unevenness",
+  "why": "reviewer (minor): Glossary 7.5: vaiṣamya = unevenness (वैषम्य)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "In equality of gain, [there is] a treaty; in inequality, attack.",
+  "new": "In equality of gain, [there is] a treaty; in unevenness, attack.",
+  "why": "reviewer (minor): Glossary 7.5: vaiṣamya = unevenness."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "लाभ की समानता में सन्धि, विषमता में आक्रमण।",
+  "new": "लाभ की समानता में सन्धि, वैषम्य में आक्रमण।",
+  "why": "reviewer (minor): Glossary 7.5: Hindi वैषम्य."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "deśam",
+  "old": "region",
+  "new": "place",
+  "why": "reviewer (minor): Glossary 7.10 / 7.8: deśa in deśa-kāla = place (देश); one rendering for deśa through the chapter."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "deśam",
+  "old": "region",
+  "new": "place",
+  "why": "reviewer (minor): Glossary 7.10 / 7.8: deśa in deśa-kāla = place (देश); one rendering for deśa through the chapter."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "paripaṇita-deśaḥ",
+  "old": "with the region stipulated",
+  "new": "with the place stipulated",
+  "why": "reviewer (minor): deśa = place, as glossary 7.10."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "“You go to this region, I shall go to this region” — [the treaty] with the region stipulated.",
+  "new": "“You go to this place, I shall go to this place” — [the treaty] with the place stipulated.",
+  "why": "reviewer (minor): deśa = place (glossary 7.10, 7.8), same word as in the seven kinds of unit 11."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "“तुम इस प्रदेश को जाओ, मैं इस प्रदेश को जाऊँगा” — जिसमें प्रदेश परिपणित है।",
+  "new": "“तुम इस देश को जाओ, मैं इस देश को जाऊँगा” — जिसमें देश परिपणित है।",
+  "why": "reviewer (minor): Hindi देश for deśa (glossary 7.10 देश और काल)."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "Bahuvrīhi 'whose region is stipulated', qualifying sandhiḥ of unit 4; the noun is bracketed in English. etam and imam both 'this'. Closing iti carried by the quotation marks.",
+  "new": "Bahuvrīhi 'whose place is stipulated', qualifying sandhiḥ of unit 4; the noun is bracketed in English. etam and imam both 'this'. Closing iti carried by the quotation marks.",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "“You accomplish so much of the task, I shall accomplish this task” — [the treaty] with the purpose stipulated.",
+  "new": "“You accomplish so large a task, I shall accomplish this task” — [the treaty] with the purpose stipulated.",
+  "why": "reviewer (minor): 'of' is an unmarked partitive; etāvat-kārya is 'a task of this extent'."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "śaila-vana-nadī-durgam",
+  "old": "bahuvrīhi (dvandva members), n. acc. sg.",
+  "new": "bahuvrīhi (dvandva members), m. acc. sg.",
+  "why": "reviewer (minor): Adjective agrees with deśam (m. acc. sg.), not neuter."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "aṭavī-vyavahitam",
+  "old": "tat-puruṣa, n. acc. sg.",
+  "new": "tat-puruṣa, m. acc. sg.",
+  "why": "reviewer (minor): Adjective agrees with deśam (m. acc. sg.), not neuter."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "chinna-dhānya-puruṣa-vīvadha-āsāram",
+  "old": "bahuvrīhi, n. acc. sg.",
+  "new": "bahuvrīhi, m. acc. sg.",
+  "why": "reviewer (minor): Adjective agrees with deśam (m. acc. sg.), not neuter."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "ayavasa-indhana-udakam",
+  "old": "bahuvrīhi, n. acc. sg.",
+  "new": "bahuvrīhi, m. acc. sg.",
+  "why": "reviewer (minor): Adjective agrees with deśam (m. acc. sg.), not neuter."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "avijñātam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): Adjective agrees with deśam (m. acc. sg.), not neuter."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "prakṛṣṭam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): Adjective agrees with deśam (m. acc. sg.), not neuter."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "anya-bhāva-deśīyam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): Adjective agrees with deśam (m. acc. sg.), not neuter."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "alabdha-bhaumam",
+  "old": "bahuvrīhi, n. acc. sg.",
+  "new": "bahuvrīhi, m. acc. sg.",
+  "why": "reviewer (minor): Adjective agrees with deśam (m. acc. sg.), not neuter."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "viparītam",
+  "old": "adj. m. nom. sg.",
+  "new": "adj. n. acc. sg.",
+  "why": "reviewer (minor): -am cannot be nominative of an adjective; accusative (object of the understood verb)."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "deśam",
+  "old": "region",
+  "new": "place",
+  "why": "reviewer (minor): deśa = place (glossary 7.10)."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "paripaṇita-deśam",
+  "old": "with the region stipulated",
+  "new": "with the place stipulated",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "anya-bhāva-deśīyam",
+  "old": "belonging to a region of a different condition",
+  "new": "belonging to a place of a different condition",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "upeyāt",
+  "old": "should enter into",
+  "new": "should resort to",
+  "why": "reviewer (minor): Glossary 7.1: upeyāt = should resort to (अपनाए)."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Or if [one] should think: “The other will go to a region having mountain, forest and river forts, separated by forests, with grain, men, supply line and reinforcement cut off, without fodder, fuel and water, unknown, distant, or belonging to a region of a different condition, or [one] with no ground obtained for the army's exertions; I [am] the reverse” — in this particular [case] [one] should enter into a treaty with the region stipulated.",
+  "new": "Or if [one] should think: “The other will go to a place having mountain, forest and river forts, separated by forests, with grain, men, supply line and reinforcement cut off, without fodder, fuel and water, unknown, distant, or belonging to a place of a different condition, or with no ground obtained for the army's exertions; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the place stipulated.",
+  "why": "reviewer (error): deśam is the object of yāsyati and all the adjectives belong to it ('place'); the bracketed '[one]' before 'with no ground' wrongly makes a person; upeyāt = resort to (glossary 7.1); deśa = place."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "अथवा यदि सोचे “दूसरा पर्वत, वन और नदी के दुर्गों वाले, वनों से व्यवहित, अन्न, पुरुष, रसद और सहायक सेना से कटे हुए, घास, ईंधन और जल से रहित, अज्ञात, दूर, अन्य स्थिति के प्रदेश से सम्बद्ध, या सेना की चेष्टाओं के लिए भूमि न पाने वाले, अथवा प्रदेश को जाएगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-प्रदेश वाली सन्धि को अपनाए।",
+  "new": "अथवा यदि सोचे “पर्वत, वन, नदी के दुर्गों वाले, वनों से व्यवहित, अन्न, पुरुष, रसद, सहायक सेना से कटे हुए, घास, ईंधन, जल से रहित, अज्ञात, दूर, अन्य स्थिति के देश से सम्बद्ध, या सेना की चेष्टाओं के लिए भूमि न पाने वाले, अथवा देश को दूसरा जाएगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-देश वाली सन्धि को अपनाए।",
+  "why": "reviewer (error): The adjectives hang in front of 'दूसरा' with the noun 'प्रदेश' stranded after अथवा; restore the Sanskrit order (adjectives, then देश, then दूसरा जाएगा); dvandvas of three or more take commas only (glossary 7.7, 7.8); देश for deśa."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "Subject of manyeta/upeyāt unstated, '[one]'. chinna-dhānya-puruṣa-vīvadha-āsāra: alternatively dhānya-vīvadha and puruṣa-vīvadha (supplies of grain, supply of men) are cut off, and the reinforcement. anya-bhāva-deśīya and alabdha-bhauma are obscure, rendered literally (low confidence); 'ground' for bhauma is doubtful. vyāyāma = exertion (Book 10 sense). viśeṣe: 'in this particular [case]', noun not stated. The second vā joins the alternatives in the region description. Closing iti carried by the quotation marks.",
+  "new": "Subject of manyeta/upeyāt unstated, '[one]'. chinna-dhānya-puruṣa-vīvadha-āsāra: alternatively dhānya-vīvadha and puruṣa-vīvadha (supplies of grain, supply of men) are cut off, and the reinforcement. anya-bhāva-deśīya and alabdha-bhauma are obscure, rendered literally (low confidence); 'ground' for bhauma is doubtful. vyāyāma = exertion (Book 10 sense). viśeṣe: 'in this particular [case]', noun not stated. The second vā joins the alternatives in the region description. Closing iti carried by the quotation marks. viparītam is accusative (agreeing with the understood object of yāsyati), so 'I [am] the reverse' is a bare-copula reading of an elliptical clause; the same in units 9 and 10. The adjectives before deśam agree with it (m. acc.).",
+  "why": "reviewer (minor): Record the case of viparītam."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "Subject of manyeta/upeyāt unstated, '[one]'. chinna-dhānya-puruṣa-vīvadha-āsāra: alternatively dhānya-vīvadha and puruṣa-vīvadha (supplies of grain, supply of men) are cut off, and the reinforcement. anya-bhāva-deśīya and alabdha-bhauma are obscure, rendered literally (low confidence); 'ground' for bhauma is doubtful. vyāyāma = exertion (Book 10 sense). viśeṣe: 'in this particular [case]', noun not stated. The second vā joins the alternatives in the region description. Closing iti carried by the quotation marks. viparītam is accusative (agreeing with the understood object of yāsyati), so 'I [am] the reverse' is a bare-copula reading of an elliptical clause; the same in units 9 and 10. The adjectives before deśam agree with it (m. acc.).",
+  "new": "Subject of manyeta/upeyāt unstated, '[one]'. chinna-dhānya-puruṣa-vīvadha-āsāra: alternatively dhānya-vīvadha and puruṣa-vīvadha (supplies of grain, supply of men) are cut off, and the reinforcement. anya-bhāva-deśīya and alabdha-bhauma are obscure, rendered literally (low confidence); 'ground' for bhauma is doubtful. vyāyāma = exertion (Book 10 sense). viśeṣe: 'in this particular [case]', noun not stated. The second vā joins the alternatives in the place description. Closing iti carried by the quotation marks. viparītam is accusative (agreeing with the understood object of yāsyati), so 'I [am] the reverse' is a bare-copula reading of an elliptical clause; the same in units 9 and 10. The adjectives before deśam agree with it (m. acc.).",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "viparītam",
+  "old": "adj. m. nom. sg.",
+  "new": "adj. m. acc. sg.",
+  "why": "reviewer (minor): Accusative (agrees with kālam), not nominative."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "upeyāt",
+  "old": "should enter into",
+  "new": "should resort to",
+  "why": "reviewer (minor): Glossary 7.1."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Or if [one] should think: “The other will act for a time with heavy rain, heat and cold, mostly very diseased, with food and use diminished, and obstructive of the army's exertions, deficient or excessive for the means of accomplishing tasks; I [am] the reverse” — in this particular [case] [one] should enter into a treaty with the time stipulated.",
+  "new": "Or if [one] should think: “The other will act for a time with heavy rain, heat and cold, mostly very diseased, with food and use diminished, and obstructive of the army's exertions, deficient or excessive for the means of accomplishing tasks; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the time stipulated.",
+  "why": "reviewer (minor): Glossary 7.1: upeyāt = should resort to."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अथवा यदि सोचे “दूसरा वर्षा, गर्मी और सर्दी वाले, प्रायः अत्यन्त रोग वाले, भोजन और उपभोग के क्षीण होने वाले, और सेना की चेष्टाओं के लिए बाधक, कार्य-साधनों के लिए कम या अधिक समय तक चेष्टा करेगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-समय वाली सन्धि को अपनाए।",
+  "new": "अथवा यदि सोचे “दूसरा वर्षा, गर्मी, सर्दी वाले, प्रायः अत्यन्त रोग वाले, भोजन और उपभोग के क्षीण होने वाले, और सेना की चेष्टाओं के लिए बाधक, कार्य-साधनों के लिए कम या अधिक समय तक चेष्टा करेगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-समय वाली सन्धि को अपनाए।",
+  "why": "reviewer (minor): Three-member dvandva: Hindi commas only (glossary 7.7, 7.8)."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "viparītam",
+  "old": "adj. m. nom. sg.",
+  "new": "adj. n. acc. sg.",
+  "why": "reviewer (minor): Accusative (agrees with kāryam), not nominative."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "upeyāt",
+  "old": "should enter into",
+  "new": "should resort to",
+  "why": "reviewer (minor): Glossary 7.1."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "adharmyam",
+  "old": "contrary to dharma",
+  "new": "unlawful",
+  "why": "reviewer (minor): Glossary 7.5: adharmya = unlawful (धर्म-विरुद्ध)."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Or if [one] should think: “The other will accomplish a retakable task, causing disaffection of the constituent elements, of long duration, with great loss and expenditure, small, with a sequel of loss, unsound, contrary to dharma, opposed to the middle and neutral kings, or injuring allies; I [am] the reverse” — in this particular [case] [one] should enter into a treaty with the purpose stipulated.",
+  "new": "Or if [one] should think: “The other will accomplish a retakable task, causing disaffection of the constituent elements, of long duration, with great loss and expenditure, small, with a sequel of loss, unsound, contrary to dharma, opposed to the middle and neutral kings, or injuring allies; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the purpose stipulated.",
+  "why": "reviewer (minor): Glossary 7.1."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Or if [one] should think: “The other will accomplish a retakable task, causing disaffection of the constituent elements, of long duration, with great loss and expenditure, small, with a sequel of loss, unsound, contrary to dharma, opposed to the middle and neutral kings, or injuring allies; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the purpose stipulated.",
+  "new": "Or if [one] should think: “The other will accomplish a retakable task, causing disaffection of the constituent elements, of long duration, with great loss and expenditure, small, with a sequel of loss, unsound, unlawful, opposed to the middle and neutral kings, or injuring allies; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the purpose stipulated.",
+  "why": "reviewer (minor): Glossary 7.5: adharmya = unlawful."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "अथवा यदि सोचे “दूसरा प्रत्यादेय, प्रकृतियों में कोप उत्पन्न करने वाला, दीर्घ काल वाला, महान् क्षय और व्यय वाला, अल्प, अनर्थ के अनुबन्ध वाला, अकल्य, धर्म के विरुद्ध, मध्यम और उदासीन के विरुद्ध, या मित्रों को आघात पहुँचाने वाला कार्य सिद्ध करेगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-प्रयोजन वाली सन्धि को अपनाए।",
+  "new": "अथवा यदि सोचे “दूसरा प्रत्यादेय, प्रकृतियों में कोप उत्पन्न करने वाला, दीर्घ काल वाला, महान् क्षय और व्यय वाला, अल्प, अनर्थ के अनुबन्ध वाला, अकल्य, धर्म-विरुद्ध, मध्यम और उदासीन के विरुद्ध, या मित्रों को आघात पहुँचाने वाला कार्य सिद्ध करेगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-प्रयोजन वाली सन्धि को अपनाए।",
+  "why": "reviewer (minor): Glossary 7.5: धर्म-विरुद्ध."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "अथवा यदि सोचे “दूसरा प्रत्यादेय, प्रकृतियों में कोप उत्पन्न करने वाला, दीर्घ काल वाला, महान् क्षय और व्यय वाला, अल्प, अनर्थ के अनुबन्ध वाला, अकल्य, धर्म-विरुद्ध, मध्यम और उदासीन के विरुद्ध, या मित्रों को आघात पहुँचाने वाला कार्य सिद्ध करेगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-प्रयोजन वाली सन्धि को अपनाए।",
+  "new": "अथवा यदि सोचे “दूसरा प्रत्यादेय, प्रकृतियों में कोप उत्पन्न करने वाला, दीर्घ काल वाला, महान् क्षय और व्यय वाला, अल्प, अनर्थ के अनुबन्ध वाला, अकल्य, धर्म-विरुद्ध, मध्यम और उदासीन के विरुद्ध, या मित्रों को क्षति पहुँचाने वाला कार्य सिद्ध करेगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-प्रयोजन वाली सन्धि को अपनाए।",
+  "why": "reviewer (minor): Glossary 3.20/7.7: upaghātin = injuring (क्षति पहुँचाने वाला); आघात is abhi-√han (7.7)."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "Subject unstated, '[one]'. pratyādeya = retakable and anubandha = sequel (glossary 9.4, 9.7). akalya is obscure (unsound; alternatives unfit, unhealthy), low confidence for that word. adharmya read 'contrary to dharma'. prakṛti-kopaka: kopaka 'provoking' (9.4); read as causing kopa (disaffection) in the constituents. Closing iti carried by the quotation marks.",
+  "new": "Subject unstated, '[one]'. pratyādeya = retakable and anubandha = sequel (glossary 9.4, 9.7). akalya is obscure (unsound; alternatives unfit, unhealthy), low confidence for that word. adharmya = unlawful (glossary 7.5). prakṛti-kopaka: kopaka 'provoking' (9.4); read as causing kopa (disaffection) in the constituents. Closing iti carried by the quotation marks.",
+  "why": "reviewer (minor): Align with glossary 7.5."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "deśa-kālayoḥ",
+  "old": "of region and time",
+  "new": "of place and time",
+  "why": "reviewer (minor): deśa-kāla = place and time (glossary 7.10, 7.8)."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "deśa-kāryayoḥ",
+  "old": "of region and task",
+  "new": "of place and task",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "deśa-kāla-kāryāṇām",
+  "old": "of region, time and task",
+  "new": "of place, time and task",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "In this way, from the fixing of region and time, of time and task, of region and task, and of region, time and task, the stipulated [treaty is] sevenfold.",
+  "new": "In this way, from the fixing of place and time, of time and task, of place and task, and of place, time and task, the stipulated [treaty is] sevenfold.",
+  "why": "reviewer (minor): deśa-kāla = place and time (glossary 7.10)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "इस प्रकार प्रदेश और समय, समय और कार्य, प्रदेश और कार्य, और प्रदेश, समय और कार्य के निर्धारण से परिपणित सात प्रकार का है।",
+  "new": "इस प्रकार देश और समय, समय और कार्य, देश और कार्य, और देश, समय, कार्य के निर्धारण से परिपणित सात प्रकार का है।",
+  "why": "reviewer (minor): देश और काल (glossary 7.10); the three-member dvandva takes commas only (7.7, 7.8); the ca before it stays और."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "The seven: region, time, purpose (units 5-7), the three pairs and the triple named here. The noun 'treaty' is supplied from unit 4 in brackets. Printed 'ca-avasthāpanāt' is a '-' join of two words.",
+  "new": "The seven: place, time, purpose (units 5-7), the three pairs and the triple named here. The noun 'treaty' is supplied from unit 4 in brackets. Printed 'ca-avasthāpanāt' is a '-' join of two words.",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "sva-karmāṇi",
+  "old": "own actions",
+  "new": "own works",
+  "why": "reviewer (minor): Glossary 7.1: karma in sva-karma / para-karma = works (कर्म)."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "para-karmasu",
+  "old": "in the actions of the other",
+  "new": "in the works of the other",
+  "why": "reviewer (minor): Glossary 7.1."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "In that [treaty], having begun even beforehand and having established one's own actions, [one] should attack in the actions of the other.",
+  "new": "In that [treaty], having begun even beforehand and having established one's own works, [one] should attack in the actions of the other.",
+  "why": "reviewer (minor): Glossary 7.1: works."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "In that [treaty], having begun even beforehand and having established one's own works, [one] should attack in the actions of the other.",
+  "new": "In that [treaty], having begun even beforehand and having established one's own works, [one] should attack in the works of the other.",
+  "why": "reviewer (minor): Glossary 7.1: works."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "Subject unstated, '[one]'. karma kept 'action' (also undertakings, works). vikrameta (vi-√kram, 'stride out') read 'attack', as vikrama in unit 3. 'tasmin' read 'in that [treaty]', the unstated noun being bracketed in English only.",
+  "new": "Subject unstated, '[one]'. karma = works (glossary 7.1 sva-karma / para-karma; also undertakings). vikrameta (vi-√kram, 'stride out') read 'attack', as vikrama in unit 3. 'tasmin' read 'in that [treaty]', the unstated noun being bracketed in English only.",
+  "why": "reviewer (minor): Align with glossary 7.1."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "deśa-kāla-kāryāṇām",
+  "old": "of region, time and task",
+  "new": "of place, time and task",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Desiring to outwit an enemy joined with vice (vyasana), haste, disrespect and sloth, or an ignorant one, from not fixing region, time and task, by trust in the treaty “We two are allied”, having found the weak point of the other, [one] should strike: such is the unstipulated [treaty].",
+  "new": "Desiring to outwit an enemy joined with vice (vyasana), haste, disrespect and sloth, or ignorant, from not fixing region, time and task, by trust in the treaty “We two are allied”, having found the weak point of the other, [one] should strike: such is the unstipulated [treaty].",
+  "why": "reviewer (minor): ajña is an adjective of śatrum; \"one\" is an unmarked addition."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "व्यसन, शीघ्रता, अनादर और आलस्य से युक्त अथवा अज्ञ शत्रु को छलने की इच्छा वाला, प्रदेश, समय और कार्य के निर्धारण न करने से, “हम दोनों मिले हुए हैं” — सन्धि के विश्वास से दूसरे का छिद्र पाकर प्रहार करे; यह अपरिपणित है।",
+  "new": "व्यसन, शीघ्रता, अनादर, आलस्य से युक्त अथवा अज्ञ शत्रु को छलने की इच्छा वाला, प्रदेश, समय और कार्य के निर्धारण न करने से, “हम दोनों मिले हुए हैं” — सन्धि के विश्वास से दूसरे का छिद्र पाकर प्रहार करे; यह अपरिपणित है।",
+  "why": "reviewer (minor): Four-member dvandva: commas only (glossary 7.7, 7.8); no ca in the Sanskrit."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "व्यसन, शीघ्रता, अनादर, आलस्य से युक्त अथवा अज्ञ शत्रु को छलने की इच्छा वाला, प्रदेश, समय और कार्य के निर्धारण न करने से, “हम दोनों मिले हुए हैं” — सन्धि के विश्वास से दूसरे का छिद्र पाकर प्रहार करे; यह अपरिपणित है।",
+  "new": "व्यसन, शीघ्रता, अनादर, आलस्य से युक्त अथवा अज्ञ शत्रु को छलने की इच्छा वाला, देश, समय, कार्य के निर्धारण न करने से, “हम दोनों मिले हुए हैं” — सन्धि के विश्वास से दूसरे का छिद्र पाकर प्रहार करे; यह अपरिपणित है।",
+  "why": "reviewer (minor): देश (glossary 7.10); commas only for the three-member dvandva."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "व्यसन, शीघ्रता, अनादर, आलस्य से युक्त अथवा अज्ञ शत्रु को छलने की इच्छा वाला, देश, समय, कार्य के निर्धारण न करने से, “हम दोनों मिले हुए हैं” — सन्धि के विश्वास से दूसरे का छिद्र पाकर प्रहार करे; यह अपरिपणित है।",
+  "new": "व्यसन, शीघ्रता, अनादर, आलस्य से युक्त अथवा अज्ञ शत्रु को छलने की इच्छा वाला, देश, समय, कार्य के निर्धारण न करने से, “हम दोनों संहित हैं” — सन्धि के विश्वास से दूसरे का छिद्र पाकर प्रहार करे; यह अपरिपणित है।",
+  "why": "reviewer (minor): Glossary 7.3: saṃhita = allied (संहित)."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Desiring to outwit an enemy joined with vice (vyasana), haste, disrespect and sloth, or ignorant, from not fixing region, time and task, by trust in the treaty “We two are allied”, having found the weak point of the other, [one] should strike: such is the unstipulated [treaty].",
+  "new": "Desiring to outwit an enemy joined with vice (vyasana), haste, disrespect and sloth, or ignorant, from not fixing place, time and task, by trust in the treaty “We two are allied”, having found the weak point of the other, [one] should strike: such is the unstipulated [treaty].",
+  "why": "reviewer (minor): deśa = place (glossary 7.10)."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Concerning this, there is this.",
+  "new": "In this matter, this is.",
+  "why": "reviewer (minor): Glossary 7.9: tatra-etad bhavati = \"In this matter, this is.\""
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "आक्रमण के: प्रकाश-युद्ध, कूटयुद्ध, मौन युद्ध।",
+  "new": "आक्रमण के: प्रकाश-युद्ध, कूटयुद्ध, तूष्णीं-युद्ध।",
+  "why": "reviewer (minor): Same term is तूष्णीं-युद्ध in unit 41; like प्रकाश-युद्ध and कूटयुद्ध the kind of battle stays a Sanskrit term."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "पहले न हुई सन्धि का साम आदि के द्वारा, अनुबन्धों सहित, अन्वेषण और समान, हीन और श्रेष्ठों का बल के अनुसार स्थापन — यह अकृत को करने की इच्छा है।",
+  "new": "पहले न हुई सन्धि का साम आदि के द्वारा, अनुबन्धों सहित, अन्वेषण और समान, हीन, श्रेष्ठों का बल के अनुसार स्थापन — यह अकृत को करने की इच्छा है।",
+  "why": "reviewer (minor): Three-member dvandva: commas only (glossary 7.7, 7.8)."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "कृत का प्रिय और हित के द्वारा दोनों ओर से परिपालन, और जैसा बातचीत में तय हुआ उस निबन्धन का अनुसरण और रक्षण — “दूसरे से कैसे भेदित न हो” — यह कृत-श्लेषण है।",
+  "new": "कृत का प्रिय और हित के द्वारा दोनों ओर से परिपालन, और जैसा बातचीत में तय हुआ उस निबन्धन का अनुसरण और रक्षण — “दूसरे से कैसे भेदित न हो” — यह कृत को जोड़ना है।",
+  "why": "reviewer (minor): Unit 16 renders kṛta-śleṣaṇa as कृत को जोड़ना; one Hindi rendering for one term."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "दूष्य को छलने के द्वारा दूसरे की अपसन्धेयता को स्थापित करके व्यतिक्रम — यह कृत का विदूषण है।",
+  "new": "दूष्य को छलने के द्वारा दूसरे की अपसन्धेयता को स्थापित करके व्यतिक्रम — यह कृत को दूषित करना है।",
+  "why": "reviewer (minor): Unit 16 renders kṛta-vidūṣaṇa as कृत को दूषित करना."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "“अपने दोष से गया, दूसरे के दोष से आया” — अकारण गया, कारण से आया तर्क करने योग्य है: “मेरे छिद्र को भरेगा, यह निवास इसके योग्य है, दूसरी जगह इसके लोग नहीं रमते, मेरे मित्रों से मिला हुआ है, शत्रुओं से विग्रह में है, लोभी और क्रूर से या शत्रु से मिले हुए दूसरे से उद्विग्न है।”",
+  "new": "“अपने दोष से गया, दूसरे के दोष से आया” — अकारण गया, कारण से आया तर्क करने योग्य है: “मेरे छिद्र को भरेगा, यह निवास इसके योग्य है, दूसरी जगह इसके लोग नहीं रमते, मेरे मित्रों से संहित है, शत्रुओं से विग्रह में है, लोभी और क्रूर से या शत्रु से मिले हुए दूसरे से उद्विग्न है।”",
+  "why": "reviewer (minor): Glossary 7.3: saṃhita = allied (संहित)."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "“अपने दोष से गया, दूसरे के दोष से आया” — अकारण गया, कारण से आया तर्क करने योग्य है: “मेरे छिद्र को भरेगा, यह निवास इसके योग्य है, दूसरी जगह इसके लोग नहीं रमते, मेरे मित्रों से संहित है, शत्रुओं से विग्रह में है, लोभी और क्रूर से या शत्रु से मिले हुए दूसरे से उद्विग्न है।”",
+  "new": "“अपने दोष से गया, दूसरे के दोष से आया” — अकारण गया, कारण से आया तर्क करने योग्य है: “मेरे छिद्र को भरेगा, यह निवास इसके योग्य है, दूसरी जगह इसके लोग नहीं रमते, मेरे मित्रों से संहित है, शत्रुओं से विग्रह में है, लोभी और क्रूर से या शत्रु से संहित दूसरे से उद्विग्न है।”",
+  "why": "reviewer (minor): Glossary 7.3."
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "deśa-laulyam",
+  "old": "greed for a region",
+  "new": "greed for a place",
+  "why": "reviewer (minor): One rendering for deśa through the chapter (place, glossary 7.10)."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "“Loss of what has been done, loss of power, learning being merchandise, despair of hope, greed for a region, distrust, or war with a stronger one — [these are] the ground for abandonment,” say the teachers.",
+  "new": "“Loss of what has been done, loss of power, learning being merchandise, despair of hope, greed for a place, distrust, or war with a stronger one — [these are] the ground for abandonment,” say the teachers.",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "“कृत का नाश, शक्ति की हानि, विद्या का पण्य होना, आशा का निर्वेद, प्रदेश की लोलुपता, अविश्वास या बलवान् से विग्रह परित्याग का स्थान है,” ऐसा आचार्य कहते हैं।",
+  "new": "“कृत का नाश, शक्ति की हानि, विद्या का पण्य होना, आशा का निर्वेद, देश की लोलुपता, अविश्वास या बलवान् से विग्रह परित्याग का स्थान है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): Hindi देश for deśa."
+ },
+ {
+  "n": "30",
+  "field": "notes",
+  "old": "'X iti ācāryāḥ' = “X,” say the teachers (glossary). Several members are obscure and rendered literally: kṛta-praṇāśa (what has been done / the benefit done), vidyā-paṇyatva (learning treated as wares), āśā-nirveda (despair of hope), deśa-laulya (greed, eagerness for a region). The list is the teachers' grounds for abandoning a man who has gone and returned. Low confidence for the members.",
+  "new": "'X iti ācāryāḥ' = “X,” say the teachers (glossary). Several members are obscure and rendered literally: kṛta-praṇāśa (what has been done / the benefit done), vidyā-paṇyatva (learning treated as wares), āśā-nirveda (despair of hope), deśa-laulya (greed, eagerness for a place). The list is the teachers' grounds for abandoning a man who has gone and returned. Low confidence for the members.",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "“भय, अवृत्ति, अमर्ष,” ऐसा कौटिल्य कहते हैं।",
+  "new": "“भय, आजीविका का अभाव, अमर्ष,” ऐसा कौटिल्य कहते हैं।",
+  "why": "reviewer (minor): English says lack of livelihood; a bare Sanskrit form is not a translation."
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "apakārī",
+  "old": "one who harms",
+  "new": "one who does injury",
+  "why": "reviewer (minor): Glossary 7.1: apakāra = injury (अपकार)."
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "para-apakārī",
+  "old": "one who harms the other",
+  "new": "one who does injury to the other",
+  "why": "reviewer (minor): Glossary 7.1."
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "ubhaya-apakārī",
+  "old": "one who harms both",
+  "new": "one who does injury to both",
+  "why": "reviewer (minor): Glossary 7.1."
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "“One who harms here is to be abandoned, one who harms the other is to be allied with, one who harms both is to be reasoned about” — [this is] the same.",
+  "new": "“One who does injury here is to be abandoned, one who does injury to the other is to be allied with, one who does injury to both is to be reasoned about” — [this is] the same.",
+  "why": "reviewer (minor): Glossary 7.1: apakāra = injury."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "स्वामी पर या सिद्ध को या सेना के साथ चलने वाले को आक्रमण कराए, शत्रु के वनों में रखे, या सीमा पर दूसरी ओर से फेंके।",
+  "new": "भर्ता पर या सिद्ध को या सेना के साथ चलने वाले को आक्रमण कराए, शत्रु के वनों में रखे, या सीमा पर दूसरी ओर से फेंके।",
+  "why": "reviewer (minor): Glossary 7.5: bhartṛ = master (भर्ता), kept apart from svāmin."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "भर्ता पर या सिद्ध को या सेना के साथ चलने वाले को आक्रमण कराए, शत्रु के वनों में रखे, या सीमा पर दूसरी ओर से फेंके।",
+  "new": "भर्ता पर या सिद्ध को या सेना के साथ चलने वाले को आक्रमण कराए, शत्रु के वनों में रखे, या सीमान्त पर दूसरी ओर से फेंके।",
+  "why": "reviewer (minor): Glossary 7.10: pratyanta = frontier (सीमान्त)."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "[One] should make [him] wares, unaccomplished or accomplished, enveloped by him; through the fault of that very one, [himself] not to be tainted, because of the other's being one to be allied with.",
+  "new": "[One] should make [him] wares, either unaccomplished or accomplished, enveloped by him; through the fault of that very one, [himself] not to be tainted, because of the other's being one to be allied with.",
+  "why": "reviewer (minor): The first vā is not rendered; correlative vā ... vā = either ... or."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "पण्य बनाए, असिद्ध अथवा सिद्ध, उसके द्वारा आवृत; उसी के दोष से, अदूष्य, दूसरे के सन्धेय होने के कारण से।",
+  "new": "पण्य बनाए, या असिद्ध या सिद्ध, उसके द्वारा आवृत; उसी के दोष से, अदूष्य, दूसरे के सन्धेय होने के कारण से।",
+  "why": "reviewer (minor): Both vā must show: या ... या."
+ },
+ {
+  "n": "36",
+  "field": "notes",
+  "old": "Obscure, low confidence throughout. The two vā are correlative (whether ... or); Hindi has one अथवा. 'tena' and 'tasya' refer to a person not named. adūṣya read as a-dūṣya 'not to be tainted' (with the glossary sense of dūṣya, 'the treasonable', it would be 'the non-treasonable'). saṃvṛta 'enveloped, covered' (also 'concealed'). para-sandheya-kāraṇāt: kāraṇa 'cause, reason'.",
+  "new": "Obscure, low confidence throughout. The two vā are correlative (either ... or); English 'either ... or', Hindi 'या ... या'. 'tena' and 'tasya' refer to a person not named. adūṣya read as a-dūṣya 'not to be tainted' (with the glossary sense of dūṣya, 'the treasonable', it would be 'the non-treasonable'). saṃvṛta 'enveloped, covered' (also 'concealed'). para-sandheya-kāraṇāt: kāraṇa 'cause, reason'.",
+  "why": "reviewer (minor): Follows the new rendering."
+ },
+ {
+  "n": "40",
+  "field": "word.gloss",
+  "word": "deśe",
+  "old": "in the region",
+  "new": "in the place",
+  "why": "reviewer (minor): deśa = place."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "Open battle: attack in a specified region and time. Frightening, assault, afflicting [him] in negligence and calamity.",
+  "new": "Open battle: attack in a specified place and time. Frightening, assault, afflicting [him] in negligence and calamity.",
+  "why": "reviewer (minor): deśa-kāla = place and time (glossary 7.10)."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "प्रकाश-युद्ध: निर्दिष्ट प्रदेश और समय में आक्रमण। डराना, आक्रमण, प्रमाद और व्यसन में पीड़ित करना।",
+  "new": "प्रकाश-युद्ध: निर्दिष्ट देश और समय में आक्रमण। डराना, आक्रमण, प्रमाद और व्यसन में पीड़ित करना।",
+  "why": "reviewer (minor): देश और काल (glossary 7.10)."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "प्रकाश-युद्ध: निर्दिष्ट देश और समय में आक्रमण। डराना, आक्रमण, प्रमाद और व्यसन में पीड़ित करना।",
+  "new": "प्रकाश-युद्ध: निर्दिष्ट देश और समय में आक्रमण। डराना, धावा, प्रमाद और व्यसन में पीड़ित करना।",
+  "why": "reviewer (minor): vikrama is आक्रमण (glossary 7.8) in the same verse; give avaskanda a different Hindi word so the two stay apart."
+ },
+ {
+  "n": "40",
+  "field": "notes",
+  "old": "The second line is a list with no verb; it presumably names the parts of treacherous warfare (kūṭa-yuddha, unit 41), but the unit does not say so. Hindi uses आक्रमण for both vikrama and avaskanda (glossary: avaskanda = assault, आक्रमण). pramāda 'negligence'; vyasana 'calamity'; the person afflicted is not stated.",
+  "new": "The second line is a list with no verb; it presumably names the parts of treacherous warfare (kūṭa-yuddha, unit 41), but the unit does not say so. Hindi: vikrama = आक्रमण (glossary 7.8) and avaskanda = धावा here, so the two stay apart (glossary 12.4 gives आक्रमण for avaskanda elsewhere). pramāda 'negligence'; vyasana 'calamity'; the person afflicted is not stated.",
+  "why": "reviewer (minor): Record the split."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "एक स्थान पर त्याग और घात — कूटयुद्ध की मातृका; योग, गुप्तचर और उपजाप के प्रयोजन से — तूष्णीं-युद्ध का लक्षण।",
+  "new": "एक स्थान पर त्याग और हत्या — कूटयुद्ध की मातृका; योग, गुप्तचर और उपजाप के प्रयोजन से — तूष्णीं-युद्ध का लक्षण।",
+  "why": "reviewer (minor): Glossary 4.7: ghāta = killing (हत्या); English already says killing."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "एक स्थान पर त्याग और हत्या — कूटयुद्ध की मातृका; योग, गुप्तचर और उपजाप के प्रयोजन से — तूष्णीं-युद्ध का लक्षण।",
+  "new": "एक स्थान पर त्याग और हत्या — कूटयुद्ध की मातृका; योग, गुप्तचर, उपजाप के प्रयोजन से — तूष्णीं-युद्ध का लक्षण।",
+  "why": "reviewer (minor): Three-member dvandva: commas only (glossary 7.7, 7.8)."
+ },
+ {
+  "n": "41",
+  "field": "notes",
+  "old": "mātṛkā (literally 'mother'; matrix, outline) is obscure and kept untranslated. ekatra 'at one point / in one place' is literal. yoga = secret contrivance (glossary 12.4), gūḍha = secret agent, upajāpa = secret instigation; the compound may also be read 'secret contrivance and secret instigation'. ghāta = killing. The verse refers to the kinds of unit 17.",
+  "new": "mātṛkā (literally 'mother'; matrix, outline) is obscure and kept untranslated. ekatra 'at one point / in one place' is literal. yoga = secret contrivance (glossary 12.4), gūḍha = secret agent, upajāpa = secret instigation; the compound may also be read 'secret contrivance and secret instigation'. ghāta = killing. The verse refers to the kinds of unit 17. The single 'and' of 'abandonment and killing' carries both the dvandva tyāga-ghātau and the following ca.",
+  "why": "reviewer (minor): Say how ca is rendered."
+ }
+]

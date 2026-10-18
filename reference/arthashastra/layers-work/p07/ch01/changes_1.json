@@ -1,0 +1,308 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "“Peace, war, staying quiet, march, seeking refuge and the dual policy are the sixfold policy,” say the teachers.",
+  "new": "“Peace, war, staying quiet, marching, seeking shelter and the dual policy are the sixfold policy,” say the teachers.",
+  "why": "reviewer (minor): glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter; English must follow it."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "“सन्धि, विग्रह, आसन, यान, संश्रय और द्वैधीभाव षाड्गुण्य हैं,” ऐसा आचार्य कहते हैं।",
+  "new": "“सन्धि, विग्रह, आसन, यान, संश्रय, द्वैधीभाव षाड्गुण्य हैं,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): Six-member list: glossary 3.15/3.20 gives commas only in Hindi, no और (no ca in the Sanskrit)."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "sandhi-vigraha-āsana-yāna-saṃśraya-dvaidhī-bhāvāḥ",
+  "old": "peace, war, staying quiet, march, seeking refuge, the dual policy",
+  "new": "peace, war, staying quiet, marching, seeking shelter, the dual policy",
+  "why": "reviewer (minor): Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "vigraha = war (hostility); yāna = march; saṃśraya = seeking refuge (taking shelter). The six are listed as one dvandva. Printed sandhi.vigraha... is one compound with the six members; dvaidhī-bhāva is itself a compound (the dual policy).",
+  "new": "vigraha = war (hostility); yāna = marching; saṃśraya = seeking shelter (glossary 7.2). The six are listed as one dvandva. Printed sandhi.vigraha... is one compound with the six members; dvaidhī-bhāva is itself a compound (the dual policy).",
+  "why": "reviewer (minor): Notes follow the aligned renderings."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "“For the sixfold policy is accomplished by peace and war,” [says he].",
+  "new": "“For the sixfold policy is accomplished by peace and war.”",
+  "why": "reviewer (error): Added \"[says he]\" is an unsupported speaker supply; the iti closes a quotation continued from unit 3 and is carried by the quotation marks (glossary 3.15/3.8: no rendering of a bare closing iti; do not flag quotes continued in neighbouring units)."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "The speaker is the same Vatavyadhi of unit 3; 'says he' is supplied in brackets in English only, as the Sanskrit has only the closing iti. sampadyate = comes about / is accomplished.",
+  "new": "The quotation continues the view of unit 3 (the speaker is named there, not here); the closing iti is carried by the quotation marks. sampadyate = comes about / is accomplished.",
+  "why": "reviewer (minor): Note must no longer say 'says he' is supplied."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "sampadyate",
+  "old": "3 sg. pres. pass. sam-√pad",
+  "new": "3 sg. pres. mid. sam-√pad",
+  "why": "reviewer (minor): sam-√pad (class 4) is a regular middle verb, not a passive; \"pres. pass.\" is a wrong label."
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "etad",
+  "old": "etad",
+  "new": "etat",
+  "why": "reviewer (minor): w must be the dictionary form with final-consonant sandhi undone (etat, nom./acc. sg. n.), as done for parasmāt, avasthā-bhedāt (glossary 5.4: brūyāt not brūyād)."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Indifference is staying quiet.",
+  "new": "Neglect is staying quiet.",
+  "why": "reviewer (minor): glossary 7.4 (settled): upekṣaṇa = neglect (उपेक्षण)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "उपेक्षा आसन है।",
+  "new": "उपेक्षण आसन है।",
+  "why": "reviewer (minor): glossary 7.4: Hindi उपेक्षण."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "upekṣaṇam",
+  "old": "indifference",
+  "new": "neglect",
+  "why": "reviewer (minor): Gloss follows glossary 7.4."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "upekṣaṇa = disregard, neglect; rendered 'indifference'.",
+  "new": "upekṣaṇa = disregard, neglect; rendered 'neglect' (glossary 7.4).",
+  "why": "reviewer (minor): Notes follow the aligned rendering."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Heaping up is march.",
+  "new": "Heaping up is marching.",
+  "why": "reviewer (minor): glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "yānam",
+  "old": "march",
+  "new": "marching",
+  "why": "reviewer (minor): Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Giving over to another is seeking refuge.",
+  "new": "Giving over to another is seeking shelter.",
+  "why": "reviewer (minor): glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "saṃśrayaḥ",
+  "old": "seeking refuge",
+  "new": "seeking shelter",
+  "why": "reviewer (minor): Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "10",
+  "field": "notes",
+  "old": "The object given over is not stated (oneself understood by tradition); not supplied. para = another/the other (king).",
+  "new": "The object given over is not stated ; not supplied. para = another/the other (king).",
+  "why": "reviewer (minor): \"understood by tradition\" imports commentary; the object is simply not stated."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "hīyamānaḥ",
+  "old": "pres. pass. part. √hā",
+  "new": "m. nom. sg. pres. pass. part. √hā",
+  "why": "reviewer (minor): Case/number/gender missing from the participle label."
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "abhyuccīyamānaḥ",
+  "old": "pres. pass. part. abhi-ud-√ci",
+  "new": "m. nom. sg. pres. pass. part. abhi-ud-√ci",
+  "why": "reviewer (minor): Case/number/gender missing from the participle label."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "“न दूसरा मुझे हानि पहुँचाने में समर्थ है, न मैं दूसरे को हानि पहुँचाने में,” — आसन में रहे।",
+  "new": "“न दूसरा मुझे हानि पहुँचाने में समर्थ है, न मैं दूसरे को हानि पहुँचाने में,” आसन में रहे।",
+  "why": "reviewer (minor): Stray dash before the verb; no dash in the Sanskrit or English (iti is carried by the quotation marks)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "[One] lacking power should seek refuge.",
+  "new": "[One] lacking power should seek shelter.",
+  "why": "reviewer (minor): glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter (saṃśraya)."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "saṃśrayeta",
+  "old": "should seek refuge",
+  "new": "should seek shelter",
+  "why": "reviewer (minor): Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "सहायक से साध्य कार्य में द्वैधीभाव अपनाए।",
+  "new": "सहायता से साध्य कार्य में द्वैधीभाव अपनाए।",
+  "why": "reviewer (minor): sahāya is rendered \"help\" in English and gloss; सहायक (helper) is a different word."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "उनमें अथवा जिस गुण में स्थित देखे, “यहाँ स्थित रहकर मैं अपने दुर्ग-सेतु-कर्म, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य-वन और हस्ति-वन के कर्मों को चलाने में और दूसरे के इन कर्मों को हानि पहुँचाने में समर्थ होऊँगा,” उसका आश्रय ले।",
+  "new": "उनमें अथवा जिस गुण में स्थित देखे, “यहाँ स्थित मैं अपने दुर्ग-सेतु-कर्म, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य-वन और हस्ति-वन के कर्मों को चलाने में और दूसरे के इन कर्मों को हानि पहुँचाने में समर्थ होऊँगा,” उसका आश्रय ले।",
+  "why": "reviewer (minor): iha-sthaḥ is \"standing here\"; \"रहकर\" adds a gerund not in the Sanskrit."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "उनमें अथवा जिस गुण में स्थित देखे, “यहाँ स्थित मैं अपने दुर्ग-सेतु-कर्म, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य-वन और हस्ति-वन के कर्मों को चलाने में और दूसरे के इन कर्मों को हानि पहुँचाने में समर्थ होऊँगा,” उसका आश्रय ले।",
+  "new": "उनमें अथवा जिस गुण में स्थित देखे, “यहाँ स्थित मैं अपने दुर्ग-सेतु-कर्म, वणिक्-पथ, शून्य-निवेश, खान, द्रव्य-वन, हस्ति-वन के कर्मों को चलाने में और दूसरे के इन कर्मों को हानि पहुँचाने में समर्थ होऊँगा,” उसका आश्रय ले।",
+  "why": "reviewer (minor): Six-member list inside the compound: commas only in Hindi (glossary 3.15/3.20); the only ca of the unit is the later \"parasya ca\"."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "durga-setu-karma-vaṇik-patha-śūnya-niveśa-khani-dravya-hasti-vana-karmāṇi",
+  "old": "works of forts, embankments, trade routes, settlements of empty land, mines, produce, elephants, forests",
+  "new": "works of forts and embankments, trade routes, settlements on empty land, mines, produce forests and elephant forests",
+  "why": "reviewer (minor): Gloss lists \"produce, elephants, forests\" separately, contradicting the English, Hindi and the drafter's own note (produce-forest and elephant-forest)."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "अथवा समान काल, फल और उदय वाली वृद्धि में सन्धि अपनाए।",
+  "new": "अथवा समान काल, फल, उदय वाली वृद्धि में सन्धि अपनाए।",
+  "why": "reviewer (minor): Three members, no ca: commas only in Hindi (glossary 3.15/3.20)."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "अथवा समान काल, फल और उदय वाले क्षय में सन्धि अपनाए।",
+  "new": "अथवा समान काल, फल, उदय वाले क्षय में सन्धि अपनाए।",
+  "why": "reviewer (minor): Three members, no ca: commas only in Hindi."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "“अथवा समान काल, फल और उदय वाले स्थान में सन्धि अपनाए,” ऐसा आचार्य कहते हैं।",
+  "new": "“अथवा समान काल, फल, उदय वाले स्थान में सन्धि अपनाए,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): Three members, no ca: commas only in Hindi."
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "“यह स्पष्ट रूप से कहा नहीं गया,” ऐसा कौटिल्य कहते हैं।",
+  "new": "“यह समझाया नहीं गया,” ऐसा कौटिल्य कहते हैं।",
+  "why": "reviewer (minor): \"स्पष्ट रूप से\" (clearly) is an invented sense; Hindi must match the English/gloss \"explained\" (vibhāṣita is obscure here, doubt already in notes)."
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Or if [one] should see: “Standing in peace, with my own works of great fruit I shall injure the other's works; or I shall enjoy my own works of great fruit, or the other's works; or by trust in peace, or by contrivance, upaniṣad and agents, I shall injure the other's works; or easily, with favour, exemption and ease, through abundance of fruit and gain of my own works, I shall cause the people bringing the yoga of the other's works to flow in —\nor the other, allied with an exceedingly strong [one], will obtain injury to his own works; or I shall make long the war of him with whom, attacked by me, he makes peace; or [he] will oppress the country of my hater, of the allied [one] —\nor his country, injured by another, will come to me, then I shall obtain growth in works; or the other, whose undertaking of works has failed [and] who stands in difficulty, might not venture against me in works —\nor I, whose undertaking of works has started from the other side, allied with those two, shall obtain growth in works; or, having made peace with the enemy, I shall break the circle bound by the enemy —\n[and] shall obtain the broken one; or, having supported the enemy by favour of the army, in the desire for the circle I shall cause hatred to be taken; the hated one I shall have killed by that very one,” [one] should adopt growth by peace.",
+  "new": "Or if [one] should see: “Standing in peace, with my own works of great fruit I shall injure the other's works; or I shall enjoy my own works of great fruit, or the other's works; by trust in peace or by contrivance, upaniṣad and agents, I shall injure the other's works; or easily, with favour, exemption and ease, through abundance of fruit and gain of my own works, I shall cause the people bringing the yoga of the other's works to flow in —\nor the other, allied with an exceedingly strong [one], will obtain injury to his own works; or I shall make long the war of him with whom, attacked by me, he makes peace; or [he] will oppress the country of my hater, of the allied [one] —\nor his country, injured by another, will come to me, then I shall obtain growth in works; or the other, whose undertaking of works has failed [and] who stands in difficulty, might not venture against me in works —\nor I, whose undertaking of works has started from the other side, allied with those two, shall obtain growth in works; or, having made peace with the enemy, I shall break the circle bound by the enemy —\n[and] shall obtain the broken one; or, having supported the enemy by favour of the army, in the desire for the circle I shall cause hatred to be taken; the hated one I shall have killed by that very one,” [one] should adopt growth by peace.",
+  "why": "reviewer (error): The line has five vā after yadi vā (mahā-phalāni vā, para-karmāṇi vā, sandhi-viśvāsena vā, sukhaṃ vā ...), but this passage has two English \"or\" for the single vā after sandhi-viśvāsena: one \"or\" is invented."
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Or if [one] should see: “Standing in peace, with my own works of great fruit I shall injure the other's works; or I shall enjoy my own works of great fruit, or the other's works; by trust in peace or by contrivance, upaniṣad and agents, I shall injure the other's works; or easily, with favour, exemption and ease, through abundance of fruit and gain of my own works, I shall cause the people bringing the yoga of the other's works to flow in —\nor the other, allied with an exceedingly strong [one], will obtain injury to his own works; or I shall make long the war of him with whom, attacked by me, he makes peace; or [he] will oppress the country of my hater, of the allied [one] —\nor his country, injured by another, will come to me, then I shall obtain growth in works; or the other, whose undertaking of works has failed [and] who stands in difficulty, might not venture against me in works —\nor I, whose undertaking of works has started from the other side, allied with those two, shall obtain growth in works; or, having made peace with the enemy, I shall break the circle bound by the enemy —\n[and] shall obtain the broken one; or, having supported the enemy by favour of the army, in the desire for the circle I shall cause hatred to be taken; the hated one I shall have killed by that very one,” [one] should adopt growth by peace.",
+  "new": "Or if [one] should see: “Standing in peace, with my own works of great fruit I shall injure the other's works; or I shall enjoy my own works of great fruit, or the other's works; by trust in peace or by contrivance, upaniṣad and agents, I shall injure the other's works; or easily, with favour, exemption and ease, through abundance of fruit and gain of my own works, I shall cause the people bringing the yoga of the other's works to flow in —\nor the other, allied with an exceedingly strong [one], will obtain injury to his own works; or I shall make long the war of him with whom, attacked by me, he makes peace; or [he] will oppress the country of my hater, allied with me —\nor his country, injured by another, will come to me, then I shall obtain growth in works; or the other, whose undertaking of works has failed [and] who stands in difficulty, might not venture against me in works —\nor I, whose undertaking of works has started from the other side, allied with those two, shall obtain growth in works; or, having made peace with the enemy, I shall break the circle bound by the enemy —\n[and] shall obtain the broken one; or, having supported the enemy by favour of the army, in the desire for the circle I shall cause hatred to be taken; the hated one I shall have killed by that very one,” [one] should adopt growth by peace.",
+  "why": "reviewer (error): The word mayā (by/with me) is dropped from the English although the Hindi and the word list have it; saṃhitasya is also not \"of the allied [one]\" without mayā."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "अथवा यदि देखे, “सन्धि में स्थित होकर मैं महाफल वाले अपने कर्मों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा महाफल वाले अपने कर्मों का उपभोग करूँगा, दूसरे के कर्मों का अथवा; सन्धि के विश्वास से अथवा योग, उपनिषद् और प्रणिधियों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा सुखपूर्वक, अनुग्रह, परिहार और सुगमता से युक्त, दूसरे के कर्मों के योग को लाने वाले जन को अपने कर्मों के फल और लाभ की अधिकता से बहा लाऊँगा —\nअथवा अत्यन्त बलवान् के साथ मिला हुआ दूसरा अपने कर्मों की हानि पाएगा; अथवा जिसके साथ, मुझसे विग्रह किया हुआ, वह सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा; अथवा मुझसे मिले हुए मेरे द्वेषी के जनपद को पीड़ित करेगा —\nअथवा दूसरे से पीड़ित उसका जनपद मेरे पास आएगा, तब मैं कर्मों में वृद्धि पाऊँगा; अथवा विफल कर्मारम्भ वाला, विषम स्थिति में स्थित दूसरा कर्मों में मेरे विरुद्ध पराक्रम न करे —\nदूसरे की ओर से जिसके कर्मों का आरम्भ हो चुका है, अथवा उन दोनों के साथ मिला हुआ मैं कर्मों में वृद्धि पाऊँगा; अथवा शत्रु से बँधे मण्डल को, शत्रु के साथ सन्धि करके, तोड़ूँगा —\nटूटे हुए को पाऊँगा; अथवा सेना के अनुग्रह से शत्रु को सहारा देकर मण्डल पाने की इच्छा में विद्वेष ग्रहण कराऊँगा, विद्वेष किए गए को उसी से मरवाऊँगा,” सन्धि से वृद्धि का आश्रय ले।",
+  "new": "अथवा यदि देखे, “सन्धि में स्थित होकर मैं महाफल वाले अपने कर्मों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा महाफल वाले अपने कर्मों का उपभोग करूँगा, दूसरे के कर्मों का अथवा; सन्धि के विश्वास से अथवा योग, उपनिषद् और प्रणिधियों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा सुखपूर्वक, अनुग्रह, परिहार और सुगमता से युक्त, दूसरे के कर्मों के योग को लाने वाले जन को अपने कर्मों के फल और लाभ की अधिकता से बहा लाऊँगा —\nअथवा अत्यन्त बलवान् के साथ मिला हुआ दूसरा अपने कर्मों की हानि पाएगा; अथवा जिसके साथ, मुझसे विग्रह किया हुआ, सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा; अथवा मुझसे मिले हुए मेरे द्वेषी के जनपद को पीड़ित करेगा —\nअथवा दूसरे से पीड़ित उसका जनपद मेरे पास आएगा, तब मैं कर्मों में वृद्धि पाऊँगा; अथवा विफल कर्मारम्भ वाला, विषम स्थिति में स्थित दूसरा कर्मों में मेरे विरुद्ध पराक्रम न करे —\nदूसरे की ओर से जिसके कर्मों का आरम्भ हो चुका है, अथवा उन दोनों के साथ मिला हुआ मैं कर्मों में वृद्धि पाऊँगा; अथवा शत्रु से बँधे मण्डल को, शत्रु के साथ सन्धि करके, तोड़ूँगा —\nटूटे हुए को पाऊँगा; अथवा सेना के अनुग्रह से शत्रु को सहारा देकर मण्डल पाने की इच्छा में विद्वेष ग्रहण कराऊँगा, विद्वेष किए गए को उसी से मरवाऊँगा,” सन्धि से वृद्धि का आश्रय ले।",
+  "why": "reviewer (error): Unmarked added pronoun वह (no subject pronoun in the Sanskrit)."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "अथवा यदि देखे, “सन्धि में स्थित होकर मैं महाफल वाले अपने कर्मों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा महाफल वाले अपने कर्मों का उपभोग करूँगा, दूसरे के कर्मों का अथवा; सन्धि के विश्वास से अथवा योग, उपनिषद् और प्रणिधियों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा सुखपूर्वक, अनुग्रह, परिहार और सुगमता से युक्त, दूसरे के कर्मों के योग को लाने वाले जन को अपने कर्मों के फल और लाभ की अधिकता से बहा लाऊँगा —\nअथवा अत्यन्त बलवान् के साथ मिला हुआ दूसरा अपने कर्मों की हानि पाएगा; अथवा जिसके साथ, मुझसे विग्रह किया हुआ, सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा; अथवा मुझसे मिले हुए मेरे द्वेषी के जनपद को पीड़ित करेगा —\nअथवा दूसरे से पीड़ित उसका जनपद मेरे पास आएगा, तब मैं कर्मों में वृद्धि पाऊँगा; अथवा विफल कर्मारम्भ वाला, विषम स्थिति में स्थित दूसरा कर्मों में मेरे विरुद्ध पराक्रम न करे —\nदूसरे की ओर से जिसके कर्मों का आरम्भ हो चुका है, अथवा उन दोनों के साथ मिला हुआ मैं कर्मों में वृद्धि पाऊँगा; अथवा शत्रु से बँधे मण्डल को, शत्रु के साथ सन्धि करके, तोड़ूँगा —\nटूटे हुए को पाऊँगा; अथवा सेना के अनुग्रह से शत्रु को सहारा देकर मण्डल पाने की इच्छा में विद्वेष ग्रहण कराऊँगा, विद्वेष किए गए को उसी से मरवाऊँगा,” सन्धि से वृद्धि का आश्रय ले।",
+  "new": "अथवा यदि देखे, “सन्धि में स्थित होकर मैं महाफल वाले अपने कर्मों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा महाफल वाले अपने कर्मों का उपभोग करूँगा, दूसरे के कर्मों का अथवा; सन्धि के विश्वास से अथवा योग, उपनिषद्, प्रणिधियों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा सुखपूर्वक, अनुग्रह, परिहार और सुगमता से युक्त, दूसरे के कर्मों के योग को लाने वाले जन को अपने कर्मों के फल और लाभ की अधिकता से बहा लाऊँगा —\nअथवा अत्यन्त बलवान् के साथ मिला हुआ दूसरा अपने कर्मों की हानि पाएगा; अथवा जिसके साथ, मुझसे विग्रह किया हुआ, सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा; अथवा मुझसे मिले हुए मेरे द्वेषी के जनपद को पीड़ित करेगा —\nअथवा दूसरे से पीड़ित उसका जनपद मेरे पास आएगा, तब मैं कर्मों में वृद्धि पाऊँगा; अथवा विफल कर्मारम्भ वाला, विषम स्थिति में स्थित दूसरा कर्मों में मेरे विरुद्ध पराक्रम न करे —\nदूसरे की ओर से जिसके कर्मों का आरम्भ हो चुका है, अथवा उन दोनों के साथ मिला हुआ मैं कर्मों में वृद्धि पाऊँगा; अथवा शत्रु से बँधे मण्डल को, शत्रु के साथ सन्धि करके, तोड़ूँगा —\nटूटे हुए को पाऊँगा; अथवा सेना के अनुग्रह से शत्रु को सहारा देकर मण्डल पाने की इच्छा में विद्वेष ग्रहण कराऊँगा, विद्वेष किए गए को उसी से मरवाऊँगा,” सन्धि से वृद्धि का आश्रय ले।",
+  "why": "reviewer (minor): Three members: commas only in Hindi."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "अथवा यदि देखे, “सन्धि में स्थित होकर मैं महाफल वाले अपने कर्मों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा महाफल वाले अपने कर्मों का उपभोग करूँगा, दूसरे के कर्मों का अथवा; सन्धि के विश्वास से अथवा योग, उपनिषद्, प्रणिधियों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा सुखपूर्वक, अनुग्रह, परिहार और सुगमता से युक्त, दूसरे के कर्मों के योग को लाने वाले जन को अपने कर्मों के फल और लाभ की अधिकता से बहा लाऊँगा —\nअथवा अत्यन्त बलवान् के साथ मिला हुआ दूसरा अपने कर्मों की हानि पाएगा; अथवा जिसके साथ, मुझसे विग्रह किया हुआ, सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा; अथवा मुझसे मिले हुए मेरे द्वेषी के जनपद को पीड़ित करेगा —\nअथवा दूसरे से पीड़ित उसका जनपद मेरे पास आएगा, तब मैं कर्मों में वृद्धि पाऊँगा; अथवा विफल कर्मारम्भ वाला, विषम स्थिति में स्थित दूसरा कर्मों में मेरे विरुद्ध पराक्रम न करे —\nदूसरे की ओर से जिसके कर्मों का आरम्भ हो चुका है, अथवा उन दोनों के साथ मिला हुआ मैं कर्मों में वृद्धि पाऊँगा; अथवा शत्रु से बँधे मण्डल को, शत्रु के साथ सन्धि करके, तोड़ूँगा —\nटूटे हुए को पाऊँगा; अथवा सेना के अनुग्रह से शत्रु को सहारा देकर मण्डल पाने की इच्छा में विद्वेष ग्रहण कराऊँगा, विद्वेष किए गए को उसी से मरवाऊँगा,” सन्धि से वृद्धि का आश्रय ले।",
+  "new": "अथवा यदि देखे, “सन्धि में स्थित होकर मैं महाफल वाले अपने कर्मों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा महाफल वाले अपने कर्मों का उपभोग करूँगा, दूसरे के कर्मों का अथवा; सन्धि के विश्वास से अथवा योग, उपनिषद्, प्रणिधियों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा सुखपूर्वक, अनुग्रह, परिहार, सुगमता से युक्त, दूसरे के कर्मों के योग को लाने वाले जन को अपने कर्मों के फल और लाभ की अधिकता से बहा लाऊँगा —\nअथवा अत्यन्त बलवान् के साथ मिला हुआ दूसरा अपने कर्मों की हानि पाएगा; अथवा जिसके साथ, मुझसे विग्रह किया हुआ, सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा; अथवा मुझसे मिले हुए मेरे द्वेषी के जनपद को पीड़ित करेगा —\nअथवा दूसरे से पीड़ित उसका जनपद मेरे पास आएगा, तब मैं कर्मों में वृद्धि पाऊँगा; अथवा विफल कर्मारम्भ वाला, विषम स्थिति में स्थित दूसरा कर्मों में मेरे विरुद्ध पराक्रम न करे —\nदूसरे की ओर से जिसके कर्मों का आरम्भ हो चुका है, अथवा उन दोनों के साथ मिला हुआ मैं कर्मों में वृद्धि पाऊँगा; अथवा शत्रु से बँधे मण्डल को, शत्रु के साथ सन्धि करके, तोड़ूँगा —\nटूटे हुए को पाऊँगा; अथवा सेना के अनुग्रह से शत्रु को सहारा देकर मण्डल पाने की इच्छा में विद्वेष ग्रहण कराऊँगा, विद्वेष किए गए को उसी से मरवाऊँगा,” सन्धि से वृद्धि का आश्रय ले।",
+  "why": "reviewer (minor): Three members: commas only in Hindi."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "अथवा यदि देखे, “सन्धि में स्थित होकर मैं महाफल वाले अपने कर्मों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा महाफल वाले अपने कर्मों का उपभोग करूँगा, दूसरे के कर्मों का अथवा; सन्धि के विश्वास से अथवा योग, उपनिषद्, प्रणिधियों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा सुखपूर्वक, अनुग्रह, परिहार, सुगमता से युक्त, दूसरे के कर्मों के योग को लाने वाले जन को अपने कर्मों के फल और लाभ की अधिकता से बहा लाऊँगा —\nअथवा अत्यन्त बलवान् के साथ मिला हुआ दूसरा अपने कर्मों की हानि पाएगा; अथवा जिसके साथ, मुझसे विग्रह किया हुआ, सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा; अथवा मुझसे मिले हुए मेरे द्वेषी के जनपद को पीड़ित करेगा —\nअथवा दूसरे से पीड़ित उसका जनपद मेरे पास आएगा, तब मैं कर्मों में वृद्धि पाऊँगा; अथवा विफल कर्मारम्भ वाला, विषम स्थिति में स्थित दूसरा कर्मों में मेरे विरुद्ध पराक्रम न करे —\nदूसरे की ओर से जिसके कर्मों का आरम्भ हो चुका है, अथवा उन दोनों के साथ मिला हुआ मैं कर्मों में वृद्धि पाऊँगा; अथवा शत्रु से बँधे मण्डल को, शत्रु के साथ सन्धि करके, तोड़ूँगा —\nटूटे हुए को पाऊँगा; अथवा सेना के अनुग्रह से शत्रु को सहारा देकर मण्डल पाने की इच्छा में विद्वेष ग्रहण कराऊँगा, विद्वेष किए गए को उसी से मरवाऊँगा,” सन्धि से वृद्धि का आश्रय ले।",
+  "new": "अथवा यदि देखे, “सन्धि में स्थित होकर मैं महाफल वाले अपने कर्मों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा महाफल वाले अपने कर्मों का उपभोग करूँगा, दूसरे के कर्मों का अथवा; सन्धि के विश्वास से अथवा योग, उपनिषद्, प्रणिधियों से दूसरे के कर्मों को हानि पहुँचाऊँगा; अथवा सुखपूर्वक, अनुग्रह, परिहार, सुगमता से युक्त, दूसरे के कर्मों के योग को लाने वाले जन को अपने कर्मों के फल और लाभ की अधिकता से बहा लाऊँगा —\nअथवा अत्यन्त बलवान् के साथ मिला हुआ दूसरा अपने कर्मों की हानि पाएगा; अथवा जिसके साथ, मुझसे विग्रह किया हुआ, सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा; अथवा मुझसे मिले हुए मेरे द्वेषी के जनपद को पीड़ित करेगा —\nअथवा दूसरे से आहत उसका जनपद मेरे पास आएगा, तब मैं कर्मों में वृद्धि पाऊँगा; अथवा विफल कर्मारम्भ वाला, विषम स्थिति में स्थित दूसरा कर्मों में मेरे विरुद्ध पराक्रम न करे —\nदूसरे की ओर से जिसके कर्मों का आरम्भ हो चुका है, अथवा उन दोनों के साथ मिला हुआ मैं कर्मों में वृद्धि पाऊँगा; अथवा शत्रु से बँधे मण्डल को, शत्रु के साथ सन्धि करके, तोड़ूँगा —\nटूटे हुए को पाऊँगा; अथवा सेना के अनुग्रह से शत्रु को सहारा देकर मण्डल पाने की इच्छा में विद्वेष ग्रहण कराऊँगा, विद्वेष किए गए को उसी से मरवाऊँगा,” सन्धि से वृद्धि का आश्रय ले।",
+  "why": "reviewer (minor): upahata is rendered आहत in unit 33 and upahan as हानि पहुँचाना; पीड़ित belongs to pīḍayiṣyati one line earlier. Keep the roots apart."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "अथवा यदि देखे, “मेरा जनपद अधिकतर आयुधीय या अधिकतर श्रेणी-सैन्य वाला, अथवा पर्वत, वन, नदी, दुर्ग और एक द्वार की रक्षा वाला, दूसरे के आक्रमण को रोकने में समर्थ होगा; अथवा देश के अन्त में असह्य दुर्ग का आश्रय लेकर मैं दूसरे के कर्मों को हानि पहुँचाने में समर्थ होऊँगा —\nअथवा व्यसन और पीड़ा से आहत उत्साह वाला, जिसके कर्मों की हानि का समय आ गया है, दूसरा; अथवा विग्रह किए गए के अन्य ओर से मैं जनपद को हटा ले जाने में समर्थ होऊँगा,” विग्रह में स्थित वृद्धि का आश्रय ले।",
+  "new": "अथवा यदि देखे, “मेरा जनपद अधिकतर आयुधीय या अधिकतर श्रेणी-सैन्य वाला, अथवा पर्वत, वन, नदी, दुर्ग, एक द्वार की रक्षा वाला, दूसरे के आक्रमण को रोकने में समर्थ होगा; अथवा देश के अन्त में असह्य दुर्ग का आश्रय लेकर मैं दूसरे के कर्मों को हानि पहुँचाने में समर्थ होऊँगा —\nअथवा व्यसन और पीड़ा से आहत उत्साह वाला, जिसके कर्मों की हानि का समय आ गया है, दूसरा; अथवा विग्रह किए गए के अन्य ओर से मैं जनपद को हटा ले जाने में समर्थ होऊँगा,” विग्रह में स्थित वृद्धि का आश्रय ले।",
+  "why": "reviewer (minor): Five-member list: commas only in Hindi."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "Or if [one] should think: “The injury to the enemy's works is to be accomplished by march, and I am [one] with the protection of my own works arranged,” [one] should adopt growth by march.",
+  "new": "Or if [one] should think: “The injury to the enemy's works is to be accomplished by marching, and I am [one] with the protection of my own works arranged,” [one] should adopt growth by march.",
+  "why": "reviewer (minor): glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "Or if [one] should think: “The injury to the enemy's works is to be accomplished by marching, and I am [one] with the protection of my own works arranged,” [one] should adopt growth by march.",
+  "new": "Or if [one] should think: “The injury to the enemy's works is to be accomplished by marching, and I am [one] with the protection of my own works arranged,” [one] should adopt growth by marching.",
+  "why": "reviewer (minor): glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "35",
+  "field": "word.gloss",
+  "word": "yāna-sādhyaḥ",
+  "old": "to be accomplished by march",
+  "new": "to be accomplished by marching",
+  "why": "reviewer (minor): Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "35",
+  "field": "word.gloss",
+  "word": "yānena",
+  "old": "by march",
+  "new": "by marching",
+  "why": "reviewer (minor): Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "इस प्रकार इन छह गुणों से प्रकृति-मण्डल में स्थित कर्मों में क्षय से स्थान और स्थान से वृद्धि की खोज करे।",
+  "new": "इस प्रकार इन छह गुणों से प्रकृति-मण्डल में स्थित, कर्मों में क्षय से स्थान और स्थान से वृद्धि की खोज करे।",
+  "why": "reviewer (minor): Without a comma, \"स्थित कर्मों में\" reads as works situated in the circle; sthitaḥ qualifies the subject and karmasu is the locative of the seeking."
+ }
+]

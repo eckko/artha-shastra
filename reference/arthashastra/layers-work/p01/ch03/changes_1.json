@@ -1,0 +1,203 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The Sāma, Ṛg and Yajur Vedas [are] three, the triad (trayī).",
+  "new": "The Sāma, Ṛg and Yajur Vedas [are] three, the triple Veda (trayī).",
+  "why": "reviewer (minor): Glossary (1.2): trayī = the triple Veda, not 'the triad'"
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "trayī",
+  "old": "the triad (trayī)",
+  "new": "the triple Veda (trayī)",
+  "why": "reviewer (minor): Glossary (1.2): trayī = the triple Veda, not 'the triad'"
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "Verbless; the copula is supplied in brackets in English only. trayī 'the triad' is the name of the group of the three Vedas; the text does not say more here.",
+  "new": "Verbless; the copula is supplied in brackets in English only. trayī 'the triple Veda' is the name of the group of the three Vedas; the text does not say more here.",
+  "why": "reviewer (minor): Glossary (1.2): trayī = the triple Veda, not 'the triad'"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "शिक्षा, कल्प, व्याकरण, निरुक्त, छन्दोविचिति, ज्योतिष — और अंग।",
+  "new": "शिक्षा, कल्प, व्याकरण, निरुक्त, छन्दोविचिति, ज्योतिष — और ये अंग हैं।",
+  "why": "reviewer (minor): Closing 'iti X' label is rendered 'such are X' per glossary (3.7, 7.4: ये X हैं), not dropped; ca kept"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Śikṣā (phonetics), kalpa (ritual), grammar, nirukta (etymology), the investigation of metres, jyotiṣa (astronomy) — and [these are] the limbs.",
+  "new": "Śikṣā (phonetics), kalpa (ritual), grammar, nirukta (etymology), the investigation of metres, jyotiṣa (astronomy) — and such are the limbs.",
+  "why": "reviewer (minor): iti was dropped and a bracketed '[these are]' invented; glossary: closing 'iti X' = Such are X"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "iti closes the list of six names and is not rendered; ca 'and' joins 'the limbs' to the preceding sentence, so the construction is loose and the translation keeps it literal (Hindi has no copula). The six names are kept with short literal glosses; the precise sense of each (e.g. chandas-viciti, kalpa) is not argued here. aṅga is 'limb' (of the Vedas is understood, not stated).",
+  "new": "iti closes the list of six names and is rendered as the closing label 'such are' (glossary: closing 'iti X' = Such are X), with ca 'and' joining it to the preceding sentence; the construction is loose, so the translation stays literal. The six names are kept with short literal glosses; the precise sense of each (e.g. chandas-viciti, kalpa) is not argued here. aṅga is 'limb' (of the Vedas is understood, not stated).",
+  "why": "reviewer (minor): Notes said iti is not rendered; now rendered"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "This dharma of the triad (trayī-dharma) [is] helpful, through the establishing of [their] own dharma of the four varṇas and of the āśramas.",
+  "new": "This dharma of the triple Veda (trayī-dharma) [is] beneficial, through the establishing of [their] own dharma of the four varṇas and of the āśramas.",
+  "why": "reviewer (minor): trayī = triple Veda (1.2); aupakārika = beneficial (1.4 aupakārikī)"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "यह त्रयी-धर्म चार वर्णों के और आश्रमों के अपने धर्म की स्थापना से उपकारक।",
+  "new": "यह त्रयी-धर्म चार वर्णों के और आश्रमों के अपने धर्म की स्थापना से उपकारी।",
+  "why": "reviewer (minor): Align with 1.4 aupakārika = beneficial (उपकारी)"
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "trayī-dharmaḥ",
+  "old": "dharma of the triad",
+  "new": "dharma of the triple Veda",
+  "why": "reviewer (minor): Glossary (1.2): trayī = the triple Veda, not 'the triad'"
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "aupakārikaḥ",
+  "old": "helpful",
+  "new": "beneficial",
+  "why": "reviewer (minor): Glossary (1.4): aupakārikī = beneficial"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "ब्राह्मण का अपना धर्म अध्ययन, अध्यापन, यजन, याजन, दान और प्रतिग्रह।",
+  "new": "ब्राह्मण का अपना धर्म अध्ययन, अध्यापन, यजन, याजन, दान, प्रतिग्रह।",
+  "why": "reviewer (minor): Glossary (1.2): Hindi lists of 3+ take commas only, including a list closed by ca (no और before प्रतिग्रह)"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "क्षत्रिय का अध्ययन, यजन, दान, शस्त्र से आजीविका और प्राणियों की रक्षा।",
+  "new": "क्षत्रिय का अध्ययन, यजन, दान, शस्त्र से जीविका, प्राणियों की रक्षा।",
+  "why": "reviewer (minor): Hindi list of 3+: commas only (1.2); ājīva = जीविका per glossary 4.2"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "वैश्य का अध्ययन, यजन, दान, कृषि और पशुपालन, और वाणिज्य।",
+  "new": "वैश्य का अध्ययन, यजन, दान, कृषि और पशुपालन, वाणिज्य।",
+  "why": "reviewer (minor): Hindi list of 3+: commas only (1.2); the two-member dvandva keeps और"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "शूद्र का द्विजातियों की शुश्रूषा, वार्ता, और कारु और कुशीलव का कर्म।",
+  "new": "शूद्र का द्विजातियों की शुश्रूषा, वार्ता, कारु और कुशीलव का कर्म।",
+  "why": "reviewer (minor): Hindi list of 3+: commas only (1.2); stray comma-और removed"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Of the śūdra [are] service of the twice-born, economic activity (vārttā), and the work of artisans and kuśīlavas.",
+  "new": "Of the śūdra [are] service of the twice-born, economic activity (vārttā), and the works of artisans and kuśīlavas.",
+  "why": "reviewer (minor): karma = works in Book 1 (task convention)"
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "kāru-kuśīlava-karma",
+  "old": "work of artisans and kuśīlavas",
+  "new": "works of artisans and kuśīlavas",
+  "why": "reviewer (minor): karma = works"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "Verbless; copula bracketed in English. śuśrūṣā: glossary 3.3 has 'obedience' for the wife's duty; here 'service' of the twice-born is the natural rendering, Hindi keeps शुश्रूषा, a person may align. kuśīlava kept untranslated (glossary); karma = work (works of artisans and kuśīlavas). kāru = artisan (glossary).",
+  "new": "Verbless; copula bracketed in English. śuśrūṣā: glossary 3.3 has 'obedience' for the wife's duty; here 'service' of the twice-born is the natural rendering, Hindi keeps शुश्रूषा, a person may align. kuśīlava kept untranslated (glossary); karma = works (the works of artisans and kuśīlavas). kāru = artisan (glossary).",
+  "why": "reviewer (minor): karma = works"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "Verbless; copula bracketed in English. śuśrūṣā: glossary 3.3 has 'obedience' for the wife's duty; here 'service' of the twice-born is the natural rendering, Hindi keeps शुश्रूषा, a person may align. kuśīlava kept untranslated (glossary); karma = works (the works of artisans and kuśīlavas). kāru = artisan (glossary).",
+  "new": "Verbless; copula bracketed in English. śuśrūṣā: glossary 3.3 has 'obedience' for the wife's duty; here, for the śūdra's duty toward the twice-born, 'service' is kept (Book 1 decision, glossary line 1.3); Hindi keeps शुश्रूषा. kuśīlava kept untranslated (glossary); karma = works (the works of artisans and kuśīlavas). kāru = artisan (glossary).",
+  "why": "reviewer (minor): Decide the śuśrūṣā doubt"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "गृहस्थ का अपने धर्म से आजीविका, तुल्यों के साथ, असमान ऋषियों वालों के साथ विवाह, ऋतु में गमन, देव, पितृ, अतिथि की पूजा, भृत्यों के प्रति त्याग और शेष भोजन।",
+  "new": "गृहस्थ का अपने धर्म से जीविका, तुल्यों के साथ, असमान ऋषियों वालों के साथ विवाह, ऋतु में गमन, देव, पितृ, अतिथि की पूजा, भृत्यों के प्रति त्याग, शेष भोजन।",
+  "why": "reviewer (minor): Hindi list: commas only, no final और (1.2); ājīva = जीविका (4.2)"
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Verbless; copula bracketed in English. tulyaiḥ and asamāna-ṛṣibhiḥ are two instrumentals with no ca between them, so they are not joined (the sense 'with equals who have different sages' is possible but not stated). asamāna-ṛṣi = not having the same sage(s), literal; the lineage sense (gotra/pravara) is not imported. ṛtu-gāmitva = 'going in the season' (literal); what season and whom is not stated. tyāga with locative bhṛtyeṣu: literal 'giving up / giving among servants'; 'liberality' is a possible sense; bhṛtya = servant/dependant. pitṛ = fathers (ancestors possible). Hindi has commas for the dvandva of three, with ca = और before the last item.",
+  "new": "Verbless; copula bracketed in English. tulyaiḥ and asamāna-ṛṣibhiḥ are two instrumentals with no ca between them, so they are not joined (the sense 'with equals who have different sages' is possible but not stated). asamāna-ṛṣi = not having the same sage(s), literal; the lineage sense (gotra/pravara) is not imported. ṛtu-gāmitva = 'going in the season' (literal); what season and whom is not stated. tyāga with locative bhṛtyeṣu: literal 'giving up / giving among servants'; 'liberality' is a possible sense; bhṛtya = servant/dependant. pitṛ = fathers (ancestors possible). Hindi list takes commas only (glossary 1.2), the final ca is carried by the comma.",
+  "why": "reviewer (minor): Notes contradict the 1.2 list rule"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "वानप्रस्थ का ब्रह्मचर्य, भूमि पर शय्या, जटा और अजिन का धारण, अग्निहोत्र और अभिषेक, देवता, पितृ, अतिथि की पूजा और वन्य आहार।",
+  "new": "वानप्रस्थ का ब्रह्मचर्य, भूमि पर शय्या, जटा और अजिन का धारण, अग्निहोत्र और अभिषेक, देवता, पितृ, अतिथि की पूजा, वन्य आहार।",
+  "why": "reviewer (minor): Hindi list: commas only (1.2), final और removed"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "परिव्राजक की जितेन्द्रियता, अनारम्भ, निष्किंचनता, संग का त्याग, भिक्षा-व्रत, अनेक स्थानों पर और वन में निवास, और बाह्य और आभ्यन्तर शुचिता।",
+  "new": "परिव्राजक की जितेन्द्रियता, अनारम्भ, निष्किंचनता, संग का त्याग, भिक्षा-व्रत, अनेक स्थानों पर और वन में निवास, बाह्य और आभ्यन्तर शुचिता।",
+  "why": "reviewer (minor): Hindi list: commas only (1.2), final और before बाह्य removed; the two-member pairs keep और"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "सभी के अहिंसा, सत्य, शुचिता, असूया का अभाव, करुणा और क्षमा।",
+  "new": "सभी के अहिंसा, सत्य, शुचिता, असूया का अभाव, करुणा, क्षमा।",
+  "why": "reviewer (minor): Hindi list: commas only (1.2), final और removed"
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "इसलिए राजा प्राणियों के स्वधर्म को विचलित न कराए। क्योंकि स्वधर्म का संधान करता हुआ मरने के बाद और यहाँ आनन्दित होता है।",
+  "new": "इसलिए राजा प्राणियों के अपने धर्म को विचलित न कराए। क्योंकि अपने धर्म का संधान करता हुआ मरने के बाद और यहाँ आनन्दित होता है।",
+  "why": "reviewer (minor): Hindi must not use the compound स्वधर्म for sva-dharma; 1.4 renders sva-dharma 'अपना धर्म'; consistent with units 5, 9, 14"
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "जिसकी आर्य-मर्यादा व्यवस्थित है, जिसकी वर्ण-आश्रम-स्थिति की गई है, त्रयी से रक्षित लोक प्रसन्न होता है, डूबता नहीं।",
+  "new": "व्यवस्थित आर्य-मर्यादा वाला, की गई वर्ण-आश्रम-स्थिति वाला, त्रयी से रक्षित लोक प्रसन्न होता है, डूबता नहीं।",
+  "why": "reviewer (error): Hindi copula है and relative जिसकी added for bahuvrīhi adjectives; glossary renders bahuvrīhi with वाला and no copula"
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "The world, with the ārya boundary established, with the position of varṇas and āśramas made, protected by the triad, becomes serene, does not sink.",
+  "new": "The world, with the ārya boundary established, with the position of varṇas and āśramas made, protected by the triple Veda, becomes serene, does not sink.",
+  "why": "reviewer (minor): Glossary (1.2): trayī = the triple Veda, not 'the triad'"
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "trayyā",
+  "old": "by the triad",
+  "new": "by the triple Veda",
+  "why": "reviewer (minor): Glossary (1.2): trayī = the triple Veda, not 'the triad'"
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "Both first-line compounds are bahuvrīhi adjectives of lokaḥ. maryādā = boundary, limit; sthiti = standing, position (order). prasīdati: 'becomes clear/serene/gracious'; sīdati: 'sinks, languishes'; medium-high confidence. trayī = the triad of Vedas as in unit 1. The two clauses have no connecting word and are kept asyndetic.",
+  "new": "Both first-line compounds are bahuvrīhi adjectives of lokaḥ. maryādā = boundary, limit; sthiti = standing, position (order). prasīdati: 'becomes clear/serene/gracious'; sīdati: 'sinks, languishes'; medium-high confidence. trayī = the triple Veda as in unit 1. The two clauses have no connecting word and are kept asyndetic.",
+  "why": "reviewer (minor): Glossary (1.2): trayī = the triple Veda, not 'the triad'"
+ }
+]

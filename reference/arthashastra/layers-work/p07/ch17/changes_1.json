@@ -1,0 +1,233 @@
+[
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "sandhiḥ",
+  "old": "treaty",
+  "new": "peace",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "“Peace, treaty, settlement” — [this is] one meaning.",
+  "new": "“Peace (śama), peace (sandhi), settlement (samādhi)” — [this is] one meaning.",
+  "why": "reviewer (error): bare sandhi = peace; both śama and sandhi are then peace, so the Sanskrit terms are shown in brackets in English to keep the three apart."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "Three terms declared synonyms. sandhi = treaty (as in the 7.7 and 12.1 lines of the glossary); the 7.3/7.4 lines give bare sandhi = peace, but here śama is already 'peace', so 'treaty' keeps the three words apart. samādhi: 'settlement' (literally 'putting together'), medium confidence; Hindi uses समाधान because समाधि reads as trance. The iti is carried by the quotation marks.",
+  "new": "Three terms declared synonyms. śama = peace (6.2) and bare sandhi = peace (7.3/7.4), so English shows the Sanskrit words in brackets to keep them apart; Hindi keeps शम and सन्धि. samādhi: 'settlement' (literally 'putting together'), medium confidence; Hindi uses समाधान because समाधि reads as trance. The iti is carried by the quotation marks.",
+  "why": "reviewer (error): Old note says sandhi = treaty; replaced to match the patch."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "sandhiḥ",
+  "old": "treaty",
+  "new": "peace",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "The kings’ coming to trust — “peace, treaty, settlement.”",
+  "new": "The kings’ coming to trust — “peace (śama), peace (sandhi), settlement (samādhi).”",
+  "why": "reviewer (error): bare sandhi = peace (see unit 1)."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "sandhiḥ",
+  "old": "treaty",
+  "new": "peace",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "“Truth or an oath [is] an unstable treaty; a surety or a pratigraha [is] a stable [one],” say the teachers.",
+  "new": "“Truth or an oath [is] an unstable peace; a surety or a pratigraha [is] a stable [one],” say the teachers.",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "pratigrahaḥ",
+  "old": "pratigraha (taking of hostages)",
+  "new": "pratigraha (literally 'receiving')",
+  "why": "reviewer (minor): Gloss carries the hostage sense, which is only inferred from the definition in unit 11; it belongs in notes. Keep the term, literal sense in the gloss."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "sandhiḥ",
+  "old": "treaty",
+  "new": "peace",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Truth or an oath [is] a stable treaty hereafter and here; a surety or a pratigraha, having only here as its purpose, [is] dependent on force.",
+  "new": "Truth or an oath [is] a stable peace hereafter and here; a surety or a pratigraha, having only here as its purpose, [is] dependent on force.",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "pratigrahaḥ",
+  "old": "pratigraha (taking of hostages)",
+  "new": "pratigraha (literally 'receiving')",
+  "why": "reviewer (minor): As unit 3: hostage sense only in notes."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "bala-apekṣaḥ",
+  "old": "dependent on force",
+  "new": "dependent on strength",
+  "why": "reviewer (minor): bala here is strength (Hindi बल), not the army of 8.5; 'force' is vague."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Truth or an oath [is] a stable peace hereafter and here; a surety or a pratigraha, having only here as its purpose, [is] dependent on force.",
+  "new": "Truth or an oath [is] a stable peace hereafter and here; a surety or a pratigraha, having only here as its purpose, [is] dependent on strength.",
+  "why": "reviewer (minor): bala = strength (Hindi बल already); 'force' is vague."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "paratra: literally 'in the other place'; 'hereafter / next world' is the usual sense (medium). iha-artha eva: eva belongs to the compound ('here alone as purpose'). bala: 'force' here; glossary 8.5 has bala = army, which would give 'dependent on an army' (alternative).",
+  "new": "paratra: literally 'in the other place'; 'hereafter / next world' is the usual sense (medium). iha-artha eva: eva belongs to the compound ('here alone as purpose'). bala: 'force' here; glossary 8.5 has bala = army, which would give 'dependent on an army' (alternative). Correction: bala is rendered 'strength' (बल); 'army' (glossary 8.5) is the alternative.",
+  "why": "reviewer (minor): Old note offers force/army."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "sandadhire",
+  "old": "concluded treaty",
+  "new": "made peace",
+  "why": "reviewer (error): sam-√dhā with sandhi-sense: Book 7 uses peace (cf. 7.4 sandhāya = having made peace)."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "“We are allied,” the former kings, true in agreement, concluded treaties by truth.",
+  "new": "“We are allied,” the former kings, true in agreement, made peace by truth.",
+  "why": "reviewer (error): Book 7: peace, not treaty."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "The iti closes the quoted words and is carried by the quotation marks. satya-sandha = 'whose agreement is truth' (true to his word). sandadhire: 'joined, concluded a treaty', medium.",
+  "new": "The iti closes the quoted words and is carried by the quotation marks. satya-sandha = 'whose agreement is truth' (true to his word). sandadhire: 'joined, concluded a treaty', medium. Correction: sandadhire = 'made peace' (Book 7 bare sandhi = peace), not 'concluded a treaty'.",
+  "why": "reviewer (minor): Old note says treaty."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "उसका अतिक्रमण होने पर शपथ से अग्नि, जल, हल की रेखा, प्राकार, ढेला, हाथी का कन्धा, घोड़े की पीठ, रथ का आसन, शस्त्र, रत्न, बीज, गन्ध, रस, सोना और धन को छुआ — “जो शपथ का अतिक्रमण करे, उसे ये मारें और छोड़ दें।”",
+  "new": "उसका अतिक्रमण होने पर शपथ से अग्नि, जल, कूँड़, प्राकार, ढेला, हाथी का कन्धा, घोड़े की पीठ, रथ का आसन, शस्त्र, रत्न, बीज, गन्ध, रस, सोना और धन को छुआ — “जो शपथ का अतिक्रमण करे, उसे ये मारें और छोड़ दें।”",
+  "why": "reviewer (minor): sītā = furrow; \"हल की रेखा\" adds a plough that the Sanskrit does not state."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "उसका अतिक्रमण होने पर शपथ से अग्नि, जल, कूँड़, प्राकार, ढेला, हाथी का कन्धा, घोड़े की पीठ, रथ का आसन, शस्त्र, रत्न, बीज, गन्ध, रस, सोना और धन को छुआ — “जो शपथ का अतिक्रमण करे, उसे ये मारें और छोड़ दें।”",
+  "new": "उसका अतिक्रमण होने पर शपथ से अग्नि, जल, कूँड़, प्राकार, ढेला, हाथी का कन्धा, घोड़े की पीठ, रथ का आसन, शस्त्र, रत्न, बीज, गन्ध, रस, सोना, धन को छुआ — “जो शपथ का अतिक्रमण करे, उसे ये मारें और छोड़ दें।”",
+  "why": "reviewer (error): No ca in the Sanskrit; Hindi dvandva of three or more members takes commas only (glossary 3.15/7.7)."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "kanyām",
+  "old": "daughter",
+  "new": "girl",
+  "why": "reviewer (minor): Glossary 3.5: kanyā = girl in the gloss, daughter only in running English."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "kanyā",
+  "old": "daughter",
+  "new": "girl",
+  "why": "reviewer (minor): Glossary 3.5: kanyā = girl in the gloss."
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "yogaḥ",
+  "old": "joining",
+  "new": "connection",
+  "why": "reviewer (minor): Book 7 (7.9): yoga = connection (जुड़ाव), not \"joining\"."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "Between the wise and the brave, the joining of thought and actions follows the wise who is not brave; the authority of valour [follows] the brave who is not wise.",
+  "new": "Between the wise and the brave, the connection of thought and actions follows the wise who is not brave; the authority of valour [follows] the brave who is not wise.",
+  "why": "reviewer (minor): Align with 7.9 yoga = connection."
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "yoga = joining, application (not the 'acquisition' of 6.2); mati-karmaṇām taken as a dvandva 'of thought and actions' (medium). karma = action. anuvartate not repeated in the second clause.",
+  "new": "yoga = joining, application (not the 'acquisition' of 6.2); mati-karmaṇām taken as a dvandva 'of thought and actions' (medium). karma = action. anuvartate not repeated in the second clause. Correction: yoga = connection, as 7.9; 'application' is the alternative.",
+  "why": "reviewer (minor): Old note says joining."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "sandhim",
+  "old": "treaty",
+  "new": "peace",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Of the one with many sons and the one with one son, the one with many sons, having given one, supported by the rest, transgresses the treaty; not the other.",
+  "new": "Of the one with many sons and the one with one son, the one with many sons, having given one, supported by the rest, transgresses the peace; not the other.",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "śeṣa-pratiṣṭabdhaḥ",
+  "old": "supported by the rest",
+  "new": "propped by the rest",
+  "why": "reviewer (minor): Glossary 7.10: pratiṣṭabdha = propped (टिका हुआ)."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Of the one with many sons and the one with one son, the one with many sons, having given one, supported by the rest, transgresses the peace; not the other.",
+  "new": "Of the one with many sons and the one with one son, the one with many sons, having given one, propped by the rest, transgresses the peace; not the other.",
+  "why": "reviewer (minor): Glossary 7.10: propped."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "बहुत पुत्रों वाले और एक पुत्र वाले में, बहुत पुत्रों वाला एक को देकर, शेष से सहारा पाया हुआ सन्धि का अतिक्रमण करता है, दूसरा नहीं।",
+  "new": "बहुत पुत्रों वाले और एक पुत्र वाले में, बहुत पुत्रों वाला एक को देकर, शेष से टिका हुआ सन्धि का अतिक्रमण करता है, दूसरा नहीं।",
+  "why": "reviewer (minor): Glossary 7.10: propped (टिका हुआ); सहारा is upagraha/upagṛhya."
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "sandhiḥ",
+  "old": "treaty",
+  "new": "peace",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "If the treaty [is] in the giving of a son and all one’s property, [there is] a distinction from the fruit of sons.",
+  "new": "If the peace [is] in the giving of a son and all one’s property, [there is] a distinction from the fruit of sons.",
+  "why": "reviewer (error): Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds."
+ }
+]

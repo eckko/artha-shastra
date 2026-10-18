@@ -1,0 +1,464 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "tvaṃ ca ahaṃ ca",
+     "problem": "ca ... ca is 'both ... and' in English (glossary 7.5).",
+     "fix": "Both you and I have",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "You and I have",
+      "new": "Both you and I have"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "alpa-vyaya-ārambham",
+     "problem": "Locative 'आरम्भ में' (at the start) is not in the Sanskrit; ārambha is the undertaking (notes/English). Added ऐसा/है removed.",
+     "fix": "थोड़े व्यय के आरम्भ वाला दुर्ग",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसके आरम्भ में थोड़ा व्यय है ऐसा दुर्ग",
+      "new": "थोड़े व्यय के आरम्भ वाला दुर्ग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "setu-bandhayoḥ",
+     "problem": "setu and bandha are masculine and the unit agrees with m. śreyān, saha-udakaḥ; 'n.' is wrong.",
+     "fix": "dvandva-compound item; m. gen./loc. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "setu-bandhayoḥ",
+      "field": "gram",
+      "value": "dvandva-compound item; m. gen./loc. du."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "āhārya-udakāt",
+     "problem": "Compared with m. saha-udakaḥ, so m., not n.",
+     "fix": "bahuvrīhi; m. abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "āhārya-udakāt",
+      "field": "gram",
+      "value": "bahuvrīhi; m. abl. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "mahat-sāravat",
+     "problem": "sāra = valuables, Hindi बहुमूल्य (glossary 7.12/unit 22 'अधिक बहुमूल्य'); 'सारवान्' is an unrendered Sanskrit word.",
+     "fix": "बहुमूल्य",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सारवान्",
+      "new": "बहुमूल्य"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "sva-sainya-avaghātinaḥ",
+     "problem": "'मारने' is 'killing'; avaghātin is 'striking down' (English 'strikers-down'); glossary 3.19 keeps √han/ghāta as strike (प्रहार), not kill.",
+     "fix": "अपनी सेना पर प्रहार करने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपनी सेना को मारने वाले",
+      "new": "अपनी सेना पर प्रहार करने वाले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "śreyāṃsaḥ",
+     "problem": "Typo in the Hindi (stray anusvāra).",
+     "fix": "बेहतर;",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बेहतरं;",
+      "new": "बेहतर;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ca after vibhīṣaṇāḥ",
+     "problem": "The text has a single ca (after vibhīṣaṇāḥ, joining the last two predicates); the first 'और' is unmarked.",
+     "fix": "आश्रय, दूसरों",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आश्रय, और दूसरों",
+      "new": "आश्रय, दूसरों"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "vibhīṣaṇāḥ",
+     "problem": "vibhīṣaṇa = frightening; भयंकर = terrible (glossary 5.4 uses it for ghora).",
+     "fix": "डरावने",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भयंकर",
+      "new": "डरावने"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ca after vibhīṣaṇāḥ",
+     "problem": "Only one ca in the Sanskrit; the first 'and' is unmarked (the ca is the 'and' before 'frightening').",
+     "fix": "in battle, hard to overcome",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "in battle, and hard to overcome",
+      "new": "in battle, hard to overcome"
+     }
+    },
+    {
+     "field": "english",
+     "where": "anekaṃ karma",
+     "problem": "aneka is 'many'; 'of many kinds' is an addition.",
+     "fix": "doing many actions",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "doing action of many kinds",
+      "new": "doing many actions"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anekam",
+     "problem": "'of many kinds' adds 'kinds'.",
+     "fix": "many",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "anekam",
+      "field": "gloss",
+      "value": "many"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "eva",
+     "problem": "Glossary 3.14: eva is rendered 'indeed' (ही).",
+     "fix": "but indeed not",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "but certainly not",
+      "new": "but indeed not"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "adurga-mārgām, alpa-vyaya-ārambhām",
+     "problem": "Added ऐसी/हैं and locative 'आरम्भ में' (not in the Sanskrit); bahuvrīhis rendered with 'वाली' as elsewhere.",
+     "fix": "अदुर्गम मार्गों वाली, थोड़े व्यय के आरम्भ वाली खान",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसके मार्ग दुर्गम नहीं हैं ऐसी, जिसके आरम्भ में थोड़ा व्यय है ऐसी खान",
+      "new": "अदुर्गम मार्गों वाली, थोड़े व्यय के आरम्भ वाली खान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "dhātuḥ ... prabhūtam alpa-sāram",
+     "problem": "धातु is feminine in Hindi (का/लेता wrong), and the comma after प्रचुर makes it read as if the mineral were abundant; prabhūtam is the object.",
+     "fix": "चाँदी की धातु थोड़ी बहुमूल्य वस्तुओं वाले प्रचुर को",
+     "severity": "error",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चाँदी का धातु प्रचुर, थोड़ी बहुमूल्य वस्तुओं वाले को",
+      "new": "चाँदी की धातु थोड़ी बहुमूल्य वस्तुओं वाले प्रचुर को"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "grasate",
+     "problem": "Agreement with feminine धातु.",
+     "fix": "निगल लेती है",
+     "severity": "error",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निगल लेता है",
+      "new": "निगल लेती है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "prakṛṣṭa-bhaya-yoniḥ",
+     "problem": "Gloss 'source of great fear' is a tat-puruṣa (yoni = source); 'bahuvrīhi' does not match the gloss.",
+     "fix": "tat-puruṣa; m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "prakṛṣṭa-bhaya-yoniḥ",
+      "field": "gram",
+      "value": "tat-puruṣa; m. nom. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "rūpya-suvarṇa",
+     "problem": "Dvandva members take unbracketed English 'and' (glossary 7.17); the bracket marks a supplied word.",
+     "fix": "silver and gold",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "silver [and] gold",
+      "new": "silver and gold"
+     }
+    },
+    {
+     "field": "w",
+     "where": "sāravattarāḥ",
+     "problem": "-tara is a comparative suffix, not a compound member (glossary 7.8); one word, no hyphen.",
+     "fix": "sāravattarāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "sāravat-tarāḥ",
+      "field": "w",
+      "value": "sāravattarāḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "w",
+     "where": "prabhūtatarā",
+     "problem": "-tara is a suffix (glossary 7.8); one word, no hyphen.",
+     "fix": "prabhūtatarāḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "prabhūta-tarāḥ",
+      "field": "w",
+      "value": "prabhūtatarāḥ"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "whole unit",
+     "problem": "Low is right: the varjāḥ ... ca construction is unclear; the bracketed '[Wares]' is a supplied noun. Alternative reading: 'except the wares of blankets, hides and horses, the wares of conch, diamond, gem, pearl and gold are more abundant in the southern route'. No change made.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ātmanaḥ",
+     "problem": "'अपने का' is not Hindi; ātman = self (स्वयं) per glossary 15.1/5.6.",
+     "fix": "स्वयं का, कर्मों में जानने योग्य",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कर्मों में अपने का जानने योग्य",
+      "new": "स्वयं का, कर्मों में जानने योग्य"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "alpa-vyaya-ārambham, mahā-udayam",
+     "problem": "Locative 'आरम्भ में' and added है/जिसका are not in the Sanskrit; bahuvrīhis as in units 2 and 13.",
+     "fix": "थोड़े व्यय के आरम्भ वाले, महान् उदय वाले, दुर्ग",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसके आरम्भ में थोड़ा व्यय है, जिसका महान् उदय है, दुर्ग",
+      "new": "थोड़े व्यय के आरम्भ वाले, महान् उदय वाले, दुर्ग"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "Opening of the quotation at 'tasmāt' (and the adjectives belonging inside or outside it) is not certain; 'high' is too firm.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ity uktāḥ karma-sandhayaḥ",
+     "problem": "Closing 'ity uktāḥ X' = 'Such are the X stated' / 'ये ... हैं' (glossary 7.3, 7.8).",
+     "fix": "ये कर्म-सन्धियाँ",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऐसी कर्म-सन्धियाँ",
+      "new": "ये कर्म-सन्धियाँ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "uktāḥ",
+     "problem": "Agrees with masculine karma-sandhayaḥ; 'f./m.' is wrong.",
+     "fix": "pp. √vac; m. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "word",
+      "match_w": "uktāḥ",
+      "field": "gram",
+      "value": "pp. √vac; m. nom. pl."
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "Quotation extent (from unit 33) and the Hindi/English of the closing formula are not certain.",
+     "fix": "medium",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "set",
+      "field": "confidence",
+      "value": "medium"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Draft is sound overall: tokens, case labels, ca/vā/eva/hi/tu rendering and the three drafter flags are right (8, 22, 25 kept as flagged); samruddha/samyāna are the e-text's regular m-for-anusvāra habit (Devanagari सम्रुद्ध, सम्यान, 8 raw occurrences), no flag; quotations 11-12 and 33-34 marked across units without a flag is correct (iti closing, glossary 3.17). Also unit 22 English bracketed [and] in a dvandva (7.17). Issues: 5 errors, 22 minor; 26 machine patches (Hindi typo बेहतरं, an unmarked extra 'and' in unit 11, धातु gender and comma in 14, 'आरम्भ में' locative in 2/13/33, -tara written as a hyphenated member, gender labels, confidence of 33/34). No regrouping suggested (29-30, 31-32, 33-34 stay edition units). Hand edits (add/delete word or flag): none."
+}

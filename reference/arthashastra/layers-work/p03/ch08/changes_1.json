@@ -1,0 +1,239 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Disputes about a site [are] those having the neighbours (sāmanta) as their basis.",
+  "new": "Disputes about a site have the neighbours (sāmanta) as their basis.",
+  "why": "reviewer (minor): 'those' is an unmarked added word; the bahuvrīhi predicate needs no relative"
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "वास्तु के विवाद वे हैं जिनका आधार सामन्त है।",
+  "new": "वास्तु के विवाद सामन्त के आधार वाले हैं।",
+  "why": "reviewer (minor): 'वे हैं जिनका' adds a relative construction not in the Sanskrit"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "deśa-bandham",
+  "old": "boundary of a space",
+  "new": "binding of a place",
+  "why": "reviewer (minor): 'boundary of a space' is an interpretive sense; the note claims a literal rendering"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Or, [in the case of] what has not [yet] come into being, having moved away from another's wall by two aratnis or by three steps, [one] should have a deśa-bandha (boundary of a space) made.",
+  "new": "Or, [in the case of] what has not [yet] come into being, having moved away from another's wall by two aratnis or by three steps, [one] should have a deśa-bandha (literally 'place-binding') made.",
+  "why": "reviewer (minor): interpretive gloss in English; make literal as the note says"
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "The closing iti is carried by the quotation marks only; there is no opening quote in the unit, the quoted rule is the whole unit. Predicate not stated (left open with a dash). bhrama is obscure: kept as printed, no sense asserted. ā-nirdaśa-ahāt: 'up to the tenth day' (ā with the ablative; whether the tenth day is included is not settled). kūpa could be 'pit' or 'well'; 'pit' chosen beside udapāna 'well'. sūtikā: a woman who has given birth.",
+  "new": "The closing iti is carried by the quotation marks only; there is no opening quote in the unit, the quoted rule is the whole unit. Predicate not stated (left open with a dash). bhrama is obscure: kept as printed, no sense asserted. ā-nirdaśa-ahāt: 'up to the tenth day' (ā with the ablative; whether the tenth day is included is not settled). kūpa could be 'pit' or 'well'; 'pit' chosen beside udapāna 'well'. sūtikā: a woman who has given birth. TEXT FLAG NEEDED (hand edit): closing 'iti' with no opening quotation or introducing verb in this unit. The opening quotation mark in the Hindi and English is added by the translator; the unit itself is taken as the quoted rule. Whether the rule begins in an earlier unit is not settled.",
+  "why": "reviewer (minor): iti flag must be recorded (patch ops cannot add a text_flag)"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "gṛha-ucitāt",
+  "old": "abl. sg. n.",
+  "new": "n. abl. sg.",
+  "why": "reviewer (minor): gram order inconsistent with the rest of the chunk"
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "ā-nirdaśa-ahāt",
+  "old": "ind. phrase abl. sg.",
+  "new": "m. abl. sg. with ā (up to)",
+  "why": "reviewer (minor): 'ind. phrase abl. sg.' is not a usable tag"
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "Copula supplied. daṇḍa rendered 'fine' in this chunk (cf. sāhasa-daṇḍa in the glossary). 'Transgression of that' refers back to the rule of unit 6 (or the setu rules).",
+  "new": "Copula supplied. daṇḍa with a paṇa figure is rendered 'penalty', as in Book 4; sāhasa-daṇḍa stays 'fine for rashness' (glossary). 'Transgression of that' refers back to the rule of unit 6 (or the setu rules).",
+  "why": "reviewer (minor): glossary fixes daṇḍa = penalty (4.8-4.13), 'fine' only in sāhasa-daṇḍa"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "In transgression of that, the fine is [one] of fifty-four paṇas.",
+  "new": "In transgression of that, the penalty is [one] of fifty-four paṇas.",
+  "why": "reviewer (minor): daṇḍa = penalty (glossary 4.10)"
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): glossary"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "एक पद पीछे हटा हुआ अथवा एक अरत्नि, चक्री-चतुष्पद का स्थान, अग्निष्ठ, उदन्-जर का स्थान, रोचनी अथवा कुट्टनी बनवाए।",
+  "new": "एक पद पीछे हटा हुआ अथवा एक अरत्नि, पहियेवालों और चौपायों का स्थान, अग्निष्ठ, उदन्-जर का स्थान, रोचनी अथवा कुट्टनी बनवाए।",
+  "why": "reviewer (minor): English translates cakri-catuṣpada ('wheeled and four-footed') but Hindi keeps चक्री, which in Hindi means a discus-bearer; inconsistent and misleading"
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "agniṣṭham",
+  "old": "fireplace",
+  "new": "agniṣṭha (literally 'standing in fire')",
+  "why": "reviewer (minor): 'fireplace' is an asserted sense for an obscure word; the note itself calls it tentative"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Receded by one step or by one aratni, [one] should have made a place for the wheeled and the four-footed, an agniṣṭha (fireplace), an udan-jara place, a rocanī or a kuṭṭanī.",
+  "new": "Receded by one step or by one aratni, [one] should have made a place for the wheeled and the four-footed, an agniṣṭha (literally 'standing in fire'), an udan-jara place, a rocanī or a kuṭṭanī.",
+  "why": "reviewer (minor): same: literal only for obscure words"
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "In transgression of that, the fine is [one] of twenty-four paṇas.",
+  "new": "In transgression of that, the penalty is [one] of twenty-four paṇas.",
+  "why": "reviewer (minor): daṇḍa = penalty (glossary 4.10)"
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): glossary"
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "sarva-vāstukayoḥ",
+  "old": "gen. du.",
+  "new": "f. gen. du.",
+  "why": "reviewer (minor): agrees with śālayoḥ (f.)"
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "prākṣiptakayoḥ",
+  "old": "gen. du.",
+  "new": "f. gen. du.",
+  "why": "reviewer (minor): agrees with śālayoḥ (f.)"
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "sarva-vāstuka (literally 'of the whole site') and prākṣiptaka (literally 'thrown in/forward'; possibly pra-ākṣipta) are obscure and left near-literal. kiṣku is a measure of length, kept. kiṣkuḥ antarikā tripadī vā is taken as apposition: the interval is a kiṣku or three steps. The ablative-like vā after prākṣiptakayoḥ joins the two kinds of hall.",
+  "new": "sarva-vāstuka (literally 'of the whole site') and prākṣiptaka (literally 'thrown in/forward'; possibly pra-ākṣipta) are obscure and left near-literal. kiṣku is a measure of length, kept. kiṣkuḥ antarikā tripadī vā is taken as apposition: the interval is a kiṣku or three steps. vā after prākṣiptakayoḥ joins the two kinds of hall.",
+  "why": "reviewer (minor): 'ablative-like vā' is meaningless; vā is an indeclinable"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "khaṇḍa-phulla-artham",
+  "old": "for the sake of the broken and cracked",
+  "new": "for the sake of the broken and burst-open",
+  "why": "reviewer (minor): 'cracked' is not the literal sense of phulla; the note says 'burst-open'"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "[One] should have made, in the interval, a door with an āṇi, of the measure of a kiṣku, for the sake of the broken and the cracked, without sampāta.",
+  "new": "[One] should have made, in the interval, a door with an āṇi, of the measure of a kiṣku, for the sake of the broken and the burst-open, without sampāta.",
+  "why": "reviewer (minor): English contradicts the note's literal 'burst-open'"
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "उसका अतिक्रमण होने पर प्रथम साहस-दण्ड है; प्रतिलोम द्वार-वातायन की बाधा में तथा; राजमार्ग-रथ्याओं को छोड़कर।",
+  "new": "उसका अतिक्रमण होने पर प्रथम साहस-दण्ड है, और प्रतिलोम द्वार-वातायन की बाधा में, राजमार्ग और रथ्याओं को छोड़कर।",
+  "why": "reviewer (minor): clumsy 'तथा;' dangling at the end of a clause; ca should join the clauses"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "For one who damages another's wall with water, the fine is twelve paṇas; in damage by urine and excrement, double.",
+  "new": "For one who damages another's wall with water, the penalty is twelve paṇas; in damage by urine and excrement, double.",
+  "why": "reviewer (minor): daṇḍa = penalty (glossary 4.10)"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): glossary"
+ },
+ {
+  "n": "22",
+  "field": "word.gram",
+  "word": "mūtra-purīṣa-upaghāte",
+  "old": "tat-puruṣa m. loc. sg.",
+  "new": "dvandva-tat-puruṣa m. loc. sg.",
+  "why": "reviewer (minor): compound type omitted for a dvandva inside a tat-puruṣa"
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "upa-√han is rendered 'damage' (literally 'strike at, injure'). 'The fine is' supplied in the second clause as '[the fine is]' implied by dvi-guṇaḥ.",
+  "new": "upa-√han is rendered 'damage' (literally 'strike at, injure'). In the second clause the predicate 'is' is not stated; dvi-guṇaḥ is taken as 'double' (the penalty).",
+  "why": "reviewer (minor): note describes a bracket that the English does not have"
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "The release of the drain [is] when it rains; otherwise, the fine is twelve paṇas.",
+  "new": "The release of the drain [is] when it rains; otherwise, the penalty is twelve paṇas.",
+  "why": "reviewer (minor): daṇḍa = penalty (glossary 4.10)"
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): glossary"
+ },
+ {
+  "n": "25",
+  "field": "notes",
+  "old": "varṣa is taken as 'year'; 'rainy season' is possible. avakraya: hire (glossary 4.1). The compound svayam-abhiprasthita is written svayaṃ.abhiprasthito in the e-text (anusvāra before the dot).",
+  "new": "varṣa is taken as 'year'; 'rainy season' is possible. avakraya: hire (glossary 4.1). The compound svayam-abhiprasthita is written svayaṃ.abhiprasthito in the e-text (anusvāra before the dot). Possible typo (hand edit): 'svayaṃ.abhiprasthito' has ṃ before a vowel inside the compound; regular form would be svayam-abhiprasthitaḥ. Not applied.",
+  "why": "reviewer (minor): unflagged irregular spelling (low priority)"
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Of one who gives no assistance in a common house, of one who obstructs the common [thing] and the use in the house, [there is] a fine of twelve paṇas.",
+  "new": "Of one who gives no assistance in a common house, of one who obstructs the common [thing] and the use in the house, [there is] a penalty of twelve paṇas.",
+  "why": "reviewer (minor): daṇḍa = penalty (glossary 4.10)"
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "fine",
+  "new": "penalty",
+  "why": "reviewer (minor): glossary"
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "Of one who destroys, [the fine is] double that.",
+  "new": "Of one who destroys, [the penalty is] double that.",
+  "why": "reviewer (minor): daṇḍa = penalty"
+ },
+ {
+  "n": "27",
+  "field": "notes",
+  "old": "The object of the destruction is not stated; 'that' is the fine of unit 26.",
+  "new": "The object of the destruction is not stated; 'that' is the penalty of unit 26.",
+  "why": "reviewer (minor): consistency"
+ }
+]

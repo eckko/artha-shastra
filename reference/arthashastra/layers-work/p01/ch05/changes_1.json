@@ -1,0 +1,107 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Therefore the three sciences [are] rooted in the penalty.",
+  "new": "Therefore the three sciences [are] rooted in punishment.",
+  "why": "reviewer (minor): Book 1 reviewers (1.2, 1.4) render daṇḍa as punishment (daṇḍa-nīti = policy of punishment, udyata-daṇḍa = punishment uplifted); keep Book 1 consistent."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "daṇḍa-mūlāḥ",
+  "old": "rooted in the penalty",
+  "new": "rooted in punishment",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "The penalty, rooted in discipline, [is] the bringer of the acquisition and security of living beings.",
+  "new": "Punishment, rooted in discipline, [is] the bringer of the acquisition and security of living beings.",
+  "why": "reviewer (minor): same (daṇḍa = punishment in Book 1)"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "daṇḍaḥ",
+  "old": "penalty",
+  "new": "punishment",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "सुनने की इच्छा, श्रवण, ग्रहण, धारण, विज्ञान, ऊह, अपोह, तत्त्व में लगी हुई बुद्धि वाले को विद्या विनीत करती है, दूसरे को नहीं।",
+  "new": "सुनने की इच्छा, श्रवण, ग्रहण, धारण, समझ, ऊह, अपोह, तत्त्व में लगी हुई बुद्धि वाले को विद्या विनीत करती है, दूसरे को नहीं।",
+  "why": "reviewer (minor): In Hindi विज्ञान means 'science' and clashes with विद्या/science in the same sentence; the gloss is 'understanding'."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "One whose initiation has been performed [should make use of] the triple (trayī) and ānvīkṣikī from the learned, economic activity (vārttā) from the superintendents, daṇḍanīti (policy of the penalty) from speakers and practitioners.",
+  "new": "One whose initiation has been performed [should make use of] the triple Veda (trayī) and ānvīkṣikī from the learned, economic activity (vārttā) from the superintendents, daṇḍanīti (policy of the penalty) from speakers and practitioners.",
+  "why": "reviewer (minor): 1.2 settled trayī = the triple Veda."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "One whose initiation has been performed [should make use of] the triple Veda (trayī) and ānvīkṣikī from the learned, economic activity (vārttā) from the superintendents, daṇḍanīti (policy of the penalty) from speakers and practitioners.",
+  "new": "One whose initiation has been performed [should make use of] the triple Veda (trayī) and ānvīkṣikī from the learned, economic activity (vārttā) from the superintendents, daṇḍanīti (policy of punishment) from speakers and practitioners.",
+  "why": "reviewer (minor): 1.2 settled daṇḍa-nīti = policy of punishment (दण्डनीति)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "सम्पन्न-उपनयन वाला त्रयी और आन्वीक्षिकी शिष्टों से, वार्ता अध्यक्षों से, दण्ड-नीति वक्ताओं और प्रयोक्ताओं से।",
+  "new": "सम्पन्न-उपनयन वाला त्रयी और आन्वीक्षिकी शिष्टों से, वार्ता अध्यक्षों से, दण्डनीति वक्ताओं और प्रयोक्ताओं से।",
+  "why": "reviewer (minor): 1.2 spells दण्डनीति."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "trayīm",
+  "old": "the triple (trayī)",
+  "new": "the triple Veda (trayī)",
+  "why": "reviewer (minor): align with 1.2"
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "daṇḍa-nītim",
+  "old": "policy of the penalty (daṇḍanīti)",
+  "new": "policy of punishment (daṇḍanīti)",
+  "why": "reviewer (minor): align with 1.2"
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "ṣoḍaśāt",
+  "old": "m. abl. sg.",
+  "new": "n. abl. sg. (adj. of varṣāt)",
+  "why": "reviewer (error): Gender inconsistent: ṣoḍaśa agrees with varṣāt (n.), labelled m."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "After this [come] his cow-gift and marriage rite.",
+  "new": "After this [are] his cow-gift and marriage rite.",
+  "why": "reviewer (error): A supplied verb, not a bare copula (glossary 13.2/3.7: only a bracketed copula may be supplied)."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "tat-mūlatvāt",
+  "old": "tat-puruṣa, n. abl. sg.",
+  "new": "bahuvrīhi + abstract -tva, n. abl. sg.",
+  "why": "reviewer (minor): Compound type wrong: tad-mūla is a bahuvrīhi to which -tva is added; not a plain tat-puruṣa."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "itivṛttam",
+  "old": "itivṛtta (what has so occurred)",
+  "new": "itivṛtta (term)",
+  "why": "reviewer (minor): The gloss imports an etymology while the note says the terms are not explained."
+ }
+]

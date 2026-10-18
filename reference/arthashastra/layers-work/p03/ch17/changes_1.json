@@ -1,0 +1,394 @@
+[
+ {
+  "n": "1",
+  "field": "word.w",
+  "word": "sāhasa",
+  "old": "sāhasa",
+  "new": "sāhasam",
+  "why": "reviewer (minor): w 'sāhasa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "2",
+  "field": "word.w",
+  "word": "niranvaya",
+  "old": "niranvaya",
+  "new": "niranvaye",
+  "why": "reviewer (minor): w 'niranvaya' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "2",
+  "field": "word.w",
+  "word": "steya",
+  "old": "steya",
+  "new": "steyam",
+  "why": "reviewer (minor): w 'steya' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "2",
+  "field": "word.w",
+  "word": "apavyayana",
+  "old": "apavyayana",
+  "new": "apavyayane",
+  "why": "reviewer (minor): w 'apavyayana' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "sāhasa",
+  "old": "sāhasa",
+  "new": "sāhase",
+  "why": "reviewer (minor): w 'sāhasa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "“In rashness concerning gems, valuables, worthless goods and raw materials, the penalty [is] equal to the value,” say the Manavas.",
+  "new": "“In rashness concerning gems, valuables, insignificant goods and raw materials, the penalty [is] equal to the value,” say the Manavas.",
+  "why": "reviewer (minor): 'worthless' adds a sense; phalgu is 'insignificant, weak' (the Hindi तुच्छ already says insignificant); English and Hindi disagree"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "ratna-sāra-phalgu-kupyānām",
+  "old": "of gems, valuables, worthless goods, raw materials",
+  "new": "of gems, valuables, insignificant goods, raw materials",
+  "why": "reviewer (minor): same: 'worthless goods'"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "sāra = valuables (glossary 12.1), kupya = raw materials; phalgu 'worthless' (literally 'insignificant, weak'). daṇḍa beside a value = penalty. The closing iti is carried by the quotation marks.",
+  "new": "sāra = valuables (glossary 12.1), kupya = raw materials; phalgu 'insignificant' (also 'weak'). daṇḍa beside a value = penalty. The closing iti is carried by the quotation marks.",
+  "why": "reviewer (minor): align with the English fix"
+ },
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "mūlya-dviguṇaḥ",
+  "old": "mūlya-dviguṇaḥ",
+  "new": "mūlya-dvi-guṇaḥ",
+  "why": "reviewer (minor): w merges 'dvi.guṇaḥ' into 'dviguṇaḥ'; the printed text has the compound dot, and unit 11 splits dvi-guṇam; use the same member split"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "“For petty goods—flowers, fruits, vegetables, roots, tubers, cooked food, hides, bamboo, clay wares and so on—the penalty [is] of twelve paṇas or lower, of twenty-four paṇas or higher.",
+  "new": "“For petty goods—flowers, fruits, vegetables, roots, tubers, cooked food, hides, bamboo, clay wares and so on—the penalty [has] twelve paṇas as the lower [limit] and twenty-four paṇas as the upper.",
+  "why": "reviewer (error): 'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "“फूल, फल, शाक, मूल, कन्द, पका अन्न, चर्म, बाँस, मिट्टी का माल आदि छोटी वस्तुओं के लिए बारह पण या उससे कम, चौबीस पण या उससे अधिक दण्ड है।",
+  "new": "“फूल, फल, शाक, मूल, कन्द, पका अन्न, चर्म, बाँस, मिट्टी का माल आदि छोटी वस्तुओं के लिए बारह पण निम्न सीमा वाला, चौबीस पण उच्च सीमा वाला दण्ड है।",
+  "why": "reviewer (error): same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "dvādaśa-paṇa-avaraḥ",
+  "old": "of twelve paṇas or lower",
+  "new": "twelve paṇas as the lower [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "caturviṃśati-paṇa-paraḥ",
+  "old": "of twenty-four paṇas or higher",
+  "new": "twenty-four paṇas as the upper [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "The quotation opened here closes in unit 10; the English and Hindi quote marks follow the printed quote. The first token is a compound that continues in the next token (ādīnām), so ādīnām has its own entry. The glossary (4.10) renders X-paṇa-avara as 'of X paṇas or lower'; read as a range the sense is plainly 'from twelve paṇas up to twenty-four paṇas' (avara 'lower', para 'higher' limit; see unit 30 of ch01). Alternatives: 'at least/at most'. paṇa is a unit name. bhāṇḍa = wares (glossary 4.6); mṛd-bhāṇḍa 'clay wares' (alternatively 'clay and wares'). kṣudraka = petty; pakva-anna = cooked food.",
+  "new": "The quotation opened here closes in unit 10; the English and Hindi quote marks follow the printed quote. The first token is a compound that continues in the next token (ādīnām), so ādīnām has its own entry. As a range, avara/para are rendered 'lower/upper [limit]' as in ch01 unit 30 (not the 4.10 single-figure 'or lower'); the sense is from twelve to twenty-four paṇas. Alternatives: 'at least/at most'. paṇa is a unit name. bhāṇḍa = wares (glossary 4.6); mṛd-bhāṇḍa 'clay wares' (alternatively 'clay and wares'). kṣudraka = petty; pakva-anna = cooked food.",
+  "why": "reviewer (minor): note must state the settled wording"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "For coarse goods—black iron, wood, rope goods, small animals, cloth and so on—the penalty [is] of twenty-four paṇas or lower, of forty-eight paṇas or higher.",
+  "new": "For coarse goods—black iron, wood, rope goods, small animals, cloth and so on—the penalty [has] twenty-four paṇas as the lower [limit] and forty-eight paṇas as the upper.",
+  "why": "reviewer (error): 'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "काला लोहा, लकड़ी, रस्सी की वस्तुएँ, छोटे पशु, वस्त्र आदि मोटी वस्तुओं के लिए चौबीस पण या उससे कम, अड़तालीस पण या उससे अधिक दण्ड है।",
+  "new": "काला लोहा, लकड़ी, रस्सी की वस्तुएँ, छोटे पशु, वस्त्र आदि मोटी वस्तुओं के लिए चौबीस पण निम्न सीमा वाला, अड़तालीस पण उच्च सीमा वाला दण्ड है।",
+  "why": "reviewer (error): same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)"
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "caturviṃśati-paṇa-avaraḥ",
+  "old": "of twenty-four paṇas or lower",
+  "new": "twenty-four paṇas as the lower [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "aṣṭa-catvāriṃśat-paṇa-paraḥ",
+  "old": "of forty-eight paṇas or higher",
+  "new": "forty-eight paṇas as the upper [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "For coarse goods—copper, vṛtta, bell-metal, glass, tooth wares and so on—[the penalty is] the first fine for rashness, of forty-eight paṇas or lower, of ninety-six or higher.",
+  "new": "For coarse goods—copper, vṛtta, bell-metal, glass, tooth wares and so on—[the penalty is] the first fine for rashness, with forty-eight paṇas as the lower [limit] and ninety-six as the upper.",
+  "why": "reviewer (error): 'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)"
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "ताँबे, वृत्त, काँसे, काँच, दाँत के माल आदि मोटी वस्तुओं के लिए अड़तालीस पण या उससे कम, छियानवे या उससे अधिक प्रथम साहस-दण्ड है।",
+  "new": "ताँबे, वृत्त, काँसे, काँच, दाँत के माल आदि मोटी वस्तुओं के लिए अड़तालीस पण निम्न सीमा वाला, छियानवे उच्च सीमा वाला प्रथम साहस-दण्ड है।",
+  "why": "reviewer (error): same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)"
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "aṣṭa-catvāriṃśat-paṇa-avaraḥ",
+  "old": "of forty-eight paṇas or lower",
+  "new": "forty-eight paṇas as the lower [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "ṣaṭ-navati-paraḥ",
+  "old": "of ninety-six or higher",
+  "new": "ninety-six as the upper [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "For coarse goods—large animals, men, fields, houses, money, gold, fine cloth and so on—[the penalty is] the middle fine for rashness, of two hundred or lower, of five hundred or higher.",
+  "new": "For coarse goods—large animals, men, fields, houses, money, gold, fine cloth and so on—[the penalty is] the middle fine for rashness, with two hundred as the lower [limit] and five hundred as the upper.",
+  "why": "reviewer (error): 'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "बड़े पशु, मनुष्य, खेत, घर, धन, सोना, बारीक वस्त्र आदि मोटी वस्तुओं के लिए दो सौ या उससे कम, पाँच सौ या उससे अधिक मध्यम साहस-दण्ड है।",
+  "new": "बड़े पशु, मनुष्य, खेत, घर, धन, सोना, बारीक वस्त्र आदि मोटी वस्तुओं के लिए दो सौ निम्न सीमा वाला, पाँच सौ उच्च सीमा वाला मध्यम साहस-दण्ड है।",
+  "why": "reviewer (error): same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)"
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "dvi-śata-avaraḥ",
+  "old": "of two hundred or lower",
+  "new": "two hundred as the lower [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "pañca-śata-paraḥ",
+  "old": "of five hundred or higher",
+  "new": "five hundred as the upper [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "puruṣa",
+  "old": "puruṣa",
+  "new": "puruṣam",
+  "why": "reviewer (minor): w 'puruṣa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "10",
+  "field": "word.w",
+  "word": "bandha",
+  "old": "bandha",
+  "new": "bandham",
+  "why": "reviewer (minor): w 'bandha' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "For one who, having overpowered a woman or a man, binds, or causes to bind, or causes a bond to be released—[the penalty is] the highest fine for rashness, of five hundred or lower, of a thousand or higher,” say the teachers.",
+  "new": "For one who, having overpowered a woman or a man, binds, or causes to bind, or causes a bond to be released—[the penalty is] the highest fine for rashness, with five hundred as the lower [limit] and a thousand as the upper,” say the teachers.",
+  "why": "reviewer (error): 'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "स्त्री या पुरुष को दबाकर बाँधने वाले, बँधवाने वाले या बन्धन छुड़वाने वाले के लिए पाँच सौ या उससे कम, हज़ार या उससे अधिक सर्वोच्च साहस-दण्ड है”, ऐसा आचार्य कहते हैं।",
+  "new": "स्त्री या पुरुष को दबाकर बाँधने वाले, बँधवाने वाले या बन्धन छुड़वाने वाले के लिए पाँच सौ निम्न सीमा वाला, हज़ार उच्च सीमा वाला सर्वोच्च साहस-दण्ड है”, ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (error): same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)"
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "pañca-śata-avaraḥ",
+  "old": "of five hundred or lower",
+  "new": "five hundred as the lower [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "sahasra-paraḥ",
+  "old": "of a thousand or higher",
+  "new": "a thousand as the upper [limit]",
+  "why": "reviewer (minor): gloss 'or lower/or higher' is wrong for a range"
+ },
+ {
+  "n": "11",
+  "field": "word.w",
+  "word": "sāhasa",
+  "old": "sāhasa",
+  "new": "sāhasam",
+  "why": "reviewer (minor): w 'sāhasa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "11",
+  "field": "word.w",
+  "word": "pratipattṛ",
+  "old": "pratipattṛ",
+  "new": "pratipattā",
+  "why": "reviewer (minor): w 'pratipattṛ' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "hiraṇya",
+  "old": "hiraṇya",
+  "new": "hiraṇyam",
+  "why": "reviewer (minor): w 'hiraṇya' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "daṇḍa",
+  "old": "daṇḍa",
+  "new": "daṇḍam",
+  "why": "reviewer (minor): w 'daṇḍa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "13",
+  "field": "word.w",
+  "word": "daṇḍa",
+  "old": "daṇḍa",
+  "new": "daṇḍam",
+  "why": "reviewer (minor): w 'daṇḍa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "kopa",
+  "old": "kopa",
+  "new": "kopam",
+  "why": "reviewer (minor): w 'kopa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "mada",
+  "old": "mada",
+  "new": "madam",
+  "why": "reviewer (minor): w 'mada' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "moha",
+  "old": "moha",
+  "new": "moham",
+  "why": "reviewer (minor): w 'moha' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "ena",
+  "old": "ena",
+  "new": "enam",
+  "why": "reviewer (minor): w 'ena' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "14",
+  "field": "word.w",
+  "word": "daṇḍa",
+  "old": "daṇḍa",
+  "new": "daṇḍam",
+  "why": "reviewer (minor): w 'daṇḍa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "“यदि वह क्रोध, मद या मोह का बहाना बताए, तो इस पर कहे अनुसार दण्ड लगाए”, ऐसा कौटिल्य कहते हैं।",
+  "new": "“यदि वह क्रोध, मद या मोह का बहाना बताए, इस पर कहे अनुसार दण्ड लगाए”, ऐसा कौटिल्य कहते हैं।",
+  "why": "reviewer (minor): 'तो' is an added correlative; the Sanskrit has cet only, no tarhi"
+ },
+ {
+  "n": "15",
+  "field": "word.w",
+  "word": "rūpa",
+  "old": "rūpa",
+  "new": "rūpam",
+  "why": "reviewer (minor): w 'rūpa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "15",
+  "field": "word.w",
+  "word": "para",
+  "old": "para",
+  "new": "pareṣu",
+  "why": "reviewer (minor): w 'para' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "15",
+  "field": "word.w",
+  "word": "vyājī",
+  "old": "vyājī",
+  "new": "vyājīm",
+  "why": "reviewer (minor): w 'vyājī' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "In all penalty-actions the rūpa [is] eight paṇas [per] hundred; among [those] beyond a hundred, one should know the vyājī [as] five paṇas [per] hundred.",
+  "new": "In all penalty-actions the rūpa [is] eight paṇas [per] hundred; and among [those] beyond a hundred, one should know the vyājī [as] five paṇas [per] hundred.",
+  "why": "reviewer (error): ca (vyājīṃ ca) is dropped in English although the note says it is rendered 'and'"
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "सब दण्ड-कर्मों में रूप आठ पण सौ पर; सौ से परे वालों में व्याजी को पाँच पण सौ पर जानना चाहिए।",
+  "new": "सब दण्ड-कर्मों में रूप आठ पण सौ पर; और सौ से परे वालों में व्याजी को पाँच पण सौ पर जानना चाहिए।",
+  "why": "reviewer (error): ca is dropped in Hindi"
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "prajā",
+  "old": "prajā",
+  "new": "prajānām",
+  "why": "reviewer (minor): w 'prajā' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "prakṛti",
+  "old": "prakṛti",
+  "new": "prakṛtiḥ",
+  "why": "reviewer (minor): w 'prakṛti' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)"
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "rājñām",
+  "old": "king",
+  "new": "kings",
+  "why": "reviewer (minor): gen. pl. glossed 'king'"
+ }
+]

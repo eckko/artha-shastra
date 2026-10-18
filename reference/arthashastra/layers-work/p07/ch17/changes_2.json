@@ -1,0 +1,203 @@
+[
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "ऊपर उठाया जाता हुआ समाधि-मोक्ष करवाए।",
+  "new": "संचित किया जाता हुआ समाधि-मोक्ष करवाए।",
+  "why": "reviewer (minor): English says heaped up; Hindi says raised. Glossary 7.1 abhyuccaya = heaping up (संचय), so Hindi should follow heaping."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "कुमार के निकट रहने वाले गुप्तचर, कारु और शिल्पी के वेश वाले, कर्म करते हुए, रात में सुरंग से निकट तक खुदवाकर कुमार को हर ले जाएँ।",
+  "new": "कुमार के निकटवर्ती गुप्तचर, कारु और शिल्पी के वेश वाले, कर्म करते हुए, रात में सुरंग से निकट तक खुदवाकर कुमार को हर ले जाएँ।",
+  "why": "reviewer (minor): रहने वाले adds staying; āsanna = near only."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "कुमार के निकटवर्ती गुप्तचर, कारु और शिल्पी के वेश वाले, कर्म करते हुए, रात में सुरंग से निकट तक खुदवाकर कुमार को हर ले जाएँ।",
+  "new": "कुमार के निकटवर्ती गुप्तचर, कारु और शिल्पी के वेश वाले, कर्म करते हुए, रात में सुरंग से निकट खुदवाकर कुमार को हर ले जाएँ।",
+  "why": "reviewer (minor): तक is an unmarked addition."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "Then [he], or one having that guise, should set out at night.",
+  "new": "Then, or having that guise, [he] should set out at night.",
+  "why": "reviewer (minor): \"one\" is an unbracketed addition; the vā belongs with tad-vyañjanaḥ, not with the following adverb."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "तब उस वेश वाला या रात में प्रस्थान करे।",
+  "new": "तब अथवा उस वेश वाला रात में प्रस्थान करे।",
+  "why": "reviewer (minor): या stands after the guise and reads as \"or at night\"; vā belongs before the guise."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "[He] should be carried out by cooks, ārālikas, bath-attendants, rubbers, bed-spreaders, kalpakas, adorners [and] water-attendants, or by articles, clothes, wares, phelā, beds, seats [and] uses.",
+  "new": "[He] should be carried out by cooks, ārālikas, bath-attendants, rubbers, bed-spreaders, kalpakas, adorners and water-attendants, or by articles, clothes, wares, phelā, beds, seats [and] uses.",
+  "why": "reviewer (minor): Dvandva keeps unbracketed English \"and\" (glossary 3.16/7.8); brackets are inconsistent with units 34, 36, 39."
+ },
+ {
+  "n": "40",
+  "field": "english",
+  "old": "[He] should be carried out by cooks, ārālikas, bath-attendants, rubbers, bed-spreaders, kalpakas, adorners and water-attendants, or by articles, clothes, wares, phelā, beds, seats [and] uses.",
+  "new": "[He] should be carried out by cooks, ārālikas, bath-attendants, rubbers, bed-spreaders, kalpakas, adorners and water-attendants, or by articles, clothes, wares, phelā, beds, seats and uses.",
+  "why": "reviewer (minor): Same: dvandva \"and\" unbracketed."
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "रसोइयों, आरालिकों, स्नान कराने वालों, रगड़ने वालों, बिछौना बिछाने वालों, कल्पकों, प्रसाधकों, जल-सेवकों द्वारा अथवा द्रव्य, वस्त्र, माल, फेला, शयन, आसन, उपभोग-वस्तुओं द्वारा बाहर ले जाया जाए।",
+  "new": "रसोइयों, आरालिकों, स्नान कराने वालों, रगड़ने वालों, बिछौना बिछाने वालों, कल्पकों, प्रसाधकों, जल-सेवकों द्वारा अथवा द्रव्य, वस्त्र, माल, फेला, शयन, आसन, उपभोगों द्वारा बाहर ले जाया जाए।",
+  "why": "reviewer (minor): वस्तुओं is added; sambhoga = use (उपभोग)."
+ },
+ {
+  "n": "40",
+  "field": "word.gram",
+  "word": "sūda-ārālika-snāpaka-saṃvāhaka-āstaraka-kalpaka-prasādhaka",
+  "old": "m. instr. pl. stem, dvandva (continues in next token)",
+  "new": "m. inst. pl. stem, dvandva (continues in next token)",
+  "why": "reviewer (minor): Label \"instr.\" differs from the \"inst.\" used elsewhere."
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "अथवा जलाशय में वारुण योग को अपनाए।",
+  "new": "अथवा जलाशय में वारुण योग का आश्रय ले।",
+  "why": "reviewer (minor): Glossary 7.1: ātiṣṭhet = should adopt (आश्रय ले); अपनाए is the Hindi for upeyāt/gacchet."
+ },
+ {
+  "n": "43",
+  "field": "hindi",
+  "old": "अथवा वैदेहक के वेश वाले पके अन्न और फल के व्यवहार से रक्षकों में विष परोसवाएँ।",
+  "new": "अथवा व्यापारी के वेश वाले गुप्तचर पके अन्न और फल के व्यवहार से रक्षकों में विष परोसवाएँ।",
+  "why": "reviewer (minor): Glossary 12.2: vaidehaka = trader (व्यापारी); X-vyañjana = X के वेश वाला गुप्तचर; English already says agents."
+ },
+ {
+  "n": "44",
+  "field": "english",
+  "old": "For the purpose of offerings to deities, śrāddha [and] prahavaṇa, having applied among the guards food and drink joined with a madana compound, or poison, [he] should go away; or by inciting the guards.",
+  "new": "For the purpose of offerings to deities, śrāddha and prahavaṇa, having applied among the guards food and drink joined with a madana compound, or poison, [he] should go away; or by inciting the guards.",
+  "why": "reviewer (minor): Dvandva \"and\" unbracketed."
+ },
+ {
+  "n": "44",
+  "field": "hindi",
+  "old": "देवताओं के उपहार, श्राद्ध, प्रहवण के निमित्त रक्षकों में मदन-योग से युक्त अन्न-पान या विष लगाकर चला जाए, अथवा रक्षकों को उभारने से।",
+  "new": "देवताओं के उपहार, श्राद्ध, प्रहवण के निमित्त रक्षकों में मदन-योग से युक्त अन्न और पान या विष लगाकर चला जाए, अथवा रक्षकों को उभारने से।",
+  "why": "reviewer (minor): Glossary 3.20: a two-member dvandva takes और in Hindi."
+ },
+ {
+  "n": "45",
+  "field": "hindi",
+  "old": "अथवा नगरवासी, कुशीलव, चिकित्सक, आपूपिक के वेश वाले रात में समृद्ध घरों को प्रज्वलित करें, या रक्षकों के।",
+  "new": "अथवा नगरवासी, कुशीलव, चिकित्सक, आपूपिक के वेश वाले गुप्तचर रात में समृद्ध घरों को प्रज्वलित करें, या रक्षकों के।",
+  "why": "reviewer (minor): Glossary X-vyañjanāḥ = X के वेश वाले गुप्तचर; English has agents."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Or agents in the guise of townsmen, kuśīlavas, physicians [and] cake-dealers should set ablaze at night the houses of the prosperous, or [the houses] of the guards.",
+  "new": "Or agents in the guise of townsmen, kuśīlavas, physicians and cake-dealers should set ablaze at night the houses of the prosperous, or [the houses] of the guards.",
+  "why": "reviewer (minor): Dvandva \"and\" unbracketed."
+ },
+ {
+  "n": "45",
+  "field": "english",
+  "old": "Or agents in the guise of townsmen, kuśīlavas, physicians and cake-dealers should set ablaze at night the houses of the prosperous, or [the houses] of the guards.",
+  "new": "Or agents in the guise of townsmen, kuśīlavas, physicians and cake-dealers should set ablaze at night the prosperous houses, or [those] of the guards.",
+  "why": "reviewer (minor): Hindi reads समृद्ध घरों (karmadhāraya); English/gloss read a tat-puruṣa \"of the prosperous\", an unsupported split. Make both literal."
+ },
+ {
+  "n": "45",
+  "field": "word.gloss",
+  "word": "samṛddha-gṛhāṇi",
+  "old": "houses of the prosperous",
+  "new": "prosperous houses",
+  "why": "reviewer (minor): Literal karmadhāraya; \"of the prosperous\" is an addition."
+ },
+ {
+  "n": "45",
+  "field": "word.gram",
+  "word": "samṛddha-gṛhāṇi",
+  "old": "n. acc. pl., tat-puruṣa",
+  "new": "n. acc. pl., karmadhāraya",
+  "why": "reviewer (minor): Compound type follows the literal reading."
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "अथवा वैदेहक के वेश वाले पण्य-संस्था को प्रज्वलित करें।",
+  "new": "अथवा व्यापारी के वेश वाले गुप्तचर पण्य-संस्था को प्रज्वलित करें।",
+  "why": "reviewer (minor): As unit 43 (glossary 12.2)."
+ },
+ {
+  "n": "49",
+  "field": "english",
+  "old": "Or [he], in the guise of [a bearer of] a load of glass, pots [and] wares, should set out at night.",
+  "new": "Or [he], in the guise of [a bearer of] a load of glass, pots and wares, should set out at night.",
+  "why": "reviewer (minor): Dvandva \"and\" unbracketed."
+ },
+ {
+  "n": "50",
+  "field": "hindi",
+  "old": "मुण्डित और जटाधारियों के प्रवासनों में प्रविष्ट हुआ, या रात में उनके वेश वाला प्रस्थान करे, या कुरूप और रोगी करने, वनचर के छद्मों में से किसी एक से।",
+  "new": "मुण्डित और जटाधारियों के प्रवासनों में प्रविष्ट हुआ, या रात में उस वेश वाला प्रस्थान करे, या कुरूप और रोगी करने, वनचर के छद्मों में से किसी एक से।",
+  "why": "reviewer (minor): उनके interprets tad as \"of them\"; gloss and English say \"that guise\"."
+ },
+ {
+  "n": "50",
+  "field": "word.gloss",
+  "word": "pravāsanāni",
+  "old": "pravāsanas (lodgings?)",
+  "new": "pravāsanas (literally \"sending away\"; sense uncertain)",
+  "why": "reviewer (minor): \"lodgings?\" is an invented sense; glossary 3.14/4.13 give pravāsana = sending away. Keep the term and the literal sense only."
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "और वनचर के वेश वाले इसे, एक ओर जाते हुए को, दूसरी ओर बताएँ।",
+  "new": "और वनचर के वेश वाले गुप्तचर इसे, एक ओर जाते हुए को, दूसरी ओर बताएँ।",
+  "why": "reviewer (minor): English has agents; Hindi should follow the glossary convention."
+ },
+ {
+  "n": "56",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): The unit rests on sattra, which the glossary leaves untranslated and uncertain, and on the elliptical vā; a firm medium is not warranted."
+ },
+ {
+  "n": "57",
+  "field": "english",
+  "old": "In the absence of a sattra, [he] should scatter money, or a kind of food mixed with poison, on the road on both sides.",
+  "new": "In the absence of a sattra, [he] should cast out money, or a kind of food mixed with poison, on the road on both sides.",
+  "why": "reviewer (minor): \"scatter\" is a specific sense not in ut-√sṛj (literally let go, cast out); Hindi फेंक दे already means cast."
+ },
+ {
+  "n": "57",
+  "field": "word.gloss",
+  "word": "utsṛjet",
+  "old": "should scatter",
+  "new": "should cast out",
+  "why": "reviewer (minor): Same: \"scatter\" is unsupported."
+ },
+ {
+  "n": "59",
+  "field": "hindi",
+  "old": "अथवा पकड़ा गया हुआ साम आदि से पीछा करने वालों को छल ले, या विष-मिले मार्ग-भोजन से।",
+  "new": "अथवा पकड़ा गया साम आदि से पीछा किए जाने को छल ले, या विष-मिले मार्ग-भोजन से।",
+  "why": "reviewer (minor): Hindi adds persons (वालों) while English and gloss say \"the pursuit\"; also \"पकड़ा गया हुआ\" is doubled."
+ },
+ {
+  "n": "61",
+  "field": "english",
+  "old": "Or, with a concealed weapon taken up, having advanced at night among the guards, [he] should withdraw by swift fallings, together with those dispatched in secret.",
+  "new": "Or, with a concealed weapon taken up, having advanced at night among the guards, [he] should withdraw by swift fallings, together with [those] dispatched in secret.",
+  "why": "reviewer (minor): \"those\" is an unbracketed addition (gūḍha-praṇihitaiḥ is a bare participle)."
+ }
+]

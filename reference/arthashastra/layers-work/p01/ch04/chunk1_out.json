@@ -1,0 +1,1216 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛṣi.pāśupālye",
+      "words": [
+       {
+        "w": "kṛṣi-pāśupālye",
+        "gloss": "agriculture and cattle-keeping",
+        "gram": "dvandva, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vaṇijyā",
+      "words": [
+       {
+        "w": "vaṇijyā",
+        "gloss": "trade",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vārtā,",
+      "words": [
+       {
+        "w": "vārtā",
+        "gloss": "economic activity (vārtā)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhānya.paśu.hiraṇya.kupya.viṣṭi.pradānād",
+      "words": [
+       {
+        "w": "dhānya-paśu-hiraṇya-kupya-viṣṭi-pradānāt",
+        "gloss": "from the giving of grain, cattle, money, raw materials, forced labour",
+        "gram": "dvandva + tat-puruṣa, abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "aupakārikī",
+      "words": [
+       {
+        "w": "aupakārikī",
+        "gloss": "beneficial",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कृषि और पशुपालन, वाणिज्य और वार्ता; अनाज, पशु, धन, कुप्य, विष्टि के प्रदान से उपकारिणी।",
+  "english": "Agriculture and cattle-keeping, and trade [are] economic activity (vārtā); [it is] beneficial through the giving of grain, cattle, money, raw materials and forced labour.",
+  "text_flags": [],
+  "notes": "Reading: vārtā is the predicate of the first clause (agriculture, cattle-keeping and trade [are] vārtā); aupakārikī is a separate verbless clause with no stated subject. The first half has no expressed link between kṛṣi-pāśupālye and vaṇijyā other than ca after vaṇijyā; Hindi follows the Sanskrit. Alternative: aupakārikī \"serving as a help (to the king)\" through the giving of the listed items; the text states no recipient. viṣṭi = forced labour per glossary; hiraṇya = money (not \"gold\"). Spelling vārtā here, vārttā in unit 3: same word.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tayā",
+      "words": [
+       {
+        "w": "tayā",
+        "gloss": "by that",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.pakṣaṃ",
+      "words": [
+       {
+        "w": "sva-pakṣam",
+        "gloss": "one's own party",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "para.pakṣaṃ",
+      "words": [
+       {
+        "w": "para-pakṣam",
+        "gloss": "the other's party",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vaśī.karoti",
+      "words": [
+       {
+        "w": "vaśī-karoti",
+        "gloss": "brings under control",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "kośa.daṇḍābhyām",
+      "words": [
+       {
+        "w": "kośa-daṇḍābhyām",
+        "gloss": "by treasury and army",
+        "gram": "dvandva, inst. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उससे अपने पक्ष और दूसरे के पक्ष को कोश और सेना के द्वारा वश में करता है।",
+  "english": "By that [one] brings one's own party and the other's party under control, by treasury and army.",
+  "text_flags": [],
+  "notes": "Subject of vaśī-karoti is not stated (the king is understood). tayā refers to vārtā of unit 1. para-pakṣa literally \"the other's party\" (not rendered \"enemy\"). In kośa-daṇḍābhyām, daṇḍa is the army, as in the pair kośa/daṇḍa of the prakṛtis.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ānvīkṣikī",
+      "words": [
+       {
+        "w": "ānvīkṣikī",
+        "gloss": "Ānvīkṣikī (name of a science)",
+        "gram": "f., name, dvandva member"
+       }
+      ]
+     },
+     {
+      "src": "trayī",
+      "words": [
+       {
+        "w": "trayī",
+        "gloss": "Trayī (the triple [science])",
+        "gram": "f., name, dvandva member"
+       }
+      ]
+     },
+     {
+      "src": "vārttānāṃ",
+      "words": [
+       {
+        "w": "vārttānām",
+        "gloss": "of Vārttā (economic activity)",
+        "gram": "f. gen. pl., dvandva end"
+       }
+      ]
+     },
+     {
+      "src": "yoga.kṣema.sādhano",
+      "words": [
+       {
+        "w": "yoga-kṣema-sādhanaḥ",
+        "gloss": "means of acquisition and security",
+        "gram": "bahuvrīhi/tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "punishment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "its",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nītir",
+      "words": [
+       {
+        "w": "nītiḥ",
+        "gloss": "policy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa",
+      "words": [
+       {
+        "w": "daṇḍa",
+        "gloss": "punishment (first member of daṇḍa-nīti)",
+        "gram": "compound member, dot missing"
+       }
+      ]
+     },
+     {
+      "src": "nītiḥ,",
+      "words": [
+       {
+        "w": "nītiḥ",
+        "gloss": "policy (daṇḍa-nīti, policy of punishment)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "alabdha.lābha.arthā",
+      "words": [
+       {
+        "w": "alabdha-lābha-arthā",
+        "gloss": "having the gain of the ungained as its purpose",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "labdha.parirakṣaṇī",
+      "words": [
+       {
+        "w": "labdha-parirakṣaṇī",
+        "gloss": "protecting the gained",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣita.vivardhanī",
+      "words": [
+       {
+        "w": "rakṣita-vivardhanī",
+        "gloss": "increasing the protected",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhasya",
+      "words": [
+       {
+        "w": "vṛddhasya",
+        "gloss": "of the grown",
+        "gram": "m./n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tīrthe",
+      "words": [
+       {
+        "w": "tīrthe",
+        "gloss": "in a tīrtha",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratipādanī",
+      "words": [
+       {
+        "w": "pratipādanī",
+        "gloss": "handing over",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आन्वीक्षिकी, त्रयी, वार्ता का योग और क्षेम का साधन दण्ड; उसकी नीति दण्डनीति; अप्राप्त के लाभ के प्रयोजन वाली, प्राप्त की रक्षा करने वाली, रक्षित को बढ़ाने वाली और बढ़े हुए का तीर्थ में प्रतिपादन करने वाली।",
+  "english": "Punishment (daṇḍa) [is] the means of acquisition and security of Ānvīkṣikī, Trayī and Vārttā. Its policy [is] the policy of punishment (daṇḍa-nīti): having the gain of the ungained as its purpose, protecting the gained, increasing the protected, and handing over the grown in a tīrtha.",
+  "text_flags": [
+   {
+    "src": "ānvīkṣikī trayī vārttānāṃ",
+    "suggest": "ānvīkṣikī.trayī.vārttānāṃ",
+    "why": "possible missing compound dots: the three sciences form a dvandva with the genitive ending on the last member"
+   },
+   {
+    "src": "daṇḍa nītiḥ",
+    "suggest": "daṇḍa.nītiḥ",
+    "why": "missing compound dot / stray space: daṇḍa-nīti is one compound"
+   }
+  ],
+  "notes": "daṇḍa rendered \"punishment\" (coercive sense); the unit reads yoga-kṣema as \"acquisition and security\" per glossary. The genitive vārttānām governs the whole list (Ānvīkṣikī, Trayī, Vārttā) if the dots are restored; as printed the three are separate tokens, each listed once. alabdha-lābha-arthā: -arthā is the final member \"having ... as purpose\"; lābha = gain. vṛddhasya tīrthe pratipādanī: literally \"handing over, of the grown, in a tīrtha\"; tīrtha is left untranslated (alternatives: worthy recipient, proper place); vṛddha = grown (property that has grown). The sentence is a long verbless definition: the four adjectives agree with nītiḥ.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyām",
+      "words": [
+       {
+        "w": "tasyām",
+        "gloss": "in it",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āyattā",
+      "words": [
+       {
+        "w": "āyattā",
+        "gloss": "dependent",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "loka.yātrā",
+      "words": [
+       {
+        "w": "loka-yātrā",
+        "gloss": "the ways of the world (loka-yātrā)",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उस पर लोकयात्रा निर्भर।",
+  "english": "The ways of the world (loka-yātrā) [are] dependent on it.",
+  "text_flags": [],
+  "notes": "tasyām refers to daṇḍa-nīti of unit 3. loka-yātrā kept literal (ways of the world; alternatives: conduct of worldly life, maintenance of the world).",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tasmāl",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind. (abl. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "loka.yātrā.arthī",
+      "words": [
+       {
+        "w": "loka-yātrā-arthī",
+        "gloss": "desirous of the ways of the world",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nityam",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "udyata.daṇḍaḥ",
+      "words": [
+       {
+        "w": "udyata-daṇḍaḥ",
+        "gloss": "with punishment uplifted",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "should be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“इसलिए लोकयात्रा चाहने वाला सदा उठाए हुए दण्ड वाला हो।",
+  "english": "“Therefore one desirous of the ways of the world should always be one with punishment uplifted.",
+  "text_flags": [],
+  "notes": "Opening of a quotation (a teachers' view) that closes in unit 6 with ity ācāryāḥ; the opening quotation mark is printed in this unit. udyata-daṇḍa: daṇḍa could also be the rod/staff \"raised\"; rendered \"punishment\" for consistency. arthin = one who desires/needs.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hy",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "evaṃvidhaṃ",
+      "words": [
+       {
+        "w": "evaṃvidham",
+        "gloss": "of such a kind",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaśa.upanayanam",
+      "words": [
+       {
+        "w": "vaśa-upanayanam",
+        "gloss": "bringing under control",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asti",
+      "words": [
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "bhūtānāṃ",
+      "words": [
+       {
+        "w": "bhūtānām",
+        "gloss": "of beings",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "punishment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|\"",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि प्राणियों का ऐसा वश में लाना नहीं है जैसा दण्ड”, ऐसा आचार्य कहते हैं।",
+  "english": "For there is no such bringing under control of beings as punishment,” say the teachers.",
+  "text_flags": [],
+  "notes": "Closes the quotation opened in unit 5 (the view of the teachers, ācāryāḥ). The token |\" is the e-text's danda followed by the closing quotation mark. vaśa-upanayana literally \"bringing into subjection/to control\"; the noun is not repeated, so no \"means\" is supplied. Spoken as one view with unit 5.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "name, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“No,” says Kautilya.",
+  "text_flags": [],
+  "notes": "Reply formula, per glossary.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tīkṣṇa.daṇḍo",
+      "words": [
+       {
+        "w": "tīkṣṇa-daṇḍaḥ",
+        "gloss": "one with harsh punishment",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūtānām",
+      "words": [
+       {
+        "w": "bhūtānām",
+        "gloss": "to beings",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "udvejanīyo",
+      "words": [
+       {
+        "w": "udvejanīyaḥ",
+        "gloss": "agitating",
+        "gram": "gerundive m. nom. sg. ud-√vij caus."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि कठोर दण्ड वाला प्राणियों के लिए उद्विग्न करने वाला होता है।",
+  "english": "For one with harsh punishment becomes agitating to beings.",
+  "text_flags": [],
+  "notes": "tīkṣṇa literally \"sharp\"; rendered \"harsh\". udvejanīya is a gerundive of the causative of ud-√vij: \"to be made to tremble / to be dreaded / causing agitation\"; the genitive bhūtānām is taken as \"to/for beings\". Alternative: \"an object of dread of beings\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mṛdu.daṇḍaḥ",
+      "words": [
+       {
+        "w": "mṛdu-daṇḍaḥ",
+        "gloss": "one with mild punishment",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paribhūyate",
+      "words": [
+       {
+        "w": "paribhūyate",
+        "gloss": "is despised",
+        "gram": "3 sg. pass. pari-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मृदु दण्ड वाला तिरस्कृत किया जाता है।",
+  "english": "One with mild punishment is despised.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā.arha.daṇḍaḥ",
+      "words": [
+       {
+        "w": "yathā-arha-daṇḍaḥ",
+        "gloss": "one with punishment as deserved",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūjyate",
+      "words": [
+       {
+        "w": "pūjyate",
+        "gloss": "is honoured",
+        "gram": "3 sg. pass. √pūj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यथायोग्य दण्ड वाला पूजा जाता है।",
+  "english": "One with punishment as deserved is honoured.",
+  "text_flags": [],
+  "notes": "yathā-arha: \"according to what is deserving\"; i.e. punishment proportioned to desert is the literal sense.",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "suvijñāta.praṇīto",
+      "words": [
+       {
+        "w": "suvijñāta-praṇītaḥ",
+        "gloss": "well understood, administered",
+        "gram": "karmadhāraya/dvandva of participles, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "punishment",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prajā",
+      "words": [
+       {
+        "w": "prajāḥ",
+        "gloss": "people",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dharma.artha.kāmair",
+      "words": [
+       {
+        "w": "dharma-artha-kāmaiḥ",
+        "gloss": "by dharma, wealth (artha) and desire (kāma)",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "yojayati",
+      "words": [
+       {
+        "w": "yojayati",
+        "gloss": "joins",
+        "gram": "3 sg. pres. caus. √yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि भली-भाँति समझा गया, प्रणीत किया गया दण्ड प्रजा को धर्म, अर्थ, काम से जोड़ता है।",
+  "english": "For punishment, well understood [and] administered, joins the people to dharma, wealth (artha) and desire (kāma).",
+  "text_flags": [],
+  "notes": "suvijñāta-praṇīta: relation of the two members is not stated; alternative \"administered after being well considered\". prajāḥ is the regular sandhi form before dh (prajāḥ + dh > prajā dh), so no flag. yojayati (causative) \"causes to be joined with\"; the text states only this. artha = wealth in the dharma-artha-kāma triad.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "duṣpraṇītaḥ",
+      "words": [
+       {
+        "w": "duṣpraṇītaḥ",
+        "gloss": "wrongly administered",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāma.krodhābhyām",
+      "words": [
+       {
+        "w": "kāma-krodhābhyām",
+        "gloss": "through desire and anger",
+        "gram": "dvandva, m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "avajñānād",
+      "words": [
+       {
+        "w": "avajñānāt",
+        "gloss": "through disregard",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vānaprastha.parivrājakān",
+      "words": [
+       {
+        "w": "vānaprastha-parivrājakān",
+        "gloss": "vānaprasthas and parivrājakas",
+        "gram": "dvandva, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kopayati,",
+      "words": [
+       {
+        "w": "kopayati",
+        "gloss": "enrages",
+        "gram": "3 sg. pres. caus. √kup"
+       }
+      ]
+     },
+     {
+      "src": "kiṃ.aṅga",
+      "words": [
+       {
+        "w": "kiṃ-aṅga",
+        "gloss": "how much",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punar",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛhasthān",
+      "words": [
+       {
+        "w": "gṛhasthān",
+        "gloss": "householders",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुष्प्रणीत, काम और क्रोध से अथवा अवज्ञा से, वानप्रस्थों और परिव्राजकों को भी कुपित करता है; कितना अधिक फिर गृहस्थों को।",
+  "english": "[Punishment] wrongly administered, through desire and anger or through disregard, enrages even vānaprasthas and parivrājakas; how much more [so] householders.",
+  "text_flags": [],
+  "notes": "Subject of kopayati is not stated; daṇḍa of unit 11 is understood. avajñāna: literally \"disregard, contempt\" (alternative: ignorance, taking a-vajñāna as a-jñāna); medium confidence. vānaprastha = forest-dweller, parivrājaka = wanderer (mendicant), kept as terms. kiṃ-aṅga is printed with a dot: one compound entry.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apraṇītas",
+      "words": [
+       {
+        "w": "apraṇītaḥ",
+        "gloss": "not administered",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mātsya.nyāyam",
+      "words": [
+       {
+        "w": "mātsya-nyāyam",
+        "gloss": "the principle of the fishes (mātsya-nyāya)",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "udbhāvayati",
+      "words": [
+       {
+        "w": "udbhāvayati",
+        "gloss": "brings about",
+        "gram": "3 sg. pres. caus. ud-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु प्रणीत न किया गया मत्स्य-न्याय उत्पन्न करता है।",
+  "english": "But [punishment] not administered brings about the principle of the fishes (mātsya-nyāya).",
+  "text_flags": [],
+  "notes": "mātsya-nyāya kept as a term; literally \"the rule/principle of fish\". The text does not explain it in this unit. Subject (daṇḍa) not stated.",
+  "confidence": "high"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balīyān",
+      "words": [
+       {
+        "w": "balīyān",
+        "gloss": "the stronger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abalaṃ",
+      "words": [
+       {
+        "w": "abalam",
+        "gloss": "the weak",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "grasate",
+      "words": [
+       {
+        "w": "grasate",
+        "gloss": "swallows",
+        "gram": "3 sg. pres. ātm. √gras"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.dhara.abhāve",
+      "words": [
+       {
+        "w": "daṇḍa-dhara-abhāve",
+        "gloss": "in the absence of a bearer of punishment",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि दण्ड धारण करने वाले के अभाव में बलवान् निर्बल को निगलता है।",
+  "english": "For the stronger swallows the weak in the absence of a bearer of punishment.",
+  "text_flags": [],
+  "notes": "balīyas is comparative (\"stronger\"); Hindi gives बलवान्. daṇḍa-dhara literally \"holder/bearer of the rod/punishment\".",
+  "confidence": "high"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "guptaḥ",
+      "words": [
+       {
+        "w": "guptaḥ",
+        "gloss": "protected",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabhavati",
+      "words": [
+       {
+        "w": "prabhavati",
+        "gloss": "prevails",
+        "gram": "3 sg. pres. pra-√bhū"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह उससे रक्षित प्रबल होता है।",
+  "english": "He, protected by that, prevails.",
+  "text_flags": [],
+  "notes": "The closing iti has no opening quotation in the unit and is not rendered (glossary 3.20); it seems to close the argument of units 8-15 (Kautilya's reply). sa is taken as the weak one (abalaḥ) of unit 14 and tena as the bearer of punishment / punishment; the text does not name them. prabhavati: \"has power, prevails\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catur.varṇa.āśramo",
+      "words": [
+       {
+        "w": "catur-varṇa-āśramaḥ",
+        "gloss": "having four varṇas and āśramas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "loko",
+      "words": [
+       {
+        "w": "lokaḥ",
+        "gloss": "world",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājñā",
+      "words": [
+       {
+        "w": "rājñā",
+        "gloss": "by the king",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍena",
+      "words": [
+       {
+        "w": "daṇḍena",
+        "gloss": "by punishment",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pālitaḥ",
+      "words": [
+       {
+        "w": "pālitaḥ",
+        "gloss": "protected",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svadharma.karma.abhirato",
+      "words": [
+       {
+        "w": "sva-dharma-karma-abhirataḥ",
+        "gloss": "devoted to the action of its own dharma",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vartate",
+      "words": [
+       {
+        "w": "vartate",
+        "gloss": "proceeds",
+        "gram": "3 sg. pres. ātm. √vṛt"
+       }
+      ]
+     },
+     {
+      "src": "sveṣu",
+      "words": [
+       {
+        "w": "sveṣu",
+        "gloss": "in its own",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vartmasu",
+      "words": [
+       {
+        "w": "vartmasu",
+        "gloss": "paths",
+        "gram": "n. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चार वर्णों और आश्रमों वाला लोक, राजा के द्वारा दण्ड से रक्षित, अपने धर्म के कर्म में रत, अपने मार्गों में चलता है।",
+  "english": "The world, having four varṇas and āśramas, protected by the king through punishment, devoted to the action of its own dharma, proceeds in its own paths.",
+  "text_flags": [],
+  "notes": "Two printed lines of one verse; no ca between varṇa and āśrama (compound), so Hindi uses और for the dvandva members. catur-varṇa-āśrama could also be \"the four varṇas (and) the āśramas\" with catur qualifying only varṇa. karma here is the action belonging to dharma (action, per glossary). vartate: \"proceeds, conducts itself\".",
+  "confidence": "high"
+ }
+]

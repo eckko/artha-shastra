@@ -1,0 +1,542 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दुर्व्यवहार के कारण को छोड़कर",
+     "problem": "'के कारण' (on account of) is added; anyatra + ablative is 'except for' (glossary 5.2: no added words)",
+     "fix": "दुर्व्यवहार को छोड़कर",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दुर्व्यवहार के कारण को छोड़कर",
+      "new": "दुर्व्यवहार को छोड़कर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "except on account of ill-treatment",
+     "problem": "'on account of' is added",
+     "fix": "except for ill-treatment",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "except on account of ill-treatment",
+      "new": "except for ill-treatment"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the penalty is of a hundred",
+     "problem": "glossary 4.10: bare number = 'a penalty of N' in running English",
+     "fix": "[there is] a penalty of a hundred",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "the penalty is of a hundred",
+      "new": "[there is] a penalty of a hundred"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[she is] blameless",
+     "problem": "nirdoṣaḥ is masculine and the subject is not stated; 'she' is an unsupported addition (units 4 and 7 concern the giver of room)",
+     "fix": "[the person is] blameless",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "[she is] blameless",
+      "new": "[the person is] blameless"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "unit",
+     "problem": "record of check",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "append_note",
+      "text": "Reviewer: vāraṇa-ajñānayoḥ is a regular dual locative of a dvandva as printed; no typo found, so no text_flag. nirdoṣaḥ is masculine, so the subject is not necessarily the woman."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "For whence, indeed,",
+     "problem": "'For' and 'indeed' both render hi",
+     "fix": "Whence, indeed,",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "For whence, indeed,",
+      "new": "Whence, indeed,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "śulka",
+     "problem": "sense should stay literal",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "append_note",
+      "text": "Reviewer: śulka elsewhere means toll/duty; the translation keeps śulka untranslated and the bride-price reading (as 4.12) rests on context only, not verified."
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "A kinsman",
+     "problem": "glossary 3.7: bandhu = relative (jñāti/kulya carry 'kin/kinsman')",
+     "fix": "A relative is not to be punished.",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "A kinsman",
+      "new": "A relative"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bandhuḥ",
+     "problem": "same",
+     "fix": "relative",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "word",
+      "match_w": "bandhuḥ",
+      "field": "gloss",
+      "value": "relative"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "who is suspected or forbidden",
+     "problem": "the compound śaṅkita-pratiṣiddhāyām has no vā inside; 'or' is an unmarked addition",
+     "fix": "who is suspected [and] forbidden",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "who is suspected or forbidden",
+      "new": "who is suspected [and] forbidden"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शंकित या निषिद्ध",
+     "problem": "unmarked 'या'; a dvandva is 'and'",
+     "fix": "शंकित और निषिद्ध",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शंकित या निषिद्ध",
+      "new": "शंकित और निषिद्ध"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śaṅkita-pratiṣiddhāyām",
+     "problem": "same",
+     "fix": "[woman] suspected and forbidden",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "śaṅkita-pratiṣiddhāyām",
+      "field": "gloss",
+      "value": "[woman] suspected and forbidden"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "unit",
+     "problem": "alternative",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "append_note",
+      "text": "Reviewer: the dvandva is read literally 'suspected and forbidden'; 'suspected or forbidden' is possible but is not in the compound."
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक वर्ष और आगे का समय",
+     "problem": "unmarked 'और' (saṃvatsara-uttaram is one compound)",
+     "fix": "एक वर्ष आगे का समय",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक वर्ष और आगे का समय",
+      "new": "एक वर्ष आगे का समय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अध्ययन करते हुए ब्राह्मण की सन्तान न जनी हुई",
+     "problem": "reads as 'the brāhmaṇa's child'; and 'राजपुरुष की आयु' fixes 'his' without marking",
+     "fix": "सन्तान न जनी हुई अध्ययन करते हुए ब्राह्मण की दस वर्ष, सन्तान जनी हुई बारह वर्ष प्रतीक्षा करे; राजपुरुष की प्रतीक्षा आयु के क्षय तक करे।",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "set",
+      "field": "hindi",
+      "value": "सन्तान न जनी हुई अध्ययन करते हुए ब्राह्मण की दस वर्ष, सन्तान जनी हुई बारह वर्ष प्रतीक्षा करे; राजपुरुष की प्रतीक्षा आयु के क्षय तक करे।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole",
+     "problem": "'studying for ten years' attaches the ten years to the studying",
+     "fix": "[A woman] who has not borne children should, for ten years, await a brāhmaṇa who is studying; [one] who has borne children, for twelve [years]; [she should await] a royal servant until the end of [his] life.",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "set",
+      "field": "english",
+      "value": "[A woman] who has not borne children should, for ten years, await a brāhmaṇa who is studying; [one] who has borne children, for twelve [years]; [she should await] a royal servant until the end of [his] life."
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रवास पर गए और सुने न जाते हुए",
+     "problem": "unmarked 'और' (no ca in the Sanskrit; glossary 14.3)",
+     "fix": "प्रवास पर गए, सुने न जाते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रवास पर गए और सुने न जाते हुए",
+      "new": "प्रवास पर गए, सुने न जाते हुए"
+     }
+    },
+    {
+     "field": "english",
+     "where": "without telling [her] and is not heard of",
+     "problem": "unmarked 'and'",
+     "fix": "without telling [her], not being heard of",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "without telling [her] and is not heard of",
+      "new": "without telling [her], not being heard of"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रवास पर गए और सुने न जाते हुए",
+     "problem": "unmarked 'और'",
+     "fix": "प्रवास पर गए, सुने न जाते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रवास पर गए और सुने न जाते हुए",
+      "new": "प्रवास पर गए, सुने न जाते हुए"
+     }
+    },
+    {
+     "field": "english",
+     "where": "after telling [her] and is not heard of",
+     "problem": "unmarked 'and'",
+     "fix": "after telling [her], not being heard of",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "after telling [her] and is not heard of",
+      "new": "after telling [her], not being heard of"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "maintain, or [to] the youngest, or one without a wife",
+     "problem": "one vā in the Sanskrit; the first 'or' is added",
+     "fix": "maintain, [to] the youngest, or one without a wife",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "english",
+      "old": "maintain, or [to] the youngest, or one without a wife",
+      "new": "maintain, [to] the youngest, or one without a wife"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्राप्त करने में / और प्राप्त करने वाला",
+     "problem": "vedana/vettṛ (√vid) rendered with the same verb as samprāptāḥ (प्राप्त हुए)",
+     "fix": "पाने में / पाने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्राप्त करने में, जार",
+      "new": "पाने में, जार"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्राप्त करने में / और प्राप्त करने वाला",
+     "problem": "vedana/vettṛ (√vid) rendered with the same verb as samprāptāḥ (प्राप्त हुए)",
+     "fix": "पाने में / पाने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और प्राप्त करने वाला",
+      "new": "और पाने वाला"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Issues: 2 error, 21 minor (patch entries). No regrouping suggested. No text_flags added: units 8 (vāraṇa-ajñānayoḥ, regular dual locative), 42 (saṅgraha-atyayam, metre needs it as printed) and the quote in unit 9 (closed) checked; '-' joins of two words in units 7, 11, 15, 23, 29, 40 are typed conventions already noted. Closing 'iti' labels (15, 23, 36) kept as 'Such is X / यह X है' because glossary 3.6, 3.7, 5.1-5.3, 9.3 say so and 9.6 alone says not rendered; no thus/इस प्रकार used. vaidehaka: English trader, Hindi वैदेहक. śulka kept literal."
+}

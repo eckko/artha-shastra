@@ -29,3 +29,16 @@ Dated log of the verify-vedic-book-reference run. Append only.
 - Hand edits (the patch ops cannot add or remove flags or words): added or corrected text_flags in 5.1.55, 5.2.57, 5.4.10, 5.5.7, 5.6.9/28/31, 9.1.15 (moved a stray `ca`), 9.4.8/16/25, 9.5.4, 9.6.21/29, 4.1.10, 4.5.5, 4.6.18, 4.7.2, 4.9.9, 4.11.14; removed a false-positive flag in 5.3.6.
 - Written: text/p04-, p05-, p09- `-sandhi.md`, `-hindi.md`, `-english.md`. check_extraction: layers align with the Sanskrit IDs; only the 3 known source-typo errors remain.
 - Layers done: Parts 04, 05, 06, 08, 09, 10, 11, 12, 13, 14, 15. Not run: Parts 01, 02, 03, 07 (about 3,200 verses; waiting for the owner's decision). Open items needing a person are in ISSUES.md.
+
+## 2026-10-18, fifth layer run: Part 03 (20 chunks, 699 units, branch docs/2026-10-17/version-3)
+- Branch docs/2026-10-17/version-3 was started from main after the owner merged PR #4. The first batch of Sonnet 5.5 draft agents was interrupted before writing anything and was relaunched.
+- Same pipeline (Sonnet 5.5 drafts, an independent review per chunk, apply_review, hand edits, merge, write_layers). All patches applied without failure; check_chunk 0 errors for every chapter.
+- Hand edits: split compounds merged into one entry in 3.7 (31 tokens); added or fixed text_flags in 3.5, 3.7, 3.8, 3.1, 3.2, 3.3, 3.11, 3.15, 3.19; removed false flags in 3.9, 3.11, 3.17, 3.19, 3.20; split 3.1.13 mattena.unmattena-avagṛhītena and 3.14.3 tasya.vyaya.karmaṇā; duplicate w fixed in 3.17.
+- Written: text/p03-sandhi.md, p03-hindi.md, p03-english.md. check_extraction: layers align with the Sanskrit IDs; only the 3 known source-typo errors remain.
+- Layers done: Parts 03, 04, 05, 06, 08, 09, 10, 11, 12, 13, 14, 15. Not run: Parts 01, 02, 07. These are reviewed AI drafts; no person has read them.
+
+2026-10-18, sixth layer run: Part 07 (19 chunks, 687 units, 18 chapters)
+- Same pipeline (Sonnet 5.5 drafts, an independent Sonnet 5.5 review per chunk, apply_review, hand edits, merge, write_layers). All patches applied without failure; check_chunk 0 errors for every chunk.
+- Hand edits: removed false flags for the e-text 'dd h' spelling, h-for-visarga and samyoga (7.3, 7.7, 7.10, 7.13, 7.14, 7.18); added flags in 7.9.36 (alpa.prayasatā), 7.10.14, 7.11.8; merged mahad.upakurvan in 7.9.13; moved atha in 7.9.43; fixed glosses of identical word entries (7.9.50, 7.10.23, 7.11.23, 7.11.43); joined hard line breaks in the English and Hindi of 7.1.32.
+- Written: text/p07-sandhi.md, p07-hindi.md, p07-english.md. check_extraction: layers align with the Sanskrit IDs; only the 3 known source-typo errors remain.
+- Layers done: Parts 03 to 15. Not run: Parts 01 and 02. Reviewed AI drafts; no person has read them.

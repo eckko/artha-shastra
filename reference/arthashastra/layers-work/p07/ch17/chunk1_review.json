@@ -1,0 +1,596 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandhiḥ",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "peace",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "sandhiḥ",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "bare sandhi = peace; both śama and sandhi are then peace, so the Sanskrit terms are shown in brackets in English to keep the three apart.",
+     "fix": "“Peace (śama), peace (sandhi), settlement (samādhi)” — [this is] one meaning.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "english",
+      "value": "“Peace (śama), peace (sandhi), settlement (samādhi)” — [this is] one meaning."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Old note says sandhi = treaty; replaced to match the patch.",
+     "fix": "Three terms declared synonyms. śama = peace (6.2) and bare sandhi = peace (7.3/7.4), so English shows the Sanskrit words in brackets to keep them apart; Hindi keeps शम and सन्धि. samādhi: 'settlement' (literally 'putting together'), medium confidence; Hindi uses समाधान because समाधि reads as trance. The iti is carried by the quotation marks.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "notes",
+      "value": "Three terms declared synonyms. śama = peace (6.2) and bare sandhi = peace (7.3/7.4), so English shows the Sanskrit words in brackets to keep them apart; Hindi keeps शम and सन्धि. samādhi: 'settlement' (literally 'putting together'), medium confidence; Hindi uses समाधान because समाधि reads as trance. The iti is carried by the quotation marks."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandhiḥ",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "peace",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "sandhiḥ",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "bare sandhi = peace (see unit 1).",
+     "fix": "The kings’ coming to trust — “peace (śama), peace (sandhi), settlement (samādhi).”",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "english",
+      "value": "The kings’ coming to trust — “peace (śama), peace (sandhi), settlement (samādhi).”"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandhiḥ",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "peace",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "sandhiḥ",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "english",
+     "where": "unstable treaty",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "unstable peace",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "unstable treaty",
+      "new": "unstable peace"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pratigrahaḥ",
+     "problem": "Gloss carries the hostage sense, which is only inferred from the definition in unit 11; it belongs in notes. Keep the term, literal sense in the gloss.",
+     "fix": "pratigraha (literally 'receiving')",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "pratigrahaḥ",
+      "field": "gloss",
+      "value": "pratigraha (literally 'receiving')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandhiḥ",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "peace",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "sandhiḥ",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "english",
+     "where": "stable treaty",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "stable peace",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "stable treaty",
+      "new": "stable peace"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pratigrahaḥ",
+     "problem": "As unit 3: hostage sense only in notes.",
+     "fix": "pratigraha (literally 'receiving')",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "pratigrahaḥ",
+      "field": "gloss",
+      "value": "pratigraha (literally 'receiving')"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bala-apekṣaḥ",
+     "problem": "bala here is strength (Hindi बल), not the army of 8.5; 'force' is vague.",
+     "fix": "dependent on strength",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "bala-apekṣaḥ",
+      "field": "gloss",
+      "value": "dependent on strength"
+     }
+    },
+    {
+     "field": "english",
+     "where": "dependent on force",
+     "problem": "bala = strength (Hindi बल already); 'force' is vague.",
+     "fix": "dependent on strength",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "dependent on force",
+      "new": "dependent on strength"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Old note offers force/army.",
+     "fix": "Correction: bala is rendered 'strength' (बल); 'army' (glossary 8.5) is the alternative.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "append_note",
+      "text": "Correction: bala is rendered 'strength' (बल); 'army' (glossary 8.5) is the alternative."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandadhire",
+     "problem": "sam-√dhā with sandhi-sense: Book 7 uses peace (cf. 7.4 sandhāya = having made peace).",
+     "fix": "made peace",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "sandadhire",
+      "field": "gloss",
+      "value": "made peace"
+     }
+    },
+    {
+     "field": "english",
+     "where": "concluded treaties by truth",
+     "problem": "Book 7: peace, not treaty.",
+     "fix": "made peace by truth",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "concluded treaties by truth",
+      "new": "made peace by truth"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Old note says treaty.",
+     "fix": "Correction: sandadhire = 'made peace' (Book 7 bare sandhi = peace), not 'concluded a treaty'.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "append_note",
+      "text": "Correction: sandadhire = 'made peace' (Book 7 bare sandhi = peace), not 'concluded a treaty'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हल की रेखा",
+     "problem": "sītā = furrow; \"हल की रेखा\" adds a plough that the Sanskrit does not state.",
+     "fix": "कूँड़",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हल की रेखा",
+      "new": "कूँड़"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सोना और धन",
+     "problem": "No ca in the Sanskrit; Hindi dvandva of three or more members takes commas only (glossary 3.15/7.7).",
+     "fix": "सोना, धन",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सोना और धन",
+      "new": "सोना, धन"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kanyām",
+     "problem": "Glossary 3.5: kanyā = girl in the gloss, daughter only in running English.",
+     "fix": "girl",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "kanyām",
+      "field": "gloss",
+      "value": "girl"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kanyā",
+     "problem": "Glossary 3.5: kanyā = girl in the gloss.",
+     "fix": "girl",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "word",
+      "match_w": "kanyā",
+      "field": "gloss",
+      "value": "girl"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "yogaḥ",
+     "problem": "Book 7 (7.9): yoga = connection (जुड़ाव), not \"joining\".",
+     "fix": "connection",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "word",
+      "match_w": "yogaḥ",
+      "field": "gloss",
+      "value": "connection"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the joining of thought and actions",
+     "problem": "Align with 7.9 yoga = connection.",
+     "fix": "the connection of thought and actions",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "english",
+      "old": "the joining of thought and actions",
+      "new": "the connection of thought and actions"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Old note says joining.",
+     "fix": "Correction: yoga = connection, as 7.9; 'application' is the alternative.",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "append_note",
+      "text": "Correction: yoga = connection, as 7.9; 'application' is the alternative."
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandhim",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "peace",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "sandhim",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "english",
+     "where": "transgresses the treaty",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "transgresses the peace",
+     "severity": "error",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "transgresses the treaty",
+      "new": "transgresses the peace"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śeṣa-pratiṣṭabdhaḥ",
+     "problem": "Glossary 7.10: pratiṣṭabdha = propped (टिका हुआ).",
+     "fix": "propped by the rest",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "word",
+      "match_w": "śeṣa-pratiṣṭabdhaḥ",
+      "field": "gloss",
+      "value": "propped by the rest"
+     }
+    },
+    {
+     "field": "english",
+     "where": "supported by the rest",
+     "problem": "Glossary 7.10: propped.",
+     "fix": "propped by the rest",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "english",
+      "old": "supported by the rest",
+      "new": "propped by the rest"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शेष से सहारा पाया हुआ",
+     "problem": "Glossary 7.10: propped (टिका हुआ); सहारा is upagraha/upagṛhya.",
+     "fix": "शेष से टिका हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शेष से सहारा पाया हुआ",
+      "new": "शेष से टिका हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandhiḥ",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "peace",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "sandhiḥ",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "english",
+     "where": "If the treaty [is]",
+     "problem": "Book 7 convention (7.3/7.4): bare sandhi = peace; treaty only for named kinds.",
+     "fix": "If the peace [is]",
+     "severity": "error",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "If the treaty [is]",
+      "new": "If the peace [is]"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "31 issues (16 error, 15 minor), all with machine patches; no regrouping. Main fixes: bare sandhi = peace (units 1,2,3,5,6,27,28), sītā/dvandva commas in unit 7 Hindi, pratigraha gloss without the inferred hostage sense, bala = strength, yoga = connection (7.9), pratiṣṭabdha = propped (7.10), kanyā gloss girl. Hand edits (not patchable): none required; optional: unit 31 closing iti has no opening quote and is left unrendered per 3.20 (kept); unit 20 confidence could be lowered to low (drafter said medium-low); texts flags in units 7, 16, 24 judged acceptable."
+}

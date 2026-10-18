@@ -1,0 +1,334 @@
+[
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "āyatta-sampadaḥ",
+  "old": "of [one whose] excellence is under control",
+  "new": "from excellence under control",
+  "why": "reviewer (error): Read as a bahuvrīhi 'of [one] whose excellence is under control' (person); it is parallel to the ablative vṛddha-samyogāt and the other ablatives of causes of distinction (lābhāt, ārambhataḥ), so a feminine ablative 'from excellence (that is) under control'."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "āyatta-sampadaḥ",
+  "old": "bahuvrīhi, m. abl./gen. sg.",
+  "new": "karmadhāraya, f. abl. sg.",
+  "why": "reviewer (error): Not a bahuvrīhi m. abl./gen.; sampad is feminine, abl. sg. sampadaḥ."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "vṛddha-samyogāt",
+  "old": "from connection with the grown",
+  "new": "from connection with elders",
+  "why": "reviewer (minor): 'the grown' for persons is an unnatural sense; vṛddha-saṃyoga is association with elders (the 7.4 'grown' is for things that have grown)."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Among [those] of equal powers of counsel, the distinction [is] from [one whose] excellence is under control, or from connection with the grown.",
+  "new": "Among [those] of equal powers of counsel, the distinction [is] from excellence under control, or from connection with elders.",
+  "why": "reviewer (error): Follows the two fixes above."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "समान मन्त्रशक्ति वालों में विशेषता अधीन सम्पत् वाले से अथवा बढ़े हुओं के सम्पर्क से है।",
+  "new": "समान मन्त्रशक्ति वालों में विशेषता अधीन सम्पत् से अथवा वृद्धों के सम्पर्क से है।",
+  "why": "reviewer (error): Follows the fixes above (no added वाले)."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "No verb in the Sanskrit; bare copula supplied. āyatta-sampadaḥ is ambiguous (ablative 'from one whose excellence is dependent/under control' or genitive); āyatta = dependent on, under control; the exact sense (excellence in one's own hand, or dependent on another) is not certain. vṛddha = grown (glossary 7.4: never 'old'), i.e. those who have grown (prospered); the alternative 'elders' is possible. samyoga = connection (glossary 4.7 'saṃyoga = connection'); the e-text writes samyoga with m before y, as it writes sambhūya, sandhi (e-text habit, not flagged).",
+  "new": "No verb in the Sanskrit; bare copula supplied. āyatta-sampadaḥ is ambiguous (ablative 'from one whose excellence is dependent/under control' or genitive); āyatta = dependent on, under control; the exact sense (excellence in one's own hand, or dependent on another) is not certain. vṛddha = grown (glossary 7.4: never 'old'), i.e. those who have grown (prospered); the alternative 'elders' is possible. samyoga = connection (glossary 4.7 'saṃyoga = connection'); the e-text writes samyoga with m before y, as it writes sambhūya, sandhi (e-text habit, not flagged). Review: āyatta-sampadaḥ is read as a feminine ablative 'from excellence under control' (alternative: 'dependent'); vṛddha-samyogāt = from connection with elders (vṛddha as a noun of persons, not the 7.4 'grown'); the draft's bahuvrīhi reading and 'the grown' are withdrawn.",
+  "why": "reviewer (minor): Parse and sense of vṛddha corrected."
+ },
+ {
+  "n": "2",
+  "field": "word.w",
+  "word": "vṛddha-samyogāt",
+  "old": "vṛddha-samyogāt",
+  "new": "vṛddha-saṃyogāt",
+  "why": "reviewer (minor): The e-text writes samyoga with m as a regular habit; glossary 7.14: w reads saṃyoga."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "vipula-ārambhataḥ",
+  "old": "tat-puruṣa, ind. (-tas)",
+  "new": "karmadhāraya + -tas, ind.",
+  "why": "reviewer (minor): vipula is an adjective: karmadhāraya, not tat-puruṣa."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "yugya-śastra-āvaraṇataḥ",
+  "old": "from draught-animals, weapons and armour",
+  "new": "from yugya (those fit for the yoke), weapons and covering",
+  "why": "reviewer (error): yugya: 7.5 keeps 'those fit for the yoke' with no 'animals' (7.4 says draught-animal). Choice recorded for 7.15: follow 7.5, the literal form; no noun is printed."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Among [those] of equal place and time, the distinction [is] from draught-animals, weapons and armour.",
+  "new": "Among [those] of equal place and time, the distinction [is] from yugya (those fit for the yoke), weapons and covering.",
+  "why": "reviewer (error): Invented noun 'animals' (7.5 settled otherwise); and 'armour' for āvaraṇa, glossary 7.14 fixes covering."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "समान देश और काल वालों में जोतने योग्य पशु, शस्त्र, आवरण से विशेषता है।",
+  "new": "समान देश और काल वालों में जोतने योग्य, शस्त्र, आवरण से विशेषता है।",
+  "why": "reviewer (error): Added noun पशु."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "yugya = draught-animal (glossary 7.4; 7.5 keeps yugya without 'animals', a person should align); alternatively conveyances fit for the yoke. āvaraṇa = covering, rendered 'armour' (alternative: protective coverings in general). deśa-kāla = place and time (glossary 7.10). Bare copula supplied.",
+  "new": "yugya = draught-animal (glossary 7.4; 7.5 keeps yugya without 'animals', a person should align); alternatively conveyances fit for the yoke. āvaraṇa = covering, rendered 'armour' (alternative: protective coverings in general). deśa-kāla = place and time (glossary 7.10). Bare copula supplied. Review: the 7.4/7.5 yugya point is settled here as in 7.5: 'those fit for the yoke', no 'animals'; the draft's 'draught-animals' is withdrawn. A person may align 7.4.",
+  "why": "reviewer (minor): Glossary point settled."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "उसका आश्रय ले इन कारणों से — “पार्ष्णिग्राह, आसार, मध्यम अथवा उदासीन को प्रस्तुत करूँगा; सामन्त, आटविक, उसके कुल का सदस्य और निकाले गए राजकुमार — इनमें से किसी एक के द्वारा उसका राज्य हरवाऊँगा अथवा मरवाऊँगा; अथवा कृत्य-पक्ष को सहारा देने से उसके दुर्ग, राष्ट्र या स्कन्धावार में कोप उत्पन्न करूँगा; अथवा शस्त्र, अग्नि, विष के औपनिषदिक प्रणिधानों से अभीष्ट के अनुसार पास वाले को मारूँगा; अथवा स्वयं अधिष्ठित योग-प्रणिधान से इसे क्षय और व्यय तक पहुँचाऊँगा; अथवा क्षय, व्यय, प्रवास से सन्तप्त उसके मित्र-वर्ग या सेना में क्रम से उपजाप प्राप्त करूँगा; अथवा रसद, सहायक सेना, प्रसार के वध से उसके स्कन्धावार की रोक करूँगा; अथवा सेना को पास लाने से उसके रन्ध्र को उठाकर सर्व-समूह से प्रहार करूँगा; अथवा प्रतिहत उत्साह से अभीष्ट के अनुसार सन्धि प्राप्त करूँगा; अथवा मुझ में बँधे हुए के सब ओर से कोप उठ खड़े होंगे; अथवा आसार-रहित उसके मूल को मित्र, आटवी, सेना से नष्ट कराऊँगा; अथवा बड़े प्रदेश के योग और क्षेम की यहाँ रहते हुए रक्षा करूँगा; स्वयं बिखेरी हुई अथवा मित्र द्वारा बिखेरी हुई मेरी सेना यहाँ रहने वाले की एक स्थान पर खड़ी असह्य होगी; अथवा निम्न, खात और रात्रि के युद्ध में निपुण मेरी सेना मार्ग की बाधा से मुक्त पास वाले में कर्म करेगी; अथवा प्रतिकूल देश और काल में यहाँ आया हुआ स्वयं ही क्षय और व्यय से नहीं रहेगा; बड़े क्षय और व्यय से पहुँचने योग्य यह प्रदेश है, दुर्ग, वन और अपसार की बहुलता से; दूसरों के लिए रोग-प्राय, और सेना के व्यायामों के लिए जिसकी भूमि प्राप्त नहीं है; आपत्ति में पड़ा हुआ उसमें प्रवेश करेगा, अथवा प्रवेश कर चुका बाहर नहीं निकलेगा।”",
+  "new": "उसका आश्रय ले इन कारणों से — “पार्ष्णिग्राह, आसार, मध्यम अथवा उदासीन को प्रस्तुत करूँगा; सामन्त, आटविक, उसके कुल का सदस्य, निकाले गए राजकुमार में से किसी एक के द्वारा उसका राज्य हरवाऊँगा अथवा मरवाऊँगा — अथवा कृत्य-पक्ष को सहारा देने से उसके दुर्ग, राष्ट्र या स्कन्धावार में कोप उत्पन्न करूँगा; अथवा शस्त्र, अग्नि, विष के औपनिषदिक प्रणिधानों से अभीष्ट के अनुसार पास वाले को मारूँगा — अथवा स्वयं अधिष्ठित योग-प्रणिधान से इसे क्षय और व्यय तक पहुँचाऊँगा; अथवा क्षय, व्यय, प्रवास से सन्तप्त उसके मित्र-वर्ग या सेना में क्रम से उपजाप प्राप्त करूँगा — अथवा रसद, सहायक सेना, प्रसार के वध से उसके स्कन्धावार की रोक करूँगा; अथवा सेना को पास लाने से उसके रन्ध्र को उठाकर सर्व-समूह से प्रहार करूँगा; अथवा प्रतिहत उत्साह से अभीष्ट के अनुसार सन्धि प्राप्त करूँगा; अथवा मुझ में बँधे हुए के सब ओर से कोप उठ खड़े होंगे — अथवा आसार-रहित उसके मूल को मित्र, आटवी, सेना से नष्ट कराऊँगा; अथवा बड़े प्रदेश के योग और क्षेम की यहाँ रहते हुए रक्षा करूँगा; स्वयं बिखेरी हुई अथवा मित्र द्वारा बिखेरी हुई मेरी सेना यहाँ रहने वाले की एक स्थान पर खड़ी असह्य होगी; अथवा निम्न भूमि, खात, रात्रि के युद्ध में निपुण मेरी सेना मार्ग की बाधा से मुक्त पास वाले में कर्म करेगी — अथवा प्रतिकूल देश और काल में यहाँ आया हुआ स्वयं ही क्षय और व्यय से नहीं रहेगा; बड़े क्षय और व्यय से पहुँचने योग्य यह प्रदेश है, दुर्ग, वन, अपसार की बहुलता से — दूसरों के लिए रोग-प्राय, और सेना के व्यायामों के लिए जिसकी भूमि प्राप्त नहीं है; आपत्ति में पड़ा हुआ उसमें प्रवेश करेगा, अथवा प्रवेश कर चुका बाहर नहीं निकलेगा।”",
+  "why": "reviewer (error): (1) The seven lone '-' of the e-text are rendered ';' or nothing; glossary 7.1 requires a long dash in both languages at each of them (after āśrayeta and at the end of each printed line). (2) Four-member dvandva 'सामन्त, आटविक, उसके कुल का सदस्य और ...' and three-member 'निम्न, खात और रात्रि', 'दुर्ग, वन और अपसार' take commas only (3.15). (3) 'इनमें से' is an added pronoun (genitive + anyatama = में से). (4) 'निम्न' needs 'भूमि' as in 7.10 / the English 'low ground'."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "That he should resort to for these reasons: “I shall produce the heel-seizer, the reinforcer, the middle king or the neutral king; by any one of the neighbouring chief, forest chief, member of his family and prince in disfavour, I shall have his kingdom taken away or have [him] killed; or by supporting the party of the seducible I shall raise a revolt in his fort, country or camp; or by aupaniṣadika (upaniṣad-type) applications of weapon, fire and poison I shall kill [the one] near, as desired; or by an application of contrivance presided over by myself I shall bring him to loss and expenditure; or, in his group of allies or in [his] army, [when] afflicted by loss, expenditure and absence from home, I shall in due order obtain secret instigation; or by destruction of the supplies, reinforcements and foraging force I shall make a restraint of his camp; or, having raised a weak point by bringing up the army, I shall strike with the whole gathering; or, [his] energy struck back, I shall obtain peace as desired; or, of [one] bound to me, revolts will arise on all sides; or I shall have his base, [being] without reinforcement, destroyed by allies, forest tribes and armies; or, staying here, I shall protect the acquisition and security of a great region; my army, self-dispersed or dispersed by an ally, [standing] in one [place], will be unbearable for [me] staying here; or my army, skilled in battle on low ground, in excavations and at night, free from hindrance of the road, will do action in [the one] near; or [one] who has come here, [to an] unfavourable place and time, will not be, by himself indeed, through loss and expenditure; this region [is] one to be approached through great loss and expenditure, because of the abundance of forts, forests and places of retreat; for the others [it is] mostly disease, and [it is] one with ground not obtained for the exertions of armies; one fallen into adversity will enter it, or, having entered, will not come out.”",
+  "new": "That he should resort to for these reasons — “I shall produce the heel-seizer, the reinforcer, the middle king or the neutral king; by any one of the neighbouring chief, forest chief, member of his family and prince in disfavour, I shall have his kingdom taken away or have [him] killed — or by supporting the party of the seducible I shall raise a revolt in his fort, country or camp; or by aupaniṣadika applications of weapon, fire and poison I shall kill [the one] near, as desired — or by an application of contrivance presided over by myself I shall bring him to loss and expenditure; or, in his group of allies or in [his] army, [when] afflicted by loss, expenditure and absence from home, I shall in sequence obtain secret instigation — or by destruction of the supplies, reinforcements and foraging force I shall make a restraint of his camp; or, having raised a weak point of his by bringing up the army, I shall strike with the whole gathering; or, with [his] energy struck back, I shall obtain peace as desired; or, of [one] bound to me, revolts will arise on all sides — or I shall have his base, [being] without reinforcement, destroyed by allies, forest tribes and armies; or, staying here, I shall protect the acquisition and security of a great region; my army, self-dispersed or dispersed by an ally, [standing] in one [place], will be unbearable for [me] staying here; or my army, skilled in battle on low ground, in excavations and at night, free from hindrance of the road, will do action in [the one] near — or [one] who has come here, [to an] unfavourable place and time, will not be, by himself indeed, through loss and expenditure; this region [is] one to be approached through great loss and expenditure, because of the abundance of forts, forests and places of retreat — for the others [it is] mostly disease, and [it is] one with ground not obtained for the exertions of armies; [one] fallen into adversity will enter it, or, having entered, will not come out.”",
+  "why": "reviewer (error): (1) the seven lone '-' lines need a long dash (7.1), the draft has semicolons; (2) 'asya' is dropped before randhram: 'a weak point of his'; (3) 'in due order' adds 'due': krama = sequence (7.8); (4) instrumental 'pratihata-utsāhena' needs 'with'; (5) 'aupaniṣadika (upaniṣad-type)' puts a literal inside the English text, which the glossary (3.12) keeps in gloss/notes only; (6) 'one fallen into adversity' needs [one]."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "krameṇa",
+  "old": "in due order",
+  "new": "in sequence",
+  "why": "reviewer (minor): 'in due order' adds 'due'; 7.8: krama = sequence."
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "Lone '-' tokens at line ends are the e-text's continuation marks between the clauses of the quoted speech; the Hindi and English render them as clause breaks. The speech is the weak king's, addressed to the stronger king whose protection he seeks; 'tad' (n. acc.) has no clear referent (possibly the 'human fort' of unit 11, the strong king; or an adverb 'then/therefore'), rendered literally 'that'. Doubtful points: (1) pratipādayiṣyāmi (caus. prati-√pad) rendered 'produce' (glossary 3.11); the sense 'set up against him' is likely, the recipient is not stated. (2) aupaniṣadika = 'of the upaniṣad kind' (secret); praṇidhāna = application, placing; yoga-praṇidhāna rendered 'application of contrivance' (yoga as in 12.4), the sense could also be 'employment of agents'. (3) āsannam = 'the one near' (neighbour or one close by). (4) pratihata-utsāhena (instrumental) is taken as 'his energy struck back'; alternatively my own energy. (5) vadha rendered by 'destruction' for objects (supplies etc.), 'killing' possible. (6) daṇḍa-upanaya = bringing up the army; alternative: bringing him under force. sandhi: bare sandhi as the policy or its result is rendered 'peace' (glossary 7.3/7.4/7.8); 7.7 uses 'treaty' for its chapter, a person should align. Glossary conflicts: saṃśraya/yugya see units 8 and 21; sarva-sandoha = the whole gathering (7.4). (7) ihasthasya taken as genitive agreeing with the 'me' of me sainyam ('of [me] staying here'), ambiguous; ekastha = standing together in one place; aviṣahya = unbearable. (8) nimna-khāta-rātri-yuddha = battle on low ground, in pits, at night. (9) pathya-ābādha: pathya = of the road (also 'wholesome'); ābādha = hindrance. (10) 'kṣaya-vyayābhyāṃ na bhaviṣyati' literal 'will not be through loss and expenditure', probably 'will perish of itself'. (11) pareṣāṃ vyādhi-prāyaḥ sainya-vyāyāmānām alabdha-bhaumaḥ ca: nominatives taken as describing the region (ayaṃ deśaḥ): 'mostly disease for the others, and with ground not obtained for army exertions'; the exact sense of alabdha-bhauma is uncertain. (12) sāmanta = neighbouring chief, āṭavika = forest chief, tat-kulīna = member of his family, aparuddha = prince in disfavour; mitra-varga = group of allies; skandha-āvāra = camp; kopa = revolt; upajāpa = secret instigation. The closing iti closes the quoted speech and is not rendered.",
+  "new": "Lone '-' tokens at line ends are the e-text's continuation marks between the clauses of the quoted speech; the Hindi and English render them as clause breaks. The speech is the weak king's, addressed to the stronger king whose protection he seeks; 'tad' (n. acc.) has no clear referent (possibly the 'human fort' of unit 11, the strong king; or an adverb 'then/therefore'), rendered literally 'that'. Doubtful points: (1) pratipādayiṣyāmi (caus. prati-√pad) rendered 'produce' (glossary 3.11); the sense 'set up against him' is likely, the recipient is not stated. (2) aupaniṣadika = 'of the upaniṣad kind' (secret); praṇidhāna = application, placing; yoga-praṇidhāna rendered 'application of contrivance' (yoga as in 12.4), the sense could also be 'employment of agents'. (3) āsannam = 'the one near' (neighbour or one close by). (4) pratihata-utsāhena (instrumental) is taken as 'his energy struck back'; alternatively my own energy. (5) vadha rendered by 'destruction' for objects (supplies etc.), 'killing' possible. (6) daṇḍa-upanaya = bringing up the army; alternative: bringing him under force. sandhi: bare sandhi as the policy or its result is rendered 'peace' (glossary 7.3/7.4/7.8); 7.7 uses 'treaty' for its chapter, a person should align. Glossary conflicts: saṃśraya/yugya see units 8 and 21; sarva-sandoha = the whole gathering (7.4). (7) ihasthasya taken as genitive agreeing with the 'me' of me sainyam ('of [me] staying here'), ambiguous; ekastha = standing together in one place; aviṣahya = unbearable. (8) nimna-khāta-rātri-yuddha = battle on low ground, in pits, at night. (9) pathya-ābādha: pathya = of the road (also 'wholesome'); ābādha = hindrance. (10) 'kṣaya-vyayābhyāṃ na bhaviṣyati' literal 'will not be through loss and expenditure', probably 'will perish of itself'. (11) pareṣāṃ vyādhi-prāyaḥ sainya-vyāyāmānām alabdha-bhaumaḥ ca: nominatives taken as describing the region (ayaṃ deśaḥ): 'mostly disease for the others, and with ground not obtained for army exertions'; the exact sense of alabdha-bhauma is uncertain. (12) sāmanta = neighbouring chief, āṭavika = forest chief, tat-kulīna = member of his family, aparuddha = prince in disfavour; mitra-varga = group of allies; skandha-āvāra = camp; kopa = revolt; upajāpa = secret instigation. The closing iti closes the quoted speech and is not rendered. Review: the claim above that the speech is addressed to the stronger king is withdrawn; the text gives the weak king's own considerations ('I shall ...'), no addressee. The seven lone '-' are rendered as long dashes in both languages (glossary 7.1).",
+  "why": "reviewer (minor): Unsupported claim: the note says the speech is 'addressed to the stronger king'. The Sanskrit says only that he should resort to the stronger king 'for these reasons' and then gives what he thinks ('I shall...'). Not an address."
+ },
+ {
+  "n": "13",
+  "field": "word.gram",
+  "word": "kāraṇa-abhāve",
+  "old": "tat-puruṣa, n. loc. sg.",
+  "new": "tat-puruṣa, m. loc. sg.",
+  "why": "reviewer (minor): abhāva is masculine."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "क्योंकि स्वयं को त्याग चुके की किसी एक की सिद्धि होती है,” ऐसा आचार्य कहते हैं।",
+  "new": "क्योंकि स्वयं को त्याग चुके की एक या दूसरे की सिद्धि होती है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): anyatara = one of two (English 'one or the other'); 'किसी एक' means any one of many."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "sandheyatām",
+  "old": "fitness for peace",
+  "new": "fitness to be allied with",
+  "why": "reviewer (error): Glossary 7.6/7.13: sandheya = to be allied with (not 'fit for peace')."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "Having perceived the fitness for peace of himself and of the other, [he] should make peace.",
+  "new": "Having perceived the fitness of himself and of the other to be allied with, [he] should make peace.",
+  "why": "reviewer (error): As above."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "स्वयं के और दूसरे के सन्धि-योग्य होने को जानकर सन्धि करे।",
+  "new": "स्वयं के और दूसरे के सन्धि करने योग्य होने को जानकर सन्धि करे।",
+  "why": "reviewer (minor): Glossary 7.6 Hindi for sandheya: सन्धि करने योग्य."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "sandheyasya",
+  "old": "of [one] fit for peace",
+  "new": "of [one] to be allied with",
+  "why": "reviewer (error): Glossary 7.6/7.13: sandheya = to be allied with."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "Or [he] should send an envoy of [one] fit for peace.",
+  "new": "Or [he] should send an envoy of [one] to be allied with.",
+  "why": "reviewer (error): As above."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "या सन्धि के योग्य के दूत को भेजे।",
+  "new": "या सन्धि करने योग्य के दूत को भेजे।",
+  "why": "reviewer (minor): Glossary 7.6 Hindi: सन्धि करने योग्य."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Or, having honoured with wealth and honour [the one] sent by him, [he] should say: “This is the king's house of wares, this [that] of the queens and princes, on the word of the queens and princes; this kingdom, and I, [are] entrusted to you.”",
+  "new": "Or, having honoured with wealth and honour [the one] sent by him, [he] should say: “This [is] the king's house of wares, this [is] of the queens and princes, on the word of the queens and princes; this kingdom, and I, [are] entrusted to you.”",
+  "why": "reviewer (error): Copula 'is' unbracketed (no verb in the Sanskrit); '[that]' is a muddled supply."
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "labdha-saṃśrayaḥ",
+  "old": "[one] who has obtained refuge",
+  "new": "[one] who has obtained shelter",
+  "why": "reviewer (error): Draft says refuge 'Book 7 convention'; the glossary (7.2) fixes saṃśraya = seeking shelter, saṃśrita = one who has taken shelter."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "[One] who has obtained refuge should conduct himself towards the master like a samaya-ācārika (one of agreed conduct).",
+  "new": "[One] who has obtained shelter should conduct himself towards the master like a samaya-ācārika.",
+  "why": "reviewer (error): 'refuge' against glossary 'shelter'; and the literal of the obscure samaya-ācārika stands inside the English text (glossary: gloss/notes only)."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "आश्रय प्राप्त किया हुआ समय-आचारिक के समान भर्ता के प्रति बर्ताव करे।",
+  "new": "संश्रय प्राप्त किया हुआ समय-आचारिक के समान भर्ता के प्रति बर्ताव करे।",
+  "why": "reviewer (error): Glossary 7.2 Hindi for saṃśraya is संश्रय (आश्रय is āśraya)."
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "saṃśraya = seeking refuge (Book 7 convention), here the refuge obtained. samaya-ācārika is obscure: samaya = agreement, convention, rule; ācārika = of/practising conduct; rendered literally 'one of agreed conduct' with doubt; commentators may take it as one who follows the agreed rules of conduct (a servant by agreement). bhartṛ = master, lord. samaya-ācārikavat is printed as one word with -vat.",
+  "new": "saṃśraya = seeking refuge (Book 7 convention), here the refuge obtained. samaya-ācārika is obscure: samaya = agreement, convention, rule; ācārika = of/practising conduct; rendered literally 'one of agreed conduct' with doubt; commentators may take it as one who follows the agreed rules of conduct (a servant by agreement). bhartṛ = master, lord. samaya-ācārikavat is printed as one word with -vat. Review: saṃśraya = shelter (glossary 7.2), not 'refuge'; the literal 'one of agreed conduct' for samaya-ācārika belongs here only (obscure, left untranslated in the text).",
+  "why": "reviewer (minor): Convention misreported."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "The token ending in '.-' and the next token vihāra.gamanāni are one dvandva compound broken across a line by the edition's continuation mark (the stray space after '.-' is that mark, not flagged); the two words entries carry the members. Obscure: āvāha (lit. 'bringing in'; the bringing home of a bride) and vivāha (marriage); aśva-paṇya (lit. horse-wares, i.e. trade in horses) and hasti-grahaṇa (elephant-capture) are taken as separate members; sattra left untranslated (glossary 7.5; alternatives: sacrificial session as in 5.6, hiding-place as in 8.5); yātrā = expedition (5.6); karmāṇi = works (glossary 5.1). The two ca are rendered 'both ... and' in English, one और in Hindi (glossary 7.5).",
+  "new": "The token ending in '.-' and the next token vihāra.gamanāni are one dvandva compound broken across a line by the edition's continuation mark (the stray space after '.-' is that mark, not flagged); the two words entries carry the members. Obscure: āvāha (lit. 'bringing in'; the bringing home of a bride) and vivāha (marriage); aśva-paṇya (lit. horse-wares, i.e. trade in horses) and hasti-grahaṇa (elephant-capture) are taken as separate members; sattra left untranslated (glossary 7.5; alternatives: sacrificial session as in 5.6, hiding-place as in 8.5); yātrā = expedition (5.6); karmāṇi = works (glossary 5.1). The two ca are rendered 'both ... and' in English, one और in Hindi (glossary 7.5). Review: vihāra-gamana may instead be one tat-puruṣa, 'goings for amusement' (an excursion); the draft's two members 'amusement, goings' is the literal dvandva reading.",
+  "why": "reviewer (minor): Dvandva 'amusement, goings' is one reading; vihāra-gamana may be a tat-puruṣa 'goings for amusement'."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "duṣṭa = spoiled, corrupt (alternative: hostile). The subject (the one who has taken refuge, whose own townsmen and country people are corrupt) is inferred from the context of units 21-23; the Sanskrit gives no noun. yāceta = ask for, beg. paura = townsmen, jānapada = country people (glossary 8.1).",
+  "new": "duṣṭa = spoiled, corrupt (alternative: hostile). The subject (the one who has taken refuge, whose own townsmen and country people are corrupt) is inferred from the context of units 21-23; the Sanskrit gives no noun. yāceta = ask for, beg. paura = townsmen, jānapada = country people (glossary 8.1). Review: vā may join duṣṭa-paura-jānapadaḥ and nyāya-vṛttiḥ as alternatives ('one whose townsmen and country people are corrupt, or one of just conduct, should ask for another land'); the draft reading (a sentence-opening 'Or', then an attribute) is kept as the less certain.",
+  "why": "reviewer (minor): The vā stands after the first compound and may join the two nominatives as alternatives ('one whose townsmen ... are corrupt, or one of just conduct'); the draft makes the second only an attribute. Left as is; noted."
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "pratikurvīta",
+  "old": "should counter",
+  "new": "should counteract",
+  "why": "reviewer (minor): Glossary 7.16: pratikaroti = counteracts (प्रतिकार)."
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "[He] should counter like the treasonable, or by secret punishment.",
+  "new": "[He] should counteract like the treasonable, or by secret punishment.",
+  "why": "reviewer (minor): As above."
+ },
+ {
+  "n": "27",
+  "field": "word.gloss",
+  "word": "upakuryāt",
+  "old": "should help",
+  "new": "should benefit",
+  "why": "reviewer (minor): Glossary 7.16: upa-√kṛ = benefit (उपकार करना), not 'help'."
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "The master not being seen, [he] should see any one of the counsellor, chaplain, commander of the army and heir-apparent, and should help according to [his] power.",
+  "new": "The master not being seen, [he] should see any one of the counsellor, chaplain, commander of the army and heir-apparent, and should benefit according to [his] power.",
+  "why": "reviewer (minor): As above."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "भर्ता के दिखाई न देने पर मन्त्री, पुरोहित, सेनापति और युवराज में से किसी एक को देखे, और यथाशक्ति उपकार करे।",
+  "new": "भर्ता के दिखाई न देने पर मन्त्री, पुरोहित, सेनापति, युवराज में से किसी एक को देखे, और यथाशक्ति उपकार करे।",
+  "why": "reviewer (error): Four-member dvandva: Hindi takes commas only (3.15)."
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "ātma-nisargam",
+  "old": "self-surrender",
+  "new": "bestowal of self",
+  "why": "reviewer (error): Glossary 7.14: ātma-nisarga = bestowal of self (स्वयं को सौंपना), not Hindi निसर्ग/त्याग."
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Everywhere [he] should speak of the quality of self-surrender.",
+  "new": "Everywhere [he] should speak of the quality of bestowal of self.",
+  "why": "reviewer (error): As above."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "सर्वत्र स्वयं के त्याग के गुण को कहे।",
+  "new": "सर्वत्र स्वयं को सौंपने के गुण को कहे।",
+  "why": "reviewer (error): Hindi should be स्वयं को सौंपना (7.14); त्याग is also used for tyakta-ātman (unit 15)."
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "ātma-nisarga is read as 'surrender (lit. release, giving up) of the self'; nisarga can also mean 'nature' (ātma-nisarga 'one's own nature'); the Hindi uses त्याग because निसर्ग in Hindi means 'nature'. Whether ātma-nisargam qualifies guṇam (a quality of self-surrender) or is an object ('self-surrender as a quality') is unclear. guṇa = quality, merit.",
+  "new": "ātma-nisarga is read as 'surrender (lit. release, giving up) of the self'; nisarga can also mean 'nature' (ātma-nisarga 'one's own nature'); the Hindi uses त्याग because निसर्ग in Hindi means 'nature'. Whether ātma-nisargam qualifies guṇam (a quality of self-surrender) or is an object ('self-surrender as a quality') is unclear. guṇa = quality, merit. Review: ātma-nisarga = bestowal of self (स्वयं को सौंपना) as glossary 7.14; 'self-surrender' and Hindi त्याग are withdrawn.",
+  "why": "reviewer (minor): Hindi reason."
+ },
+ {
+  "n": "30",
+  "field": "word.gram",
+  "word": "samyukta-balavat-sevī",
+  "old": "bahuvrīhi, m. nom. sg.",
+  "new": "compound (structure uncertain), m. nom. sg.",
+  "why": "reviewer (minor): Not a bahuvrīhi (sevin is an agent noun); internal structure uncertain."
+ },
+ {
+  "n": "30",
+  "field": "word.gloss",
+  "word": "evam",
+  "old": "thus",
+  "new": "in this way",
+  "why": "reviewer (minor): Glossary 3.20: evam = in this way."
+ },
+ {
+  "n": "30",
+  "field": "english",
+  "old": "United [and] serving the strong, opposed by the suspected and others, submitting with his army, thus situated, [he] should conduct himself towards the master.",
+  "new": "United [and] serving the strong, opposed by the suspected and others, submitting with his army, situated in this way, [he] should conduct himself towards the master.",
+  "why": "reviewer (minor): Glossary 3.20: evam = in this way, not 'thus'."
+ },
+ {
+  "n": "30",
+  "field": "word.w",
+  "word": "samyukta-balavat-sevī",
+  "old": "samyukta-balavat-sevī",
+  "new": "saṃyukta-balavat-sevī",
+  "why": "reviewer (minor): Glossary 7.14: the e-text samyukta is read saṃyukta in w."
+ },
+ {
+  "n": "30",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): The first compound is admitted obscure in the notes and is rendered as two items with an added [and]; confidence should be low."
+ }
+]

@@ -1,0 +1,408 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सोए हुए या मदमत्त",
+     "problem": "Dvandva supta-matta has no particle; या (and English 'or') is a choice. Glossary default for dvandva is 'and'. Left for a person.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोनों कन्या के",
+     "problem": "duhitṛ is 'daughter' (English says daughter; unit 36 uses पुत्रियाँ); कन्या is kanyā 'maiden' (units 2, 38).",
+     "fix": "दोनों पुत्री के",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों कन्या के",
+      "new": "दोनों पुत्री के"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "src sambhūya",
+     "problem": "Edition elsewhere writes ṃ for anusvāra (saṃ-); 'sambhūya' is a legitimate assimilated spelling, so no flag needed, mentioned only for the person.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दिलवाए जाएँ",
+     "problem": "Inconsistent with unit 18 (दिलाए जाएँ) for the same dāpyeta.",
+     "fix": "दिलाए जाएँ",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दिलवाए जाएँ",
+      "new": "दिलाए जाएँ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जाति-बन्धुओं के हाथ से",
+     "problem": "जाति is a different word (caste); jñāti = relatives, and the same sentence renders jñātayaḥ as ज्ञाति-जन.",
+     "fix": "ज्ञाति-जनों के हाथ से",
+     "severity": "error",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जाति-बन्धुओं के हाथ से",
+      "new": "ज्ञाति-जनों के हाथ से"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "src jñāti.hastād.abhimṛṣṭāyā",
+     "problem": "Missing text_flag. The '.' after hastād joins an ablative to the next word; the edition uses '.' for compound joints and a space between words (cf. 'ādānād ārṣaḥ'). Likely typo for 'jñāti.hastād abhimṛṣṭāyā' (two words). The draft kept it as one compound with an ablative inside and called it 'unusual but kept'. Needs hand edit: add text_flag and split the word.",
+     "fix": "text_flags: {src:'jñāti.hastād.abhimṛṣṭāyā', suggest:'jñāti.hastād abhimṛṣṭāyā', why:'possible: second . should be a word break; ablative hastād cannot be a compound member'}; words: replace single entry with jñāti-hastāt [from the hand of relatives; m. abl. sg. tat-puruṣa] + abhimṛṣṭāyāḥ [of one laid hold of; f. gen. sg. pp. abhi-√mṛś]",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note says the ablative inside the compound is 'unusual but kept'; it should say suspected typo.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "append_note",
+      "text": "REVIEW: the second '.' in the printed token is a suspected typo for a word break (hastād abhimṛṣṭāyā), so no ablative sits inside a compound; the sense is unchanged."
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हुई वह खो दे",
+     "problem": "Added subject वह; the Sanskrit states none (glossary 4.12/4.9: unnamed subject left unstated in Hindi).",
+     "fix": "हुई खो दे",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हुई वह खो दे",
+      "new": "हुई खो दे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हुई वह पुत्रों के लिए उसे बढ़ाए",
+     "problem": "Added subject वह and object उसे, neither in the Sanskrit; English brackets them, Hindi has no bracket.",
+     "fix": "हुई पुत्रों के लिए बढ़ाए",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हुई वह पुत्रों के लिए उसे बढ़ाए",
+      "new": "हुई पुत्रों के लिए बढ़ाए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हुई वह पुत्रों के पास",
+     "problem": "Added subject वह; not in the Sanskrit.",
+     "fix": "हुई पुत्रों के पास",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हुई वह पुत्रों के पास",
+      "new": "हुई पुत्रों के पास"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गुरुजन के समीप",
+     "problem": "Sanskrit guru is singular (English 'the elder'); गुरुजन is plural. Glossary 4.10 allows गुरुजन for plural persons only. Person to decide (गुरु risks 'teacher').",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "anvādheyam",
+     "problem": "Gloss 'later-added gift' adds the sense 'gift'; literal is 'what is added afterwards'.",
+     "fix": "anvādheya (added afterwards)",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "word",
+      "match_w": "anvādheyam",
+      "field": "gloss",
+      "value": "anvādheya (added afterwards)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "देकर वह अनेक",
+     "problem": "Added subject वह; not in the Sanskrit.",
+     "fix": "देकर अनेक",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "देकर वह अनेक",
+      "new": "देकर अनेक"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "48 units reviewed. Patches: 8 machine patches (1 error, 7 minor) in units 11,20,24,26,30,32,37,41 plus an append_note on 24. Needs hand edit: unit 24 text_flag and word split. Open for a person (no patch): units 9, 33, and the pervasive Hindi insertion of स्त्री for feminine bare participles/adjectives (units 19-47) against the glossary rule of not supplying the unnamed noun. Closing iti handled correctly (no thus, no इस प्रकार); no Latin or brackets in Hindi. No regrouping suggested."
+}

@@ -1,0 +1,356 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "One who is unable, in despised work, in illness or in calamity, may obtain anuśaya (regret), or [may obtain] to have [it] done by another.",
+  "new": "One who is unable, in despised work, in illness or in calamity, may obtain anuśaya, or [may obtain] to have [it] done by another.",
+  "why": "reviewer (minor): Glossary 3.13/3.15: anuśaya stays anuśaya; 'regret' only in the gloss, not in the English text."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "अथवा भर्ता उसके व्यय-कर्म द्वारा करवाने को पा सकता है।",
+  "new": "अथवा भर्ता उसके व्यय और कर्म द्वारा करवाने को पा सकता है।",
+  "why": "reviewer (minor): English and gloss read the compound as a dvandva ('expenditure and work'); the Hindi drops the 'और'."
+ },
+ {
+  "n": "3",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "tasya.vyaya.karmaṇā",
+    "suggest": "tasya-vyaya.karmaṇā",
+    "why": "possible: 'tasya' is an inflected pronoun, not a compound member (cf. unit 16 'tasya-atikrame'); '.' after it is probably a slip for '-' or a space, so 'tasya' + 'vyaya-karmaṇā'"
+   }
+  ],
+  "why": "reviewer (minor): Missing text_flag: 'tasya' is an inflected pronoun, not a compound member; the e-text joins such words with '-' (cf. unit 16 'tasya-atikrame'). The '.' is probably a slip for a space/'-'. The word entry must then be split by hand (see report)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "“तुम्हारे द्वारा दूसरा करवाया नहीं जाना चाहिए, और मेरे द्वारा दूसरे के लिए किया नहीं जाना चाहिए”, इस रोक में भर्ता के न करवाने पर अथवा भृतक के न करने पर बारह पण का दण्ड है।",
+  "new": "“तुम्हारे द्वारा दूसरा करवाया नहीं जाना चाहिए, या मेरे द्वारा दूसरे के लिए किया नहीं जाना चाहिए”, इस रोक में भर्ता के न करवाने पर अथवा भृतक के न करने पर बारह पण का दण्ड है।",
+  "why": "reviewer (error): Sanskrit has vā (or), not ca; Hindi 'और' and English 'nor' change the particle."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "When, under the restriction “No other is to be made to do [it] by you, nor is [it] to be done by me for another”, the employer does not have [it] done or the hired worker does not do [it], the penalty is twelve paṇas.",
+  "new": "When, under the restriction “No other is to be made to do [it] by you, or [it] is not to be done by me for another”, the employer does not have [it] done or the hired worker does not do [it], the penalty is twelve paṇas.",
+  "why": "reviewer (error): vā rendered 'nor'; keep 'or'."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "In the completion of the work, one who has taken pay should not do [it] elsewhere than [for] the employer, without [his] wish.",
+  "new": "In the completion of the work, one who has taken pay should not do [it] except [for] the employer, without [his] wish.",
+  "why": "reviewer (minor): Glossary (3.4, 5.2): anyatra X = except for X."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "कर्म की समाप्ति में भर्ता से अन्यत्र, जिसने वेतन ले लिया है, इच्छा के बिना न करे।",
+  "new": "कर्म की समाप्ति में भर्ता को छोड़कर, जिसने वेतन ले लिया है, इच्छा के बिना न करे।",
+  "why": "reviewer (minor): Glossary: anyatra X = X को छोड़कर."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "anyatra",
+  "old": "elsewhere than",
+  "new": "except",
+  "why": "reviewer (minor): align with glossary"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "“Of one who does not have [it] done when [it is] presented, he should know [it] as done,” say the teachers.",
+  "new": "“Of one who does not have [it] done when [it is] presented, [one] should know [it] indeed as done,” say the teachers.",
+  "why": "reviewer (error): eva dropped from the English (Hindi has ही); 'he' is not in the Sanskrit and the notes say the subject is not stated."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "If he, having had even a little done, does not have [more] done, [one] should know [it] as done of his.",
+  "new": "If he, having had even a little done, does not have [more] done, [one] should know [it] indeed as done of his.",
+  "why": "reviewer (error): eva dropped from the English (Hindi has ही)."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "यदि वह थोड़ा भी करवाकर न करवाए, तो इसका किया हुआ ही जाने।",
+  "new": "यदि वह थोड़ा भी करवाकर न करवाए, इसका किया हुआ ही जाने।",
+  "why": "reviewer (minor): 'तो' is an unmarked added word (no Sanskrit counterpart)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "बातचीत में तय की गई बात से अधिक किए जाने पर प्रयास को निष्फल न करे।",
+  "new": "बातचीत में तय किए गए से अधिक किए जाने पर प्रयास को निष्फल न करे।",
+  "why": "reviewer (minor): 'बात' is an added noun; sambhāṣita is a participle only."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "इससे संघ के भृतकों की व्याख्या की गई।",
+  "new": "इससे संघ-भृतों की व्याख्या की गई।",
+  "why": "reviewer (minor): English/gloss read saṅgha-bhṛta as 'hired in a group' (cf. 4.5, not the political saṅgha); Hindi 'संघ के' gives a different relation and invites the political sense. Keep the compound."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "For transgression of that, the penalty is twenty-four paṇas.",
+  "new": "In transgression of that, the penalty is twenty-four paṇas.",
+  "why": "reviewer (minor): Glossary 3.8: 'tasya-atikrame' = in transgression of that."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "उसके अतिक्रमण में चौबीस पण का दण्ड है।",
+  "new": "उसका अतिक्रमण होने पर चौबीस पण का दण्ड है।",
+  "why": "reviewer (minor): Glossary 3.8: उसका अतिक्रमण होने पर."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "verse-end mark",
+  "new": "verse-number marker (not a word)",
+  "why": "reviewer (minor): Marker words must be glossed as in ch01 unit 16: 'verse-number marker (not a word)'."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "verse-end mark",
+  "new": "verse-number marker (not a word)",
+  "why": "reviewer (minor): Marker words must be glossed as in ch01 unit 16: 'verse-number marker (not a word)'."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "17",
+  "old": "numeral (edition's sūtra number)",
+  "new": "verse-number marker (not a word)",
+  "why": "reviewer (minor): Marker words must be glossed as in ch01 unit 16: 'verse-number marker (not a word)'."
+ },
+ {
+  "n": "17",
+  "field": "word.gram",
+  "word": "17",
+  "old": "numeral",
+  "new": "number",
+  "why": "reviewer (minor): Marker words must be glossed as in ch01 unit 16: 'verse-number marker (not a word)'."
+ },
+ {
+  "n": "17",
+  "field": "text_flags",
+  "old": [],
+  "new": [
+   {
+    "src": "| 17 |",
+    "suggest": "remove '| 17 |' from the text line",
+    "why": "embedded verse number and bars inside the text; not Sanskrit words"
+   }
+  ],
+  "why": "reviewer (minor): Missing text_flag for the embedded '| 17 |' (as ch01 unit 16)."
+ },
+ {
+  "n": "17",
+  "field": "notes",
+  "old": "The edition's own number '17' with danda marks stands inside the line (end of the first section of the chapter); kept as printed. Closing 'iti X' label rendered 'Such [is] X' per glossary (3.7, 9.3). adhikāra = section/topic heading, literal.",
+  "new": "The edition's own number '17' with danda marks stands inside the line (end of the first section of the chapter); kept as printed. Closing 'iti X' label rendered 'Such [is] X' per glossary (3.7, 9.3). adhikāra = section/topic heading, literal. GROUPING: the printed '| 17 |' is an embedded verse number plus separators inside the unit; the closing label 'iti bhṛtaka-adhikāraḥ' (section title) follows it and belongs to the section, not to the sentence. The three marker words are not Sanskrit words.",
+  "why": "reviewer (minor): Add the GROUPING note as in ch01 unit 16."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "For one left out by the group, half the penalty. Such [is] the section on hired workers.",
+  "new": "For one left out by the group, half the penalty. Such is the section on hired workers.",
+  "why": "reviewer (minor): Closing label 'iti X' = 'Such is X' (ch01 unit 16, glossary 3.4/3.9); no bracketed copula."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "संघ के भृतक, अथवा मिलकर साथ उठ खड़े होने वाले, जैसा बातचीत में तय हुआ वैसा अथवा बराबर वेतन बाँट लें।",
+  "new": "संघ-भृत, अथवा मिलकर साथ उठ खड़े होने वाले, जैसा बातचीत में तय हुआ वैसा अथवा बराबर वेतन बाँट लें।",
+  "why": "reviewer (minor): As unit 12: keep the compound; 'in a group' (English) vs 'of the group' (Hindi) disagree."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "अथवा कृषि करने वाले और वैदेहक, फसल और माल के आरम्भ और समाप्ति के बीच जो डूब गया, उसके जैसे किए गए कर्म का अनुरूप अंश दें।",
+  "new": "अथवा कृषि करने वाले और वैदेहक, फसल और माल के आरम्भ और समाप्ति के बीच डूबे हुए के जैसे किए गए कर्म के अनुरूप अंश दें।",
+  "why": "reviewer (minor): Relative+correlative adds a pronoun 'उसके' not in the Sanskrit (glossary 4.12: no added वह); also inconsistent with unit 21 'डूबे हुए'."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "किन्तु सिद्ध हो जाने पर और माल निकाल लिए जाने पर उसी समय डूबे हुए का अनुरूप अंश दें।",
+  "new": "किन्तु सिद्ध हो जाने पर, माल निकाल लिए जाने पर उसी समय डूबे हुए का अनुरूप अंश दें।",
+  "why": "reviewer (minor): No ca in the Sanskrit between the two locatives; 'और' is added (glossary 3.17/3.4: no और for an unmarked series)."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "But when [it is] accomplished and the wares are taken out, they should give the corresponding share of one who has sunk at that very time.",
+  "new": "But when [it is] accomplished, the wares [being] taken out, they should give the corresponding share of one who has sunk at that very time.",
+  "why": "reviewer (minor): same: 'and' added without ca"
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "svā-pracāra-dravya-varjam",
+  "old": "excluding the things of svā-pracāra",
+  "new": "excluding the things of sva-pracāra",
+  "why": "reviewer (minor): Flag is sound (the e-text undoes sandhi, so a fused 'svā' inside a '.' compound is not sva+a), but the corrected form must be used in `w`, gloss, Hindi and English (project convention, cf. glossary 4.6)."
+ },
+ {
+  "n": "28",
+  "field": "word.w",
+  "word": "svā-pracāra-dravya-varjam",
+  "old": "svā-pracāra-dravya-varjam",
+  "new": "sva-pracāra-dravya-varjam",
+  "why": "reviewer (minor): Flag is sound (the e-text undoes sandhi, so a fused 'svā' inside a '.' compound is not sva+a), but the corrected form must be used in `w`, gloss, Hindi and English (project convention, cf. glossary 4.6)."
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "याजक स्वा-प्रचार द्रव्य को छोड़कर जैसा बातचीत में तय हुआ वैसा अथवा बराबर वेतन बाँट लें।",
+  "new": "याजक स्व-प्रचार द्रव्य को छोड़कर जैसा बातचीत में तय हुआ वैसा अथवा बराबर वेतन बाँट लें।",
+  "why": "reviewer (minor): Flag is sound (the e-text undoes sandhi, so a fused 'svā' inside a '.' compound is not sva+a), but the corrected form must be used in `w`, gloss, Hindi and English (project convention, cf. glossary 4.6)."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "The officiating priests should divide the pay as agreed, or equally, excluding the svā-pracāra things.",
+  "new": "The officiating priests should divide the pay as agreed, or equally, excluding the sva-pracāra things.",
+  "why": "reviewer (minor): Flag is sound (the e-text undoes sandhi, so a fused 'svā' inside a '.' compound is not sva+a), but the corrected form must be used in `w`, gloss, Hindi and English (project convention, cf. glossary 4.6)."
+ },
+ {
+  "n": "28",
+  "field": "notes",
+  "old": "The compound svā-pracāra-dravya is obscure and kept untranslated (possibly 'things of own use/currency', or sva-apracāra 'own non-use'); no sense is asserted. Hindi and English keep 'svā-pracāra'. Also pay (vetanam) here is the priests' fee.",
+  "new": "The compound svā-pracāra-dravya is obscure and kept untranslated (possibly 'things of own use/currency', or sva-apracāra 'own non-use'); no sense is asserted. Hindi and English keep 'svā-pracāra'. Also pay (vetanam) here is the priests' fee. Reviewer: w, Hindi and English use the corrected sva-pracāra (see text_flags); the printed form is svā-pracāra.",
+  "why": "reviewer (minor): Flag is sound (the e-text undoes sandhi, so a fused 'svā' inside a '.' compound is not sva+a), but the corrected form must be used in `w`, gloss, Hindi and English (project convention, cf. glossary 4.6)."
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "अग्निष्टोम आदि यज्ञों में दीक्षण के बाद तीसरा अंश, मध्यम उपसद् के बाद आधा अंश, सुत्य में प्रातःसवन के बाद चौथाई कम अंश।",
+  "new": "और अग्निष्टोम आदि यज्ञों में दीक्षण के बाद तीसरा अंश, मध्यम उपसद् के बाद आधा अंश, सुत्य में प्रातःसवन के बाद चौथाई कम अंश।",
+  "why": "reviewer (error): ca dropped in the Hindi (English has 'And')."
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "madhyama-upasadaḥ",
+  "old": "of the middle upasad",
+  "new": "from the middle upasad",
+  "why": "reviewer (minor): gram says ablative (with ūrdhvam 'after'); the gloss 'of' is a genitive."
+ },
+ {
+  "n": "29",
+  "field": "word.gram",
+  "word": "pāda-ūnam",
+  "old": "n. acc. sg.",
+  "new": "tat-puruṣa, m. acc. sg.",
+  "why": "reviewer (minor): modifies aṃśam (m.), not n.; the compound is a tat-puruṣa (ūna by a quarter)."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "nītāḥ",
+  "old": "brought forward",
+  "new": "brought",
+  "why": "reviewer (minor): 'forward' is not in the Sanskrit (no pra-); keep the root sense literal (glossary: no invented senses)."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "For the fees become brought forward.",
+  "new": "For the fees become brought.",
+  "why": "reviewer (minor): 'forward' is not in the Sanskrit (no pra-); keep the root sense literal (glossary: no invented senses)."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "बृहस्पतिसव को छोड़कर प्रत्येक सवन में दक्षिणाएँ दी जाती हैं।",
+  "new": "क्योंकि बृहस्पतिसव को छोड़कर प्रत्येक सवन में दक्षिणाएँ दी जाती हैं।",
+  "why": "reviewer (error): hi dropped in the Hindi (English has 'For')."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "सत्रों में दस अहोरात्र तक शेष के लिए रखे गए भृतक कर्म करें, अथवा दूसरे अपने विश्वास के।",
+  "new": "सत्रों के दस अहोरात्र तक शेष के लिए रखे गए भृतक कर्म करें, अथवा दूसरे अपने विश्वास के।",
+  "why": "reviewer (minor): w and English are genitive ('of the sessions'); Hindi 'में' is a locative."
+ },
+ {
+  "n": "37",
+  "field": "text_flags.0.suggest",
+  "old": "śata.gur.ayajvā",
+  "new": "śata.gur-ayajvā",
+  "why": "reviewer (minor): Flag is sound (śataguḥ ayajvā ca sahasraguḥ pairs the two cow-owners, and 'guru' cannot be right beside 'sahasraguḥ'), but a join of two real words is written with '-', not '.', in this e-text's convention."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "One who has not established the fire, the owner of a hundred cows, the non-sacrificer, and the owner of a thousand cows; the drinker of surā, the husband of a vṛṣalī, the killer of a Brahmin, one who goes to the guru's bed.",
+  "new": "One who has not established the fire, one having a hundred cows, the non-sacrificer, and the owner of a thousand cows; the drinker of surā, the husband of a vṛṣalī, the killer of a Brahmin, one who goes to the guru's bed.",
+  "why": "reviewer (minor): 'owner' is not in the bahuvrīhi śata-gu / sahasra-gu ('having a hundred / thousand cows'); Hindi 'स्वामी' likewise."
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "One who has not established the fire, one having a hundred cows, the non-sacrificer, and the owner of a thousand cows; the drinker of surā, the husband of a vṛṣalī, the killer of a Brahmin, one who goes to the guru's bed.",
+  "new": "One who has not established the fire, one having a hundred cows, the non-sacrificer, and one having a thousand cows; the drinker of surā, the husband of a vṛṣalī, the killer of a Brahmin, one who goes to the guru's bed.",
+  "why": "reviewer (minor): 'owner' is not in the bahuvrīhi śata-gu / sahasra-gu ('having a hundred / thousand cows'); Hindi 'स्वामी' likewise."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "जिसने अग्नि स्थापित नहीं की, सौ गायों का स्वामी, यज्ञ न करने वाला और हज़ार गायों का स्वामी; सुरा पीने वाला, वृषली का पति, ब्रह्महत्यारा, गुरु की शय्या पर जाने वाला।",
+  "new": "जिसने अग्नि स्थापित नहीं की, सौ गायों वाला, यज्ञ न करने वाला और हज़ार गायों का स्वामी; सुरा पीने वाला, वृषली का पति, ब्रह्महत्यारा, गुरु की शय्या पर जाने वाला।",
+  "why": "reviewer (minor): 'owner' is not in the bahuvrīhi śata-gu / sahasra-gu ('having a hundred / thousand cows'); Hindi 'स्वामी' likewise."
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "जिसने अग्नि स्थापित नहीं की, सौ गायों वाला, यज्ञ न करने वाला और हज़ार गायों का स्वामी; सुरा पीने वाला, वृषली का पति, ब्रह्महत्यारा, गुरु की शय्या पर जाने वाला।",
+  "new": "जिसने अग्नि स्थापित नहीं की, सौ गायों वाला, यज्ञ न करने वाला और हज़ार गायों वाला; सुरा पीने वाला, वृषली का पति, ब्रह्महत्यारा, गुरु की शय्या पर जाने वाला।",
+  "why": "reviewer (minor): 'owner' is not in the bahuvrīhi śata-gu / sahasra-gu ('having a hundred / thousand cows'); Hindi 'स्वामी' likewise."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "śata-guḥ",
+  "old": "owner of a hundred cows",
+  "new": "having a hundred cows",
+  "why": "reviewer (minor): 'owner' is not in the bahuvrīhi śata-gu / sahasra-gu ('having a hundred / thousand cows'); Hindi 'स्वामी' likewise."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "sahasra-guḥ",
+  "old": "owner of a thousand cows",
+  "new": "having a thousand cows",
+  "why": "reviewer (minor): 'owner' is not in the bahuvrīhi śata-gu / sahasra-gu ('having a hundred / thousand cows'); Hindi 'स्वामी' likewise."
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "One engaged in improper acceptance, a thief, a despised priest: [there is] no fault in abandoning one another, because of the certainty of the mixing of the works.",
+  "new": "One engaged in bad acceptance, a thief, a despised priest: [there is] no fault in abandoning one another, because of the certainty of the mixing of the works.",
+  "why": "reviewer (minor): 'improper' is interpretation; asat = bad (notes say literal 'bad acceptance'; Hindi has बुरे)."
+ },
+ {
+  "n": "38",
+  "field": "word.gloss",
+  "word": "asat-pratigrahe",
+  "old": "in improper acceptance",
+  "new": "in bad acceptance",
+  "why": "reviewer (minor): 'improper' is interpretation; asat = bad (notes say literal 'bad acceptance'; Hindi has बुरे)."
+ }
+]

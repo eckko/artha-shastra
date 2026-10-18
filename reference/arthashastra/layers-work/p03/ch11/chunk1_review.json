@@ -1,0 +1,980 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "monthly interest ... is a paṇa",
+     "problem": "Supplied copula is unbracketed (convention: bare copula in brackets).",
+     "fix": "The lawful monthly interest on a hundred paṇas [is] a paṇa and a quarter",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "interest on a hundred paṇas is a paṇa",
+      "new": "interest on a hundred paṇas [is] a paṇa"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[falls]",
+     "problem": "'[falls]' is an interpretive verb; glossary 13.2 allows only a bare copula for a missing predicate.",
+     "fix": "[is] for the doer ...; for the hearers",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "[falls] on the doer",
+      "new": "[is] for the doer"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[falls] [patch 2]",
+     "problem": "(companion patch of the previous issue) '[falls]' is an interpretive verb; glossary 13.2 allows only a bare copula for a",
+     "fix": "[is] for the doer ...; for the hearers",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "; on the hearers",
+      "new": "; for the hearers"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[falls] [patch 3]",
+     "problem": "(companion patch of the previous issue) '[falls]' is an interpretive verb; glossary 13.2 allows only a bare copula for a",
+     "fix": "[is] for the doer ...; for the hearers",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "append_note",
+      "text": "Review: '[falls]' replaced by the bare copula '[is]' (glossary 13.2)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "brings to the king",
+     "problem": "rājani is a locative agreeing with the adjective -āvahe; 'to the king' (a recipient) and '[it]' are the drafter's construction, not in the Sanskrit. The line stays doubtful (confidence low is right).",
+     "fix": "a person to settle the construction",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mūlya-kṛtā",
+     "problem": "Wrong case: -kṛtā cannot be the feminine instrumental (that would be -kṛtayā); it is f. nom. sg. agreeing with the unstated vṛddhiḥ. English 'by [that] made by the value' is not sense.",
+     "fix": "f. nom. sg. p.p. tat-puruṣa (agrees with the unstated vṛddhiḥ)",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "mūlya-kṛtā",
+      "field": "gram",
+      "value": "f. nom. sg. p.p. tat-puruṣa (agrees with the unstated vṛddhiḥ)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mūlya-kṛtā",
+     "problem": "'made by the value' follows the wrong case.",
+     "fix": "made at the value",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "mūlya-kṛtā",
+      "field": "gloss",
+      "value": "made at the value"
+     }
+    },
+    {
+     "field": "english",
+     "where": "it should increase by [that] made by the value",
+     "problem": "Follows the wrong instrumental reading.",
+     "fix": "beyond that, [it,] made at the value, should increase",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "it should increase by [that] made by the value",
+      "new": "[it,] made at the value, should increase"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मूल्य द्वारा किए हुए से बढ़े",
+     "problem": "Follows the wrong instrumental reading.",
+     "fix": "इसके आगे मूल्य से किया हुआ बढ़े।",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूल्य द्वारा किए हुए से बढ़े",
+      "new": "मूल्य से किया हुआ बढ़े"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "an addition / sunk in saṃnidhāna",
+     "problem": "saṃnidhāna-sannā must stay untranslated (decision for 3.11); 'sunk in saṃnidhāna' translates it in the running text. prakṣepa = putting-in per glossary 3.13, not 'addition'.",
+     "fix": "Interest on a putting-in [is] half of the yield; the annual [interest], saṃnidhāna-sannā, is to be given.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "Interest on an addition",
+      "new": "Interest on a putting-in"
+     }
+    },
+    {
+     "field": "english",
+     "where": "an addition / sunk in saṃnidhāna [patch 2]",
+     "problem": "(companion patch of the previous issue) saṃnidhāna-sannā must stay untranslated (decision for 3.11); 'sunk in saṃnidhāna",
+     "fix": "Interest on a putting-in [is] half of the yield; the annual [interest], saṃnidhāna-sannā, is to be given.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "sunk in saṃnidhāna,",
+      "new": "saṃnidhāna-sannā,"
+     }
+    },
+    {
+     "field": "english",
+     "where": "an addition / sunk in saṃnidhāna [patch 3]",
+     "problem": "(companion patch of the previous issue) saṃnidhāna-sannā must stay untranslated (decision for 3.11); 'sunk in saṃnidhāna",
+     "fix": "Interest on a putting-in [is] half of the yield; the annual [interest], saṃnidhāna-sannā, is to be given.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "संनिधान में डूबा हुआ",
+      "new": "संनिधान-सन्ना"
+     }
+    },
+    {
+     "field": "english",
+     "where": "an addition / sunk in saṃnidhāna [patch 4]",
+     "problem": "(companion patch of the previous issue) saṃnidhāna-sannā must stay untranslated (decision for 3.11); 'sunk in saṃnidhāna",
+     "fix": "Interest on a putting-in [is] half of the yield; the annual [interest], saṃnidhāna-sannā, is to be given.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "prakṣepa-vṛddhiḥ",
+      "field": "gloss",
+      "value": "interest on a putting-in (prakṣepa)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "an addition / sunk in saṃnidhāna [patch 5]",
+     "problem": "(companion patch of the previous issue) saṃnidhāna-sannā must stay untranslated (decision for 3.11); 'sunk in saṃnidhāna",
+     "fix": "Interest on a putting-in [is] half of the yield; the annual [interest], saṃnidhāna-sannā, is to be given.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "udayāt",
+      "field": "gloss",
+      "value": "from the yield"
+     }
+    },
+    {
+     "field": "english",
+     "where": "an addition / sunk in saṃnidhāna [patch 6]",
+     "problem": "(companion patch of the previous issue) saṃnidhāna-sannā must stay untranslated (decision for 3.11); 'sunk in saṃnidhāna",
+     "fix": "Interest on a putting-in [is] half of the yield; the annual [interest], saṃnidhāna-sannā, is to be given.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "append_note",
+      "text": "Review: translation of saṃnidhāna-sannā removed from English/Hindi (kept untranslated, literal 'sunk in saṃnidhāna' stays in the gloss only). vārṣikī = 'annual' is undecided against the 9.1 rule 'of the rainy season' (a person must decide). udayāt is read 'from the yield' (ablative of source), not a comparative."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रविष्ट मूल्य",
+     "problem": "Hindi parses as 'entered the value'; a comma is needed.",
+     "fix": "...स्तम्भ में प्रविष्ट, मूल्य का दुगुना दे।",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रविष्ट मूल्य",
+      "new": "प्रविष्ट, मूल्य"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "'entered an obstruction' is not a sense; the drafter's own note says low-medium.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "bandha untranslated, sādhayataḥ / 'mūlyaṃ vā vṛddhim āropya' constructions unsettled; medium is too firm.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "abhūta-catur-guṇaḥ",
+     "problem": "Unit 7 labels the same pattern (bandha-catur-guṇaḥ) bahuvrīhi; align.",
+     "fix": "m. nom. sg. bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "abhūta-catur-guṇaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. bahuvrīhi"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tasya",
+     "problem": "Gender cannot be fixed (could refer to bandha, m.); glossary 3.5 convention 'm./n.'.",
+     "fix": "m./n. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "tasya",
+      "field": "gram",
+      "value": "m./n. gen. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "छोड़े जाते हुए",
+     "problem": "छोड़ना in Hindi means 'abandon/waive', the opposite of the intended 'released (offered)'.",
+     "fix": "मुक्त किए जाते हुए ऋण को",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "छोड़े जाते हुए",
+      "new": "मुक्त किए जाते हुए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those in vyasana (calamity)",
+     "problem": "Settled for 3.11 (aligned with 3.16 unit 30): vyasani in this exception list = afflicted. 'in the cases of' is an added noun; siblings bracket it. Hindi adds मामलों.",
+     "fix": "except in [the cases of] minors, the aged, the sick, the afflicted, the absent, leaving the region and upheaval of the kingdom",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "except in the cases of minors, the aged, the sick, those in vyasana (calamity), the absent",
+      "new": "except in [the cases of] minors, the aged, the sick, the afflicted, the absent"
+     }
+    },
+    {
+     "field": "english",
+     "where": "those in vyasana (calamity) [patch 2]",
+     "problem": "(companion patch of the previous issue) Settled for 3.11 (aligned with 3.16 unit 30): vyasani in this exception list = a",
+     "fix": "except in [the cases of] minors, the aged, the sick, the afflicted, the absent, leaving the region and upheaval of the kingdom",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्यसन में पड़े, प्रवासियों, देश-त्याग और राज्य-विभ्रम के मामलों को छोड़कर",
+      "new": "व्यसन वाले, प्रवासियों, देश-त्याग और राज्य-विभ्रम को छोड़कर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "those in vyasana (calamity) [patch 3]",
+     "problem": "(companion patch of the previous issue) Settled for 3.11 (aligned with 3.16 unit 30): vyasani in this exception list = a",
+     "fix": "except in [the cases of] minors, the aged, the sick, the afflicted, the absent, leaving the region and upheaval of the kingdom",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "bāla-vṛddha-vyādhita-vyasani-proṣita-deśa-tyāga-rājya-vibhramebhyaḥ",
+      "field": "gloss",
+      "value": "minors, aged, sick, afflicted (in calamity), absent, leaving the region, upheaval of the kingdom"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो ... हैं",
+     "problem": "'जो' and 'हैं' make riktha-harāḥ an apposition to dāyādāḥ; the Sanskrit is an unmarked list.",
+     "fix": "अथवा उत्तराधिकारी, रिक्थ लेने वाले, साथ ग्रहण करने वाले, अथवा प्रतिभू।",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा उत्तराधिकारी जो रिक्थ लेने वाले हैं, साथ ग्रहण करने वाले",
+      "new": "अथवा उत्तराधिकारी, रिक्थ लेने वाले, साथ ग्रहण करने वाले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुकारें",
+     "problem": "English/gloss say 'claim against' but Hindi keeps the literal 'call'; the two languages disagree on abhivad. Not patched: a person should choose either the literal sense in both (address / पुकारना) or the legal sense in both (sue / दावा करना).",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "iti (after proṣita)",
+     "problem": "Closing iti with no opening quotation mark in the unit; chapters 17 and 19 flag exactly this. Suggest a missing text_flag (needs a hand edit).",
+     "fix": "{'src':'iti','suggest':'\"aprati.vidhāya proṣita\" iti','why':'closing iti with no opening quotation mark in the unit; rendered as a condition [if] in the translation'}",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "a-sampratipattau",
+     "problem": "w should carry the corrected form without a hyphen (the word is not a '.'/'-' compound in the print; the 3.17 rule keeps one plain form).",
+     "fix": "asampratipattau",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "a-sampratipattau",
+      "field": "w",
+      "value": "asampratipattau"
+     }
+    },
+    {
+     "field": "english",
+     "where": "three of the lower half",
+     "problem": "'of the lower half' is an invented sense of avara-ardhya (obscure); obscure terms are kept untranslated with the literal in the gloss.",
+     "fix": "trustworthy, pure or approved, three avara-ardhya",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "three of the lower half",
+      "new": "three avara-ardhya"
+     }
+    },
+    {
+     "field": "english",
+     "where": "three of the lower half [patch 2]",
+     "problem": "(companion patch of the previous issue) 'of the lower half' is an invented sense of avara-ardhya (obscure); obscure term",
+     "fix": "trustworthy, pure or approved, three avara-ardhya",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निम्न अर्ध वाले तीन",
+      "new": "तीन अवर-अर्ध्य"
+     }
+    },
+    {
+     "field": "english",
+     "where": "three of the lower half [patch 3]",
+     "problem": "(companion patch of the previous issue) 'of the lower half' is an invented sense of avara-ardhya (obscure); obscure term",
+     "fix": "trustworthy, pure or approved, three avara-ardhya",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "avara-ardhyāḥ",
+      "field": "gloss",
+      "value": "avara-ardhya (obscure, kept; literally 'of the lower half')"
+     }
+    },
+    {
+     "field": "english",
+     "where": "three of the lower half [patch 4]",
+     "problem": "(companion patch of the previous issue) 'of the lower half' is an invented sense of avara-ardhya (obscure); obscure term",
+     "fix": "trustworthy, pure or approved, three avara-ardhya",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "append_note",
+      "text": "Review: avara-ardhya kept untranslated in English and Hindi (sense, e.g. 'at least', not settled)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "माता-पिता पुत्रों के",
+     "problem": "ca after putrāṇām is dropped (3.17: ca present in the Sanskrit is rendered और).",
+     "fix": "और माता-पिता पुत्रों के",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "माता-पिता पुत्रों के",
+      "new": "और माता-पिता पुत्रों के"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kuryuḥ",
+     "problem": "'they should give' translates sākṣyam kuryuḥ, not the verb √kṛ.",
+     "fix": "they should make (sākṣyam kuryuḥ = give testimony)",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "kuryuḥ",
+      "field": "gloss",
+      "value": "they should make (sākṣyam kuryuḥ = give testimony)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "parā.uktā",
+     "problem": "UNSOUND flag: parā.ukta is the edition's regular spelling (3.1.19-33: parā.uktaḥ, parā.ukta.daṇḍaḥ ...), kept untranslated as the term parā-ukta in the glossary (3.1). Delete the text_flag (hand edit).",
+     "fix": "(delete text_flags entry; keep src parā.uktā)",
+     "severity": "error"
+    },
+    {
+     "field": "split",
+     "where": "para-uktāḥ",
+     "problem": "w must be the term parā-uktāḥ (nom. pl.), as in 3.1; 'stated by the other' invents a sense and the long ā is not a typo.",
+     "fix": "parā-uktāḥ [parā-ukta (term, kept) | m. nom. pl.]",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "para-uktāḥ",
+      "field": "gloss",
+      "value": "parā-ukta (term, kept)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "para-uktāḥ [patch 2]",
+     "problem": "(companion patch of the previous issue) w must be the term parā-uktāḥ (nom. pl.), as in 3.1; 'stated by the other' inven",
+     "fix": "parā-uktāḥ [parā-ukta (term, kept) | m. nom. pl.]",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "para-uktāḥ",
+      "field": "gram",
+      "value": "m. nom. pl."
+     }
+    },
+    {
+     "field": "split",
+     "where": "para-uktāḥ [patch 3]",
+     "problem": "(companion patch of the previous issue) w must be the term parā-uktāḥ (nom. pl.), as in 3.1; 'stated by the other' inven",
+     "fix": "parā-uktāḥ [parā-ukta (term, kept) | m. nom. pl.]",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "para-uktāḥ",
+      "field": "w",
+      "value": "parā-uktāḥ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ten bandhas / five bandhas / The section on witnesses.",
+     "problem": "(a) 'stated by the other' removed with the term parā-ukta; (b) daśa-bandha / pañca-bandha kept untranslated as in 3.13; (c) closing 'iti X' label in Book 3 = 'Such is X', iti glossed 'closing particle' (not 9.6 style).",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "english",
+      "value": "And in mutual accusation among these, the highest parā-uktas should give a daśa-bandha, the lowest a pañca-bandha. Such is the section on witnesses."
+     }
+    },
+    {
+     "field": "english",
+     "where": "ten bandhas / five bandhas / The section on witnesses. [patch 2]",
+     "problem": "(companion patch of the previous issue) (a) 'stated by the other' removed with the term parā-ukta; (b) daśa-bandha / pañ",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "set",
+      "field": "hindi",
+      "value": "और इनके परस्पर अभियोग में, सर्वोच्च परा-उक्त दश-बन्ध दें, निम्नतम पञ्च-बन्ध। यह साक्षी-अधिकार है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ten bandhas / five bandhas / The section on witnesses. [patch 3]",
+     "problem": "(companion patch of the previous issue) (a) 'stated by the other' removed with the term parā-ukta; (b) daśa-bandha / pañ",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing particle"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ten bandhas / five bandhas / The section on witnesses. [patch 4]",
+     "problem": "(companion patch of the previous issue) (a) 'stated by the other' removed with the term parā-ukta; (b) daśa-bandha / pañ",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "daśa-bandham",
+      "field": "gloss",
+      "value": "daśa-bandha (kept; literally 'ten bandhas')"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ten bandhas / five bandhas / The section on witnesses. [patch 5]",
+     "problem": "(companion patch of the previous issue) (a) 'stated by the other' removed with the term parā-ukta; (b) daśa-bandha / pañ",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "pañca-bandham",
+      "field": "gloss",
+      "value": "pañca-bandha (kept; literally 'five bandhas')"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ten bandhas / five bandhas / The section on witnesses. [patch 6]",
+     "problem": "(companion patch of the previous issue) (a) 'stated by the other' removed with the term parā-ukta; (b) daśa-bandha / pañ",
+     "fix": "see patch",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "append_note",
+      "text": "Review: parā.uktā is the edition's regular spelling of parā-ukta (as in 3.1), so the drafter's text_flag is withdrawn (a person should delete it); parā-ukta, daśa-bandha and pañca-bandha are kept untranslated (3.1, 3.13). The construction 'uttamāḥ parā-uktāḥ' (the highest parā-uktas) is still doubtful."
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दण्ड भी / वैसा",
+     "problem": "'भी' is added (ca = और is already there); 'वैसा' is a correlative not in the Sanskrit.",
+     "fix": "और दण्ड साथ बँधा है; बाद में भी देखे-सुने के अनुसार जाना जाए",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और दण्ड भी साथ बँधा है",
+      "new": "और दण्ड साथ बँधा है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दण्ड भी / वैसा [patch 2]",
+     "problem": "(companion patch of the previous issue) 'भी' is added (ca = और is already there); 'वैसा' is a correlative not in the San",
+     "fix": "और दण्ड साथ बँधा है; बाद में भी देखे-सुने के अनुसार जाना जाए",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जैसा देखा-सुना, वैसा जाना जाए",
+      "new": "देखे-सुने के अनुसार जाना जाए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सत्य / प्रस्तुत",
+     "problem": "'सत्य' is an added noun (English has [it]); Hindi for upa-√hṛ differs from unit 37 (अर्पित).",
+     "fix": "जो अर्पित नहीं करते उनका ...",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो सत्य प्रस्तुत नहीं करते",
+      "new": "जो अर्पित नहीं करते"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sapta-rātrāt",
+     "problem": "-rātra compounds are masculine (rātrāhnāhāḥ pumsi), the a-stem ablative is not feminine.",
+     "fix": "m. abl. sg. dvigu",
+     "severity": "error",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "sapta-rātrāt",
+      "field": "gram",
+      "value": "m. abl. sg. dvigu"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ओर / उसी / नियन्त्रित",
+     "problem": "'ओर' (added noun) and 'उसी' (emphasis) are not in the Sanskrit; 'नियन्त्रित' does not match the English 'settle'.",
+     "fix": "साक्षियों में भेद होने पर जहाँ बहुत से शुद्ध अथवा अनुमत हों, वहाँ से निर्णय करें, अथवा मध्य को ग्रहण करें।",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस ओर बहुत से शुद्ध अथवा अनुमत हों, उसी से नियन्त्रित करें",
+      "new": "जहाँ बहुत से शुद्ध अथवा अनुमत हों, वहाँ से निर्णय करें"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Or if they should state more",
+     "problem": "'if' is supplied without brackets.",
+     "fix": "Or [if] they should state more",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "Or if they",
+      "new": "Or [if] they"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कहें तो",
+     "problem": "Hindi adds तो where English brackets [If] (glossary 3.18).",
+     "fix": "अथवा अधिक कहें, उस अधिक को राजा ले ले।",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कहें तो उस",
+      "new": "कहें, उस"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रेत",
+     "problem": "Glossary 5.3: preta = the deceased (मृतक), never प्रेत (ghost).",
+     "fix": "मृतक के अभिनिवेश",
+     "severity": "error",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रेत के अभिनिवेश",
+      "new": "मृतक के अभिनिवेश"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(hi dropped)",
+     "problem": "hi is rendered 'For' in English but dropped in Hindi.",
+     "fix": "क्योंकि साक्षियों द्वारा निश्चित रूप से सुना जाना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निश्चित रूप से साक्षियों द्वारा सुना",
+      "new": "क्योंकि साक्षियों द्वारा निश्चित रूप से सुना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed 50 units. Issues: errors 11, minor 22. Main points: (1) u33 drafter text_flag on parā.uktā is unsound: it is the edition's regular spelling of the term parā-ukta (3.1), so the term is kept and the flag should be deleted; u33 also aligned to the 3.13 untranslated daśa-/pañca-bandha and to the Book 3 'Such is X' closing-label convention; (2) u4 wrong case label for mūlya-kṛtā (not instrumental); (3) u5 saṃnidhāna-sannā translated though to be kept untranslated; (4) u26 invented sense 'of the lower half' for avara-ardhya; (5) u38 -rātra compound labelled feminine; (6) Hindi slips: प्रेत (u43), भी/वैसा (u37), added सत्य (u38), dropped और/क्योंकि (u32, u48), तो (u42); (7) confidence of u6 and u7 lowered to low. Companion patches of one issue are listed as consecutive issues and should be applied together, in order. No regrouping suggested (units follow the edition's verse numbers; u29 continues the pratiṣiddhāḥ list of u28 but is a separate numbered verse)."
+}

@@ -1,0 +1,196 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Of another's people, the penalties [are] the first, the middle, the highest and killing; and of the buyers and the hearers.",
+  "new": "Of another's people, the penalties [are] the first, the middle, the highest and death; and of the buyers and the hearers.",
+  "why": "reviewer (minor): glossary 4.12: vadha alone = death"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "pūrva-madhyama-uttama-vadhāḥ",
+  "old": "first, middle, highest and killing",
+  "new": "first, middle, highest and death",
+  "why": "reviewer (minor): same: vadha = death"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "पराये जन का प्रथम, मध्यम, सर्वोच्च और वध — ये दण्ड हैं, और खरीदने वालों तथा सुनने वालों का।",
+  "new": "पराये जन का प्रथम, मध्यम, सर्वोच्च और वध — दण्ड हैं, और खरीदने वालों तथा सुनने वालों का।",
+  "why": "reviewer (minor): added demonstrative ये (no word in Sanskrit; glossary 3.3 no added यह)"
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "para-janasya",
+  "old": "tat-puruṣa, m. gen. sg.",
+  "new": "karmadhāraya, m. gen. sg.",
+  "why": "reviewer (minor): para + jana is karmadhāraya (as sva-janasya in unit 1), not tat-puruṣa"
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "adoṣaḥ",
+  "old": "m. nom. sg.",
+  "new": "tat-puruṣa (nañ), m. nom. sg.",
+  "why": "reviewer (minor): compound type missing"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "para-viṣaya-abhimukhau",
+  "old": "facing another's territory",
+  "new": "facing another territory",
+  "why": "reviewer (minor): glossary 4.13: para-viṣaya = another territory"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "One who has pledged himself once, [and] has run away, should sink; one pledged by another, twice; both, once, facing another's territory.",
+  "new": "One who has pledged himself once, [and] has run away, should sink; one pledged by another, twice; both, once, facing another territory.",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "daṇḍa-preṣaṇam",
+  "old": "sending of punishment",
+  "new": "sending of penalty",
+  "why": "reviewer (minor): glossary: daṇḍa = penalty (not punishment)"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Causing the pledged one to take the deceased, excrement, urine and leftovers; causing [him] to bathe naked; sending of punishment; and transgression of women — [these are] causing the destruction of the price; and of the nurse, the attendant, the ardha-sītika and the servant, [it is] release-making.",
+  "new": "Causing the pledged one to take the deceased, excrement, urine and leftovers; causing [him] to bathe naked; sending of penalty; and transgression of women — [these are] causing the destruction of the price; and of the nurse, the attendant, the ardha-sītika and the servant, [it is] release-making.",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "sva-vaśām",
+  "old": "in her own power",
+  "new": "in one's own power",
+  "why": "reviewer (minor): gloss says \"her own power\" but English and notes say the goer's/one's own; make consistent"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "For one who goes to a nurse or an āhitikā, unwilling, [if she is] in his own power, the first fine for rashness; [if] in another's power, the middle.",
+  "new": "For one who goes to a nurse or an āhitikā, unwilling, [if she is] in one's own power, the first fine for rashness; [if] in another's power, the middle.",
+  "why": "reviewer (minor): \"his\" is an added referent (sva- only says own)"
+ },
+ {
+  "n": "14",
+  "field": "word.gram",
+  "word": "pitryam",
+  "old": "n. acc. sg.",
+  "new": "m. acc. sg.",
+  "why": "reviewer (minor): pitrya agrees with dāyam (m.), not n."
+ },
+ {
+  "n": "18",
+  "field": "word.gram",
+  "word": "daṇḍa-praṇītaḥ",
+  "old": "tat-puruṣa, m. nom. sg.",
+  "new": "bahuvrīhi, m. nom. sg. pp. pra-√nī",
+  "why": "reviewer (minor): gloss is a bahuvrīhi sense (\"one for whom a penalty has been administered\") but gram says tat-puruṣa"
+ },
+ {
+  "n": "19",
+  "field": "word.gram",
+  "word": "karma-kāla-anurūpeṇa",
+  "old": "tat-puruṣa, m. inst. sg.",
+  "new": "dvandva + tat-puruṣa, m. inst. sg.",
+  "why": "reviewer (minor): karma-kāla is a dvandva inside the compound (as unit 9 labels)"
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "ध्वज-आहृत आर्य-प्राण कर्म और काल के अनुरूप, अथवा आधे मूल्य से मुक्त किया जाए।",
+  "new": "ध्वज द्वारा लाया गया आर्य-प्राण कर्म और काल के अनुरूप, अथवा आधे मूल्य से मुक्त किया जाए।",
+  "why": "reviewer (minor): the fixed rendering \"brought by the banner\" is not carried into Hindi (compound left as Sanskrit, glossary style gives a Hindi rendering)"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "For one who brings to sale or pledge any one of those born in the house, come by inheritance, obtained or bought — a slave under eight years, without relatives, unwilling — [for] low work or in a foreign country, or a pregnant female slave with the maintenance of the embryo not provided for: the first fine for rashness; and of the buyers and hearers.",
+  "new": "For one who brings to sale or pledge any one of those born in the house, come by inheritance, obtained or bought — a slave under eight years, without relatives, unwilling — [for] low work, in a foreign country, or a pregnant female slave with the maintenance of the embryo not provided for: the first fine for rashness; and of the buyers and hearers.",
+  "why": "reviewer (minor): \"or\" added; Sanskrit has two bare locatives (nīce karmaṇi videśe) with no vā between them"
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "घर में उत्पन्न, दाय से आए, प्राप्त और खरीदे हुओं में से किसी एक दास को — आठ वर्ष से कम, बन्धुरहित, अनिच्छुक — नीच कर्म में अथवा विदेश में, या गर्भवती दासी को, जिसके गर्भ के भरण-पोषण का प्रबन्ध नहीं किया गया, बिक्री या बन्धक में ले जाने वाले का प्रथम साहस-दण्ड है, और खरीदने वालों तथा सुनने वालों का।",
+  "new": "घर में उत्पन्न, दाय से आए, प्राप्त और खरीदे हुओं में से किसी एक दास को — आठ वर्ष से कम, बन्धुरहित, अनिच्छुक — नीच कर्म में, विदेश में, या गर्भवती दासी को, जिसके गर्भ के भरण-पोषण का प्रबन्ध नहीं किया गया, बिक्री या बन्धक में ले जाने वाले का प्रथम साहस-दण्ड है, और खरीदने वालों तथा सुनने वालों का।",
+  "why": "reviewer (minor): अथवा added with no Sanskrit word (glossary 3.4: no joining word in a series without ca/vā)"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "दास को उचित निष्क्रय पर आर्य न बनाने वाले का दण्ड बारह पण है, और करने तक संरोध है।",
+  "new": "दास को अनुरूप निष्क्रय के बदले आर्य न बनाने वाले का दण्ड बारह पण है, और करने तक संरोध है।",
+  "why": "reviewer (minor): glossary 4.12: niṣkrayeṇa = for a ransom (निष्क्रय के बदले); anurūpa elsewhere अनुरूप"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "jñātayaḥ",
+  "old": "kinsmen",
+  "new": "kin",
+  "why": "reviewer (minor): glossary 3.4: jñāti = kin (3.2: relatives, ज्ञाति-जन); \"kinsmen\" is the kulya word"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Of the slave's property the kinsmen [are] the heirs; in their absence, the master.",
+  "new": "Of the slave's property the kin [are] the heirs; in their absence, the master.",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "दास के द्रव्य के उत्तराधिकारी ज्ञाति हैं; उनके अभाव में स्वामी।",
+  "new": "दास के द्रव्य के उत्तराधिकारी ज्ञाति-जन हैं; उनके अभाव में स्वामी।",
+  "why": "reviewer (minor): glossary 3.2: ज्ञाति-जन, never जाति; bare ज्ञाति may be misread"
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "25",
+  "old": "verse number",
+  "new": "verse number",
+  "why": "reviewer (minor): sibling chapters label the verse number \"verse number\""
+ },
+ {
+  "n": "27",
+  "field": "word.gram",
+  "word": "karma-kāla-anurūpam",
+  "old": "tat-puruṣa, n. acc. sg.",
+  "new": "dvandva + tat-puruṣa, n. acc. sg.",
+  "why": "reviewer (minor): as unit 19"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "फसलों का किसान, घी का ग्वाला, स्वयं व्यवहार किए गए माल का वैदेहक — जिसका वेतन तय नहीं हुआ, दसवाँ भाग पाए।",
+  "new": "फसलों का किसान, घी का ग्वाला, स्वयं व्यवहार किए गए पण्य का वैदेहक — जिसका वेतन तय नहीं हुआ, दसवाँ भाग पाए।",
+  "why": "reviewer (minor): glossary 5.3: paṇya = wares (पण्य)"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "कारु, शिल्पी, कुशीलव, चिकित्सक, वाणी से जीविका चलाने वाले, परिचारक आदि आशा-कारिक वर्ग — जैसा उस प्रकार का दूसरा करे, अथवा जैसा कुशल निर्धारित करें, वैसा वेतन पाए।",
+  "new": "किन्तु कारु, शिल्पी, कुशीलव, चिकित्सक, वाणी से जीविका चलाने वाले, परिचारक आदि आशा-कारिक वर्ग — जैसा उस प्रकार का दूसरा करे, अथवा जैसा कुशल निर्धारित करें, वैसा वेतन पाए।",
+  "why": "reviewer (minor): glossary 3.7: a tu in the Sanskrit is rendered (किन्तु); English has \"But\", Hindi has none"
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "By that, everywhere the regrets (anuśaya) of giving by the distressed are explained.",
+  "new": "By that, everywhere the anuśayas of giving by the distressed are explained.",
+  "why": "reviewer (minor): glossary 3.15: anuśaya stays anuśaya in the text, \"regret\" in the gloss only"
+ }
+]

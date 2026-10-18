@@ -1,0 +1,2857 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anīśvarāḥ",
+      "words": [
+       {
+        "w": "an-īśvarāḥ",
+        "gloss": "not lords",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pitṛmantaḥ",
+      "words": [
+       {
+        "w": "pitṛmantaḥ",
+        "gloss": "having a father",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthita.pitṛ.mātṛkāḥ",
+      "words": [
+       {
+        "w": "sthita-pitṛ-mātṛkāḥ",
+        "gloss": "whose father and mother are present",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "putrāḥ",
+      "words": [
+       {
+        "w": "putrāḥ",
+        "gloss": "sons",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो पिता वाले हैं, जिनके पिता-माता विद्यमान हैं, वे पुत्र स्वामी नहीं हैं।",
+  "english": "Sons who have a father, whose father and mother are present, are not lords.",
+  "text_flags": [],
+  "notes": "sthita = standing, remaining; 'present' (likely 'living') is the contextual sense. Over what the sons are not lords is not stated; the next units concern property. 'are' is the bare copula.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.1"
+  ],
+  "lines_deva": [
+   "अनीश्वराः पितृमन्तः स्थित.पितृ.मातृकाः पुत्राः"
+  ],
+  "lines_iast": [
+   "anīśvarāḥ pitṛmantaḥ sthita.pitṛ.mātṛkāḥ putrāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣām",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ūrdhvaṃ",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pitṛto",
+      "words": [
+       {
+        "w": "pitṛtaḥ",
+        "gloss": "from the father",
+        "gram": "ind. (-tas of pitṛ)"
+       }
+      ]
+     },
+     {
+      "src": "dāya.vibhāgaḥ",
+      "words": [
+       {
+        "w": "dāya-vibhāgaḥ",
+        "gloss": "division of inheritance",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pitṛ.dravyāṇām",
+      "words": [
+       {
+        "w": "pitṛ-dravyāṇām",
+        "gloss": "of paternal property",
+        "gram": "n. gen. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके बाद पिता से दाय का विभाग है, पिता के द्रव्यों का।",
+  "english": "After them [there is] the division of the inheritance from the father, of the father's property.",
+  "text_flags": [],
+  "notes": "'them' (teṣām) presumably the parents of unit 1; 'are/is' is the bare copula. pitṛtaḥ 'from the father' (alternatively 'according to the father').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.2"
+  ],
+  "lines_deva": [
+   "तेषाम् ऊर्ध्वं पितृतो दाय.विभागः पितृ.द्रव्याणाम्"
+  ],
+  "lines_iast": [
+   "teṣām ūrdhvaṃ pitṛto dāya.vibhāgaḥ pitṛ.dravyāṇām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svayaṃ.ārjitam",
+      "words": [
+       {
+        "w": "svayam-ārjitam",
+        "gloss": "self-acquired",
+        "gram": "n. nom. sg., ppp. ā-√arj"
+       }
+      ]
+     },
+     {
+      "src": "avibhājyam,",
+      "words": [
+       {
+        "w": "avibhājyam",
+        "gloss": "not to be divided",
+        "gram": "n. nom. sg., gerundive vi-√bhaj"
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pitṛ.dravyād",
+      "words": [
+       {
+        "w": "pitṛ-dravyāt",
+        "gloss": "from paternal property",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "utthitebhyaḥ",
+      "words": [
+       {
+        "w": "utthitebhyaḥ",
+        "gloss": "for those risen",
+        "gram": "abl. pl. (with anyatra), ppp. ud-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वयं अर्जित किया हुआ बाँटने योग्य नहीं है, पिता के द्रव्य से उठे हुओं को छोड़कर।",
+  "english": "What is self-acquired is not to be divided, except [in the case of] those risen from paternal property.",
+  "text_flags": [],
+  "notes": "utthitebhyaḥ is plural dative/ablative of unstated gender (persons or gains); literal 'risen from paternal property'. Alternative: gains made by using the father's property. Doubtful.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.05.3"
+  ],
+  "lines_deva": [
+   "स्वयं.आर्जितम् अविभाज्यम्, अन्यत्र पितृ.द्रव्याद् उत्थितेभ्यः"
+  ],
+  "lines_iast": [
+   "svayaṃ.ārjitam avibhājyam, anyatra pitṛ.dravyād utthitebhyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pitṛ.dravyād",
+      "words": [
+       {
+        "w": "pitṛ-dravyāt",
+        "gloss": "from paternal property",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "avibhakta.upagatānāṃ",
+      "words": [
+       {
+        "w": "avibhakta-upagatānām",
+        "gloss": "of those come undivided",
+        "gram": "m. gen. pl., ppp. upa-√gam"
+       }
+      ]
+     },
+     {
+      "src": "putrāḥ",
+      "words": [
+       {
+        "w": "putrāḥ",
+        "gloss": "sons",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pautrā",
+      "words": [
+       {
+        "w": "pautrāḥ",
+        "gloss": "grandsons",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ā.caturthād",
+      "words": [
+       {
+        "w": "ā-caturthāt",
+        "gloss": "up to the fourth",
+        "gram": "ind. (ā + abl.)"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aṃśa.bhājaḥ",
+      "words": [
+       {
+        "w": "aṃśa-bhājaḥ",
+        "gloss": "sharers",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पिता के द्रव्य से अविभक्त रूप में आए हुओं के पुत्र अथवा पौत्र “चौथे तक” अंश के भागी हैं।",
+  "english": "Sons or grandsons of those who have come undivided from paternal property are sharers — “up to the fourth”.",
+  "text_flags": [],
+  "notes": "upagata (from upa-√gam) is vague: 'come to / reached / obtained'; the object is not stated. The phrase 'ā caturthāt' is quoted by iti; 'fourth' (generation) is not stated in the Sanskrit.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.05.4"
+  ],
+  "lines_deva": [
+   "पितृ.द्रव्याद् अविभक्त.उपगतानां पुत्राः पौत्रा वा आ.चतुर्थाद् इत्य् अंश.भाजः"
+  ],
+  "lines_iast": [
+   "pitṛ.dravyād avibhakta.upagatānāṃ putrāḥ pautrā vā ā.caturthād ity aṃśa.bhājaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāvad",
+      "words": [
+       {
+        "w": "tāvat",
+        "gloss": "to that extent",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "avicchinnaḥ",
+      "words": [
+       {
+        "w": "avicchinnaḥ",
+        "gloss": "unbroken",
+        "gram": "m. nom. sg., ppp. a-vi-√chid"
+       }
+      ]
+     },
+     {
+      "src": "piṇḍo",
+      "words": [
+       {
+        "w": "piṇḍaḥ",
+        "gloss": "piṇḍa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उतने तक पिण्ड अविच्छिन्न है।",
+  "english": "To that extent the piṇḍa is unbroken.",
+  "text_flags": [],
+  "notes": "piṇḍa kept untranslated (literally 'lump, ball'; in this context probably the funeral offering shared by the line of descent; not stated in the line). tāvat picks up 'ā caturthāt' of unit 4.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.5"
+  ],
+  "lines_deva": [
+   "तावद् अविच्छिन्नः पिण्डो भवति"
+  ],
+  "lines_iast": [
+   "tāvad avicchinnaḥ piṇḍo bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vicchinna.piṇḍāḥ",
+      "words": [
+       {
+        "w": "vicchinna-piṇḍāḥ",
+        "gloss": "those whose piṇḍa is broken",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sarve",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "samaṃ",
+      "words": [
+       {
+        "w": "samam",
+        "gloss": "equally",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vibhajeran",
+      "words": [
+       {
+        "w": "vibhajeran",
+        "gloss": "should divide",
+        "gram": "3 pl. opt. ātm. vi-√bhaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिनका पिण्ड विच्छिन्न है, वे सब समान रूप से बाँटें।",
+  "english": "Those whose piṇḍa is broken, all, should divide equally.",
+  "text_flags": [],
+  "notes": "Hindi 'वे' is the correlative of 'जिनका'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.6"
+  ],
+  "lines_deva": [
+   "विच्छिन्न.पिण्डाः सर्वे समं विभजेरन्"
+  ],
+  "lines_iast": [
+   "vicchinna.piṇḍāḥ sarve samaṃ vibhajeran"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apitṛ.dravyā",
+      "words": [
+       {
+        "w": "apitṛ-dravyāḥ",
+        "gloss": "without paternal property",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vibhakta.pitṛ.dravyā",
+      "words": [
+       {
+        "w": "vibhakta-pitṛ-dravyāḥ",
+        "gloss": "whose paternal property is divided",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvantaḥ",
+      "words": [
+       {
+        "w": "jīvantaḥ",
+        "gloss": "living",
+        "gram": "m. nom. pl., pres. part. √jīv"
+       }
+      ]
+     },
+     {
+      "src": "punar",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vibhajeran",
+      "words": [
+       {
+        "w": "vibhajeran",
+        "gloss": "should divide",
+        "gram": "3 pl. opt. ātm. vi-√bhaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो पिता के द्रव्य से रहित हैं अथवा जिनके पिता के द्रव्य का विभाजन हो चुका है, साथ जीते हुए वे फिर से बाँटें।",
+  "english": "Those who have no paternal property, or whose paternal property has been divided, living together, should divide again.",
+  "text_flags": [],
+  "notes": "'saha jīvantaḥ' is literally 'living together'; whether it means joint living or only being alive together is not decided here.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.7"
+  ],
+  "lines_deva": [
+   "अपितृ.द्रव्या विभक्त.पितृ.द्रव्या वा सह जीवन्तः पुनर् विभजेरन्"
+  ],
+  "lines_iast": [
+   "apitṛ.dravyā vibhakta.pitṛ.dravyā vā saha jīvantaḥ punar vibhajeran"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yataś",
+      "words": [
+       {
+        "w": "yatas",
+        "gloss": "from whom",
+        "gram": "ind. (abl. of yad)"
+       }
+      ]
+     },
+     {
+      "src": "ca-uttiṣṭheta",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uttiṣṭheta",
+        "gloss": "should rise",
+        "gram": "3 sg. opt. ātm. ud-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvy.aṃśaṃ",
+      "words": [
+       {
+        "w": "dvi-aṃśam",
+        "gloss": "double share",
+        "gram": "m. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "labheta",
+      "words": [
+       {
+        "w": "labheta",
+        "gloss": "should obtain",
+        "gram": "3 sg. opt. ātm. √labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जिससे उत्थान हो, वह दुगुना अंश पाए।",
+  "english": "And from whom a rise should come about, he should obtain a double share.",
+  "text_flags": [],
+  "notes": "Obscure: yatas can be 'from whom / whence / because'; uttiṣṭh 'rise, arise, get up'. A literal rendering is kept; a likely sense is that the one who raises (increases) the family property gets a double share, but the line does not say so. 'dvy' is regular sandhi of dvi + aṃśa.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.05.8"
+  ],
+  "lines_deva": [
+   "यतश् च-उत्तिष्ठेत स द्व्य्.अंशं लभेत"
+  ],
+  "lines_iast": [
+   "yataś ca-uttiṣṭheta sa dvy.aṃśaṃ labheta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dravyam",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "property",
+        "gram": "n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aputrasya",
+      "words": [
+       {
+        "w": "aputrasya",
+        "gloss": "of one without a son",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sodaryā",
+      "words": [
+       {
+        "w": "sodaryāḥ",
+        "gloss": "of the same womb",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhrātaraḥ",
+      "words": [
+       {
+        "w": "bhrātaraḥ",
+        "gloss": "brothers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saha.jīvino",
+      "words": [
+       {
+        "w": "saha-jīvinaḥ",
+        "gloss": "living together",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hareyuḥ",
+      "words": [
+       {
+        "w": "hareyuḥ",
+        "gloss": "should take",
+        "gram": "3 pl. opt. √hṛ"
+       }
+      ]
+     },
+     {
+      "src": "kanyāś",
+      "words": [
+       {
+        "w": "kanyāḥ",
+        "gloss": "girls",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुत्र-रहित का द्रव्य सहोदर भाई अथवा साथ जीने वाले भाई और कन्याएँ ले लें।",
+  "english": "The property of one without a son should be taken by uterine brothers, or by brothers living together, and by daughters.",
+  "text_flags": [],
+  "notes": "kanyā is 'girl, unmarried daughter'; rendered 'daughters' in the sentence, literal 'girls'. Whether the three groups share or rank is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.9"
+  ],
+  "lines_deva": [
+   "द्रव्यम् अपुत्रस्य सोदर्या भ्रातरः सह.जीविनो वा हरेयुः कन्याश् च"
+  ],
+  "lines_iast": [
+   "dravyam aputrasya sodaryā bhrātaraḥ saha.jīvino vā hareyuḥ kanyāś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rikthaṃ",
+      "words": [
+       {
+        "w": "riktham",
+        "gloss": "inheritance",
+        "gram": "n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "putravataḥ",
+      "words": [
+       {
+        "w": "putravataḥ",
+        "gloss": "of one having sons",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "putrā",
+      "words": [
+       {
+        "w": "putrāḥ",
+        "gloss": "sons",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "duhitaro",
+      "words": [
+       {
+        "w": "duhitaraḥ",
+        "gloss": "daughters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dharmiṣṭheṣu",
+      "words": [
+       {
+        "w": "dharmiṣṭheṣu",
+        "gloss": "most righteous",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vivāheṣu",
+      "words": [
+       {
+        "w": "vivāheṣu",
+        "gloss": "in marriages",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jātāḥ",
+      "words": [
+       {
+        "w": "jātāḥ",
+        "gloss": "born",
+        "gram": "m. nom. pl., ppp. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुत्रवान् का रिक्थ धर्मिष्ठ विवाहों में उत्पन्न पुत्र अथवा पुत्रियाँ ले लें।",
+  "english": "The inheritance of one having sons [should be taken by] sons or daughters born in the most righteous marriages.",
+  "text_flags": [],
+  "notes": "The verb is not in the line; 'should take' (hareyuḥ of unit 9) is carried over, bracketed in English; Hindi supplies it without bracket. dharmiṣṭha is a superlative, 'most righteous'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.10"
+  ],
+  "lines_deva": [
+   "रिक्थं पुत्रवतः पुत्रा दुहितरो वा धर्मिष्ठेषु विवाहेषु जाताः"
+  ],
+  "lines_iast": [
+   "rikthaṃ putravataḥ putrā duhitaro vā dharmiṣṭheṣu vivāheṣu jātāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad.abhāve",
+      "words": [
+       {
+        "w": "tad-abhāve",
+        "gloss": "in their absence",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pitā",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dharamāṇaḥ",
+      "words": [
+       {
+        "w": "dhriyamāṇaḥ",
+        "gloss": "being alive",
+        "gram": "m. nom. sg., pres. part. ātm. √dhṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके अभाव में जीवित पिता।",
+  "english": "In their absence, the father, being alive.",
+  "text_flags": [
+   {
+    "src": "dharamāṇaḥ",
+    "suggest": "dhriyamāṇaḥ",
+    "why": "irregular present participle; dhriyamāṇa expected (possible)"
+   }
+  ],
+  "notes": "Fragment: the verb is not given and is not supplied (the sense continues from unit 9, 'should take'). dharamāṇa is an irregular present participle of √dhṛ (cf. dhriyamāṇa), 'continuing, being alive'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.11"
+  ],
+  "lines_deva": [
+   "तद्.अभावे पिता धरमाणः"
+  ],
+  "lines_iast": [
+   "tad.abhāve pitā dharamāṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pitr.abhāve",
+      "words": [
+       {
+        "w": "pitṛ-abhāve",
+        "gloss": "in the absence of the father",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bhrātaro",
+      "words": [
+       {
+        "w": "bhrātaraḥ",
+        "gloss": "brothers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhrātṛ.putrāś",
+      "words": [
+       {
+        "w": "bhrātṛ-putrāḥ",
+        "gloss": "brothers' sons",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पिता के अभाव में भाई और भाइयों के पुत्र।",
+  "english": "In the absence of the father, brothers and brothers' sons.",
+  "text_flags": [],
+  "notes": "Fragment; the verb is not given. 'pitr.abhāve' is regular sandhi of pitṛ + abhāve, no typo.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.12"
+  ],
+  "lines_deva": [
+   "पित्र्.अभावे भ्रातरो भ्रातृ.पुत्राश् च"
+  ],
+  "lines_iast": [
+   "pitr.abhāve bhrātaro bhrātṛ.putrāś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apitṛkā",
+      "words": [
+       {
+        "w": "apitṛkāḥ",
+        "gloss": "fatherless",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahavo",
+      "words": [
+       {
+        "w": "bahavaḥ",
+        "gloss": "many",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'pi",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhrātaro",
+      "words": [
+       {
+        "w": "bhrātaraḥ",
+        "gloss": "brothers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhrātṛ.putrāś",
+      "words": [
+       {
+        "w": "bhrātṛ-putrāḥ",
+        "gloss": "brothers' sons",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pitur",
+      "words": [
+       {
+        "w": "pituḥ",
+        "gloss": "of the father",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ekam",
+      "words": [
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṃśaṃ",
+      "words": [
+       {
+        "w": "aṃśam",
+        "gloss": "share",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hareyuḥ",
+      "words": [
+       {
+        "w": "hareyuḥ",
+        "gloss": "should take",
+        "gram": "3 pl. opt. √hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पितृहीन भाई और भाइयों के पुत्र, बहुत होने पर भी, पिता का एक अंश ले लें।",
+  "english": "Fatherless brothers and brothers' sons, even though many, should take one share of the father.",
+  "text_flags": [],
+  "notes": "'apitṛkāḥ' may qualify both groups or only the brothers; here taken with both. 'one share of the father' means one share in the father's portion.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.13"
+  ],
+  "lines_deva": [
+   "अपितृका बहवो ऽपि च भ्रातरो भ्रातृ.पुत्राश् च पितुर् एकम् अंशं हरेयुः"
+  ],
+  "lines_iast": [
+   "apitṛkā bahavo 'pi ca bhrātaro bhrātṛ.putrāś ca pitur ekam aṃśaṃ hareyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sodaryāṇām",
+      "words": [
+       {
+        "w": "sodaryāṇām",
+        "gloss": "of those of the same womb",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "aneka.pitṛkāṇāṃ",
+      "words": [
+       {
+        "w": "aneka-pitṛkāṇām",
+        "gloss": "having several fathers",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pitṛto",
+      "words": [
+       {
+        "w": "pitṛtaḥ",
+        "gloss": "from the father",
+        "gram": "ind. (-tas of pitṛ)"
+       }
+      ]
+     },
+     {
+      "src": "dāya.vibhāgaḥ",
+      "words": [
+       {
+        "w": "dāya-vibhāgaḥ",
+        "gloss": "division of inheritance",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनेक पिताओं वाले सहोदरों के दाय का विभाग पिता से है।",
+  "english": "Of those of the same womb who have several fathers, the division of inheritance is from the father.",
+  "text_flags": [],
+  "notes": "'is' is the bare copula. pitṛtaḥ 'from the father' as in unit 2; the sense 'father by father' (each group by its own father) is likely but is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.14"
+  ],
+  "lines_deva": [
+   "सोदर्याणाम् अनेक.पितृकाणां पितृतो दाय.विभागः"
+  ],
+  "lines_iast": [
+   "sodaryāṇām aneka.pitṛkāṇāṃ pitṛto dāya.vibhāgaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pitṛ.bhrātṛ.putrāṇāṃ",
+      "words": [
+       {
+        "w": "pitṛ-bhrātṛ-putrāṇām",
+        "gloss": "of fathers, brothers and sons",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pūrve",
+      "words": [
+       {
+        "w": "pūrve",
+        "gloss": "the earlier",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyamāne",
+      "words": [
+       {
+        "w": "vidyamāne",
+        "gloss": "being present",
+        "gram": "m. loc. sg., pres. part. pass. √vid"
+       }
+      ]
+     },
+     {
+      "src": "na-aparam",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "aparam",
+        "gloss": "the later",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avalambante,",
+      "words": [
+       {
+        "w": "avalambante",
+        "gloss": "they depend on",
+        "gram": "3 pl. pres. ātm. ava-√lamb"
+       }
+      ]
+     },
+     {
+      "src": "jyeṣṭhe",
+      "words": [
+       {
+        "w": "jyeṣṭhe",
+        "gloss": "the eldest",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kaniṣṭham",
+      "words": [
+       {
+        "w": "kaniṣṭham",
+        "gloss": "the youngest",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "artha.grāhiṇam",
+      "words": [
+       {
+        "w": "artha-grāhiṇam",
+        "gloss": "taking the wealth",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पिता, भाइयों और पुत्रों में पूर्व के विद्यमान होने पर वे बाद वाले का आश्रय नहीं लेते, और ज्येष्ठ के रहते धन ग्रहण करने वाले कनिष्ठ का आश्रय नहीं लेते।",
+  "english": "Among fathers, brothers and sons, when the earlier is present they do not depend on the later; and, the eldest [being present, they do not depend on] the youngest who takes the wealth.",
+  "text_flags": [],
+  "notes": "Doubtful. The second clause has no verb; 'do not depend on' is carried over, bracketed in English. The subject of avalambante is not stated. pitṛ-bhrātṛ-putrāṇām is read as a dvandva; alternative: 'of the sons of the father's brothers'. 'jyeṣṭhe' is read as a locative absolute with an omitted 'present'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.05.15"
+  ],
+  "lines_deva": [
+   "पितृ.भ्रातृ.पुत्राणां पूर्वे विद्यमाने न-अपरम् अवलम्बन्ते, ज्येष्ठे च कनिष्ठम् अर्थ.ग्राहिणम्"
+  ],
+  "lines_iast": [
+   "pitṛ.bhrātṛ.putrāṇāṃ pūrve vidyamāne na-aparam avalambante, jyeṣṭhe ca kaniṣṭham artha.grāhiṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jīvad.vibhāge",
+      "words": [
+       {
+        "w": "jīvat-vibhāge",
+        "gloss": "in a division while living",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pitā",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na-ekaṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣayet",
+      "words": [
+       {
+        "w": "viśeṣayet",
+        "gloss": "should single out",
+        "gram": "3 sg. opt. caus. vi-√śiṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जीवित रहते विभाग में पिता एक को विशिष्ट न करे।",
+  "english": "In a division while he is living, the father should not single out one.",
+  "text_flags": [],
+  "notes": "viśeṣayet literally 'make distinguished'; the likely sense is 'favour one with a larger share', not stated in the line. 'he' (the father) in English is supplied by the sense of jīvat.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.16"
+  ],
+  "lines_deva": [
+   "जीवद्.विभागे पिता न-एकं विशेषयेत्"
+  ],
+  "lines_iast": [
+   "jīvad.vibhāge pitā na-ekaṃ viśeṣayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca-ekam",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "akāraṇān",
+      "words": [
+       {
+        "w": "akāraṇāt",
+        "gloss": "without cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirvibhajeta",
+      "words": [
+       {
+        "w": "nirvibhajeta",
+        "gloss": "should divide out",
+        "gram": "3 sg. opt. ātm. nir-vi-√bhaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और बिना कारण एक को अलग विभक्त न करे।",
+  "english": "And he should not divide out one without cause.",
+  "text_flags": [],
+  "notes": "nirvibhajeta (nir-vi-√bhaj) literally 'divide out, separate off'; the likely sense is 'exclude one from the partition'. Subject is the father of unit 16.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.17"
+  ],
+  "lines_deva": [
+   "न च-एकम् अकारणान् निर्विभजेत"
+  ],
+  "lines_iast": [
+   "na ca-ekam akāraṇān nirvibhajeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pitur",
+      "words": [
+       {
+        "w": "pituḥ",
+        "gloss": "of the father",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "asaty",
+      "words": [
+       {
+        "w": "asati",
+        "gloss": "not being",
+        "gram": "m./n. loc. sg., pres. part. a-√as"
+       }
+      ]
+     },
+     {
+      "src": "arthe",
+      "words": [
+       {
+        "w": "arthe",
+        "gloss": "in property",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyeṣṭhāḥ",
+      "words": [
+       {
+        "w": "jyeṣṭhāḥ",
+        "gloss": "elder ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kaniṣṭhān",
+      "words": [
+       {
+        "w": "kaniṣṭhān",
+        "gloss": "younger ones",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "anugṛhṇīyuḥ,",
+      "words": [
+       {
+        "w": "anugṛhṇīyuḥ",
+        "gloss": "should favour",
+        "gram": "3 pl. opt. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mithyā.vṛttebhyaḥ",
+      "words": [
+       {
+        "w": "mithyā-vṛttebhyaḥ",
+        "gloss": "those of false conduct",
+        "gram": "m. abl. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पिता के धन के न रहने पर बड़े छोटों पर अनुग्रह करें, मिथ्या आचरण वालों को छोड़कर।",
+  "english": "When the father's property does not exist, the elder ones should favour the younger, except [in the case of] those of false conduct.",
+  "text_flags": [],
+  "notes": "'pituḥ asati arthe' is read 'when the father's property does not exist' (alternative: when the father is not there to give). anugṛhṇīyuḥ 'favour' (support, oblige); the form of favour is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.18"
+  ],
+  "lines_deva": [
+   "पितुर् असत्य् अर्थे ज्येष्ठाः कनिष्ठान् अनुगृह्णीयुः, अन्यत्र मिथ्या.वृत्तेभ्यः"
+  ],
+  "lines_iast": [
+   "pitur asaty arthe jyeṣṭhāḥ kaniṣṭhān anugṛhṇīyuḥ, anyatra mithyā.vṛttebhyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāpta.vyavahārāṇāṃ",
+      "words": [
+       {
+        "w": "prāpta-vyavahārāṇām",
+        "gloss": "who have reached dealings",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vibhāgaḥ",
+      "words": [
+       {
+        "w": "vibhāgaḥ",
+        "gloss": "division",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्यवहार प्राप्त कर चुकने वालों का विभाग है।",
+  "english": "The division is of those who have reached dealings.",
+  "text_flags": [],
+  "notes": "vyavahāra kept literal 'dealings'; here probably legal capacity (majority), not stated in the line. 'is' is the bare copula.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.19"
+  ],
+  "lines_deva": [
+   "प्राप्त.व्यवहाराणां विभागः"
+  ],
+  "lines_iast": [
+   "prāpta.vyavahārāṇāṃ vibhāgaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aprāpta.vyavahārāṇāṃ",
+      "words": [
+       {
+        "w": "aprāpta-vyavahārāṇām",
+        "gloss": "who have not reached dealings",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "deya.viśuddhaṃ",
+      "words": [
+       {
+        "w": "deya-viśuddham",
+        "gloss": "cleared of what is to be given",
+        "gram": "n. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mātṛ.bandhuṣu",
+      "words": [
+       {
+        "w": "mātṛ-bandhuṣu",
+        "gloss": "among the mother's kin",
+        "gram": "m. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "grāma.vṛddheṣu",
+      "words": [
+       {
+        "w": "grāma-vṛddheṣu",
+        "gloss": "among village elders",
+        "gram": "m. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthāpayeyuḥ",
+      "words": [
+       {
+        "w": "sthāpayeyuḥ",
+        "gloss": "should place",
+        "gram": "3 pl. opt. caus. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "ā.vyavahāra.prāpaṇāt,",
+      "words": [
+       {
+        "w": "ā-vyavahāra-prāpaṇāt",
+        "gloss": "until the reaching of dealings",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "proṣitasya",
+      "words": [
+       {
+        "w": "proṣitasya",
+        "gloss": "of one gone away",
+        "gram": "m. gen. sg., ppp. pra-√vas"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो व्यवहार को प्राप्त नहीं हुए हैं, उनका देय से शुद्ध किया हुआ धन मातृ-बन्धुओं अथवा ग्राम के वृद्धों के पास रखें, व्यवहार की प्राप्ति तक, अथवा प्रवास में गए हुए का।",
+  "english": "Of those who have not reached dealings, [they] should place [the property], cleared of what is to be given, with the mother's kin or village elders until the reaching of dealings — or [that] of one who has gone away.",
+  "text_flags": [],
+  "notes": "The object (deya-viśuddham, neuter accusative) is not named; 'property' is supplied in brackets in English only. deya-viśuddha probably 'cleared of debts'. The subject of sthāpayeyuḥ is not stated. 'proṣitasya vā' read as a second case ('or of one who has gone away'), with 'until his return' not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.20"
+  ],
+  "lines_deva": [
+   "अप्राप्त.व्यवहाराणां देय.विशुद्धं मातृ.बन्धुषु ग्राम.वृद्धेषु वा स्थापयेयुः आ.व्यवहार.प्रापणात्, प्रोषितस्य वा"
+  ],
+  "lines_iast": [
+   "aprāpta.vyavahārāṇāṃ deya.viśuddhaṃ mātṛ.bandhuṣu grāma.vṛddheṣu vā sthāpayeyuḥ ā.vyavahāra.prāpaṇāt, proṣitasya vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samniviṣṭa.samam",
+      "words": [
+       {
+        "w": "samniviṣṭa-samam",
+        "gloss": "equal to the settled",
+        "gram": "adv., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "asamniviṣṭebhyo",
+      "words": [
+       {
+        "w": "asamniviṣṭebhyaḥ",
+        "gloss": "for the unsettled",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "naiveśanikaṃ",
+      "words": [
+       {
+        "w": "naiveśanikam",
+        "gloss": "naiveśanika",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyuḥ,",
+      "words": [
+       {
+        "w": "dadyuḥ",
+        "gloss": "should give",
+        "gram": "3 pl. opt. √dā"
+       }
+      ]
+     },
+     {
+      "src": "kanyābhyaś",
+      "words": [
+       {
+        "w": "kanyābhyaḥ",
+        "gloss": "for girls",
+        "gram": "f. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prādānikam",
+      "words": [
+       {
+        "w": "prādānikam",
+        "gloss": "prādānika",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बसे हुओं के समान बिना बसे हुओं को नैवेशनिक दें, और कन्याओं को प्रादानिक दें।",
+  "english": "They should give the naiveśanika to the unsettled, equal to the settled, and the prādānika to girls.",
+  "text_flags": [],
+  "notes": "naiveśanika and prādānika kept untranslated (obscure: from niveśana 'settling in' and pradāna 'giving away'); alternatives: marriage/settling-in expenses and gift-portion. saṃniviṣṭa is read 'settled' (probably married); spelled with m before n in the edition throughout, not flagged. The subject of dadyuḥ is not stated.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.05.21"
+  ],
+  "lines_deva": [
+   "सम्निविष्ट.समम् असम्निविष्टेभ्यो नैवेशनिकं दद्युः, कन्याभ्यश् च प्रादानिकम्"
+  ],
+  "lines_iast": [
+   "samniviṣṭa.samam asamniviṣṭebhyo naiveśanikaṃ dadyuḥ, kanyābhyaś ca prādānikam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṛṇa.rikthayoḥ",
+      "words": [
+       {
+        "w": "ṛṇa-rikthayoḥ",
+        "gloss": "of debt and inheritance",
+        "gram": "n. gen./loc. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "samo",
+      "words": [
+       {
+        "w": "samaḥ",
+        "gloss": "equal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibhāgaḥ",
+      "words": [
+       {
+        "w": "vibhāgaḥ",
+        "gloss": "division",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऋण-रिक्थ का विभाग समान है।",
+  "english": "Of debt and inheritance the division is equal.",
+  "text_flags": [],
+  "notes": "The dual may be genitive ('of') or locative ('in'). 'is' is the bare copula.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.22"
+  ],
+  "lines_deva": [
+   "ऋण.रिक्थयोः समो विभागः"
+  ],
+  "lines_iast": [
+   "ṛṇa.rikthayoḥ samo vibhāgaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"uda.pātrāṇy",
+      "words": [
+       {
+        "w": "uda-pātrāṇi",
+        "gloss": "water-vessels",
+        "gram": "n. nom./acc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niṣkiñcanā",
+      "words": [
+       {
+        "w": "niṣkiñcanāḥ",
+        "gloss": "those having nothing",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vibhajeran\"",
+      "words": [
+       {
+        "w": "vibhajeran",
+        "gloss": "should divide",
+        "gram": "3 pl. opt. ātm. vi-√bhaj"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“जल-पात्र भी निष्किञ्चन बाँट लें,” ऐसा आचार्य कहते हैं।",
+  "english": "“Those who have nothing should divide even the water-vessels,” say the teachers.",
+  "text_flags": [],
+  "notes": "uda = 'water' (udaka). The quoted view is that of the unnamed teachers; Kautilya's reply follows in unit 24.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.23"
+  ],
+  "lines_deva": [
+   "\"उद.पात्राण्य् अपि निष्किञ्चना विभजेरन्\" इत्य् आचार्याः"
+  ],
+  "lines_iast": [
+   "\"uda.pātrāṇy api niṣkiñcanā vibhajeran\" ity ācāryāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "chalam",
+      "words": [
+       {
+        "w": "chalam",
+        "gloss": "deceit",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "etad",
+      "words": [
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg., name"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“यह छल है,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“This is a deceit,” says Kautilya.",
+  "text_flags": [],
+  "notes": "chala 'deceit, trick, pretext'; 'is' is the bare copula. Kautilya's reply to the teachers' view in unit 23.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.05.24"
+  ],
+  "lines_deva": [
+   "छलम् एतद् इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "chalam etad iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sato",
+      "words": [
+       {
+        "w": "sataḥ",
+        "gloss": "of the existing",
+        "gram": "m./n. gen. sg., pres. part. √as"
+       }
+      ]
+     },
+     {
+      "src": "'rthasya",
+      "words": [
+       {
+        "w": "arthasya",
+        "gloss": "of property",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibhāgo",
+      "words": [
+       {
+        "w": "vibhāgaḥ",
+        "gloss": "division",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na-asataḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "asataḥ",
+        "gloss": "of the non-existent",
+        "gram": "m./n. gen. sg., pres. part. a-√as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विद्यमान धन का विभाग होता है, अविद्यमान का नहीं।",
+  "english": "The division is of existing property, not of the non-existent.",
+  "text_flags": [],
+  "notes": "artha = wealth/property. 'is' is the bare copula.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.05.25"
+  ],
+  "lines_deva": [
+   "सतो ऽर्थस्य विभागो न-असतः"
+  ],
+  "lines_iast": [
+   "sato 'rthasya vibhāgo na-asataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "etāvān",
+      "words": [
+       {
+        "w": "etāvān",
+        "gloss": "so much",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "arthaḥ",
+      "words": [
+       {
+        "w": "arthaḥ",
+        "gloss": "property",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāmānyas",
+      "words": [
+       {
+        "w": "sāmānyaḥ",
+        "gloss": "common",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya-etāvān",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of it",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "etāvān",
+        "gloss": "so much",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praty.aṃśa",
+      "words": [
+       {
+        "w": "prati-aṃśaḥ",
+        "gloss": "each share",
+        "gram": "m. nom. sg., compound (prati + aṃśa, 'each share')"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anubhāṣya",
+      "words": [
+       {
+        "w": "anubhāṣya",
+        "gloss": "having repeated",
+        "gram": "abs. anu-√bhāṣ"
+       }
+      ]
+     },
+     {
+      "src": "bruvan",
+      "words": [
+       {
+        "w": "bruvan",
+        "gloss": "saying",
+        "gram": "m. nom. sg., pres. part. √brū"
+       }
+      ]
+     },
+     {
+      "src": "sākṣiṣu",
+      "words": [
+       {
+        "w": "sākṣiṣu",
+        "gloss": "among witnesses",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vibhāgaṃ",
+      "words": [
+       {
+        "w": "vibhāgam",
+        "gloss": "division",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayet",
+      "words": [
+       {
+        "w": "kārayet",
+        "gloss": "should have done",
+        "gram": "3 sg. opt. caus. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“इतना धन साझा है, उसका प्रत्येक अंश इतना है,” यह दोहराकर, साक्षियों के बीच कहते हुए, विभाग कराए।",
+  "english": "Having repeated “So much is the common property; of it, so much is each share,” and saying [it] among the witnesses, he should have the division made.",
+  "text_flags": [],
+  "notes": "The subject of kārayet and the one who speaks are not stated. anubhāṣya (anu-√bhāṣ) 'repeat, state after'. 'saying [it]' supplies the object.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.26"
+  ],
+  "lines_deva": [
+   "एतावान् अर्थः सामान्यस् तस्य-एतावान् प्रत्य्.अंश इत्य् अनुभाष्य ब्रुवन् साक्षिषु विभागं कारयेत्"
+  ],
+  "lines_iast": [
+   "etāvān arthaḥ sāmānyas tasya-etāvān praty.aṃśa ity anubhāṣya bruvan sākṣiṣu vibhāgaṃ kārayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durvibhaktam",
+      "words": [
+       {
+        "w": "durvibhaktam",
+        "gloss": "badly divided",
+        "gram": "n. nom./acc. sg., ppp."
+       }
+      ]
+     },
+     {
+      "src": "anyonya.apahṛtam",
+      "words": [
+       {
+        "w": "anyonya-apahṛtam",
+        "gloss": "taken from one another",
+        "gram": "n. nom./acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "antarhitam",
+      "words": [
+       {
+        "w": "antarhitam",
+        "gloss": "concealed",
+        "gram": "n. nom./acc. sg., ppp. antar-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "avijñāta.utpannaṃ",
+      "words": [
+       {
+        "w": "avijñāta-utpannam",
+        "gloss": "arisen unknown",
+        "gram": "n. nom./acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "punar",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vibhajeran",
+      "words": [
+       {
+        "w": "vibhajeran",
+        "gloss": "should divide",
+        "gram": "3 pl. opt. ātm. vi-√bhaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो गलत ढंग से बँटा हो, एक-दूसरे से हरण किया गया हो, छिपाया गया हो, अथवा अज्ञात रूप से उत्पन्न हुआ हो, उसे फिर से बाँटें।",
+  "english": "What has been badly divided, taken from one another, concealed, or arisen without being known, they should divide again.",
+  "text_flags": [],
+  "notes": "The thing divided is not named (neuter participles). anyonya-apahṛta: 'taken by one another' or 'from one another'. avijñāta-utpanna literally 'arisen unknown' (a gain no one knew of).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.27"
+  ],
+  "lines_deva": [
+   "दुर्विभक्तम् अन्योन्य.अपहृतम् अन्तर्हितम् अविज्ञात.उत्पन्नं वा पुनर् विभजेरन्"
+  ],
+  "lines_iast": [
+   "durvibhaktam anyonya.apahṛtam antarhitam avijñāta.utpannaṃ vā punar vibhajeran"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adāyādakaṃ",
+      "words": [
+       {
+        "w": "adāyādakam",
+        "gloss": "heirless",
+        "gram": "n. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "haret",
+      "words": [
+       {
+        "w": "haret",
+        "gloss": "should take",
+        "gram": "3 sg. opt. √hṛ"
+       }
+      ]
+     },
+     {
+      "src": "strī.vṛtti.preta.kārya.varjam,",
+      "words": [
+       {
+        "w": "strī-vṛtti-preta-kārya-varjam",
+        "gloss": "excluding women's livelihood and the work for the deceased",
+        "gram": "n. acc. sg./ind., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śrotriya.dravyāt",
+      "words": [
+       {
+        "w": "śrotriya-dravyāt",
+        "gloss": "from the property of a śrotriya",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दायाद-रहित को राजा ले ले, स्त्रियों की जीविका, मृतक के कार्य को छोड़कर, श्रोत्रिय के द्रव्य को छोड़कर।",
+  "english": "The king should take the heirless [property], excluding the livelihood of women and the work for the deceased, except [in the case of] the property of a śrotriya (Veda-learned man).",
+  "text_flags": [],
+  "notes": "The compound strī-vṛtti-preta-kārya-varjam may also be read as one chain; kārya 'what is to be done', probably funeral rites, not stated. adāyādaka: the noun it qualifies is not stated; 'property' bracketed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.28"
+  ],
+  "lines_deva": [
+   "अदायादकं राजा हरेत् स्त्री.वृत्ति.प्रेत.कार्य.वर्जम्, अन्यत्र श्रोत्रिय.द्रव्यात्"
+  ],
+  "lines_iast": [
+   "adāyādakaṃ rājā haret strī.vṛtti.preta.kārya.varjam, anyatra śrotriya.dravyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "traivedyebhyaḥ",
+      "words": [
+       {
+        "w": "traivedyebhyaḥ",
+        "gloss": "to those of the three Vedas",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "prayacchet",
+      "words": [
+       {
+        "w": "prayacchet",
+        "gloss": "should give",
+        "gram": "3 sg. opt. pra-√yam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे त्रैवेद्यों को दे।",
+  "english": "He should give that to those of the three Vedas (traivedya).",
+  "text_flags": [],
+  "notes": "traivedya 'of the three Vedas', i.e. men learned in them. Subject (the king of unit 28) is carried over.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.29"
+  ],
+  "lines_deva": [
+   "तत् त्रैवेद्येभ्यः प्रयच्छेत्"
+  ],
+  "lines_iast": [
+   "tat traivedyebhyaḥ prayacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "patitaḥ",
+      "words": [
+       {
+        "w": "patitaḥ",
+        "gloss": "fallen one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "patitāj",
+      "words": [
+       {
+        "w": "patitāt",
+        "gloss": "from a fallen one",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "jātaḥ",
+      "words": [
+       {
+        "w": "jātaḥ",
+        "gloss": "born",
+        "gram": "m. nom. sg., ppp. √jan"
+       }
+      ]
+     },
+     {
+      "src": "klībaś",
+      "words": [
+       {
+        "w": "klībaḥ",
+        "gloss": "impotent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-anaṃśāḥ,",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anaṃśāḥ",
+        "gloss": "without shares",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "jaḍa.unmatta.andha.kuṣṭhinaś",
+      "words": [
+       {
+        "w": "jaḍa-unmatta-andha-kuṣṭhinaḥ",
+        "gloss": "dull, mad, blind and leprous",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पतित, पतित से उत्पन्न और क्लीब अंश-रहित हैं; और जड़, उन्मत्त, अन्धे और कुष्ठी अंश-रहित हैं।",
+  "english": "The fallen one, one born of a fallen one, and the impotent are without shares; and the dull, mad, blind and leprous [are without shares].",
+  "text_flags": [],
+  "notes": "The second list has no predicate; 'are without shares' is carried over. jaḍa 'dull, inert'; klība 'impotent' (literally neuter); kuṣṭhin 'afflicted with kuṣṭha', rendered 'leprous'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.30"
+  ],
+  "lines_deva": [
+   "पतितः पतिताज् जातः क्लीबश् च-अनंशाः, जड.उन्मत्त.अन्ध.कुष्ठिनश् च"
+  ],
+  "lines_iast": [
+   "patitaḥ patitāj jātaḥ klībaś ca-anaṃśāḥ, jaḍa.unmatta.andha.kuṣṭhinaś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sati",
+      "words": [
+       {
+        "w": "sati",
+        "gloss": "there being",
+        "gram": "m./n. loc. sg., pres. part. √as"
+       }
+      ]
+     },
+     {
+      "src": "bhārya.arthe",
+      "words": [
+       {
+        "w": "bhāryā-arthe",
+        "gloss": "in the matter of a wife",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "teṣām",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "apatyam",
+      "words": [
+       {
+        "w": "apatyam",
+        "gloss": "offspring",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "atad.vidhaṃ",
+      "words": [
+       {
+        "w": "atad-vidham",
+        "gloss": "not of that kind",
+        "gram": "n. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhāgaṃ",
+      "words": [
+       {
+        "w": "bhāgam",
+        "gloss": "share",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "haret",
+      "words": [
+       {
+        "w": "haret",
+        "gloss": "should take",
+        "gram": "3 sg. opt. √hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पत्नी के प्रयोजन के होने पर उनकी, उनके जैसी न होने वाली, सन्तान भाग ले।",
+  "english": "When there is the matter of a wife, their offspring, not of that kind, should take a share.",
+  "text_flags": [
+   {
+    "src": "bhārya.arthe",
+    "suggest": "bhāryā.arthe",
+    "why": "possible: the long ā of bhāryā expected before arthe; or bhārya 'one to be maintained'"
+   }
+  ],
+  "notes": "Doubtful. 'bhārya.arthe' read as bhāryā-arthe, 'in the matter of a wife' (artha = matter, purpose); alternative bhārya 'to be maintained'. 'teṣām' refers to the persons excluded in unit 30; 'not of that kind' means not like them. The sense of the whole line is uncertain.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.05.31"
+  ],
+  "lines_deva": [
+   "सति भार्य.अर्थे तेषाम् अपत्यम् अतद्.विधं भागं हरेत्"
+  ],
+  "lines_iast": [
+   "sati bhārya.arthe teṣām apatyam atad.vidhaṃ bhāgaṃ haret"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "grāsa.ācchādanam",
+      "words": [
+       {
+        "w": "grāsa-ācchādanam",
+        "gloss": "food and clothing",
+        "gram": "n. nom./acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "itare",
+      "words": [
+       {
+        "w": "itare",
+        "gloss": "the others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "patita.varjāḥ",
+      "words": [
+       {
+        "w": "patita-varjāḥ",
+        "gloss": "the fallen being excluded",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ग्रास-आच्छादन — शेष, पतितों को छोड़कर।",
+  "english": "Food and clothing — the others, the fallen being excluded.",
+  "text_flags": [],
+  "notes": "Fragment: no verb. grāsa 'morsel', ācchādana 'covering'. It probably continues from unit 30 (those without shares receive food and clothing), not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.05.32"
+  ],
+  "lines_deva": [
+   "ग्रास.आच्छादनम् इतरे पतित.वर्जाः"
+  ],
+  "lines_iast": [
+   "grāsa.ācchādanam itare patita.varjāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.dārāṇāṃ",
+      "words": [
+       {
+        "w": "kṛta-dārāṇām",
+        "gloss": "who have taken wives",
+        "gram": "m. gen. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "lupte",
+      "words": [
+       {
+        "w": "lupte",
+        "gloss": "lost",
+        "gram": "n. loc. sg., ppp. √lup"
+       }
+      ]
+     },
+     {
+      "src": "prajanane",
+      "words": [
+       {
+        "w": "prajanane",
+        "gloss": "in procreation",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sati",
+      "words": [
+       {
+        "w": "sati",
+        "gloss": "being",
+        "gram": "n. loc. sg., pres. part. √as"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sṛjeyur",
+      "words": [
+       {
+        "w": "sṛjeyuḥ",
+        "gloss": "should bring forth",
+        "gram": "3 pl. opt. √sṛj"
+       }
+      ]
+     },
+     {
+      "src": "bāndhavāḥ",
+      "words": [
+       {
+        "w": "bāndhavāḥ",
+        "gloss": "relatives",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "putrāṃs",
+      "words": [
+       {
+        "w": "putrān",
+        "gloss": "sons",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "teṣām",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "aṃśān",
+      "words": [
+       {
+        "w": "aṃśān",
+        "gloss": "shares",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakalpayet",
+      "words": [
+       {
+        "w": "prakalpayet",
+        "gloss": "should fix",
+        "gram": "3 sg. opt. caus. pra-√kḷp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और जिन्होंने पत्नियाँ ग्रहण की हैं, उनके प्रजनन के लुप्त होने पर बन्धु पुत्रों को उत्पन्न करें; वह उनके अंशों का निर्धारण करे।",
+  "english": "And of those who have taken wives, procreation being lost, the relatives should bring forth sons; he should fix their shares.",
+  "text_flags": [
+   {
+    "src": "prakalpayet",
+    "suggest": "prakalpayeyuḥ",
+    "why": "singular verb after plural sṛjeyuḥ (possible)"
+   }
+  ],
+  "notes": "prakalpayet is singular after the plural sṛjeyuḥ; the subject 'he' (perhaps the king or the person dividing) is not stated; metre (anuṣṭubh, 16 syllables each line) agrees with the printed text. sṛj 'emit, bring forth': the means is not stated. Continues the persons of units 30-32.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.05.33a",
+   "03.05.33b"
+  ],
+  "lines_deva": [
+   "तेषां च कृत.दाराणां लुप्ते प्रजनने सति",
+   "सृजेयुर् बान्धवाः पुत्रांस् तेषाम् अंशान् प्रकल्पयेत्"
+  ],
+  "lines_iast": [
+   "teṣāṃ ca kṛta.dārāṇāṃ lupte prajanane sati",
+   "sṛjeyur bāndhavāḥ putrāṃs teṣām aṃśān prakalpayet"
+  ],
+  "uncertain": []
+ }
+]

@@ -1,0 +1,1473 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "saṃhita-prayāṇe",
+     "problem": "prayāṇa is neuter (n.), not m.",
+     "fix": "karmadhāraya, n. loc. sg.",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "saṃhita-prayāṇe",
+      "field": "gram",
+      "value": "karmadhāraya, n. loc. sg."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃhita-prayāṇe",
+     "problem": "Glossary 7.3 / 7.1: saṃhita = allied (संहित); keep Book 7 consistent.",
+     "fix": "in the allied march",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "saṃhita-prayāṇe",
+      "field": "gloss",
+      "value": "in the allied march"
+     }
+    },
+    {
+     "field": "english",
+     "where": "joint march",
+     "problem": "saṃhita = allied (glossary 7.3, 7.1).",
+     "fix": "an allied march",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "a joint march",
+      "new": "an allied march"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "संयुक्त प्रयाण",
+     "problem": "saṃhita = allied (संहित), glossary 7.3, 7.1.",
+     "fix": "संहित प्रयाण",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "संयुक्त प्रयाण",
+      "new": "संहित प्रयाण"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Align with glossary 7.3.",
+     "fix": "saṃhita = allied (glossary 7.3) with prayāṇa 'march'",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "notes",
+      "old": "saṃhita 'joined' with prayāṇa 'march'",
+      "new": "saṃhita = allied (glossary 7.3) with prayāṇa 'march'"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vaiṣamye",
+     "problem": "Glossary 7.5: vaiṣamya = unevenness (वैषम्य).",
+     "fix": "in unevenness",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "vaiṣamye",
+      "field": "gloss",
+      "value": "in unevenness"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in inequality",
+     "problem": "Glossary 7.5: vaiṣamya = unevenness.",
+     "fix": "in unevenness, attack",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "in inequality, attack",
+      "new": "in unevenness, attack"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "विषमता",
+     "problem": "Glossary 7.5: Hindi वैषम्य.",
+     "fix": "वैषम्य में",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विषमता में",
+      "new": "वैषम्य में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "deśam",
+     "problem": "Glossary 7.10 / 7.8: deśa in deśa-kāla = place (देश); one rendering for deśa through the chapter.",
+     "fix": "place",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "deśam",
+      "field": "gloss",
+      "value": "place",
+      "occurrence": "all"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "paripaṇita-deśaḥ",
+     "problem": "deśa = place, as glossary 7.10.",
+     "fix": "with the place stipulated",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "paripaṇita-deśaḥ",
+      "field": "gloss",
+      "value": "with the place stipulated"
+     }
+    },
+    {
+     "field": "english",
+     "where": "region",
+     "problem": "deśa = place (glossary 7.10, 7.8), same word as in the seven kinds of unit 11.",
+     "fix": "“You go to this place, I shall go to this place” — [the treaty] with the place stipulated.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "english",
+      "value": "“You go to this place, I shall go to this place” — [the treaty] with the place stipulated."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रदेश",
+     "problem": "Hindi देश for deśa (glossary 7.10 देश और काल).",
+     "fix": "“तुम इस देश को जाओ, मैं इस देश को जाऊँगा” — जिसमें देश परिपणित है।",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "hindi",
+      "value": "“तुम इस देश को जाओ, मैं इस देश को जाऊँगा” — जिसमें देश परिपणित है।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "deśa = place.",
+     "fix": "'whose place is stipulated'",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "notes",
+      "old": "'whose region is stipulated'",
+      "new": "'whose place is stipulated'"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "so much of the task",
+     "problem": "'of' is an unmarked partitive; etāvat-kārya is 'a task of this extent'.",
+     "fix": "so large a task",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "so much of the task",
+      "new": "so large a task"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "śaila-vana-nadī-durgam",
+     "problem": "Adjective agrees with deśam (m. acc. sg.), not neuter.",
+     "fix": "bahuvrīhi (dvandva members), m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "śaila-vana-nadī-durgam",
+      "field": "gram",
+      "value": "bahuvrīhi (dvandva members), m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "aṭavī-vyavahitam",
+     "problem": "Adjective agrees with deśam (m. acc. sg.), not neuter.",
+     "fix": "tat-puruṣa, m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "aṭavī-vyavahitam",
+      "field": "gram",
+      "value": "tat-puruṣa, m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "chinna-dhānya-puruṣa-vīvadha-āsāram",
+     "problem": "Adjective agrees with deśam (m. acc. sg.), not neuter.",
+     "fix": "bahuvrīhi, m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "chinna-dhānya-puruṣa-vīvadha-āsāram",
+      "field": "gram",
+      "value": "bahuvrīhi, m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ayavasa-indhana-udakam",
+     "problem": "Adjective agrees with deśam (m. acc. sg.), not neuter.",
+     "fix": "bahuvrīhi, m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "ayavasa-indhana-udakam",
+      "field": "gram",
+      "value": "bahuvrīhi, m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "avijñātam",
+     "problem": "Adjective agrees with deśam (m. acc. sg.), not neuter.",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "avijñātam",
+      "field": "gram",
+      "value": "m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "prakṛṣṭam",
+     "problem": "Adjective agrees with deśam (m. acc. sg.), not neuter.",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "prakṛṣṭam",
+      "field": "gram",
+      "value": "m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "anya-bhāva-deśīyam",
+     "problem": "Adjective agrees with deśam (m. acc. sg.), not neuter.",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "anya-bhāva-deśīyam",
+      "field": "gram",
+      "value": "m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "alabdha-bhaumam",
+     "problem": "Adjective agrees with deśam (m. acc. sg.), not neuter.",
+     "fix": "bahuvrīhi, m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "alabdha-bhaumam",
+      "field": "gram",
+      "value": "bahuvrīhi, m. acc. sg."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "viparītam",
+     "problem": "-am cannot be nominative of an adjective; accusative (object of the understood verb).",
+     "fix": "adj. n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "viparītam",
+      "field": "gram",
+      "value": "adj. n. acc. sg."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "deśam",
+     "problem": "deśa = place (glossary 7.10).",
+     "fix": "place",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "deśam",
+      "field": "gloss",
+      "value": "place"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "paripaṇita-deśam",
+     "problem": "deśa = place.",
+     "fix": "with the place stipulated",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "paripaṇita-deśam",
+      "field": "gloss",
+      "value": "with the place stipulated"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anya-bhāva-deśīyam",
+     "problem": "deśa = place.",
+     "fix": "belonging to a place of a different condition",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "anya-bhāva-deśīyam",
+      "field": "gloss",
+      "value": "belonging to a place of a different condition"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upeyāt",
+     "problem": "Glossary 7.1: upeyāt = should resort to (अपनाए).",
+     "fix": "should resort to",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "upeyāt",
+      "field": "gloss",
+      "value": "should resort to"
+     }
+    },
+    {
+     "field": "english",
+     "where": "whole sentence",
+     "problem": "deśam is the object of yāsyati and all the adjectives belong to it ('place'); the bracketed '[one]' before 'with no ground' wrongly makes a person; upeyāt = resort to (glossary 7.1); deśa = place.",
+     "fix": "Or if [one] should think: “The other will go to a place having mountain, forest and river forts, separated by forests, with grain, men, supply line and reinforcement cut off, without fodder, fuel and water, unknown, distant, or belonging to a place of a different condition, or with no ground obtained for the army's exertions; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the place stipulated.",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "set",
+      "field": "english",
+      "value": "Or if [one] should think: “The other will go to a place having mountain, forest and river forts, separated by forests, with grain, men, supply line and reinforcement cut off, without fodder, fuel and water, unknown, distant, or belonging to a place of a different condition, or with no ground obtained for the army's exertions; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the place stipulated."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole sentence",
+     "problem": "The adjectives hang in front of 'दूसरा' with the noun 'प्रदेश' stranded after अथवा; restore the Sanskrit order (adjectives, then देश, then दूसरा जाएगा); dvandvas of three or more take commas only (glossary 7.7, 7.8); देश for deśa.",
+     "fix": "अथवा यदि सोचे “पर्वत, वन, नदी के दुर्गों वाले, वनों से व्यवहित, अन्न, पुरुष, रसद, सहायक सेना से कटे हुए, घास, ईंधन, जल से रहित, अज्ञात, दूर, अन्य स्थिति के देश से सम्बद्ध, या सेना की चेष्टाओं के लिए भूमि न पाने वाले, अथवा देश को दूसरा जाएगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-देश वाली सन्धि को अपनाए।",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा यदि सोचे “पर्वत, वन, नदी के दुर्गों वाले, वनों से व्यवहित, अन्न, पुरुष, रसद, सहायक सेना से कटे हुए, घास, ईंधन, जल से रहित, अज्ञात, दूर, अन्य स्थिति के देश से सम्बद्ध, या सेना की चेष्टाओं के लिए भूमि न पाने वाले, अथवा देश को दूसरा जाएगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-देश वाली सन्धि को अपनाए।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record the case of viparītam.",
+     "fix": "viparītam is accusative (agreeing with the understood object of yāsyati), so 'I [am] the reverse' is a bare-copula reading of an elliptical clause; the same in units 9 and 10. The adjectives before deśam agree with it (m. acc.).",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "append_note",
+      "text": "viparītam is accusative (agreeing with the understood object of yāsyati), so 'I [am] the reverse' is a bare-copula reading of an elliptical clause; the same in units 9 and 10. The adjectives before deśam agree with it (m. acc.)."
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "deśa = place.",
+     "fix": "alternatives in the place description",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "notes",
+      "old": "alternatives in the region description",
+      "new": "alternatives in the place description"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "viparītam",
+     "problem": "Accusative (agrees with kālam), not nominative.",
+     "fix": "adj. m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "viparītam",
+      "field": "gram",
+      "value": "adj. m. acc. sg."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upeyāt",
+     "problem": "Glossary 7.1.",
+     "fix": "should resort to",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "upeyāt",
+      "field": "gloss",
+      "value": "should resort to"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should enter into",
+     "problem": "Glossary 7.1: upeyāt = should resort to.",
+     "fix": "should resort to",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "should enter into",
+      "new": "should resort to"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वर्षा, गर्मी और सर्दी",
+     "problem": "Three-member dvandva: Hindi commas only (glossary 7.7, 7.8).",
+     "fix": "वर्षा, गर्मी, सर्दी वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वर्षा, गर्मी और सर्दी वाले",
+      "new": "वर्षा, गर्मी, सर्दी वाले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "viparītam",
+     "problem": "Accusative (agrees with kāryam), not nominative.",
+     "fix": "adj. n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "viparītam",
+      "field": "gram",
+      "value": "adj. n. acc. sg."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upeyāt",
+     "problem": "Glossary 7.1.",
+     "fix": "should resort to",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "upeyāt",
+      "field": "gloss",
+      "value": "should resort to"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "adharmyam",
+     "problem": "Glossary 7.5: adharmya = unlawful (धर्म-विरुद्ध).",
+     "fix": "unlawful",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "adharmyam",
+      "field": "gloss",
+      "value": "unlawful"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should enter into",
+     "problem": "Glossary 7.1.",
+     "fix": "should resort to",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "should enter into",
+      "new": "should resort to"
+     }
+    },
+    {
+     "field": "english",
+     "where": "contrary to dharma",
+     "problem": "Glossary 7.5: adharmya = unlawful.",
+     "fix": "unlawful",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "contrary to dharma",
+      "new": "unlawful"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धर्म के विरुद्ध",
+     "problem": "Glossary 7.5: धर्म-विरुद्ध.",
+     "fix": "धर्म-विरुद्ध",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धर्म के विरुद्ध",
+      "new": "धर्म-विरुद्ध"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आघात",
+     "problem": "Glossary 3.20/7.7: upaghātin = injuring (क्षति पहुँचाने वाला); आघात is abhi-√han (7.7).",
+     "fix": "मित्रों को क्षति पहुँचाने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मित्रों को आघात पहुँचाने वाला",
+      "new": "मित्रों को क्षति पहुँचाने वाला"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Align with glossary 7.5.",
+     "fix": "adharmya = unlawful (glossary 7.5).",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "notes",
+      "old": "adharmya read 'contrary to dharma'.",
+      "new": "adharmya = unlawful (glossary 7.5)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "deśa-kālayoḥ",
+     "problem": "deśa-kāla = place and time (glossary 7.10, 7.8).",
+     "fix": "of place and time",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "deśa-kālayoḥ",
+      "field": "gloss",
+      "value": "of place and time"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "deśa-kāryayoḥ",
+     "problem": "deśa = place.",
+     "fix": "of place and task",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "deśa-kāryayoḥ",
+      "field": "gloss",
+      "value": "of place and task"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "deśa-kāla-kāryāṇām",
+     "problem": "deśa = place.",
+     "fix": "of place, time and task",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "deśa-kāla-kāryāṇām",
+      "field": "gloss",
+      "value": "of place, time and task"
+     }
+    },
+    {
+     "field": "english",
+     "where": "region",
+     "problem": "deśa-kāla = place and time (glossary 7.10).",
+     "fix": "the fixing of place and time, of time and task, of place and task, and of place, time and task",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "the fixing of region and time, of time and task, of region and task, and of region, time and task",
+      "new": "the fixing of place and time, of time and task, of place and task, and of place, time and task"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रदेश ... और कार्य",
+     "problem": "देश और काल (glossary 7.10); the three-member dvandva takes commas only (7.7, 7.8); the ca before it stays और.",
+     "fix": "देश और समय, समय और कार्य, देश और कार्य, और देश, समय, कार्य के",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रदेश और समय, समय और कार्य, प्रदेश और कार्य, और प्रदेश, समय और कार्य के",
+      "new": "देश और समय, समय और कार्य, देश और कार्य, और देश, समय, कार्य के"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "deśa = place.",
+     "fix": "The seven: place, time, purpose",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "notes",
+      "old": "The seven: region, time, purpose",
+      "new": "The seven: place, time, purpose"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sva-karmāṇi",
+     "problem": "Glossary 7.1: karma in sva-karma / para-karma = works (कर्म).",
+     "fix": "own works",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "sva-karmāṇi",
+      "field": "gloss",
+      "value": "own works"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "para-karmasu",
+     "problem": "Glossary 7.1.",
+     "fix": "in the works of the other",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "para-karmasu",
+      "field": "gloss",
+      "value": "in the works of the other"
+     }
+    },
+    {
+     "field": "english",
+     "where": "actions",
+     "problem": "Glossary 7.1: works.",
+     "fix": "one's own works",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "one's own actions",
+      "new": "one's own works"
+     }
+    },
+    {
+     "field": "english",
+     "where": "actions",
+     "problem": "Glossary 7.1: works.",
+     "fix": "in the works of the other",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "in the actions of the other",
+      "new": "in the works of the other"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Align with glossary 7.1.",
+     "fix": "karma = works (glossary 7.1 sva-karma / para-karma; also undertakings).",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "notes",
+      "old": "karma kept 'action' (also undertakings, works).",
+      "new": "karma = works (glossary 7.1 sva-karma / para-karma; also undertakings)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "deśa-kāla-kāryāṇām",
+     "problem": "deśa = place.",
+     "fix": "of place, time and task",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "deśa-kāla-kāryāṇām",
+      "field": "gloss",
+      "value": "of place, time and task"
+     }
+    },
+    {
+     "field": "english",
+     "where": "an ignorant one",
+     "problem": "ajña is an adjective of śatrum; \"one\" is an unmarked addition.",
+     "fix": "or ignorant",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "or an ignorant one",
+      "new": "or ignorant"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "और आलस्य",
+     "problem": "Four-member dvandva: commas only (glossary 7.7, 7.8); no ca in the Sanskrit.",
+     "fix": "व्यसन, शीघ्रता, अनादर, आलस्य से",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "व्यसन, शीघ्रता, अनादर और आलस्य से",
+      "new": "व्यसन, शीघ्रता, अनादर, आलस्य से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रदेश, समय और कार्य",
+     "problem": "देश (glossary 7.10); commas only for the three-member dvandva.",
+     "fix": "देश, समय, कार्य के निर्धारण",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रदेश, समय और कार्य के निर्धारण",
+      "new": "देश, समय, कार्य के निर्धारण"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मिले हुए",
+     "problem": "Glossary 7.3: saṃhita = allied (संहित).",
+     "fix": "“हम दोनों संहित हैं”",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "“हम दोनों मिले हुए हैं”",
+      "new": "“हम दोनों संहित हैं”"
+     }
+    },
+    {
+     "field": "english",
+     "where": "region",
+     "problem": "deśa = place (glossary 7.10).",
+     "fix": "not fixing place, time and task",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "not fixing region, time and task",
+      "new": "not fixing place, time and task"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole sentence",
+     "problem": "Glossary 7.9: tatra-etad bhavati = \"In this matter, this is.\"",
+     "fix": "In this matter, this is.",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "Concerning this, there is this.",
+      "new": "In this matter, this is."
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मौन युद्ध",
+     "problem": "Same term is तूष्णीं-युद्ध in unit 41; like प्रकाश-युद्ध and कूटयुद्ध the kind of battle stays a Sanskrit term.",
+     "fix": "तूष्णीं-युद्ध",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मौन युद्ध",
+      "new": "तूष्णीं-युद्ध"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और श्रेष्ठों",
+     "problem": "Three-member dvandva: commas only (glossary 7.7, 7.8).",
+     "fix": "समान, हीन, श्रेष्ठों का",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समान, हीन और श्रेष्ठों का",
+      "new": "समान, हीन, श्रेष्ठों का"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कृत-श्लेषण",
+     "problem": "Unit 16 renders kṛta-śleṣaṇa as कृत को जोड़ना; one Hindi rendering for one term.",
+     "fix": "यह कृत को जोड़ना है",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह कृत-श्लेषण है",
+      "new": "यह कृत को जोड़ना है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कृत का विदूषण",
+     "problem": "Unit 16 renders kṛta-vidūṣaṇa as कृत को दूषित करना.",
+     "fix": "यह कृत को दूषित करना है",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह कृत का विदूषण है",
+      "new": "यह कृत को दूषित करना है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मिला हुआ",
+     "problem": "Glossary 7.3: saṃhita = allied (संहित).",
+     "fix": "मेरे मित्रों से संहित है",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मेरे मित्रों से मिला हुआ है",
+      "new": "मेरे मित्रों से संहित है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मिले हुए",
+     "problem": "Glossary 7.3.",
+     "fix": "शत्रु से संहित दूसरे से",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रु से मिले हुए दूसरे से",
+      "new": "शत्रु से संहित दूसरे से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "deśa-laulyam",
+     "problem": "One rendering for deśa through the chapter (place, glossary 7.10).",
+     "fix": "greed for a place",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "word",
+      "match_w": "deśa-laulyam",
+      "field": "gloss",
+      "value": "greed for a place"
+     }
+    },
+    {
+     "field": "english",
+     "where": "region",
+     "problem": "deśa = place.",
+     "fix": "greed for a place",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "english",
+      "old": "greed for a region",
+      "new": "greed for a place"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रदेश",
+     "problem": "Hindi देश for deśa.",
+     "fix": "देश की लोलुपता",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रदेश की लोलुपता",
+      "new": "देश की लोलुपता"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "deśa = place.",
+     "fix": "eagerness for a place",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "notes",
+      "old": "eagerness for a region",
+      "new": "eagerness for a place"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अवृत्ति",
+     "problem": "English says lack of livelihood; a bare Sanskrit form is not a translation.",
+     "fix": "आजीविका का अभाव",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अवृत्ति",
+      "new": "आजीविका का अभाव"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "apakārī",
+     "problem": "Glossary 7.1: apakāra = injury (अपकार).",
+     "fix": "one who does injury",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "apakārī",
+      "field": "gloss",
+      "value": "one who does injury",
+      "occurrence": 1
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "para-apakārī",
+     "problem": "Glossary 7.1.",
+     "fix": "one who does injury to the other",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "para-apakārī",
+      "field": "gloss",
+      "value": "one who does injury to the other"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ubhaya-apakārī",
+     "problem": "Glossary 7.1.",
+     "fix": "one who does injury to both",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "ubhaya-apakārī",
+      "field": "gloss",
+      "value": "one who does injury to both"
+     }
+    },
+    {
+     "field": "english",
+     "where": "harms",
+     "problem": "Glossary 7.1: apakāra = injury.",
+     "fix": "One who does injury here is to be abandoned, one who does injury to the other is to be allied with, one who does injury to both is",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "One who harms here is to be abandoned, one who harms the other is to be allied with, one who harms both is",
+      "new": "One who does injury here is to be abandoned, one who does injury to the other is to be allied with, one who does injury to both is"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्वामी",
+     "problem": "Glossary 7.5: bhartṛ = master (भर्ता), kept apart from svāmin.",
+     "fix": "भर्ता पर",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्वामी पर",
+      "new": "भर्ता पर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सीमा",
+     "problem": "Glossary 7.10: pratyanta = frontier (सीमान्त).",
+     "fix": "सीमान्त पर",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सीमा पर",
+      "new": "सीमान्त पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "unaccomplished or accomplished",
+     "problem": "The first vā is not rendered; correlative vā ... vā = either ... or.",
+     "fix": "either unaccomplished or accomplished, enveloped",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "english",
+      "old": "unaccomplished or accomplished, enveloped",
+      "new": "either unaccomplished or accomplished, enveloped"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "असिद्ध अथवा सिद्ध",
+     "problem": "Both vā must show: या ... या.",
+     "fix": "या असिद्ध या सिद्ध",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "hindi",
+      "old": "असिद्ध अथवा सिद्ध",
+      "new": "या असिद्ध या सिद्ध"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Follows the new rendering.",
+     "fix": "The two vā are correlative (either ... or); English 'either ... or', Hindi 'या ... या'.",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "replace",
+      "field": "notes",
+      "old": "The two vā are correlative (whether ... or); Hindi has one अथवा.",
+      "new": "The two vā are correlative (either ... or); English 'either ... or', Hindi 'या ... या'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "deśe",
+     "problem": "deśa = place.",
+     "fix": "in the place",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "deśe",
+      "field": "gloss",
+      "value": "in the place"
+     }
+    },
+    {
+     "field": "english",
+     "where": "region",
+     "problem": "deśa-kāla = place and time (glossary 7.10).",
+     "fix": "specified place and time",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": "specified region and time",
+      "new": "specified place and time"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रदेश",
+     "problem": "देश और काल (glossary 7.10).",
+     "fix": "निर्दिष्ट देश और समय",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निर्दिष्ट प्रदेश और समय",
+      "new": "निर्दिष्ट देश और समय"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आक्रमण (avaskanda)",
+     "problem": "vikrama is आक्रमण (glossary 7.8) in the same verse; give avaskanda a different Hindi word so the two stay apart.",
+     "fix": "डराना, धावा, प्रमाद",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "डराना, आक्रमण, प्रमाद",
+      "new": "डराना, धावा, प्रमाद"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Record the split.",
+     "fix": "Hindi: vikrama = आक्रमण (glossary 7.8) and avaskanda = धावा here, so the two stay apart (glossary 12.4 gives आक्रमण for avaskanda elsewhere).",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi uses आक्रमण for both vikrama and avaskanda (glossary: avaskanda = assault, आक्रमण).",
+      "new": "Hindi: vikrama = आक्रमण (glossary 7.8) and avaskanda = धावा here, so the two stay apart (glossary 12.4 gives आक्रमण for avaskanda elsewhere)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "घात",
+     "problem": "Glossary 4.7: ghāta = killing (हत्या); English already says killing.",
+     "fix": "त्याग और हत्या",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "त्याग और घात",
+      "new": "त्याग और हत्या"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "योग, गुप्तचर और उपजाप",
+     "problem": "Three-member dvandva: commas only (glossary 7.7, 7.8).",
+     "fix": "योग, गुप्तचर, उपजाप के प्रयोजन से",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "replace",
+      "field": "hindi",
+      "old": "योग, गुप्तचर और उपजाप के प्रयोजन से",
+      "new": "योग, गुप्तचर, उपजाप के प्रयोजन से"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Say how ca is rendered.",
+     "fix": "The single 'and' of 'abandonment and killing' carries both the dvandva tyāga-ghātau and the following ca.",
+     "severity": "minor",
+     "patch": {
+      "n": "41",
+      "op": "append_note",
+      "text": "The single 'and' of 'abandonment and killing' carries both the dvandva tyāga-ghātau and the following ca."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Independent review of Book 7 ch06 chunk 1 (41 units). Text, token split and flags are sound (flags in units 2, 28, 36 are real; no flag added or removed). Errors: unit 8 (adjectives of deśam labelled neuter; English/Hindi syntax and a stray '[one]'), prayāṇa gender (unit 2), viparītam labelled nominative (units 8-10, patched to accusative). Most other fixes bring the chunk in line with the Book 7 glossary lines: deśa = place (7.10, 7.8), upeyāt = resort to (7.1), karma = works (7.1), saṃhita = allied (7.3), adharmya = unlawful (7.5), vaiṣamya = unevenness (7.5), bhartṛ = भर्ता (7.5), three-member dvandvas take commas in Hindi (7.7, 7.8), apakāra = injury (7.1), pratyanta = सीमान्त (7.10); unit 36 now renders both vā; avaskanda gets धावा in Hindi so it differs from vikrama = आक्रमण (7.8); tūṣṇīṃ-yuddha, kṛta-śleṣaṇa, kṛta-vidūṣaṇa made uniform. Left as drafted: sandhi = treaty (7.7), vikrama = attack, lābha = gain, 'vice (vyasana)' in unit 13 (Hindi व्यसन has no bracket or Latin), daṇḍa-cārin 'one moving with the army', untranslated apasandheyatā and mātṛkā, low units 8, 26, 30, 33, 35, 36, 39, 41 (confidence honest). Quote+iti+label lines (units 5-7, 20) keep the dash form; the label is the predicate. No regrouping. No hand edits (no word or flag to add or delete)."
+}

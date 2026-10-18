@@ -1,0 +1,1497 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikrīya",
+      "words": [
+       {
+        "w": "vikrīya",
+        "gloss": "having sold",
+        "gram": "abs. vi-√krī"
+       }
+      ]
+     },
+     {
+      "src": "paṇyam",
+      "words": [
+       {
+        "w": "paṇyam",
+        "gloss": "wares",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aprayacchato",
+      "words": [
+       {
+        "w": "aprayacchataḥ",
+        "gloss": "of one not delivering",
+        "gram": "m. gen. sg. pres. part. a-pra-√yam"
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa.paṇo",
+      "words": [
+       {
+        "w": "dvādaśa-paṇaḥ",
+        "gloss": "of twelve paṇas",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣa.upanipāta.aviṣahyebhyaḥ",
+      "words": [
+       {
+        "w": "doṣa-upanipāta-aviṣahyebhyaḥ",
+        "gloss": "defect, mishap, the unbearable",
+        "gram": "m. abl. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बेचकर पण्य न सौंपने वाले को बारह पण का दण्ड, दोष, उपनिपात और असह्य को छोड़कर।",
+  "english": "For one who, having sold wares, does not deliver [them], the penalty [is] twelve paṇas, except in cases of defect, mishap (upanipāta) and the unbearable (aviṣahya).",
+  "text_flags": [],
+  "notes": "Verbless: 'is' supplied in brackets in English. 'Deliver': aprayacchataḥ = not giving over (pra-√yam); the object is not stated, [them] is supplied. daṇḍa = penalty (Book 4 usage); paṇa is a unit name. The three exceptions are defined in units 2-4. doṣa, upanipāta, aviṣahya are taken as a dvandva; the ablative with anyatra is rendered 'except in cases of'.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṇya.doṣo",
+      "words": [
+       {
+        "w": "paṇya-doṣaḥ",
+        "gloss": "defect of the wares",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "doṣaḥ",
+      "words": [
+       {
+        "w": "doṣaḥ",
+        "gloss": "defect (doṣa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पण्य का दोष — दोष।",
+  "english": "The defect of the wares [is] the defect (doṣa).",
+  "text_flags": [],
+  "notes": "A definition: the doṣa of unit 1 is a defect in the wares. Verbless; no copula supplied in Hindi.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rāja.cora.agny.udaka.bādha",
+      "words": [
+       {
+        "w": "rāja-cora-agni-udaka-bādhaḥ",
+        "gloss": "obstruction by king, thieves, fire, water",
+        "gram": "m. nom. sg., dvandva + tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "upanipātaḥ",
+      "words": [
+       {
+        "w": "upanipātaḥ",
+        "gloss": "mishap (upanipāta)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "राजा, चोर, अग्नि, जल की बाधा — उपनिपात।",
+  "english": "Obstruction [caused by] king, thieves, fire [or] water [is] the mishap (upanipāta).",
+  "text_flags": [],
+  "notes": "Definition of upanipāta (literally 'befalling'). 'Obstruction by' vs 'obstruction of' (bādha) is left open; the bracketed '[caused by]' is the more natural reading. 'agny.udaka' is regular sandhi for agni-udaka; no flag.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bahu.guṇa.hīnam",
+      "words": [
+       {
+        "w": "bahu-guṇa-hīnam",
+        "gloss": "lacking many qualities",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ārta.kṛtaṃ",
+      "words": [
+       {
+        "w": "ārta-kṛtam",
+        "gloss": "made by the afflicted",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā-aviṣahyam",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "aviṣahyam",
+        "gloss": "unbearable",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बहुत गुणों से हीन अथवा पीड़ित के द्वारा किया हुआ — असह्य।",
+  "english": "[That which is] lacking in many qualities or made by the afflicted [is] unbearable (aviṣahya).",
+  "text_flags": [],
+  "notes": "Definition of aviṣahya. bahu-guṇa-hīna: 'lacking many qualities' (alternative: 'much lacking in quality'). ārta-kṛta: 'made by the afflicted' (alternative: 'made in distress'); the sense is doubtful, so rendered literally. 'That which' is supplied in brackets.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaidehakānām",
+      "words": [
+       {
+        "w": "vaidehakānām",
+        "gloss": "of traders",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "eka.rātram",
+      "words": [
+       {
+        "w": "eka-rātram",
+        "gloss": "one night",
+        "gram": "n. acc. sg., dvigu"
+       }
+      ]
+     },
+     {
+      "src": "anuśayaḥ,",
+      "words": [
+       {
+        "w": "anuśayaḥ",
+        "gloss": "regret (anuśaya)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "karṣakāṇāṃ",
+      "words": [
+       {
+        "w": "karṣakāṇām",
+        "gloss": "of farmers",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tri.rātraṃ,",
+      "words": [
+       {
+        "w": "tri-rātram",
+        "gloss": "three nights",
+        "gram": "n. acc. sg., dvigu"
+       }
+      ]
+     },
+     {
+      "src": "go.rakṣakāṇāṃ",
+      "words": [
+       {
+        "w": "go-rakṣakāṇām",
+        "gloss": "of cattle-keepers",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pañca.rātram",
+      "words": [
+       {
+        "w": "pañca-rātram",
+        "gloss": "five nights",
+        "gram": "n. acc. sg., dvigu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैदेहकों का अनुशय एक रात, कृषकों का तीन रात, गोरक्षकों का पाँच रात।",
+  "english": "For traders the anuśaya (regret) [is] one night, for farmers three nights, for cattle-keepers five nights.",
+  "text_flags": [],
+  "notes": "anuśaya kept as a term; literally 'regret, repentance'; here evidently a period within which a sale or purchase may be reversed (not stated by the word itself). Verbless; the genitives are rendered 'for'. vaidehaka = trader.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyāmiśrāṇām",
+      "words": [
+       {
+        "w": "vyāmiśrāṇām",
+        "gloss": "of the mixed",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "uttamānāṃ",
+      "words": [
+       {
+        "w": "uttamānām",
+        "gloss": "of the highest",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varṇānāṃ",
+      "words": [
+       {
+        "w": "varṇānām",
+        "gloss": "of varṇas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛtti.vikraye",
+      "words": [
+       {
+        "w": "vṛtti-vikraye",
+        "gloss": "in the sale of livelihood",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sapta.rātram",
+      "words": [
+       {
+        "w": "sapta-rātram",
+        "gloss": "seven nights",
+        "gram": "n. acc. sg., dvigu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मिश्र और उत्तम वर्णों के जीविका-विक्रय में सात रात।",
+  "english": "For the mixed and the highest varṇas, in the sale of livelihood, seven nights.",
+  "text_flags": [],
+  "notes": "vyāmiśra and uttama could be two groups of varṇas (taken so) or vyāmiśra could qualify something else. vṛtti-vikraya: 'sale of livelihood' is literal; it may mean sale of the goods that form their livelihood (not stated). Verbless; the anuśaya is understood from unit 5 but not supplied.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ātipātikānāṃ",
+      "words": [
+       {
+        "w": "ātipātikānām",
+        "gloss": "of ātipātika",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "paṇyānāṃ",
+      "words": [
+       {
+        "w": "paṇyānām",
+        "gloss": "wares",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "\"anyatra.avikreyam\"",
+      "words": [
+       {
+        "w": "anyatra-avikreyam",
+        "gloss": "not to be sold elsewhere",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing quotation marker",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "avarodhena-anuśayo",
+      "words": [
+       {
+        "w": "avarodhena",
+        "gloss": "by restraint",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "anuśayaḥ",
+        "gloss": "regret (anuśaya)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "deyaḥ",
+      "words": [
+       {
+        "w": "deyaḥ",
+        "gloss": "to be given",
+        "gram": "m. nom. sg. gerundive √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आतिपातिक पण्यों का अनुशय “अन्यत्र बेचने योग्य नहीं” — अवरोध से दिया जाना चाहिए।",
+  "english": "For ātipātika wares the anuśaya is to be given by restraint, “not to be sold elsewhere”.",
+  "text_flags": [],
+  "notes": "ātipātika is obscure and is kept untranslated (from atipāta, 'passing by, urgency'; 'perishable' is a possible sense). avarodha: 'restraint' (alternatives: 'confinement, stoppage'); the exact construction of avarodhena with the quoted phrase is uncertain. The quotation marks are balanced in the e-text. The closing iti is carried by the quotation marks.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya-atikrame",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "pron. n. gen. sg."
+       },
+       {
+        "w": "atikrame",
+        "gloss": "in the transgression",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "catur.viṃśati.paṇo",
+      "words": [
+       {
+        "w": "catur-viṃśati-paṇaḥ",
+        "gloss": "of twenty-four paṇas",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṇya.daśa.bhāgo",
+      "words": [
+       {
+        "w": "paṇya-daśa-bhāgaḥ",
+        "gloss": "a tenth part of the wares",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके अतिक्रमण में चौबीस पण का दण्ड, अथवा पण्य का दसवाँ भाग।",
+  "english": "On transgression of that, the penalty [is] twenty-four paṇas, or a tenth part of the wares.",
+  "text_flags": [],
+  "notes": "tasya refers to the rule of unit 7 (the restraint); atikrama = transgression. 'catur' before v- is regular sandhi for catuḥ. daśa-bhāga = a tenth part (not 'ten parts').",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "krītvā",
+      "words": [
+       {
+        "w": "krītvā",
+        "gloss": "having bought",
+        "gram": "abs. √krī"
+       }
+      ]
+     },
+     {
+      "src": "paṇyam",
+      "words": [
+       {
+        "w": "paṇyam",
+        "gloss": "wares",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "apratigṛhṇato",
+      "words": [
+       {
+        "w": "apratigṛhṇataḥ",
+        "gloss": "of one not taking over",
+        "gram": "m. gen. sg. pres. part. a-prati-√grah"
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa.paṇo",
+      "words": [
+       {
+        "w": "dvādaśa-paṇaḥ",
+        "gloss": "of twelve paṇas",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣa.upanipāta.aviṣahyebhyaḥ",
+      "words": [
+       {
+        "w": "doṣa-upanipāta-aviṣahyebhyaḥ",
+        "gloss": "defect, mishap, the unbearable",
+        "gram": "m. abl. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खरीदकर पण्य न लेने वाले को बारह पण का दण्ड, दोष, उपनिपात और असह्य को छोड़कर।",
+  "english": "For one who, having bought wares, does not take [them] over, the penalty [is] twelve paṇas, except in cases of defect, mishap (upanipāta) and the unbearable (aviṣahya).",
+  "text_flags": [],
+  "notes": "Parallel to unit 1 for the buyer.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samānaś",
+      "words": [
+       {
+        "w": "samānaḥ",
+        "gloss": "equal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-anuśayo",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anuśayaḥ",
+        "gloss": "regret (anuśaya)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikretur",
+      "words": [
+       {
+        "w": "vikretuḥ",
+        "gloss": "of the seller",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "anuśayena",
+      "words": [
+       {
+        "w": "anuśayena",
+        "gloss": "with the anuśaya",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और अनुशय विक्रेता के अनुशय के समान।",
+  "english": "And the anuśaya [is] equal to the seller's anuśaya.",
+  "text_flags": [],
+  "notes": "The anuśaya is not stated to be the buyer's; it follows unit 9 (buyer). Not supplied. samāna with instrumental: 'equal with'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vivāhānāṃ",
+      "words": [
+       {
+        "w": "vivāhānām",
+        "gloss": "of marriages",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trayāṇāṃ",
+      "words": [
+       {
+        "w": "trayāṇām",
+        "gloss": "of three",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pūrveṣāṃ",
+      "words": [
+       {
+        "w": "pūrveṣām",
+        "gloss": "of the first",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "varṇānāṃ",
+      "words": [
+       {
+        "w": "varṇānām",
+        "gloss": "of varṇas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāṇi.grahaṇāt",
+      "words": [
+       {
+        "w": "pāṇi-grahaṇāt",
+        "gloss": "from the taking of the hand",
+        "gram": "n. abl. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "siddham",
+      "words": [
+       {
+        "w": "siddham",
+        "gloss": "established",
+        "gram": "n. nom. sg. pp. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "upāvartanaṃ,",
+      "words": [
+       {
+        "w": "upāvartanam",
+        "gloss": "turning back (upāvartana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūdrāṇāṃ",
+      "words": [
+       {
+        "w": "śūdrāṇām",
+        "gloss": "of Shudras",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prakarmaṇaḥ",
+      "words": [
+       {
+        "w": "prakarmaṇaḥ",
+        "gloss": "from the prakarman",
+        "gram": "n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु पहले तीन वर्णों के विवाहों का उपावर्तन पाणिग्रहण से सिद्ध, और शूद्रों का प्रकर्म से।",
+  "english": "But for the marriages of the first three varṇas the upāvartana (turning back) [is] established from the taking of the hand, and of the Shudras [it is established] from the prakarman.",
+  "text_flags": [],
+  "notes": "upāvartana: literally 'turning back'; here the reversal of the marriage. prakarman is obscure ('beginning, undertaking') and kept untranslated. 'Shudras' in the genitive plural is read with the elided upāvartana. siddha: 'established, valid'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vṛtta.pāṇi.grahaṇayor",
+      "words": [
+       {
+        "w": "vṛtta-pāṇi-grahaṇayoḥ",
+        "gloss": "of the two whose taking of the hand has taken place",
+        "gram": "m. gen./loc. du., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣam",
+      "words": [
+       {
+        "w": "doṣam",
+        "gloss": "defect",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aupaśāyikaṃ",
+      "words": [
+       {
+        "w": "aupaśāyikam",
+        "gloss": "aupaśāyika",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭvā",
+      "words": [
+       {
+        "w": "dṛṣṭvā",
+        "gloss": "having seen",
+        "gram": "abs. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "siddham",
+      "words": [
+       {
+        "w": "siddham",
+        "gloss": "established",
+        "gram": "n. nom. sg. pp. √sidh"
+       }
+      ]
+     },
+     {
+      "src": "upāvartanam",
+      "words": [
+       {
+        "w": "upāvartanam",
+        "gloss": "turning back (upāvartana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाणिग्रहण हो चुके दोनों का भी औपशायिक दोष देखकर उपावर्तन सिद्ध।",
+  "english": "Even of the two whose taking of the hand has taken place, the upāvartana [is] established on seeing an aupaśāyika defect.",
+  "text_flags": [],
+  "notes": "vṛtta-pāṇigrahaṇa taken as a dual bahuvrīhi 'whose hand-taking has taken place' (alternative: a dvandva 'of the vṛtta and the pāṇigrahaṇa'). Dual genitive is read; a locative 'when ... has taken place' is also possible. aupaśāyika is obscure (from upaśaya, 'remedy, relief') and kept untranslated.",
+  "confidence": "low"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tv",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eva-abhiprajātayoḥ",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "at all",
+        "gram": "ind."
+       },
+       {
+        "w": "abhiprajātayoḥ",
+        "gloss": "of the two who have had offspring",
+        "gram": "m. gen./loc. du. pp. abhi-pra-√jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु सन्तान उत्पन्न कर चुके दोनों का बिलकुल ही नहीं।",
+  "english": "But [it is] not at all [so] of the two who have had offspring.",
+  "text_flags": [],
+  "notes": "Elliptical: the upāvartana of unit 12 is understood but not supplied in Hindi. abhiprajāta: 'who have had offspring born' (alternative reading 'on whom offspring has been born'); doubtful.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kanyā.doṣam",
+      "words": [
+       {
+        "w": "kanyā-doṣam",
+        "gloss": "defect of the girl",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "aupaśāyikam",
+      "words": [
+       {
+        "w": "aupaśāyikam",
+        "gloss": "aupaśāyika",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anākhyāya",
+      "words": [
+       {
+        "w": "anākhyāya",
+        "gloss": "without declaring",
+        "gram": "abs. a-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "prayacchataḥ",
+      "words": [
+       {
+        "w": "prayacchataḥ",
+        "gloss": "of one giving",
+        "gram": "m. gen. sg. pres. part. pra-√dā"
+       }
+      ]
+     },
+     {
+      "src": "kanyāṃ",
+      "words": [
+       {
+        "w": "kanyām",
+        "gloss": "the girl",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṇ.ṇavatir",
+      "words": [
+       {
+        "w": "ṣaṭ-navatiḥ",
+        "gloss": "ninety-six",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śulka.strī.dhana.pratidānaṃ",
+      "words": [
+       {
+        "w": "śulka-strī-dhana-pratidānam",
+        "gloss": "giving back of bride-price and woman's wealth",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "औपशायिक कन्या-दोष को बताए बिना कन्या देने वाले का छियानवे का दण्ड, और शुल्क, स्त्री-धन को लौटाना।",
+  "english": "For one who gives away the girl without declaring an aupaśāyika defect of the girl, the penalty [is] ninety-six, and the giving back of the bride-price [and] woman's wealth.",
+  "text_flags": [],
+  "notes": "Unit of the ninety-six is not stated (not supplied). 'Girl' (kanyā) kept literal. śulka = bride-price in this marriage context (elsewhere toll). strī-dhana = woman's wealth, literal. 'ṣaṇ.ṇavatiḥ' = ṣaṭ + navatiḥ, regular sandhi. 'ṣaṇ.ṇavatir' dotted as a compound by the editors.",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "varayitur",
+      "words": [
+       {
+        "w": "varayituḥ",
+        "gloss": "of the chooser",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vara.doṣam",
+      "words": [
+       {
+        "w": "vara-doṣam",
+        "gloss": "defect of the groom",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "anākhyāya",
+      "words": [
+       {
+        "w": "anākhyāya",
+        "gloss": "without declaring",
+        "gram": "abs. a-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "vindato",
+      "words": [
+       {
+        "w": "vindataḥ",
+        "gloss": "of one obtaining",
+        "gram": "m. gen. sg. pres. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "dvi.guṇaḥ,",
+      "words": [
+       {
+        "w": "dvi-guṇaḥ",
+        "gloss": "twofold",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "śulka.strī.dhana.nāśaś",
+      "words": [
+       {
+        "w": "śulka-strī-dhana-nāśaḥ",
+        "gloss": "loss of bride-price and woman's wealth",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा वर के दोष को बताए बिना पाने वाले वरण करने वाले का दोगुना, और शुल्क, स्त्री-धन का नाश।",
+  "english": "Or for the chooser who obtains [her] without declaring the defect of the groom, [the penalty is] twofold, and the loss of the bride-price [and] woman's wealth.",
+  "text_flags": [],
+  "notes": "varayitṛ (one who chooses, i.e. in marriage) is rendered literally; vindataḥ (obtaining) has no stated object, so [her] is bracketed. 'Twofold' is understood of the penalty of unit 14 (dvi-guṇaḥ with daṇḍaḥ not stated). Whether the one who conceals is the groom or his party is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvipada.catuṣpadānāṃ",
+      "words": [
+       {
+        "w": "dvipada-catuṣpadānām",
+        "gloss": "of bipeds and quadrupeds",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuṇṭha.vyādhita.aśucīnām",
+      "words": [
+       {
+        "w": "kuṇṭha-vyādhita-aśucīnām",
+        "gloss": "of dull, diseased, unclean",
+        "gram": "gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "utsāha.svāsthya.śucīnām",
+      "words": [
+       {
+        "w": "utsāha-svāsthya-śucīnām",
+        "gloss": "of energetic, healthy, clean",
+        "gram": "gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ākhyāne",
+      "words": [
+       {
+        "w": "ākhyāne",
+        "gloss": "in the declaring",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvādaśa.paṇo",
+      "words": [
+       {
+        "w": "dvādaśa-paṇaḥ",
+        "gloss": "of twelve paṇas",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु द्विपदों और चतुष्पदों के कुण्ठित, रोगग्रस्त, अशुद्ध को उत्साही, स्वस्थ, शुद्ध बताने में बारह पण का दण्ड।",
+  "english": "But for bipeds and quadrupeds, in the declaring of [the] dull, diseased [or] unclean [as] energetic, healthy [or] clean, the penalty [is] twelve paṇas.",
+  "text_flags": [],
+  "notes": "The two genitive groups (kuṇṭha... and utsāha...) are read as 'declaring dull etc. as energetic etc.'; '[as]' is supplied. kuṇṭha: 'dull, blunt' (the opposite of utsāha, energy), rendered 'dull'; alternative 'lame'. Hindi lacks the verb; the sense 'declaring X as Y' is carried by बताने में.",
+  "confidence": "low"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā.tri.pakṣād",
+      "words": [
+       {
+        "w": "ā-tri-pakṣāt",
+        "gloss": "up to three fortnights",
+        "gram": "m. abl. sg., ā + tri-pakṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing quotation marker",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "catuṣpadānām",
+      "words": [
+       {
+        "w": "catuṣpadānām",
+        "gloss": "of quadrupeds",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "upāvartanam,",
+      "words": [
+       {
+        "w": "upāvartanam",
+        "gloss": "turning back (upāvartana)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā.saṃvatsarād",
+      "words": [
+       {
+        "w": "ā-saṃvatsarāt",
+        "gloss": "up to a year",
+        "gram": "m. abl. sg., ā + saṃvatsara"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing quotation marker",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manuṣyāṇām",
+      "words": [
+       {
+        "w": "manuṣyāṇām",
+        "gloss": "of human beings",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चतुष्पदों का उपावर्तन “तीन पखवाड़े तक”, मनुष्यों का “एक वर्ष तक”।",
+  "english": "For quadrupeds the upāvartana [is] “up to three fortnights”, for human beings “up to a year”.",
+  "text_flags": [],
+  "notes": "pakṣa = fortnight here (not 'wing'). iti closes each short quoted period; carried by the quotation marks. The e-text prints ā as a dotted compound member.",
+  "confidence": "high"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tāvatā",
+      "words": [
+       {
+        "w": "tāvatā",
+        "gloss": "by that much",
+        "gram": "m./n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kālena",
+      "words": [
+       {
+        "w": "kālena",
+        "gloss": "time",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śakyaṃ",
+      "words": [
+       {
+        "w": "śakyam",
+        "gloss": "possible",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śauca.āśauce",
+      "words": [
+       {
+        "w": "śauca-āśauce",
+        "gloss": "cleanness and uncleanness",
+        "gram": "n. acc. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "jñātum",
+      "words": [
+       {
+        "w": "jñātum",
+        "gloss": "to know",
+        "gram": "inf. √jñā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि उतने समय में शौच और अशौच को जानना शक्य।",
+  "english": "For by that much time [it is] possible to know cleanness and uncleanness.",
+  "text_flags": [],
+  "notes": "Verbless; '[it is]' supplied in brackets. Reason clause for the periods in unit 17. kāla with tāvatā: 'in/by that much time'.",
+  "confidence": "high"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dātā",
+      "words": [
+       {
+        "w": "dātā",
+        "gloss": "giver",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratigrahītā",
+      "words": [
+       {
+        "w": "pratigrahītā",
+        "gloss": "receiver",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "syātāṃ",
+      "words": [
+       {
+        "w": "syātām",
+        "gloss": "may be",
+        "gram": "3 du. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "na-upahatau",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "upahatau",
+        "gloss": "injured",
+        "gram": "m. nom. du. pp. upa-√han"
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "in the way that",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dāne",
+      "words": [
+       {
+        "w": "dāne",
+        "gloss": "in giving",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kraye",
+      "words": [
+       {
+        "w": "kraye",
+        "gloss": "in buying",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-anuśayaṃ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anuśayam",
+        "gloss": "regret (anuśaya)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "in that way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryuḥ",
+      "words": [
+       {
+        "w": "kuryuḥ",
+        "gloss": "should make",
+        "gram": "3 pl. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sabhāsadaḥ",
+      "words": [
+       {
+        "w": "sabhāsadaḥ",
+        "gloss": "members of the assembly",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस प्रकार दाता और प्रतिग्रहीता क्षतिग्रस्त न हों, उस प्रकार देने या खरीदने में सभासद अनुशय करें।",
+  "english": "In the way that the giver and the receiver may not be injured, in that way the members of the assembly should make the anuśaya in giving or buying.",
+  "text_flags": [],
+  "notes": "kuryuḥ ... anuśayam: 'make the anuśaya' (i.e. fix or arrange it); rendered literally. upahata = injured, harmed. sabhāsad: literally 'sitters in the assembly'. Verse (anuṣṭubh), two half-lines; the closing verse of the section.",
+  "confidence": "high"
+ }
+]

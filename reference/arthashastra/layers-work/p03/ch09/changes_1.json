@@ -1,0 +1,151 @@
+[
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "पड़ोसियों के चालीस कुल्यों के बीच, घर के सामने के स्थान पर, आवास की घोषणा सुनवाएँ; पड़ोसी गाँवों के वृद्धों के बीच, सीमाओं के भीतर, सेतुओं के उपभोग के अनुसार, खेत, उद्यान, सेतु-बन्ध, तालाब अथवा जलाशय की घोषणा सुनवाएँ: “इस मूल्य पर कौन खरीदार है?”",
+  "new": "पड़ोसियों के चालीस कुल्यों के बीच, घर के सामने, आवास की घोषणा सुनवाएँ; पड़ोसी गाँवों के वृद्धों के बीच, सीमाओं के भीतर, सेतुओं के उपभोग के अनुसार, खेत, उद्यान, सेतु-बन्ध, तालाब अथवा जलाशय की घोषणा सुनवाएँ: “इस मूल्य पर कौन खरीदार है?”",
+  "why": "reviewer (minor): Unbracketed added noun \"स्थान\" (the Sanskrit has only gṛha-pratimukhe)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "पड़ोसियों के चालीस कुल्यों के बीच, घर के सामने, आवास की घोषणा सुनवाएँ; पड़ोसी गाँवों के वृद्धों के बीच, सीमाओं के भीतर, सेतुओं के उपभोग के अनुसार, खेत, उद्यान, सेतु-बन्ध, तालाब अथवा जलाशय की घोषणा सुनवाएँ: “इस मूल्य पर कौन खरीदार है?”",
+  "new": "पड़ोसियों के चालीस कुल्यों के बीच, घर के सामने, आवास की घोषणा सुनवाएँ; पड़ोसी गाँवों के वृद्धों के बीच, सीमाओं में, सेतुओं के उपभोग के अनुसार, खेत, उद्यान, सेतु-बन्ध, तालाब अथवा जलाशय की घोषणा सुनवाएँ: “इस मूल्य पर कौन खरीदार है?”",
+  "why": "reviewer (minor): \"भीतर\" added; maryādāsu is a plain locative."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जो तीन बार घोषित किया गया हो और जिसमें बाधा न आई हो, उसे खरीदार खरीद पाए।",
+  "new": "खरीदार तीन बार घोषित, बाधा-रहित को खरीद पाए।",
+  "why": "reviewer (error): Unmarked added \"और\" (no ca between āghuṣitam and avyāhatam) and added relative \"जो\"."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जो स्वामी नहीं है उसके द्वारा विरोध में पुकारे जाने पर चौबीस पण का दण्ड है।",
+  "new": "जो स्वामी नहीं है उसके द्वारा विरुद्ध पुकारे जाने पर चौबीस पण का दण्ड है।",
+  "why": "reviewer (minor): \"विरोध में\" departs from the fixed \"crying out against\" (विरुद्ध पुकार)."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "दोनों गाँवों के सीमा-विवाद को पड़ोसी, अर्थात् पाँच गाँवों का समूह अथवा दस गाँवों का समूह, स्थिर या कृत्रिम सेतुओं से निपटाए।",
+  "new": "दोनों गाँवों के सीमा-विवाद को पड़ोसी, पाँच गाँवों का समूह अथवा दस गाँवों का समूह, स्थिर या कृत्रिम सेतुओं से निपटाए।",
+  "why": "reviewer (error): Unmarked interpretive \"अर्थात्\" (apposition is only a possibility, see notes)."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "The neighbours of both villages, [namely] a group of five villages or of ten villages, should settle the boundary dispute by means of embankments, fixed or artificial.",
+  "new": "The neighbours of both villages, a group of five villages or of ten villages, should settle the boundary dispute by means of embankments, fixed or artificial.",
+  "why": "reviewer (minor): Bracketed \"namely\" decides an apposition the notes call uncertain; Sanskrit has no such word."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "किसान, गोपालक और वृद्ध, अथवा पहले उपभोग करने वाले, अथवा सेतुओं को जानने वाले बाहरी लोग, बहुत से या एक, सीमा के सेतुओं को बताकर, बदले हुए वेश में, सीमा तक ले जाएँ।",
+  "new": "किसान, गोपालक और वृद्ध, अथवा पहले उपभोग करने वाले, अथवा सेतुओं को जानने वाले बाहरी लोग, बहुत से या एक, सीमा के सेतुओं को बताकर, विपरीत वेश में, सीमा तक ले जाएँ।",
+  "why": "reviewer (minor): viparīta = contrary/reversed; \"changed\" is an interpretation."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Farmers, cowherds and elders, or former enjoyers, or outsiders who know the embankments, many or one, having indicated the boundary embankments, in changed dress, should lead [to] the boundary.",
+  "new": "Farmers, cowherds and elders, or former enjoyers, or outsiders who know the embankments, many or one, having indicated the boundary embankments, in contrary dress, should lead [to] the boundary.",
+  "why": "reviewer (minor): Literal sense of viparīta; \"changed\" is interpretive."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "viparīta-veṣāḥ",
+  "old": "in changed dress",
+  "new": "in contrary dress",
+  "why": "reviewer (minor): Gloss \"in changed dress\" is interpretive."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "कारणवश लेने पर, प्रयास और आजीविका की गणना करके बन्ध दे। २०। यह खेत का विवाद है।",
+  "new": "कारणवश लेने पर, प्रयास और जीविका की गणना करके बन्ध दे। २०। यह खेत का विवाद है।",
+  "why": "reviewer (minor): Glossary (4.2): ājīva = livelihood (जीविका)."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "इससे तपोवन, चरागाह, राजमार्ग, श्मशान, देवालय, यज्ञ-स्थान और पुण्य-स्थानों के विवादों की व्याख्या की गई। २३। यह मर्यादाओं की स्थापना है।",
+  "new": "इससे तपोवन, चरागाह, महापथ, श्मशान, देवालय, यज्ञ-स्थान और पुण्य-स्थानों के विवादों की व्याख्या की गई। २३। यह मर्यादाओं की स्थापना है।",
+  "why": "reviewer (minor): mahā-patha is literally \"great road\"; राजमार्ग (royal road) adds a sense."
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "आधार, परिवाह और खेतों के उपभोग से दूसरे के खेत में जुते हुए बीज की हानि होने पर, हानि के अनुसार मूल्य दें।",
+  "new": "जलाशय, परिवाह और खेतों के उपभोग से दूसरे के खेत में जुते हुए बीज की हानि होने पर, हानि के अनुसार मूल्य दें।",
+  "why": "reviewer (minor): ādhāra is reservoir (जलाशय) as in unit 3; Hindi आधार means \"support\"."
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "For the new starting of tanks and embankment-dams, an exemption of five years; for the broken and abandoned, of four years; for those grown over, of three years; for dry ground, of two years.",
+  "new": "For the new starting of tanks and embankment-dams, an exemption of five years; for the broken and abandoned, of four years; for those risen upon, of three years; for dry ground, of two years.",
+  "why": "reviewer (minor): \"grown over\" is not literal for sam-upa-ā-√ruh; literal sense is risen upon."
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "samupārūḍhānām",
+  "old": "of those grown over",
+  "new": "of those risen upon",
+  "why": "reviewer (minor): Gloss \"of those grown over\" is not literal."
+ },
+ {
+  "n": "33",
+  "field": "notes",
+  "old": "samupārūḍha (sam-upa-ā-√ruh, \"risen up / grown over\") is obscure; the rendering \"grown over\" is literal and uncertain. nava-pravartana: \"new starting / setting going\". \"Dry ground\" = sthala.",
+  "new": "samupārūḍha (sam-upa-ā-√ruh, \"risen up / grown over\") is obscure; the rendering \"grown over\" is literal and uncertain. nava-pravartana: \"new starting / setting going\". \"Dry ground\" = sthala. Reviewer: samupārūḍha now read literally as \"risen upon\" (English and gloss); \"grown over\" in the note above is superseded.",
+  "why": "reviewer (minor): Note speaks of \"grown over\"."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "अपने आत्म को बन्धक रखने और बेचने में।",
+  "new": "अपने स्वयं के बन्धक रखे जाने और बिक्री में।",
+  "why": "reviewer (error): Hindi \"आत्म\" is a bare stem and reads as soul (glossary 15.1: ātman in compounds = self, स्वयं); also \"बेचने\" for the noun vikraya."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "खुदाई के कार्य को तथा नदी-रहित बन्धों, आयतनों, तालाबों, खेतों, उद्यानों, वृक्ष-समूहों और बोई भूमियों के फसल-प्रकार-भाग के आगे वाले अंश को वे दूसरों को अथवा उपकार के अनुसार दें।",
+  "new": "खुदाई के कार्य को, नदी-रहित बन्धों, आयतनों, तालाबों, खेतों, उद्यानों, वृक्ष-समूहों और बोई भूमियों के फसल-प्रकार-भाग के आगे वाले अंश को वे दूसरों को अथवा उपकार के अनुसार दें।",
+  "why": "reviewer (error): Unmarked added \"तथा\" (no ca in the Sanskrit)."
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "खुदाई के कार्य को, नदी-रहित बन्धों, आयतनों, तालाबों, खेतों, उद्यानों, वृक्ष-समूहों और बोई भूमियों के फसल-प्रकार-भाग के आगे वाले अंश को वे दूसरों को अथवा उपकार के अनुसार दें।",
+  "new": "खुदाई के कार्य को, नदी-रहित बन्धों, आयतनों, तालाबों, खेतों, उद्यानों, वृक्ष-समूहों और बुवाइयों के फसल-प्रकार-भाग के आगे वाले अंश को वे दूसरों को अथवा उपकार के अनुसार दें।",
+  "why": "reviewer (minor): \"sown lands\" is an invented sense; vāpa is sowing (as the English says)."
+ },
+ {
+  "n": "35",
+  "field": "english",
+  "old": "They should give the work of digging, and the further share of crop-kinds, of the non-river bindings, abodes, tanks, fields, gardens, groves [and] sowings, to others or according to benefit.",
+  "new": "They should give the work of digging [and] the further share of crop-kinds, of the non-river bindings, abodes, tanks, fields, gardens, groves [and] sowings, to others or according to benefit.",
+  "why": "reviewer (error): Unmarked added \"and\"."
+ },
+ {
+  "n": "36",
+  "field": "hindi",
+  "old": "क्रय, अवक्रय, अधिभाग और भोग के लिए छोड़ी हुई वस्तु के उपभोक्ता, इनका प्रतिकार करें।",
+  "new": "क्रय, अवक्रय, अधिभाग और भोग के लिए छोड़े गए और उपभोक्ता, इनका प्रतिकार करें।",
+  "why": "reviewer (error): Hindi adds \"वस्तु\" and makes bhoga-niṣṛṣṭa a possession of the users; it is a separate list member as in the English and the w entries."
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "बाँधों से बिना बारी के जल छोड़ने वाले का दण्ड छह पण है; अथवा बारी पर दूसरों के जल को प्रमादवश रोकने वाले का।",
+  "new": "सेतुओं से बिना बारी के जल छोड़ने वाले का दण्ड छह पण है; अथवा बारी पर दूसरों के जल को प्रमादवश रोकने वाले का।",
+  "why": "reviewer (minor): Glossary: setu = सेतु; \"बाँध\" is not used elsewhere in the chapter."
+ }
+]

@@ -1,0 +1,223 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(उपवादों) में",
+     "problem": "Bracketed added word in Hindi (forbidden); the note wrongly says no brackets used; 'में' after a genitive list is also loose.",
+     "fix": "शरीर, प्रकृति, श्रुत, वृत्ति, जनपद में से शरीर के उपवाद में, काने, लंगड़े आदि के द्वारा, सत्य होने पर तीन पण का दण्ड; मिथ्या उपवाद में छह पण का दण्ड।",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "hindi",
+      "value": "शरीर, प्रकृति, श्रुत, वृत्ति, जनपद में से शरीर के उपवाद में, काने, लंगड़े आदि के द्वारा, सत्य होने पर तीन पण का दण्ड; मिथ्या उपवाद में छह पण का दण्ड।"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "last sentence",
+     "problem": "Note contradicts the Hindi (brackets) and must follow the new Hindi.",
+     "fix": "Hindi 'में से' renders the partitive genitive of the five heads; no noun is supplied.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi 'में' after the five heads and the bare 'उपवादों' follow the Sanskrit genitive; no brackets used.",
+      "new": "Hindi 'में से' renders the partitive genitive of the five heads; no noun is supplied and no brackets are used."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "stuti-nindāyām",
+     "problem": "Compound type missing (every other compound is labelled).",
+     "fix": "dvandva, f. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "stuti-nindāyām",
+      "field": "gram",
+      "value": "dvandva, f. loc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समान लोगों के बीच",
+     "problem": "'लोगों' is an added noun (tulyeṣu = among equals).",
+     "fix": "कुष्ठ, उन्माद, क्लैब्य आदि से कुत्सा में, और सत्य, मिथ्या, स्तुति, निन्दा में, बारह पण अधिक वाले दण्ड, समानों में।",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "hindi",
+      "value": "कुष्ठ, उन्माद, क्लैब्य आदि से कुत्सा में, और सत्य, मिथ्या, स्तुति, निन्दा में, बारह पण अधिक वाले दण्ड, समानों में।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जनपद के उपवाद की",
+     "problem": "jana-pada-upavādāḥ is plural; Hindi singular loses the plural.",
+     "fix": "जनपद के उपवादों की",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जनपद के उपवाद की",
+      "new": "जनपद के उपवादों की"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "tasya",
+     "problem": "'tasya karaṇe' is 'in the doing of that (act)'; gloss 'of him' and English 'his' attribute the penalty to a person, not stated.",
+     "fix": "gloss 'of that', gram 'm./n. gen. sg.'; English 'which [is] for the doing of that'",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "tasya",
+      "field": "gloss",
+      "value": "of that"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "tasya",
+     "problem": "Gender: tasya may be m. or n.",
+     "fix": "m./n. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "tasya",
+      "field": "gram",
+      "value": "m./n. gen. sg."
+     }
+    },
+    {
+     "field": "english",
+     "where": "which [is] his for the doing",
+     "problem": "'his' not supported (see tasya).",
+     "fix": "which [is] for the doing of that",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "which [is] his for the doing",
+      "new": "which [is] for the doing of that"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यदि ... तो",
+     "problem": "Unmarked added यदि and तो (English brackets its '[If]'; Hindi cannot).",
+     "fix": "असमर्थ क्रोध, मद या मोह का हवाला दे; बारह पण का दण्ड दे।",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "set",
+      "field": "hindi",
+      "value": "असमर्थ क्रोध, मद या मोह का हवाला दे; बारह पण का दण्ड दे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sva-deśa-grāmayoḥ",
+     "problem": "Gloss says 'of' but gram says loc.; -yoḥ is gen./loc. dual.",
+     "fix": "dvandva, gen./loc. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "sva-deśa-grāmayoḥ",
+      "field": "gram",
+      "value": "dvandva, gen./loc. du."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "jāti-saṅghayoḥ",
+     "problem": "Same as above.",
+     "fix": "dvandva, gen./loc. du.",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "jāti-saṅghayoḥ",
+      "field": "gram",
+      "value": "dvandva, gen./loc. du."
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "12 units: 2 errors (units 2, 4 Hindi), 9 minor, none regrouped. No missing text_flags; the sannikṛṣṭā flag (unit 6) is right. No hand edits needed; all fixes are patches."
+}

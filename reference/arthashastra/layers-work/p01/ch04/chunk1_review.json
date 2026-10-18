@@ -1,0 +1,158 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वाणिज्य और वार्ता",
+     "problem": "Hindi pairs trade with vārtā by और ('trade and vārtā'), while the Sanskrit ca joins vaṇijyā to kṛṣi-pāśupālye and vārtā is the predicate (English '... and trade [are] economic activity').",
+     "fix": "कृषि और पशुपालन, और वाणिज्य — वार्ता; अनाज, पशु, धन, कुप्य, विष्टि के प्रदान से उपकारिणी।",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "कृषि और पशुपालन, और वाणिज्य — वार्ता; अनाज, पशु, धन, कुप्य, विष्टि के प्रदान से उपकारिणी।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रतिपादन करने वाली",
+     "problem": "Hindi प्रतिपादन means 'exposition'; glossary fixes pratipādayet = hand over (सौंपे). The English says 'handing over'.",
+     "fix": "बढ़े हुए को तीर्थ में सौंपने वाली",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बढ़े हुए का तीर्थ में प्रतिपादन करने वाली",
+      "new": "बढ़े हुए को तीर्थ में सौंपने वाली"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "trayī",
+     "problem": "Glossary (1.2) fixes trayī = the triple Veda; draft gloss says 'the triple [science]'.",
+     "fix": "Trayī (the triple Veda)",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "trayī",
+      "field": "gloss",
+      "value": "Trayī (the triple Veda)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kiṃ-aṅga",
+     "problem": "Gloss 'how much' does not match the translations, which both carry 'more' (how much more / कितना अधिक); the idiom should be marked as such.",
+     "fix": "how much more (idiom)",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "kiṃ-aṅga",
+      "field": "gloss",
+      "value": "how much more (idiom)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बलवान् निर्बल",
+     "problem": "balīyān is a comparative; glossary renders comparatives with अधिक (garīyas = अधिक गम्भीर) and the English says 'the stronger'.",
+     "fix": "अधिक बलवान् निर्बल",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बलवान् निर्बल",
+      "new": "अधिक बलवान् निर्बल"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "5 issues (1 error, 4 minor), all with machine patches; no regrouping. Units 3 text_flags (missing dots in 'ānvīkṣikī trayī vārttānāṃ' and 'daṇḍa nītiḥ') judged real (dvandva with genitive on the last member; daṇḍa-nīti one compound) and kept; consistent with (1.2) lines (trayī = the triple Veda, ānvīkṣikī a name, daṇḍa-nīti = policy of punishment). Mediums (udvejanīya, avajñānāt, tīrtha, sa/tena) accepted as honest; udvejanīya genitive rendered 'to beings' is the drafter's choice, noted. karma rendered 'action' per the glossary general entry (works is only for lists of undertakings/service). Hand edits: none."
+}

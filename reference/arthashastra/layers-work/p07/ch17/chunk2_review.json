@@ -1,0 +1,574 @@
+{
+ "units": [
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऊपर उठाया जाता हुआ",
+     "problem": "English says heaped up; Hindi says raised. Glossary 7.1 abhyuccaya = heaping up (संचय), so Hindi should follow heaping.",
+     "fix": "संचित किया जाता हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऊपर उठाया जाता हुआ",
+      "new": "संचित किया जाता हुआ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कुमार के निकट रहने वाले गुप्तचर",
+     "problem": "रहने वाले adds staying; āsanna = near only.",
+     "fix": "कुमार के निकटवर्ती गुप्तचर",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुमार के निकट रहने वाले गुप्तचर",
+      "new": "कुमार के निकटवर्ती गुप्तचर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सुरंग से निकट तक खुदवाकर",
+     "problem": "तक is an unmarked addition.",
+     "fix": "सुरंग से निकट खुदवाकर",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सुरंग से निकट तक खुदवाकर",
+      "new": "सुरंग से निकट खुदवाकर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "\"one\" is an unbracketed addition; the vā belongs with tad-vyañjanaḥ, not with the following adverb.",
+     "fix": "Then, or having that guise, [he] should set out at night.",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "english",
+      "value": "Then, or having that guise, [he] should set out at night."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "या stands after the guise and reads as \"or at night\"; vā belongs before the guise.",
+     "fix": "तब अथवा उस वेश वाला रात में प्रस्थान करे।",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "hindi",
+      "value": "तब अथवा उस वेश वाला रात में प्रस्थान करे।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "adorners [and] water-attendants",
+     "problem": "Dvandva keeps unbracketed English \"and\" (glossary 3.16/7.8); brackets are inconsistent with units 34, 36, 39.",
+     "fix": "adorners and water-attendants",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": "adorners [and] water-attendants",
+      "new": "adorners and water-attendants"
+     }
+    },
+    {
+     "field": "english",
+     "where": "seats [and] uses",
+     "problem": "Same: dvandva \"and\" unbracketed.",
+     "fix": "seats and uses",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": "seats [and] uses",
+      "new": "seats and uses"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उपभोग-वस्तुओं द्वारा",
+     "problem": "वस्तुओं is added; sambhoga = use (उपभोग).",
+     "fix": "उपभोगों द्वारा",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपभोग-वस्तुओं द्वारा",
+      "new": "उपभोगों द्वारा"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sūda-ārālika-snāpaka-saṃvāhaka-āstaraka-kalpaka-prasādhaka",
+     "problem": "Label \"instr.\" differs from the \"inst.\" used elsewhere.",
+     "fix": "m. inst. pl. stem, dvandva (continues in next token)",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "sūda-ārālika-snāpaka-saṃvāhaka-āstaraka-kalpaka-prasādhaka",
+      "field": "gram",
+      "value": "m. inst. pl. stem, dvandva (continues in next token)"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "prasādhaka.-",
+     "problem": "Decision: keep the text_flag. The \".-\" plus space is a print line-break artefact, a real deviation from clean compound spelling; suggest is non-empty and the unit text is otherwise unchanged. The lone \"-\" entry stays a punct entry.",
+     "fix": "keep as drafted",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वारुण योग को अपनाए",
+     "problem": "Glossary 7.1: ātiṣṭhet = should adopt (आश्रय ले); अपनाए is the Hindi for upeyāt/gacchet.",
+     "fix": "वारुण योग का आश्रय ले",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वारुण योग को अपनाए",
+      "new": "वारुण योग का आश्रय ले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वैदेहक के वेश वाले",
+     "problem": "Glossary 12.2: vaidehaka = trader (व्यापारी); X-vyañjana = X के वेश वाला गुप्तचर; English already says agents.",
+     "fix": "व्यापारी के वेश वाले गुप्तचर",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वैदेहक के वेश वाले",
+      "new": "व्यापारी के वेश वाले गुप्तचर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śrāddha [and] prahavaṇa",
+     "problem": "Dvandva \"and\" unbracketed.",
+     "fix": "śrāddha and prahavaṇa",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "english",
+      "old": "śrāddha [and] prahavaṇa",
+      "new": "śrāddha and prahavaṇa"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अन्न-पान",
+     "problem": "Glossary 3.20: a two-member dvandva takes और in Hindi.",
+     "fix": "अन्न और पान",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्न-पान",
+      "new": "अन्न और पान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आपूपिक के वेश वाले",
+     "problem": "Glossary X-vyañjanāḥ = X के वेश वाले गुप्तचर; English has agents.",
+     "fix": "आपूपिक के वेश वाले गुप्तचर",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आपूपिक के वेश वाले",
+      "new": "आपूपिक के वेश वाले गुप्तचर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "physicians [and] cake-dealers",
+     "problem": "Dvandva \"and\" unbracketed.",
+     "fix": "physicians and cake-dealers",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "english",
+      "old": "physicians [and] cake-dealers",
+      "new": "physicians and cake-dealers"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the houses of the prosperous, or [the houses] of the guards",
+     "problem": "Hindi reads समृद्ध घरों (karmadhāraya); English/gloss read a tat-puruṣa \"of the prosperous\", an unsupported split. Make both literal.",
+     "fix": "the prosperous houses, or [those] of the guards",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "replace",
+      "field": "english",
+      "old": "the houses of the prosperous, or [the houses] of the guards",
+      "new": "the prosperous houses, or [those] of the guards"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "samṛddha-gṛhāṇi",
+     "problem": "Literal karmadhāraya; \"of the prosperous\" is an addition.",
+     "fix": "prosperous houses",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "word",
+      "match_w": "samṛddha-gṛhāṇi",
+      "field": "gloss",
+      "value": "prosperous houses"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "samṛddha-gṛhāṇi",
+     "problem": "Compound type follows the literal reading.",
+     "fix": "n. acc. pl., karmadhāraya",
+     "severity": "minor",
+     "patch": {
+      "n": "45",
+      "op": "word",
+      "match_w": "samṛddha-gṛhāṇi",
+      "field": "gram",
+      "value": "n. acc. pl., karmadhāraya"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वैदेहक के वेश वाले",
+     "problem": "As unit 43 (glossary 12.2).",
+     "fix": "व्यापारी के वेश वाले गुप्तचर",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वैदेहक के वेश वाले",
+      "new": "व्यापारी के वेश वाले गुप्तचर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "pots [and] wares",
+     "problem": "Dvandva \"and\" unbracketed.",
+     "fix": "pots and wares",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "replace",
+      "field": "english",
+      "old": "pots [and] wares",
+      "new": "pots and wares"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उनके वेश वाला",
+     "problem": "उनके interprets tad as \"of them\"; gloss and English say \"that guise\".",
+     "fix": "उस वेश वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनके वेश वाला",
+      "new": "उस वेश वाला"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pravāsanāni",
+     "problem": "\"lodgings?\" is an invented sense; glossary 3.14/4.13 give pravāsana = sending away. Keep the term and the literal sense only.",
+     "fix": "pravāsanas (literally \"sending away\"; sense uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "word",
+      "match_w": "pravāsanāni",
+      "field": "gloss",
+      "value": "pravāsanas (literally \"sending away\"; sense uncertain)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और वनचर के वेश वाले इसे",
+     "problem": "English has agents; Hindi should follow the glossary convention.",
+     "fix": "और वनचर के वेश वाले गुप्तचर इसे",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और वनचर के वेश वाले इसे",
+      "new": "और वनचर के वेश वाले गुप्तचर इसे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "54",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "55",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "56",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "The unit rests on sattra, which the glossary leaves untranslated and uncertain, and on the elliptical vā; a firm medium is not warranted.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "56",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "57",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should scatter money",
+     "problem": "\"scatter\" is a specific sense not in ut-√sṛj (literally let go, cast out); Hindi फेंक दे already means cast.",
+     "fix": "should cast out money",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "replace",
+      "field": "english",
+      "old": "should scatter money",
+      "new": "should cast out money"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "utsṛjet",
+     "problem": "Same: \"scatter\" is unsupported.",
+     "fix": "should cast out",
+     "severity": "minor",
+     "patch": {
+      "n": "57",
+      "op": "word",
+      "match_w": "utsṛjet",
+      "field": "gloss",
+      "value": "should cast out"
+     }
+    }
+   ]
+  },
+  {
+   "n": "58",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "59",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अथवा पकड़ा गया हुआ साम आदि से पीछा करने वालों को छल ले",
+     "problem": "Hindi adds persons (वालों) while English and gloss say \"the pursuit\"; also \"पकड़ा गया हुआ\" is doubled.",
+     "fix": "अथवा पकड़ा गया साम आदि से पीछा किए जाने को छल ले",
+     "severity": "minor",
+     "patch": {
+      "n": "59",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा पकड़ा गया हुआ साम आदि से पीछा करने वालों को छल ले",
+      "new": "अथवा पकड़ा गया साम आदि से पीछा किए जाने को छल ले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "60",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "61",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "together with those dispatched in secret",
+     "problem": "\"those\" is an unbracketed addition (gūḍha-praṇihitaiḥ is a bare participle).",
+     "fix": "together with [those] dispatched in secret",
+     "severity": "minor",
+     "patch": {
+      "n": "61",
+      "op": "replace",
+      "field": "english",
+      "old": "together with those dispatched in secret",
+      "new": "together with [those] dispatched in secret"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vikramya",
+     "problem": "Glossary 7.8 renders vikrama as attack; vikramya with a locative may be \"having attacked among the guards\" rather than \"having advanced\". Needs a person to decide; no patch.",
+     "fix": "having attacked (uncertain)",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 2 (7.17.32-61): 28 machine patches; all minor, no error-level issues. Main themes: bracketed [and] inside dvandvas made plain 'and' (glossary 3.16/7.8); Hindi X-vyañjana lines given 'गुप्तचर' and vaidehaka = व्यापारी (glossary 12.2); unmarked additions removed (तक, वस्तुओं, those, one, persons in Hindi 59); invented senses removed (pravāsana 'lodgings', utsṛj 'scatter', samṛddha-gṛha 'of the prosperous'); unit 56 confidence lowered. Unit 40 text_flag kept (print line-break artefact). No regrouping suggested. Hand edits: none for words/flags; open for a person: vikramya sense (61), sandhi in sandhi-cheda (48) is joint not peace."
+}

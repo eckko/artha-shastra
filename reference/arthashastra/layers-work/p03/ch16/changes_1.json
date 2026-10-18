@@ -1,0 +1,454 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "दिए हुए का न देना ऋण लेने के द्वारा समझाया गया।",
+  "new": "दिए हुए का न देना ऋण लेने के द्वारा व्याख्या की गई।",
+  "why": "reviewer (minor): glossary 3.10: vyākhyātam in Hindi is always व्याख्या की गई"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "What is given is not to be dealt with (as a legal matter); it would stand in one case of regret.",
+  "new": "What is given is not to be dealt with; it would stand in one case of regret.",
+  "why": "reviewer (minor): bracketless added gloss '(as a legal matter)' is interpretation, not in the Sanskrit"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "What is given is not to be dealt with; it would stand in one case of regret.",
+  "new": "What is given is not to be dealt with; it would stand in one place, in anuśaya.",
+  "why": "reviewer (error): glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss; also ekatra is glossed 'in one place' but English said 'in one case'"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "दिया हुआ व्यवहार के योग्य नहीं है; एक स्थान पर पश्चात्ताप होने पर स्थित रहे।",
+  "new": "दिया हुआ व्यवहार के योग्य नहीं है; एक स्थान पर अनुशय होने पर स्थित रहे।",
+  "why": "reviewer (minor): glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "anuśaye",
+  "old": "in regret",
+  "new": "in anuśaya (literally 'regret')",
+  "why": "reviewer (minor): glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss"
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Having given all property, sons and wife, or himself, [one] should give to the regretful one.",
+  "new": "Having given all property, sons and wife, or himself, [one] should give to the one with anuśaya.",
+  "why": "reviewer (minor): glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "सब धन, पुत्र-पत्नी या स्वयं को देकर पश्चात्ताप करने वाले को दे।",
+  "new": "सब धन, पुत्र-पत्नी या स्वयं को देकर अनुशय वाले को दे।",
+  "why": "reviewer (minor): glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss"
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "anuśayinaḥ",
+  "old": "to the regretful one",
+  "new": "to the one with anuśaya (literally 'regretful')",
+  "why": "reviewer (minor): glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "A gift for dharma [made] in improper actions or in injurious ones, a gift for wealth [made] to non-benefactors or to wrongdoers, and a gift for desire [made] to the unworthy.",
+  "new": "A gift for dharma [made] in improper actions and, or, in injurious ones, a gift for wealth [made] to non-benefactors or to injurers, and a gift for desire [made] to the unworthy.",
+  "why": "reviewer (error): the first ca (asādhuṣu karmasu ca aupaghātikeṣu vā) is not rendered in English or Hindi; ca is always rendered; 'wrongdoers' for apakārin is an interpretation (one who does injury)"
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "धर्म के लिए दान असाधु कर्मों में या हानिकारक कर्मों में, अर्थ के लिए दान उपकार न करने वालों को या अपकार करने वालों को, और काम के लिए दान अयोग्यों को।",
+  "new": "धर्म के लिए दान असाधु कर्मों में और, या, हानिकारकों में, अर्थ के लिए दान उपकार न करने वालों को या अपकार करने वालों को, और काम के लिए दान अयोग्यों को।",
+  "why": "reviewer (error): ca dropped in Hindi; 'कर्मों' added a second time as a noun beside the adjective aupaghātikeṣu (Hindi never adds a noun)"
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "apakāriṣu",
+  "old": "to wrongdoers",
+  "new": "to those who injure",
+  "why": "reviewer (minor): 'wrongdoers' is an interpretation"
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "And so that neither the giver nor the receiver would be harmed, the skilled should so arrange the regret.",
+  "new": "And in the way that the giver and the receiver would not be harmed, in that way the skilled should arrange the anuśaya.",
+  "why": "reviewer (error): 'so that' for yathā...tathā is a changed construction; 'neither...nor' does not render ca; glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss"
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "और जिस प्रकार दाता और प्रतिग्रहीता क्षतिग्रस्त न हों, उस प्रकार कुशल पश्चात्ताप का निर्धारण करें।",
+  "new": "और जिस प्रकार दाता और प्रतिग्रहीता क्षतिग्रस्त न हों, उस प्रकार कुशल अनुशय का निर्धारण करें।",
+  "why": "reviewer (minor): glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "anuśayam",
+  "old": "regret",
+  "new": "anuśaya (literally 'regret')",
+  "why": "reviewer (minor): glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "yathā",
+  "old": "so that",
+  "new": "in which way",
+  "why": "reviewer (minor): yathā...tathā are correlatives, not 'so that'"
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "tathā",
+  "old": "so",
+  "new": "in that way",
+  "why": "reviewer (minor): correlative of yathā"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "A fear-gift [made] from fear of punishment, from fear of abuse, or from fear of loss: for one who accepts [it] the penalty for theft [is due], and for one who gives [it] as well.",
+  "new": "A fear-gift [made] from fear of penalty, from fear of abuse, or from fear of loss: for one who accepts [it] the penalty for theft [is due], and for one who gives [it] as well.",
+  "why": "reviewer (minor): glossary: daṇḍa = penalty"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "daṇḍa-bhayāt",
+  "old": "from fear of punishment",
+  "new": "from fear of penalty",
+  "why": "reviewer (minor): glossary: daṇḍa = penalty"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "A fear-gift [made] from fear of penalty, from fear of abuse, or from fear of loss: for one who accepts [it] the penalty for theft [is due], and for one who gives [it] as well.",
+  "new": "A fear-gift [made] from fear of penalty, from fear of abuse, or from fear of loss: for one who accepts [it] the penalty for theft [is due], and for one who gives [it].",
+  "why": "reviewer (minor): 'as well' is an unmarked addition; ca is already rendered by 'and'"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "दण्ड के भय से, आक्रोश के भय से या अनर्थ के भय से दिए गए भय-दान को लेने वाले का चोरी का दण्ड, और देने वाले का।",
+  "new": "दण्ड के भय से, आक्रोश के भय से या अनर्थ के भय से भय-दान को लेने वाले का चोरी का दण्ड, और देने वाले का।",
+  "why": "reviewer (minor): 'दिए गए' (given) is an unmarked added participle; bhaya-dāna is the compound itself"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "A gift of anger [made] in injuring others, and a gift of pride [made] over kings.",
+  "new": "A gift of anger [made] in injury of others, and a gift of pride [made] over kings.",
+  "why": "reviewer (minor): hiṃsāyām is a noun (f. loc.), not a gerund; matches the gloss"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Suretyship, the remainder of a fine and toll, what pertains to dice, and the saurika: a son, or an heir, or the taker of the inheritance, not unwilling, should give [them]. Such is the non-withdrawal of what was given.",
+  "new": "Suretyship, the remainder of the penalty and śulka, what pertains to dice, and the saurika: a son, or an heir, or the taker of the inheritance, not unwilling, should give [them]. Such is the non-withdrawal of what was given.",
+  "why": "reviewer (minor): glossary: plain daṇḍa = penalty, not 'fine'; śulka stays śulka in Book 3 (3.3, 3.4, 3.13) and 'toll' is an interpretation"
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "daṇḍa-śulka-śeṣam",
+  "old": "remainder of fine and toll",
+  "new": "remainder of penalty and śulka",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Suretyship, the remainder of the penalty and śulka, what pertains to dice, and the saurika: a son, or an heir, or the taker of the inheritance, not unwilling, should give [them]. Such is the non-withdrawal of what was given.",
+  "new": "Suretyship, the remainder of the penalty and śulka, what pertains to dice, and the saurika: a son, an heir or the taker of the inheritance, not unwilling, should give [them]. Such is the non-withdrawal of what was given.",
+  "why": "reviewer (minor): the Sanskrit has one vā (putro dāyādo vā rikthaharo); the first 'or' is added"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "प्रातिभाव्य, दण्ड और शुल्क का शेष, पासों से सम्बन्धित और सौरिक, अनिच्छुक नहीं, पुत्र या दायाद या रिक्थ लेने वाला दे। यह दिए हुए का अनपाकर्म है।",
+  "new": "प्रातिभाव्य, दण्ड और शुल्क का शेष, पासों से सम्बन्धित और सौरिक, अनिच्छुक नहीं, पुत्र, उत्तराधिकारी या रिक्थ लेने वाला दे। यह दिए हुए का अनपाकर्म है।",
+  "why": "reviewer (minor): added second 'या'; glossary 3.7: dāyāda = heir (उत्तराधिकारी)"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "But as to sale by a non-owner: the owner, having found what is lost and stolen, should cause [it] to be seized through the dharmastha.",
+  "new": "But the sale by a non-owner: the owner, having found what is lost and stolen, should cause [it] to be seized through the dharmastha.",
+  "why": "reviewer (minor): 'as to' is an unmarked addition"
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "If he should show the sequence of practice, but not the seller, he would be released by the giving over of that property.",
+  "new": "If he should show the sequence of practice, not the seller, he would be released by the giving over of that property.",
+  "why": "reviewer (minor): 'but' is an unmarked addition (na = not); Hindi has none"
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "pañca-bandhaḥ",
+  "old": "pañca-bandha",
+  "new": "pañca-bandha (literally 'five-bond')",
+  "why": "reviewer (minor): glossary 3.11/3.13: pañca-bandha is kept untranslated with the literal sense only in the gloss"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "At the toll-station, what is lost, stolen and arisen should remain.",
+  "new": "At the śulka-station, what is lost, stolen and arisen should remain.",
+  "why": "reviewer (minor): śulka stays śulka (glossary 3.3/3.4/3.13); 3.9 says 'duty', a person should align"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "śulka-sthāne",
+  "old": "at the toll-station",
+  "new": "at the śulka-station",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "शुल्क-स्थान पर खोया, चुराया और उत्पन्न हुआ ठहरा रहे।",
+  "new": "शुल्क-स्थान पर खोया, चुराया, उत्पन्न हुआ ठहरा रहे।",
+  "why": "reviewer (minor): glossary 3.15: in a dvandva of three or more members Hindi uses commas with no और (no ca in the Sanskrit)"
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "तीन पक्ष के बाद अनभिसार को राजा ले, या स्वामी अपने प्रमाण से।",
+  "new": "तीन पखवाड़े के बाद अनभिसार को राजा ले, या स्वामी अपने प्रमाण से।",
+  "why": "reviewer (minor): glossary 3.15: pakṣa in tri-pakṣa = fortnight (पखवाड़ा)"
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "After three fortnights the king may take the unclaimed [thing], or the owner [may take it] by his own means of proof.",
+  "new": "After three fortnights the king may take the anabhisāra, or the owner [may take it] by his own means of proof.",
+  "why": "reviewer (minor): Hindi keeps अनभिसार but English translates 'unclaimed' (an interpretation of 'not approached'); keep the term in both"
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "anabhisāram",
+  "old": "the unclaimed",
+  "new": "anabhisāra (literally 'not approached')",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "24",
+  "field": "english",
+  "old": "For gems, valuables, trifling [things] and raw materials, [he] should give five in a hundred.",
+  "new": "For gems, valuables, insignificant [things] and raw materials, [he] should give five in a hundred.",
+  "why": "reviewer (minor): glossary 3.17: phalgu (of goods) = insignificant"
+ },
+ {
+  "n": "24",
+  "field": "word.gloss",
+  "word": "ratna-sāra-phalgu-kupyānām",
+  "old": "of gems, valuables, trifling things and raw materials",
+  "new": "of gems, valuables, insignificant things and raw materials",
+  "why": "reviewer (minor): glossary 3.17"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "रत्न, बहुमूल्य, तुच्छ और कुप्य के विषय में सौ में पाँच दे।",
+  "new": "रत्न, बहुमूल्य, तुच्छ, कुप्य के विषय में सौ में पाँच दे।",
+  "why": "reviewer (minor): glossary 3.15: no और in a dvandva of three or more members without ca"
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "स्वयं-ग्रह से लिए गए को वापस लाकर दे, या उसका निष्क्रय।",
+  "new": "स्वयं-ग्राह से लिए गए को वापस लाकर दे, या उसका निष्क्रय।",
+  "why": "reviewer (minor): grāha (seizure) is written ग्राह; ग्रह is a different word (planet)"
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "ārya-prāṇebhyaḥ",
+  "old": "from ārya lives",
+  "new": "from those of ārya life",
+  "why": "reviewer (minor): glossary 3.13: ārya-prāṇa = one of ārya life (bahuvrīhi), not 'ārya lives'"
+ },
+ {
+  "n": "28",
+  "field": "word.gram",
+  "word": "ārya-prāṇebhyaḥ",
+  "old": "m. abl. pl., tat-puruṣa",
+  "new": "m. abl. pl., bahuvrīhi",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "Or what has been brought from another territory by valour, [he] should enjoy as directed by the king, except for ārya lives and the property of gods, Brahmins and ascetics. Such is the sale by a non-owner.",
+  "new": "Or what has been brought from another territory by valour, [he] should enjoy as directed by the king, except for those of ārya life and the property of gods, Brahmins and ascetics. Such is the sale by a non-owner.",
+  "why": "reviewer (minor): glossary 3.13"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अथवा दूसरे देश से पराक्रम द्वारा लाए गए को राजा के निर्देश के अनुसार भोगे, आर्य-प्राणों और देव, ब्राह्मण, तपस्वियों के द्रव्यों को छोड़कर। यह अस्वामी का विक्रय है।",
+  "new": "अथवा दूसरे देश से पराक्रम द्वारा लाए गए को राजा के निर्देश के अनुसार भोगे, आर्य-प्राण वालों और देव, ब्राह्मण, तपस्वियों के द्रव्यों को छोड़कर। यह अस्वामी का विक्रय है।",
+  "why": "reviewer (minor): glossary 3.13 (bahuvrīhi, 'one of ārya life')"
+ },
+ {
+  "n": "29",
+  "field": "hindi",
+  "old": "किन्तु स्व और स्वामी का सम्बन्ध: जिनके देश नष्ट हो गए हैं उनके द्रव्यों के भोग की निरन्तरता यथास्व।",
+  "new": "किन्तु स्व और स्वामी का सम्बन्ध: जिनके प्रदेश नष्ट हो गए हैं उनके द्रव्यों के भोग की निरन्तरता यथास्व।",
+  "why": "reviewer (minor): glossary 4.3: deśa (region) = Hindi प्रदेश; देश is kept for viṣaya/territory"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "जो अपना द्रव्य दूसरों द्वारा भोगा जाता हुआ दस वर्ष तक उपेक्षित करे, उसका ह्रास हो जाए, बालक, वृद्ध, रोगी, व्यसन वाले, प्रवासी, देश-त्याग और राज्य-विप्लव को छोड़कर।",
+  "new": "जो अपना द्रव्य दूसरों द्वारा भोगा जाता हुआ दस वर्ष तक उपेक्षित करे, उसका ह्रास हो जाए, बालक, वृद्ध, रोगी, व्यसन वाले, प्रवासी, प्रदेश-त्याग, राज्य-विप्लव को छोड़कर।",
+  "why": "reviewer (minor): deśa = प्रदेश (glossary 4.3); no और in a dvandva of three or more members (glossary 3.15)"
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "[One] should not question a site neglected for twenty years and unsettled.",
+  "new": "[One] should not question a site neglected for twenty years, anavasita.",
+  "why": "reviewer (minor): 'and' added (two participles with no ca, glossary 3.4); anavasita is obscure (the note says so) and Hindi keeps अनवसित, so keep the term in English too"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "बीस वर्ष से उपेक्षित और अनवसित वास्तु के विषय में पूछताछ न करे।",
+  "new": "बीस वर्ष से उपेक्षित, अनवसित वास्तु के विषय में पूछताछ न करे।",
+  "why": "reviewer (minor): 'और' added (no ca in the Sanskrit; glossary 3.4)"
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "anavasitam",
+  "old": "unsettled",
+  "new": "anavasita (literally 'not settled')",
+  "why": "reviewer (minor): obscure term kept, literal sense in the gloss only"
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "Kinsmen, śrotriyas or pāṣaṇḍas, dwelling on others' sites in the absence of kings, should not take by enjoyment an upanidhi, a pledge, a treasure, a deposit, a woman, a boundary, and the property of the king and the śrotriyas.",
+  "new": "Kin, śrotriyas or pāṣaṇḍas, dwelling on others' sites in the absence of kings, should not take by enjoyment an upanidhi, a pledge, a treasure, a deposit, a woman, a boundary, and the property of the king and the śrotriyas.",
+  "why": "reviewer (minor): glossary 3.4/3.13: jñāti = kin; 'kinsman' is kulya"
+ },
+ {
+  "n": "32",
+  "field": "word.gloss",
+  "word": "jñātayaḥ",
+  "old": "kinsmen",
+  "new": "kin",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "ज्ञाति, श्रोत्रिय या पाषण्ड राजाओं की अनुपस्थिति में दूसरों के वास्तुओं पर रहते हुए उपभोग से न हरें: उपनिधि, आधि, निधि, निक्षेप, स्त्री, सीमा और राजा और श्रोत्रियों के द्रव्यों को।",
+  "new": "ज्ञाति-जन, श्रोत्रिय या पाषण्ड राजाओं की अनुपस्थिति में दूसरों के वास्तुओं पर रहते हुए उपभोग से न हरें: उपनिधि, आधि, निधि, निक्षेप, स्त्री, सीमा और राजा और श्रोत्रियों के द्रव्यों को।",
+  "why": "reviewer (minor): glossary 3.2/3.13: jñāti = ज्ञाति-जन"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "ज्ञाति-जन, श्रोत्रिय या पाषण्ड राजाओं की अनुपस्थिति में दूसरों के वास्तुओं पर रहते हुए उपभोग से न हरें: उपनिधि, आधि, निधि, निक्षेप, स्त्री, सीमा और राजा और श्रोत्रियों के द्रव्यों को।",
+  "new": "ज्ञाति-जन, श्रोत्रिय या पाषण्ड राजाओं की अनुपस्थिति में दूसरों के वास्तुओं पर रहते हुए उपभोग से न हरें: उपनिधि, बन्धक, निधि, निक्षेप, स्त्री, सीमा और राजा और श्रोत्रियों के द्रव्यों को।",
+  "why": "reviewer (error): glossary 3.1: ādhi = pledge, Hindi बन्धक, never आधि (distress)"
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "वानप्रस्थों, यतियों और ब्रह्मचारियों के आचार्य, शिष्य, धर्मभ्राता और समान तीर्थ वाले क्रम से रिक्थ के भागी।",
+  "new": "वानप्रस्थों, यतियों, ब्रह्मचारियों के आचार्य, शिष्य, धर्मभ्राता और समान तीर्थ वाले क्रम से रिक्थ के भागी।",
+  "why": "reviewer (minor): glossary 3.15: no और in a dvandva of three or more members (no ca in the Sanskrit)"
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "वानप्रस्थों, यतियों, ब्रह्मचारियों के आचार्य, शिष्य, धर्मभ्राता और समान तीर्थ वाले क्रम से रिक्थ के भागी।",
+  "new": "वानप्रस्थों, यतियों, ब्रह्मचारियों के आचार्य, शिष्य, धर्मभ्राता, समान तीर्थ वाले क्रम से रिक्थ के भागी।",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "विवाद-पदों में और इनके जितने पण दण्ड हैं उतनी रातें राजा के क्षपण, अभिषेक, अग्निकार्य और महाकच्छ-वर्धन करें।",
+  "new": "विवाद-पदों में और इनके जितने पण दण्ड हैं उतनी रातें राजा के क्षपण, अभिषेक, अग्निकार्य, महाकच्छ-वर्धन करें।",
+  "why": "reviewer (minor): as above (four-member dvandva)"
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "And in grounds of dispute, for as many nights as there are paṇas [of] penalties for these, they should perform the king's fastings, sprinklings, fire-duties and Mahakaccha-increasings.",
+  "new": "And in grounds of dispute, for as many nights as there are paṇas [of] penalties for these, [they] should perform the king's fastings, sprinklings, fire-duties and Mahakaccha-increasings.",
+  "why": "reviewer (minor): the subject of careyuḥ is not stated; supplied pronouns are bracketed (cf. unit 34)"
+ },
+ {
+  "n": "38",
+  "field": "word.gram",
+  "word": "kṣapaṇa-abhiṣeka-agni-kārya-mahā-kaccha-vardhanāni",
+  "old": "n. acc. pl., dvandva",
+  "new": "n. acc. pl., dvandva (the last member a tat-puruṣa)",
+  "why": "reviewer (minor): gram '' omits the tat-puruṣa inside the dvandva"
+ },
+ {
+  "n": "39",
+  "field": "hindi",
+  "old": "धन और सोने से रहित पाषण्ड साधु।",
+  "new": "धन और सोने से रहित पाषण्ड अच्छे।",
+  "why": "reviewer (minor): Hindi साधु means a holy man/ascetic; sādhavaḥ here is 'good ones'"
+ },
+ {
+  "n": "40",
+  "field": "hindi",
+  "old": "वे यथास्व उपवास और व्रतों से आराधना करें, पारुष्य, चोरी, साहस और संग्रहण को छोड़कर।",
+  "new": "वे यथास्व उपवास और व्रतों से आराधना करें, पारुष्य, चोरी, साहस, संग्रहण को छोड़कर।",
+  "why": "reviewer (minor): glossary 3.15: no और in a dvandva of three or more members without ca"
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "The king should restrain by punishment vain practices in the renunciations. For dharma, struck by adharma and neglected, kills the ruler.",
+  "new": "The king should restrain by penalty vain practices in the renunciations. For dharma, struck by adharma and neglected, kills the ruler.",
+  "why": "reviewer (minor): glossary: daṇḍa = penalty"
+ },
+ {
+  "n": "42",
+  "field": "word.gloss",
+  "word": "daṇḍena",
+  "old": "by punishment",
+  "new": "by penalty",
+  "why": "reviewer (minor): as above"
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "The king should restrain by penalty vain practices in the renunciations. For dharma, struck by adharma and neglected, kills the ruler.",
+  "new": "The king should restrain by penalty vain practices in the renunciations. For dharma, struck by adharma, neglected, kills the ruler.",
+  "why": "reviewer (minor): 'and' added: the two participles have no ca (glossary 3.4/3.15)"
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "राजा प्रव्रज्याओं में व्यर्थ आचारों को दण्ड से रोके। क्योंकि अधर्म से आहत और उपेक्षित धर्म शासक को मारता है।",
+  "new": "राजा प्रव्रज्याओं में व्यर्थ आचारों को दण्ड से रोके। क्योंकि अधर्म से आहत, उपेक्षित धर्म शासक को मारता है।",
+  "why": "reviewer (minor): 'और' added (no ca)"
+ }
+]

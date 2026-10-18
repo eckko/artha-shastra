@@ -1,0 +1,1491 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "lābha = gain in Book 7 (glossary 7.7 'a gain equal to the army', 7.10 'bhūmi-lābha = gain of land'; bare lābha with no artha beside it = gain).",
+     "fix": "In a march in alliance, of the gains of ally, money and land, each succeeding gain [is] better.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "english",
+      "value": "In a march in alliance, of the gains of ally, money and land, each succeeding gain [is] better."
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "lābha = gain in Book 7 (glossary 7.7 'a gain equal to the army', 7.10 'bhūmi-lābha = gain of land'; bare lābha with no artha beside it = gain). (part 2)",
+     "fix": "In a march in alliance, of the gains of ally, money and land, each succeeding gain [is] better.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "mitra-hiraṇya-bhūmi-lābhānām",
+      "field": "gloss",
+      "value": "of the gains of ally, money and land"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "lābha = gain in Book 7 (glossary 7.7 'a gain equal to the army', 7.10 'bhūmi-lābha = gain of land'; bare lābha with no artha beside it = gain). (part 3)",
+     "fix": "In a march in alliance, of the gains of ally, money and land, each succeeding gain [is] better.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "lābhaḥ",
+      "field": "gloss",
+      "value": "gain"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "lābha = gain in Book 7 (glossary 7.7 'a gain equal to the army', 7.10 'bhūmi-lābha = gain of land'; bare lābha with no artha beside it = gain). (part 4)",
+     "fix": "In a march in alliance, of the gains of ally, money and land, each succeeding gain [is] better.",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "append_note",
+      "text": "Reviewer: lābha = gain (glossary 7.7, 7.10), not 'acquisition'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain).",
+     "fix": "the gain of land / the gain of money",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "from the acquisition of land",
+      "new": "from the gain of land"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 2)",
+     "fix": "the gain of land / the gain of money",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "from the acquisition of money",
+      "new": "from the gain of money"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 3)",
+     "fix": "the gain of land / the gain of money",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "bhūmi-lābhāt",
+      "field": "gloss",
+      "value": "from the gain of land"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 4)",
+     "fix": "the gain of land / the gain of money",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "hiraṇya-lābhāt",
+      "field": "gloss",
+      "value": "from the gain of money"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain).",
+     "fix": "Or whichever gain, accomplished, accomplishes one of the remaining two.",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "whichever acquisition",
+      "new": "whichever gain"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 2)",
+     "fix": "Or whichever gain, accomplished, accomplishes one of the remaining two.",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "lābhaḥ",
+      "field": "gloss",
+      "value": "gain"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सम सन्धि",
+     "problem": "Compound 'sama-sandhi' written as two Hindi words; glossary (10.5, 12.1) hyphenates the pair (सम-/विषम-).",
+     "fix": "सम-सन्धि",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम सन्धि",
+      "new": "सम-सन्धि"
+     }
+    },
+    {
+     "field": "english",
+     "where": "even treaty",
+     "problem": "Glossary 7.7: sama-/viṣama-/ati-sandhi = equal / unequal / outwitting treaty.",
+     "fix": "an equal treaty",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "an even treaty",
+      "new": "an equal treaty"
+     }
+    },
+    {
+     "field": "english",
+     "where": "even treaty",
+     "problem": "Glossary 7.7: sama-/viṣama-/ati-sandhi = equal / unequal / outwitting treaty. (part 2)",
+     "fix": "an equal treaty",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "sama-sandhiḥ",
+      "field": "gloss",
+      "value": "equal treaty"
+     }
+    },
+    {
+     "field": "english",
+     "where": "even treaty",
+     "problem": "Glossary 7.7: sama-/viṣama-/ati-sandhi = equal / unequal / outwitting treaty. (part 3)",
+     "fix": "an equal treaty",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "Reviewer: sama/viṣama-sandhi = equal/unequal treaty (glossary 7.7), not 'even/uneven'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विषम सन्धि",
+     "problem": "Same: hyphenate the compound.",
+     "fix": "विषम-सन्धि",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विषम सन्धि",
+      "new": "विषम-सन्धि"
+     }
+    },
+    {
+     "field": "english",
+     "where": "uneven treaty",
+     "problem": "same (7.7).",
+     "fix": "an unequal treaty",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "an uneven treaty",
+      "new": "an unequal treaty"
+     }
+    },
+    {
+     "field": "english",
+     "where": "uneven treaty",
+     "problem": "same (7.7). (part 2)",
+     "fix": "an unequal treaty",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "viṣama-sandhiḥ",
+      "field": "gloss",
+      "value": "unequal treaty"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "atisandhi / acquisition",
+     "problem": "Glossary 7.7: ati-sandhi = outwitting treaty (Hindi अतिसन्धि kept as the term); lābha = gain.",
+     "fix": "From a special gain of those two, [there is] an outwitting treaty (atisandhi).",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "set",
+      "field": "english",
+      "value": "From a special gain of those two, [there is] an outwitting treaty (atisandhi)."
+     }
+    },
+    {
+     "field": "english",
+     "where": "atisandhi / acquisition",
+     "problem": "Glossary 7.7: ati-sandhi = outwitting treaty (Hindi अतिसन्धि kept as the term); lābha = gain. (part 2)",
+     "fix": "From a special gain of those two, [there is] an outwitting treaty (atisandhi).",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "viśeṣa-lābhāt",
+      "field": "gloss",
+      "value": "from a special gain"
+     }
+    },
+    {
+     "field": "english",
+     "where": "atisandhi / acquisition",
+     "problem": "Glossary 7.7: ati-sandhi = outwitting treaty (Hindi अतिसन्धि kept as the term); lābha = gain. (part 3)",
+     "fix": "From a special gain of those two, [there is] an outwitting treaty (atisandhi).",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "atisandhiḥ",
+      "field": "gloss",
+      "value": "outwitting treaty (atisandhi; literally 'over-treaty')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सम सन्धि / संकट",
+     "problem": "Hyphenate sama-sandhi; kṛcchra is 'difficulty', and Hindi संकट reads as calamity/vyasana (kept apart in the glossary).",
+     "fix": "किन्तु सम-सन्धि में जो उत्कृष्ट मित्र अथवा मित्र की कठिनाई में मित्र प्राप्त करता है, वह छल लेता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "set",
+      "field": "hindi",
+      "value": "किन्तु सम-सन्धि में जो उत्कृष्ट मित्र अथवा मित्र की कठिनाई में मित्र प्राप्त करता है, वह छल लेता है।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "even treaty",
+     "problem": "same (7.7).",
+     "fix": "But in an equal treaty, ...",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "in an even treaty",
+      "new": "in an equal treaty"
+     }
+    },
+    {
+     "field": "english",
+     "where": "even treaty",
+     "problem": "same (7.7). (part 2)",
+     "fix": "But in an equal treaty, ...",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "sama-sandhau",
+      "field": "gloss",
+      "value": "in an equal treaty"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मित्र के संकट में",
+     "problem": "kṛcchra = difficulty, not संकट (calamity).",
+     "fix": "मित्र की कठिनाई में",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मित्र के संकट में",
+      "new": "मित्र की कठिनाई में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[one] is better",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "[one] [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "[one] is better",
+      "new": "[one] [is] better"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "for so long",
+     "problem": "'for' reads as a rendering of hi, which is absent; tāvat = 'so long'.",
+     "fix": "so long",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "for so long",
+      "new": "so long"
+     }
+    },
+    {
+     "field": "split",
+     "where": "w 'upakaroti,' / 'bhavati'",
+     "problem": "The comma is attached to the wrong word: the printed comma follows bhavati, not upakaroti.",
+     "fix": "w of upakaroti = 'upakaroti'; w of bhavati = 'bhavati,'",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "upakaroti,",
+      "field": "w",
+      "value": "upakaroti"
+     }
+    },
+    {
+     "field": "split",
+     "where": "w 'upakaroti,' / 'bhavati'",
+     "problem": "The comma is attached to the wrong word: the printed comma follows bhavati, not upakaroti. (part 2)",
+     "fix": "w of upakaroti = 'upakaroti'; w of bhavati = 'bhavati,'",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "bhavati",
+      "field": "w",
+      "value": "bhavati,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "mahad.upakurvan",
+     "problem": "A '.' compound must be ONE hyphenated word entry; the draft splits it into two entries (mahat, upakurvan).",
+     "fix": "one entry: w 'mahat-upakurvan', gloss 'greatly helping', gram 'm. nom. sg. pres. part. (compound with adverbial mahat)'  [HAND EDIT: merge two word entries]",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "enjoyment is better",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "enjoyment [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "enjoyment is better",
+      "new": "enjoyment [is] better"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भारी रूप से उठने वाला / हल्के रूप से उठने वाला",
+     "problem": "'रूप से' (in a ... manner) is added; the compounds are 'of heavy / light rising' (guru-/laghu-samuttha).",
+     "fix": "भारी उत्थान वाला / हल्के उत्थान वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "set",
+      "field": "hindi",
+      "value": "भारी उत्थान वाला महान् मित्र अथवा हल्के उत्थान वाला अल्प — “भारी उत्थान वाला महान् मित्र प्रताप उत्पन्न करने वाला होता है, और जब उठता है तब कार्य साधता है,” ऐसा आचार्य कहते हैं।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "producer of might",
+     "problem": "Glossary 7.4: pratāpa = splendour (प्रताप), not 'might' (prabhāva).",
+     "fix": "a producer of splendour",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "english",
+      "old": "a producer of might",
+      "new": "a producer of splendour"
+     }
+    },
+    {
+     "field": "english",
+     "where": "producer of might",
+     "problem": "Glossary 7.4: pratāpa = splendour (प्रताप), not 'might' (prabhāva). (part 2)",
+     "fix": "a producer of splendour",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "pratāpa-karam",
+      "field": "gloss",
+      "value": "causing splendour"
+     }
+    },
+    {
+     "field": "english",
+     "where": "producer of might",
+     "problem": "Glossary 7.4: pratāpa = splendour (प्रताप), not 'might' (prabhāva). (part 3)",
+     "fix": "a producer of splendour",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "append_note",
+      "text": "Reviewer: pratāpa = splendour (glossary 7.4), not 'might'."
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "rising is better",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "rising [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "english",
+      "old": "rising is better",
+      "new": "rising [is] better"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हल्के रूप से उठने वाला",
+     "problem": "same",
+     "fix": "हल्के उत्थान वाला अल्प श्रेष्ठ है।",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "set",
+      "field": "hindi",
+      "value": "हल्के उत्थान वाला अल्प श्रेष्ठ है।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हल्के रूप से उठने वाला",
+     "problem": "same",
+     "fix": "हल्के उत्थान वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हल्के रूप से उठने वाला अल्प मित्र",
+      "new": "हल्के उत्थान वाला अल्प मित्र"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yathā-iṣṭa-bhogyam / उपभोग्य",
+     "problem": "Glossary 7.5: bhogya = fit to be used (भोग्य); the gloss says 'enjoyed' and Hindi उपभोग्य.",
+     "fix": "gloss 'to be used as desired'; Hindi भोग्य",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "yathā-iṣṭa-bhogyam",
+      "field": "gloss",
+      "value": "to be used as desired"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yathā-iṣṭa-bhogyam / उपभोग्य",
+     "problem": "Glossary 7.5: bhogya = fit to be used (भोग्य); the gloss says 'enjoyed' and Hindi उपभोग्य. (part 2)",
+     "fix": "gloss 'to be used as desired'; Hindi भोग्य",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपभोग्य",
+      "new": "भोग्य"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "troops is better",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "troops [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "troops is better",
+      "new": "troops [is] better"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "not the other, engaged in a task, to be drawn back",
+     "problem": "Elliptic clause left without its supplied predicate (śakyam understood from the first clause); as it stands the English and Hindi ('वापस समेटा जाने योग्य') read as if the other WERE fit to be drawn back.",
+     "fix": "English: '... controlled by conciliation and the rest, not the other, engaged in a task, [can be] drawn back.' Hindi: '... किया जा सकता है, कार्य में लगा हुआ दूसरा वापस समेटा नहीं जा सकता।'",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "replace",
+      "field": "english",
+      "old": "not the other, engaged in a task, to be drawn back.",
+      "new": "not the other, engaged in a task, [can be] drawn back."
+     }
+    },
+    {
+     "field": "english",
+     "where": "not the other, engaged in a task, to be drawn back",
+     "problem": "Elliptic clause left without its supplied predicate (śakyam understood from the first clause); as it stands the English and Hindi ('वापस समेटा जाने योग्य') read as if the other WERE fit to be drawn back. (part 2)",
+     "fix": "English: '... controlled by conciliation and the rest, not the other, engaged in a task, [can be] drawn back.' Hindi: '... किया जा सकता है, कार्य में लगा हुआ दूसरा वापस समेटा नहीं जा सकता।'",
+     "severity": "error",
+     "patch": {
+      "n": "25",
+      "op": "set",
+      "field": "hindi",
+      "value": "क्योंकि वश में न रहने वाले को साम आदि से वश में किया जा सकता है, कार्य में लगा हुआ दूसरा वापस समेटा नहीं जा सकता।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "producer of might",
+     "problem": "same (7.4).",
+     "fix": "a producer of splendour",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "replace",
+      "field": "english",
+      "old": "a producer of might",
+      "new": "a producer of splendour"
+     }
+    },
+    {
+     "field": "english",
+     "where": "producer of might",
+     "problem": "same (7.4). (part 2)",
+     "fix": "a producer of splendour",
+     "severity": "error",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "pratāpa-karam",
+      "field": "gloss",
+      "value": "causing splendour"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "money is better",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "money [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "money is better",
+      "new": "money [is] better"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "money is constant",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "money [is] constant",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "english",
+      "old": "money is constant",
+      "new": "money [is] constant"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "movement, is one",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "movement, [is] one",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "movement, is one",
+      "new": "movement, [is] one"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain).",
+     "fix": "the gain of land",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of land",
+      "new": "the gain of land"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 2)",
+     "fix": "the gain of land",
+     "severity": "error",
+     "patch": {
+      "n": "33",
+      "op": "word",
+      "match_w": "bhūmi-lābhāt",
+      "field": "gloss",
+      "value": "from the gain of land"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "land is better",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "land [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "english",
+      "old": "land is better",
+      "new": "land [is] better"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विशेष है",
+     "problem": "'विशेष' alone reads as the adjective 'special'; viśeṣa here is the noun 'distinction'.",
+     "fix": "विशेषता है",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुल से विशेष है",
+      "new": "कुल से विशेषता है"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain).",
+     "fix": "or the gain of all troops",
+     "severity": "error",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "the acquisition of all troops",
+      "new": "the gain of all troops"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 2)",
+     "fix": "or the gain of all troops",
+     "severity": "error",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "sarva-bala-lābhaḥ",
+      "field": "gloss",
+      "value": "gain of all troops"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रार्थित-अर्थता ... अल्प प्रयास ... विशेष है",
+     "problem": "English translates prārthita-arthatā ('the state of the object requested') and 'littleness of effort' but Hindi leaves the first as a Sanskrit compound and drops the abstract -tā of alpa-prayasatā; 'विशेष' as in unit 35.",
+     "fix": "धन में भोग के बराबर होने पर माँगे हुए अर्थ का भाव, प्रचुरता, प्रयास की अल्पता और निरन्तरता विशेषता है।",
+     "severity": "minor",
+     "patch": {
+      "n": "36",
+      "op": "set",
+      "field": "hindi",
+      "value": "धन में भोग के बराबर होने पर माँगे हुए अर्थ का भाव, प्रचुरता, प्रयास की अल्पता और निरन्तरता विशेषता है।"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "alpa.prayasatā",
+     "problem": "'prayasa' is not a Sanskrit word; the draft glosses it 'littleness of effort', i.e. it reads prayāsa (effort). A silent correction: the typed text must be flagged. [HAND EDIT]",
+     "fix": "add text_flag {src:'alpa.prayasatā', suggest:'alpa.prayāsatā', why:'possible: long ā missing (prayāsa = effort); prayasa is not a dictionary word'}; set w of the word to 'alpa-prayāsatā'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "In this matter there is this [verse].",
+     "problem": "'[verse]' is an interpretive noun supplied by the drafter (the glossary allows only a bare copula); the Hindi is already literal.",
+     "fix": "In this matter, this is.",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "english",
+      "value": "In this matter, this is."
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हल्के रूप से उठने वाला",
+     "problem": "same",
+     "fix": "हल्के उत्थान वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हल्के रूप से उठने वाला",
+      "new": "हल्के उत्थान वाला"
+     }
+    },
+    {
+     "field": "english",
+     "where": "without duplicity",
+     "problem": "'duplicity' adds the sense of deceit; advaidhya is literally 'non-doubleness' (cf. glossary dvaidhī-bhāva, dvaidhī-bhūta).",
+     "fix": "non-dual",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "great, and without duplicity",
+      "new": "great, and non-dual"
+     }
+    },
+    {
+     "field": "english",
+     "where": "without duplicity",
+     "problem": "'duplicity' adds the sense of deceit; advaidhya is literally 'non-doubleness' (cf. glossary dvaidhī-bhāva, dvaidhī-bhūta). (part 2)",
+     "fix": "non-dual",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "advaidhyam",
+      "field": "gloss",
+      "value": "non-dual (literally 'not double')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "order of the last items",
+     "problem": "Sanskrit order is ekato-bhogī, ubhayataḥ, sarvato-bhogi, ca, aparam; the draft moves 'and the other' in front of sarvato-bhogi and attaches 'the other' to it, which the text does not say (the draft's own note says the mapping is uncertain).",
+     "fix": "Hindi: '... एक ओर से भोग करने वाला, दोनों ओर से, सब ओर से भोग करने वाला, और दूसरा।' English: '... enjoying from one side, from both sides, enjoying from all sides, and another.'",
+     "severity": "error",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक ओर से भोग करने वाला, दोनों ओर से, और दूसरा सब ओर से भोग करने वाला।",
+      "new": "एक ओर से भोग करने वाला, दोनों ओर से, सब ओर से भोग करने वाला, और दूसरा।"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "order of the last items",
+     "problem": "Sanskrit order is ekato-bhogī, ubhayataḥ, sarvato-bhogi, ca, aparam; the draft moves 'and the other' in front of sarvato-bhogi and attaches 'the other' to it, which the text does not say (the draft's own note says the mapping is uncertain). (part 2)",
+     "fix": "Hindi: '... एक ओर से भोग करने वाला, दोनों ओर से, सब ओर से भोग करने वाला, और दूसरा।' English: '... enjoying from one side, from both sides, enjoying from all sides, and another.'",
+     "severity": "error",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "english",
+      "old": "enjoying from one side, from both sides, and the other enjoying from all sides.",
+      "new": "enjoying from one side, from both sides, enjoying from all sides, and another."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ekatas-bhogī / sarvatas-bhogī",
+     "problem": "Labelled n. nom. sg. but w has the masculine long ī; the printed neuter form is short (sarvato.bhogi).",
+     "fix": "w 'ekatas-bhogi', 'sarvatas-bhogi'",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "ekatas-bhogī",
+      "field": "w",
+      "value": "ekatas-bhogi"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ekatas-bhogī / sarvatas-bhogī",
+     "problem": "Labelled n. nom. sg. but w has the masculine long ī; the printed neuter form is short (sarvato.bhogi). (part 2)",
+     "fix": "w 'ekatas-bhogi', 'sarvatas-bhogi'",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "sarvatas-bhogī",
+      "field": "w",
+      "value": "sarvatas-bhogi"
+     }
+    },
+    {
+     "field": "w",
+     "where": "ubhayatas",
+     "problem": "w must keep the printed ending (ubhayataḥ).",
+     "fix": "ubhayataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "word",
+      "match_w": "ubhayatas",
+      "field": "w",
+      "value": "ubhayataḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "that ally is controlled",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "that ally [is] controlled",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "that ally is controlled",
+      "new": "that ally [is] controlled"
+     }
+    },
+    {
+     "field": "w",
+     "where": "anyatas",
+     "problem": "w must keep the printed ending (anyataḥ, as in 'niṣpattitaḥ' of the glossary).",
+     "fix": "anyataḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "anyatas",
+      "field": "w",
+      "value": "anyataḥ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "without duplicity",
+     "problem": "same as unit 38.",
+     "fix": "non-dual",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "english",
+      "old": "this ally is without duplicity in adversity",
+      "new": "this ally is non-dual in adversity"
+     }
+    },
+    {
+     "field": "english",
+     "where": "without duplicity",
+     "problem": "same as unit 38. (part 2)",
+     "fix": "non-dual",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "word",
+      "match_w": "advaidhyam",
+      "field": "gloss",
+      "value": "non-dual (literally 'not double')"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "एक अर्थ से",
+     "problem": "artha = 'purpose' in the English; Hindi अर्थ alone is ambiguous (meaning/wealth).",
+     "fix": "एक प्रयोजन से",
+     "severity": "minor",
+     "patch": {
+      "n": "43",
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक अर्थ से",
+      "new": "एक प्रयोजन से"
+     }
+    },
+    {
+     "field": "split",
+     "where": "token 'eka.arthena-atha' / 'sambaddham'",
+     "problem": "The word atha sits in the token of 'sambaddham', but the printed token 'eka.arthena-atha' holds it; the token carries only eka-arthena. [HAND EDIT: move the word entry atha from token 'sambaddham' to token 'eka.arthena-atha' (after eka-arthena)]",
+     "fix": "token 'eka.arthena-atha' = [eka-arthena, atha]; token 'sambaddham' = [sambaddham]",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ध्रुव है",
+     "problem": "dhruva is rendered 'firm' in English; unit 53 Hindi uses स्थिर for the same word, and adhruva (unit 42) is अस्थिर.",
+     "fix": "स्थिर है",
+     "severity": "minor",
+     "patch": {
+      "n": "44",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ध्रुव है",
+      "new": "स्थिर है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the placing of 'or'",
+     "problem": "Sanskrit has 'upakāre aniviṣṭaṃ vā aśaktaṃ vā anupakāri tat': vā stands before aśakta and before anupakāri. The draft puts 'or' between 'concealment' and 'not engaged' (no vā there) and drops the vā before anupakāri.",
+     "fix": "EN: 'The ally which is an enemy of the conqueror, gone to concealment, not engaged in helping, or incapable, or non-helping — that [one].'  HI: 'जो मित्र विजिगीषु का अमित्र है, छिपाव में चला गया है, उपकार में लगा नहीं है, अथवा असमर्थ है, अथवा उपकार न करने वाला है — वह।'",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "set",
+      "field": "english",
+      "value": "The ally which is an enemy of the conqueror, gone to concealment, not engaged in helping, or incapable, or non-helping — that [one]."
+     }
+    },
+    {
+     "field": "english",
+     "where": "the placing of 'or'",
+     "problem": "Sanskrit has 'upakāre aniviṣṭaṃ vā aśaktaṃ vā anupakāri tat': vā stands before aśakta and before anupakāri. The draft puts 'or' between 'concealment' and 'not engaged' (no vā there) and drops the vā before anupakāri. (part 2)",
+     "fix": "EN: 'The ally which is an enemy of the conqueror, gone to concealment, not engaged in helping, or incapable, or non-helping — that [one].'  HI: 'जो मित्र विजिगीषु का अमित्र है, छिपाव में चला गया है, उपकार में लगा नहीं है, अथवा असमर्थ है, अथवा उपकार न करने वाला है — वह।'",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "set",
+      "field": "hindi",
+      "value": "जो मित्र विजिगीषु का अमित्र है, छिपाव में चला गया है, उपकार में लगा नहीं है, अथवा असमर्थ है, अथवा उपकार न करने वाला है — वह।"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the placing of 'or'",
+     "problem": "Sanskrit has 'upakāre aniviṣṭaṃ vā aśaktaṃ vā anupakāri tat': vā stands before aśakta and before anupakāri. The draft puts 'or' between 'concealment' and 'not engaged' (no vā there) and drops the vā before anupakāri. (part 3)",
+     "fix": "EN: 'The ally which is an enemy of the conqueror, gone to concealment, not engaged in helping, or incapable, or non-helping — that [one].'  HI: 'जो मित्र विजिगीषु का अमित्र है, छिपाव में चला गया है, उपकार में लगा नहीं है, अथवा असमर्थ है, अथवा उपकार न करने वाला है — वह।'",
+     "severity": "error",
+     "patch": {
+      "n": "45",
+      "op": "append_note",
+      "text": "Reviewer: vā kept where printed (before aśaktam and before anupakāri); the alternative reading 'tat anupakāri' as a predicate 'that is non-helping' is possible."
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "that [ally] is common",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "that [ally] [is] common",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "replace",
+      "field": "english",
+      "old": "that [ally] is common",
+      "new": "that [ally] [is] common"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उभयभावी / जिससे",
+     "problem": "ubhaya-bhāvin is rendered 'दोनों के भाव वाला' in unit 44 and 'of both-nature' in English; 'जिससे' is an added relative pronoun (the English brackets '[and is]').",
+     "fix": "जो शत्रु और नेता की वृद्धि का दुर्बलता से अनुसरण करता है, दोनों के द्वारा भी द्वेष न किया गया, उसे दोनों के भाव वाला जाने।",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "set",
+      "field": "hindi",
+      "value": "जो शत्रु और नेता की वृद्धि का दुर्बलता से अनुसरण करता है, दोनों के द्वारा भी द्वेष न किया गया, उसे दोनों के भाव वाला जाने।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "kāraṇa-akāraṇa-dhvastam / -āgatam",
+     "problem": "Labelled m. acc. sg. but they qualify mitram, which the draft itself labels n. acc. sg.",
+     "fix": "n. acc. sg. (tat-puruṣa, dvandva)",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "word",
+      "match_w": "kāraṇa-akāraṇa-dhvastam",
+      "field": "gram",
+      "value": "n. acc. sg. (tat-puruṣa, dvandva)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kāraṇa-akāraṇa-dhvastam / -āgatam",
+     "problem": "Labelled m. acc. sg. but they qualify mitram, which the draft itself labels n. acc. sg. (part 2)",
+     "fix": "n. acc. sg. (tat-puruṣa, dvandva)",
+     "severity": "minor",
+     "patch": {
+      "n": "49",
+      "op": "word",
+      "match_w": "kāraṇa-akāraṇa-āgatam",
+      "field": "gram",
+      "value": "n. acc. sg. (tat-puruṣa, dvandva)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "50",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a great one ... one agreeing",
+     "problem": "Supplied 'one' (for lābha) is unbracketed in both places; Hindi 'जो ... है' adds a relative clause for the adjective saṃvādakaḥ.",
+     "fix": "EN: 'A small gain quickly, or a great [one] after a long time — “A small gain quickly, agreeing with the task, place and time, [is] better,” say the teachers.' HI: '... “शीघ्र अल्प लाभ, कार्य, देश और काल के अनुरूप, श्रेष्ठ है,” ...'",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "set",
+      "field": "english",
+      "value": "A small gain quickly, or a great [one] after a long time — “A small gain quickly, agreeing with the task, place and time, [is] better,” say the teachers."
+     }
+    },
+    {
+     "field": "english",
+     "where": "a great one ... one agreeing",
+     "problem": "Supplied 'one' (for lābha) is unbracketed in both places; Hindi 'जो ... है' adds a relative clause for the adjective saṃvādakaḥ. (part 2)",
+     "fix": "EN: 'A small gain quickly, or a great [one] after a long time — “A small gain quickly, agreeing with the task, place and time, [is] better,” say the teachers.' HI: '... “शीघ्र अल्प लाभ, कार्य, देश और काल के अनुरूप, श्रेष्ठ है,” ...'",
+     "severity": "minor",
+     "patch": {
+      "n": "50",
+      "op": "set",
+      "field": "hindi",
+      "value": "शीघ्र अल्प लाभ अथवा देर से महान् — “शीघ्र अल्प लाभ, कार्य, देश और काल के अनुरूप, श्रेष्ठ है,” ऐसा आचार्य कहते हैं।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "lābhaḥ (both entries)",
+     "problem": "lābha = gain; the two word entries have the same w, so a word patch is ambiguous. [HAND EDIT: gloss of both 'lābhaḥ' entries 'acquisition' -> 'gain']",
+     "fix": "gain",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "51",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "52",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "seed, is better",
+     "problem": "Verbless clause: the supplied copula is unbracketed here but bracketed in units 1, 5, 6, 12, 35, 36, 44 (supplied words must be marked).",
+     "fix": "seed, [is] better",
+     "severity": "minor",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "english",
+      "old": "seed, is better",
+      "new": "seed, [is] better"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain).",
+     "fix": "A great gain, ...",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "replace",
+      "field": "english",
+      "old": "A great acquisition,",
+      "new": "A great gain,"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 2)",
+     "fix": "A great gain, ...",
+     "severity": "error",
+     "patch": {
+      "n": "52",
+      "op": "word",
+      "match_w": "lābhaḥ",
+      "field": "gloss",
+      "value": "gain"
+     }
+    }
+   ]
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "dhruve",
+     "problem": "gloss 'in a firm' is an unfinished phrase.",
+     "fix": "firm (agreeing with lābhe)",
+     "severity": "minor",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "dhruve",
+      "field": "gloss",
+      "value": "firm (agreeing with lābhe)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain).",
+     "fix": "in a firm gain and in a share of gain",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "replace",
+      "field": "english",
+      "old": "in a firm acquisition and in a share of acquisition",
+      "new": "in a firm gain and in a share of gain"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 2)",
+     "fix": "in a firm gain and in a share of gain",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "lābhe",
+      "field": "gloss",
+      "value": "in a gain"
+     }
+    },
+    {
+     "field": "english",
+     "where": "acquisition",
+     "problem": "same (lābha = gain). (part 3)",
+     "fix": "in a firm gain and in a share of gain",
+     "severity": "error",
+     "patch": {
+      "n": "53",
+      "op": "word",
+      "match_w": "lābha-aṃśe",
+      "field": "gloss",
+      "value": "in a share of gain"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Independent review of 7.9 chunk1 (53 units): 17 error issues, 39 minor issues, 84 machine patches (patch ops split one per issue entry), 4 hand edits. Tokens, flags 4/21/26/41 (all four accepted, suggestions right) and confidences are sound. Errors: (a) unit 25 elliptic clause read as its opposite; (b) unit 40 order of last items; (c) unit 45 vā misplaced and one 'or' added; (d) deviations from fixed renderings added by other Book 7 reviewers: lābha = gain (7.7, 7.10) not 'acquisition' (units 1,2,3,6,33,35,50,52,53); sama/viṣama/ati-sandhi = equal/unequal/outwitting treaty (7.7) not 'even/uneven' (4,5,6,7); pratāpa = splendour (7.4) not 'might' (18,26). Minor: unbracketed supplied copula in verbless clauses; kṛcchra = कठिनाई not संकट; 'रूप से' added for samuttha; 'duplicity' for advaidhya; '[verse]' in unit 37; Hindi सम-सन्धि hyphen; n./m. slips (40, 49); w endings (ubhayataḥ, anyataḥ); comma moved to wrong word in unit 12; bhogya = भोग्य (7.5). Drafter's doubts decided: praṇayāt kept 'affection' (set against artha; Book 5 'request' stays in Book 5); hiraṇya = money, bhoga = enjoyment (literal, 'in men/money/land' left, a person may prefer 'use'), daṇḍa = army in 29-30, yoga = connection (जुड़ाव), sampanna = excellent accepted. HAND EDITS (not patchable): unit 13 merge the two word entries of the '.' compound mahad.upakurvan into one (w mahat-upakurvan, gloss 'greatly helping'); unit 36 add text_flag alpa.prayasatā -> alpa.prayāsatā and set w to alpa-prayāsatā; unit 43 move word entry atha from token 'sambaddham' to token 'eka.arthena-atha'; unit 50 gloss of both lābhaḥ entries 'acquisition' -> 'gain'. No regrouping suggested."
+}

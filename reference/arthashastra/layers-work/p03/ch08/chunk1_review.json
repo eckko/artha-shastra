@@ -1,0 +1,607 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sentence",
+     "problem": "'those' is an unmarked added word; the bahuvrīhi predicate needs no relative",
+     "fix": "Disputes about a site have the neighbours (sāmanta) as their basis.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Disputes about a site have the neighbours (sāmanta) as their basis.",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "sentence",
+     "problem": "'वे हैं जिनका' adds a relative construction not in the Sanskrit",
+     "fix": "वास्तु के विवाद सामन्त के आधार वाले हैं।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "वास्तु के विवाद सामन्त के आधार वाले हैं।",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "deśa-bandham",
+     "problem": "'boundary of a space' is an interpretive sense; the note claims a literal rendering",
+     "fix": "binding of a place",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "deśa-bandham",
+      "field": "gloss",
+      "value": "binding of a place",
+      "n": "5"
+     }
+    },
+    {
+     "field": "english",
+     "where": "(boundary of a space)",
+     "problem": "interpretive gloss in English; make literal as the note says",
+     "fix": "(literally 'place-binding')",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "(boundary of a space)",
+      "new": "(literally 'place-binding')",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "iti",
+     "problem": "The closing iti has no opening quotation mark or introducing verb in the unit, and text_flags is empty; the brief requires it to be flagged. The English/Hindi opening quotation mark is an editorial addition.",
+     "fix": "Add text_flags entry {src:'iti', suggest:'', why:'possible: iti closes a quoted rule but nothing in the unit opens the quotation or names the speaker; no change proposed, the unit itself is taken as the quoted rule'}; lower nothing else (confidence already low)",
+     "severity": "error"
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "iti flag must be recorded (patch ops cannot add a text_flag)",
+     "fix": "TEXT FLAG NEEDED (hand edit): closing 'iti' with no opening quotation or introducing verb in this unit. The opening quotation mark in the Hindi and English is added by the translator; the unit itself is taken as the quoted rule. Whether the rule begins in an earlier unit is not settled.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "TEXT FLAG NEEDED (hand edit): closing 'iti' with no opening quotation or introducing verb in this unit. The opening quotation mark in the Hindi and English is added by the translator; the unit itself is taken as the quoted rule. Whether the rule begins in an earlier unit is not settled.",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "gṛha-ucitāt",
+     "problem": "gram order inconsistent with the rest of the chunk",
+     "fix": "n. abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "gṛha-ucitāt",
+      "field": "gram",
+      "value": "n. abl. sg.",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ā-nirdaśa-ahāt",
+     "problem": "'ind. phrase abl. sg.' is not a usable tag",
+     "fix": "m. abl. sg. with ā (up to)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ā-nirdaśa-ahāt",
+      "field": "gram",
+      "value": "m. abl. sg. with ā (up to)",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "daṇḍa rendered 'fine' in this chunk (cf. sāhasa-daṇḍa in the glossary).",
+     "problem": "glossary fixes daṇḍa = penalty (4.8-4.13), 'fine' only in sāhasa-daṇḍa",
+     "fix": "daṇḍa with a paṇa figure is rendered 'penalty', as in Book 4; sāhasa-daṇḍa stays 'fine for rashness' (glossary).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "daṇḍa rendered 'fine' in this chunk (cf. sāhasa-daṇḍa in the glossary).",
+      "new": "daṇḍa with a paṇa figure is rendered 'penalty', as in Book 4; sāhasa-daṇḍa stays 'fine for rashness' (glossary).",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is [one] of",
+     "problem": "daṇḍa = penalty (glossary 4.10)",
+     "fix": "the penalty is [one] of",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fine is [one] of",
+      "new": "the penalty is [one] of",
+      "n": "10"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "glossary",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "चक्री-चतुष्पद",
+     "problem": "English translates cakri-catuṣpada ('wheeled and four-footed') but Hindi keeps चक्री, which in Hindi means a discus-bearer; inconsistent and misleading",
+     "fix": "एक पद पीछे हटा हुआ अथवा एक अरत्नि, पहियेवालों और चौपायों का स्थान, अग्निष्ठ, उदन्-जर का स्थान, रोचनी अथवा कुट्टनी बनवाए।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "एक पद पीछे हटा हुआ अथवा एक अरत्नि, पहियेवालों और चौपायों का स्थान, अग्निष्ठ, उदन्-जर का स्थान, रोचनी अथवा कुट्टनी बनवाए।",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "agniṣṭham",
+     "problem": "'fireplace' is an asserted sense for an obscure word; the note itself calls it tentative",
+     "fix": "agniṣṭha (literally 'standing in fire')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "agniṣṭham",
+      "field": "gloss",
+      "value": "agniṣṭha (literally 'standing in fire')",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "an agniṣṭha (fireplace)",
+     "problem": "same: literal only for obscure words",
+     "fix": "an agniṣṭha (literally 'standing in fire')",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "an agniṣṭha (fireplace)",
+      "new": "an agniṣṭha (literally 'standing in fire')",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is [one] of",
+     "problem": "daṇḍa = penalty (glossary 4.10)",
+     "fix": "the penalty is [one] of",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fine is [one] of",
+      "new": "the penalty is [one] of",
+      "n": "12"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "glossary",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sarva-vāstukayoḥ",
+     "problem": "agrees with śālayoḥ (f.)",
+     "fix": "f. gen. du.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sarva-vāstukayoḥ",
+      "field": "gram",
+      "value": "f. gen. du.",
+      "n": "13"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "prākṣiptakayoḥ",
+     "problem": "agrees with śālayoḥ (f.)",
+     "fix": "f. gen. du.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "prākṣiptakayoḥ",
+      "field": "gram",
+      "value": "f. gen. du.",
+      "n": "13"
+     }
+    },
+    {
+     "field": "notes",
+     "where": " The ablative-like vā after prākṣiptakayoḥ joins the two kinds of hall.",
+     "problem": "'ablative-like vā' is meaningless; vā is an indeclinable",
+     "fix": " vā after prākṣiptakayoḥ joins the two kinds of hall.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": " The ablative-like vā after prākṣiptakayoḥ joins the two kinds of hall.",
+      "new": " vā after prākṣiptakayoḥ joins the two kinds of hall.",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "khaṇḍa-phulla-artham",
+     "problem": "'cracked' is not the literal sense of phulla; the note says 'burst-open'",
+     "fix": "for the sake of the broken and burst-open",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "khaṇḍa-phulla-artham",
+      "field": "gloss",
+      "value": "for the sake of the broken and burst-open",
+      "n": "15"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the broken and the cracked",
+     "problem": "English contradicts the note's literal 'burst-open'",
+     "fix": "the broken and the burst-open",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the broken and the cracked",
+      "new": "the broken and the burst-open",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "sentence",
+     "problem": "clumsy 'तथा;' dangling at the end of a clause; ca should join the clauses",
+     "fix": "उसका अतिक्रमण होने पर प्रथम साहस-दण्ड है, और प्रतिलोम द्वार-वातायन की बाधा में, राजमार्ग और रथ्याओं को छोड़कर।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "उसका अतिक्रमण होने पर प्रथम साहस-दण्ड है, और प्रतिलोम द्वार-वातायन की बाधा में, राजमार्ग और रथ्याओं को छोड़कर।",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is twelve paṇas",
+     "problem": "daṇḍa = penalty (glossary 4.10)",
+     "fix": "the penalty is twelve paṇas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fine is twelve paṇas",
+      "new": "the penalty is twelve paṇas",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "glossary",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mūtra-purīṣa-upaghāte",
+     "problem": "compound type omitted for a dvandva inside a tat-puruṣa",
+     "fix": "dvandva-tat-puruṣa m. loc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mūtra-purīṣa-upaghāte",
+      "field": "gram",
+      "value": "dvandva-tat-puruṣa m. loc. sg.",
+      "n": "22"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'The fine is' supplied in the second clause as '[the fine is]' implied by dvi-guṇaḥ.",
+     "problem": "note describes a bracket that the English does not have",
+     "fix": "In the second clause the predicate 'is' is not stated; dvi-guṇaḥ is taken as 'double' (the penalty).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'The fine is' supplied in the second clause as '[the fine is]' implied by dvi-guṇaḥ.",
+      "new": "In the second clause the predicate 'is' is not stated; dvi-guṇaḥ is taken as 'double' (the penalty).",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is twelve paṇas",
+     "problem": "daṇḍa = penalty (glossary 4.10)",
+     "fix": "the penalty is twelve paṇas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fine is twelve paṇas",
+      "new": "the penalty is twelve paṇas",
+      "n": "23"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "glossary",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "unflagged irregular spelling (low priority)",
+     "fix": "Possible typo (hand edit): 'svayaṃ.abhiprasthito' has ṃ before a vowel inside the compound; regular form would be svayam-abhiprasthitaḥ. Not applied.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Possible typo (hand edit): 'svayaṃ.abhiprasthito' has ṃ before a vowel inside the compound; regular form would be svayam-abhiprasthitaḥ. Not applied.",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[there is] a fine of twelve paṇas",
+     "problem": "daṇḍa = penalty (glossary 4.10)",
+     "fix": "[there is] a penalty of twelve paṇas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[there is] a fine of twelve paṇas",
+      "new": "[there is] a penalty of twelve paṇas",
+      "n": "26"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "glossary",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[the fine is] double that",
+     "problem": "daṇḍa = penalty",
+     "fix": "[the penalty is] double that",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[the fine is] double that",
+      "new": "[the penalty is] double that",
+      "n": "27"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'that' is the fine of unit 26",
+     "problem": "consistency",
+     "fix": "'that' is the penalty of unit 26",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'that' is the fine of unit 26",
+      "new": "'that' is the penalty of unit 26",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "28 units reviewed. Issues: 1 error, 32 minor. No regrouping suggested (unit 21 continues unit 20 but the edition numbers it separately). Main points: unit 6 closing iti has no text_flag (hand edit needed; iti otherwise correctly unrendered); daṇḍa 'fine' aligned to glossary 'penalty'; interpretive glosses made literal (deśa-bandha, agniṣṭha, phulla); chakri Hindi; no Latin, brackets, thus/इस प्रकार or unmarked ही/भी/और found in Hindi; each word listed once; all other splits and cases checked and sound. All obscure terms stay low confidence. Unreviewed AI draft."
+}
