@@ -1,0 +1,637 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "killing",
+     "problem": "glossary 4.12: vadha alone = death",
+     "fix": "the highest and death",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the highest and killing",
+      "new": "the highest and death",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pūrva-madhyama-uttama-vadhāḥ",
+     "problem": "same: vadha = death",
+     "fix": "first, middle, highest and death",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pūrva-madhyama-uttama-vadhāḥ",
+      "field": "gloss",
+      "value": "first, middle, highest and death",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये दण्ड हैं",
+     "problem": "added demonstrative ये (no word in Sanskrit; glossary 3.3 no added यह)",
+     "fix": "— दण्ड हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "— ये दण्ड हैं",
+      "new": "— दण्ड हैं",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "para-janasya",
+     "problem": "para + jana is karmadhāraya (as sva-janasya in unit 1), not tat-puruṣa",
+     "fix": "karmadhāraya, m. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "para-janasya",
+      "field": "gram",
+      "value": "karmadhāraya, m. gen. sg.",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "adoṣaḥ",
+     "problem": "compound type missing",
+     "fix": "tat-puruṣa (nañ), m. nom. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "adoṣaḥ",
+      "field": "gram",
+      "value": "tat-puruṣa (nañ), m. nom. sg.",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kula.bandhana",
+     "problem": "flag is real (a bare stem cannot stand as a separate word beside the locative āpadi), but the suggestion kula.bandhane is only one of several repairs (also kula.bandhanam, accusative in apposition to āryam). Hand edit: keep src, make why read \"possible: lost final consonant/vowel; kula.bandhane or kula.bandhanam\", suggest stays kula.bandhane",
+     "fix": "hand edit",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "para-viṣaya-abhimukhau",
+     "problem": "glossary 4.13: para-viṣaya = another territory",
+     "fix": "facing another territory",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "para-viṣaya-abhimukhau",
+      "field": "gloss",
+      "value": "facing another territory",
+      "n": "6"
+     }
+    },
+    {
+     "field": "english",
+     "where": "facing another's territory",
+     "problem": "same",
+     "fix": "facing another territory",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "facing another's territory",
+      "new": "facing another territory",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "daṇḍa-preṣaṇam",
+     "problem": "glossary: daṇḍa = penalty (not punishment)",
+     "fix": "sending of penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍa-preṣaṇam",
+      "field": "gloss",
+      "value": "sending of penalty",
+      "n": "9"
+     }
+    },
+    {
+     "field": "english",
+     "where": "sending of punishment",
+     "problem": "same",
+     "fix": "sending of penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "sending of punishment",
+      "new": "sending of penalty",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sva-vaśām",
+     "problem": "gloss says \"her own power\" but English and notes say the goer's/one's own; make consistent",
+     "fix": "in one's own power",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sva-vaśām",
+      "field": "gloss",
+      "value": "in one's own power",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[if she is] in his own power",
+     "problem": "\"his\" is an added referent (sva- only says own)",
+     "fix": "[if she is] in one's own power",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[if she is] in his own power",
+      "new": "[if she is] in one's own power",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "tad.dvu.guṇaś",
+     "problem": "flag is sound (dvu is no numeral), but the suggestion drops the printed sandhi: only u->i is the typo",
+     "fix": "suggest should be tad.dvi.guṇaś (not tad.dvi.guṇaḥ)  [hand edit]",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "duṣayato",
+     "problem": "sound: caus. of √duṣ is dūṣayati; suggestion dūṣayataḥ is right (hand edit: none needed)",
+     "fix": "ok",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pitryam",
+     "problem": "pitrya agrees with dāyam (m.), not n.",
+     "fix": "m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pitryam",
+      "field": "gram",
+      "value": "m. acc. sg.",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "daṇḍa-praṇītaḥ",
+     "problem": "gloss is a bahuvrīhi sense (\"one for whom a penalty has been administered\") but gram says tat-puruṣa",
+     "fix": "bahuvrīhi, m. nom. sg. pp. pra-√nī",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍa-praṇītaḥ",
+      "field": "gram",
+      "value": "bahuvrīhi, m. nom. sg. pp. pra-√nī",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "karma-kāla-anurūpeṇa",
+     "problem": "karma-kāla is a dvandva inside the compound (as unit 9 labels)",
+     "fix": "dvandva + tat-puruṣa, m. inst. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "karma-kāla-anurūpeṇa",
+      "field": "gram",
+      "value": "dvandva + tat-puruṣa, m. inst. sg.",
+      "n": "19"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ध्वज-आहृत",
+     "problem": "the fixed rendering \"brought by the banner\" is not carried into Hindi (compound left as Sanskrit, glossary style gives a Hindi rendering)",
+     "fix": "ध्वज द्वारा लाया गया आर्य-प्राण",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ध्वज-आहृत आर्य-प्राण",
+      "new": "ध्वज द्वारा लाया गया आर्य-प्राण",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "low work or in a foreign country",
+     "problem": "\"or\" added; Sanskrit has two bare locatives (nīce karmaṇi videśe) with no vā between them",
+     "fix": "[for] low work, in a foreign country",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[for] low work or in a foreign country",
+      "new": "[for] low work, in a foreign country",
+      "n": "20"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "नीच कर्म में अथवा विदेश में",
+     "problem": "अथवा added with no Sanskrit word (glossary 3.4: no joining word in a series without ca/vā)",
+     "fix": "नीच कर्म में, विदेश में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "नीच कर्म में अथवा विदेश में",
+      "new": "नीच कर्म में, विदेश में",
+      "n": "20"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bharmaṇyā",
+     "problem": "glossary 3.3: bharmaṇyā = woman to be maintained; draft takes garbha-bharmaṇyā as \"maintenance of the embryo\" (no conflict recorded). Person to decide; recorded in glossary",
+     "fix": "person decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उचित निष्क्रय पर",
+     "problem": "glossary 4.12: niṣkrayeṇa = for a ransom (निष्क्रय के बदले); anurūpa elsewhere अनुरूप",
+     "fix": "दास को अनुरूप निष्क्रय के बदले आर्य न बनाने वाले",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दास को उचित निष्क्रय पर आर्य न बनाने वाले",
+      "new": "दास को अनुरूप निष्क्रय के बदले आर्य न बनाने वाले",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jñātayaḥ",
+     "problem": "glossary 3.4: jñāti = kin (3.2: relatives, ज्ञाति-जन); \"kinsmen\" is the kulya word",
+     "fix": "kin",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "jñātayaḥ",
+      "field": "gloss",
+      "value": "kin",
+      "n": "22"
+     }
+    },
+    {
+     "field": "english",
+     "where": "kinsmen",
+     "problem": "same",
+     "fix": "the kin [are] the heirs",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the kinsmen [are] the heirs",
+      "new": "the kin [are] the heirs",
+      "n": "22"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ज्ञाति हैं",
+     "problem": "glossary 3.2: ज्ञाति-जन, never जाति; bare ज्ञाति may be misread",
+     "fix": "उत्तराधिकारी ज्ञाति-जन हैं",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उत्तराधिकारी ज्ञाति हैं",
+      "new": "उत्तराधिकारी ज्ञाति-जन हैं",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "25",
+     "problem": "sibling chapters label the verse number \"verse number\"",
+     "fix": "verse number",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "25",
+      "field": "gloss",
+      "value": "verse number",
+      "n": "25"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "| (both)",
+     "problem": "siblings (ch02, 03, 09, 10, 11, 14, 16) gloss \"verse-end mark\", not \"danda mark\"; match_w \"|\" occurs twice so no patch: hand edit both entries to gloss \"verse-end mark\"",
+     "fix": "hand edit (see problem)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "karma-kāla-anurūpam",
+     "problem": "as unit 19",
+     "fix": "dvandva + tat-puruṣa, n. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "karma-kāla-anurūpam",
+      "field": "gram",
+      "value": "dvandva + tat-puruṣa, n. acc. sg.",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "माल",
+     "problem": "glossary 5.3: paṇya = wares (पण्य)",
+     "fix": "किए गए पण्य का",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "किए गए माल का",
+      "new": "किए गए पण्य का",
+      "n": "28"
+     }
+    },
+    {
+     "field": "english",
+     "where": "farmer of the crops ...",
+     "problem": "literal genitives read oddly; the likelier sense (a tenth part OF the crops/ghee/wares) is only in notes; leave to a person",
+     "fix": "person decision",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "tu not rendered",
+     "problem": "glossary 3.7: a tu in the Sanskrit is rendered (किन्तु); English has \"But\", Hindi has none",
+     "fix": "किन्तु कारु, ...",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "कारु, शिल्पी, कुशीलव, चिकित्सक,",
+      "new": "किन्तु कारु, शिल्पी, कुशीलव, चिकित्सक,",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "niṣtīrṇaḥ (missing flag)",
+     "problem": "ṣ before dental t is not regular sandhi; the form of niḥ+tṝ is nistīrṇa. Hand edit: add text_flag src \"niṣtīrṇaḥ\" suggest \"nistīrṇaḥ\" why \"possible: niḥ before t gives nis-, not niṣ-; looks like a typing slip\"; w may stay or use nistīrṇaḥ; notes \"literally crossed out\" should read \"crossed over\"",
+     "fix": "hand edit (see problem)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the regrets (anuśaya)",
+     "problem": "glossary 3.15: anuśaya stays anuśaya in the text, \"regret\" in the gloss only",
+     "fix": "By that, everywhere the anuśayas of giving by the distressed are explained.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the regrets (anuśaya) of giving",
+      "new": "the anuśayas of giving",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "jīyeta",
+     "problem": "glossary 3.2: jīyeta = should lose (root √ji/√jyā left open); draft \"would be defeated\" differs. Person decision; Hindi जीती जाए likewise",
+     "fix": "person decision",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "atiyācnā",
+     "problem": "sound (yācñā; typing slip), suggestion atiyācñā is right",
+     "fix": "ok",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "0 errors, 35 issues, all minor (some are notes for a person, not patches). No regrouping suggested. Main themes: glossary conformity (vadha=death, daṇḍa=penalty, anuśaya, niṣkrayeṇa, paṇya, tu), added words (ये, अथवा, or, his), gram labels, and two text-flag repairs / one missing flag needing hand edits. Four drafter text_flags: unit 12 both sound (second suggestion should keep sandhi tad.dvi.guṇaś); unit 37 sound; unit 5 real but suggestion is one of several. Confidence levels are honest. Layer remains an unreviewed AI draft."
+}

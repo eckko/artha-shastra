@@ -2851,5 +2851,710 @@
   "text_flags": [],
   "notes": "rājñām asannidhau 'in the absence of kings' is literal; the king(s) may rather be the owners meant. pāṣaṇḍa kept as a term (member of an order or sect). upanidhi and nikṣepa as in the glossary (4.6). 'hareyuḥ by bhoga' = take away by mere use.",
   "confidence": "medium"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "āśramiṇaḥ",
+      "words": [
+       {
+        "w": "āśramiṇaḥ",
+        "gloss": "members of orders",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāṣaṇḍā",
+      "words": [
+       {
+        "w": "pāṣaṇḍāḥ",
+        "gloss": "pāṣaṇḍas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahaty",
+      "words": [
+       {
+        "w": "mahati",
+        "gloss": "in a large",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avakāśe",
+      "words": [
+       {
+        "w": "avakāśe",
+        "gloss": "space",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasparam",
+      "words": [
+       {
+        "w": "parasparam",
+        "gloss": "one another",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "abādhamānā",
+      "words": [
+       {
+        "w": "abādhamānāḥ",
+        "gloss": "not hindering",
+        "gram": "m. nom. pl., pres. part. ātm. a-√bādh"
+       }
+      ]
+     },
+     {
+      "src": "vaseyuḥ",
+      "words": [
+       {
+        "w": "vaseyuḥ",
+        "gloss": "should dwell",
+        "gram": "3 pl. opt. √vas"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आश्रमी या पाषण्ड बड़े अवकाश में परस्पर बाधा न करते हुए रहें।",
+  "english": "Members of orders or pāṣaṇḍas should dwell in a large space, not hindering one another.",
+  "text_flags": [],
+  "notes": "āśramin (one belonging to an āśrama) is rendered 'member of an order'. pāṣaṇḍa kept as a term, as in unit 32.",
+  "confidence": "medium"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpāṃ",
+      "words": [
+       {
+        "w": "alpām",
+        "gloss": "small",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bādhāṃ",
+      "words": [
+       {
+        "w": "bādhām",
+        "gloss": "hindrance",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saheran",
+      "words": [
+       {
+        "w": "saheran",
+        "gloss": "should bear",
+        "gram": "3 pl. opt. ātm. √sah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अल्प बाधा सहें।",
+  "english": "[They] should bear a small hindrance.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pūrva.āgato",
+      "words": [
+       {
+        "w": "pūrva-āgataḥ",
+        "gloss": "one who came earlier",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāsa.paryāyaṃ",
+      "words": [
+       {
+        "w": "vāsa-paryāyam",
+        "gloss": "turn of dwelling",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा पहले आया हुआ निवास की बारी दे।",
+  "english": "Or the one who came earlier should give a turn of dwelling.",
+  "text_flags": [],
+  "notes": "paryāya = turn, rotation; the exact arrangement is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apradātā",
+      "words": [
+       {
+        "w": "apradātā",
+        "gloss": "non-giver",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirasyeta",
+      "words": [
+       {
+        "w": "nirasyeta",
+        "gloss": "would be expelled",
+        "gram": "3 sg. opt. pass. nis-√as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न देने वाला निकाल दिया जाए।",
+  "english": "The non-giver would be expelled.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vānaprastha.yati.brahma.cāriṇām",
+      "words": [
+       {
+        "w": "vānaprastha-yati-brahma-cāriṇām",
+        "gloss": "of forest-dwellers, ascetics and students",
+        "gram": "m. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ācārya.śiṣya.dharma.bhrātṛ.samāna.tīrthyā",
+      "words": [
+       {
+        "w": "ācārya-śiṣya-dharma-bhrātṛ-samāna-tīrthyāḥ",
+        "gloss": "teacher, pupil, dharma-brother, one of the same tīrtha",
+        "gram": "m. nom. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "riktha.bhājaḥ",
+      "words": [
+       {
+        "w": "riktha-bhājaḥ",
+        "gloss": "sharers in the inheritance",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "krameṇa",
+      "words": [
+       {
+        "w": "krameṇa",
+        "gloss": "in order",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वानप्रस्थों, यतियों और ब्रह्मचारियों के आचार्य, शिष्य, धर्मभ्राता और समान तीर्थ वाले क्रम से रिक्थ के भागी।",
+  "english": "Of forest-dwellers, ascetics and students: teacher, pupil, dharma-brother and one of the same tīrtha [are] the sharers in the inheritance, in order.",
+  "text_flags": [],
+  "notes": "samāna-tīrthya is usually 'fellow-student' (one of the same tīrtha); rendered literally. The final -ā of tīrthyā is regular sandhi before r-. brahma-cārin rendered 'student'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vivāda.padeṣu",
+      "words": [
+       {
+        "w": "vivāda-padeṣu",
+        "gloss": "in grounds of dispute",
+        "gram": "n. loc. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca-eṣāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yāvantaḥ",
+      "words": [
+       {
+        "w": "yāvantaḥ",
+        "gloss": "as many",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "paṇā",
+      "words": [
+       {
+        "w": "paṇāḥ",
+        "gloss": "paṇas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍās",
+      "words": [
+       {
+        "w": "daṇḍāḥ",
+        "gloss": "penalties",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāvatī",
+      "words": [
+       {
+        "w": "tāvatīḥ",
+        "gloss": "that many",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rātrīḥ",
+      "words": [
+       {
+        "w": "rātrīḥ",
+        "gloss": "nights",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣapaṇa.abhiṣeka.agni.kārya.mahā.kaccha.vardhanāni",
+      "words": [
+       {
+        "w": "kṣapaṇa-abhiṣeka-agni-kārya-mahā-kaccha-vardhanāni",
+        "gloss": "fastings, sprinklings, fire-duties, Mahakaccha-increasings",
+        "gram": "n. acc. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "rājñaś",
+      "words": [
+       {
+        "w": "rājñaḥ",
+        "gloss": "of the king",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "careyuḥ",
+      "words": [
+       {
+        "w": "careyuḥ",
+        "gloss": "should perform",
+        "gram": "3 pl. opt. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विवाद-पदों में और इनके जितने पण दण्ड हैं उतनी रातें राजा के क्षपण, अभिषेक, अग्निकार्य और महाकच्छ-वर्धन करें।",
+  "english": "And in grounds of dispute, for as many nights as there are paṇas [of] penalties for these, they should perform the king's fastings, sprinklings, fire-duties and Mahakaccha-increasings.",
+  "text_flags": [],
+  "notes": "Obscure. The word division of the long compound is not certain; mahā-kaccha stays Mahakaccha (glossary 4.3). kṣapaṇa 'fasting', abhiṣeka 'sprinkling', agni-kārya 'fire-duty' are literal. Who 'they' are (the persons of units 32-33) and the sense of rājñaḥ ('of the king' or 'for the king') are not decided. Low confidence.",
+  "confidence": "low"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ahiraṇya.suvarṇāḥ",
+      "words": [
+       {
+        "w": "ahiraṇya-suvarṇāḥ",
+        "gloss": "without money and gold",
+        "gram": "m. nom. pl., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pāṣaḍhāḥ",
+      "words": [
+       {
+        "w": "pāṣaṇḍāḥ",
+        "gloss": "pāṣaṇḍas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sādhavaḥ",
+      "words": [
+       {
+        "w": "sādhavaḥ",
+        "gloss": "good ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धन और सोने से रहित पाषण्ड साधु।",
+  "english": "Pāṣaṇḍas without money and gold [are] good ones.",
+  "text_flags": [
+   {
+    "src": "pāṣaḍhāḥ",
+    "suggest": "pāṣaṇḍāḥ",
+    "why": "likely typo: ḍh for ṇḍ (the word is printed pāṣaṇḍā in units 32 and 33)"
+   }
+  ],
+  "notes": "hiraṇya = money, suvarṇa = gold (glossary). Could also be read as 'the good ones among the pāṣaṇḍas are those without money and gold'. Verbless.",
+  "confidence": "medium"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā.svam",
+      "words": [
+       {
+        "w": "yathā-svam",
+        "gloss": "each according to his own",
+        "gram": "ind., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "upavāsa.vratair",
+      "words": [
+       {
+        "w": "upavāsa-vrataiḥ",
+        "gloss": "by fasts and vows",
+        "gram": "n. inst. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ārādhayeyuḥ,",
+      "words": [
+       {
+        "w": "ārādhayeyuḥ",
+        "gloss": "should propitiate",
+        "gram": "3 pl. opt. caus. ā-√rādh"
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāruṣya.steya.sāhasa.saṅgrahaṇebhyaḥ",
+      "words": [
+       {
+        "w": "pāruṣya-steya-sāhasa-saṅgrahaṇebhyaḥ",
+        "gloss": "from harshness, theft, rashness, seizing",
+        "gram": "n. abl. pl., dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे यथास्व उपवास और व्रतों से आराधना करें, पारुष्य, चोरी, साहस और संग्रहण को छोड़कर।",
+  "english": "They should propitiate by fasts and vows, each according to his own, except in [the cases of] harshness, theft, rashness and seizing.",
+  "text_flags": [],
+  "notes": "The object of ārādhayeyuḥ is not stated. pāruṣya = harshness (verbal or physical injury elsewhere in Book 3); saṅgrahaṇa literally 'seizing' (in Book 3 the seizing of a woman), the sense is not imported here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣu",
+      "words": [
+       {
+        "w": "teṣu",
+        "gloss": "in their case",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā.uktā",
+      "words": [
+       {
+        "w": "yathā-uktāḥ",
+        "gloss": "as stated",
+        "gram": "m. nom. pl., avyayībhāva"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍāḥ",
+      "words": [
+       {
+        "w": "daṇḍāḥ",
+        "gloss": "penalties",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kāryāḥ",
+      "words": [
+       {
+        "w": "kāryāḥ",
+        "gloss": "to be imposed",
+        "gram": "m. nom. pl., gerundive √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें यथोक्त दण्ड करणीय।",
+  "english": "In their case the penalties as stated are to be imposed.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pravrajyāsu",
+      "words": [
+       {
+        "w": "pravrajyāsu",
+        "gloss": "in the renunciations",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛthā.ācārān",
+      "words": [
+       {
+        "w": "vṛthā-ācārān",
+        "gloss": "vain practices",
+        "gram": "m. acc. pl., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "the king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍena",
+      "words": [
+       {
+        "w": "daṇḍena",
+        "gloss": "by punishment",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārayet",
+      "words": [
+       {
+        "w": "vārayet",
+        "gloss": "should restrain",
+        "gram": "3 sg. opt. caus. √vṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dharmo",
+      "words": [
+       {
+        "w": "dharmaḥ",
+        "gloss": "dharma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hy",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "adharma.upahataḥ",
+      "words": [
+       {
+        "w": "adharma-upahataḥ",
+        "gloss": "struck by adharma",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śāstāraṃ",
+      "words": [
+       {
+        "w": "śāstāram",
+        "gloss": "the ruler",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hanty",
+      "words": [
+       {
+        "w": "hanti",
+        "gloss": "kills",
+        "gram": "3 sg. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "upekṣitaḥ",
+      "words": [
+       {
+        "w": "upekṣitaḥ",
+        "gloss": "neglected",
+        "gram": "m. nom. sg., pp. upa-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "राजा प्रव्रज्याओं में व्यर्थ आचारों को दण्ड से रोके। क्योंकि अधर्म से आहत और उपेक्षित धर्म शासक को मारता है।",
+  "english": "The king should restrain by punishment vain practices in the renunciations. For dharma, struck by adharma and neglected, kills the ruler.",
+  "text_flags": [],
+  "notes": "pravrajyā = going forth into the wandering life, rendered 'renunciation'. vṛthā-ācāra may also mean 'those of vain conduct' (persons). śāstṛ is 'ruler, chastiser' (or 'teacher'); 'ruler' is taken from the context. The final verse of the chapter.",
+  "confidence": "medium"
  }
 ]
