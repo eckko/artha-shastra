@@ -1,0 +1,167 @@
+[
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "Verbless first clause: copula bracketed in English, none in Hindi. hetu = cause (could also be 'means'). jaya is rendered 'conquest' (glossary: control not used). māna = pride and mada = arrogance are the usual senses; harṣa = joy (exultation) kept literal. The six members form the traditional group of six enemies named in unit 11 (śatru-ṣaḍ-varga). kāryaḥ is a gerundive agreeing with indriya-jayaḥ.",
+  "new": "Verbless first clause: copula bracketed in English, none in Hindi. hetu = cause (could also be 'means'). jaya is rendered 'conquest' (jaya = conquest, victory). māna = pride and mada = arrogance are the usual senses; harṣa = joy (exultation) kept literal. The six members form the traditional group of six enemies named in unit 11 (śatru-ṣaḍ-varga). kāryaḥ is a gerundive agreeing with indriya-jayaḥ.",
+  "why": "reviewer (minor): Cites a glossary entry that does not exist."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "विद्या विनय का कारण; इन्द्रियों पर विजय काम, क्रोध, लोभ, अभिमान, मद, हर्ष के त्याग से करनी चाहिए।",
+  "new": "विद्या विनय का कारण; इन्द्रिय-जय काम, क्रोध, लोभ, अभिमान, मद, हर्ष के त्याग से करनी चाहिए।",
+  "why": "reviewer (minor): Glossary (1.7) fixes indriya-jaya = इन्द्रिय-जय; keep one Hindi form across the book."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "विद्या विनय का कारण; इन्द्रिय-जय काम, क्रोध, लोभ, अभिमान, मद, हर्ष के त्याग से करनी चाहिए।",
+  "new": "विद्या विनय का कारण; इन्द्रिय-जय काम, क्रोध, लोभ, अभिमान, मद, हर्ष के त्याग से करना चाहिए।",
+  "why": "reviewer (minor): Agreement follows the glossary form जय (masculine) after the fix above."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "कान, त्वचा, आँख, जीभ, नाक इन्द्रियों की शब्द, स्पर्श, रूप, रस, गन्ध में विचलन का अभाव इन्द्रिय-विजय; अथवा शास्त्र का अनुष्ठान।",
+  "new": "कान, त्वचा, आँख, जीभ, नाक इन्द्रियों की शब्द, स्पर्श, रूप, रस, गन्ध में विचलन का अभाव इन्द्रिय-जय; अथवा शास्त्र का अनुष्ठान।",
+  "why": "reviewer (minor): Glossary (1.7): इन्द्रिय-जय."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "क्योंकि यह सम्पूर्ण शास्त्र इन्द्रिय-विजय",
+  "new": "क्योंकि यह सम्पूर्ण शास्त्र इन्द्रिय-जय",
+  "why": "reviewer (minor): Glossary (1.7): इन्द्रिय-जय."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "A king whose conduct is contrary to that, whose senses are not under control, even one who is four-ended, perishes at once.",
+  "new": "A king whose conduct is contrary to that, with uncontrolled senses, even one who is four-ended, perishes at once.",
+  "why": "reviewer (minor): Align with glossary (1.7) vaśya-indriya = with controlled senses, 7.9 vaśya/avaśya = controlled/uncontrolled."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "avaśya-indriyaḥ",
+  "old": "whose senses are not under control",
+  "new": "with uncontrolled senses",
+  "why": "reviewer (minor): Same alignment."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "As Dandakya by name, a Bhoja, aiming at a Brahmin's girl from desire, perished together with his relatives and kingdom, and Karala the Vaideha [perished].",
+  "new": "As Dandakya by name, a Bhoja, aiming at a Brahmin's girl from desire, perished together with his relatives and country, and Karala the Vaideha [perished].",
+  "why": "reviewer (error): Glossary fixes rāṣṭra = country (12.1, 5.3); 'kingdom' is rājya (unit 8). Hindi राष्ट्र is right."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "The verb vinanāśa is not repeated for Karāla, and the Hindi leaves it unrepeated. abhi-√man follows the glossary (7.16) 'aim at'; 'covet' or 'lay claim to' are the usual senses and are left to the reader. bhoja: kept as a name; it may be a clan/people name ('a Bhoja'). vaideha = of Videha, kept as 'the Vaideha'. sa-bandhu-rāṣṭra is a bahuvrīhi 'with relatives and kingdom'; the sa is a prefix joined by '-' in the e-text and is given its own entry. The yathā has no tathā in the unit: the sentence continues in the following units as a list of examples (no GROUPING problem).",
+  "new": "The verb vinanāśa is not repeated for Karāla, and the Hindi leaves it unrepeated. abhi-√man follows the glossary (7.16) 'aim at'; 'covet' or 'lay claim to' are the usual senses and are left to the reader. bhoja: kept as a name; it may be a clan/people name ('a Bhoja'). vaideha = of Videha, kept as 'the Vaideha'. sa-bandhu-rāṣṭra is one bahuvrīhi word 'with relatives and country' (rāṣṭra = country, glossary); the sa is a prefix joined by '-' in the e-text and is not a separate word. The yathā has no tathā in the unit: the sentence continues in the following units as a list of examples (no GROUPING problem).",
+  "why": "reviewer (minor): Follows the one-word handling and the glossary rendering."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "From pride Ravana, not giving up others' wives, and Duryodhana [not giving] a share from the kingdom.",
+  "new": "From pride Ravana, not giving others' wives, and Duryodhana [not giving] a share from the kingdom.",
+  "why": "reviewer (error): 'up' is not in a-pra-√yam; it adds a sense (surrender)."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "Elliptical: the participle aprayacchan is not repeated for Duryodhana, nor is any finite verb stated; the English brackets the repeated participle, the Hindi leaves it out. dāra is a plural masculine noun (wives); para = others' (glossary 9.2: pare = the others). pra-√yam 'give, hand over', rendered 'not giving up'. The ca stands after aṃśam and links the second example to the first; it is rendered 'and' before Duryodhana.",
+  "new": "Elliptical: the participle aprayacchan is not repeated for Duryodhana, nor is any finite verb stated; the English brackets the repeated participle, the Hindi leaves it out. dāra is a plural masculine noun (wives); para = others' (glossary 9.2: pare = the others). pra-√yam 'give, hand over', rendered 'not giving'. The ca stands after aṃśam and links the second example to the first; it is rendered 'and' before Duryodhana.",
+  "why": "reviewer (minor): Follows the fix above."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हर्ष से अगस्त्य पर आक्रमण करने वाला वातापि, और वृष्णि-संघ द्वैपायन को",
+  "new": "हर्ष से अगस्त्य पर अत्यधिक आक्रमण करने वाला वातापि, और वृष्णि-संघ द्वैपायन पर",
+  "why": "reviewer (error): ati- is dropped (cf. atyāhārayamāṇaḥ where it is kept as 'excess'); also the second object takes को where the first takes पर."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "From joy Vatapi, assailing Agastya, and the Vrishni saṅgha [assailing] Dvaipayana.",
+  "new": "From joy Vatapi, excessively assailing Agastya, and the Vrishni saṅgha [excessively assailing] Dvaipayana.",
+  "why": "reviewer (error): Prefix ati- not rendered."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "atyāsādayan",
+  "old": "assailing",
+  "new": "excessively assailing (literally 'causing to approach too far')",
+  "why": "reviewer (error): Prefix ati- not rendered; sense low confidence."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Both these and others, many kings, having resorted to the sixfold group of enemies, perished together with their relatives and kingdoms, their senses unconquered.",
+  "new": "Both these and others, many kings, having resorted to the sixfold group of enemies, perished together with their relatives and countries, their senses unconquered.",
+  "why": "reviewer (error): rāṣṭra = country per glossary."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Both these and others, many kings, having resorted to the sixfold group of enemies, perished together with their relatives and countries, their senses unconquered.",
+  "new": "Both these and others, many kings, having resorted to the group of six enemies, perished together with their relatives and countries, their senses unconquered.",
+  "why": "reviewer (minor): Glossary (1.7) ari-ṣaḍ-varga = the group of six enemies (छह शत्रुओं का वर्ग); keep the same rendering."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "ये और दूसरे, बहुत से राजा, शत्रुओं के छह-वर्ग का आश्रय लिए हुए, बन्धुओं और राष्ट्रों सहित नष्ट हो गए, अजित इन्द्रियों वाले।",
+  "new": "ये और दूसरे, बहुत से राजा, छह शत्रुओं के वर्ग का आश्रय लिए हुए, बन्धुओं और राष्ट्रों सहित नष्ट हो गए, अजित इन्द्रियों वाले।",
+  "why": "reviewer (minor): Same, and 'शत्रुओं के छह-वर्ग' is ambiguous."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "śatru-ṣaḍ-vargam",
+  "old": "the sixfold group of enemies",
+  "new": "the group of six enemies",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "ete ca anye ca bahavaḥ: 'both these and other, many' (ca ... ca, glossary 7.5). The sixfold group of enemies (śatru-ṣaḍ-varga) is the six named in unit 1 (desire, anger, greed, pride, arrogance, joy); the text of this unit does not list them. The sa of sa-bandhu-rāṣṭrāḥ is a prefix of a bahuvrīhi; the e-text joins it with '-'.",
+  "new": "ete ca anye ca bahavaḥ: 'both these and other, many' (ca ... ca, glossary 7.5). The group of six enemies (śatru-ṣaḍ-varga) is the six named in unit 1 (desire, anger, greed, pride, arrogance, joy); the text of this unit does not list them. The sa of sa-bandhu-rāṣṭrāḥ is a prefix of a bahuvrīhi; the e-text joins it with '-'.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "ete ca anye ca bahavaḥ: 'both these and other, many' (ca ... ca, glossary 7.5). The group of six enemies (śatru-ṣaḍ-varga) is the six named in unit 1 (desire, anger, greed, pride, arrogance, joy); the text of this unit does not list them. The sa of sa-bandhu-rāṣṭrāḥ is a prefix of a bahuvrīhi; the e-text joins it with '-'.",
+  "new": "ete ca anye ca bahavaḥ: 'both these and other, many' (ca ... ca, glossary 7.5). The group of six enemies (śatru-ṣaḍ-varga) is the six named in unit 1 (desire, anger, greed, pride, arrogance, joy); the text of this unit does not list them. sa-bandhu-rāṣṭrāḥ is one bahuvrīhi word (sa = with, rāṣṭra = country); the e-text joins sa with '-'.",
+  "why": "reviewer (minor): One-word handling."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "Jamadagnya, having abandoned the sixfold group of enemies, with his senses conquered, and Ambarisha Nabhaga both enjoyed the earth for long.",
+  "new": "Jamadagnya, having abandoned the group of six enemies, with his senses conquered, and Ambarisha Nabhaga both enjoyed the earth for long.",
+  "why": "reviewer (minor): Glossary (1.7)."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "शत्रुओं के छह-वर्ग को त्यागकर जित इन्द्रियों वाले जामदग्न्य और नाभाग अम्बरीष दोनों ने चिर काल तक पृथ्वी का भोग किया।",
+  "new": "छह शत्रुओं के वर्ग को त्यागकर जित इन्द्रियों वाले जामदग्न्य और नाभाग अम्बरीष दोनों ने चिर काल तक पृथ्वी का भोग किया।",
+  "why": "reviewer (minor): Glossary (1.7)."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "śatru-ṣaḍ-vargam",
+  "old": "the sixfold group of enemies",
+  "new": "the group of six enemies",
+  "why": "reviewer (minor): Glossary (1.7)."
+ }
+]

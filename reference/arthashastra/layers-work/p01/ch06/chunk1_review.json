@@ -1,0 +1,410 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Cites a glossary entry that does not exist.",
+     "fix": "(jaya = conquest, victory)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "(glossary: control not used)",
+      "new": "(jaya = conquest, victory)",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "indriya-jayaḥ",
+     "problem": "Glossary (1.7) fixes indriya-jaya = इन्द्रिय-जय; keep one Hindi form across the book.",
+     "fix": "इन्द्रिय-जय",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन्द्रियों पर विजय",
+      "new": "इन्द्रिय-जय",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "kāryaḥ",
+     "problem": "Agreement follows the glossary form जय (masculine) after the fix above.",
+     "fix": "करना चाहिए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "करनी चाहिए",
+      "new": "करना चाहिए",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "indriya-jayaḥ",
+     "problem": "Glossary (1.7): इन्द्रिय-जय.",
+     "fix": "इन्द्रिय-जय",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन्द्रिय-विजय",
+      "new": "इन्द्रिय-जय",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "indriya-jayaḥ",
+     "problem": "Glossary (1.7): इन्द्रिय-जय.",
+     "fix": "इन्द्रिय-जय",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन्द्रिय-विजय",
+      "new": "इन्द्रिय-जय",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "avaśya-indriyaḥ",
+     "problem": "Align with glossary (1.7) vaśya-indriya = with controlled senses, 7.9 vaśya/avaśya = controlled/uncontrolled.",
+     "fix": "with uncontrolled senses",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "whose senses are not under control",
+      "new": "with uncontrolled senses",
+      "n": "4"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "avaśya-indriyaḥ",
+     "problem": "Same alignment.",
+     "fix": "with uncontrolled senses",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "avaśya-indriyaḥ",
+      "field": "gloss",
+      "value": "with uncontrolled senses",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sa-bandhu-rāṣṭraḥ",
+     "problem": "Glossary fixes rāṣṭra = country (12.1, 5.3); 'kingdom' is rājya (unit 8). Hindi राष्ट्र is right.",
+     "fix": "his relatives and country",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "his relatives and kingdom",
+      "new": "his relatives and country",
+      "n": "5"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Follows the one-word handling and the glossary rendering.",
+     "fix": "sa-bandhu-rāṣṭra is one bahuvrīhi word 'with relatives and country' (rāṣṭra = country, glossary); the sa is a prefix joined by '-' in the e-text and is not a separate word.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "sa-bandhu-rāṣṭra is a bahuvrīhi 'with relatives and kingdom'; the sa is a prefix joined by '-' in the e-text and is given its own entry.",
+      "new": "sa-bandhu-rāṣṭra is one bahuvrīhi word 'with relatives and country' (rāṣṭra = country, glossary); the sa is a prefix joined by '-' in the e-text and is not a separate word.",
+      "n": "5"
+     }
+    },
+    {
+     "field": "split",
+     "where": "sa / bandhu-rāṣṭraḥ",
+     "problem": "HAND EDIT: 'sa-bandhu.rāṣṭro' is one bahuvrīhi word, as sa-brahma.cāriṇi in 1.3, sa-aśīti 1.1; merge the two entries into one: w 'sa-bandhu-rāṣṭraḥ', gloss 'with relatives and country', gram 'bahuvrīhi, m. nom. sg.'",
+     "fix": "one word entry",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "aprayacchan",
+     "problem": "'up' is not in a-pra-√yam; it adds a sense (surrender).",
+     "fix": "not giving others' wives",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "not giving up others' wives",
+      "new": "not giving others' wives",
+      "n": "8"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Follows the fix above.",
+     "fix": "rendered 'not giving'",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "rendered 'not giving up'",
+      "new": "rendered 'not giving'",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "atyāsādayan",
+     "problem": "ati- is dropped (cf. atyāhārayamāṇaḥ where it is kept as 'excess'); also the second object takes को where the first takes पर.",
+     "fix": "हर्ष से अगस्त्य पर अत्यधिक आक्रमण करने वाला वातापि, और वृष्णि-संघ द्वैपायन पर",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "हर्ष से अगस्त्य पर आक्रमण करने वाला वातापि, और वृष्णि-संघ द्वैपायन को",
+      "new": "हर्ष से अगस्त्य पर अत्यधिक आक्रमण करने वाला वातापि, और वृष्णि-संघ द्वैपायन पर",
+      "n": "10"
+     }
+    },
+    {
+     "field": "english",
+     "where": "atyāsādayan",
+     "problem": "Prefix ati- not rendered.",
+     "fix": "excessively assailing Agastya, and the Vrishni saṅgha [excessively assailing] Dvaipayana",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "assailing Agastya, and the Vrishni saṅgha [assailing] Dvaipayana",
+      "new": "excessively assailing Agastya, and the Vrishni saṅgha [excessively assailing] Dvaipayana",
+      "n": "10"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "atyāsādayan",
+     "problem": "Prefix ati- not rendered; sense low confidence.",
+     "fix": "excessively assailing (literally 'causing to approach too far')",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "atyāsādayan",
+      "field": "gloss",
+      "value": "excessively assailing (literally 'causing to approach too far')",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sa-bandhu-rāṣṭrāḥ",
+     "problem": "rāṣṭra = country per glossary.",
+     "fix": "relatives and countries",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "relatives and kingdoms",
+      "new": "relatives and countries",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "śatru-ṣaḍ-vargam",
+     "problem": "Glossary (1.7) ari-ṣaḍ-varga = the group of six enemies (छह शत्रुओं का वर्ग); keep the same rendering.",
+     "fix": "the group of six enemies",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the sixfold group of enemies",
+      "new": "the group of six enemies",
+      "n": "11"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "śatru-ṣaḍ-vargam",
+     "problem": "Same, and 'शत्रुओं के छह-वर्ग' is ambiguous.",
+     "fix": "छह शत्रुओं के वर्ग का आश्रय",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रुओं के छह-वर्ग का आश्रय",
+      "new": "छह शत्रुओं के वर्ग का आश्रय",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śatru-ṣaḍ-vargam",
+     "problem": "Same.",
+     "fix": "the group of six enemies",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śatru-ṣaḍ-vargam",
+      "field": "gloss",
+      "value": "the group of six enemies",
+      "n": "11"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Same.",
+     "fix": "The group of six enemies (śatru-ṣaḍ-varga)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The sixfold group of enemies (śatru-ṣaḍ-varga)",
+      "new": "The group of six enemies (śatru-ṣaḍ-varga)",
+      "n": "11"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "One-word handling.",
+     "fix": "sa-bandhu-rāṣṭrāḥ is one bahuvrīhi word (sa = with, rāṣṭra = country); the e-text joins sa with '-'.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The sa of sa-bandhu-rāṣṭrāḥ is a prefix of a bahuvrīhi; the e-text joins it with '-'.",
+      "new": "sa-bandhu-rāṣṭrāḥ is one bahuvrīhi word (sa = with, rāṣṭra = country); the e-text joins sa with '-'.",
+      "n": "11"
+     }
+    },
+    {
+     "field": "split",
+     "where": "sa / bandhu-rāṣṭrāḥ",
+     "problem": "HAND EDIT: merge into one word: w 'sa-bandhu-rāṣṭrāḥ', gloss 'with relatives and countries', gram 'bahuvrīhi, m. nom. pl.'",
+     "fix": "one word entry",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "śatru-ṣaḍ-vargam",
+     "problem": "Glossary (1.7).",
+     "fix": "the group of six enemies",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the sixfold group of enemies",
+      "new": "the group of six enemies",
+      "n": "12"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "śatru-ṣaḍ-vargam",
+     "problem": "Glossary (1.7).",
+     "fix": "छह शत्रुओं के वर्ग को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शत्रुओं के छह-वर्ग को",
+      "new": "छह शत्रुओं के वर्ग को",
+      "n": "12"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śatru-ṣaḍ-vargam",
+     "problem": "Glossary (1.7).",
+     "fix": "the group of six enemies",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "śatru-ṣaḍ-vargam",
+      "field": "gloss",
+      "value": "the group of six enemies",
+      "n": "12"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Draft is sound on grammar, splits and the single text_flag (unit 4 tad viruddha.vṛttir stray space, correct). Errors: rāṣṭra rendered 'kingdom' (glossary: country); 'not giving up' adds a sense; atyāsādayan drops ati-. Minor: align with concurrent (1.7) lines (indriya-jaya = इन्द्रिय-जय, group of six enemies, uncontrolled senses); sa-bandhu-rāṣṭra should be one word entry (hand edit, units 5 and 11). Other drafter doubts accepted: avipratipatti 'non-deviation' and vā as alternative definition (medium), abhimanyamānaḥ 'aim at' per 7.16, atyāhārayamāṇaḥ literal, unit 10 closing bare iti not rendered, English brackets for ellipsis in units 6, 8, 10. Counts: 25 issues (6 error, 19 minor), 23 with patches; no regrouping."
+}
