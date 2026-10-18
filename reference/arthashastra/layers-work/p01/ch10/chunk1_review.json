@@ -1,0 +1,568 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english 'by tests'",
+     "problem": "upadhā policy: kept untranslated in English as in Hindi (glossary 13.4).",
+     "fix": "clear [them] by upadhās.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "clear [them] by tests.",
+      "new": "clear [them] by upadhās.",
+      "n": "1"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note states the old English-'test' policy.",
+     "fix": "English and Hindi both keep upadhā (उपधा); 'test' only in the gloss.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "English 'test', Hindi उपधा kept.",
+      "new": "English and Hindi both keep upadhā (उपधा); 'test' only in the gloss.",
+      "n": "1"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'offices'",
+     "problem": "adhikaraṇa = department as in (1.1) sarva-adhikaraṇa-rakṣaṇa; Hindi keeps अधिकरण.",
+     "fix": "in common departments",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in common offices",
+      "new": "in common departments",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss 'in offices'",
+     "problem": "align with (1.1) department.",
+     "fix": "in departments",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "adhikaraṇeṣu",
+      "field": "gloss",
+      "value": "in departments",
+      "n": "1"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "align note with gloss.",
+     "fix": "adhikaraṇa = department (kept as adhikaraṇa in Hindi), as (1.1).",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "adhikaraṇa = office (kept as adhikaraṇa in Hindi).",
+      "new": "adhikaraṇa = department (kept as adhikaraṇa in Hindi), as (1.1).",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "'असहन करते हुए'",
+     "problem": "Ungrammatical Hindi for a-mṛṣyamāṇa 'not tolerating'; use the negated participle.",
+     "fix": "सहन न करते हुए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "असहन करते हुए",
+      "new": "सहन न करते हुए",
+      "n": "2"
+     }
+    },
+    {
+     "field": "english",
+     "where": "ayājya-yājana-adhyāpane",
+     "problem": "English attaches 'ayājya' only to the officiating, Hindi (अयाज्य के याजन और अध्यापन) can attach it to both; the compound is ambiguous (ayājya-yājana + adhyāpana, or ayājya + yājana-adhyāpana). The note's reason ('no ca inside the compound') does not choose between the readings. Needs a human: either keep as is or word both languages the same way.",
+     "fix": "(hand decision; no patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "'उसके कुल के'",
+     "problem": "tat-kulīna = तत्कुलीन (glossary 12.3); the noun-less 'उसके कुल के' leaves a dangling adjective before 'निकाले गए राजकुमार'.",
+     "fix": "तत्कुलीन",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके कुल के",
+      "new": "तत्कुलीन",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "colon",
+     "problem": "Sanskrit has the dash '-', Hindi renders it; the colon is an English addition.",
+     "fix": "each single minister — “This",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "each single minister: “This",
+      "new": "each single minister — “This",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'test of'",
+     "problem": "upadhā policy: kept untranslated in English as in Hindi (glossary 13.4).",
+     "fix": "the upadhā of dharma",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the test of dharma",
+      "new": "the upadhā of dharma",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "colon",
+     "problem": "Sanskrit has only a comma before the quotation, no dash or colon.",
+     "fix": "destruction, “This",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "destruction: “This",
+      "new": "destruction, “This",
+      "n": "5"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "dash",
+     "problem": "Sanskrit has only a comma before the quotation.",
+     "fix": "उकसाए, “सभी",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उकसाए — “सभी",
+      "new": "उकसाए, “सभी",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'test of'",
+     "problem": "upadhā policy: kept untranslated in English as in Hindi (glossary 13.4).",
+     "fix": "the upadhā of wealth",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the test of wealth",
+      "new": "the upadhā of wealth",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "'सत्कार की हुई'",
+     "problem": "kṛta-satkārā is passive ('honour done to her'); 'सत्कार की हुई' reads as 'she who did honour'. English already says 'who has had honour done'.",
+     "fix": "सत्कार की गई",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सत्कार की हुई",
+      "new": "सत्कार की गई",
+      "n": "7"
+     }
+    },
+    {
+     "field": "english",
+     "where": "colon",
+     "problem": "Sanskrit has the dash '-'; Hindi renders it.",
+     "fix": "high official — “The",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "high official: “The",
+      "new": "high official — “The",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'test of'",
+     "problem": "upadhā policy: kept untranslated in English as in Hindi (glossary 13.4).",
+     "fix": "the upadhā of desire",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the test of desire",
+      "new": "the upadhā of desire",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'confine'",
+     "problem": "English 'confine' and Hindi 'रोक रखे' disagree; align with glossary 5.6/9.2 (avagṛhṇīyāt = should restrain, रोक ले). 'confine' stays an alternative in notes.",
+     "fix": "should restrain them",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should confine them",
+      "new": "should restrain them",
+      "n": "10"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss 'should confine'",
+     "problem": "align with English/Hindi.",
+     "fix": "should restrain",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "avarundhyāt",
+      "field": "gloss",
+      "value": "should restrain",
+      "n": "10"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "align note.",
+     "fix": "'confine' (the usual sense) is not applied; English 'restrain' and Hindi 'रोक रखे' agree, as 9.2.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'confine' is the usual sense; Hindi keeps the literal 'रोक रखे'.",
+      "new": "'confine' (the usual sense) is not applied; English 'restrain' and Hindi 'रोक रखे' agree, as 9.2.",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'previously confined'",
+     "problem": "align with unit 10 (avarundhyāt = restrain).",
+     "fix": "previously restrained,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "previously confined,",
+      "new": "previously restrained,",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "align with unit 10.",
+     "fix": "previously restrained",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pūrva-avaruddhaḥ",
+      "field": "gloss",
+      "value": "previously restrained",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "colon",
+     "problem": "Sanskrit has the dash '-'; Hindi renders it.",
+     "fix": "honour — “This king",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "honour: “This king",
+      "new": "honour — “This king",
+      "n": "11"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'बुरी तरह'",
+     "problem": "'बुरी तरह' reads as an intensifier ('severely'); asat is simply 'badly'.",
+     "fix": "बुरे ढंग से प्रवृत्त",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बुरी तरह प्रवृत्त",
+      "new": "बुरे ढंग से प्रवृत्त",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'test of'",
+     "problem": "upadhā policy: kept untranslated in English as in Hindi (glossary 13.4).",
+     "fix": "the upadhā of fear",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the test of fear",
+      "new": "the upadhā of fear",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole English",
+     "problem": "(a) upadhā policy; (b) nicaya must stay a term in English as in Hindi (निचय), 'accumulation' only in the gloss; (c) rakṣāsu is plural, English text said 'protection' while the gloss says 'protections'.",
+     "fix": "There [he] should place [those] cleared by the upadhā of dharma in the works of the dharmasthīya (relating to the dharmasthas) and the cleansing of thorns; [those] cleared by the upadhā of wealth, in the works of the Collector, the Treasurer and nicaya; [those] cleared by the upadhā of desire, in the protections of the outer and inner amusements; [those] cleared by the upadhā of fear, in the king's near tasks.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "There [he] should place [those] cleared by the upadhā of dharma in the works of the dharmasthīya (relating to the dharmasthas) and the cleansing of thorns; [those] cleared by the upadhā of wealth, in the works of the Collector, the Treasurer and nicaya; [those] cleared by the upadhā of desire, in the protections of the outer and inner amusements; [those] cleared by the upadhā of fear, in the king's near tasks.",
+      "n": "13"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "nicaya kept as a term.",
+     "fix": "in the works of the Collector, the Treasurer and nicaya (literally 'accumulation')",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "samāhartṛ-saṃnidhātṛ-nicaya-karmasu",
+      "field": "gloss",
+      "value": "in the works of the Collector, the Treasurer and nicaya (literally 'accumulation')",
+      "n": "13"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "record the term decision",
+     "fix": "nicaya is kept as a term in English and Hindi (निचय); 'accumulation' only in the gloss and notes. text_flags entry checked: the printed 'kāma.upadhā śuddhān' (stray space for a compound dot) is a real slip, the suggestion is right.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "nicaya is kept as a term in English and Hindi (निचय); 'accumulation' only in the gloss and notes. text_flags entry checked: the printed 'kāma.upadhā śuddhān' (stray space for a compound dot) is a real slip, the suggestion is right.",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'tests'",
+     "problem": "upadhā policy.",
+     "fix": "all the upadhās",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "all the tests",
+      "new": "all the upadhās",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole English",
+     "problem": "iti is not a bare closing particle here: 'adhikuryād yathā śaucam iti ācāryāḥ vyavasthitāḥ' is the 'X iti ācāryāḥ' pattern (glossary 1.2, 3.5, 1.4): the statement of both lines is the teachers' view and the quotation marks carry the iti, no 'thus'.",
+     "fix": "“Ministers thoroughly cleared by the triad and fear, [he] should put in charge in their own works according to purity,” the teachers [are] settled.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "“Ministers thoroughly cleared by the triad and fear, [he] should put in charge in their own works according to purity,” the teachers [are] settled.",
+      "n": "16"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "whole Hindi",
+     "problem": "same: put the teachers' statement in quotation marks (iti carried by the marks), then 'आचार्य निश्चित' with no copula.",
+     "fix": "“त्रिवर्ग और भय से भली-भाँति शुद्ध हुए अमात्यों को अपने कर्मों में शुचिता के अनुसार अधिकृत करे,” आचार्य निश्चित।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "“त्रिवर्ग और भय से भली-भाँति शुद्ध हुए अमात्यों को अपने कर्मों में शुचिता के अनुसार अधिकृत करे,” आचार्य निश्चित।",
+      "n": "16"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "note states the old treatment.",
+     "fix": "'iti' closes the whole verse as the content of the teachers' settled view ('X iti ācāryāḥ', glossary 1.2): carried by the quotation marks in both languages, no 'thus';",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "'iti' closes the statement with no opening quotation and is not rendered;",
+      "new": "'iti' closes the whole verse as the content of the teachers' settled view ('X iti ācāryāḥ', glossary 1.2): carried by the quotation marks in both languages, no 'thus';",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'by the tests'",
+     "problem": "upadhā policy.",
+     "fix": "by the upadhās,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by the tests,",
+      "new": "by the upadhās,",
+      "n": "19"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "irregular agreement not noted",
+     "fix": "caturvidhā is nominative singular feminine, so it agrees with buddhiḥ; agreement with upadhābhiḥ would be caturvidhābhiḥ. The sense 'made stained by the four kinds of upadhā' is likely but the grammar is irregular. Text flag checked: 'kaluṣā.buddhir' is a real stray dot (kaluṣā is a feminine form, a compound would be kaluṣa-buddhi), suggestion 'kaluṣā buddhir' is right.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "caturvidhā is nominative singular feminine, so it agrees with buddhiḥ; agreement with upadhābhiḥ would be caturvidhābhiḥ. The sense 'made stained by the four kinds of upadhā' is likely but the grammar is irregular. Text flag checked: 'kaluṣā.buddhir' is a real stray dot (kaluṣā is a feminine form, a compound would be kaluṣa-buddhi), suggestion 'kaluṣā buddhir' is right.",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 1 (1.10.1-20): the draft is careful; text_flags for units 13 and 19 are real and correct. Fixes: upadhā policy aligned (untranslated in both languages, as 13.4); nicaya kept as a term (unit 13); unit 16 'X iti ācāryāḥ' quoted; Hindi errors in units 2, 7, 11; adhikaraṇa = department; avarundhyāt = restrain in both languages; dash/colon before quotations aligned with the Sanskrit. Hand decisions: unit 2 ayājya scope. No regrouping suggested."
+}
