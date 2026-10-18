@@ -1,0 +1,191 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "\"You and I have a fort built.\" Such is the treaty of works.",
+  "new": "\"Both you and I have a fort built.\" Such is the treaty of works.",
+  "why": "reviewer (minor): ca ... ca is 'both ... and' in English (glossary 7.5)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "उन दोनों में से जो दैव द्वारा किया हुआ, असह्य, जिसके आरम्भ में थोड़ा व्यय है ऐसा दुर्ग बनवाता है, वह छल लेता है।",
+  "new": "उन दोनों में से जो दैव द्वारा किया हुआ, असह्य, थोड़े व्यय के आरम्भ वाला दुर्ग बनवाता है, वह छल लेता है।",
+  "why": "reviewer (minor): Locative 'आरम्भ में' (at the start) is not in the Sanskrit; ārambha is the undertaking (notes/English). Added ऐसा/है removed."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "setu-bandhayoḥ",
+  "old": "dvandva-compound item; n. gen./loc. du.",
+  "new": "dvandva-compound item; m. gen./loc. du.",
+  "why": "reviewer (minor): setu and bandha are masculine and the unit agrees with m. śreyān, saha-udakaḥ; 'n.' is wrong."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "āhārya-udakāt",
+  "old": "bahuvrīhi; n. abl. sg.",
+  "new": "bahuvrīhi; m. abl. sg.",
+  "why": "reviewer (minor): Compared with m. saha-udakaḥ, so m., not n."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "दो द्रव्य-वनों में भी जो देश के अन्त में, बड़े सारवान् द्रव्य के जंगलों वाले, नदी-मातृक द्रव्य-वन को कटवाता है, वह छल लेता है।",
+  "new": "दो द्रव्य-वनों में भी जो देश के अन्त में, बड़े बहुमूल्य द्रव्य के जंगलों वाले, नदी-मातृक द्रव्य-वन को कटवाता है, वह छल लेता है।",
+  "why": "reviewer (minor): sāra = valuables, Hindi बहुमूल्य (glossary 7.12/unit 22 'अधिक बहुमूल्य'); 'सारवान्' is an unrendered Sanskrit word."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "वहाँ भी — “बहुत भोथरे और थोड़े शूर वाले दोनों में थोड़े शूर वाला बेहतर, क्योंकि युद्ध शूरों में है; थोड़े शूर बहुत-से अशूरों को तोड़ते हैं; वे टूटे हुए अपनी सेना को मारने वाले बन जाते हैं,” ऐसा आचार्य कहते हैं।",
+  "new": "वहाँ भी — “बहुत भोथरे और थोड़े शूर वाले दोनों में थोड़े शूर वाला बेहतर, क्योंकि युद्ध शूरों में है; थोड़े शूर बहुत-से अशूरों को तोड़ते हैं; वे टूटे हुए अपनी सेना पर प्रहार करने वाले बन जाते हैं,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): 'मारने' is 'killing'; avaghātin is 'striking down' (English 'strikers-down'); glossary 3.19 keeps √han/ghāta as strike (प्रहार), not kill."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "“बहुत भोथरे बेहतरं; टुकड़ी में लगाए जाने से अनेक कर्म करते हुए, युद्ध में अपनों के आश्रय, और दूसरों के लिए दुर्धर्ष और भयंकर।",
+  "new": "“बहुत भोथरे बेहतर; टुकड़ी में लगाए जाने से अनेक कर्म करते हुए, युद्ध में अपनों के आश्रय, और दूसरों के लिए दुर्धर्ष और भयंकर।",
+  "why": "reviewer (error): Typo in the Hindi (stray anusvāra)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "“बहुत भोथरे बेहतर; टुकड़ी में लगाए जाने से अनेक कर्म करते हुए, युद्ध में अपनों के आश्रय, और दूसरों के लिए दुर्धर्ष और भयंकर।",
+  "new": "“बहुत भोथरे बेहतर; टुकड़ी में लगाए जाने से अनेक कर्म करते हुए, युद्ध में अपनों के आश्रय, दूसरों के लिए दुर्धर्ष और भयंकर।",
+  "why": "reviewer (error): The text has a single ca (after vibhīṣaṇāḥ, joining the last two predicates); the first 'और' is unmarked."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "“बहुत भोथरे बेहतर; टुकड़ी में लगाए जाने से अनेक कर्म करते हुए, युद्ध में अपनों के आश्रय, दूसरों के लिए दुर्धर्ष और भयंकर।",
+  "new": "“बहुत भोथरे बेहतर; टुकड़ी में लगाए जाने से अनेक कर्म करते हुए, युद्ध में अपनों के आश्रय, दूसरों के लिए दुर्धर्ष और डरावने।",
+  "why": "reviewer (minor): vibhīṣaṇa = frightening; भयंकर = terrible (glossary 5.4 uses it for ghora)."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "\"The blunt [ones], the many, [are] better: doing action of many kinds through assignment to the contingent, [they are] a refuge to their own in battle, and hard to overcome and frightening to the others.",
+  "new": "\"The blunt [ones], the many, [are] better: doing action of many kinds through assignment to the contingent, [they are] a refuge to their own in battle, hard to overcome and frightening to the others.",
+  "why": "reviewer (error): Only one ca in the Sanskrit; the first 'and' is unmarked (the ca is the 'and' before 'frightening')."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "\"The blunt [ones], the many, [are] better: doing action of many kinds through assignment to the contingent, [they are] a refuge to their own in battle, hard to overcome and frightening to the others.",
+  "new": "\"The blunt [ones], the many, [are] better: doing many actions through assignment to the contingent, [they are] a refuge to their own in battle, hard to overcome and frightening to the others.",
+  "why": "reviewer (minor): aneka is 'many'; 'of many kinds' is an addition."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "anekam",
+  "old": "of many kinds",
+  "new": "many",
+  "why": "reviewer (minor): 'of many kinds' adds 'kinds'."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "For among many blunt [ones], valour can be put in by discipline-action; but certainly not numerousness among few brave [ones].\"",
+  "new": "For among many blunt [ones], valour can be put in by discipline-action; but indeed not numerousness among few brave [ones].\"",
+  "why": "reviewer (minor): Glossary 3.14: eva is rendered 'indeed' (ही)."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "दो खानों में भी जो प्रचुर बहुमूल्य वस्तुओं वाली, जिसके मार्ग दुर्गम नहीं हैं ऐसी, जिसके आरम्भ में थोड़ा व्यय है ऐसी खान खुदवाता है, वह छल लेता है।",
+  "new": "दो खानों में भी जो प्रचुर बहुमूल्य वस्तुओं वाली, अदुर्गम मार्गों वाली, थोड़े व्यय के आरम्भ वाली खान खुदवाता है, वह छल लेता है।",
+  "why": "reviewer (minor): Added ऐसी/हैं and locative 'आरम्भ में' (not in the Sanskrit); bahuvrīhis rendered with 'वाली' as elsewhere."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "वहाँ भी — बड़ी बहुमूल्य वस्तुओं वाला थोड़ा, अथवा थोड़ी बहुमूल्य वस्तुओं वाला प्रचुर — “बड़ी बहुमूल्य वस्तुओं वाला थोड़ा बेहतर; क्योंकि वज्र, मणि, मोती, मूँगा, सोना, चाँदी का धातु प्रचुर, थोड़ी बहुमूल्य वस्तुओं वाले को अति ऊँचे मूल्य से निगल लेता है,” ऐसा आचार्य कहते हैं।",
+  "new": "वहाँ भी — बड़ी बहुमूल्य वस्तुओं वाला थोड़ा, अथवा थोड़ी बहुमूल्य वस्तुओं वाला प्रचुर — “बड़ी बहुमूल्य वस्तुओं वाला थोड़ा बेहतर; क्योंकि वज्र, मणि, मोती, मूँगा, सोना, चाँदी की धातु थोड़ी बहुमूल्य वस्तुओं वाले प्रचुर को अति ऊँचे मूल्य से निगल लेता है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (error): धातु is feminine in Hindi (का/लेता wrong), and the comma after प्रचुर makes it read as if the mineral were abundant; prabhūtam is the object."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "वहाँ भी — बड़ी बहुमूल्य वस्तुओं वाला थोड़ा, अथवा थोड़ी बहुमूल्य वस्तुओं वाला प्रचुर — “बड़ी बहुमूल्य वस्तुओं वाला थोड़ा बेहतर; क्योंकि वज्र, मणि, मोती, मूँगा, सोना, चाँदी की धातु थोड़ी बहुमूल्य वस्तुओं वाले प्रचुर को अति ऊँचे मूल्य से निगल लेता है,” ऐसा आचार्य कहते हैं।",
+  "new": "वहाँ भी — बड़ी बहुमूल्य वस्तुओं वाला थोड़ा, अथवा थोड़ी बहुमूल्य वस्तुओं वाला प्रचुर — “बड़ी बहुमूल्य वस्तुओं वाला थोड़ा बेहतर; क्योंकि वज्र, मणि, मोती, मूँगा, सोना, चाँदी की धातु थोड़ी बहुमूल्य वस्तुओं वाले प्रचुर को अति ऊँचे मूल्य से निगल लेती है,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (error): Agreement with feminine धातु."
+ },
+ {
+  "n": "20",
+  "field": "word.gram",
+  "word": "prakṛṣṭa-bhaya-yoniḥ",
+  "old": "bahuvrīhi; m. nom. sg.",
+  "new": "tat-puruṣa; m. nom. sg.",
+  "why": "reviewer (minor): Gloss 'source of great fear' is a tat-puruṣa (yoni = source); 'bahuvrīhi' does not match the gloss."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "In the land route too — \"The Himalayan [route is] better than the southern route; [its] wares of elephants, horses, scents, tusks, hides, silver [and] gold [are] more valuable,\" say the teachers.",
+  "new": "In the land route too — \"The Himalayan [route is] better than the southern route; [its] wares of elephants, horses, scents, tusks, hides, silver and gold [are] more valuable,\" say the teachers.",
+  "why": "reviewer (minor): Dvandva members take unbracketed English 'and' (glossary 7.17); the bracket marks a supplied word."
+ },
+ {
+  "n": "22",
+  "field": "word.w",
+  "word": "sāravat-tarāḥ",
+  "old": "sāravat-tarāḥ",
+  "new": "sāravattarāḥ",
+  "why": "reviewer (minor): -tara is a comparative suffix, not a compound member (glossary 7.8); one word, no hyphen."
+ },
+ {
+  "n": "24",
+  "field": "word.w",
+  "word": "prabhūta-tarāḥ",
+  "old": "prabhūta-tarāḥ",
+  "new": "prabhūtatarāḥ",
+  "why": "reviewer (minor): -tara is a suffix (glossary 7.8); one word, no hyphen."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "आय और व्यय की समानता स्थान है, कर्मों में अपने का जानने योग्य।",
+  "new": "आय और व्यय की समानता स्थान है, स्वयं का, कर्मों में जानने योग्य।",
+  "why": "reviewer (minor): 'अपने का' is not Hindi; ātman = self (स्वयं) per glossary 15.1/5.6."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "“इसलिए जिसके आरम्भ में थोड़ा व्यय है, जिसका महान् उदय है, दुर्ग आदि में —",
+  "new": "“इसलिए थोड़े व्यय के आरम्भ वाले, महान् उदय वाले, दुर्ग आदि में —",
+  "why": "reviewer (minor): Locative 'आरम्भ में' and added है/जिसका are not in the Sanskrit; bahuvrīhis as in units 2 and 13."
+ },
+ {
+  "n": "33",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): Opening of the quotation at 'tasmāt' (and the adjectives belonging inside or outside it) is not certain; 'high' is too firm."
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "कर्म पाकर श्रेष्ठ हो जाए,” ऐसी कर्म-सन्धियाँ कही गई हैं।",
+  "new": "कर्म पाकर श्रेष्ठ हो जाए,” ये कर्म-सन्धियाँ कही गई हैं।",
+  "why": "reviewer (minor): Closing 'ity uktāḥ X' = 'Such are the X stated' / 'ये ... हैं' (glossary 7.3, 7.8)."
+ },
+ {
+  "n": "34",
+  "field": "word.gram",
+  "word": "uktāḥ",
+  "old": "pp. √vac; f./m. nom. pl.",
+  "new": "pp. √vac; m. nom. pl.",
+  "why": "reviewer (minor): Agrees with masculine karma-sandhayaḥ; 'f./m.' is wrong."
+ },
+ {
+  "n": "34",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): Quotation extent (from unit 33) and the Hindi/English of the closing formula are not certain."
+ }
+]
