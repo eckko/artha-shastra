@@ -1,0 +1,1483 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yātavyo",
+      "words": [
+       {
+        "w": "yātavyaḥ",
+        "gloss": "the one to be marched against",
+        "gram": "m. nom. sg. gerundive √yā"
+       }
+      ]
+     },
+     {
+      "src": "'bhiyāsyamānaḥ",
+      "words": [
+       {
+        "w": "abhiyāsyamānaḥ",
+        "gloss": "the one about to be marched upon",
+        "gram": "m. nom. sg. fut. pass. part. abhi-√yā"
+       }
+      ]
+     },
+     {
+      "src": "sandhi.kāraṇam",
+      "words": [
+       {
+        "w": "sandhi-kāraṇam",
+        "gloss": "cause of peace",
+        "gram": "n. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ādātu.kāmo",
+      "words": [
+       {
+        "w": "ādātu-kāmaḥ",
+        "gloss": "wishing to take up",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vihantu.kāmo",
+      "words": [
+       {
+        "w": "vihantu-kāmaḥ",
+        "gloss": "wishing to destroy",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāmavāyikānām",
+      "words": [
+       {
+        "w": "sāmavāyikānām",
+        "gloss": "of the confederates",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anyatamaṃ",
+      "words": [
+       {
+        "w": "anyatamam",
+        "gloss": "any one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābha.dvaiguṇyena",
+      "words": [
+       {
+        "w": "lābha-dvaiguṇyena",
+        "gloss": "with double the gain",
+        "gram": "n. inst. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "paṇeta",
+      "words": [
+       {
+        "w": "paṇeta",
+        "gloss": "should bargain",
+        "gram": "3 sg. opt. mid. √paṇ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस पर चढ़ाई की जानी है, जिस पर चढ़ाई होने वाली है, सन्धि के कारण को ग्रहण करने की इच्छा वाला अथवा नष्ट करने की इच्छा वाला, सामवायिकों में से किसी एक से लाभ की दुगुनी मात्रा पर सौदा करे।",
+  "english": "The one to be marched against [or] the one about to be marched upon, wishing either to take up or to destroy the cause of peace, should bargain with any one of the confederates for double the gain.",
+  "text_flags": [],
+  "notes": "Subject: yātavyaḥ and abhiyāsyamānaḥ stand side by side with no vā; '[or]' is supplied in English only. 'sandhi-kāraṇam ādātu-kāmaḥ' is literal (wishing to take up / to destroy the cause of peace). sāmavāyika = member of a samavāya (association), rendered 'confederate'. paṇeta from √paṇ 'bargain, stake'; sandhi = peace as in Books 8-9.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṇamānaḥ",
+      "words": [
+       {
+        "w": "paṇamānaḥ",
+        "gloss": "bargaining",
+        "gram": "m. nom. sg. pres. part. mid. √paṇ"
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyaya.pravāsa.pratyavāya.para.upakāra.śarīra.ābādhāṃś",
+      "words": [
+       {
+        "w": "kṣaya-vyaya-pravāsa-pratyavāya-para-upakāra-śarīra-ābādhān",
+        "gloss": "losses, expenditures, absences abroad, setbacks, benefits to others, bodily harms",
+        "gram": "m. acc. pl.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca-asya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇayet",
+      "words": [
+       {
+        "w": "varṇayet",
+        "gloss": "should describe",
+        "gram": "3 sg. opt. caus. √vṛ (varṇ)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सौदा करता हुआ इसके क्षय, व्यय, प्रवास, प्रत्यवाय, दूसरों के उपकार और शरीर की बाधाओं का वर्णन करे।",
+  "english": "While bargaining, [he] should describe his losses, expenditures, absences abroad, setbacks, benefits to others and bodily harms.",
+  "text_flags": [],
+  "notes": "ca closes the dvandva list ('...bodily harms and'); asya taken as 'his' (the one bargained with, or the bargainer: ambiguous). pratyavāya = setback (also 'hindrance, sin'); para-upakāra = benefit to others (alt. 'help from others'); ābādhā = harm, affliction.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratipannam",
+      "words": [
+       {
+        "w": "pratipannam",
+        "gloss": "the one who has accepted",
+        "gram": "m. acc. sg. past part. prati-√pad"
+       }
+      ]
+     },
+     {
+      "src": "arthena",
+      "words": [
+       {
+        "w": "arthena",
+        "gloss": "with gain",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yojayet",
+      "words": [
+       {
+        "w": "yojayet",
+        "gloss": "should unite",
+        "gram": "3 sg. opt. caus. √yuj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्वीकार कर लेने वाले को अर्थ से जोड़े।",
+  "english": "[He] should unite the one who has accepted with gain.",
+  "text_flags": [],
+  "notes": "artha rendered 'gain' (9.7 line of the glossary); alternative 'wealth' or 'object'. Object/subject unstated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vairaṃ",
+      "words": [
+       {
+        "w": "vairam",
+        "gloss": "enmity",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parair",
+      "words": [
+       {
+        "w": "paraiḥ",
+        "gloss": "by the others",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "grāhayitvā",
+      "words": [
+       {
+        "w": "grāhayitvā",
+        "gloss": "having caused to be seized",
+        "gram": "abs. caus. √grah"
+       }
+      ]
+     },
+     {
+      "src": "visaṃvādayet",
+      "words": [
+       {
+        "w": "visaṃvādayet",
+        "gloss": "should cause to disagree",
+        "gram": "3 sg. opt. caus. vi-sam-√vad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा दूसरों से वैर पकड़वाकर विसंवाद कराए।",
+  "english": "Or, having caused enmity to be seized by the others, [he] should cause [him] to disagree.",
+  "text_flags": [],
+  "notes": "visaṃvādayet: literal 'cause to disagree / contradict'; alternatives 'make break his word', 'cause to be deceived'. grāhayitvā literal 'having caused to be seized' (glossary 9.6); the sense 'made to adopt' is possible. pare = the others, not 'enemies'.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durārabdha.karmāṇaṃ",
+      "words": [
+       {
+        "w": "durārabdha-karmāṇam",
+        "gloss": "one whose undertaking is badly begun",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhūyaḥ",
+      "words": [
+       {
+        "w": "bhūyaḥ",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyayābhyāṃ",
+      "words": [
+       {
+        "w": "kṣaya-vyayābhyām",
+        "gloss": "with loss and expenditure",
+        "gram": "m. inst. du.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yoktu.kāmaḥ",
+      "words": [
+       {
+        "w": "yoktu-kāmaḥ",
+        "gloss": "wishing to burden",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sv.ārabdhāṃ",
+      "words": [
+       {
+        "w": "su-ārabdhām",
+        "gloss": "well begun",
+        "gram": "f. acc. sg. past part."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yātrā.siddhiṃ",
+      "words": [
+       {
+        "w": "yātrā-siddhim",
+        "gloss": "success of the expedition",
+        "gram": "f. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vighātayitu.kāmo",
+      "words": [
+       {
+        "w": "vighātayitu-kāmaḥ",
+        "gloss": "wishing to thwart",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mūle",
+      "words": [
+       {
+        "w": "mūle",
+        "gloss": "at the base",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātrāyāṃ",
+      "words": [
+       {
+        "w": "yātrāyām",
+        "gloss": "at the expedition",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prahartu.kāmo",
+      "words": [
+       {
+        "w": "prahartu-kāmaḥ",
+        "gloss": "wishing to strike",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yātavya.saṃhitaḥ",
+      "words": [
+       {
+        "w": "yātavya-saṃhitaḥ",
+        "gloss": "allied with the one to be marched against",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "punar",
+      "words": [
+       {
+        "w": "punaḥ",
+        "gloss": "again",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yācitu.kāmaḥ",
+      "words": [
+       {
+        "w": "yācitu-kāmaḥ",
+        "gloss": "wishing to ask",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pratyutpanna.artha.kṛcchras",
+      "words": [
+       {
+        "w": "pratyutpanna-artha-kṛcchraḥ",
+        "gloss": "in difficulty over an immediate object",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tasminn",
+      "words": [
+       {
+        "w": "tasmin",
+        "gloss": "in him",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aviśvasto",
+      "words": [
+       {
+        "w": "aviśvastaḥ",
+        "gloss": "distrustful",
+        "gram": "m. nom. sg. past part. a-vi-√śvas"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadātve",
+      "words": [
+       {
+        "w": "tadātve",
+        "gloss": "in the present",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābham",
+      "words": [
+       {
+        "w": "lābham",
+        "gloss": "gain",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "alpam",
+      "words": [
+       {
+        "w": "alpam",
+        "gloss": "small",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "icchet,",
+      "words": [
+       {
+        "w": "icchet",
+        "gloss": "should desire",
+        "gram": "3 sg. opt. √iṣ"
+       }
+      ]
+     },
+     {
+      "src": "āyatyāṃ",
+      "words": [
+       {
+        "w": "āyatyām",
+        "gloss": "in the future",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prabhūtam",
+      "words": [
+       {
+        "w": "prabhūtam",
+        "gloss": "great",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसका कर्म बुरी तरह आरम्भ हुआ है उसे क्षय और व्यय से अधिक जोड़ने की इच्छा वाला, अथवा भली-भाँति आरम्भ की हुई यात्रा की सिद्धि को नष्ट करने की इच्छा वाला, मूल पर अथवा यात्रा पर प्रहार करने की इच्छा वाला, यातव्य से मिला हुआ, फिर माँगने की इच्छा वाला, वर्तमान अर्थ में कठिनाई वाला, अथवा उसमें अविश्वास करने वाला, वर्तमान में थोड़ा लाभ चाहे, भविष्य में बहुत।",
+  "english": "[One] wishing to burden further, with loss and expenditure, one whose undertaking is badly begun, or wishing to thwart the success of a well begun expedition, wishing to strike at the base or at the expedition, allied with the one to be marched against, wishing to ask again, in difficulty over an immediate object, or distrustful of him, should desire a small gain in the present, a great one in the future.",
+  "text_flags": [],
+  "notes": "One long list of nominative adjectives with no finite verb until icchet; the commas are the translator's. 'sv.ārabdhāṃ' read su-ārabdhām (su+ā > svā, in contrast with dur-ārabdha at the start); alternative sva-ārabdhām 'begun by himself'. Whose expedition is meant (the other's) is not stated. bhūyaḥ 'further/more'. artha in pratyutpanna-artha-kṛcchra taken as 'object' (alt. 'need', 'wealth'). yoktu-kāmaḥ with instrumental: wishing to burden/join with loss and expenditure.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitra.upakāram",
+      "words": [
+       {
+        "w": "mitra-upakāram",
+        "gloss": "benefit to an ally",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "amitra.upaghātam",
+      "words": [
+       {
+        "w": "amitra-upaghātam",
+        "gloss": "injury to an enemy",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "artha.anubandham",
+      "words": [
+       {
+        "w": "artha-anubandham",
+        "gloss": "sequel of gain",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "avekṣamāṇaḥ",
+      "words": [
+       {
+        "w": "avekṣamāṇaḥ",
+        "gloss": "looking to",
+        "gram": "m. nom. sg. pres. part. ava-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "pūrva.upakārakaṃ",
+      "words": [
+       {
+        "w": "pūrva-upakārakam",
+        "gloss": "earlier benefactor",
+        "gram": "m. acc. sg.; karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "kārayitu.kāmo",
+      "words": [
+       {
+        "w": "kārayitu-kāmaḥ",
+        "gloss": "wishing to cause to act",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhūyas",
+      "words": [
+       {
+        "w": "bhūyaḥ",
+        "gloss": "further",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadātve",
+      "words": [
+       {
+        "w": "tadātve",
+        "gloss": "in the present",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahāntaṃ",
+      "words": [
+       {
+        "w": "mahāntam",
+        "gloss": "great",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābham",
+      "words": [
+       {
+        "w": "lābham",
+        "gloss": "gain",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "utsṛjya-āyatyām",
+      "words": [
+       {
+        "w": "utsṛjya",
+        "gloss": "having given up",
+        "gram": "abs. ud-√sṛj"
+       },
+       {
+        "w": "āyatyām",
+        "gloss": "in the future",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "alpam",
+      "words": [
+       {
+        "w": "alpam",
+        "gloss": "small",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "icchet",
+      "words": [
+       {
+        "w": "icchet",
+        "gloss": "should desire",
+        "gram": "3 sg. opt. √iṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मित्र के उपकार, शत्रु के उपघात, अर्थ के अनुबन्ध को देखता हुआ, पहले उपकार करने वाले को फिर कराने की इच्छा वाला, वर्तमान में बड़ा लाभ छोड़कर भविष्य में थोड़ा चाहे।",
+  "english": "Looking to the benefit to an ally, the injury to an enemy, [and] the sequel of gain, wishing to cause the earlier benefactor [to act] further, [one] should, having given up a great gain in the present, desire a small one in the future.",
+  "text_flags": [],
+  "notes": "kārayitu-kāmaḥ has no stated object of the action (what the benefactor is to do is not said); bhūyaḥ taken as 'further'. artha-anubandha: anubandha = sequel (9.7). The three accusatives are a list with no ca; '[and]' in English only.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūṣya.amitrābhyāṃ",
+      "words": [
+       {
+        "w": "dūṣya-amitrābhyām",
+        "gloss": "by the treasonable and the enemy",
+        "gram": "m. inst. du.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "mūla.hareṇa",
+      "words": [
+       {
+        "w": "mūla-hareṇa",
+        "gloss": "by a base-seizer",
+        "gram": "m. inst. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jyāyasā",
+      "words": [
+       {
+        "w": "jyāyasā",
+        "gloss": "by a stronger one",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhītaṃ",
+      "words": [
+       {
+        "w": "vigṛhītam",
+        "gloss": "one attacked",
+        "gram": "m. acc. sg. past part. vi-√grah"
+       }
+      ]
+     },
+     {
+      "src": "trātu.kāmas",
+      "words": [
+       {
+        "w": "trātu-kāmaḥ",
+        "gloss": "wishing to protect",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tathā.vidham",
+      "words": [
+       {
+        "w": "tathā-vidham",
+        "gloss": "of such a kind",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "upakāraṃ",
+      "words": [
+       {
+        "w": "upakāram",
+        "gloss": "benefit",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārayitu.kāmaḥ",
+      "words": [
+       {
+        "w": "kārayitu-kāmaḥ",
+        "gloss": "wishing to have done",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sambandha.avekṣī",
+      "words": [
+       {
+        "w": "sambandha-avekṣī",
+        "gloss": "looking to the relationship",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadātve",
+      "words": [
+       {
+        "w": "tadātve",
+        "gloss": "in the present",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-āyatyāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āyatyām",
+        "gloss": "in the future",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lābhaṃ",
+      "words": [
+       {
+        "w": "lābham",
+        "gloss": "gain",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratigṛhṇīyāt",
+      "words": [
+       {
+        "w": "pratigṛhṇīyāt",
+        "gloss": "should accept",
+        "gram": "3 sg. opt. prati-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूष्य और शत्रु से, मूल का हरण करने वाले से अथवा अधिक बलवान से आक्रान्त की रक्षा करने की इच्छा वाला, वैसा उपकार कराने की इच्छा वाला, अथवा सम्बन्ध को देखने वाला, वर्तमान में और भविष्य में लाभ स्वीकार न करे।",
+  "english": "Wishing to protect one attacked by the treasonable and the enemy, by a base-seizer or by a stronger one, wishing to have such a benefit done, or looking to the relationship, [one] should not accept gain, both in the present and in the future.",
+  "text_flags": [],
+  "notes": "mūla-hara literal 'taking the base/capital' (usurper or seizer of the root); sense not imported. vigṛhīta 'attacked, set at war with'. The first member pair has no vā; vā stands once after mūla-hareṇa. 'tadātve ca āyatyāṃ ca' = both ... and.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛta.sandhir",
+      "words": [
+       {
+        "w": "kṛta-sandhiḥ",
+        "gloss": "one who has made peace",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "atikramitu.kāmaḥ",
+      "words": [
+       {
+        "w": "atikramitu-kāmaḥ",
+        "gloss": "wishing to transgress",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the other",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛti.karśanaṃ",
+      "words": [
+       {
+        "w": "prakṛti-karśanam",
+        "gloss": "weakening of the constituent elements",
+        "gram": "n. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mitra.amitra.sandhi.viśleṣaṇaṃ",
+      "words": [
+       {
+        "w": "mitra-amitra-sandhi-viśleṣaṇam",
+        "gloss": "breaking up of the peace of ally and enemy",
+        "gram": "n. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kartu.kāmaḥ",
+      "words": [
+       {
+        "w": "kartu-kāmaḥ",
+        "gloss": "wishing to do",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "para.abhiyogāt-śaṅkamāno",
+      "words": [
+       {
+        "w": "para-abhiyogāt",
+        "gloss": "from attack by the other",
+        "gram": "m. abl. sg.; tat-puruṣa"
+       },
+       {
+        "w": "śaṅkamānaḥ",
+        "gloss": "suspecting",
+        "gram": "m. nom. sg. pres. part. mid. √śaṅk"
+       }
+      ]
+     },
+     {
+      "src": "lābham",
+      "words": [
+       {
+        "w": "lābham",
+        "gloss": "gain",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aprāptam",
+      "words": [
+       {
+        "w": "aprāptam",
+        "gloss": "not yet obtained",
+        "gram": "m. acc. sg. past part. a-pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "adhikaṃ",
+      "words": [
+       {
+        "w": "adhikam",
+        "gloss": "more",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāceta",
+      "words": [
+       {
+        "w": "yāceta",
+        "gloss": "should ask for",
+        "gram": "3 sg. opt. mid. √yāc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सन्धि कर चुका हुआ, उल्लंघन करने की इच्छा वाला, दूसरे की प्रकृतियों को क्षीण करने अथवा मित्र और शत्रु की सन्धि को तोड़ने की इच्छा वाला, दूसरे के आक्रमण से शंका करता हुआ, न प्राप्त हुआ लाभ अथवा अधिक माँगे।",
+  "english": "One who has made peace, wishing to transgress [it], [or] wishing to weaken the other's constituent elements or to break up the peace of ally and enemy, suspecting attack from the other, should ask for a gain not yet obtained, or more.",
+  "text_flags": [],
+  "notes": "'[or]' is supplied in English only. mitra-amitra-sandhi-viśleṣaṇa: literally the breaking of the peace(s) of ally and enemy; Kangle-style 'alliances with friends and enemies' is an alternative. para-abhiyoga taken as attack by the other (alt. accusation). 'lābham aprāptam adhikaṃ vā': 'a gain not yet obtained, or more'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tam",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "itaras",
+      "words": [
+       {
+        "w": "itaraḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadātve",
+      "words": [
+       {
+        "w": "tadātve",
+        "gloss": "in the present",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-āyatyāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āyatyām",
+        "gloss": "in the future",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kramam",
+      "words": [
+       {
+        "w": "kramam",
+        "gloss": "sequence",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avekṣeta",
+      "words": [
+       {
+        "w": "avekṣeta",
+        "gloss": "should look to",
+        "gram": "3 sg. opt. mid. ava-√īkṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे, दूसरा वर्तमान में और भविष्य में क्रम को देखे।",
+  "english": "The other should look to him, [and] to the sequence, both in the present and in the future.",
+  "text_flags": [],
+  "notes": "Syntax uncertain: tam (acc.) and kramam (acc.) both depend on avekṣeta; the sense may be 'the other should look to the sequence [of events] regarding him'. '[and]' supplied in English only. krama = sequence/course/order.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrve",
+      "words": [
+       {
+        "w": "pūrve",
+        "gloss": "the earlier ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "are explained",
+        "gram": "m. nom. pl. past part. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे पूर्व वालों की व्याख्या की गई।",
+  "english": "By that, the earlier [ones] are explained.",
+  "text_flags": [],
+  "notes": "Formula 'tena X vyākhyātāḥ'; pūrve = the earlier (cases), no noun stated.",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ari.vijigīṣvos",
+      "words": [
+       {
+        "w": "ari-vijigīṣvoḥ",
+        "gloss": "of the enemy and the conqueror",
+        "gram": "m. gen. du.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svaṃ",
+      "words": [
+       {
+        "w": "svam",
+        "gloss": "own",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svaṃ",
+      "words": [
+       {
+        "w": "svam",
+        "gloss": "own",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anugṛhṇatoḥ",
+      "words": [
+       {
+        "w": "anugṛhṇatoḥ",
+        "gloss": "of the two favouring",
+        "gram": "m. gen. du. pres. part. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "śakya.kalya.bhavya.ārambhi.sthira.karma.anurakta.prakṛtibhyo",
+      "words": [
+       {
+        "w": "śakya-kalya-bhavya-ārambhi-sthira-karma-anurakta-prakṛtibhyaḥ",
+        "gloss": "from [allies] undertaking the feasible, the fit, the auspicious, steady in action, with devoted constituent elements",
+        "gram": "m. abl. pl.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "viśeṣaḥ",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "difference",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु शत्रु और विजिगीषु के अपने-अपने मित्र पर अनुग्रह करने पर शक्य, कल्य, भव्य कार्य आरम्भ करने वाले, स्थिर कर्म वाले, अनुरक्त प्रकृति वालों से भेद।",
+  "english": "But, when the enemy and the conqueror each favour his own ally, the difference [comes] from [those] who undertake the feasible, the fit, the auspicious, who are steady in action, [and] whose constituent elements are devoted.",
+  "text_flags": [],
+  "notes": "The long compound is a dvandva of five types: śakya-ārambhin, kalya-ārambhin, bhavya-ārambhin, sthira-karman, anurakta-prakṛti (ārambhi is shared by the first three); units 12-14 explain them in turn. Genitive dual with participle read as a genitive absolute ('when ... favour'). Predicate of viśeṣaḥ unstated. kalya 'fit' (alt. 'sound, ready'); bhavya 'auspicious' (alt. 'prosperous'). prakṛti here = constituent elements (alt. 'nature').",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śakya.ārambhī",
+      "words": [
+       {
+        "w": "śakya-ārambhī",
+        "gloss": "undertaker of the feasible",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "viṣahyaṃ",
+      "words": [
+       {
+        "w": "viṣahyam",
+        "gloss": "manageable",
+        "gram": "n. acc. sg. gerundive vi-√sah"
+       }
+      ]
+     },
+     {
+      "src": "karma-ārabhate,",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ārabhate",
+        "gloss": "undertakes",
+        "gram": "3 sg. pres. mid. ā-√rabh"
+       }
+      ]
+     },
+     {
+      "src": "kalya.ārambhī",
+      "words": [
+       {
+        "w": "kalya-ārambhī",
+        "gloss": "undertaker of the fit",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "nirdoṣam,",
+      "words": [
+       {
+        "w": "nirdoṣam",
+        "gloss": "faultless",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavya.ārambhī",
+      "words": [
+       {
+        "w": "bhavya-ārambhī",
+        "gloss": "undertaker of the auspicious",
+        "gram": "m. nom. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "kalyāṇa.udayam",
+      "words": [
+       {
+        "w": "kalyāṇa-udayam",
+        "gloss": "having an auspicious outcome",
+        "gram": "n. acc. sg.; bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शक्य का आरम्भ करने वाला सहने योग्य कर्म आरम्भ करता है, कल्य का आरम्भ करने वाला निर्दोष, भव्य का आरम्भ करने वाला कल्याण-उदय वाला।",
+  "english": "The undertaker of the feasible undertakes manageable action; the undertaker of the fit, [action that is] faultless; the undertaker of the auspicious, [action that has] an auspicious outcome.",
+  "text_flags": [],
+  "notes": "In the second and third clauses karma and ārabhate are understood; English brackets only. viṣahya 'manageable' (that can be borne). udaya 'rise, outcome'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sthira.karmā",
+      "words": [
+       {
+        "w": "sthira-karmā",
+        "gloss": "one steady in action",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "na-asamāpya",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "asamāpya",
+        "gloss": "without having completed",
+        "gram": "abs. a-sam-ā-√āp (neg.)"
+       }
+      ]
+     },
+     {
+      "src": "karma-uparamate",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uparamate",
+        "gloss": "stops",
+        "gram": "3 sg. pres. mid. upa-√ram"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "स्थिर कर्म वाला पूरा किए बिना कर्म से विराम नहीं लेता।",
+  "english": "One steady in action does not stop action without completing [it].",
+  "text_flags": [],
+  "notes": "na ... asamāpya: 'not (stop) without having completed'; karma taken as the object of uparamate (alt. ablative-like 'from action').",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anurakta.prakṛtiḥ",
+      "words": [
+       {
+        "w": "anurakta-prakṛtiḥ",
+        "gloss": "one whose constituent elements are devoted",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "susahāyatvād",
+      "words": [
+       {
+        "w": "su-sahāyatvāt",
+        "gloss": "from having good helpers",
+        "gram": "n. abl. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "alpena-apy",
+      "words": [
+       {
+        "w": "alpena",
+        "gloss": "small",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anugraheṇa",
+      "words": [
+       {
+        "w": "anugraheṇa",
+        "gloss": "by favour",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāryaṃ",
+      "words": [
+       {
+        "w": "kāryam",
+        "gloss": "task",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhayati",
+      "words": [
+       {
+        "w": "sādhayati",
+        "gloss": "accomplishes",
+        "gram": "3 sg. pres. caus. √sādh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुरक्त प्रकृति वाला अच्छे सहायकों के होने से थोड़े अनुग्रह से भी कार्य सिद्ध करता है।",
+  "english": "One whose constituent elements are devoted accomplishes the task even with a small favour, because of having good helpers.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ }
+]
