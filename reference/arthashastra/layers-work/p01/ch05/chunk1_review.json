@@ -1,0 +1,294 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "rooted in the penalty",
+     "problem": "Book 1 reviewers (1.2, 1.4) render daṇḍa as punishment (daṇḍa-nīti = policy of punishment, udyata-daṇḍa = punishment uplifted); keep Book 1 consistent.",
+     "fix": "rooted in punishment",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "rooted in the penalty",
+      "new": "rooted in punishment"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍa-mūlāḥ",
+     "problem": "same",
+     "fix": "rooted in punishment",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "daṇḍa-mūlāḥ",
+      "field": "gloss",
+      "value": "rooted in punishment"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "The penalty",
+     "problem": "same (daṇḍa = punishment in Book 1)",
+     "fix": "Punishment, rooted",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "The penalty, rooted",
+      "new": "Punishment, rooted"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "same",
+     "fix": "punishment",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "punishment"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विज्ञान",
+     "problem": "In Hindi विज्ञान means 'science' and clashes with विद्या/science in the same sentence; the gloss is 'understanding'.",
+     "fix": "समझ",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विज्ञान",
+      "new": "समझ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the triple (trayī)",
+     "problem": "1.2 settled trayī = the triple Veda.",
+     "fix": "the triple Veda (trayī)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "the triple (trayī)",
+      "new": "the triple Veda (trayī)"
+     }
+    },
+    {
+     "field": "english",
+     "where": "policy of the penalty",
+     "problem": "1.2 settled daṇḍa-nīti = policy of punishment (दण्डनीति).",
+     "fix": "daṇḍanīti (policy of punishment)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "daṇḍanīti (policy of the penalty)",
+      "new": "daṇḍanīti (policy of punishment)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दण्ड-नीति",
+     "problem": "1.2 spells दण्डनीति.",
+     "fix": "दण्डनीति",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दण्ड-नीति",
+      "new": "दण्डनीति"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "trayīm",
+     "problem": "align with 1.2",
+     "fix": "the triple Veda (trayī)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "trayīm",
+      "field": "gloss",
+      "value": "the triple Veda (trayī)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍa-nītim",
+     "problem": "align with 1.2",
+     "fix": "policy of punishment (daṇḍanīti)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "daṇḍa-nītim",
+      "field": "gloss",
+      "value": "policy of punishment (daṇḍanīti)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ṣoḍaśāt",
+     "problem": "Gender inconsistent: ṣoḍaśa agrees with varṣāt (n.), labelled m.",
+     "fix": "n. abl. sg. (adj. of varṣāt)",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "ṣoḍaśāt",
+      "field": "gram",
+      "value": "n. abl. sg. (adj. of varṣāt)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[come]",
+     "problem": "A supplied verb, not a bare copula (glossary 13.2/3.7: only a bracketed copula may be supplied).",
+     "fix": "After this [are] his cow-gift and marriage rite.",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "[come]",
+      "new": "[are]"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tat-mūlatvāt",
+     "problem": "Compound type wrong: tad-mūla is a bahuvrīhi to which -tva is added; not a plain tat-puruṣa.",
+     "fix": "bahuvrīhi + -tva, n. abl. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "tat-mūlatvāt",
+      "field": "gram",
+      "value": "bahuvrīhi + abstract -tva, n. abl. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "itivṛttam",
+     "problem": "The gloss imports an etymology while the note says the terms are not explained.",
+     "fix": "itivṛtta (term)",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "itivṛttam",
+      "field": "gloss",
+      "value": "itivṛtta (term)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "14 issues (2 error, 12 minor), all with patches. Draft is sound: tokens and splits match, ca/vā/hi/tu rendered, Hindi free of Latin/brackets, śuśrūṣā text_flag correct (stray space for compound dot). Main fixes: daṇḍa = punishment, trayī = the triple Veda, daṇḍa-nīti = policy of punishment (aligned with 1.2/1.4), a supplied verb [come], ṣoḍaśāt gender, tat-mūlatva compound type. No regrouping suggested; no hand edits (no word or text_flag to add or delete). Judgement calls left to a person: caula-karman / dāra-karma kept as 'rite' (not 'action'/'works'); unit 8 supplies [should make use of] from unit 7 (ellipsis of the same verb, bracketed); unit 9 'up to' for a bare ablative (medium); ākhyāyika stem may be ākhyāyikā; singular vidyā = learning in compounds vs 1.2 'science'."
+}
