@@ -1,0 +1,606 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "of the one endowed with power",
+     "problem": "Unmarked definite article 'the one' added; Sanskrit has none (cf. unit 3 'of one of large undertaking').",
+     "fix": "of one endowed with power",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "of the one endowed with power",
+      "new": "of one endowed with power",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "with his wheel stuck",
+     "problem": "'his' is not in the Sanskrit (sakta-cakraḥ is a bahuvrīhi).",
+     "fix": "with a stuck wheel",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "with his wheel stuck",
+      "new": "with a stuck wheel",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a taker of the base, one of the immediate, a miser",
+     "problem": "Singular nouns for a plural genitive compound (abhiyogināṃ); 'one of' is an unmarked addition.",
+     "fix": "takers of the base, [those] of the immediate, misers",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "a taker of the base, one of the immediate, a miser",
+      "new": "takers of the base, [those] of the immediate, misers",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those alone are the reasons",
+     "problem": "Verbless clause: copula 'are' must be bracketed in English (as 7.9 '[is] better').",
+     "fix": "those alone [are] the reasons",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "those alone are the reasons",
+      "new": "those alone [are] the reasons",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sandhiḥ",
+     "problem": "Gloss says 'treaty' but the English text (correctly, bare sandhi = peace) says 'peace'.",
+     "fix": "peace",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sandhiḥ",
+      "field": "gloss",
+      "value": "peace",
+      "n": "17"
+     }
+    },
+    {
+     "field": "english",
+     "where": "peace with an ally is easy to do",
+     "problem": "Verbless clause: copula must be bracketed.",
+     "fix": "For peace with an ally [is] easy to do, not with an enemy.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "peace with an ally is easy to do",
+      "new": "peace with an ally [is] easy to do",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसके लिए जिस पर चढ़ाई करनी है",
+     "problem": "'जिसके लिए' (for whom) is an unmarked change of yasya (genitive 'whose').",
+     "fix": "अथवा जिसका जिस पर चढ़ाई करनी है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा जिसके लिए जिस पर चढ़ाई करनी है",
+      "new": "अथवा जिसका जिस पर चढ़ाई करनी है",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[is that] of the strong, who has fort",
+     "problem": "'that' is an interpretive addition inside the bracket and 'who' attaches a nominative (apasāravān) to the genitive balavataḥ; supply only the bare copula.",
+     "fix": "the repulse of the strong [is] possessing fort, forest and a place of retreat",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the repulse [is that] of the strong, who has fort, forest and a place of retreat",
+      "new": "the repulse of the strong [is] possessing fort, forest and a place of retreat",
+      "n": "25"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दुर्ग, वन और अपसार वाला",
+     "problem": "Three-member dvandva in Hindi takes commas only (glossary 3.15/3.16/7.17).",
+     "fix": "दुर्ग, वन, अपसार वाला है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दुर्ग, वन और अपसार वाला है",
+      "new": "दुर्ग, वन, अपसार वाला है",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शत्रु को मित्र के रूप में प्राप्त करता है",
+     "problem": "'के रूप में' (as) is an unmarked addition; Hindi cannot bracket, so leave the double accusative as in the Sanskrit (English keeps '[as]' bracketed).",
+     "fix": "और शत्रु को, मित्र को प्राप्त करता है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "और शत्रु को मित्र के रूप में प्राप्त करता है",
+      "new": "और शत्रु को, मित्र को प्राप्त करता है",
+      "n": "26"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "last sentence",
+     "problem": "Note says the Hindi follows the English supply; no longer true after the fix.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Hindi leaves the two accusatives (amitraṃ, mitram) unlinked, with no 'के रूप में', since Hindi cannot bracket a supplied 'as'.",
+      "n": "26"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mitrāt",
+     "problem": "Ablative gloss lacks 'from' (other ablatives: 'from gain').",
+     "fix": "from an ally",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mitrāt",
+      "field": "gloss",
+      "value": "from an ally",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "one with whom peace is to be made",
+     "problem": "Glossary 7.6 fixes sandheya = to be allied with (सन्धि करने योग्य); align within Book 7.",
+     "fix": "And an enemy who does a favour is one to be allied with, not an ally who has departed from the state of ally.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "one with whom peace is to be made",
+      "new": "one to be allied with",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sandheyaḥ",
+     "problem": "Align with 7.6.",
+     "fix": "to be allied with",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sandheyaḥ",
+      "field": "gloss",
+      "value": "to be allied with",
+      "n": "27"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sandheya note",
+     "problem": "Note should record the 7.6 rendering.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Rendered 'to be allied with' per glossary 7.6 (sandheya/asandheya); 'one with whom peace is to be made' is the literal alternative.",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "there is a heaping up",
+     "problem": "Verbless clause: supplied copula must be bracketed in English.",
+     "fix": "[there is] a heaping up from war of counsel",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "there is a heaping up from war of counsel",
+      "new": "[there is] a heaping up from war of counsel",
+      "n": "29"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pārṣṇi-grahaṇa-abhiyānayoḥ",
+     "problem": "Both members (grahaṇa, abhiyāna) are neuter; 'm./n.' is wrong.",
+     "fix": "dvandva n. loc. du.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pārṣṇi-grahaṇa-abhiyānayoḥ",
+      "field": "gram",
+      "value": "dvandva n. loc. du.",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "there is no growth of the two",
+     "problem": "Verbless clause: bracket the copula; ubhayoḥ = of both.",
+     "fix": "[there is] no growth of both",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "there is no growth of the two",
+      "new": "[there is] no growth of both",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "would have killed",
+     "problem": "'would have killed' reads as a past counterfactual; ghātayet is a causative optative (gloss itself says 'should have killed').",
+     "fix": "he who should cause the more abundant, the more powerful and the utterly treasonable to be killed outwits",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "he who would have killed the more abundant, the more powerful and the utterly treasonable outwits",
+      "new": "he who should cause the more abundant, the more powerful and the utterly treasonable to be killed outwits",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऐसा हो",
+     "problem": "'ऐसा' and the repeated 'हो' are unmarked additions; bhavet occurs once.",
+     "fix": "जब पार्ष्णिग्राह, या आक्रमणकारी, या जिस पर चढ़ाई करनी है, हो, तब वहाँ विजिगीषु इस नेत्र का आचरण करे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "जब पार्ष्णिग्राह, या आक्रमणकारी, या जिस पर चढ़ाई करनी है, हो, तब वहाँ विजिगीषु इस नेत्र का आचरण करे।",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वैसे",
+     "problem": "'वैसे' is colloquial 'by the way' in Hindi; tathā = likewise.",
+     "fix": "उसी प्रकार",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वैसे आक्रन्द",
+      "new": "उसी प्रकार आक्रन्द",
+      "n": "39"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "should obstruct",
+     "problem": "'obstruct' is an invented sense for the obscure avaghaṭṭayet; the drafter's own literal is 'cause to rub against, jostle'. Keep literal, low confidence.",
+     "fix": "he should jostle the ally in front",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should obstruct",
+      "new": "should jostle",
+      "n": "40"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बाधित करे",
+     "problem": "Same: unsupported sense 'बाधित'.",
+     "fix": "टकराए",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बाधित करे",
+      "new": "टकराए",
+      "n": "40"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "avaghaṭṭayet",
+     "problem": "Gloss should be literal.",
+     "fix": "should jostle (cause to rub against)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "avaghaṭṭayet",
+      "field": "gloss",
+      "value": "should jostle (cause to rub against)",
+      "n": "40"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "avaghaṭṭayet",
+     "problem": "Record the withdrawal.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "'obstruct' withdrawn at review: avaghaṭṭayet is kept literal ('jostle'); the actual sense is unsettled. The '.' joins in ari.mitreṇa and mitra.mitram(-eṇa) are genuine compounds (enemy's ally, ally's ally), one w entry each: checked, correct.",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मित्र प्रकृति की सम्पत्ति से",
+     "problem": "Glossary fixes sampat (X-sampat) = excellence of X (X की सम्पत्); Hindi सम्पत्ति means wealth.",
+     "fix": "मित्र प्रकृति की सम्पत् से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मित्र प्रकृति की सम्पत्ति से",
+      "new": "मित्र प्रकृति की सम्पत् से",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "असंवृत",
+     "problem": "Unit 43 renders saṃvṛta 'छिपा हुआ'; असंवृत is untranslated Sanskrit-look vs English 'unconcealed'. Needs a human choice (e.g. 'जो छिपा हुआ नहीं है, उसके').",
+     "fix": "align by hand with unit 43",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Word split, case labels and roots check out; unit 20 'yasya.amitro' and unit 31 'kṣiṇa' flags are right; mitra.mitram and ari.mitreṇa '.' joins are correct (one w each); the 23 short-pronoun warnings need no action. Real errors: unit 40 invented sense 'obstruct' (avaghaṭṭayet). Minor: unbracketed copulas in verbless clauses (14,17,29,30), 3-member dvandva with 'और' (25), Hindi 'के रूप में' (26), 'ऐसा' (37), सम्पत्ति vs सम्पत् (42), sandheya vs glossary 7.6 (27), 'would have killed' (35). Counts: 3 error, 24 minor, 26 machine patches. Confidence levels honest; no unit needs regrouping. Hand edits: none required except unit 44 Hindi असंवृत (human choice)."
+}

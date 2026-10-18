@@ -1,0 +1,562 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "With you [is] my treaty",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "With you [is] my peace",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "With you [is] my treaty",
+      "new": "With you [is] my peace"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sandhiḥ",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "peace",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "sandhiḥ",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sandhi = treaty (Book 7 convention, as 7",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "sandhi = peace (bare sandhi in Book 7, as 7.3/7.4).",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "notes",
+      "old": "sandhi = treaty (Book 7 convention, as 7.7 and 12.1; the bare policy is 'peace' in 7.1-7.4, a person should align).",
+      "new": "sandhi = peace (bare sandhi in Book 7, as 7.3/7.4)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विघात करो",
+     "problem": "register: the quotation addresses the other king with आप elsewhere, but the imperative is the तुम form",
+     "fix": "इसलिए इनका विघात कीजिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विघात करो",
+      "new": "विघात कीजिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a treaty made",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "peace made",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "a treaty made",
+      "new": "peace made"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sandhim",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "peace",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "sandhim",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sandhi = treaty.",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "sandhi = peace.",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "notes",
+      "old": "sandhi = treaty.",
+      "new": "sandhi = peace."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उभय-वेतन वाले",
+     "problem": "glossary 9.6 fixes ubhaya-vetana in Hindi as दोनों से वेतन पाने वाला",
+     "fix": "तब दोनों से वेतन पाने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उभय-वेतन वाले",
+      "new": "दोनों से वेतन पाने वाले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "spoil the treaty",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "spoil the peace",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "spoil the treaty",
+      "new": "spoil the peace"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sandhim",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "peace",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "sandhim",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sandhi = treaty.",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "sandhi = peace.",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "notes",
+      "old": "sandhi = treaty.",
+      "new": "sandhi = peace."
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उभय-वेतन वाले",
+     "problem": "glossary 9.6 fixes ubhaya-vetana in Hindi as दोनों से वेतन पाने वाला",
+     "fix": "तब दोनों से वेतन पाने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उभय-वेतन वाले",
+      "new": "दोनों से वेतन पाने वाले"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पूर्व वालों को",
+     "problem": "'वालों' is added; pūrvān is just 'the earlier'",
+     "fix": "पूर्वों को",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पूर्व वालों को",
+      "new": "पूर्वों को"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आत्म-निसर्ग से",
+     "problem": "Hindi निसर्ग means 'nature', which misleads; the English gloss is 'bestowal of self'",
+     "fix": "स्वयं को सौंपने से",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आत्म-निसर्ग से",
+      "new": "स्वयं को सौंपने से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चंचल अमित्र को निश्चित करके",
+     "problem": "avadhṛtam is a participle (adjective of the enemy); 'करके' adds an absolutive action not in the Sanskrit",
+     "fix": "निश्चित चंचल अमित्र को अनपकार और उपकार से",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चंचल अमित्र को निश्चित करके अनपकार",
+      "new": "निश्चित चंचल अमित्र को अनपकार"
+     }
+    },
+    {
+     "field": "english",
+     "where": "avadhṛta",
+     "problem": "unit 12 renders avadhṛta 'determined'; unit 10 'ascertained' for the same word: make one rendering (low certainty stays in notes)",
+     "fix": "determined",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "the wavering enemy, ascertained,",
+      "new": "the wavering enemy, determined,"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "avadhṛtam",
+     "problem": "same as above",
+     "fix": "determined",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "avadhṛtam",
+      "field": "gloss",
+      "value": "determined"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "avadhṛta",
+     "problem": "same as above",
+     "fix": "avadhṛta = determined, fixed, as in unit 12 (alternatives: ascertained, restrained); medium-low.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "notes",
+      "old": "avadhṛta = ascertained (alternatives: determined, restrained); medium-low.",
+      "new": "avadhṛta = determined, fixed, as in unit 12 (alternatives: ascertained, restrained); medium-low."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ebhyaḥ",
+     "problem": "ablative: 'afraid of these' = 'from these', not a genitive 'of these'",
+     "fix": "from these",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "ebhyaḥ",
+      "field": "gloss",
+      "value": "from these"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a treaty determined",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "a peace determined",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "english",
+      "old": "a treaty determined",
+      "new": "a peace determined"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sandhim",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "peace",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "sandhim",
+      "field": "gloss",
+      "value": "peace"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "sandhi = treaty.",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "sandhi = peace.",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "notes",
+      "old": "sandhi = treaty.",
+      "new": "sandhi = peace."
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whose treaty is made",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "whose peace is made",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "whose treaty is made",
+      "new": "whose peace is made"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṛta-sandhiḥ",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "one whose peace is made",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "kṛta-sandhiḥ",
+      "field": "gloss",
+      "value": "one whose peace is made"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "'whose treaty is made'; sandhi = treaty.",
+     "problem": "bare sandhi = peace in Book 7 (glossary 7.3/7.4/7.8); draft used treaty",
+     "fix": "'whose peace is made'; sandhi = peace.",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "notes",
+      "old": "'whose treaty is made'; sandhi = treaty.",
+      "new": "'whose peace is made'; sandhi = peace."
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "vidyā.vṛddha.samyogaṃ",
+     "problem": "not a typo: the e-text regularly writes samyoga with m (anarthya.samyogam, deva.samyogaiḥ, mantri.samyogaṃ, vṛddha.samyogaḥ ...); it never writes saṃyoga",
+     "fix": "delete this text_flag (hand edit); w saṃyogam is fine",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "tasya",
+     "problem": "jana-pada is masculine (unit 19 labels it m.); tasya should not be n.",
+     "fix": "m. gen. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "tasya",
+      "field": "gram",
+      "value": "m. gen. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रवेश और निर्णयन",
+     "problem": "Hindi निर्णयन means 'decision', contradicting the gloss 'leading out'; glossary 7.17 has nir-√hṛ = बाहर ले जाना",
+     "fix": "प्रवेश और बाहर ले जाना",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रवेश और निर्णयन",
+      "new": "प्रवेश और बाहर ले जाना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "ābalīyasa",
+     "problem": "'kept as in 3.x ('ābalīyasa yoga')' is an unverified cross-reference and the etymology 'of the stronger' is a guess; glossary 7.3 only says untranslated",
+     "fix": "kept untranslated as in 7.3 (ābalīyasa / ābalīyasika), no etymology offered.",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "notes",
+      "old": "kept as in 3.x ('ābalīyasa yoga'), literally 'of the stronger'.",
+      "new": "kept untranslated as in 7.3 (ābalīyasa / ābalīyasika), no etymology offered."
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Counts and hand edits in the report. Text flags checked: unit 6 udddūṣayeyuḥ, 10 (dash, prakṛktiṃ), 11 yathā-ayogaṃ, 27 lābbham are right; unit 16 samyogaṃ is e-text habit, delete that flag. Low units 22 and 28 are honest; 28 ābalīyasa untranslated matches glossary 7.3. No regrouping."
+}
