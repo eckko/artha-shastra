@@ -384,6 +384,20 @@
    "verdict": "fix",
    "issues": [
     {
+     "field": "hindi",
+     "where": "alpa-vyaya-ārambham, mahā-udayam",
+     "problem": "Locative 'आरम्भ में' and added है/जिसका are not in the Sanskrit; bahuvrīhis as in units 2 and 13.",
+     "fix": "थोड़े व्यय के आरम्भ वाले, महान् उदय वाले, दुर्ग",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसके आरम्भ में थोड़ा व्यय है, जिसका महान् उदय है, दुर्ग",
+      "new": "थोड़े व्यय के आरम्भ वाले, महान् उदय वाले, दुर्ग"
+     }
+    },
+    {
      "field": "confidence",
      "where": "confidence",
      "problem": "Opening of the quotation at 'tasmāt' (and the adjectives belonging inside or outside it) is not certain; 'high' is too firm.",
@@ -446,5 +460,5 @@
    ]
   }
  ],
- "summary": "Draft is sound overall: tokens, case labels, ca/vā/eva/hi/tu rendering and the three drafter flags are right (8, 22, 25 kept as flagged); samruddha/samyāna are the e-text's regular m-for-anusvāra habit (Devanagari सम्रुद्ध, सम्यान, 8 raw occurrences), no flag; quotations 11-12 and 33-34 marked across units without a flag is correct (iti closing, glossary 3.17). Also unit 22 English bracketed [and] in a dvandva (7.17). Issues: 5 errors, 21 minor; 25 machine patches (Hindi typo बेहतरं, an unmarked extra 'and' in unit 11, धातु gender and comma in 14, 'आरम्भ में' locative in 2/13/33, -tara written as a hyphenated member, gender labels, confidence of 33/34). No regrouping suggested (29-30, 31-32, 33-34 stay edition units). Hand edits (add/delete word or flag): none."
+ "summary": "Draft is sound overall: tokens, case labels, ca/vā/eva/hi/tu rendering and the three drafter flags are right (8, 22, 25 kept as flagged); samruddha/samyāna are the e-text's regular m-for-anusvāra habit (Devanagari सम्रुद्ध, सम्यान, 8 raw occurrences), no flag; quotations 11-12 and 33-34 marked across units without a flag is correct (iti closing, glossary 3.17). Also unit 22 English bracketed [and] in a dvandva (7.17). Issues: 5 errors, 22 minor; 26 machine patches (Hindi typo बेहतरं, an unmarked extra 'and' in unit 11, धातु gender and comma in 14, 'आरम्भ में' locative in 2/13/33, -tara written as a hyphenated member, gender labels, confidence of 33/34). No regrouping suggested (29-30, 31-32, 33-34 stay edition units). Hand edits (add/delete word or flag): none."
 }
