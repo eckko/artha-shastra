@@ -1974,5 +1974,712 @@
   ],
   "notes": "Proverb-like: a cow without a man (a herdsman) gives nothing. The subject of duhīta is unstated (\"[one]\"). apuruṣā could also be \"without men\".",
   "confidence": "medium"
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mahā.kṣaya.vyaya.niveśāṃ",
+      "words": [
+       {
+        "w": "mahā-kṣaya-vyaya-niveśām",
+        "gloss": "having great loss and expenditure in its settlement",
+        "gram": "f. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmim",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avāptu.kāmaḥ",
+      "words": [
+       {
+        "w": "avāptu-kāmaḥ",
+        "gloss": "desiring to obtain",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "pūrvam",
+      "words": [
+       {
+        "w": "pūrvam",
+        "gloss": "first",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kretāraṃ",
+      "words": [
+       {
+        "w": "kretāram",
+        "gloss": "buyer",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paṇeta",
+      "words": [
+       {
+        "w": "paṇeta",
+        "gloss": "should strike a bargain",
+        "gram": "3 sg. opt. mid. √paṇ"
+       }
+      ]
+     },
+     {
+      "src": "durbalam",
+      "words": [
+       {
+        "w": "durbalam",
+        "gloss": "weak",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "arāja.bījinaṃ",
+      "words": [
+       {
+        "w": "arāja-bījinam",
+        "gloss": "not of royal seed",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "nirutsāham",
+      "words": [
+       {
+        "w": "nirutsāham",
+        "gloss": "without energy",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "apakṣam",
+      "words": [
+       {
+        "w": "apakṣam",
+        "gloss": "without a party",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "anyāya.vṛttiṃ",
+      "words": [
+       {
+        "w": "anyāya-vṛttim",
+        "gloss": "of unjust conduct",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vyasaninaṃ",
+      "words": [
+       {
+        "w": "vyasaninam",
+        "gloss": "afflicted (vyasanin)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "daiva.pramāṇaṃ",
+      "words": [
+       {
+        "w": "daiva-pramāṇam",
+        "gloss": "taking the divine as authority",
+        "gram": "m. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "yat.kiñcana.kāriṇaṃ",
+      "words": [
+       {
+        "w": "yat-kiñcana-kāriṇam",
+        "gloss": "doing anything whatever",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु महान् क्षय और व्यय वाली बसावट की भूमि को पाने की इच्छा वाला पहले ही दुर्बल, राज-बीज से रहित, उत्साहहीन, पक्षहीन, अन्याय आचरण वाले, व्यसन वाले, दैव को प्रमाण मानने वाले अथवा जो कुछ भी करने वाले क्रेता से सौदा करे।",
+  "english": "But one desiring to obtain land whose settlement involves great loss and expenditure should first indeed strike a bargain with a buyer [who is] weak, not of royal seed, without energy, without a party, of unjust conduct, afflicted (vyasanin), taking the divine as authority, or doing anything whatever.",
+  "text_flags": [],
+  "notes": "paṇ = strike a bargain (glossary 7.7). arāja-bījin: bījin = \"of seed/descent\", so \"not of royal descent\"; kept literal. vyasanin: \"afflicted\" (glossary 3.11); \"given to vice\" is possible (4.6). daiva-pramāṇa: \"taking fate/the divine as the authority\". kṣaya = loss, vyaya = expenditure (glossary 9.4). The list of adjectives has only the final vā.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mahā.kṣaya.vyaya.niveśāyāṃ",
+      "words": [
+       {
+        "w": "mahā-kṣaya-vyaya-niveśāyām",
+        "gloss": "having great loss and expenditure in its settlement",
+        "gram": "f. loc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmau",
+      "words": [
+       {
+        "w": "bhūmau",
+        "gloss": "land",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "durbalo",
+      "words": [
+       {
+        "w": "durbalaḥ",
+        "gloss": "weak",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.bījī",
+      "words": [
+       {
+        "w": "rāja-bījī",
+        "gloss": "one of royal seed",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "niviṣṭaḥ",
+      "words": [
+       {
+        "w": "niviṣṭaḥ",
+        "gloss": "settled",
+        "gram": "m. nom. sg. p.p.p. ni-√viś"
+       }
+      ]
+     },
+     {
+      "src": "sagandhābhiḥ",
+      "words": [
+       {
+        "w": "sa-gandhābhiḥ",
+        "gloss": "of the same smell (sa-gandha)",
+        "gram": "f. inst. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtibhiḥ",
+      "words": [
+       {
+        "w": "prakṛtibhiḥ",
+        "gloss": "constituent elements",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "saha",
+      "words": [
+       {
+        "w": "saha",
+        "gloss": "together with",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyayena-avasīdati",
+      "words": [
+       {
+        "w": "kṣaya-vyayena",
+        "gloss": "by loss and expenditure",
+        "gram": "m. inst. sg. (dvandva)"
+       },
+       {
+        "w": "avasīdati",
+        "gloss": "sinks down",
+        "gram": "3 sg. pres. ava-√sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि महान् क्षय और व्यय वाली बसावट की भूमि में बसा हुआ दुर्बल राज-बीजी सगन्ध प्रकृतियों के साथ क्षय और व्यय से डूबता है।",
+  "english": "For in land whose settlement involves great loss and expenditure, a weak one of royal seed, having settled, sinks down together with [his] constituent elements of the same smell (sagandha) through loss and expenditure.",
+  "text_flags": [],
+  "notes": "sagandha (\"of the same smell\") is obscure; it is kept literal (probably \"of like kind\", i.e. kinsmen/neighbouring), with asagandha in unit 28 as its opposite. The e-text joins kṣaya.vyayena-avasīdati with \"-\": two words, kṣaya-vyayena and avasīdati. prakṛti = constituent elements (glossary).",
+  "confidence": "medium"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "balavān",
+      "words": [
+       {
+        "w": "balavān",
+        "gloss": "strong",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "arāja.bījī",
+      "words": [
+       {
+        "w": "arāja-bījī",
+        "gloss": "one not of royal seed",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyaya.bhayād",
+      "words": [
+       {
+        "w": "kṣaya-vyaya-bhayāt",
+        "gloss": "from fear of loss and expenditure",
+        "gram": "n. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "asagandhābhiḥ",
+      "words": [
+       {
+        "w": "a-sa-gandhābhiḥ",
+        "gloss": "not of the same smell (asagandha)",
+        "gram": "f. inst. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtibhis",
+      "words": [
+       {
+        "w": "prakṛtibhiḥ",
+        "gloss": "constituent elements",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "tyajyate",
+      "words": [
+       {
+        "w": "tyajyate",
+        "gloss": "is abandoned",
+        "gram": "3 sg. pres. pass. √tyaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बलवान् अराज-बीजी क्षय और व्यय के भय से असगन्ध प्रकृतियों द्वारा त्याग दिया जाता है।",
+  "english": "A strong one not of royal seed is abandoned by [his] constituent elements not of the same smell (asagandha), from fear of loss and expenditure.",
+  "text_flags": [],
+  "notes": "asagandha is the opposite of sagandha (unit 27), kept literal. The e-text prints \"prakṛtibhis tyajyate\" (s before t, regular visarga sandhi).",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nirutsāhas",
+      "words": [
+       {
+        "w": "nirutsāhaḥ",
+        "gloss": "without energy",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍavān",
+      "words": [
+       {
+        "w": "daṇḍavān",
+        "gloss": "having an army",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍasya-apraṇetā",
+      "words": [
+       {
+        "w": "daṇḍasya",
+        "gloss": "of the army",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "apraṇetā",
+        "gloss": "non-leader",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "sadaṇḍaḥ",
+      "words": [
+       {
+        "w": "sa-daṇḍaḥ",
+        "gloss": "together with his army",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyayena-avabhajyate",
+      "words": [
+       {
+        "w": "kṣaya-vyayena",
+        "gloss": "by loss and expenditure",
+        "gram": "m. inst. sg. (dvandva)"
+       },
+       {
+        "w": "avabhajyate",
+        "gloss": "is broken",
+        "gram": "3 sg. pres. pass. ava-√bhañj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु उत्साहहीन, सेना वाला होते हुए भी, सेना का प्रणेता न होने वाला, सेना सहित क्षय और व्यय से टूट जाता है।",
+  "english": "But one without energy, even though having an army, [being] a non-leader of the army, is broken together with his army by loss and expenditure.",
+  "text_flags": [],
+  "notes": "daṇḍa = army here (Book 7 convention). praṇetṛ: leader, one who directs; \"one who does not apply/use the army\" is possible. avabhajyate is read as the passive of √bhañj (is broken); a passive of √bhaj (\"is divided\") is the alternative.",
+  "confidence": "medium"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kośavān",
+      "words": [
+       {
+        "w": "kośavān",
+        "gloss": "having a treasury",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "apy",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "apakṣaḥ",
+      "words": [
+       {
+        "w": "apakṣaḥ",
+        "gloss": "without a party",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "kṣaya.vyaya.anugraha.hīnatvān",
+      "words": [
+       {
+        "w": "kṣaya-vyaya-anugraha-hīnatvāt",
+        "gloss": "from lacking favour in loss and expenditure",
+        "gram": "n. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kutaścit",
+      "words": [
+       {
+        "w": "kutaścit",
+        "gloss": "from anywhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāpnoti",
+      "words": [
+       {
+        "w": "prāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. pra-√āp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कोश वाला भी, पक्षहीन, क्षय और व्यय में अनुग्रह से रहित होने के कारण, कहीं से भी प्राप्त नहीं करता।",
+  "english": "Even one having a treasury, [being] without a party, from lacking favour in loss and expenditure, obtains [it] from nowhere.",
+  "text_flags": [],
+  "notes": "The object of prāpnoti (the land) is not stated; \"[it]\" is a bracketed supply. anugraha = favour (glossary 7.8). The compound kṣaya-vyaya-anugraha could be \"favour regarding loss and expenditure\" or \"favour in the matter of losses and expenses\"; literal given.",
+  "confidence": "medium"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anyāya.vṛttir",
+      "words": [
+       {
+        "w": "anyāya-vṛttiḥ",
+        "gloss": "one of unjust conduct",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "niviṣṭam",
+      "words": [
+       {
+        "w": "niviṣṭam",
+        "gloss": "settled",
+        "gram": "m. acc. sg. p.p.p. ni-√viś"
+       }
+      ]
+     },
+     {
+      "src": "apy",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "utthāpayet",
+      "words": [
+       {
+        "w": "utthāpayet",
+        "gloss": "would cause to rise up",
+        "gram": "3 sg. opt. caus. ut-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अन्याय आचरण वाला बसे हुए को भी उठवाए।",
+  "english": "One of unjust conduct would cause even [one] who is settled to rise up.",
+  "text_flags": [],
+  "notes": "utthāpayet is the causative \"make rise up\", here by sense \"dislodge, evict\"; kept literal. The person meant is the buyer of unit 26.",
+  "confidence": "medium"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "katham",
+      "words": [
+       {
+        "w": "katham",
+        "gloss": "how",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aniviṣṭaṃ",
+      "words": [
+       {
+        "w": "aniviṣṭam",
+        "gloss": "not settled",
+        "gram": "m. acc. sg. p.p.p."
+       }
+      ]
+     },
+     {
+      "src": "niveśayet",
+      "words": [
+       {
+        "w": "niveśayet",
+        "gloss": "would settle",
+        "gram": "3 sg. opt. caus. ni-√viś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह बिना बसे हुए को कैसे बसाए?",
+  "english": "How would he settle [one] not settled?",
+  "text_flags": [],
+  "notes": "Meaning: one who dislodges the settled would not settle the unsettled (i.e. he will not populate waste land). The object of niveśayet is not stated (\"[one]\").",
+  "confidence": "medium"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "pron. n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyasanī",
+      "words": [
+       {
+        "w": "vyasanī",
+        "gloss": "afflicted (vyasanin)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātaḥ",
+      "words": [
+       {
+        "w": "vyākhyātaḥ",
+        "gloss": "is explained",
+        "gram": "m. nom. sg. p.p.p. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे व्यसन वाले की व्याख्या की गई।",
+  "english": "By that, the afflicted (vyasanin) is explained.",
+  "text_flags": [],
+  "notes": "Formula \"tena X vyākhyātaḥ\" (glossary 4.1). vyasanin refers back to the buyer in unit 26.",
+  "confidence": "high"
  }
 ]
