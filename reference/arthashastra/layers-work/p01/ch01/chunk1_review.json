@@ -1,0 +1,402 @@
+{
+ "units": [
+  {
+   "n": "0",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "के लिए",
+     "problem": "locatives lābhe pālane rendered with interpretive 'for'; Sanskrit has only the locative",
+     "fix": "में",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "1",
+       "op": "replace",
+       "field": "hindi",
+       "old": "के लिए",
+       "new": "में"
+      },
+      {
+       "n": "1",
+       "op": "replace",
+       "field": "english",
+       "old": "for the gain and protection of the earth",
+       "new": "in the gain and protection of the earth"
+      },
+      {
+       "n": "1",
+       "op": "append_note",
+       "text": "Reviewer: the locatives are rendered literally 'in the gain and protection'; the purpose reading ('for') is only an alternative."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इन्द्रियों पर जय",
+     "problem": "added 'पर'; glossary 1.7: indriya-jaya = इन्द्रिय-जय",
+     "fix": "इन्द्रिय-जय",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन्द्रियों पर जय",
+      "new": "इन्द्रिय-जय"
+     }
+    },
+    {
+     "field": "hindi/english/gloss",
+     "where": "aparuddha-vṛttam / aparuddhe vṛttiḥ",
+     "problem": "vṛtti must follow glossary 1.7 (conduct, Hindi वृत्ति); Hindi आचरण is kept for carita, so vṛtta = वृत्त",
+     "fix": "see patches",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "3",
+       "op": "replace",
+       "field": "hindi",
+       "old": "निकाले गए राजकुमार का आचरण",
+       "new": "निकाले गए राजकुमार का वृत्त"
+      },
+      {
+       "n": "3",
+       "op": "replace",
+       "field": "english",
+       "old": "behaviour towards",
+       "new": "conduct towards"
+      },
+      {
+       "n": "3",
+       "op": "word",
+       "match_w": "vṛttiḥ",
+       "field": "gloss",
+       "value": "conduct"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तुला, माप और पौतव",
+     "problem": "Hindi dvandva of three takes commas only",
+     "fix": "तुला, माप, पौतव",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुला, माप और पौतव",
+      "new": "तुला, माप, पौतव"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अक्षपटल / अक्षशाला",
+     "problem": "terms kept: glossary writes अक्ष-शाला; same style for अक्ष-पटल",
+     "fix": "अक्ष-पटल, अक्ष-शाला",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अक्षपटल",
+       "new": "अक्ष-पटल"
+      },
+      {
+       "n": "4",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अक्षशाला",
+       "new": "अक्ष-शाला"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कण्टक-शोधन",
+     "problem": "glossary 4.1 writes कण्टकशोधन",
+     "fix": "कण्टकशोधन",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कण्टक-शोधन",
+      "new": "कण्टकशोधन"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "src 'daṇḍa'",
+     "problem": "src must name the full printed tokens the suggestion covers",
+     "fix": "src 'daṇḍa kalpaḥ,'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आचरण (anujīvi-vṛtta, yoga-vṛtta)",
+     "problem": "vṛtta: Hindi आचरण belongs to carita (7.18); vṛtta = वृत्त",
+     "fix": "वृत्त",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "7",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अनुजीवियों का आचरण",
+       "new": "अनुजीवियों का वृत्त"
+      },
+      {
+       "n": "7",
+       "op": "replace",
+       "field": "hindi",
+       "old": "यह योग का आचरण",
+       "new": "यह योग का वृत्त"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi/english/gloss",
+     "where": "vṛtti / vṛtta",
+     "problem": "align with glossary 1.7: vṛtti = conduct; vṛtta = वृत्त (आचरण only for carita, which stays in the same unit)",
+     "fix": "see patches",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "9",
+       "op": "replace",
+       "field": "english",
+       "old": "behaviour of shelter",
+       "new": "conduct of shelter"
+      },
+      {
+       "n": "9",
+       "op": "replace",
+       "field": "english",
+       "old": "behaviour of the one to be marched against",
+       "new": "conduct of the one to be marched against"
+      },
+      {
+       "n": "9",
+       "op": "word",
+       "match_w": "saṃśraya-vṛttiḥ",
+       "field": "gloss",
+       "value": "conduct of shelter"
+      },
+      {
+       "n": "9",
+       "op": "word",
+       "match_w": "yātavya-vṛttiḥ",
+       "field": "gloss",
+       "value": "conduct of the one to be marched against"
+      },
+      {
+       "n": "9",
+       "op": "replace",
+       "field": "hindi",
+       "old": "सेना सहित समर्पण करने वाले का आचरण",
+       "new": "सेना सहित समर्पण करने वाले का वृत्त"
+      },
+      {
+       "n": "9",
+       "op": "replace",
+       "field": "hindi",
+       "old": "सेना को निकट लाने वाले का आचरण",
+       "new": "सेना को निकट लाने वाले का वृत्त"
+      },
+      {
+       "n": "9",
+       "op": "append_note",
+       "text": "Reviewer: 'behaviour' in the notes now reads 'conduct' (glossary 1.7); alternatives unchanged."
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "src 'saṃhita'",
+     "problem": "src must name both printed tokens",
+     "fix": "src 'saṃhita prayāṇikam,'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "src 'paścāt', 'abhiyāsyat'",
+     "problem": "src must name the full printed tokens covered by the suggestion",
+     "fix": "'paścāt kopa.cintā,' and 'abhiyāsyat karma'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss/hindi/english",
+     "where": "vyāyogaḥ",
+     "problem": "'mixed yoking' is an invented sense for an obscure word (vi-ā-√yuj); keep the term, literal sense not applied",
+     "fix": "vyāyoga (व्यायोग) kept",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "12",
+       "op": "word",
+       "match_w": "sva-bala-anya-bala-vyāyogaḥ",
+       "field": "gloss",
+       "value": "vyāyoga (term kept) of one's own army and another's army"
+      },
+      {
+       "n": "12",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अपने बल और दूसरे के बल का मिश्रित जोड़ना",
+       "new": "अपने बल और दूसरे के बल का व्यायोग"
+      },
+      {
+       "n": "12",
+       "op": "replace",
+       "field": "english",
+       "old": "mixed yoking of one's own army and another's army",
+       "new": "vyāyoga of one's own army and another's army"
+      },
+      {
+       "n": "12",
+       "op": "append_note",
+       "text": "Reviewer: vyāyoga is kept untranslated (व्यायोग); 'mixed yoking' withdrawn, sense unknown."
+      }
+     ]
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "vyāyoga and bala-agrataḥ both uncertain",
+     "fix": "low",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भेद के उपादान / संघ का आचरण",
+     "problem": "Hindi उपादान means 'material cause'; glossary 9.2 upādāna = taking up (ग्रहण); vṛtta = वृत्त",
+     "fix": "भेद के ग्रहण; संघ का वृत्त",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "13",
+       "op": "replace",
+       "field": "hindi",
+       "old": "भेद के उपादान",
+       "new": "भेद के ग्रहण"
+      },
+      {
+       "n": "13",
+       "op": "replace",
+       "field": "hindi",
+       "old": "संघ का आचरण",
+       "new": "संघ का वृत्त"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "20 units reviewed; 14 issues (7 error, 7 minor), 26 machine patches. Glossary-conflicting vṛtta/vṛtti, one comma-list rule breach, invented 'mixed yoking', Hindi उपादान. No regrouping. Numerals 180/150 verified as grammar (sa-aśīti-śata, sa-pañcāśat-śata); unit 4/5/12/14 literal readings kept. Hand edits: text_flag src widening and unit 12 confidence."
+}
