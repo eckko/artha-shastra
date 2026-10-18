@@ -2903,10 +2903,10 @@
     ]
    }
   ],
-  "hindi": "क्योंकि “मित्र और धन भूमि के लाभ से होते हैं”, यह पहले कहा गया है।",
+  "hindi": "क्योंकि “मित्र और धन भूमि के लाभ से होते हैं”, पहले कहा गया है।",
   "english": "For “ally and money arise from the acquisition of land” has been said before.",
   "text_flags": [],
-  "notes": "Refers back to unit 2. The printed 'bhavata ity' is bhavataḥ iti. Hindi 'यह' is not in the Sanskrit; it only points to the quoted sentence and may be dropped.",
+  "notes": "Refers back to unit 2. The printed 'bhavata ity' is bhavataḥ iti.",
   "confidence": "medium"
  },
  {
@@ -3208,6 +3208,1229 @@
   "english": "In this matter there is this [verse].",
   "text_flags": [],
   "notes": "Formula introducing the verses that follow (units 38-49); '[verse]' is supplied because the verses follow in the next units.",
+  "confidence": "medium"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nityaṃ",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "constant",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaśyaṃ",
+      "words": [
+       {
+        "w": "vaśyam",
+        "gloss": "controlled",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghu.utthānaṃ",
+      "words": [
+       {
+        "w": "laghu-utthānam",
+        "gloss": "of light rising",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "pitṛ.paitāmahaṃ",
+      "words": [
+       {
+        "w": "pitṛ-paitāmaham",
+        "gloss": "of father and grandfather",
+        "gram": "n. nom. sg. (dvandva, taddhita)"
+       }
+      ]
+     },
+     {
+      "src": "mahat",
+      "words": [
+       {
+        "w": "mahat",
+        "gloss": "great",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "advaidhyaṃ",
+      "words": [
+       {
+        "w": "advaidhyam",
+        "gloss": "without duplicity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-iti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sampannaṃ",
+      "words": [
+       {
+        "w": "sampannam",
+        "gloss": "excellent (endowed)",
+        "gram": "n. nom. sg. ppp. sam-√pad"
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaḍ.guṇam",
+      "words": [
+       {
+        "w": "ṣaḍ-guṇam",
+        "gloss": "having six qualities",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "ucyate",
+      "words": [
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नित्य, वश में रहने वाला, हल्के रूप से उठने वाला, पिता-पितामह का, महान् और द्वैधभाव से रहित — उत्कृष्ट मित्र छह गुणों वाला कहा जाता है।",
+  "english": "Constant, controlled, of light rising, of father and grandfather, great, and without duplicity — an excellent ally is called one having six qualities.",
+  "text_flags": [],
+  "notes": "The six qualities are the six adjectives of line a and the first of line b, counted as nitya, vaśya, laghu-utthāna, pitṛ-paitāmaha, mahat, advaidhya. advaidhya = literally 'non-doubleness'. The iti sums up the list and is not rendered. sampanna as in unit 7.",
+  "confidence": "medium"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṛte",
+      "words": [
+       {
+        "w": "ṛte",
+        "gloss": "apart from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "arthaṃ",
+      "words": [
+       {
+        "w": "artham",
+        "gloss": "purpose",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praṇayād",
+      "words": [
+       {
+        "w": "praṇayāt",
+        "gloss": "from affection",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣyate",
+      "words": [
+       {
+        "w": "rakṣyate",
+        "gloss": "is protected",
+        "gram": "3 sg. pres. pass. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "yac",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣati",
+      "words": [
+       {
+        "w": "rakṣati",
+        "gloss": "protects",
+        "gram": "3 sg. pres. √rakṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pūrva.upacita.sambandhaṃ",
+      "words": [
+       {
+        "w": "pūrva-upacita-sambandham",
+        "gloss": "having a connection built up before",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "tan",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nityam",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "constant",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ucyate",
+      "words": [
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो प्रयोजन के बिना स्नेह से रक्षित होता है और जो रक्षा करता है, जिसका सम्बन्ध पहले से बढ़ाया गया है, वह मित्र नित्य कहा जाता है।",
+  "english": "[The ally] which, apart from a purpose, is protected out of affection, and which protects, having a connection built up before — that ally is called constant.",
+  "text_flags": [],
+  "notes": "ṛte artham is taken as 'apart from a purpose (artha)', i.e. without regard to gain. praṇaya has two senses, 'affection' and 'request' (glossary 5.2 has 'request' for Book 5): 'out of affection' chosen here, 'on request' is the alternative. upacita = built up, accumulated. The relatives yat ... yat have no stated noun; '[The ally]' is understood from mitram.",
+  "confidence": "medium"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarva.citra.mahā.bhogaṃ",
+      "words": [
+       {
+        "w": "sarva-citra-mahā-bhogam",
+        "gloss": "of all, varied and great enjoyment",
+        "gram": "n. acc. sg. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "trividhaṃ",
+      "words": [
+       {
+        "w": "trividham",
+        "gloss": "threefold",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaśyam",
+      "words": [
+       {
+        "w": "vaśyam",
+        "gloss": "controlled [ally]",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ucyate",
+      "words": [
+       {
+        "w": "ucyate",
+        "gloss": "is called",
+        "gram": "3 sg. pres. pass. √vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ekato.bhogy",
+      "words": [
+       {
+        "w": "ekatas-bhogī",
+        "gloss": "enjoying from one side",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ubhayataḥ",
+      "words": [
+       {
+        "w": "ubhayatas",
+        "gloss": "from both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarvato.bhogi",
+      "words": [
+       {
+        "w": "sarvatas-bhogī",
+        "gloss": "enjoying from all sides",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca-aparam",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aparam",
+        "gloss": "the other",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वश में रहने वाला तीन प्रकार का कहा जाता है: सर्व, चित्र और महान् भोग वाला; एक ओर से भोग करने वाला, दोनों ओर से, और दूसरा सब ओर से भोग करने वाला।",
+  "english": "The controlled [ally] is called threefold: of all, varied and great enjoyment; enjoying from one side, from both sides, and the other enjoying from all sides.",
+  "text_flags": [],
+  "notes": "Obscure. The compound sarva-citra-mahā-bhogam is read as a dvandva of three kinds of bhoga (all, varied, great) matching trividham; line b gives three kinds by direction of enjoyment, but with ubhayataḥ standing without bhogī and ca-aparam ('and the other') before sarvato-bhogi, the mapping between the two lines is uncertain. Rendered literally; gram of the compound is a guess.",
+  "confidence": "low"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ādātṛ",
+      "words": [
+       {
+        "w": "ādātṛ",
+        "gloss": "taking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dātr.api",
+      "words": [
+       {
+        "w": "dātṛ",
+        "gloss": "giving",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jīvaty",
+      "words": [
+       {
+        "w": "jīvati",
+        "gloss": "lives",
+        "gram": "3 sg. pres. √jīv"
+       }
+      ]
+     },
+     {
+      "src": "ariṣu",
+      "words": [
+       {
+        "w": "ariṣu",
+        "gloss": "among enemies",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "hiṃsayā",
+      "words": [
+       {
+        "w": "hiṃsayā",
+        "gloss": "by violence",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nityam",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "constant",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "avaśyaṃ",
+      "words": [
+       {
+        "w": "avaśyam",
+        "gloss": "uncontrolled",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tad.durga.aṭavy.apasāri",
+      "words": [
+       {
+        "w": "tad-durga-aṭavy-apasāri",
+        "gloss": "retreating to its fort and forest",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लेने वाला अथवा देने वाला भी अथवा — शत्रुओं में हिंसा से जीता है; मित्र नित्य, वश में न रहने वाला, और उसके दुर्ग और वन में हटने वाला।",
+  "english": "Taking, or even giving, or — [it] lives among enemies by violence; an ally constant, uncontrolled, and retreating to its fort and forest.",
+  "text_flags": [
+   {
+    "src": "dātr.api",
+    "suggest": "dātry api",
+    "why": "possible: the dot suggests a compound, but dātṛ and api are two words (sandhi dātry api)"
+   }
+  ],
+  "notes": "The second vā closes the alternatives (taking, or giving) and is rendered 'or' before the dash; the subject of jīvati is not stated. tad-durga-aṭavy-apasārin: apasārin = going away / retreating; the compound could also be 'having its fort and forest as place of retreat' (cf. glossary apasāra = place of retreat in 10.2). The sentence is elliptic.",
+  "confidence": "low"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anyato",
+      "words": [
+       {
+        "w": "anyatas",
+        "gloss": "from another quarter",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhītaṃ",
+      "words": [
+       {
+        "w": "vigṛhītam",
+        "gloss": "assailed",
+        "gram": "n. nom. sg. ppp. vi-√grah"
+       }
+      ]
+     },
+     {
+      "src": "yal",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "laghu.vyasanam",
+      "words": [
+       {
+        "w": "laghu-vyasanam",
+        "gloss": "of light calamity",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sandhatte",
+      "words": [
+       {
+        "w": "sandhatte",
+        "gloss": "makes a treaty",
+        "gram": "3 sg. pres. mid. sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "ca-upakārāya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "upakārāya",
+        "gloss": "for help",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "tan",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaśyam",
+      "words": [
+       {
+        "w": "vaśyam",
+        "gloss": "controlled",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhruvam",
+      "words": [
+       {
+        "w": "adhruvam",
+        "gloss": "unstable",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो दूसरी ओर से विग्रह में पड़ा हुआ है अथवा हल्के व्यसन वाला ही है, और उपकार के लिए सन्धि करता है, वह मित्र वश में रहने वाला, अस्थिर है।",
+  "english": "[The ally] which is assailed from another quarter, or indeed has a light calamity, and makes a treaty for help — that ally is controlled, unstable.",
+  "text_flags": [],
+  "notes": "vigṛhīta (vi-√grah) = one on whom war has been made / involved in hostility; rendered 'assailed'. sandhatte: object not stated ('makes a treaty [with him]'). vyasana = calamity (glossary 8.1). Order of vā and eva: 'light calamity indeed, or'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eka.arthena-atha",
+      "words": [
+       {
+        "w": "eka-arthena",
+        "gloss": "by a single purpose",
+        "gram": "m. inst. sg. (karmadhāraya)"
+       }
+      ]
+     },
+     {
+      "src": "sambaddham",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       },
+       {
+        "w": "sambaddham",
+        "gloss": "bound",
+        "gram": "n. nom. sg. ppp. sam-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "upakārya.vikāri",
+      "words": [
+       {
+        "w": "upakārya-vikāri",
+        "gloss": "changeable toward the one to be helped",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mitra.bhāvi",
+      "words": [
+       {
+        "w": "mitra-bhāvi",
+        "gloss": "ally-natured",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "bhavaty",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "etan",
+      "words": [
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "advaidhyam",
+      "words": [
+       {
+        "w": "advaidhyam",
+        "gloss": "without duplicity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "āpadi",
+      "words": [
+       {
+        "w": "āpadi",
+        "gloss": "in adversity",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह मित्र, एक अर्थ से बँधा हुआ, तब उपकार्य के प्रति परिवर्तनशील और मित्रभावी, आपत्ति में द्वैधभाव से रहित है।",
+  "english": "Bound by a single purpose, then changeable toward the one to be helped, and ally-natured, this ally is without duplicity in adversity.",
+  "text_flags": [],
+  "notes": "Obscure. upakārya-vikārin read 'changing in regard to the one to be helped' (upakārya = one who is to be helped); the sense 'turning against' is not stated. mitra-bhāvin: bhāvin = having the nature of / tending to be; 'ally-natured'. atha rendered 'then'. Word order of the Hindi follows the English.",
+  "confidence": "low"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mitra.bhāvād",
+      "words": [
+       {
+        "w": "mitra-bhāvāt",
+        "gloss": "from ally-nature",
+        "gram": "m. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "dhruvaṃ",
+      "words": [
+       {
+        "w": "dhruvam",
+        "gloss": "firm",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatru.sādhāraṇāc",
+      "words": [
+       {
+        "w": "śatru-sādhāraṇāt",
+        "gloss": "from being common with the enemy",
+        "gram": "n. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "calam",
+      "words": [
+       {
+        "w": "calam",
+        "gloss": "shaky",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kasyacid",
+      "words": [
+       {
+        "w": "kasyacit",
+        "gloss": "of anyone",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "udāsīnaṃ",
+      "words": [
+       {
+        "w": "udāsīnam",
+        "gloss": "neutral",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvayor",
+      "words": [
+       {
+        "w": "dvayoḥ",
+        "gloss": "of the two",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "ubhaya.bhāvi",
+      "words": [
+       {
+        "w": "ubhaya-bhāvi",
+        "gloss": "of both-nature",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मित्र-भाव से मित्र ध्रुव है, शत्रु के साथ साझा होने से चल; किसी का नहीं, उदासीन; दोनों में वह दोनों के भाव वाला है।",
+  "english": "From ally-nature the ally [is] firm, from being common with the enemy, shaky; [the one] of no one [is] neutral; of the two, that [one] is of both-nature.",
+  "text_flags": [],
+  "notes": "Verbless clauses with the copula supplied. na kasyacit udāsīnam: 'neutral [belongs] to no one'. dvayor ubhaya-bhāvi tat is read 'of the two (parties), that one is ubhaya-bhāvin'. Technical names of the classes: mitra-bhāvin, śatru-sādhāraṇa, udāsīna, ubhaya-bhāvin; the ones in units 45-48.",
+  "confidence": "medium"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vijigīṣor",
+      "words": [
+       {
+        "w": "vijigīṣoḥ",
+        "gloss": "of the conqueror",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitraṃ",
+      "words": [
+       {
+        "w": "amitram",
+        "gloss": "enemy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yan",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "antardhitāṃ",
+      "words": [
+       {
+        "w": "antardhitām",
+        "gloss": "concealment",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gatam",
+      "words": [
+       {
+        "w": "gatam",
+        "gloss": "gone to",
+        "gram": "n. nom. sg. ppp. √gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "upakāre",
+      "words": [
+       {
+        "w": "upakāre",
+        "gloss": "in help",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'niviṣṭaṃ",
+      "words": [
+       {
+        "w": "aniviṣṭam",
+        "gloss": "not engaged",
+        "gram": "n. nom. sg. ppp. a-ni-√viś"
+       }
+      ]
+     },
+     {
+      "src": "vā-aśaktaṃ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "aśaktam",
+        "gloss": "incapable",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-anupakāri",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anupakāri",
+        "gloss": "non-helping",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो मित्र विजिगीषु का अमित्र है, छिपाव में चला गया है, अथवा उपकार में लगा नहीं है, अथवा असमर्थ है, वह उपकार न करने वाला है।",
+  "english": "The ally which is an enemy of the conqueror, gone to concealment, or not engaged in helping, or incapable — that is non-helping.",
+  "text_flags": [],
+  "notes": "antardhitāṃ gatam: 'gone to concealment' (antardhitā, feminine abstract), taken literally. The list of unhelpful kinds is read as alternatives: enemy of the conqueror gone into concealment / not engaged in helping / incapable. vijigīṣu = the conqueror (glossary 6.2).",
+  "confidence": "medium"
+ },
+ {
+  "n": "46",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "priyaṃ",
+      "words": [
+       {
+        "w": "priyam",
+        "gloss": "dear",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the other",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣyaṃ",
+      "words": [
+       {
+        "w": "rakṣyam",
+        "gloss": "to be protected",
+        "gram": "n. acc. sg. gerundive √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "pūjyaṃ",
+      "words": [
+       {
+        "w": "pūjyam",
+        "gloss": "venerable",
+        "gram": "n. acc. sg. gerundive √pūj"
+       }
+      ]
+     },
+     {
+      "src": "sambaddham",
+      "words": [
+       {
+        "w": "sambaddham",
+        "gloss": "connected",
+        "gram": "n. acc. sg. ppp. sam-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "anugṛhṇāti",
+      "words": [
+       {
+        "w": "anugṛhṇāti",
+        "gloss": "favours",
+        "gram": "3 sg. pres. anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "yan",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatru.sādhāraṇaṃ",
+      "words": [
+       {
+        "w": "śatru-sādhāraṇam",
+        "gloss": "common with the enemy",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो मित्र दूसरे के प्रिय, अथवा रक्षणीय, पूजनीय, अथवा सम्बद्ध को ही अनुगृहीत करता है, क्योंकि वह शत्रु के साथ साझा है।",
+  "english": "The ally who favours [one] dear to the other, or [one] to be protected, venerable, or indeed connected — for that [ally] is common with the enemy.",
+  "text_flags": [],
+  "notes": "parasya is 'of the other' (glossary 9.2: para = the other, not 'enemy'). The objects (priyam, rakṣyam, pūjyam, sambaddham) are neuter accusatives without stated noun; '[one]' supplied.",
   "confidence": "medium"
  }
 ]

@@ -1707,7 +1707,7 @@
    {
     "src": "mitra.taraṃ",
     "suggest": "mitrataraṃ",
-    "why": "possible stray compound dot: -tara is a comparative suffix, not a member, and units 20 and 23-style parallels print mitrataraṃ (unit 20)"
+    "why": "possible stray compound dot: -tara is a comparative suffix, not a member; unit 20 prints mitrataraṃ"
    }
   ],
   "notes": "'in the favouring of one person' = when the two favour the same person (the object of unit 11's allies); sense of the unit: the one who favours an ally or closer ally outwits the other. mitra-tara 'closer ally' (literally 'more of an ally').",
@@ -2407,6 +2407,903 @@
   "english": "The opposite one outwits.",
   "text_flags": [],
   "notes": "'The opposite' = he who gives an army not of the kinds listed in unit 25; the noun is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yatra",
+      "words": [
+       {
+        "w": "yatra",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "army",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prahitas",
+      "words": [
+       {
+        "w": "prahitaḥ",
+        "gloss": "sent out",
+        "gram": "m. nom. sg. past part. pra-√hi"
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca-artham",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "artham",
+        "gloss": "the object",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyāṃś",
+      "words": [
+       {
+        "w": "anyān",
+        "gloss": "others",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sādhayati",
+      "words": [
+       {
+        "w": "sādhayati",
+        "gloss": "accomplishes",
+        "gram": "3 sg. pres. caus. √sādh"
+       }
+      ]
+     },
+     {
+      "src": "tatra",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maula.bhṛta.śreṇī.mitra.aṭavī.balānām",
+      "words": [
+       {
+        "w": "maula-bhṛta-śreṇī-mitra-aṭavī-balānām",
+        "gloss": "of the hereditary, hired, guild, ally and forest-tribe troops",
+        "gram": "n. gen. pl.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "anyatamam",
+      "words": [
+       {
+        "w": "anyatamam",
+        "gloss": "any one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upalabdha.deśa.kālaṃ",
+      "words": [
+       {
+        "w": "upalabdha-deśa-kālam",
+        "gloss": "whose place and time are ascertained",
+        "gram": "m. acc. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaṃ",
+      "words": [
+       {
+        "w": "daṇḍam",
+        "gloss": "army",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt,",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     },
+     {
+      "src": "amitra.aṭavī.balaṃ",
+      "words": [
+       {
+        "w": "amitra-aṭavī-balam",
+        "gloss": "enemy and forest-tribe troops",
+        "gram": "n. acc. sg.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyavahita.deśa.kālam",
+      "words": [
+       {
+        "w": "vyavahita-deśa-kālam",
+        "gloss": "whose place and time are separated",
+        "gram": "n. acc. sg.; bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु जहाँ भेजी गई सेना उसे अथवा, और, अर्थ को और दूसरों को सिद्ध करती है, वहाँ मौल, भृत, श्रेणी, मित्र, आटवी सेनाओं में से किसी एक, ज्ञात देश और काल वाली सेना दे, अथवा व्यवहित देश और काल वाली शत्रु और आटवी सेना।",
+  "english": "But where the army sent out accomplishes him or—and—the object and others, there [one] should give an army, any one of the hereditary, hired, guild, ally and forest-tribe troops, whose place and time are ascertained, or enemy and forest-tribe troops whose place and time are separated.",
+  "text_flags": [
+   {
+    "src": "vā",
+    "suggest": "delete vā: taṃ ca-artham",
+    "why": "possible stray vā before ca-artham in the first clause (vā and ca both follow tam); the second vā of the line is sound"
+   }
+  ],
+  "notes": "'taṃ vā ca-artham anyāṃś ca' has both vā and ca after tam; the grammar is doubtful (probably taṃ ca-artham anyāṃś ca, 'him, the object and others'); both particles are rendered literally as printed. 'tam' (him) = the recipient of the army. daṇḍa = army (Book 9 glossary). Troops: hereditary/hired/guild/ally/forest-tribe (9.2). upalabdha-deśa-kāla 'of ascertained place and time'; vyavahita 'separated, intervening' (alt. 'distant'). amitra-aṭavī-bala read as a dvandva (enemy troops and forest-tribe troops). dadyāt governs both objects.",
+  "confidence": "low"
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manyeta",
+      "words": [
+       {
+        "w": "manyeta",
+        "gloss": "should think",
+        "gram": "3 sg. opt. mid. √man"
+       }
+      ]
+     },
+     {
+      "src": "\"kṛta.artho",
+      "words": [
+       {
+        "w": "kṛta-arthaḥ",
+        "gloss": "one whose purpose is accomplished",
+        "gram": "m. nom. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaṃ",
+      "words": [
+       {
+        "w": "daṇḍam",
+        "gloss": "army",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛhṇīyād,",
+      "words": [
+       {
+        "w": "gṛhṇīyāt",
+        "gloss": "might take",
+        "gram": "3 sg. opt. √grah"
+       }
+      ]
+     },
+     {
+      "src": "amitra.aṭavy.abhūmy.anṛtuṣu",
+      "words": [
+       {
+        "w": "amitra-aṭavī-abhūmi-anṛtuṣu",
+        "gloss": "among enemies, in forests, on unsuitable ground, out of season",
+        "gram": "loc. pl.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāsayed,",
+      "words": [
+       {
+        "w": "vāsayet",
+        "gloss": "might lodge",
+        "gram": "3 sg. opt. caus. √vas"
+       }
+      ]
+     },
+     {
+      "src": "aphalaṃ",
+      "words": [
+       {
+        "w": "aphalam",
+        "gloss": "fruitless",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryād\"",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "might make",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "iti,",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.vyāsaṅga.apadeśena",
+      "words": [
+       {
+        "w": "daṇḍa-vyāsaṅga-apadeśena",
+        "gloss": "on the pretext of the army's engagement",
+        "gram": "m. inst. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "na-enam",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anugṛhṇīyāt",
+      "words": [
+       {
+        "w": "anugṛhṇīyāt",
+        "gloss": "should favour",
+        "gram": "3 sg. opt. anu-√grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु जिसके विषय में सोचे—“कृतार्थ मेरी सेना को ले ले, शत्रु, वन, अनुपयुक्त भूमि अथवा बेमौसम में बसा दे, अथवा निष्फल कर दे”—उस पर सेना के व्यासङ्ग के बहाने अनुग्रह न करे।",
+  "english": "But [him] whom [one] might think, “One whose purpose is accomplished might take my army, or lodge [it] among enemies, in forests, on unsuitable ground or out of season, or make [it] fruitless,” him [one] should not favour, on the pretext of the army's engagement.",
+  "text_flags": [],
+  "notes": "Quotation closed by iti (carried by the quotation marks, glossed 'closing particle'). The locative compound is read as a dvandva of four (enemies, forests, unsuitable ground, out of season); 'among enemies' may also be 'in enemy [territory]'. vyāsaṅga = engagement/entanglement (alt. 'being engaged elsewhere'). The object 'it' (the army) is supplied in brackets in English. gṛhṇīyāt 'take' (alt. 'keep').",
+  "confidence": "medium"
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evam",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "in this way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "avaśyaṃ",
+      "words": [
+       {
+        "w": "avaśyam",
+        "gloss": "necessarily",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tv",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anugrahītavye",
+      "words": [
+       {
+        "w": "anugrahītavye",
+        "gloss": "when to be favoured",
+        "gram": "m. loc. sg. gerundive anu-√grah"
+       }
+      ]
+     },
+     {
+      "src": "tat.kāla.saham",
+      "words": [
+       {
+        "w": "tat-kāla-saham",
+        "gloss": "able to bear that time",
+        "gram": "m. acc. sg.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "asmai",
+      "words": [
+       {
+        "w": "asmai",
+        "gloss": "to him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaṃ",
+      "words": [
+       {
+        "w": "daṇḍam",
+        "gloss": "army",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार किन्तु अवश्य अनुग्रह किए जाने योग्य होने पर उसे उस काल को सहने वाली सेना दे।",
+  "english": "But in this way, when [he] is necessarily to be favoured, [one] should give him an army able to bear that time.",
+  "text_flags": [],
+  "notes": "anugrahītavye is a locative gerundive ('when to be favoured'), subject unstated; tat-kāla-saha 'able to bear that time' (alt. 'for that time only').",
+  "confidence": "medium"
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā.samāpteś",
+      "words": [
+       {
+        "w": "ā-samāpteḥ",
+        "gloss": "until completion",
+        "gram": "f. abl. sg. (ā + abl.)"
+       }
+      ]
+     },
+     {
+      "src": "ca-enaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsayed",
+      "words": [
+       {
+        "w": "vāsayet",
+        "gloss": "should lodge",
+        "gram": "3 sg. opt. caus. √vas"
+       }
+      ]
+     },
+     {
+      "src": "yodhayec",
+      "words": [
+       {
+        "w": "yodhayet",
+        "gloss": "should make fight",
+        "gram": "3 sg. opt. caus. √yudh"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bala.vyasanebhyaś",
+      "words": [
+       {
+        "w": "bala-vyasanebhyaḥ",
+        "gloss": "from calamities of the army",
+        "gram": "n. abl. pl.; tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rakṣet",
+      "words": [
+       {
+        "w": "rakṣet",
+        "gloss": "should protect",
+        "gram": "3 sg. opt. √rakṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और समाप्ति तक इसे बसाए और लड़ाए, और सेना के व्यसनों से रक्षा करे।",
+  "english": "And until completion [one] should lodge him and make [him] fight, and should protect [him] from calamities of the army.",
+  "text_flags": [],
+  "notes": "Four ca/verb positions: ca after ā-samāpteḥ, after yodhayet, and after bala-vyasanebhyaḥ are all rendered 'and'.",
+  "confidence": "high"
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛta.arthāc",
+      "words": [
+       {
+        "w": "kṛta-arthāt",
+        "gloss": "from one whose purpose is accomplished",
+        "gram": "m. abl. sg.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa.apadeśam",
+      "words": [
+       {
+        "w": "sa-apadeśam",
+        "gloss": "with a pretext",
+        "gram": "ind.; bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "apasrāvayet",
+      "words": [
+       {
+        "w": "apasrāvayet",
+        "gloss": "should cause to slip away",
+        "gram": "3 sg. opt. caus. apa-√sru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और कृतार्थ से बहाने सहित खिसकवाए।",
+  "english": "And [one] should cause [him] to slip away, with a pretext, from [the one] whose purpose is accomplished.",
+  "text_flags": [],
+  "notes": "apasrāvayet literally 'cause to flow away'; the sense of the object (him / the army) is not stated and is bracketed in English only. kṛta-arthāt may be an ablative of separation ('from') or 'when his purpose is done'.",
+  "confidence": "low"
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dūṣya.amitra.aṭavī.daṇḍaṃ",
+      "words": [
+       {
+        "w": "dūṣya-amitra-aṭavī-daṇḍam",
+        "gloss": "army of the treasonable, the enemy and forest tribes",
+        "gram": "m. acc. sg.; dvandva + tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā-asmai",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "asmai",
+        "gloss": "to him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा इसे दूष्य, शत्रु, आटवी की सेना दे।",
+  "english": "Or [one] should give him an army of the treasonable, the enemy and forest tribes.",
+  "text_flags": [],
+  "notes": "daṇḍa = army. The compound may also be read 'treasonable, enemy [and] forest troops'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yātavyena",
+      "words": [
+       {
+        "w": "yātavyena",
+        "gloss": "with the one to be marched against",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sandhāya-enam",
+      "words": [
+       {
+        "w": "sandhāya",
+        "gloss": "having made peace",
+        "gram": "abs. sam-√dhā"
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "atisandadhyāt",
+      "words": [
+       {
+        "w": "atisandadhyāt",
+        "gloss": "should outwit",
+        "gram": "3 sg. opt. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा यातव्य से सन्धि करके इसे छल ले।",
+  "english": "Or, having made peace with the one to be marched against, [one] should outwit him.",
+  "text_flags": [],
+  "notes": "sandhi = peace (Books 8-9).",
+  "confidence": "high"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "same",
+      "words": [
+       {
+        "w": "same",
+        "gloss": "in an equal",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "lābhe",
+      "words": [
+       {
+        "w": "lābhe",
+        "gloss": "in gain",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhiḥ",
+      "words": [
+       {
+        "w": "sandhiḥ",
+        "gloss": "peace",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "syād",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "should be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "viṣame",
+      "words": [
+       {
+        "w": "viṣame",
+        "gloss": "in an unequal",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikramo",
+      "words": [
+       {
+        "w": "vikramaḥ",
+        "gloss": "attack",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mataḥ",
+      "words": [
+       {
+        "w": "mataḥ",
+        "gloss": "deemed",
+        "gram": "m. nom. sg. past part. √man"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sama.hīna.viśiṣṭānām",
+      "words": [
+       {
+        "w": "sama-hīna-viśiṣṭānām",
+        "gloss": "of the equal, the inferior and the superior",
+        "gram": "m. gen. pl.; dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "uktāḥ",
+      "words": [
+       {
+        "w": "uktāḥ",
+        "gloss": "are stated",
+        "gram": "m. nom. pl. past part. √vac"
+       }
+      ]
+     },
+     {
+      "src": "sandhi.vikramāḥ",
+      "words": [
+       {
+        "w": "sandhi-vikramāḥ",
+        "gloss": "peace and attacks",
+        "gram": "m. nom. pl.; dvandva"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि समान लाभ में सन्धि हो, विषम में विक्रम माना गया है; सम, हीन, विशिष्ट के सन्धि और विक्रम कहे गए हैं।",
+  "english": "For in an equal gain there should be peace; in an unequal [one], attack is deemed [right]; peace and attacks have been stated for the equal, the inferior and the superior.",
+  "text_flags": [],
+  "notes": "Verse (two half-lines). The iti after sama-hīna-viśiṣṭānām closes the verse's statement and is glossed 'closing particle', not rendered. viṣame: the noun lābhe is understood. vikrama = attack (alt. 'prowess, valour').",
   "confidence": "medium"
  }
 ]
