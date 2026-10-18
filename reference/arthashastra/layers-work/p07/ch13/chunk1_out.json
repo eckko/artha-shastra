@@ -445,7 +445,7 @@
       "words": [
        {
         "w": "sarva-sandohena",
-        "gloss": "with the whole mass",
+        "gloss": "with the whole gathering",
         "gram": "tat-puruṣa m. inst. sg."
        }
       ]
@@ -503,10 +503,10 @@
     ]
    }
   ],
-  "hindi": "आरम्भ की समानता में जो सम्पूर्ण समूह के साथ प्रयाण किए हुए का पार्ष्णि पकड़ता है, वह छल लेता है।",
-  "english": "In equality of undertaking, he who seizes the heel of one who has marched with the whole mass outwits.",
+  "hindi": "आरम्भ की समानता में जो सर्व-समूह के साथ प्रयाण किए हुए का पार्ष्णि पकड़ता है, वह छल लेता है।",
+  "english": "In equality of undertaking, he who seizes the heel of one who has marched with the whole gathering outwits.",
   "text_flags": [],
-  "notes": "sandoha = mass, totality (what mass is not stated; no noun supplied).",
+  "notes": "sarva-sandoha = the whole gathering (glossary 7.4, literal); what is gathered is not stated and no noun is supplied.",
   "confidence": "high"
  },
  {
@@ -1487,9 +1487,9 @@
    }
   ],
   "hindi": "क्योंकि मित्र के साथ सन्धि सुकर है, शत्रु के साथ नहीं।",
-  "english": "For a treaty with an ally is easy to do, not with an enemy.",
+  "english": "For peace with an ally is easy to do, not with an enemy.",
   "text_flags": [],
-  "notes": "sandhi = treaty (Book 7 convention); the sense 'peace' (glossary 8.5/12.5) is possible.",
+  "notes": "sandhi = peace (bare sandhi, glossary 7.3/7.4/7.5); 'treaty' (glossary 7.7) is the alternative.",
   "confidence": "high"
  },
  {
@@ -1940,7 +1940,7 @@
       "words": [
        {
         "w": "yātavyaḥ",
-        "gloss": "one to be marched on",
+        "gloss": "one to be marched against",
         "gram": "gerundive √yā m. nom. sg."
        }
       ]
@@ -1960,7 +1960,7 @@
       "words": [
        {
         "w": "vigraha-apakāra-samarthaḥ",
-        "gloss": "capable of war and harm",
+        "gloss": "capable of war and injury",
         "gram": "tat-puruṣa m. nom. sg."
        }
       ]
@@ -1978,10 +1978,10 @@
     ]
    }
   ],
-  "hindi": "लाभ पाकर चले जाने पर जिसका शत्रु लाभ से, शक्ति से हीन है, वह पार्ष्णिग्राह छल लेता है, अथवा जिसका यातव्य शत्रु के विग्रह और अपकार में समर्थ हो।",
-  "english": "On going away with gain obtained, that heel-seizer outwits whose enemy is deficient in gain, in power, or [he] whose one to be marched on would be capable of war and harm to the enemy.",
+  "hindi": "लाभ पाकर चले जाने पर जिसका शत्रु लाभ से, शक्ति से हीन है, वह पार्ष्णिग्राह छल लेता है, अथवा जिसके लिए जिस पर चढ़ाई करनी है, शत्रु के विग्रह और अपकार में समर्थ हो।",
+  "english": "On going away with gain obtained, that heel-seizer outwits whose enemy is deficient in gain, in power, or [he] whose one to be marched against would be capable of war and injury to the enemy.",
   "text_flags": [],
-  "notes": "The last clause is elliptical (the main verb is not repeated); śatroḥ is taken as the objective genitive 'to the enemy' (alternative: 'of the enemy'). vigraha = war, apakāra = harm, injury. The two instrumentals lābhena śaktyā stand without ca.",
+  "notes": "The last clause is elliptical (the main verb is not repeated); śatroḥ is taken as the objective genitive 'to the enemy' (alternative: 'of the enemy'). vigraha = war, apakāra = injury (glossary 7.1). The two instrumentals lābhena śaktyā stand without ca.",
   "confidence": "medium"
  },
  {
@@ -2118,7 +2118,7 @@
       "words": [
        {
         "w": "yātavya-abhisāraḥ",
-        "gloss": "reinforcement of the one to be marched on",
+        "gloss": "reinforcement of the one to be marched against",
         "gram": "tat-puruṣa m. nom. sg."
        }
       ]
@@ -2186,8 +2186,8 @@
     ]
    }
   ],
-  "hindi": "क्योंकि पार्श्व में स्थित रहने वाला यातव्य की सहायता और मूल का बाधक होता है, मूल का बाधक ही पीछे स्थित रहने वाला है।",
-  "english": "For a flank-stander becomes a reinforcement of the one to be marched on and a harasser of the base; just a harasser of the base [is] a rear-stander.",
+  "hindi": "क्योंकि पार्श्व में स्थित रहने वाला जिस पर चढ़ाई करनी है उसकी सहायता और मूल का बाधक होता है, मूल का बाधक ही पीछे स्थित रहने वाला है।",
+  "english": "For a flank-stander becomes a reinforcement of the one to be marched against and a harasser of the base; just a harasser of the base [is] a rear-stander.",
   "text_flags": [],
   "notes": "abhisāra = reinforcement (glossary 8.5); alternative 'assault'. The last clause is verbless; word order allows 'the rear-stander is only a harasser of the base' (taken so in sense) or 'only a harasser of the base is a rear-stander'. ābādhaka = harassing, hindering.",
   "confidence": "medium"
@@ -2637,7 +2637,7 @@
       "words": [
        {
         "w": "sandheyaḥ",
-        "gloss": "to be made a treaty with",
+        "gloss": "to be made peace with",
         "gram": "gerundive sam-√dhā m. nom. sg."
        }
       ]
@@ -2716,9 +2716,9 @@
    }
   ],
   "hindi": "और उपकार करता हुआ शत्रु सन्धि करने योग्य है, न मित्रभाव से निकला हुआ मित्र।",
-  "english": "And an enemy who does a favour is one with whom a treaty is to be made, not an ally who has departed from the state of ally.",
+  "english": "And an enemy who does a favour is one with whom peace is to be made, not an ally who has departed from the state of ally.",
   "text_flags": [],
-  "notes": "sandheya = to be made a treaty with (sandhi = treaty); upakurvāṇa = doing a favour (helping). utkrānta = gone out, departed (alternative 'transgressed').",
+  "notes": "sandheya = one with whom peace is to be made (sandhi = peace, glossary 7.3; 'treaty' is the alternative); upakurvāṇa = doing a favour (helping). utkrānta = gone out, departed (alternative 'transgressed').",
   "confidence": "high"
  },
  {
@@ -2800,7 +2800,7 @@
       "words": [
        {
         "w": "abhyuccayaḥ",
-        "gloss": "increase",
+        "gloss": "heaping up",
         "gram": "m. nom. sg."
        }
       ]
@@ -2808,10 +2808,10 @@
     ]
    }
   ],
-  "hindi": "“किन्तु पार्ष्णि पकड़ने और अभियान में मन्त्रयुद्ध से बढ़ोतरी है",
-  "english": "“But in [the case of] seizing the heel and marching against, there is an increase from war of counsel",
+  "hindi": "“किन्तु पार्ष्णि पकड़ने और अभियान में मन्त्रयुद्ध से संचय है",
+  "english": "“But in [the case of] seizing the heel and marching against, there is a heaping up from war of counsel",
   "text_flags": [],
-  "notes": "The quotation of the teachers opens here and closes at unit 31 (not flagged). abhyuccaya = increase (alternatives: advantage, superiority); the locative/genitive dual is taken as 'in [the case of]'. mantra-yuddha = war of counsel (glossary 12.1). abhiyāna = marching against.",
+  "notes": "The quotation of the teachers opens here and closes at unit 31 (not flagged). abhyuccaya = heaping up (glossary 7.1, literal; alternatives: increase, advantage, superiority); the locative/genitive dual is taken as 'in [the case of]'. mantra-yuddha = war of counsel (glossary 12.1). abhiyāna = marching against.",
   "confidence": "medium"
  },
  {
@@ -2913,7 +2913,7 @@
       "words": [
        {
         "w": "kṣīṇa-daṇḍa-kośaḥ",
-        "gloss": "with exhausted army and treasury",
+        "gloss": "with diminished army and treasury",
         "gram": "bahuvrīhi m. nom. sg."
        }
       ]
@@ -2962,15 +2962,15 @@
    }
   ],
   "hindi": "क्योंकि जीतकर भी क्षीण सेना और कोश वाला पराजित होता है,” ऐसा आचार्य कहते हैं।",
-  "english": "For even having conquered, one with exhausted army and treasury becomes defeated,” say the teachers.",
+  "english": "For even having conquered, one with diminished army and treasury becomes defeated,” say the teachers.",
   "text_flags": [
    {
     "src": "kṣiṇa.daṇḍa.kośaḥ",
     "suggest": "kṣīṇa.daṇḍa.kośaḥ",
-    "why": "possible: short i for long ī (kṣīṇa 'exhausted')"
+    "why": "possible: short i for long ī (kṣīṇa 'diminished')"
    }
   ],
-  "notes": "Closes the quotation opened in unit 29. daṇḍa = army (as a constituent element, glossary 12.1). Printed kṣiṇa is probably kṣīṇa.",
+  "notes": "Closes the quotation opened in unit 29. daṇḍa = army (as a constituent element, glossary 12.1). kṣīṇa = diminished (glossary 7.5). Printed kṣiṇa is probably kṣīṇa.",
   "confidence": "high"
  },
  {
@@ -3201,14 +3201,8 @@
   ],
   "hindi": "समान क्षय और व्यय में जो पहले दूष्य सेना को मरवाकर, काँटे से रहित, बाद में वश में सेना वाला युद्ध करे, वह छल लेता है।",
   "english": "In equal loss and expenditure, he who, having first had the treasonable army killed, free of the thorn, would afterwards fight with an obedient army, outwits.",
-  "text_flags": [
-   {
-    "src": "nihśalyaḥ",
-    "suggest": "niḥśalyaḥ",
-    "why": "h written for visarga (niḥ- before ś)"
-   }
-  ],
-  "notes": "dūṣya = the treasonable (glossary 6.2); śalya = thorn (dart), taken figuratively as nothing is said. vaśya = obedient, under control. Printed nihśalyaḥ has h for the visarga (niḥśalyaḥ).",
+  "text_flags": [],
+  "notes": "dūṣya = the treasonable (glossary 6.2); śalya = thorn (dart), taken figuratively as nothing is said. vaśya = obedient, under control. Printed nihśalyaḥ is the e-text's regular h for visarga before a sibilant (glossary 7.10); w reads niḥśalyaḥ, no flag.",
   "confidence": "high"
  },
  {
@@ -3424,7 +3418,7 @@
       "words": [
        {
         "w": "yātavyaḥ",
-        "gloss": "one to be marched on",
+        "gloss": "one to be marched against",
         "gram": "gerundive √yā m. nom. sg."
        }
       ]
@@ -3526,8 +3520,8 @@
     ]
    }
   ],
-  "hindi": "जब पार्ष्णिग्राह, या आक्रमणकारी, या यातव्य हो, तब वहाँ विजिगीषु इस नेत्र का आचरण करे।",
-  "english": "When [he] should be a heel-seizer, or an attacker, or one to be marched on, then there the conqueror should follow this netra ('guide', literally 'eye').",
+  "hindi": "जब पार्ष्णिग्राह हो, या आक्रमणकारी हो, या जिस पर चढ़ाई करनी है, ऐसा हो, तब वहाँ विजिगीषु इस नेत्र का आचरण करे।",
+  "english": "When [he] should be a heel-seizer, or an attacker, or one to be marched against, then there the conqueror should follow this netra ('guide', literally 'eye').",
   "text_flags": [],
   "notes": "The subject of bhavet is understood to be the conqueror. netra is left as the term with its literal sense ('eye', that which leads); the meaning is uncertain (alternatives: 'guide', 'rule of conduct'). The two vā are rendered 'or ... or'.",
   "confidence": "medium"
@@ -3637,7 +3631,7 @@
   "hindi": "नेता मित्र पर आक्रमण करने वाले शत्रु का पार्ष्णिग्राह बने, पहले आक्रन्द को पार्ष्णिग्राह की सहायता करने वाले के साथ विग्रह में लगाकर।",
   "english": "The leader should be the heel-seizer of the enemy who is an attacker of an ally, having first set the rear ally at war with the reinforcer of the heel-seizer.",
   "text_flags": [],
-  "notes": "netā = leader (the conqueror, as in unit 25). vigrāhya taken as the gerund of the causative of vi-√grah (vigraha = war); the construction (who is set at war with whom) is uncertain. abhisārin = one who reinforces (abhisāra = reinforcement, glossary 8.5).",
+  "notes": "netā = leader (the conqueror, as in unit 25). vigrāhya taken as the gerund of the causative of vi-√grah (vigraha = war; cf. glossary 7.4 vigṛhya = having made war); the construction (who is set at war with whom) is uncertain. abhisārin = one who reinforces (abhisāra = reinforcement, glossary 8.5).",
   "confidence": "medium"
  },
  {
@@ -3881,7 +3875,7 @@
       "words": [
        {
         "w": "abhiyuktaḥ",
-        "gloss": "attacked",
+        "gloss": "attacked, the one attacked",
         "gram": "pp. abhi-√yuj m. nom. sg."
        }
       ]
@@ -3948,7 +3942,7 @@
     ]
    }
   ],
-  "hindi": "आक्रमण किया गया, आक्रमणकारी का पार्ष्णि मित्र के द्वारा पकड़वाए; और मित्र के मित्र के द्वारा आक्रन्द, पार्ष्णिग्राहों का निवारण करे।",
+  "hindi": "जिस पर आक्रमण किया गया, आक्रमणकारी का पार्ष्णि मित्र के द्वारा पकड़वाए; और मित्र के मित्र के द्वारा आक्रन्द, पार्ष्णिग्राहों का निवारण करे।",
   "english": "Attacked, [he] should have the heel of the attacker seized through an ally; and through the ally's ally he should keep off the rear ally, the heel-seizers.",
   "text_flags": [],
   "notes": "abhiyuktaḥ is read as 'being attacked' with the subject (the one attacked) understood; the object pair ākrandaṃ pārṣṇi-grāhān has no ca between the two, so it is kept as a bare apposition/list. grāhayet = cause to be seized (glossary 9.6).",
@@ -4339,14 +4333,8 @@
   ],
   "hindi": "असंवृत के कार्य, प्राप्त हुए भी, विशेष रूप से निःसन्देह नष्ट हो जाते हैं, समुद्र में टूटी नाव के समान।",
   "english": "The tasks of one who is unconcealed, even when attained, especially, come to ruin without doubt, like a broken boat in the ocean.",
-  "text_flags": [
-   {
-    "src": "nihsaṃśayaṃ",
-    "suggest": "niḥsaṃśayaṃ",
-    "why": "h written for visarga (niḥ- before s)"
-   }
-  ],
-  "notes": "asaṃvṛta = unconcealed (alternative: unguarded). vipadyante = come to ruin (literally 'fall into misfortune'). Printed nihsaṃśayaṃ has h for the visarga.",
+  "text_flags": [],
+  "notes": "asaṃvṛta = unconcealed (alternative: unguarded). vipadyante = come to ruin (literally 'fall into misfortune'). Printed nihsaṃśayaṃ is the e-text's regular h for visarga before a sibilant (glossary 7.10); w reads niḥsaṃśayam, no flag.",
   "confidence": "high"
  }
 ]
