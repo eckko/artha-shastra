@@ -1,0 +1,757 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिस पर चढ़ाई की जानी है,",
+     "problem": "Hindi yātavya rendering differs from the rest of Book 7 (7.7 चढ़ाई करने योग्य); unit 5 and 33 use bare यातव्य",
+     "fix": "चढ़ाई करने योग्य,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस पर चढ़ाई की जानी है,",
+      "new": "चढ़ाई करने योग्य,",
+      "n": "1"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "लाभ की दुगुनी मात्रा पर",
+     "problem": "\"मात्रा\" is added; dvaiguṇya has no such noun",
+     "fix": "दुगुने लाभ पर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "लाभ की दुगुनी मात्रा पर",
+      "new": "दुगुने लाभ पर",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sāmavāyikānām",
+     "problem": "Other Book 7 chapters (7.4, 7.9) render sāmavāyika \"associate\"; \"confederate\" is inconsistent",
+     "fix": "of the associates",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sāmavāyikānām",
+      "field": "gloss",
+      "value": "of the associates",
+      "n": "1"
+     }
+    },
+    {
+     "field": "english",
+     "where": "any one of the confederates",
+     "problem": "sāmavāyika = associate as in 7.4 and 7.9",
+     "fix": "any one of the associates",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "any one of the confederates",
+      "new": "any one of the associates",
+      "n": "1"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "notes still say \"confederate\"",
+     "fix": "Subject: yātavyaḥ and abhiyāsyamānaḥ stand side by side with no vā; '[or]' is supplied in English only. 'sandhi-kāraṇam ādātu-kāmaḥ' is literal (wishing to take up / to destroy the cause of peace). sāmavāyika = member of a samavāya (association), rendered 'associate' as in 7.4 and 7.9. paṇeta from √paṇ 'bargain, stake'; sandhi = peace as in Books 8-9.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Subject: yātavyaḥ and abhiyāsyamānaḥ stand side by side with no vā; '[or]' is supplied in English only. 'sandhi-kāraṇam ādātu-kāmaḥ' is literal (wishing to take up / to destroy the cause of peace). sāmavāyika = member of a samavāya (association), rendered 'associate' as in 7.4 and 7.9. paṇeta from √paṇ 'bargain, stake'; sandhi = peace as in Books 8-9.",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣaya-vyaya-pravāsa-pratyavāya-para-upakāra-śarīra-ābādhān",
+     "problem": "Glossary (7.2): pravāsa = absence from home, pratyavāya = obstacle; draft has \"absences abroad\", \"setbacks\"",
+     "fix": "losses, expenditures, absences from home, obstacles, benefits to others, bodily harms",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaya-vyaya-pravāsa-pratyavāya-para-upakāra-śarīra-ābādhān",
+      "field": "gloss",
+      "value": "losses, expenditures, absences from home, obstacles, benefits to others, bodily harms",
+      "n": "2"
+     }
+    },
+    {
+     "field": "english",
+     "where": "absences abroad, setbacks, benefits to others",
+     "problem": "glossary 7.2 renderings of pravāsa and pratyavāya",
+     "fix": "absences from home, obstacles, benefits to others",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "absences abroad, setbacks, benefits to others",
+      "new": "absences from home, obstacles, benefits to others",
+      "n": "2"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रवास, प्रत्यवाय, दूसरों के उपकार और शरीर की बाधाओं का",
+     "problem": "Glossary 7.2: pratyavāya = obstacle (बाधा); bare प्रत्यवाय is not Hindi gloss; बाधा then used twice, so ābādha becomes पीड़ा",
+     "fix": "प्रवास, बाधा, दूसरों के उपकार और शरीर की पीड़ाओं का",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रवास, प्रत्यवाय, दूसरों के उपकार और शरीर की बाधाओं का",
+      "new": "प्रवास, बाधा, दूसरों के उपकार और शरीर की पीड़ाओं का",
+      "n": "2"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "varṇayet",
+     "problem": "varṇayati is class 10 (denominative of varṇa), not a causative of √vṛ; cf. glossary 3.10 on class 10 verbs",
+     "fix": "3 sg. opt. √varṇ (class 10)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "varṇayet",
+      "field": "gram",
+      "value": "3 sg. opt. √varṇ (class 10)",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसका कर्म बुरी तरह आरम्भ हुआ है उसे क्षय और व्यय से अधिक जोड़ने की इच्छा वाला",
+     "problem": "Added copula \"है\" and relative clause; same phrase is rendered in 7.7 as \"बुरी तरह आरम्भ किए कर्म वाले को और अधिक क्षय और व्यय से जोड़ने की इच्छा वाला\"",
+     "fix": "बुरी तरह आरम्भ किए कर्म वाले को और अधिक क्षय और व्यय से जोड़ने की इच्छा वाला",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसका कर्म बुरी तरह आरम्भ हुआ है उसे क्षय और व्यय से अधिक जोड़ने की इच्छा वाला",
+      "new": "बुरी तरह आरम्भ किए कर्म वाले को और अधिक क्षय और व्यय से जोड़ने की इच्छा वाला",
+      "n": "5"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[One] wishing to burden further, with loss and expenditure, one whose undertaking is badly begun,",
+     "problem": "karma = action (glossary); \"burden\" is an invented sense of √yuj, 7.7 has \"connect ... with further loss and expenditure\"",
+     "fix": "[One] wishing to connect one whose action is badly begun with further loss and expenditure,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[One] wishing to burden further, with loss and expenditure, one whose undertaking is badly begun,",
+      "new": "[One] wishing to connect one whose action is badly begun with further loss and expenditure,",
+      "n": "5"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "durārabdha-karmāṇam",
+     "problem": "karma = action (glossary), not \"undertaking\"",
+     "fix": "one whose action is badly begun",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "durārabdha-karmāṇam",
+      "field": "gloss",
+      "value": "one whose action is badly begun",
+      "n": "5"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yoktu-kāmaḥ",
+     "problem": "\"burden\" is an invented sense; literal √yuj \"join/connect\" (7.7, and unit 3 yojayet)",
+     "fix": "wishing to connect",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "yoktu-kāmaḥ",
+      "field": "gloss",
+      "value": "wishing to connect",
+      "n": "5"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "su-ārabdhām",
+     "problem": "root missing; ārabdhām is feminine accusative and agrees with the compound head siddhim, not with yātrā inside the compound",
+     "fix": "f. acc. sg. past part. ā-√rabh; agrees with siddhim",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "su-ārabdhām",
+      "field": "gram",
+      "value": "f. acc. sg. past part. ā-√rabh; agrees with siddhim",
+      "n": "5"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the success of a well begun expedition",
+     "problem": "Agreement: ārabdhām qualifies siddhim; \"a well begun expedition\" is an interpretive regrouping",
+     "fix": "the well begun success of the expedition",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the success of a well begun expedition",
+      "new": "the well begun success of the expedition",
+      "n": "5"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यातव्य से मिला हुआ",
+     "problem": "yātavya Hindi aligned with 7.7 (चढ़ाई करने योग्य से मिला हुआ)",
+     "fix": "चढ़ाई करने योग्य से मिला हुआ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यातव्य से मिला हुआ",
+      "new": "चढ़ाई करने योग्य से मिला हुआ",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "mūla-hareṇa",
+     "problem": "Glossary 7.2: mūla-hara = taker of the base (मूल हरने वाला); \"base-seizer\" differs",
+     "fix": "by a taker of the base",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mūla-hareṇa",
+      "field": "gloss",
+      "value": "by a taker of the base",
+      "n": "7"
+     }
+    },
+    {
+     "field": "english",
+     "where": "by a base-seizer",
+     "problem": "glossary 7.2",
+     "fix": "by a taker of the base",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by a base-seizer",
+      "new": "by a taker of the base",
+      "n": "7"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मूल का हरण करने वाले से",
+     "problem": "glossary 7.2 (मूल हरने वाला)",
+     "fix": "मूल हरने वाले से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मूल का हरण करने वाले से",
+      "new": "मूल हरने वाले से",
+      "n": "7"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "notes import the sense \"usurper\" for mūla-hara, against glossary 7.2",
+     "fix": "mūla-hara literal 'taker of the base' (as 7.2); no sense imported. vigṛhīta 'attacked, set at war with'. The first member pair has no vā; vā stands once after mūla-hareṇa. 'tadātve ca āyatyāṃ ca' = both ... and.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "mūla-hara literal 'taker of the base' (as 7.2); no sense imported. vigṛhīta 'attacked, set at war with'. The first member pair has no vā; vā stands once after mūla-hareṇa. 'tadātve ca āyatyāṃ ca' = both ... and.",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "Word order puts tam before the subject with a comma (\"उसे, दूसरा\"); reads as a fragment",
+     "fix": "दूसरा उसे वर्तमान में और भविष्य में क्रम को देखे।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "दूसरा उसे वर्तमान में और भविष्य में क्रम को देखे।",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शक्य, कल्य, भव्य कार्य आरम्भ करने वाले",
+     "problem": "\"कार्य\" is an added noun; unit 12 uses \"का आरम्भ करने वाला\"",
+     "fix": "शक्य, कल्य, भव्य का आरम्भ करने वाले",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "शक्य, कल्य, भव्य कार्य आरम्भ करने वाले",
+      "new": "शक्य, कल्य, भव्य का आरम्भ करने वाले",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣaya-vyaya-pravāsa-para-upakārān",
+     "problem": "glossary 7.2: pravāsa = absence from home",
+     "fix": "losses, expenditures, absences from home, benefits to others",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaya-vyaya-pravāsa-para-upakārān",
+      "field": "gloss",
+      "value": "losses, expenditures, absences from home, benefits to others",
+      "n": "18"
+     }
+    },
+    {
+     "field": "english",
+     "where": "absences abroad, [and] benefits to others",
+     "problem": "glossary 7.2",
+     "fix": "absences from home, [and] benefits to others",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "absences abroad, [and] benefits to others",
+      "new": "absences from home, [and] benefits to others",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[whether] an ally or a closer ally",
+     "problem": "Hindi lists three objects (मध्यम पर, मित्र पर अथवा मित्रतर पर) while English adds bracketed \"[whether]\" making an apposition; keep both literal and equally open (note already records the ambiguity)",
+     "fix": "an ally or a closer ally",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[whether] an ally or a closer ally",
+      "new": "an ally or a closer ally",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṣaya-vyaya-pravāsa-para-upakārān",
+     "problem": "glossary 7.2: pravāsa = absence from home",
+     "fix": "losses, expenditures, absences from home, benefits to others",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kṣaya-vyaya-pravāsa-para-upakārān",
+      "field": "gloss",
+      "value": "losses, expenditures, absences from home, benefits to others",
+      "n": "21"
+     }
+    },
+    {
+     "field": "english",
+     "where": "absences abroad, [and] benefits to others",
+     "problem": "glossary 7.2",
+     "fix": "absences from home, [and] benefits to others",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "absences abroad, [and] benefits to others",
+      "new": "absences from home, [and] benefits to others",
+      "n": "21"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "एक अर्थ को प्राप्त हुए",
+     "problem": "upagata and prāpnoti both rendered प्राप्त, which blurs two different words",
+     "fix": "एक अर्थ को पहुँचे हुए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "एक अर्थ को प्राप्त हुए",
+      "new": "एक अर्थ को पहुँचे हुए",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "atisandhīyate",
+     "problem": "tense label missing",
+     "fix": "3 sg. pres. pass. ati-sam-√dhā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "atisandhīyate",
+      "field": "gram",
+      "value": "3 sg. pres. pass. ati-sam-√dhā",
+      "n": "25"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "notes say \"neuter-agreeing\" but daṇḍa is masculine and the gram labels are m.",
+     "fix": "daṇḍa here = army (Books 8/9 glossary lines). kṛta-astra literally 'whose weapons are made'; the usual sense 'trained in arms' is used (medium). The gen. dual madhyama-udāsīnayoḥ is read with dāne ('to'). The adjectives agree with daṇḍam (m.); vā closes the list.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "daṇḍa here = army (Books 8/9 glossary lines). kṛta-astra literally 'whose weapons are made'; the usual sense 'trained in arms' is used (medium). The gen. dual madhyama-udāsīnayoḥ is read with dāne ('to'). The adjectives agree with daṇḍam (m.); vā closes the list.",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Reading of tam as \"him\" is not safe; the demonstrative may go with artham. Hindi/English are literal but near-unreadable; keep low confidence",
+     "fix": "Alternative reading: tam agrees with artham ('that object'), giving 'accomplishes that object and others'; the vā is then stray. The Hindi/English 'him or—and—' follows the printed particles literally.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative reading: tam agrees with artham ('that object'), giving 'accomplishes that object and others'; the vā is then stray. The Hindi/English 'him or—and—' follows the printed particles literally.",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "on unsuitable ground or out of season",
+     "problem": "The Sanskrit has only two vā (before vāsayet and after aphalam); the \"or\" inside the four-member dvandva is unmarked. A dvandva takes \"and\" (glossary 3.15)",
+     "fix": "on unsuitable ground and out of season",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "on unsuitable ground or out of season",
+      "new": "on unsuitable ground and out of season",
+      "n": "28"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ले ले, शत्रु, वन, अनुपयुक्त भूमि अथवा बेमौसम में बसा दे",
+     "problem": "Hindi puts the first अथवा inside the dvandva list; English puts it before \"lodge\"; align (vā is postpositive in the second alternative; dvandva of three or more members takes commas only)",
+     "fix": "ले ले, अथवा शत्रु, वन, अनुपयुक्त भूमि, बेमौसम में बसा दे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "ले ले, शत्रु, वन, अनुपयुक्त भूमि अथवा बेमौसम में बसा दे",
+      "new": "ले ले, अथवा शत्रु, वन, अनुपयुक्त भूमि, बेमौसम में बसा दे",
+      "n": "28"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "notes say \"Four ca/verb positions\"; there are three ca",
+     "fix": "Three ca: after ā-samāpteḥ, after yodhayet and after bala-vyasanebhyaḥ, all rendered 'and'.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Three ca: after ā-samāpteḥ, after yodhayet and after bala-vyasanebhyaḥ, all rendered 'and'.",
+      "n": "30"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "apasrāvayet",
+     "problem": "\"slip away\" is an invented sense; notes themselves say literal \"cause to flow away\"",
+     "fix": "should cause to flow away",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "apasrāvayet",
+      "field": "gloss",
+      "value": "should cause to flow away",
+      "n": "31"
+     }
+    },
+    {
+     "field": "english",
+     "where": "cause [him] to slip away",
+     "problem": "literal sense of caus. apa-√sru",
+     "fix": "cause [him] to flow away",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "cause [him] to slip away",
+      "new": "cause [him] to flow away",
+      "n": "31"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "खिसकवाए",
+     "problem": "\"खिसकवाए\" (slip) is an invented sense; literal causative kept in Sanskrit-derived Hindi (बहाने-बहाए would pun with बहाना = pretext)",
+     "fix": "अपस्रावित कराए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "खिसकवाए",
+      "new": "अपस्रावित कराए",
+      "n": "31"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यातव्य से सन्धि करके",
+     "problem": "yātavya Hindi aligned with 7.7 and unit 1",
+     "fix": "चढ़ाई करने योग्य से सन्धि करके",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "यातव्य से सन्धि करके",
+      "new": "चढ़ाई करने योग्य से सन्धि करके",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "",
+     "problem": "vikrama = attack: English says \"attack\" but Hindi keeps विक्रम (7.6 and glossary use आक्रमण); closing \"ity uktāḥ sandhi-vikramāḥ\" is a summing-up line and takes \"Such are ...\" / \"ये ... हैं\" (glossary 3.7, 5.2) rather than being dropped",
+     "fix": "क्योंकि समान लाभ में सन्धि हो, विषम में आक्रमण माना गया है; ये सम, हीन, विशिष्ट के कहे गए सन्धि और आक्रमण हैं।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "क्योंकि समान लाभ में सन्धि हो, विषम में आक्रमण माना गया है; ये सम, हीन, विशिष्ट के कहे गए सन्धि और आक्रमण हैं।",
+      "n": "34"
+     }
+    },
+    {
+     "field": "english",
+     "where": "attack is deemed [right]; peace and attacks have been stated for",
+     "problem": "\"[right]\" is an invented supplied word; closing iti line rendered \"Such are\" per glossary",
+     "fix": "attack is deemed. Such are the peace and attacks stated for",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "attack is deemed [right]; peace and attacks have been stated for",
+      "new": "attack is deemed. Such are the peace and attacks stated for",
+      "n": "34"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "",
+     "problem": "notes say iti is not rendered",
+     "fix": "Verse (two half-lines). The closing 'ity uktāḥ sandhi-vikramāḥ' is a summing-up line, rendered 'Such are ...' (glossary), iti glossed 'closing particle'. viṣame: the noun lābhe is understood. vikrama = attack (alt. 'prowess, valour').",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "Verse (two half-lines). The closing 'ity uktāḥ sandhi-vikramāḥ' is a summing-up line, rendered 'Such are ...' (glossary), iti glossed 'closing particle'. viṣame: the noun lābhe is understood. vikrama = attack (alt. 'prowess, valour').",
+      "n": "34"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Review of 7.8 chunk 1 (34 units). Issues: 41 minor, 0 error; 41 machine patches. No regrouping suggested. Main points: glossary 7.2 renderings (pravāsa, pratyavāya, mūla-hara) not followed in units 2, 7, 18, 21; karma = action and 'burden' invented sense in unit 5; sāmavāyika = associate (7.4/7.9); yātavya Hindi aligned with 7.7; unit 28 stray 'or' in a dvandva and misplaced अथवा; unit 31 invented 'slip away'; unit 34 vikrama Hindi and closing 'ity' line. Unit 27 reading of 'tam' (may agree with artham) stays low confidence. Hand edits: unit 27 text_flag suggest should read 'taṃ ca-artham' (vā deleted) instead of prose. Note for the caller: Book 7 ch06 renders sandhi 'treaty' while 7.2/7.8 and Books 8-9 use 'peace'; ch04/ch05 yātavya Hindi differs from ch07."
+}

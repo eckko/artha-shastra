@@ -151,8 +151,65 @@
   },
   {
    "n": "8",
-   "verdict": "ok",
-   "issues": []
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Indifference",
+     "problem": "glossary 7.4 (settled): upekṣaṇa = neglect (उपेक्षण).",
+     "fix": "Neglect",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "Indifference",
+      "new": "Neglect"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उपेक्षा आसन",
+     "problem": "glossary 7.4: Hindi उपेक्षण.",
+     "fix": "उपेक्षण आसन",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपेक्षा आसन",
+      "new": "उपेक्षण आसन"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upekṣaṇam",
+     "problem": "Gloss follows glossary 7.4.",
+     "fix": "neglect",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "upekṣaṇam",
+      "field": "gloss",
+      "value": "neglect"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "rendered 'indifference'",
+     "problem": "Notes follow the aligned rendering.",
+     "fix": "rendered 'neglect' (glossary 7.4)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "notes",
+      "old": "rendered 'indifference'",
+      "new": "rendered 'neglect' (glossary 7.4)"
+     }
+    }
+   ]
   },
   {
    "n": "9",
@@ -263,6 +320,13 @@
       "field": "gram",
       "value": "m. nom. sg. pres. pass. part. √hā"
      }
+    },
+    {
+     "field": "text_flags",
+     "where": "parasmādd hīyamānaḥ -> parasmād dhīyamānaḥ",
+     "problem": "Glossary 7.3/7.7: the e-text's 'dd h' is its regular habit for sandhi d+dh (hīnādd hīnena, paśyedd hīno); w reads -āt and NO text_flag is made. This flag is not a typo.",
+     "fix": "delete this text_flag entry (hand edit); keep w parasmāt",
+     "severity": "error"
     }
    ]
   },
@@ -748,5 +812,5 @@
    ]
   }
  ],
- "summary": "5 errors, 34 minor issues (38 machine patches). Main points: unit 32 (low confidence) has an invented extra 'or', a dropped 'mayā', an added वह and a probably wrong reading of 'yena vā vigṛhīto mayā sandhatte' (needs a person); unit 4 adds '[says he]'; yāna/saṃśraya must follow glossary 7.2 (marching, seeking shelter) in units 2, 9, 10, 17, 35; Hindi lists of three or more members take commas, not और (units 2, 20, 23, 27, 30, 32, 33); unit 5 w 'etad' should be 'etat'; unit 31 Hindi 'स्पष्ट रूप से' invented. Text flags are sound (13, 28, 32 mayā.sandhatte); the flag saṃhitasya→asaṃhitasya in 32 is a speculative conjecture, keep only with 'possible'. Lone '-' tokens (units 32 x4, 33 x1) are named 'continuation mark (not a word)' while other chapters use 'dash (punctuation)'; harmless, optional rename. No regrouping suggested. Units 1-38 otherwise ok; confidence values honest (32, 33 low)."
+ "summary": "6 errors, 38 minor issues (42 machine patches). Main points: unit 32 (low confidence) has an invented extra 'or', a dropped 'mayā', an added वह and a probably wrong reading of 'yena vā vigṛhīto mayā sandhatte' (needs a person); unit 4 adds '[says he]'; yāna/saṃśraya must follow glossary 7.2 (marching, seeking shelter) in units 2, 9, 10, 17, 35; Hindi lists of three or more members take commas, not और (units 2, 20, 23, 27, 30, 32, 33); unit 5 w 'etad' should be 'etat'; unit 31 Hindi 'स्पष्ट रूप से' invented. Unit 13 text_flag must be deleted (glossary 7.3/7.7: 'dd h' is regular e-text spelling); unit 8 upekṣaṇa = neglect per 7.4; other text flags are sound (28, 32 mayā.sandhatte); the flag saṃhitasya→asaṃhitasya in 32 is a speculative conjecture, keep only with 'possible'. Lone '-' tokens (units 32 x4, 33 x1) are named 'continuation mark (not a word)' while other chapters use 'dash (punctuation)'; harmless, optional rename. No regrouping suggested. Units 1-38 otherwise ok; confidence values honest (32, 33 low)."
 }
