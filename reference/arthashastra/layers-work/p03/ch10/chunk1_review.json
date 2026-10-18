@@ -1,0 +1,821 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मार्ग का माप ... बताया जा चुका है",
+     "problem": "vyākhyātam is rendered 'explained' in English; Hindi must follow the fixed formula व्याख्या की गई (glossary 4.1, 3.6, 3.8), not बताया जा चुका.",
+     "fix": "मार्ग के माप की व्याख्या दुर्ग के बसाने में की गई है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "मार्ग के माप की व्याख्या दुर्ग के बसाने में की गई है।",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is twelve paṇas",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "the penalty is twelve paṇas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fine is twelve paṇas",
+      "new": "the penalty is twelve paṇas",
+      "n": "5"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[a fine] of six hundred",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "[a penalty] of six hundred",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[a fine] of six hundred",
+      "new": "[a penalty] of six hundred",
+      "n": "5"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fines are a fourth of the fine",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "the penalties are a fourth of the penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fines are a fourth of the fine",
+      "new": "the penalties are a fourth of the penalty",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍa-caturthāḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "a fourth of the penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍa-caturthāḥ",
+      "field": "gloss",
+      "value": "a fourth of the penalty",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍāḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "penalties",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍāḥ",
+      "field": "gloss",
+      "value": "penalties",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is twelve paṇas",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "the penalty is twelve paṇas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fine is twelve paṇas",
+      "new": "the penalty is twelve paṇas",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "परन्तु",
+     "problem": "Glossary 3.7: a tu ('but') is rendered (But / किन्तु).",
+     "fix": "किन्तु",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "परन्तु",
+      "new": "किन्तु",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "who is going on the interest of the village",
+     "problem": "'going on the interest' is not English; grāma-arthena = for the interest (प्रयोजन से).",
+     "fix": "who is going for the interest of the village",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "who is going on the interest of the village",
+      "new": "who is going for the interest of the village",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a payment of paṇa-ardha-paṇika",
+     "problem": "Unmarked added noun 'a payment of' (the Sanskrit has only the obscure paṇa-ardha-paṇikam); Hindi has none.",
+     "fix": "Those who do not follow should give paṇa-ardha-paṇika per yojana.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Those who do not follow should give paṇa-ardha-paṇika per yojana.",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the fine is twenty-four paṇas",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "the penalty is twenty-four paṇas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the fine is twenty-four paṇas",
+      "new": "the penalty is twenty-four paṇas",
+      "n": "18"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "18"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "खम्भों से ग्राम से चारों ओर",
+     "problem": "Two 'से' in a row make the Hindi ambiguous (posts from the village?); reorder so that ग्राम से attaches to the distance and खम्भों से to the making.",
+     "fix": "ग्राम से चारों ओर सौ धनुष दूर खम्भों से उपसाल बनवाए।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "ग्राम से चारों ओर सौ धनुष दूर खम्भों से उपसाल बनवाए।",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गायों, घोड़ों, गधों का",
+     "problem": "gava (go) is glossed and translated 'cattle' in English; Hindi 'cows' narrows it.",
+     "fix": "गाय-बैलों, घोड़ों, गधों का",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "गायों, घोड़ों, गधों का",
+      "new": "गाय-बैलों, घोड़ों, गधों का",
+      "n": "22"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhakṣayitvā",
+     "problem": "bhakṣayati is a class-10 present, not a causative (glossary 4.9 on class-10 presents); 'caus.' is wrong.",
+     "fix": "abs. √bhakṣ (class 10)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "bhakṣayitvā",
+      "field": "gram",
+      "value": "abs. √bhakṣ (class 10)",
+      "n": "22"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "these very fines are doubled",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "these very penalties are doubled",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "these very fines are doubled",
+      "new": "these very penalties are doubled",
+      "n": "23"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍāḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "penalties",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍāḥ",
+      "field": "gloss",
+      "value": "penalties",
+      "n": "23"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bhakṣayitvā",
+     "problem": "bhakṣayati is a class-10 present, not a causative; 'caus.' is wrong.",
+     "fix": "abs. √bhakṣ (class 10)",
+     "severity": "error",
+     "patch": {
+      "op": "word",
+      "match_w": "bhakṣayitvā",
+      "field": "gram",
+      "value": "abs. √bhakṣ (class 10)",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "go-vṛṣāḥ",
+     "problem": "'of the herd' is not in the text; literal go-vṛṣa = cattle-bull (the draft's own English and notes already say 'cattle-bulls').",
+     "fix": "cattle-bulls",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "go-vṛṣāḥ",
+      "field": "gloss",
+      "value": "cattle-bulls",
+      "n": "24"
+     }
+    },
+    {
+     "field": "english",
+     "where": "...or a milch cow whose ten days...",
+     "problem": "The second vā (after anirdaśa-ahā) is dropped in both languages: 'X vā Y vā dhenuḥ' has three alternatives. Render both vā; anirdaśa-ahā stands as its own item (the reading in which it qualifies dhenuḥ goes to notes).",
+     "fix": "Bulls of the village deity, or [one] whose ten days are not complete, or a milch cow, oxen and cattle-bulls are not to be punished.",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Bulls of the village deity, or [one] whose ten days are not complete, or a milch cow, oxen and cattle-bulls are not to be punished.",
+      "n": "24"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "...या जिसके दस दिन ... ऐसी दुधारू गाय",
+     "problem": "Second vā not rendered; the merged relative clause 'ऐसी दुधारू गाय' decides a reading the Sanskrit does not mark.",
+     "fix": "ग्राम के देव-वृषभ, या जिसके दस दिन पूरे नहीं हुए, या दुधारू गाय, बैल और गो-वृषभ दण्ड के अयोग्य हैं।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "ग्राम के देव-वृषभ, या जिसके दस दिन पूरे नहीं हुए, या दुधारू गाय, बैल और गो-वृषभ दण्ड के अयोग्य हैं।",
+      "n": "24"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Add reviewer note.",
+     "fix": "Alternative reading: anirdaśa-ahā qualifies dhenuḥ ('a milch cow whose ten days are not complete', one vā rendered); the translation keeps both vā as separate alternatives.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Alternative reading: anirdaśa-ahā qualifies dhenuḥ ('a milch cow whose ten days are not complete', one vā rendered); the translation keeps both vā as separate alternatives.",
+      "n": "24"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उपज के अनुसार गिनकर",
+     "problem": "niṣpattitaḥ is 'from the yield'; 'के अनुसार' (according to) is an added sense.",
+     "fix": "उपज से गिनकर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपज के अनुसार गिनकर",
+      "new": "उपज से गिनकर",
+      "n": "25"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "niṣpattitaḥ",
+     "problem": "-tas is an adverbial suffix; 'f. abl. sg.' is not a real case form here.",
+     "fix": "ind. (-tas suffix, ablative sense)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "niṣpattitaḥ",
+      "field": "gram",
+      "value": "ind. (-tas suffix, ablative sense)",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of twelve paṇas",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "a penalty of twelve paṇas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "a fine of twelve paṇas",
+      "new": "a penalty of twelve paṇas",
+      "n": "26"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "26"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "half fines",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "half penalties",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "half fines",
+      "new": "half penalties",
+      "n": "27"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ardha-daṇḍāḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "half penalties",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ardha-daṇḍāḥ",
+      "field": "gloss",
+      "value": "half penalties",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "किसान के ग्राम को स्वीकार करके कार्य न करने पर",
+     "problem": "Unbracketed added noun 'कार्य' (the notes say the object of akurvataḥ is not stated), and 'स्वीकार करके' ('accepting') disagrees with the English 'having come to' (abhyupetya, literal).",
+     "fix": "किसान के ग्राम में आकर न करने पर ग्राम ही अत्यय ले।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "किसान के ग्राम में आकर न करने पर ग्राम ही अत्यय ले।",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "he should give a double share",
+     "problem": "Unmarked subject 'he' for a subjectless dadyāt (glossary 4.9: '[one]', never 'he').",
+     "fix": "[one] should give a double share",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "he should give a double share",
+      "new": "[one] should give a double share",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "he, together with his own people, should not watch",
+     "problem": "Added pronoun 'he': in the draft's own reading sa = 'with', so there is no separate 'he'.",
+     "fix": "together with his own people, should not watch",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "he, together with his own people, should not watch",
+      "new": "together with his own people, should not watch",
+      "n": "37"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वह अपने जनों सहित न देखे",
+     "problem": "Added 'वह' for the same reason (sa = 'with', rendered by सहित).",
+     "fix": "अपने जनों सहित न देखे",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह अपने जनों सहित न देखे",
+      "new": "अपने जनों सहित न देखे",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine of twelve paṇas",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "a penalty of twelve paṇas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "a fine of twelve paṇas",
+      "new": "a penalty of twelve paṇas",
+      "n": "40"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "40"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "a fine double the offence",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "a penalty double the offence",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "a fine double the offence",
+      "new": "a penalty double the offence",
+      "n": "41"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍaḥ",
+     "problem": "Glossary 3.8/4.9/4.10: plain daṇḍa = penalty; 'fine' only in sāhasa-daṇḍa = fine for rashness.",
+     "fix": "penalty",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍaḥ",
+      "field": "gloss",
+      "value": "penalty",
+      "n": "41"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "The placement of vā after sambhūya (linking back to unit 40 vs 'together or separately') is doubtful; medium is too firm.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "confidence",
+      "value": "low",
+      "n": "41"
+     }
+    }
+   ]
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the distinguished [one]",
+     "problem": "Glossary 3.7: a bare adjective/participle gets no supplied noun in either language; '[one]' is a supplied noun.",
+     "fix": "the distinguished",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the distinguished [one]",
+      "new": "the distinguished",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "confidence",
+     "problem": "'na akāmāḥ kuryuḥ' admits opposite readings (do not act unwillingly / act not unwilling); the notes say so, so medium is too firm.",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "confidence",
+      "value": "low",
+      "n": "44"
+     }
+    }
+   ]
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "46 units reviewed; 22 units with patches. Issues: 6 error, 35 minor, all with machine patches. Main errors: unmarked additions (17 'a payment of', 35 कार्य, 24 second vā dropped), class-10 bhakṣayati labelled causative (22, 23). Main consistency fix: plain daṇḍa = penalty (glossary 3.8/4.9), 'fine' only for sāhasa-daṇḍa (units 5, 6, 8, 18, 23, 26, 27, 40, 41). No regrouping suggested. Unit 34: '| 34 |' marker and closing 'iti kṣetra-patha-hiṃsā' are handled as in ch02/ch03/ch09 (punct and numeral entries; iti glossed 'closing particle', rendered 'Such is' per glossary 3.7/5.2/9.3, no 'thus'); a person should confirm against glossary 9.6 (section-label iti not rendered). No text_flags or word entries need adding; no '.'-compound violations found. Hand edits: see report. All layers remain an unreviewed AI draft until a person reads them."
+}
