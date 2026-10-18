@@ -4432,5 +4432,794 @@
   "text_flags": [],
   "notes": "parasya is 'of the other' (glossary 9.2: para = the other, not 'enemy'). The objects (priyam, rakṣyam, pūjyam, sambaddham) are neuter accusatives without stated noun; '[one]' supplied.",
   "confidence": "medium"
+ },
+ {
+  "n": "47",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakṛṣṭa.bhaumaṃ",
+      "words": [
+       {
+        "w": "prakṛṣṭa-bhaumam",
+        "gloss": "of extensive territory",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "santuṣṭaṃ",
+      "words": [
+       {
+        "w": "santuṣṭam",
+        "gloss": "content",
+        "gram": "n. nom. sg. ppp. sam-√tuṣ"
+       }
+      ]
+     },
+     {
+      "src": "balavac",
+      "words": [
+       {
+        "w": "balavat",
+        "gloss": "strong",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-ālasaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ālasam",
+        "gloss": "lazy",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "udāsīnaṃ",
+      "words": [
+       {
+        "w": "udāsīnam",
+        "gloss": "neutral",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavaty",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "etad",
+      "words": [
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyasanād",
+      "words": [
+       {
+        "w": "vyasanāt",
+        "gloss": "through calamity",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "avamānitam",
+      "words": [
+       {
+        "w": "avamānitam",
+        "gloss": "slighted",
+        "gram": "n. nom. sg. ppp. caus. ava-√man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो प्रकृष्ट भूमि वाला, सन्तुष्ट, बलवान् और आलसी दोनों है, यह उदासीन होता है, व्यसन के कारण अपमानित।",
+  "english": "That which is of extensive territory, content, both strong and lazy — this becomes neutral, slighted through calamity.",
+  "text_flags": [],
+  "notes": "prakṛṣṭa-bhauma as in unit 21 (obscure). avamānitam is a separate qualifier of etat; the text has no conjunction, so none is added. vyasana = calamity (glossary 8.1).",
+  "confidence": "medium"
+ },
+ {
+  "n": "48",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "arer",
+      "words": [
+       {
+        "w": "areḥ",
+        "gloss": "of the enemy",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "netuś",
+      "words": [
+       {
+        "w": "netuḥ",
+        "gloss": "of the leader",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛddhiṃ",
+      "words": [
+       {
+        "w": "vṛddhim",
+        "gloss": "growth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "daurbalyād",
+      "words": [
+       {
+        "w": "daurbalyāt",
+        "gloss": "from weakness",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "anuvartate",
+      "words": [
+       {
+        "w": "anuvartate",
+        "gloss": "follows",
+        "gram": "3 sg. pres. mid. anu-√vṛt"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ubhayasya-apy",
+      "words": [
+       {
+        "w": "ubhayasya",
+        "gloss": "of both",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "avidviṣṭaṃ",
+      "words": [
+       {
+        "w": "avidviṣṭam",
+        "gloss": "not hated",
+        "gram": "n. nom. sg. ppp. a-vi-√dviṣ"
+       }
+      ]
+     },
+     {
+      "src": "vidyād",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "one should know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "ubhaya.bhāvi",
+      "words": [
+       {
+        "w": "ubhaya-bhāvi",
+        "gloss": "of both-nature",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो शत्रु और नेता की वृद्धि का दुर्बलता से अनुसरण करता है, दोनों के द्वारा भी जिससे द्वेष नहीं किया गया, उसे उभयभावी जाने।",
+  "english": "That which, from weakness, follows the growth of the enemy and of the leader, [and is] not hated even by both — one should know that as of both-nature.",
+  "text_flags": [],
+  "notes": "netṛ = the leader (the one who leads, i.e. the conqueror); not identified further. avidviṣṭam is read as an added qualifier without a conjunction; '[and is]' is bracketed in English. 'Not hated even by both' (ubhayasya api avidviṣṭam).",
+  "confidence": "medium"
+ },
+ {
+  "n": "49",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāraṇa.akāraṇa.dhvastaṃ",
+      "words": [
+       {
+        "w": "kāraṇa-akāraṇa-dhvastam",
+        "gloss": "ruined through cause and non-cause",
+        "gram": "m. acc. sg. (tat-puruṣa, dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "kāraṇa.akāraṇa.āgatam",
+      "words": [
+       {
+        "w": "kāraṇa-akāraṇa-āgatam",
+        "gloss": "come through cause and non-cause",
+        "gram": "m. acc. sg. (tat-puruṣa, dvandva)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samupekṣeta",
+      "words": [
+       {
+        "w": "samupekṣeta",
+        "gloss": "would neglect",
+        "gram": "3 sg. opt. mid. sam-upa-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛtyum",
+      "words": [
+       {
+        "w": "mṛtyum",
+        "gloss": "death",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upagūhati",
+      "words": [
+       {
+        "w": "upagūhati",
+        "gloss": "embraces",
+        "gram": "3 sg. pres. upa-√guh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो कारण और अकारण से नष्ट हुए, कारण और अकारण से आए हुए मित्र की उपेक्षा करे, वह मृत्यु का आलिंगन करता है।",
+  "english": "Whoever would neglect an ally — ruined through cause and non-cause, come through cause and non-cause — he embraces death.",
+  "text_flags": [],
+  "notes": "kāraṇa-akāraṇa is a dvandva 'cause and non-cause', i.e. ruined or arrived with or without a cause; rendered literally. samupekṣeta: opt. 'would/should neglect'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "50",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣipram",
+      "words": [
+       {
+        "w": "kṣipram",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "alpo",
+      "words": [
+       {
+        "w": "alpaḥ",
+        "gloss": "small",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābhaś",
+      "words": [
+       {
+        "w": "lābhaḥ",
+        "gloss": "acquisition",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cirān",
+      "words": [
+       {
+        "w": "cirāt",
+        "gloss": "after a long time",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahān",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"kṣipram",
+      "words": [
+       {
+        "w": "\"kṣipram",
+        "gloss": "quickly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "alpo",
+      "words": [
+       {
+        "w": "alpaḥ",
+        "gloss": "small",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābhaḥ",
+      "words": [
+       {
+        "w": "lābhaḥ",
+        "gloss": "acquisition",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārya.deśa.kāla.saṃvādakaḥ",
+      "words": [
+       {
+        "w": "kārya-deśa-kāla-saṃvādakaḥ",
+        "gloss": "agreeing with the task, place and time",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śreyān\"",
+      "words": [
+       {
+        "w": "śreyān\"",
+        "gloss": "better",
+        "gram": "m. nom. sg. compar."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "ity",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शीघ्र अल्प लाभ अथवा देर से महान् — “शीघ्र अल्प लाभ, जो कार्य, देश और काल के अनुरूप है, श्रेष्ठ है,” ऐसा आचार्य कहते हैं।",
+  "english": "A small acquisition quickly, or a great one after a long time — “A small acquisition quickly, one agreeing with the task, place and time, is better,” say the teachers.",
+  "text_flags": [],
+  "notes": "In the Sanskrit vā stands after the first iti (iti vā); it is rendered 'or' between the alternatives. The first iti closes the either-or question and is not rendered. saṃvādaka = agreeing, accordant (with).",
+  "confidence": "medium"
+ },
+ {
+  "n": "51",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg. (name)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“No,” says Kautilya.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "52",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cirād",
+      "words": [
+       {
+        "w": "cirāt",
+        "gloss": "for a long time",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "avinipātī",
+      "words": [
+       {
+        "w": "avinipātī",
+        "gloss": "not perishing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bīja.sadharmā",
+      "words": [
+       {
+        "w": "bīja-sadharmā",
+        "gloss": "of the same nature as seed",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "mahāml",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābhaḥ",
+      "words": [
+       {
+        "w": "lābhaḥ",
+        "gloss": "acquisition",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreyān,",
+      "words": [
+       {
+        "w": "śreyān,",
+        "gloss": "better",
+        "gram": "m. nom. sg. compar."
+       }
+      ]
+     },
+     {
+      "src": "viparyaye",
+      "words": [
+       {
+        "w": "viparyaye",
+        "gloss": "in the contrary",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaḥ",
+      "words": [
+       {
+        "w": "pūrvaḥ",
+        "gloss": "the former",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देर तक न नष्ट होने वाला, बीज के समान धर्म वाला महान् लाभ श्रेष्ठ है; विपरीत होने पर पहला।",
+  "english": "A great acquisition, not perishing for a long time, of the same nature as seed, is better; in the contrary [case], the former.",
+  "text_flags": [],
+  "notes": "The printed 'mahāml' is regular sandhi for mahān (before l); not flagged. sadharman = 'of the same dharma (property)'; bīja-sadharman is taken as 'like seed' (which keeps growing). pūrvaḥ = the former (the small quick acquisition of unit 50).",
+  "confidence": "medium"
+ },
+ {
+  "n": "53",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭvā",
+      "words": [
+       {
+        "w": "dṛṣṭvā",
+        "gloss": "having seen",
+        "gram": "abs. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "dhruve",
+      "words": [
+       {
+        "w": "dhruve",
+        "gloss": "in a firm",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābhe",
+      "words": [
+       {
+        "w": "lābhe",
+        "gloss": "acquisition",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābha.aṃśe",
+      "words": [
+       {
+        "w": "lābha-aṃśe",
+        "gloss": "in a share of acquisition",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "guṇa.udayam",
+      "words": [
+       {
+        "w": "guṇa-udayam",
+        "gloss": "rise of qualities",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sva.artha.siddhi.paro",
+      "words": [
+       {
+        "w": "sva-artha-siddhi-paraḥ",
+        "gloss": "intent on the accomplishment of his own purpose",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "yāyāt",
+      "words": [
+       {
+        "w": "yāyāt",
+        "gloss": "should march",
+        "gram": "3 sg. opt. √yā"
+       }
+      ]
+     },
+     {
+      "src": "saṃhitaḥ",
+      "words": [
+       {
+        "w": "saṃhitaḥ",
+        "gloss": "allied",
+        "gram": "m. nom. sg. ppp. sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "sāmavāyikaiḥ",
+      "words": [
+       {
+        "w": "sāmavāyikaiḥ",
+        "gloss": "with the associates",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार स्थिर लाभ में और लाभ के अंश में गुणों का उदय देखकर, अपने प्रयोजन की सिद्धि में तत्पर, सामवायिकों के साथ संहित होकर चढ़ाई करे।",
+  "english": "Having seen thus the rise of qualities in a firm acquisition and in a share of acquisition, [one] intent on the accomplishment of his own purpose should march, allied with the associates.",
+  "text_flags": [],
+  "notes": "The subject of yāyāt is not stated (the conqueror); '[one]' is bracketed. sāmavāyika = associate (from samavāya, association); no further sense is given. guṇa-udaya = literally 'emergence of qualities/advantages'. yāyāt = should march (glossary 9.1).",
+  "confidence": "medium"
  }
 ]

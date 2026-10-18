@@ -1,0 +1,764 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिस पर चढ़ाई करनी हो उसे",
+     "problem": "'उसे' is an added pronoun with no Sanskrit word (the clause is verbless)",
+     "fix": "जिस पर चढ़ाई करनी हो।",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिस पर चढ़ाई करनी हो उसे।",
+      "new": "जिस पर चढ़ाई करनी हो।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "regarding",
+     "problem": "'success regarding' is an interpretive word; the compound is a genitive tat-puruṣa, Hindi already reads 'की सिद्धि'",
+     "fix": "on the success of the enemy / of the one to be marched against",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "2",
+       "op": "replace",
+       "field": "english",
+       "old": "on the success regarding the enemy",
+       "new": "on the success of the enemy"
+      },
+      {
+       "n": "2",
+       "op": "replace",
+       "field": "english",
+       "old": "on the success regarding the one to be marched against",
+       "new": "on the success of the one to be marched against"
+      },
+      {
+       "n": "2",
+       "op": "word",
+       "match_w": "amitra-siddhau",
+       "field": "gloss",
+       "value": "on the success of the enemy"
+      },
+      {
+       "n": "2",
+       "op": "word",
+       "match_w": "yātavya-siddhau",
+       "field": "gloss",
+       "value": "on the success of the one to be marched against"
+      },
+      {
+       "n": "2",
+       "op": "append_note",
+       "text": "Review: gloss and English now read literally 'success of'; the reading 'success of the operation against him' stays in this note only."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "When there are several to be marched against at once",
+     "problem": "'there are' and 'several' are unmarked additions (yātavya is singular in the compound; yaugapadye = in the simultaneity)",
+     "fix": "In the simultaneity of those to be marched against:",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "When there are several to be marched against at once:",
+      "new": "In the simultaneity of those to be marched against:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[when] disaffected",
+     "problem": "'viraktā' is the subject (f. nom. pl.), not a temporal clause; Hindi has it as subject",
+     "fix": "the disaffected [ones] cut off even the strong one.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "[when] disaffected, they cut off even the strong one.",
+      "new": "the disaffected [ones] cut off even the strong one."
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रधान को रोकने से साध्य",
+     "problem": "English has 'the chiefs' (plural) but Hindi singular; pradhāna-avagraha is the same compound as in unit 35 and number is open",
+     "fix": "प्रधानों को रोकने से साध्य",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रधान को रोकने से साध्य",
+      "new": "प्रधानों को रोकने से साध्य"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "apacarita",
+     "problem": "English translates apacarita 'wronged' while Hindi leaves अपचरित untranslated; glossary 4.12 has apa-√car = go wrong, so 'wronged' is a chosen sense. Left for a person; recorded in GLOSSARY (7.5). Same in units 12 and 15.",
+     "fix": "decide: keep 'wronged' with a Hindi rendering, or keep the term in both languages",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "append_note",
+      "text": "Review: English 'wronged' and Hindi अपचरित (kept as the term) differ; the sense (wronged / gone wrong, glossary 4.12 'go wrong') is a person's decision. The closing quote has no opening mark in the e-text; the flag stands (opening before kṣīṇa, since units 9-11 are Kautilya's own statement)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अभूत, अधर्म्य",
+     "problem": "Hindi leaves abhūta and adharmya as bare Sanskrit while English translates them (unprecedented, unlawful); अभूत is not standard Hindi",
+     "fix": "अभूतपूर्व, धर्म-विरुद्ध हिंसाओं",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अभूत, अधर्म्य हिंसाओं",
+      "new": "अभूतपूर्व, धर्म-विरुद्ध हिंसाओं"
+     }
+    },
+    {
+     "field": "english",
+     "where": "practices",
+     "problem": "pravartana is 'setting in motion / initiating'; 'practices' is a loose sense",
+     "fix": "through the setting in motion of unprecedented, unlawful acts of violence",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "19",
+       "op": "replace",
+       "field": "english",
+       "old": "through the practices of unprecedented",
+       "new": "through the setting in motion of unprecedented"
+      },
+      {
+       "n": "19",
+       "op": "word",
+       "match_w": "pravartanaiḥ",
+       "field": "gloss",
+       "value": "by setting in motion"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "obstruction of dharma",
+     "problem": "avagraha is 'restraining' in units 12 and 35 (glossary 5.6 avagrāhayet = have restrained); same word, two renderings",
+     "fix": "by restraint of dharma / Hindi धर्म को रोकने से",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "20",
+       "op": "replace",
+       "field": "english",
+       "old": "by obstruction of dharma",
+       "new": "by restraint of dharma"
+      },
+      {
+       "n": "20",
+       "op": "replace",
+       "field": "hindi",
+       "old": "धर्म के अवरोध से",
+       "new": "धर्म को रोकने से"
+      },
+      {
+       "n": "20",
+       "op": "word",
+       "match_w": "avagraheṇa",
+       "field": "gloss",
+       "value": "by restraint"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "partiality / established",
+     "problem": "vaiṣamya literally 'unevenness' (no invented sense); sthita is 'settled' in unit 39 (yathā-sthita-kārin, Hindi जैसा तय हुआ) so unit 25 should match; Hindi स्थित ('situated') does not match English 'established'",
+     "fix": "by unevenness and falsehood; what is settled; Hindi तय हुए को न करने से",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "25",
+       "op": "replace",
+       "field": "english",
+       "old": "by partiality and falsehood",
+       "new": "by unevenness and falsehood"
+      },
+      {
+       "n": "25",
+       "op": "replace",
+       "field": "english",
+       "old": "by not doing what is established",
+       "new": "by not doing what is settled"
+      },
+      {
+       "n": "25",
+       "op": "replace",
+       "field": "hindi",
+       "old": "स्थित को न करने से",
+       "new": "तय हुए को न करने से"
+      },
+      {
+       "n": "25",
+       "op": "word",
+       "match_w": "vaiṣamyeṇa",
+       "field": "gloss",
+       "value": "by unevenness"
+      },
+      {
+       "n": "25",
+       "op": "word",
+       "match_w": "sthitasya",
+       "field": "gloss",
+       "value": "of what is settled"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pramāda-ālasyābhyām",
+     "problem": "a dvandva takes the gender of its last member; ālasya is neuter",
+     "fix": "n. inst. du., dvandva",
+     "severity": "minor",
+     "patch": {
+      "n": "26",
+      "op": "word",
+      "match_w": "pramāda-ālasyābhyām",
+      "field": "gram",
+      "value": "n. inst. du., dvandva"
+     }
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vā ... vā",
+     "problem": "the second-level rule 'vā always rendered': two vā stand in 'amitraṃ vā ... ghnanti vā' (either ... or) but only one 'or' is rendered in English and Hindi, although the note says both are rendered",
+     "fix": "English: either go to the enemy or themselves kill the master; Hindi with या ... या",
+     "severity": "error",
+     "patch": [
+      {
+       "n": "27",
+       "op": "replace",
+       "field": "english",
+       "old": "the disaffected go to the enemy, or themselves kill the master.",
+       "new": "the disaffected either go to the enemy or themselves kill the master."
+      },
+      {
+       "n": "27",
+       "op": "replace",
+       "field": "hindi",
+       "old": "विरक्त अमित्र के पास जाती हैं, या स्वयं भर्ता को मार डालती हैं।",
+       "new": "विरक्त — या अमित्र के पास जाती हैं, या स्वयं भर्ता को मार डालती हैं।"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "क्षीण पीड़न / निष्पतन",
+     "problem": "'क्षीण पीड़न और उच्छेदन' reads as one noun phrase (weak affliction); the subject needs a comma. निष्पतन is not a Hindi word and English translates it 'going out'",
+     "fix": "क्षीण, पीड़न ...; बाहर निकल जाने को",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "30",
+       "op": "replace",
+       "field": "hindi",
+       "old": "क्षीण पीड़न",
+       "new": "क्षीण, पीड़न"
+      },
+      {
+       "n": "30",
+       "op": "replace",
+       "field": "hindi",
+       "old": "या निष्पतन को",
+       "new": "या बाहर निकल जाने को"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "लुब्ध लोभ से असन्तुष्ट दूसरे",
+     "problem": "no commas: the subject and the participle phrase run together",
+     "fix": "लुब्ध, लोभ से असन्तुष्ट, दूसरे",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "लुब्ध लोभ से असन्तुष्ट दूसरे",
+      "new": "लुब्ध, लोभ से असन्तुष्ट, दूसरे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "yoke-animals",
+     "problem": "'animals' is an interpretive sense for yugya (animals or vehicles); Hindi keeps युग्य",
+     "fix": "the loss of yugya (those fit for the yoke) and men",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "33",
+       "op": "replace",
+       "field": "english",
+       "old": "the loss of yoke-animals and men",
+       "new": "the loss of yugya (those fit for the yoke) and men"
+      },
+      {
+       "n": "33",
+       "op": "word",
+       "match_w": "yugya-puruṣa-kṣayaḥ",
+       "field": "gloss",
+       "value": "loss of yugya (those fit for the yoke) and men"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "aims",
+     "problem": "glossary 5.4: artha in para-artha = interest (प्रयोजन); Hindi pratihantum 'रोकना' does not match English 'counter'",
+     "fix": "in the interests of the other; Hindi प्रतिहत करना",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "34",
+       "op": "replace",
+       "field": "english",
+       "old": "in the aims of the other",
+       "new": "in the interests of the other"
+      },
+      {
+       "n": "34",
+       "op": "word",
+       "match_w": "para-artheṣu",
+       "field": "gloss",
+       "value": "in the interests of the other"
+      },
+      {
+       "n": "34",
+       "op": "replace",
+       "field": "hindi",
+       "old": "रोकना या ग्रहण करना",
+       "new": "प्रतिहत करना या ग्रहण करना"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विराग",
+     "problem": "virāga is विरक्ति in units 26-28 and 30; keep one Hindi word",
+     "fix": "विरक्ति प्रधान को रोकने से साध्य है।",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विराग प्रधान",
+      "new": "विरक्ति प्रधान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "exploitable",
+     "problem": "'exploitable' is an interpretive sense; glossary 3.8 bhoga = use",
+     "fix": "become fit to be used",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "36",
+       "op": "replace",
+       "field": "english",
+       "old": "become exploitable",
+       "new": "become fit to be used"
+      },
+      {
+       "n": "36",
+       "op": "word",
+       "match_w": "bhogyāḥ",
+       "field": "gloss",
+       "value": "fit to be used"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "split / भिन्न",
+     "problem": "bhinna (√bhid) = broken (glossary 10.4); Hindi भिन्न means 'different', a wrong sense",
+     "fix": "broken in many ways / अनेक प्रकार से टूटी हुई",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "english",
+       "old": "[they] become split in many ways",
+       "new": "[they] become broken in many ways"
+      },
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "hindi",
+       "old": "अनेक प्रकार से भिन्न",
+       "new": "अनेक प्रकार से टूटी हुई"
+      },
+      {
+       "n": "37",
+       "op": "word",
+       "match_w": "bhinnāḥ",
+       "field": "gloss",
+       "value": "broken"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शौच",
+     "problem": "Hindi शौच usually means the toilet; use शुचिता (unit 39 has शुचि)",
+     "fix": "शक्ति और शुचिता से युक्तों",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शक्ति और शौच से",
+      "new": "शक्ति और शुचिता से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भेद-उपग्रह",
+     "problem": "Hindi उपग्रह means 'satellite' (glossary 4.3); English reads the dvandva 'dissension and support' (glossary 13.3 upagraha = सहारा)",
+     "fix": "भेद और सहारे का आश्रय लेना",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भेद-उपग्रह का आश्रय लेना",
+      "new": "भेद और सहारे का आश्रय लेना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "sattra",
+     "problem": "sattra: glossary 8.5 'hiding-place' and 5.6 'session'; context (withdrawing from allies, fear of a trusted equal) does not give a sacrificial session, but a hiding-place is not stated either. Keep untranslated, as drafted; Hindi सत्त्र matches the printed Devanagari",
+     "fix": "keep sattra untranslated; add note",
+     "severity": "minor",
+     "patch": {
+      "n": "46",
+      "op": "append_note",
+      "text": "Review: sattra kept untranslated in both languages; the 5.6 'sacrificial session' sense does not fit a withdrawal from allies, the 8.5 'hiding-place' sense is possible, a person decides. kalatra = the household as in 10.2, 'royal' not added because the owner is not stated."
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "prosperity",
+     "problem": "glossary 9.7: vṛddhi = growth (वृद्धि)",
+     "fix": "growth alters the mind",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "47",
+       "op": "replace",
+       "field": "english",
+       "old": "prosperity alters the mind",
+       "new": "growth alters the mind"
+      },
+      {
+       "n": "47",
+       "op": "word",
+       "match_w": "vṛddhiḥ",
+       "field": "gloss",
+       "value": "growth"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "48",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "twice as much",
+     "problem": "'as much' is an added supply; dvi-guṇa = twofold / double",
+     "fix": "should take double",
+     "severity": "minor",
+     "patch": {
+      "n": "48",
+      "op": "replace",
+      "field": "english",
+      "old": "should take twice as much",
+      "new": "should take double"
+     }
+    }
+   ]
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Chunk 1 of 7.5 (49 units): 24 issues (1 error, 23 minor), 24 with machine patches; no regrouping suggested. One real error: unit 27 dropped the second vā (either...or). Otherwise the draft is faithful: all tokens and splits parse, grams checked, ca/hi/tu/api/eva rendered, no Latin or brackets in Hindi, no added वह/पुरुष/लोग. Fixes are Hindi/English alignment (unit 19, 20, 25, 30, 37, 38, 42), literal senses instead of interpretive ones (2, 9, 33, 34, 36, 47, 48) and small grammar/label points (10, 12, 26). Drafter doubts: text_flags in 12 (opening quote missing, units 9-11 are Kautilya so the flag stands), 45 (stray dash, keep) and 46 (viśvas tasya = viśvastasya, confirmed by the 8+8 metre) are all right; yātavya 'the one to be marched against' and kalatra 'household' accepted; sattra stays untranslated; ca...ca 'both...and' accepted in English, Hindi keeps one और. Low confidences are honest; unit 25 could also be low. Not applied: Hindi quote-mark style (single marks for unquoted alternatives in English, double in Hindi units 1, 9, 16, 40, 43) and apacarita (English 'wronged' vs Hindi अपचरित) are left to a person."
+}
