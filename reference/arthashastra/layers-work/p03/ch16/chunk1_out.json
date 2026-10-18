@@ -1200,7 +1200,7 @@
     ]
    }
   ],
-  "hindi": "यदि वह आचार का क्रम दिखाए, विक्रेता को नहीं, तो उस द्रव्य के समर्पण से छूट जाए।",
+  "hindi": "यदि वह आचार का क्रम दिखाए, विक्रेता को नहीं, उस द्रव्य के समर्पण से छूट जाए।",
   "english": "If he should show the sequence of practice, but not the seller, he would be released by the giving over of that property.",
   "text_flags": [],
   "notes": "ācāra-krama is rendered literally; it is commonly understood as the sequence of transfers by which he obtained the thing (not decided here). atisarga = giving over, handing over. The sentence is elliptical (darśayeta understood with na vikretāram).",
@@ -1358,7 +1358,7 @@
     ]
    }
   ],
-  "hindi": "यदि वह अपसार को प्राप्त करे, तो अपसार के क्षय तक हट जाए।",
+  "hindi": "यदि वह अपसार को प्राप्त करे, अपसार के क्षय तक हट जाए।",
   "english": "If he should reach the apasāra, [he] should move away up to the loss of the apasāra.",
   "text_flags": [],
   "notes": "apasāra is kept untranslated (glossary 4.6/4.8: the person or thing pointed to as source; sense not settled); the sentence is obscure and the subject of apasaret is not stated. The sandhi d in adhigacched / apasared is regular. ā with the ablative = 'up to'.",
@@ -1426,6 +1426,563 @@
   "english": "On loss, [he] should give the price and the penalty for theft.",
   "text_flags": [],
   "notes": "Continues unit 15; 'loss' (kṣaya) is of the apasāra, if that reading holds. Subject not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nāṣṭikaś",
+      "words": [
+       {
+        "w": "nāṣṭikaḥ",
+        "gloss": "the loser",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva.karaṇaṃ",
+      "words": [
+       {
+        "w": "sva-karaṇam",
+        "gloss": "own means of proof",
+        "gram": "n. acc. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "kṛtvā",
+      "words": [
+       {
+        "w": "kṛtvā",
+        "gloss": "having made",
+        "gram": "abs. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "naṣṭa.pratyāhṛtaṃ",
+      "words": [
+       {
+        "w": "naṣṭa-pratyāhṛtam",
+        "gloss": "lost and brought back",
+        "gram": "n. acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "labheta",
+      "words": [
+       {
+        "w": "labheta",
+        "gloss": "would obtain",
+        "gram": "3 sg. opt. ātm. √labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और खोने वाला अपना प्रमाण प्रस्तुत करके खोए और लौटाए हुए को पाए।",
+  "english": "And the loser, having furnished his own means of proof, would obtain what was lost and brought back.",
+  "text_flags": [],
+  "notes": "nāṣṭika is taken as 'the one who has lost' (naṣṭa + -ika). sva-karaṇa = means of proof (glossary 4.1). kṛtvā is literally 'having made'; 'furnished' / प्रस्तुत करके renders the idiom, medium confidence. pratyāhṛta = brought back, recovered.",
+  "confidence": "medium"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sva.karaṇa.abhāve",
+      "words": [
+       {
+        "w": "sva-karaṇa-abhāve",
+        "gloss": "in the absence of own means of proof",
+        "gram": "m. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pañca.bandho",
+      "words": [
+       {
+        "w": "pañca-bandhaḥ",
+        "gloss": "pañca-bandha",
+        "gram": "m. nom. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने प्रमाण के अभाव में पञ्च-बन्ध दण्ड।",
+  "english": "In the absence of his own means of proof, the penalty [is] pañca-bandha.",
+  "text_flags": [],
+  "notes": "pañca-bandha is obscure and is kept untranslated (literally 'five-bond'); some understand it as a penalty of one-fifth, but this is not decided here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tac",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dravyaṃ",
+      "words": [
+       {
+        "w": "dravyam",
+        "gloss": "property",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rāja.dharmyaṃ",
+      "words": [
+       {
+        "w": "rāja-dharmyam",
+        "gloss": "of the king's dharma (rāja-dharmya)",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "syāt",
+      "words": [
+       {
+        "w": "syāt",
+        "gloss": "would be",
+        "gram": "3 sg. opt. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वह द्रव्य राजधर्म्य हो।",
+  "english": "And that property would be rāja-dharmya (of the king's dharma).",
+  "text_flags": [],
+  "notes": "rāja-dharmya taken literally as 'relating to the king's dharma'; probably 'due to the king', but the sense is not decided here.",
+  "confidence": "medium"
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "naṣṭa.apahṛtam",
+      "words": [
+       {
+        "w": "naṣṭa-apahṛtam",
+        "gloss": "lost and stolen",
+        "gram": "n. acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "anivedya-utkarṣataḥ",
+      "words": [
+       {
+        "w": "anivedya",
+        "gloss": "without reporting",
+        "gram": "abs. a-ni-√vid caus."
+       },
+       {
+        "w": "utkarṣataḥ",
+        "gloss": "of one taking up",
+        "gram": "m. gen. sg., pres. part. ut-√kṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "svāminaḥ",
+      "words": [
+       {
+        "w": "svāminaḥ",
+        "gloss": "of the owner",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaḥ",
+      "words": [
+       {
+        "w": "pūrvaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāhasa.daṇḍaḥ",
+      "words": [
+       {
+        "w": "sāhasa-daṇḍaḥ",
+        "gloss": "fine for rashness",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खोए और चुराए हुए को बिना बताए उठाने वाले स्वामी को प्रथम साहस-दण्ड।",
+  "english": "For the owner who takes up what is lost and stolen without reporting [it]: the first fine for rashness.",
+  "text_flags": [],
+  "notes": "utkarṣataḥ taken as present participle of ut-√kṛṣ 'drawing up, taking up' agreeing with svāminaḥ; the exact sense of the act is not decided. The genitive is rendered 'for the owner'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śulka.sthāne",
+      "words": [
+       {
+        "w": "śulka-sthāne",
+        "gloss": "at the toll-station",
+        "gram": "n. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "naṣṭa.apahṛta.utpannaṃ",
+      "words": [
+       {
+        "w": "naṣṭa-apahṛta-utpannam",
+        "gloss": "lost, stolen and arisen",
+        "gram": "n. nom. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhet",
+      "words": [
+       {
+        "w": "tiṣṭhet",
+        "gloss": "should remain",
+        "gram": "3 sg. opt. √sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शुल्क-स्थान पर खोया, चुराया और उत्पन्न हुआ ठहरा रहे।",
+  "english": "At the toll-station, what is lost, stolen and arisen should remain.",
+  "text_flags": [],
+  "notes": "utpanna 'arisen' (perhaps 'turned up') is rendered literally. The listed things may be distinct items, not three descriptions of one.",
+  "confidence": "medium"
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tri.pakṣād",
+      "words": [
+       {
+        "w": "tri-pakṣāt",
+        "gloss": "after three fortnights",
+        "gram": "m. abl. sg., dvigu"
+       }
+      ]
+     },
+     {
+      "src": "ūrdhvam",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anabhisāraṃ",
+      "words": [
+       {
+        "w": "anabhisāram",
+        "gloss": "the unclaimed",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "the king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "haret,",
+      "words": [
+       {
+        "w": "haret",
+        "gloss": "may take",
+        "gram": "3 sg. opt. √hṛ"
+       }
+      ]
+     },
+     {
+      "src": "svāmī",
+      "words": [
+       {
+        "w": "svāmī",
+        "gloss": "the owner",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva.karaṇena",
+      "words": [
+       {
+        "w": "sva-karaṇena",
+        "gloss": "by his own means of proof",
+        "gram": "n. inst. sg., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तीन पक्ष के बाद अनभिसार को राजा ले, या स्वामी अपने प्रमाण से।",
+  "english": "After three fortnights the king may take the unclaimed [thing], or the owner [may take it] by his own means of proof.",
+  "text_flags": [],
+  "notes": "anabhisāra is literally 'not approached' (no one has come for it); abhisāra here is not the 8.5 'reinforcement'. Kept as the Sanskrit term in Hindi.",
+  "confidence": "medium"
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pañca.paṇikaṃ",
+      "words": [
+       {
+        "w": "pañca-paṇikam",
+        "gloss": "of five paṇas",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dvipada.rūpasya",
+      "words": [
+       {
+        "w": "dvipada-rūpasya",
+        "gloss": "of a two-footed form",
+        "gram": "n. gen. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "niṣkrayaṃ",
+      "words": [
+       {
+        "w": "niṣkrayam",
+        "gloss": "redemption price",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt,",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     },
+     {
+      "src": "catuṣpaṇikam",
+      "words": [
+       {
+        "w": "catuḥ-paṇikam",
+        "gloss": "of four paṇas",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "eka.khurasya,",
+      "words": [
+       {
+        "w": "eka-khurasya",
+        "gloss": "of a one-hoofed [animal]",
+        "gram": "m. gen. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dvipaṇikaṃ",
+      "words": [
+       {
+        "w": "dvi-paṇikam",
+        "gloss": "of two paṇas",
+        "gram": "m. acc. sg., bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "gomahiṣasya,",
+      "words": [
+       {
+        "w": "go-mahiṣasya",
+        "gloss": "of cow and buffalo",
+        "gram": "m. gen. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pādikaṃ",
+      "words": [
+       {
+        "w": "pādikam",
+        "gloss": "of a quarter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣudra.paśūnām",
+      "words": [
+       {
+        "w": "kṣudra-paśūnām",
+        "gloss": "of small animals",
+        "gram": "m. gen. pl., karmadhāraya"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्विपद रूप का निष्क्रय पाँच पण वाला दे, एक खुर वाले का चार पण वाला, गाय-भैंस का दो पण वाला, छोटे पशुओं का चौथाई वाला।",
+  "english": "[He] should give a redemption price of five paṇas for a two-footed form, [one] of four paṇas for a one-hoofed [animal], [one] of two paṇas for a cow-and-buffalo, [one] of a quarter for small animals.",
+  "text_flags": [],
+  "notes": "dvipada-rūpa is rendered literally ('two-footed form'); rūpa may rather be a coin or 'figure' (the sense 'human being' is possible), not decided. pādika = of a quarter (of a paṇa, understood). The glossary keeps paṇa as a unit name.",
+  "confidence": "medium"
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ratna.sāra.phalgu.kupyānāṃ",
+      "words": [
+       {
+        "w": "ratna-sāra-phalgu-kupyānām",
+        "gloss": "of gems, valuables, trifling things and raw materials",
+        "gram": "n. gen. pl., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "pañcakaṃ",
+      "words": [
+       {
+        "w": "pañcakam",
+        "gloss": "five",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śataṃ",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "in a hundred",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रत्न, बहुमूल्य, तुच्छ और कुप्य के विषय में सौ में पाँच दे।",
+  "english": "For gems, valuables, trifling [things] and raw materials, [he] should give five in a hundred.",
+  "text_flags": [],
+  "notes": "pañcakaṃ śataṃ is read as 'five (per) hundred'; the sense of the quantity (of value) is not stated. phalgu = trifling (literally 'weak, inferior'); sāra = valuables (glossary 12.1); kupya = raw materials.",
   "confidence": "medium"
  }
 ]
