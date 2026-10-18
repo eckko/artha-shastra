@@ -1,0 +1,124 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "“आन्वीक्षिकी, त्रयी, वार्ता और दण्डनीति” — विद्याएँ।",
+  "new": "“आन्वीक्षिकी, त्रयी, वार्ता, दण्डनीति” — ये विद्याएँ हैं।",
+  "why": "reviewer (minor): Four-member list takes commas only in Hindi; closing 'iti vidyāḥ' label = Such are X per glossary"
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "“Ānvīkṣikī, the triple Veda, economic activity and the policy of punishment”: [these are] the sciences.",
+  "new": "“Ānvīkṣikī, the triple Veda, economic activity and the policy of punishment”: such are the sciences.",
+  "why": "reviewer (minor): Closing 'iti X' label should read 'Such is/are X' per glossary"
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "“त्रयी, वार्ता और दण्डनीति,” ऐसा मानव कहते हैं।",
+  "new": "“त्रयी, वार्ता, दण्डनीति,” ऐसा मानव कहते हैं।",
+  "why": "reviewer (minor): Three-member list: commas only"
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "“क्योंकि आन्वीक्षिकी त्रयी का विशेष”",
+  "new": "“क्योंकि आन्वीक्षिकी त्रयी का विशेष।”",
+  "why": "reviewer (minor): Missing closing danda"
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "Read as the compound trayī-viśeṣaḥ ('a distinction/special variety of the triple Veda'); viśeṣa could also be 'distinction', 'particular part'. hi is the causal 'for', giving the reason for the Manavas' view in unit 2. The speakers are not repeated; the iti closes the view. If trayī and viśeṣaḥ were two separate words the sentence would not be well formed.",
+  "new": "Read as the compound trayī-viśeṣaḥ ('a distinction/special variety of the triple Veda'); viśeṣa could also be 'distinction', 'particular part'. hi is the causal 'for', giving the reason for the Manavas' view in unit 2. The speakers are not repeated; the iti closes the view.",
+  "why": "reviewer (minor): Unsupported claim that the sentence would be ill formed without the compound; two-word reading is a possible typo only"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "“The policy of punishment [is] the one science,” say the Aushanasas.",
+  "new": "“The policy of punishment [is] one science,” say the Aushanasas.",
+  "why": "reviewer (minor): 'the' is not in the Sanskrit (ekā = one, as the notes say)"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "“For in it the undertakings of all the sciences are bound up.”",
+  "new": "“For in it the undertakings of all the sciences [are] bound up.”",
+  "why": "reviewer (error): Verbless clause (participle predicate, no asti): copula must be bracketed"
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "“क्योंकि उसमें सभी विद्याओं के आरम्भ बँधे हुए हैं।”",
+  "new": "“क्योंकि उसमें सभी विद्याओं के आरम्भ बँधे हुए।”",
+  "why": "reviewer (error): No Hindi copula in a verbless clause"
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "उनके द्वारा धर्म और अर्थ को जाने, वह विद्याओं का विद्यात्व।",
+  "new": "यह कि उनके द्वारा धर्म और अर्थ को जाने, वह विद्याओं का विद्यात्व।",
+  "why": "reviewer (error): yad (relative 'that') is not rendered in the Hindi although English has 'That'"
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "“साङ्ख्य, योग और लोकायत” — आन्वीक्षिकी।",
+  "new": "“साङ्ख्य, योग, लोकायत” — यह आन्वीक्षिकी है।",
+  "why": "reviewer (minor): Three-member list: commas only; closing 'ity X' label = Such is X (यह X है) per glossary"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "“Sāṅkhya, Yoga and Lokāyata”: [this is] Ānvīkṣikī.",
+  "new": "“Sāṅkhya, Yoga and Lokāyata”: such is Ānvīkṣikī.",
+  "why": "reviewer (minor): Closing label: 'Such is X' per glossary"
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "त्रयी में धर्म और अधर्म, वार्ता में अर्थ और अनर्थ, दण्डनीति में नय और अनय, और इनके बल और दुर्बलता को हेतुओं से जाँचती हुई लोक का उपकार करती है, व्यसन और अभ्युदय में बुद्धि को स्थापित करती है, और प्रज्ञा, वाक्य, क्रिया की निपुणता करती है।",
+  "new": "त्रयी में धर्म और अधर्म, वार्ता में अर्थ और अनर्थ, दण्डनीति में नय और अनय, इनके बल और दुर्बलता को हेतुओं से जाँचती हुई लोक का उपकार करती है, व्यसन और अभ्युदय में बुद्धि को स्थापित करती है, और प्रज्ञा, वाक्य, क्रिया की निपुणता करती है।",
+  "why": "reviewer (minor): The 3+ list (three pairs plus bala-abale) takes commas only in Hindi; ca before the last member must not appear as और"
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "Ānvīkṣikī is always regarded [as] the lamp of all the sciences, the means of all actions, the resort of all dharmas.",
+  "new": "Ānvīkṣikī [is] always regarded [as] the lamp of all the sciences, the means of all actions, the resort of all dharmas.",
+  "why": "reviewer (error): Verbless clause (matā, no asti): copula bracketed"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "आन्वीक्षिकी सदा सभी विद्याओं का दीपक, सभी कर्मों का उपाय, सभी धर्मों का आश्रय मानी गई है।",
+  "new": "आन्वीक्षिकी सदा सभी विद्याओं का दीपक, सभी कर्मों का उपाय, सभी धर्मों का आश्रय मानी गई।",
+  "why": "reviewer (error): No Hindi copula in a verbless clause"
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "sarva-vidyānām",
+  "old": "f. gen. pl., tat-puruṣa",
+  "new": "f. gen. pl., karmadhāraya",
+  "why": "reviewer (minor): sarva + noun is a karmadhāraya, not a tat-puruṣa"
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "sarva-karmaṇām",
+  "old": "n. gen. pl., tat-puruṣa",
+  "new": "n. gen. pl., karmadhāraya",
+  "why": "reviewer (minor): sarva + noun is a karmadhāraya, not a tat-puruṣa"
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "sarva-dharmāṇām",
+  "old": "m. gen. pl., tat-puruṣa",
+  "new": "m. gen. pl., karmadhāraya",
+  "why": "reviewer (minor): sarva + noun is a karmadhāraya, not a tat-puruṣa"
+ }
+]
