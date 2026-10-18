@@ -1,0 +1,259 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "vidyā-upadeśena",
+     "problem": "singular vidyā = learning per glossary 1.5 (not 'science')",
+     "fix": "by teaching of learning",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "vidyā-upadeśena",
+      "field": "gloss",
+      "value": "by teaching of learning"
+     }
+    },
+    {
+     "field": "english",
+     "where": "discipline through teaching of science",
+     "problem": "same",
+     "fix": "discipline through teaching of learning",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "discipline through teaching of science",
+      "new": "discipline through teaching of learning"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sva-dharma-sthāpanam",
+     "problem": "glossary 1.3: the establishing of own dharma",
+     "fix": "the establishing of own dharma",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "sva-dharma-sthāpanam",
+      "field": "gloss",
+      "value": "the establishing of own dharma"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the establishment of one's own dharma",
+     "problem": "align with glossary 1.3",
+     "fix": "the establishing of own dharma",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "the establishment of one's own dharma",
+      "new": "the establishing of own dharma"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hitena",
+     "problem": "'what is' adds an unmarked copula to a bare adjective",
+     "fix": "by the beneficial",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "hitena",
+      "field": "gloss",
+      "value": "by the beneficial"
+     }
+    },
+    {
+     "field": "english",
+     "where": "through what is beneficial",
+     "problem": "same",
+     "fix": "through the beneficial",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "through what is beneficial",
+      "new": "through the beneficial"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उद्धत वेश होना",
+     "problem": "होना is an added verb for the abstract -tva",
+     "fix": "उद्धत-वेशत्व",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उद्धत वेश होना",
+      "new": "उद्धत-वेशत्व"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "varjayet",
+     "problem": "varjayati is class 10, not a causative (glossary 3.10/4.9)",
+     "fix": "opt. 3 sg. √vṛj (class 10)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "varjayet",
+      "field": "gram",
+      "value": "opt. 3 sg. √vṛj (class 10)"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "laulya",
+     "problem": "glossary 7.6 renders deśa-laulya 'greed for a place'; fickleness kept here, a person should align",
+     "fix": "(glossary line added)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pīḍayati",
+     "problem": "pīḍayati is class 10, not a causative",
+     "fix": "3 sg. pres. √pīḍ (class 10)",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "pīḍayati",
+      "field": "gram",
+      "value": "3 sg. pres. √pīḍ (class 10)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ati-āsevitaḥ",
+     "problem": "ati+ā-√sev is a prefixed participle, not a tat-puruṣa compound",
+     "fix": "past part. pass. m. nom. sg. ati-ā-√sev",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "ati-āsevitaḥ",
+      "field": "gram",
+      "value": "past part. pass. m. nom. sg. ati-ā-√sev"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "glossary: iti glossed 'closing particle'",
+     "fix": "closing particle",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing particle"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "छाया-नालिका के प्रतोद",
+     "problem": "draft reads a dvandva (English 'shadow and nālikā'); Hindi must carry the 'and' as in योग और क्षेम",
+     "fix": "छाया और नालिका के प्रतोद",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "छाया-नालिका के प्रतोद",
+      "new": "छाया और नालिका के प्रतोद"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pramādyantam",
+     "problem": "gender missing",
+     "fix": "pres. part. m. acc. sg. pra-√mad",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "pramādyantam",
+      "field": "gram",
+      "value": "pres. part. m. acc. sg. pra-√mad"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "saciva",
+     "problem": "note claims saciva is 'kept distinct from amātya' but both are glossed 'ministers'",
+     "fix": "saciva = companion, minister (rendered 'minister' like amātya; the Sanskrit words differ)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "notes",
+      "old": "(kept distinct from amātya)",
+      "new": "(rendered 'minister' like amātya; the Sanskrit words differ)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "0 errors, 15 minor issues (14 machine patches). Split, grams, ca/vā/eva/hi rendering, Hindi purity and the unit 8 text_flag are sound. No regrouping needed (units 3-4 form one sentence but stay separate). Unit 8 correctly low; unit 7 bare closing iti not rendered per glossary 1.4."
+}
