@@ -1,0 +1,5543 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vijigīṣur",
+      "words": [
+       {
+        "w": "vijigīṣuḥ",
+        "gloss": "the conqueror",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvitīyāṃ",
+      "words": [
+       {
+        "w": "dvitīyām",
+        "gloss": "second",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛtim",
+      "words": [
+       {
+        "w": "prakṛtim",
+        "gloss": "constituent element",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "evam",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "in this way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "atisandadhyāt",
+      "words": [
+       {
+        "w": "atisandadhyāt",
+        "gloss": "should outwit",
+        "gram": "3 sg. opt. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विजिगीषु इस प्रकार दूसरी प्रकृति को छल ले।",
+  "english": "The conqueror should outwit the second constituent element in this way.",
+  "text_flags": [],
+  "notes": "'Second constituent element' is literal (dvitīyā prakṛti); the line does not say which element is meant.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "07.06.1"
+  ],
+  "lines_deva": [
+   "विजिगीषुर् द्वितीयां प्रकृतिम् एवम् अतिसन्दध्यात्"
+  ],
+  "lines_iast": [
+   "vijigīṣur dvitīyāṃ prakṛtim evam atisandadhyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sāmantaṃ",
+      "words": [
+       {
+        "w": "sāmantam",
+        "gloss": "neighbouring chief",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃhita.prayāṇe",
+      "words": [
+       {
+        "w": "saṃhita-prayāṇe",
+        "gloss": "in the allied march",
+        "gram": "karmadhāraya, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yoja-",
+      "words": [
+       {
+        "w": "yojayet",
+        "gloss": "should engage (word broken across two tokens)",
+        "gram": "3 sg. opt. caus. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "yet",
+      "words": [
+       {
+        "w": "-yet",
+        "gloss": "continuation of yojayet",
+        "gram": "fragment (see previous token)"
+       }
+      ]
+     },
+     {
+      "src": "\"tvam",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ito",
+      "words": [
+       {
+        "w": "itaḥ",
+        "gloss": "from here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāhi,",
+      "words": [
+       {
+        "w": "yāhi",
+        "gloss": "go",
+        "gram": "2 sg. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "aham",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ito",
+      "words": [
+       {
+        "w": "itaḥ",
+        "gloss": "from here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāsyāmi,",
+      "words": [
+       {
+        "w": "yāsyāmi",
+        "gloss": "I shall go",
+        "gram": "1 sg. fut. √yā"
+       }
+      ]
+     },
+     {
+      "src": "samāno",
+      "words": [
+       {
+        "w": "samānaḥ",
+        "gloss": "equal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lābhaḥ\"",
+      "words": [
+       {
+        "w": "lābhaḥ",
+        "gloss": "gain",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सामन्त को संहित प्रयाण में लगाए: “तुम यहाँ से जाओ, मैं यहाँ से जाऊँगा, लाभ समान है।”",
+  "english": "[One] should engage the neighbouring chief in an allied march [with the words]: “You go from here, I shall go from here; the gain [is] equal.”",
+  "text_flags": [
+   {
+    "src": "yoja- yet",
+    "suggest": "yojayet",
+    "why": "stray hyphen and space splitting one word (yoja-yet)"
+   }
+  ],
+  "notes": "Subject unstated, so '[one]'. itaḥ (from here / hence) is kept literal; the two itaḥ may point to different directions. saṃhita-prayāṇe: saṃhita = allied (glossary 7.3) with prayāṇa 'march' (glossary yātrā = march). Closing iti is carried by the quotation marks.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.2"
+  ],
+  "lines_deva": [
+   "सामन्तं संहित.प्रयाणे योज- येत् \"त्वम् इतो याहि, अहम् इतो यास्यामि, समानो लाभः\" इति"
+  ],
+  "lines_iast": [
+   "sāmantaṃ saṃhita.prayāṇe yoja- yet \"tvam ito yāhi, aham ito yāsyāmi, samāno lābhaḥ\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "lābha.sāmye",
+      "words": [
+       {
+        "w": "lābha-sāmye",
+        "gloss": "in equality of gain",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhiḥ,",
+      "words": [
+       {
+        "w": "sandhiḥ",
+        "gloss": "treaty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaiṣamye",
+      "words": [
+       {
+        "w": "vaiṣamye",
+        "gloss": "in unevenness",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikramaḥ",
+      "words": [
+       {
+        "w": "vikramaḥ",
+        "gloss": "attack",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लाभ की समानता में सन्धि, वैषम्य में आक्रमण।",
+  "english": "In equality of gain, [there is] a treaty; in unevenness, attack.",
+  "text_flags": [],
+  "notes": "No verb in the Sanskrit. sandhi = treaty (glossary 12.1; 'peace' elsewhere). vikrama (stride, valour) is read 'attack' as in vikramayet (glossary 11.1); unit 17 lists its modes as battles.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.3"
+  ],
+  "lines_deva": [
+   "लाभ.साम्ये सन्धिः, वैषम्ये विक्रमः"
+  ],
+  "lines_iast": [
+   "lābha.sāmye sandhiḥ, vaiṣamye vikramaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sandhiḥ",
+      "words": [
+       {
+        "w": "sandhiḥ",
+        "gloss": "treaty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇitaś",
+      "words": [
+       {
+        "w": "paripaṇitaḥ",
+        "gloss": "stipulated",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-aparipaṇitaś",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aparipaṇitaḥ",
+        "gloss": "unstipulated",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सन्धि परिपणित और अपरिपणित है।",
+  "english": "A treaty [is] both stipulated and unstipulated.",
+  "text_flags": [],
+  "notes": "Printed 'ca-aparipaṇitaś' is a '-' join of two real words (ca, aparipaṇitaḥ). The two ca are correlative (both ... and); Hindi has one और. paripaṇita (pari-√paṇ, agreed with stipulated terms) is kept as a term in Hindi.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.4"
+  ],
+  "lines_deva": [
+   "सन्धिः परिपणितश् च-अपरिपणितश् च"
+  ],
+  "lines_iast": [
+   "sandhiḥ paripaṇitaś ca-aparipaṇitaś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tvam",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "etaṃ",
+      "words": [
+       {
+        "w": "etam",
+        "gloss": "this",
+        "gram": "pron. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśaṃ",
+      "words": [
+       {
+        "w": "deśam",
+        "gloss": "place",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāhi,",
+      "words": [
+       {
+        "w": "yāhi",
+        "gloss": "go",
+        "gram": "2 sg. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "aham",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "imaṃ",
+      "words": [
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "pron. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśaṃ",
+      "words": [
+       {
+        "w": "deśam",
+        "gloss": "place",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāsyāmi\"",
+      "words": [
+       {
+        "w": "yāsyāmi",
+        "gloss": "I shall go",
+        "gram": "1 sg. fut. √yā"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇita.deśaḥ",
+      "words": [
+       {
+        "w": "paripaṇita-deśaḥ",
+        "gloss": "with the place stipulated",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“तुम इस देश को जाओ, मैं इस देश को जाऊँगा” — जिसमें देश परिपणित है।",
+  "english": "“You go to this place, I shall go to this place” — [the treaty] with the place stipulated.",
+  "text_flags": [],
+  "notes": "Bahuvrīhi 'whose place is stipulated', qualifying sandhiḥ of unit 4; the noun is bracketed in English. etam and imam both 'this'. Closing iti carried by the quotation marks.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.5"
+  ],
+  "lines_deva": [
+   "\"त्वम् एतं देशं याहि, अहम् इमं देशं यास्यामि\" इति परिपणित.देशः"
+  ],
+  "lines_iast": [
+   "\"tvam etaṃ deśaṃ yāhi, aham imaṃ deśaṃ yāsyāmi\" iti paripaṇita.deśaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tvam",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "etāvantaṃ",
+      "words": [
+       {
+        "w": "etāvantam",
+        "gloss": "so long",
+        "gram": "adj. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālaṃ",
+      "words": [
+       {
+        "w": "kālam",
+        "gloss": "time",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceṣṭasva,",
+      "words": [
+       {
+        "w": "ceṣṭasva",
+        "gloss": "act",
+        "gram": "2 sg. impv. mid. √ceṣṭ"
+       }
+      ]
+     },
+     {
+      "src": "aham",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "etāvantaṃ",
+      "words": [
+       {
+        "w": "etāvantam",
+        "gloss": "so long",
+        "gram": "adj. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kālaṃ",
+      "words": [
+       {
+        "w": "kālam",
+        "gloss": "time",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceṣṭiṣye\"",
+      "words": [
+       {
+        "w": "ceṣṭiṣye",
+        "gloss": "I shall act",
+        "gram": "1 sg. fut. mid. √ceṣṭ"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇita.kālaḥ",
+      "words": [
+       {
+        "w": "paripaṇita-kālaḥ",
+        "gloss": "with the time stipulated",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“तुम इतने समय तक चेष्टा करो, मैं इतने समय तक चेष्टा करूँगा” — जिसमें समय परिपणित है।",
+  "english": "“You act for so long a time, I shall act for so long a time” — [the treaty] with the time stipulated.",
+  "text_flags": [],
+  "notes": "ceṣṭ read 'act' (also 'exert oneself'); no object stated. As unit 5: qualifies sandhiḥ, noun bracketed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.6"
+  ],
+  "lines_deva": [
+   "\"त्वम् एतावन्तं कालं चेष्टस्व, अहम् एतावन्तं कालं चेष्टिष्ये\" इति परिपणित.कालः"
+  ],
+  "lines_iast": [
+   "\"tvam etāvantaṃ kālaṃ ceṣṭasva, aham etāvantaṃ kālaṃ ceṣṭiṣye\" iti paripaṇita.kālaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tvam",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "etāvat.kāryaṃ",
+      "words": [
+       {
+        "w": "etāvat-kāryam",
+        "gloss": "so much task",
+        "gram": "karmadhāraya, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhaya,",
+      "words": [
+       {
+        "w": "sādhaya",
+        "gloss": "accomplish",
+        "gram": "2 sg. impv. caus. √sādh"
+       }
+      ]
+     },
+     {
+      "src": "aham",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "idaṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "pron. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāryaṃ",
+      "words": [
+       {
+        "w": "kāryam",
+        "gloss": "task",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhayiṣyāmi\"",
+      "words": [
+       {
+        "w": "sādhayiṣyāmi",
+        "gloss": "I shall accomplish",
+        "gram": "1 sg. fut. caus. √sādh"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇita.arthaḥ",
+      "words": [
+       {
+        "w": "paripaṇita-arthaḥ",
+        "gloss": "with the purpose stipulated",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“तुम इतना कार्य सिद्ध करो, मैं यह कार्य सिद्ध करूँगा” — जिसमें प्रयोजन परिपणित है।",
+  "english": "“You accomplish so large a task, I shall accomplish this task” — [the treaty] with the purpose stipulated.",
+  "text_flags": [],
+  "notes": "artha here read 'purpose' (alternatives: object, matter, gain); medium confidence. etāvat-kārya 'so much task' is literal. As unit 5: noun bracketed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.7"
+  ],
+  "lines_deva": [
+   "\"त्वम् एतावत्.कार्यं साधय, अहम् इदं कार्यं साधयिष्यामि\" इति परिपणित.अर्थः"
+  ],
+  "lines_iast": [
+   "\"tvam etāvat.kāryaṃ sādhaya, aham idaṃ kāryaṃ sādhayiṣyāmi\" iti paripaṇita.arthaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadi",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manyeta",
+      "words": [
+       {
+        "w": "manyeta",
+        "gloss": "should think",
+        "gram": "3 sg. opt. mid. √man"
+       }
+      ]
+     },
+     {
+      "src": "\"śaila.vana.nadī.durgam",
+      "words": [
+       {
+        "w": "śaila-vana-nadī-durgam",
+        "gloss": "having mountain, forest and river forts",
+        "gram": "bahuvrīhi (dvandva members), m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aṭavī.vyavahitaṃ",
+      "words": [
+       {
+        "w": "aṭavī-vyavahitam",
+        "gloss": "separated by forests",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "chinna.dhānya.puruṣa.vīvadha.āsāram",
+      "words": [
+       {
+        "w": "chinna-dhānya-puruṣa-vīvadha-āsāram",
+        "gloss": "with grain, men, supply line and reinforcement cut off",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ayavasa.indhana.udakam",
+      "words": [
+       {
+        "w": "ayavasa-indhana-udakam",
+        "gloss": "without fodder, fuel and water",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avijñātaṃ",
+      "words": [
+       {
+        "w": "avijñātam",
+        "gloss": "unknown",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛṣṭam",
+      "words": [
+       {
+        "w": "prakṛṣṭam",
+        "gloss": "distant",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anya.bhāva.deśīyaṃ",
+      "words": [
+       {
+        "w": "anya-bhāva-deśīyam",
+        "gloss": "belonging to a place of a different condition",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sainya.vyāyāmānām",
+      "words": [
+       {
+        "w": "sainya-vyāyāmānām",
+        "gloss": "of the army's exertions",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "alabdha.bhaumaṃ",
+      "words": [
+       {
+        "w": "alabdha-bhaumam",
+        "gloss": "with no ground obtained",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deśaṃ",
+      "words": [
+       {
+        "w": "deśam",
+        "gloss": "place",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paro",
+      "words": [
+       {
+        "w": "paraḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāsyati,",
+      "words": [
+       {
+        "w": "yāsyati",
+        "gloss": "will go",
+        "gram": "3 sg. fut. √yā"
+       }
+      ]
+     },
+     {
+      "src": "viparītam",
+      "words": [
+       {
+        "w": "viparītam",
+        "gloss": "the reverse",
+        "gram": "adj. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aham\"",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "etasmin",
+      "words": [
+       {
+        "w": "etasmin",
+        "gloss": "in this",
+        "gram": "pron. m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣe",
+      "words": [
+       {
+        "w": "viśeṣe",
+        "gloss": "in the particular",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇita.deśaṃ",
+      "words": [
+       {
+        "w": "paripaṇita-deśam",
+        "gloss": "with the place stipulated",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhim",
+      "words": [
+       {
+        "w": "sandhim",
+        "gloss": "treaty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upeyāt",
+      "words": [
+       {
+        "w": "upeyāt",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. upa-√i"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा यदि सोचे “पर्वत, वन, नदी के दुर्गों वाले, वनों से व्यवहित, अन्न, पुरुष, रसद, सहायक सेना से कटे हुए, घास, ईंधन, जल से रहित, अज्ञात, दूर, अन्य स्थिति के देश से सम्बद्ध, या सेना की चेष्टाओं के लिए भूमि न पाने वाले, अथवा देश को दूसरा जाएगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-देश वाली सन्धि को अपनाए।",
+  "english": "Or if [one] should think: “The other will go to a place having mountain, forest and river forts, separated by forests, with grain, men, supply line and reinforcement cut off, without fodder, fuel and water, unknown, distant, or belonging to a place of a different condition, or with no ground obtained for the army's exertions; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the place stipulated.",
+  "text_flags": [],
+  "notes": "Subject of manyeta/upeyāt unstated, '[one]'. chinna-dhānya-puruṣa-vīvadha-āsāra: alternatively dhānya-vīvadha and puruṣa-vīvadha (supplies of grain, supply of men) are cut off, and the reinforcement. anya-bhāva-deśīya and alabdha-bhauma are obscure, rendered literally (low confidence); 'ground' for bhauma is doubtful. vyāyāma = exertion (Book 10 sense). viśeṣe: 'in this particular [case]', noun not stated. The second vā joins the alternatives in the place description. Closing iti carried by the quotation marks. viparītam is accusative (agreeing with the understood object of yāsyati), so 'I [am] the reverse' is a bare-copula reading of an elliptical clause; the same in units 9 and 10. The adjectives before deśam agree with it (m. acc.).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.8"
+  ],
+  "lines_deva": [
+   "यदि वा मन्येत \"शैल.वन.नदी.दुर्गम् अटवी.व्यवहितं छिन्न.धान्य.पुरुष.वीवध.आसारम् अयवस.इन्धन.उदकम् अविज्ञातं प्रकृष्टम् अन्य.भाव.देशीयं वा सैन्य.व्यायामानाम् अलब्ध.भौमं वा देशं परो यास्यति, विपरीतम् अहम्\" इत्य् एतस्मिन् विशेषे परिपणित.देशं सन्धिम् उपेयात्"
+  ],
+  "lines_iast": [
+   "yadi vā manyeta \"śaila.vana.nadī.durgam aṭavī.vyavahitaṃ chinna.dhānya.puruṣa.vīvadha.āsāram ayavasa.indhana.udakam avijñātaṃ prakṛṣṭam anya.bhāva.deśīyaṃ vā sainya.vyāyāmānām alabdha.bhaumaṃ vā deśaṃ paro yāsyati, viparītam aham\" ity etasmin viśeṣe paripaṇita.deśaṃ sandhim upeyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadi",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manyeta",
+      "words": [
+       {
+        "w": "manyeta",
+        "gloss": "should think",
+        "gram": "3 sg. opt. mid. √man"
+       }
+      ]
+     },
+     {
+      "src": "\"pravarṣa.uṣṇa.śītam",
+      "words": [
+       {
+        "w": "pravarṣa-uṣṇa-śītam",
+        "gloss": "with heavy rain, heat and cold",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ativyādhi.prāyam",
+      "words": [
+       {
+        "w": "ativyādhi-prāyam",
+        "gloss": "mostly very diseased",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upakṣīṇa.āhāra.upabhogaṃ",
+      "words": [
+       {
+        "w": "upakṣīṇa-āhāra-upabhogam",
+        "gloss": "with food and use diminished",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sainya.vyāyāmānāṃ",
+      "words": [
+       {
+        "w": "sainya-vyāyāmānām",
+        "gloss": "of the army's exertions",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-auparodhikaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "auparodhikam",
+        "gloss": "obstructive",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kārya.sādhanānām",
+      "words": [
+       {
+        "w": "kārya-sādhanānām",
+        "gloss": "of the means of accomplishing tasks",
+        "gram": "tat-puruṣa, n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ūnam",
+      "words": [
+       {
+        "w": "ūnam",
+        "gloss": "deficient",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "atiriktaṃ",
+      "words": [
+       {
+        "w": "atiriktam",
+        "gloss": "excessive",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kālaṃ",
+      "words": [
+       {
+        "w": "kālam",
+        "gloss": "time",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paraś",
+      "words": [
+       {
+        "w": "paraḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceṣṭiṣyate,",
+      "words": [
+       {
+        "w": "ceṣṭiṣyate",
+        "gloss": "will act",
+        "gram": "3 sg. fut. mid. √ceṣṭ"
+       }
+      ]
+     },
+     {
+      "src": "viparītam",
+      "words": [
+       {
+        "w": "viparītam",
+        "gloss": "the reverse",
+        "gram": "adj. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aham\"",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "etasmin",
+      "words": [
+       {
+        "w": "etasmin",
+        "gloss": "in this",
+        "gram": "pron. m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣe",
+      "words": [
+       {
+        "w": "viśeṣe",
+        "gloss": "in the particular",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇita.kālaṃ",
+      "words": [
+       {
+        "w": "paripaṇita-kālam",
+        "gloss": "with the time stipulated",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhim",
+      "words": [
+       {
+        "w": "sandhim",
+        "gloss": "treaty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upeyāt",
+      "words": [
+       {
+        "w": "upeyāt",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. upa-√i"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा यदि सोचे “दूसरा वर्षा, गर्मी, सर्दी वाले, प्रायः अत्यन्त रोग वाले, भोजन और उपभोग के क्षीण होने वाले, और सेना की चेष्टाओं के लिए बाधक, कार्य-साधनों के लिए कम या अधिक समय तक चेष्टा करेगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-समय वाली सन्धि को अपनाए।",
+  "english": "Or if [one] should think: “The other will act for a time with heavy rain, heat and cold, mostly very diseased, with food and use diminished, and obstructive of the army's exertions, deficient or excessive for the means of accomplishing tasks; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the time stipulated.",
+  "text_flags": [],
+  "notes": "Subject of manyeta/upeyāt unstated, '[one]'. The adjectives agree with kālam (time). auparodhika (from uparodha, obstruction) read 'obstructive'; upabhoga read 'use' (consumption, enjoyment also possible). The printed 'ca-auparodhikaṃ' is a '-' join of two words. Closing iti carried by the quotation marks.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.9"
+  ],
+  "lines_deva": [
+   "यदि वा मन्येत \"प्रवर्ष.उष्ण.शीतम् अतिव्याधि.प्रायम् उपक्षीण.आहार.उपभोगं सैन्य.व्यायामानां च-औपरोधिकं कार्य.साधनानाम् ऊनम् अतिरिक्तं वा कालं परश् चेष्टिष्यते, विपरीतम् अहम्\" इत्य् एतस्मिन् विशेषे परिपणित.कालं सन्धिम् उपेयात्"
+  ],
+  "lines_iast": [
+   "yadi vā manyeta \"pravarṣa.uṣṇa.śītam ativyādhi.prāyam upakṣīṇa.āhāra.upabhogaṃ sainya.vyāyāmānāṃ ca-auparodhikaṃ kārya.sādhanānām ūnam atiriktaṃ vā kālaṃ paraś ceṣṭiṣyate, viparītam aham\" ity etasmin viśeṣe paripaṇita.kālaṃ sandhim upeyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadi",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "manyeta",
+      "words": [
+       {
+        "w": "manyeta",
+        "gloss": "should think",
+        "gram": "3 sg. opt. mid. √man"
+       }
+      ]
+     },
+     {
+      "src": "\"pratyādeyaṃ",
+      "words": [
+       {
+        "w": "pratyādeyam",
+        "gloss": "retakable",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakṛti.kopakaṃ",
+      "words": [
+       {
+        "w": "prakṛti-kopakam",
+        "gloss": "causing disaffection of the constituent elements",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīrgha.kālaṃ",
+      "words": [
+       {
+        "w": "dīrgha-kālam",
+        "gloss": "of long duration",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahā.kṣaya.vyayam",
+      "words": [
+       {
+        "w": "mahā-kṣaya-vyayam",
+        "gloss": "with great loss and expenditure",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "alpam",
+      "words": [
+       {
+        "w": "alpam",
+        "gloss": "small",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anartha.anubandham",
+      "words": [
+       {
+        "w": "anartha-anubandham",
+        "gloss": "with a sequel of loss",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "akalyam",
+      "words": [
+       {
+        "w": "akalyam",
+        "gloss": "unsound",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "adharmyaṃ",
+      "words": [
+       {
+        "w": "adharmyam",
+        "gloss": "unlawful",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyama.udāsīna.viruddhaṃ",
+      "words": [
+       {
+        "w": "madhyama-udāsīna-viruddham",
+        "gloss": "opposed to the middle and neutral kings",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitra.upaghātakaṃ",
+      "words": [
+       {
+        "w": "mitra-upaghātakam",
+        "gloss": "injuring allies",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāryaṃ",
+      "words": [
+       {
+        "w": "kāryam",
+        "gloss": "task",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paraḥ",
+      "words": [
+       {
+        "w": "paraḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhayiṣyati,",
+      "words": [
+       {
+        "w": "sādhayiṣyati",
+        "gloss": "will accomplish",
+        "gram": "3 sg. fut. caus. √sādh"
+       }
+      ]
+     },
+     {
+      "src": "viparītam",
+      "words": [
+       {
+        "w": "viparītam",
+        "gloss": "the reverse",
+        "gram": "adj. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "aham\"",
+      "words": [
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "etasmin",
+      "words": [
+       {
+        "w": "etasmin",
+        "gloss": "in this",
+        "gram": "pron. m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣe",
+      "words": [
+       {
+        "w": "viśeṣe",
+        "gloss": "in the particular",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇita.arthaṃ",
+      "words": [
+       {
+        "w": "paripaṇita-artham",
+        "gloss": "with the purpose stipulated",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandhim",
+      "words": [
+       {
+        "w": "sandhim",
+        "gloss": "treaty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "upeyāt",
+      "words": [
+       {
+        "w": "upeyāt",
+        "gloss": "should resort to",
+        "gram": "3 sg. opt. upa-√i"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा यदि सोचे “दूसरा प्रत्यादेय, प्रकृतियों में कोप उत्पन्न करने वाला, दीर्घ काल वाला, महान् क्षय और व्यय वाला, अल्प, अनर्थ के अनुबन्ध वाला, अकल्य, धर्म-विरुद्ध, मध्यम और उदासीन के विरुद्ध, या मित्रों को क्षति पहुँचाने वाला कार्य सिद्ध करेगा; मैं विपरीत हूँ”, इस विशेष में परिपणित-प्रयोजन वाली सन्धि को अपनाए।",
+  "english": "Or if [one] should think: “The other will accomplish a retakable task, causing disaffection of the constituent elements, of long duration, with great loss and expenditure, small, with a sequel of loss, unsound, unlawful, opposed to the middle and neutral kings, or injuring allies; I [am] the reverse” — in this particular [case] [one] should resort to a treaty with the purpose stipulated.",
+  "text_flags": [],
+  "notes": "Subject unstated, '[one]'. pratyādeya = retakable and anubandha = sequel (glossary 9.4, 9.7). akalya is obscure (unsound; alternatives unfit, unhealthy), low confidence for that word. adharmya = unlawful (glossary 7.5). prakṛti-kopaka: kopaka 'provoking' (9.4); read as causing kopa (disaffection) in the constituents. Closing iti carried by the quotation marks.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.10"
+  ],
+  "lines_deva": [
+   "यदि वा मन्येत \"प्रत्यादेयं प्रकृति.कोपकं दीर्घ.कालं महा.क्षय.व्ययम् अल्पम् अनर्थ.अनुबन्धम् अकल्यम् अधर्म्यं मध्यम.उदासीन.विरुद्धं मित्र.उपघातकं वा कार्यं परः साधयिष्यति, विपरीतम् अहम्\" इत्य् एतस्मिन् विशेषे परिपणित.अर्थं सन्धिम् उपेयात्"
+  ],
+  "lines_iast": [
+   "yadi vā manyeta \"pratyādeyaṃ prakṛti.kopakaṃ dīrgha.kālaṃ mahā.kṣaya.vyayam alpam anartha.anubandham akalyam adharmyaṃ madhyama.udāsīna.viruddhaṃ mitra.upaghātakaṃ vā kāryaṃ paraḥ sādhayiṣyati, viparītam aham\" ity etasmin viśeṣe paripaṇita.arthaṃ sandhim upeyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "in this way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deśa.kālayoḥ",
+      "words": [
+       {
+        "w": "deśa-kālayoḥ",
+        "gloss": "of place and time",
+        "gram": "dvandva, m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "kāla.kāryayor",
+      "words": [
+       {
+        "w": "kāla-kāryayoḥ",
+        "gloss": "of time and task",
+        "gram": "dvandva, m./n. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "deśa.kāryayor",
+      "words": [
+       {
+        "w": "deśa-kāryayoḥ",
+        "gloss": "of place and task",
+        "gram": "dvandva, m./n. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "deśa.kāla.kāryāṇāṃ",
+      "words": [
+       {
+        "w": "deśa-kāla-kāryāṇām",
+        "gloss": "of place, time and task",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-avasthāpanāt",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "avasthāpanāt",
+        "gloss": "from the fixing",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sapta.vidhaḥ",
+      "words": [
+       {
+        "w": "sapta-vidhaḥ",
+        "gloss": "sevenfold",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paripaṇitaḥ",
+      "words": [
+       {
+        "w": "paripaṇitaḥ",
+        "gloss": "stipulated [treaty]",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार देश और समय, समय और कार्य, देश और कार्य, और देश, समय, कार्य के निर्धारण से परिपणित सात प्रकार का है।",
+  "english": "In this way, from the fixing of place and time, of time and task, of place and task, and of place, time and task, the stipulated [treaty is] sevenfold.",
+  "text_flags": [],
+  "notes": "The seven: place, time, purpose (units 5-7), the three pairs and the triple named here. The noun 'treaty' is supplied from unit 4 in brackets. Printed 'ca-avasthāpanāt' is a '-' join of two words.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "07.06.11"
+  ],
+  "lines_deva": [
+   "एवं देश.कालयोः काल.कार्ययोर् देश.कार्ययोर् देश.काल.कार्याणां च-अवस्थापनात् सप्त.विधः परिपणितः"
+  ],
+  "lines_iast": [
+   "evaṃ deśa.kālayoḥ kāla.kāryayor deśa.kāryayor deśa.kāla.kāryāṇāṃ ca-avasthāpanāt sapta.vidhaḥ paripaṇitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmin",
+      "words": [
+       {
+        "w": "tasmin",
+        "gloss": "in that",
+        "gram": "pron. m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāg",
+      "words": [
+       {
+        "w": "prāk",
+        "gloss": "beforehand",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "eva-ārabhya",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "ārabhya",
+        "gloss": "having begun",
+        "gram": "abs. ā-√rabh"
+       }
+      ]
+     },
+     {
+      "src": "pratiṣṭhāpya",
+      "words": [
+       {
+        "w": "pratiṣṭhāpya",
+        "gloss": "having established",
+        "gram": "abs. caus. prati-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva.karmāṇi",
+      "words": [
+       {
+        "w": "sva-karmāṇi",
+        "gloss": "own works",
+        "gram": "karmadhāraya, n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "para.karmasu",
+      "words": [
+       {
+        "w": "para-karmasu",
+        "gloss": "in the works of the other",
+        "gram": "tat-puruṣa, n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vikrameta",
+      "words": [
+       {
+        "w": "vikrameta",
+        "gloss": "should attack",
+        "gram": "3 sg. opt. mid. vi-√kram"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें पहले ही आरम्भ करके और अपने कर्मों को स्थापित करके दूसरे के कर्मों में आक्रमण करे।",
+  "english": "In that [treaty], having begun even beforehand and having established one's own works, [one] should attack in the works of the other.",
+  "text_flags": [],
+  "notes": "Subject unstated, '[one]'. karma = works (glossary 7.1 sva-karma / para-karma; also undertakings). vikrameta (vi-√kram, 'stride out') read 'attack', as vikrama in unit 3. 'tasmin' read 'in that [treaty]', the unstated noun being bracketed in English only.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.12"
+  ],
+  "lines_deva": [
+   "तस्मिन् प्राग् एव-आरभ्य प्रतिष्ठाप्य च स्व.कर्माणि पर.कर्मसु विक्रमेत"
+  ],
+  "lines_iast": [
+   "tasmin prāg eva-ārabhya pratiṣṭhāpya ca sva.karmāṇi para.karmasu vikrameta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyasana.tvara.avamāna.ālasya.yuktam",
+      "words": [
+       {
+        "w": "vyasana-tvara-avamāna-ālasya-yuktam",
+        "gloss": "joined with vice, haste, disrespect and sloth",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ajñaṃ",
+      "words": [
+       {
+        "w": "ajñam",
+        "gloss": "ignorant",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śatrum",
+      "words": [
+       {
+        "w": "śatrum",
+        "gloss": "enemy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "atisandhātu.kāmo",
+      "words": [
+       {
+        "w": "atisandhātu-kāmaḥ",
+        "gloss": "desirous of outwitting",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśa.kāla.kāryāṇām",
+      "words": [
+       {
+        "w": "deśa-kāla-kāryāṇām",
+        "gloss": "of place, time and task",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "anavasthāpanāt",
+      "words": [
+       {
+        "w": "anavasthāpanāt",
+        "gloss": "from the non-fixing",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "\"saṃhitau",
+      "words": [
+       {
+        "w": "saṃhitau",
+        "gloss": "allied",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "svaḥ\"",
+      "words": [
+       {
+        "w": "svaḥ",
+        "gloss": "we two are",
+        "gram": "1 du. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sandhi.viśvāsena",
+      "words": [
+       {
+        "w": "sandhi-viśvāsena",
+        "gloss": "by trust in the treaty",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "parac.chidram",
+      "words": [
+       {
+        "w": "para-chidram",
+        "gloss": "the weak point of the other",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āsādya",
+      "words": [
+       {
+        "w": "āsādya",
+        "gloss": "having found",
+        "gram": "abs. ā-√sad caus."
+       }
+      ]
+     },
+     {
+      "src": "prahared",
+      "words": [
+       {
+        "w": "praharet",
+        "gloss": "should strike",
+        "gram": "3 sg. opt. pra-√hṛ"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aparipaṇitaḥ",
+      "words": [
+       {
+        "w": "aparipaṇitaḥ",
+        "gloss": "unstipulated [treaty]",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्यसन, शीघ्रता, अनादर, आलस्य से युक्त अथवा अज्ञ शत्रु को छलने की इच्छा वाला, देश, समय, कार्य के निर्धारण न करने से, “हम दोनों संहित हैं” — सन्धि के विश्वास से दूसरे का छिद्र पाकर प्रहार करे; यह अपरिपणित है।",
+  "english": "Desiring to outwit an enemy joined with vice (vyasana), haste, disrespect and sloth, or ignorant, from not fixing place, time and task, by trust in the treaty “We two are allied”, having found the weak point of the other, [one] should strike: such is the unstipulated [treaty].",
+  "text_flags": [],
+  "notes": "'parac.chidram' is regular sandhi (para + chidra with the doubling c), not a typo; read para-chidram. vyasana is read as the enemy's personal vice (calamity is possible). avamāna read 'disrespect'. atisandhātu-kāma is the usual atisandhātum-kāma compound. The first iti closes the quotation 'We two are allied' and is carried by the quotation marks; the final ity aparipaṇitaḥ is a closing label: 'Such is the unstipulated [treaty]', iti glossed 'closing particle'. Printed 'praharet' is 'prahared' with sandhi.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.13"
+  ],
+  "lines_deva": [
+   "व्यसन.त्वर.अवमान.आलस्य.युक्तम् अज्ञं वा शत्रुम् अतिसन्धातु.कामो देश.काल.कार्याणाम् अनवस्थापनात् \"संहितौ स्वः\" इति सन्धि.विश्वासेन परच्.छिद्रम् आसाद्य प्रहरेद् इत्य् अपरिपणितः"
+  ],
+  "lines_iast": [
+   "vyasana.tvara.avamāna.ālasya.yuktam ajñaṃ vā śatrum atisandhātu.kāmo deśa.kāla.kāryāṇām anavasthāpanāt \"saṃhitau svaḥ\" iti sandhi.viśvāsena parac.chidram āsādya prahared ity aparipaṇitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra-etad",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there; in this matter",
+        "gram": "ind."
+       },
+       {
+        "w": "etat",
+        "gloss": "this",
+        "gram": "pron. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस विषय में यह है।",
+  "english": "In this matter, this is.",
+  "text_flags": [],
+  "notes": "Formula introducing the verse of unit 15. The printed 'tatra-etad' is a '-' join of two words.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.14"
+  ],
+  "lines_deva": [
+   "तत्र-एतद् भवति"
+  ],
+  "lines_iast": [
+   "tatra-etad bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sāmantena-eva",
+      "words": [
+       {
+        "w": "sāmantena",
+        "gloss": "by a neighbouring chief",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sāmantaṃ",
+      "words": [
+       {
+        "w": "sāmantam",
+        "gloss": "neighbouring chief",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidvān",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "the wise one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "āyojya",
+      "words": [
+       {
+        "w": "āyojya",
+        "gloss": "having engaged",
+        "gram": "abs. caus. ā-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "vigrahe",
+      "words": [
+       {
+        "w": "vigrahe",
+        "gloss": "in war",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "'nyasya",
+      "words": [
+       {
+        "w": "anyasya",
+        "gloss": "of another",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hared",
+      "words": [
+       {
+        "w": "haret",
+        "gloss": "should take",
+        "gram": "3 sg. opt. √hṛ"
+       }
+      ]
+     },
+     {
+      "src": "bhūmiṃ",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "chittvā",
+      "words": [
+       {
+        "w": "chittvā",
+        "gloss": "having cut",
+        "gram": "abs. √chid"
+       }
+      ]
+     },
+     {
+      "src": "pakṣaṃ",
+      "words": [
+       {
+        "w": "pakṣam",
+        "gloss": "party",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samantataḥ",
+      "words": [
+       {
+        "w": "samantataḥ",
+        "gloss": "on all sides",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विद्वान् सामन्त के द्वारा ही सामन्त को युद्ध में लगाकर फिर दूसरे की भूमि को चारों ओर से पक्ष को काटकर हर ले।",
+  "english": "The wise one, having engaged a neighbouring chief in war by a neighbouring chief indeed, should then take the land of another, having cut the party on all sides.",
+  "text_flags": [],
+  "notes": "'anyasya' (of another) is left unspecific. pakṣa is 'party' (also wing, side); whose party is not stated. Printed 'sāmantena-eva' is a '-' join of two words. Sāmanta = neighbouring chief (glossary 9.7).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.15a",
+   "07.06.15b"
+  ],
+  "lines_deva": [
+   "सामन्तेन-एव सामन्तं विद्वान् आयोज्य विग्रहे",
+   "ततो ऽन्यस्य हरेद् भूमिं छित्त्वा पक्षं समन्ततः"
+  ],
+  "lines_iast": [
+   "sāmantena-eva sāmantaṃ vidvān āyojya vigrahe",
+   "tato 'nyasya hared bhūmiṃ chittvā pakṣaṃ samantataḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sandher",
+      "words": [
+       {
+        "w": "sandheḥ",
+        "gloss": "of the treaty",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "akṛta.cikīrṣā",
+      "words": [
+       {
+        "w": "akṛta-cikīrṣā",
+        "gloss": "the wish to make the unmade",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.śleṣaṇaṃ",
+      "words": [
+       {
+        "w": "kṛta-śleṣaṇam",
+        "gloss": "the joining of the made",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.vidūṣaṇam",
+      "words": [
+       {
+        "w": "kṛta-vidūṣaṇam",
+        "gloss": "the spoiling of the made",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "avaśīrṇa.kriyā",
+      "words": [
+       {
+        "w": "avaśīrṇa-kriyā",
+        "gloss": "the action on the shattered",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सन्धि की: अकृत को करने की इच्छा, कृत को जोड़ना, कृत को दूषित करना और अवशीर्ण की क्रिया।",
+  "english": "Of a treaty: the wish to make the unmade, the joining of the made, the spoiling of the made, and the action on the shattered.",
+  "text_flags": [],
+  "notes": "A list of four, taken up in units 19-22. avaśīrṇa (fallen apart, shattered) with kriyā is rendered literally.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.16"
+  ],
+  "lines_deva": [
+   "सन्धेर् अकृत.चिकीर्षा कृत.श्लेषणं कृत.विदूषणम् अवशीर्ण.क्रिया च"
+  ],
+  "lines_iast": [
+   "sandher akṛta.cikīrṣā kṛta.śleṣaṇaṃ kṛta.vidūṣaṇam avaśīrṇa.kriyā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikramasya",
+      "words": [
+       {
+        "w": "vikramasya",
+        "gloss": "of attack",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prakāśa.yuddhaṃ",
+      "words": [
+       {
+        "w": "prakāśa-yuddham",
+        "gloss": "open battle",
+        "gram": "karmadhāraya, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kūṭa.yuddhaṃ",
+      "words": [
+       {
+        "w": "kūṭa-yuddham",
+        "gloss": "treacherous warfare",
+        "gram": "karmadhāraya, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tūṣṇīṃ.yuddham",
+      "words": [
+       {
+        "w": "tūṣṇīm-yuddham",
+        "gloss": "silent battle",
+        "gram": "karmadhāraya, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आक्रमण के: प्रकाश-युद्ध, कूटयुद्ध, तूष्णीं-युद्ध।",
+  "english": "Of attack: open battle, treacherous warfare, silent battle.",
+  "text_flags": [],
+  "notes": "No verb; a list of the kinds of vikrama (here 'attack', as in units 3 and 12). tūṣṇīm 'silently' with yuddha, literal.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.17"
+  ],
+  "lines_deva": [
+   "विक्रमस्य प्रकाश.युद्धं कूट.युद्धं तूष्णीं.युद्धम्"
+  ],
+  "lines_iast": [
+   "vikramasya prakāśa.yuddhaṃ kūṭa.yuddhaṃ tūṣṇīṃ.yuddham"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sandhi.vikramau",
+      "words": [
+       {
+        "w": "sandhi-vikramau",
+        "gloss": "treaty and attack",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ये सन्धि और आक्रमण हैं।",
+  "english": "Such are treaty and attack.",
+  "text_flags": [],
+  "notes": "Closing label: 'iti X' read 'Such are X', iti glossed 'closing particle'.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "07.06.18"
+  ],
+  "lines_deva": [
+   "इति सन्धि.विक्रमौ"
+  ],
+  "lines_iast": [
+   "iti sandhi.vikramau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apūrvasya",
+      "words": [
+       {
+        "w": "apūrvasya",
+        "gloss": "of the one not made before",
+        "gram": "adj. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandheḥ",
+      "words": [
+       {
+        "w": "sandheḥ",
+        "gloss": "of the treaty",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa.anubandhaiḥ",
+      "words": [
+       {
+        "w": "sa-anubandhaiḥ",
+        "gloss": "with their sequels",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāma.ādibhiḥ",
+      "words": [
+       {
+        "w": "sāma-ādibhiḥ",
+        "gloss": "by conciliation and the rest",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "paryeṣaṇaṃ",
+      "words": [
+       {
+        "w": "paryeṣaṇam",
+        "gloss": "seeking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sama.hīna.jyāyasāṃ",
+      "words": [
+       {
+        "w": "sama-hīna-jyāyasām",
+        "gloss": "of equals, inferiors and superiors",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā.balam",
+      "words": [
+       {
+        "w": "yathā-balam",
+        "gloss": "according to strength",
+        "gram": "avyayībhāva, ind."
+       }
+      ]
+     },
+     {
+      "src": "avasthāpanam",
+      "words": [
+       {
+        "w": "avasthāpanam",
+        "gloss": "the establishing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "akṛta.cikīrṣā",
+      "words": [
+       {
+        "w": "akṛta-cikīrṣā",
+        "gloss": "the wish to make the unmade",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पहले न हुई सन्धि का साम आदि के द्वारा, अनुबन्धों सहित, अन्वेषण और समान, हीन, श्रेष्ठों का बल के अनुसार स्थापन — यह अकृत को करने की इच्छा है।",
+  "english": "The seeking, by conciliation and the rest with their sequels, of a treaty not made before, and the establishing, according to strength, of equals, inferiors and superiors — [this is] the wish to make the unmade.",
+  "text_flags": [],
+  "notes": "apūrva 'not made before' (new, unprecedented). The sequel (anubandha) belongs to the means or the seeking; both are possible. sa-anubandhaiḥ is plural, agreeing with sāma-ādibhiḥ. jyāyas 'superior' (greater, stronger). Defines akṛta-cikīrṣā of unit 16.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.19"
+  ],
+  "lines_deva": [
+   "अपूर्वस्य सन्धेः स.अनुबन्धैः साम.आदिभिः पर्येषणं सम.हीन.ज्यायसां च यथा.बलम् अवस्थापनम् अकृत.चिकीर्षा"
+  ],
+  "lines_iast": [
+   "apūrvasya sandheḥ sa.anubandhaiḥ sāma.ādibhiḥ paryeṣaṇaṃ sama.hīna.jyāyasāṃ ca yathā.balam avasthāpanam akṛta.cikīrṣā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛtasya",
+      "words": [
+       {
+        "w": "kṛtasya",
+        "gloss": "of the made",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "priya.hitābhyām",
+      "words": [
+       {
+        "w": "priya-hitābhyām",
+        "gloss": "by the agreeable and the beneficial",
+        "gram": "dvandva, n. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "ubhayataḥ",
+      "words": [
+       {
+        "w": "ubhayataḥ",
+        "gloss": "on both sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paripālanaṃ",
+      "words": [
+       {
+        "w": "paripālanam",
+        "gloss": "protecting",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā.sambhāṣitasya",
+      "words": [
+       {
+        "w": "yathā-sambhāṣitasya",
+        "gloss": "as agreed",
+        "gram": "bahuvrīhi, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nibandhanasya-anuvartanaṃ",
+      "words": [
+       {
+        "w": "nibandhanasya",
+        "gloss": "of the bond",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "anuvartanam",
+        "gloss": "following",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣaṇaṃ",
+      "words": [
+       {
+        "w": "rakṣaṇam",
+        "gloss": "guarding",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"kathaṃ",
+      "words": [
+       {
+        "w": "katham",
+        "gloss": "how",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parasmān",
+      "words": [
+       {
+        "w": "parasmāt",
+        "gloss": "from the other",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhidyeta\"",
+      "words": [
+       {
+        "w": "bhidyeta",
+        "gloss": "would be split",
+        "gram": "3 sg. opt. pass. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.śleṣaṇam",
+      "words": [
+       {
+        "w": "kṛta-śleṣaṇam",
+        "gloss": "the joining of the made",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कृत का प्रिय और हित के द्वारा दोनों ओर से परिपालन, और जैसा बातचीत में तय हुआ उस निबन्धन का अनुसरण और रक्षण — “दूसरे से कैसे भेदित न हो” — यह कृत को जोड़ना है।",
+  "english": "The protecting on both sides, by the agreeable and the beneficial, of what is made, and the following and guarding of the bond as agreed — “How [may one] not be split from the other?” — [this is] the joining of the made.",
+  "text_flags": [],
+  "notes": "Subject of bhidyeta unstated, '[one]'. nibandhana 'bond' (also agreement, stipulation). priya-hita = the agreeable and beneficial (glossary 5.4). Closing iti carried by the quotation marks. Printed 'nibandhanasya-anuvartanaṃ' is a '-' join of two words. Defines kṛta-śleṣaṇa of unit 16.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.20"
+  ],
+  "lines_deva": [
+   "कृतस्य प्रिय.हिताभ्याम् उभयतः परिपालनं यथा.सम्भाषितस्य च निबन्धनस्य-अनुवर्तनं रक्षणं च \"कथं परस्मान् न भिद्येत\" इति कृत.श्लेषणम्"
+  ],
+  "lines_iast": [
+   "kṛtasya priya.hitābhyām ubhayataḥ paripālanaṃ yathā.sambhāṣitasya ca nibandhanasya-anuvartanaṃ rakṣaṇaṃ ca \"kathaṃ parasmān na bhidyeta\" iti kṛta.śleṣaṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parasya-apasandheyatāṃ",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the other",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "apasandheyatām",
+        "gloss": "the apasandheyatā (obscure)",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dūṣya.atisandhānena",
+      "words": [
+       {
+        "w": "dūṣya-atisandhānena",
+        "gloss": "by outwitting the treasonable",
+        "gram": "tat-puruṣa, n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthāpayitvā",
+      "words": [
+       {
+        "w": "sthāpayitvā",
+        "gloss": "having established",
+        "gram": "abs. caus. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "vyatikramaḥ",
+      "words": [
+       {
+        "w": "vyatikramaḥ",
+        "gloss": "transgression",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.vidūṣaṇam",
+      "words": [
+       {
+        "w": "kṛta-vidūṣaṇam",
+        "gloss": "the spoiling of the made",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दूष्य को छलने के द्वारा दूसरे की अपसन्धेयता को स्थापित करके व्यतिक्रम — यह कृत को दूषित करना है।",
+  "english": "Having established the apasandheyatā of the other by outwitting the treasonable, the transgression — [this is] the spoiling of the made.",
+  "text_flags": [],
+  "notes": "apasandheyatā is obscure and kept untranslated (apa-sandheya; perhaps 'being one not to be treated with', low confidence). dūṣya = the treasonable (glossary). Printed 'parasya-apasandheyatāṃ' is a '-' join of two words. Defines kṛta-vidūṣaṇa of unit 16.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.21"
+  ],
+  "lines_deva": [
+   "परस्य-अपसन्धेयतां दूष्य.अतिसन्धानेन स्थापयित्वा व्यतिक्रमः कृत.विदूषणम्"
+  ],
+  "lines_iast": [
+   "parasya-apasandheyatāṃ dūṣya.atisandhānena sthāpayitvā vyatikramaḥ kṛta.vidūṣaṇam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhṛtyena",
+      "words": [
+       {
+        "w": "bhṛtyena",
+        "gloss": "by a servant",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitreṇa",
+      "words": [
+       {
+        "w": "mitreṇa",
+        "gloss": "by an ally",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣa.apasṛtena",
+      "words": [
+       {
+        "w": "doṣa-apasṛtena",
+        "gloss": "gone away through a fault",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratisandhānam",
+      "words": [
+       {
+        "w": "pratisandhānam",
+        "gloss": "rejoining",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "avaśīrṇa.kriyā",
+      "words": [
+       {
+        "w": "avaśīrṇa-kriyā",
+        "gloss": "the action on the shattered",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोष के कारण चले गए भृत्य अथवा मित्र के साथ पुनः जोड़ना — यह अवशीर्ण की क्रिया है।",
+  "english": "Rejoining with a servant or an ally gone away through a fault — [this is] the action on the shattered.",
+  "text_flags": [],
+  "notes": "The instrumentals are rendered 'with'. mitra = ally. Defines avaśīrṇa-kriyā of unit 16.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.22"
+  ],
+  "lines_deva": [
+   "भृत्येन मित्रेण वा दोष.अपसृतेन प्रतिसन्धानम् अवशीर्ण.क्रिया"
+  ],
+  "lines_iast": [
+   "bhṛtyena mitreṇa vā doṣa.apasṛtena pratisandhānam avaśīrṇa.kriyā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāṃ",
+      "words": [
+       {
+        "w": "tasyām",
+        "gloss": "in that",
+        "gram": "pron. f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gata.āgataś",
+      "words": [
+       {
+        "w": "gata-āgataḥ",
+        "gloss": "one who has gone and returned",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "catur.vidhaḥ",
+      "words": [
+       {
+        "w": "catur-vidhaḥ",
+        "gloss": "fourfold",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "dash",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇād",
+      "words": [
+       {
+        "w": "kāraṇāt",
+        "gloss": "for a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "gata.āgato,",
+      "words": [
+       {
+        "w": "gata-āgataḥ",
+        "gloss": "one who has gone and returned",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparītaḥ,",
+      "words": [
+       {
+        "w": "viparītaḥ",
+        "gloss": "the reverse",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇād",
+      "words": [
+       {
+        "w": "kāraṇāt",
+        "gloss": "for a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "gato",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "gone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'kāraṇād",
+      "words": [
+       {
+        "w": "akāraṇāt",
+        "gloss": "without a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "āgato,",
+      "words": [
+       {
+        "w": "āgataḥ",
+        "gloss": "returned",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viparītaś",
+      "words": [
+       {
+        "w": "viparītaḥ",
+        "gloss": "the reverse",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-iti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसमें गया-आया चार प्रकार का है — कारण से गया-आया, विपरीत, कारण से गया, अकारण आया, और विपरीत।",
+  "english": "In that [matter], the one who has gone and returned is fourfold — gone and returned for a cause; the reverse; gone for a cause, returned without a cause; and the reverse.",
+  "text_flags": [],
+  "notes": "tasyām refers to the avaśīrṇa-kriyā of unit 22. The two viparīta ('the reverse') are the opposites of the preceding member: without cause both ways, and gone without cause but returned for a cause (the unit does not spell them out). The ASCII '-' is a dash. Final ca-iti: ca rendered 'and', the closing iti not rendered.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.23"
+  ],
+  "lines_deva": [
+   "तस्यां गत.आगतश् चतुर्.विधः - कारणाद् गत.आगतो, विपरीतः, कारणाद् गतो ऽकारणाद् आगतो, विपरीतश् च-इति"
+  ],
+  "lines_iast": [
+   "tasyāṃ gata.āgataś catur.vidhaḥ - kāraṇād gata.āgato, viparītaḥ, kāraṇād gato 'kāraṇād āgato, viparītaś ca-iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svāmino",
+      "words": [
+       {
+        "w": "svāminaḥ",
+        "gloss": "of the master",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣeṇa",
+      "words": [
+       {
+        "w": "doṣeṇa",
+        "gloss": "through fault",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gato",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "gone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guṇena-āgataḥ",
+      "words": [
+       {
+        "w": "guṇena",
+        "gloss": "through virtue",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "āgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasya",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the other",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "guṇena",
+      "words": [
+       {
+        "w": "guṇena",
+        "gloss": "through virtue",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gato",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "gone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣeṇa-āgata",
+      "words": [
+       {
+        "w": "doṣeṇa",
+        "gloss": "through fault",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "āgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇād",
+      "words": [
+       {
+        "w": "kāraṇāt",
+        "gloss": "for a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "gata.āgataḥ",
+      "words": [
+       {
+        "w": "gata-āgataḥ",
+        "gloss": "one who has gone and returned",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandheyaḥ",
+      "words": [
+       {
+        "w": "sandheyaḥ",
+        "gloss": "to be allied with",
+        "gram": "gerundive m. nom. sg. sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“स्वामी के दोष से गया, गुण से आया; दूसरे के गुण से गया, दोष से आया” — कारण से गया-आया सन्धि करने योग्य है।",
+  "english": "“Gone through the master's fault, come through virtue; gone through the other's virtue, come through fault” — the one who has gone and returned for a cause is to be allied with.",
+  "text_flags": [],
+  "notes": "Whose virtue or fault is meant in each clause is not stated; 'parasya' may govern both halves of the second clause. sandheya: literally one 'with whom a treaty is to be made'. Closing iti carried by the quotation marks. Printed 'guṇena-āgataḥ' and 'doṣeṇa-āgata' are '-' joins of two words ('āgata' for āgataḥ is regular sandhi).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.24"
+  ],
+  "lines_deva": [
+   "स्वामिनो दोषेण गतो गुणेन-आगतः परस्य गुणेन गतो दोषेण-आगत इति कारणाद् गत.आगतः सन्धेयः"
+  ],
+  "lines_iast": [
+   "svāmino doṣeṇa gato guṇena-āgataḥ parasya guṇena gato doṣeṇa-āgata iti kāraṇād gata.āgataḥ sandheyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sva.doṣeṇa",
+      "words": [
+       {
+        "w": "sva-doṣeṇa",
+        "gloss": "through his own fault",
+        "gram": "karmadhāraya, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gata.āgato",
+      "words": [
+       {
+        "w": "gata-āgataḥ",
+        "gloss": "one who has gone and returned",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "guṇam",
+      "words": [
+       {
+        "w": "guṇam",
+        "gloss": "virtue",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ubhayoḥ",
+      "words": [
+       {
+        "w": "ubhayoḥ",
+        "gloss": "of both",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "parityajya",
+      "words": [
+       {
+        "w": "parityajya",
+        "gloss": "having abandoned",
+        "gram": "abs. pari-√tyaj"
+       }
+      ]
+     },
+     {
+      "src": "akāraṇād",
+      "words": [
+       {
+        "w": "akāraṇāt",
+        "gloss": "without a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "gata.āgataḥ",
+      "words": [
+       {
+        "w": "gata-āgataḥ",
+        "gloss": "one who has gone and returned",
+        "gram": "dvandva, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cala.buddhir",
+      "words": [
+       {
+        "w": "cala-buddhiḥ",
+        "gloss": "of unsteady mind",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asandheyaḥ",
+      "words": [
+       {
+        "w": "asandheyaḥ",
+        "gloss": "not to be allied with",
+        "gram": "gerundive m. nom. sg. a-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने दोष से गया-आया, दोनों के गुण को छोड़कर, अकारण गया-आया, चंचल बुद्धि वाला सन्धि करने योग्य नहीं है।",
+  "english": "One who has gone and returned through his own fault, having abandoned the virtue of both, one who has gone and returned without a cause, of unsteady mind, is not to be allied with.",
+  "text_flags": [],
+  "notes": "Two descriptions of the gone-and-returned are strung together (through his own fault; without a cause), then cala-buddhi, all ending in asandheyaḥ. 'guṇam ubhayoḥ' (the virtue of both) is kept literal. The printed hiatus 'parityajya akāraṇād' is not flagged.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.25"
+  ],
+  "lines_deva": [
+   "स्व.दोषेण गत.आगतो गुणम् उभयोः परित्यज्य अकारणाद् गत.आगतः चल.बुद्धिर् असन्धेयः"
+  ],
+  "lines_iast": [
+   "sva.doṣeṇa gata.āgato guṇam ubhayoḥ parityajya akāraṇād gata.āgataḥ cala.buddhir asandheyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svāmino",
+      "words": [
+       {
+        "w": "svāminaḥ",
+        "gloss": "of the master",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "doṣeṇa",
+      "words": [
+       {
+        "w": "doṣeṇa",
+        "gloss": "through fault",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gataḥ",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "gone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasmāt",
+      "words": [
+       {
+        "w": "parasmāt",
+        "gloss": "from the other",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva.doṣeṇa-āgata",
+      "words": [
+       {
+        "w": "sva-doṣeṇa",
+        "gloss": "through his own fault",
+        "gram": "karmadhāraya, m. inst. sg."
+       },
+       {
+        "w": "āgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇād",
+      "words": [
+       {
+        "w": "kāraṇāt",
+        "gloss": "for a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "gato",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "gone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'kāraṇād",
+      "words": [
+       {
+        "w": "akāraṇāt",
+        "gloss": "without a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "āgataḥ",
+      "words": [
+       {
+        "w": "āgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tarkayitavyaḥ",
+      "words": [
+       {
+        "w": "tarkayitavyaḥ",
+        "gloss": "to be reasoned about",
+        "gram": "gerundive m. nom. sg. √tark"
+       }
+      ]
+     },
+     {
+      "src": "\"para.prayuktaḥ",
+      "words": [
+       {
+        "w": "para-prayuktaḥ",
+        "gloss": "set on by the other",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svena",
+      "words": [
+       {
+        "w": "svena",
+        "gloss": "by his own",
+        "gram": "adj. m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣeṇa-apakartu.kāmaḥ,",
+      "words": [
+       {
+        "w": "doṣeṇa",
+        "gloss": "through fault",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "apakartu-kāmaḥ",
+        "gloss": "desiring to do harm",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parasya-ucchettāram",
+      "words": [
+       {
+        "w": "parasya",
+        "gloss": "of the other",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ucchettāram",
+        "gloss": "destroyer",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitraṃ",
+      "words": [
+       {
+        "w": "amitram",
+        "gloss": "enemy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jñātvā",
+      "words": [
+       {
+        "w": "jñātvā",
+        "gloss": "having known",
+        "gram": "abs. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "pratighāta.bhayād",
+      "words": [
+       {
+        "w": "pratighāta-bhayāt",
+        "gloss": "from fear of retaliation",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "āgataḥ,",
+      "words": [
+       {
+        "w": "āgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paraṃ",
+      "words": [
+       {
+        "w": "param",
+        "gloss": "the other",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mām",
+      "words": [
+       {
+        "w": "mām",
+        "gloss": "me",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ucchettu.kāmaṃ",
+      "words": [
+       {
+        "w": "ucchettu-kāmam",
+        "gloss": "desiring to destroy",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "parityajya-ānṛśaṃsyād",
+      "words": [
+       {
+        "w": "parityajya",
+        "gloss": "having abandoned",
+        "gram": "abs. pari-√tyaj"
+       },
+       {
+        "w": "ānṛśaṃsyāt",
+        "gloss": "from compassion",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "āgataḥ\"",
+      "words": [
+       {
+        "w": "āgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“स्वामी के दोष से गया, दूसरे से अपने दोष से आया” — कारण से गया, अकारण आया तर्क करने योग्य है: “दूसरे से प्रेरित, या अपने दोष से अपकार करने की इच्छा वाला; दूसरे के उच्छेदक, मेरे शत्रु को जानकर प्रतिघात के भय से आया है, या मुझे उच्छेद करने की इच्छा वाले दूसरे को छोड़कर करुणा से आया है।”",
+  "english": "“Gone through the master's fault, come from the other through his own fault” — the one gone for a cause [and] come without a cause is to be reasoned about: “Set on by the other, or desiring through his own fault to do harm; having known my enemy, the destroyer of the other, [he] has come from fear of retaliation, or having abandoned the other, who desires to destroy me, [he] has come from compassion.”",
+  "text_flags": [],
+  "notes": "Nested speech: the first iti closes the short quoted description (quote marks only); the second closes the reasoning quoted in direct speech. 'amitram me' with 'parasya ucchettāram' is ambiguous (my enemy who is the destroyer of the other; or the destroyer of the other, my enemy); rendered literally, low confidence for that clause. ānṛśaṃsya literally 'non-cruelty', read 'compassion'. tarkayitavya from √tark, 'to be reasoned about' (conjectured). Printed hyphen joins: sva.doṣeṇa-āgata, doṣeṇa-apakartu.kāmaḥ, parasya-ucchettāram, parityajya-ānṛśaṃsyād.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.26"
+  ],
+  "lines_deva": [
+   "स्वामिनो दोषेण गतः परस्मात् स्व.दोषेण-आगत इति कारणाद् गतो ऽकारणाद् आगतः तर्कयितव्यः \"पर.प्रयुक्तः स्वेन वा दोषेण-अपकर्तु.कामः, परस्य-उच्छेत्तारम् अमित्रं मे ज्ञात्वा प्रतिघात.भयाद् आगतः, परं वा माम् उच्छेत्तु.कामं परित्यज्य-आनृशंस्याद् आगतः\" इति"
+  ],
+  "lines_iast": [
+   "svāmino doṣeṇa gataḥ parasmāt sva.doṣeṇa-āgata iti kāraṇād gato 'kāraṇād āgataḥ tarkayitavyaḥ \"para.prayuktaḥ svena vā doṣeṇa-apakartu.kāmaḥ, parasya-ucchettāram amitraṃ me jñātvā pratighāta.bhayād āgataḥ, paraṃ vā mām ucchettu.kāmaṃ parityajya-ānṛśaṃsyād āgataḥ\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jñātvā",
+      "words": [
+       {
+        "w": "jñātvā",
+        "gloss": "having known",
+        "gram": "abs. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "kalyāṇa.buddhiṃ",
+      "words": [
+       {
+        "w": "kalyāṇa-buddhim",
+        "gloss": "of good intent",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūjayed,",
+      "words": [
+       {
+        "w": "pūjayet",
+        "gloss": "should honour",
+        "gram": "3 sg. opt. √pūj"
+       }
+      ]
+     },
+     {
+      "src": "anyathā.buddhim",
+      "words": [
+       {
+        "w": "anyathā-buddhim",
+        "gloss": "of different intent",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "apakṛṣṭaṃ",
+      "words": [
+       {
+        "w": "apakṛṣṭam",
+        "gloss": "removed",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsayet",
+      "words": [
+       {
+        "w": "vāsayet",
+        "gloss": "should lodge",
+        "gram": "3 sg. opt. caus. √vas"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जानकर कल्याण-बुद्धि वाले का सम्मान करे, अन्य प्रकार की बुद्धि वाले को दूर किए हुए बसाए।",
+  "english": "Having known, [one] should honour [him] of good intent; [one] should lodge [him] of different intent, removed.",
+  "text_flags": [],
+  "notes": "Object '[him]' supplied in English only. kalyāṇa-buddhi = of good intent (glossary 9.3). apakṛṣṭa 'drawn away, removed' (also 'low'), the opposite of upakṛṣṭa 'drawn near'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.27"
+  ],
+  "lines_deva": [
+   "ज्ञात्वा कल्याण.बुद्धिं पूजयेद्, अन्यथा.बुद्धिम् अपकृष्टं वासयेत्"
+  ],
+  "lines_iast": [
+   "jñātvā kalyāṇa.buddhiṃ pūjayed, anyathā.buddhim apakṛṣṭaṃ vāsayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sva.doṣeṇa",
+      "words": [
+       {
+        "w": "sva-doṣeṇa",
+        "gloss": "through his own fault",
+        "gram": "karmadhāraya, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gataḥ",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "gone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "para.doṣeṇa-āgata",
+      "words": [
+       {
+        "w": "para-doṣeṇa",
+        "gloss": "through the other's fault",
+        "gram": "tat-puruṣa, m. inst. sg."
+       },
+       {
+        "w": "āgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "akāraṇād",
+      "words": [
+       {
+        "w": "akāraṇāt",
+        "gloss": "without a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "gataḥ",
+      "words": [
+       {
+        "w": "gataḥ",
+        "gloss": "gone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāraṇād",
+      "words": [
+       {
+        "w": "kāraṇāt",
+        "gloss": "for a cause",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "āgataḥ",
+      "words": [
+       {
+        "w": "āgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tarkayitavyaḥ",
+      "words": [
+       {
+        "w": "tarkayitavyaḥ",
+        "gloss": "to be reasoned about",
+        "gram": "gerundive m. nom. sg. √tark"
+       }
+      ]
+     },
+     {
+      "src": "\"",
+      "words": [
+       {
+        "w": "\"",
+        "gloss": "opening quotation mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "chidraṃ",
+      "words": [
+       {
+        "w": "chidram",
+        "gloss": "weak point",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrayiṣyati,",
+      "words": [
+       {
+        "w": "pūrayiṣyati",
+        "gloss": "will fill",
+        "gram": "3 sg. fut. caus. √pṝ"
+       }
+      ]
+     },
+     {
+      "src": "ucito",
+      "words": [
+       {
+        "w": "ucitaḥ",
+        "gloss": "suitable",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'yam",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "for him",
+        "gram": "pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāsaḥ,",
+      "words": [
+       {
+        "w": "vāsaḥ",
+        "gloss": "residence",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paratra-asya",
+      "words": [
+       {
+        "w": "paratra",
+        "gloss": "elsewhere",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jano",
+      "words": [
+       {
+        "w": "janaḥ",
+        "gloss": "people",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ramate,",
+      "words": [
+       {
+        "w": "ramate",
+        "gloss": "delights",
+        "gram": "3 sg. pres. mid. √ram"
+       }
+      ]
+     },
+     {
+      "src": "mitrair",
+      "words": [
+       {
+        "w": "mitraiḥ",
+        "gloss": "with allies",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃhitaḥ,",
+      "words": [
+       {
+        "w": "saṃhitaḥ",
+        "gloss": "allied",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatrubhir",
+      "words": [
+       {
+        "w": "śatrubhiḥ",
+        "gloss": "with enemies",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vigṛhītaḥ,",
+      "words": [
+       {
+        "w": "vigṛhītaḥ",
+        "gloss": "at war",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lubdha.krūrād",
+      "words": [
+       {
+        "w": "lubdha-krūrāt",
+        "gloss": "from the greedy and cruel one",
+        "gram": "dvandva, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "āvignaḥ",
+      "words": [
+       {
+        "w": "āvignaḥ",
+        "gloss": "distressed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatru.saṃhitād",
+      "words": [
+       {
+        "w": "śatru-saṃhitāt",
+        "gloss": "allied with the enemy",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parasmāt\"",
+      "words": [
+       {
+        "w": "parasmāt",
+        "gloss": "from the other",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“अपने दोष से गया, दूसरे के दोष से आया” — अकारण गया, कारण से आया तर्क करने योग्य है: “मेरे छिद्र को भरेगा, यह निवास इसके योग्य है, दूसरी जगह इसके लोग नहीं रमते, मेरे मित्रों से संहित है, शत्रुओं से विग्रह में है, लोभी और क्रूर से या शत्रु से संहित दूसरे से उद्विग्न है।”",
+  "english": "“Gone through his own fault, come through the other's fault” — the one gone without a cause [and] come for a cause is to be reasoned about: “[He] will fill my weak point, this residence is suitable for him, elsewhere his people do not delight, [he is] allied with my allies, at war with enemies, distressed by a greedy and cruel [one] or by the other allied with the enemy.”",
+  "text_flags": [
+   {
+    "src": "\" chidraṃ",
+    "suggest": "\"chidraṃ",
+    "why": "stray space after the opening quotation mark (the mark stands as a separate token)"
+   }
+  ],
+  "notes": "Structure as unit 26 (short quoted description, then the reasoning in direct speech). 'mitrair me saṃhitaḥ' read 'allied with my allies'; 'lubdha-krūrāt' read as a dvandva 'greedy and cruel [one]' (the person distressing him is not named). jana read 'people' (also 'person'). Printed hyphen joins: para.doṣeṇa-āgata, paratra-asya.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.28"
+  ],
+  "lines_deva": [
+   "स्व.दोषेण गतः पर.दोषेण-आगत इत्य् अकारणाद् गतः कारणाद् आगतः तर्कयितव्यः \" छिद्रं मे पूरयिष्यति, उचितो ऽयम् अस्य वासः, परत्र-अस्य जनो न रमते, मित्रैर् मे संहितः, शत्रुभिर् विगृहीतः, लुब्ध.क्रूराद् आविग्नः शत्रु.संहिताद् वा परस्मात्\" इति"
+  ],
+  "lines_iast": [
+   "sva.doṣeṇa gataḥ para.doṣeṇa-āgata ity akāraṇād gataḥ kāraṇād āgataḥ tarkayitavyaḥ \" chidraṃ me pūrayiṣyati, ucito 'yam asya vāsaḥ, paratra-asya jano na ramate, mitrair me saṃhitaḥ, śatrubhir vigṛhītaḥ, lubdha.krūrād āvignaḥ śatru.saṃhitād vā parasmāt\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jñātvā",
+      "words": [
+       {
+        "w": "jñātvā",
+        "gloss": "having known",
+        "gram": "abs. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "yathā.buddhy",
+      "words": [
+       {
+        "w": "yathā-buddhi",
+        "gloss": "according to his intent",
+        "gram": "avyayībhāva, ind."
+       }
+      ]
+     },
+     {
+      "src": "avasthāpayitavyaḥ",
+      "words": [
+       {
+        "w": "avasthāpayitavyaḥ",
+        "gloss": "to be placed",
+        "gram": "gerundive m. nom. sg. caus. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जानकर बुद्धि के अनुसार स्थापित करना चाहिए।",
+  "english": "Having known, [he] is to be placed according to [his] intent.",
+  "text_flags": [],
+  "notes": "Printed 'buddhy' is yathā-buddhi with regular sandhi (i before a vowel). avasthāpay 'place, station' (also 'settle'); where he is placed is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.29"
+  ],
+  "lines_deva": [
+   "ज्ञात्वा यथा.बुद्ध्य् अवस्थापयितव्यः"
+  ],
+  "lines_iast": [
+   "jñātvā yathā.buddhy avasthāpayitavyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"kṛta.praṇāśaḥ",
+      "words": [
+       {
+        "w": "kṛta-praṇāśaḥ",
+        "gloss": "loss of what has been done",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śakti.hānir",
+      "words": [
+       {
+        "w": "śakti-hāniḥ",
+        "gloss": "loss of power",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyā.paṇyatvam",
+      "words": [
+       {
+        "w": "vidyā-paṇyatvam",
+        "gloss": "learning being merchandise",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "āśā.nirvedo",
+      "words": [
+       {
+        "w": "āśā-nirvedaḥ",
+        "gloss": "despair of hope",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśa.laulyam",
+      "words": [
+       {
+        "w": "deśa-laulyam",
+        "gloss": "greed for a place",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aviśvāso",
+      "words": [
+       {
+        "w": "aviśvāsaḥ",
+        "gloss": "distrust",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavad.vigraho",
+      "words": [
+       {
+        "w": "balavat-vigrahaḥ",
+        "gloss": "war with a stronger one",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parityāga.sthānam\"",
+      "words": [
+       {
+        "w": "parityāga-sthānam",
+        "gloss": "ground for abandonment",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“कृत का नाश, शक्ति की हानि, विद्या का पण्य होना, आशा का निर्वेद, देश की लोलुपता, अविश्वास या बलवान् से विग्रह परित्याग का स्थान है,” ऐसा आचार्य कहते हैं।",
+  "english": "“Loss of what has been done, loss of power, learning being merchandise, despair of hope, greed for a place, distrust, or war with a stronger one — [these are] the ground for abandonment,” say the teachers.",
+  "text_flags": [],
+  "notes": "'X iti ācāryāḥ' = “X,” say the teachers (glossary). Several members are obscure and rendered literally: kṛta-praṇāśa (what has been done / the benefit done), vidyā-paṇyatva (learning treated as wares), āśā-nirveda (despair of hope), deśa-laulya (greed, eagerness for a place). The list is the teachers' grounds for abandoning a man who has gone and returned. Low confidence for the members.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.30"
+  ],
+  "lines_deva": [
+   "\"कृत.प्रणाशः शक्ति.हानिर् विद्या.पण्यत्वम् आशा.निर्वेदो देश.लौल्यम् अविश्वासो बलवद्.विग्रहो वा परित्याग.स्थानम्\" इत्य् आचार्याः"
+  ],
+  "lines_iast": [
+   "\"kṛta.praṇāśaḥ śakti.hānir vidyā.paṇyatvam āśā.nirvedo deśa.laulyam aviśvāso balavad.vigraho vā parityāga.sthānam\" ity ācāryāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhayam",
+      "words": [
+       {
+        "w": "bhayam",
+        "gloss": "fear",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "avṛttir",
+      "words": [
+       {
+        "w": "avṛttiḥ",
+        "gloss": "lack of livelihood",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "amarṣa",
+      "words": [
+       {
+        "w": "amarṣaḥ",
+        "gloss": "intolerance",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "name, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“भय, आजीविका का अभाव, अमर्ष,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“Fear, lack of livelihood, intolerance,” says Kautilya.",
+  "text_flags": [],
+  "notes": "Kautilya's list answers the teachers' list of unit 30 (the grounds, implicit). avṛtti 'lack of livelihood' (also 'absence of conduct'); amarṣa 'intolerance' (also 'impatience').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.31"
+  ],
+  "lines_deva": [
+   "भयम् अवृत्तिर् अमर्ष इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "bhayam avṛttir amarṣa iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "iha-apakārī",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "apakārī",
+        "gloss": "one who does injury",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tyājyaḥ,",
+      "words": [
+       {
+        "w": "tyājyaḥ",
+        "gloss": "to be abandoned",
+        "gram": "gerundive m. nom. sg. √tyaj"
+       }
+      ]
+     },
+     {
+      "src": "para.apakārī",
+      "words": [
+       {
+        "w": "para-apakārī",
+        "gloss": "one who does injury to the other",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandheyaḥ,",
+      "words": [
+       {
+        "w": "sandheyaḥ",
+        "gloss": "to be allied with",
+        "gram": "gerundive m. nom. sg. sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "ubhaya.apakārī",
+      "words": [
+       {
+        "w": "ubhaya-apakārī",
+        "gloss": "one who does injury to both",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tarkayitavya",
+      "words": [
+       {
+        "w": "tarkayitavyaḥ",
+        "gloss": "to be reasoned about",
+        "gram": "gerundive m. nom. sg. √tark"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samānam",
+      "words": [
+       {
+        "w": "samānam",
+        "gloss": "the same",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“यहाँ अपकार करने वाला त्यागने योग्य है, दूसरे का अपकार करने वाला सन्धि करने योग्य है, दोनों का अपकार करने वाला तर्क करने योग्य है” — समान है।",
+  "english": "“One who does injury here is to be abandoned, one who does injury to the other is to be allied with, one who does injury to both is to be reasoned about” — [this is] the same.",
+  "text_flags": [],
+  "notes": "'iha' here = on this side (on the speaker's side); 'iha-apakārī' is a '-' join of two words. 'iti samānam' read as a remark that the rule is the same (for the teachers and Kautilya); the Sanskrit does not say for whom.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.32"
+  ],
+  "lines_deva": [
+   "इह-अपकारी त्याज्यः, पर.अपकारी सन्धेयः, उभय.अपकारी तर्कयितव्य इति समानम्"
+  ],
+  "lines_iast": [
+   "iha-apakārī tyājyaḥ, para.apakārī sandheyaḥ, ubhaya.apakārī tarkayitavya iti samānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asandheyena",
+      "words": [
+       {
+        "w": "asandheyena",
+        "gloss": "with one not to be allied with",
+        "gram": "gerundive m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tv",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "avaśyaṃ",
+      "words": [
+       {
+        "w": "avaśyam",
+        "gloss": "necessarily",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sandhātavye",
+      "words": [
+       {
+        "w": "sandhātavye",
+        "gloss": "when [a treaty] is to be made",
+        "gram": "gerundive n. loc. sg. sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "yataḥ",
+      "words": [
+       {
+        "w": "yataḥ",
+        "gloss": "from where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prabhāvas",
+      "words": [
+       {
+        "w": "prabhāvaḥ",
+        "gloss": "might",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tataḥ",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "from there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pratividadhyāt",
+      "words": [
+       {
+        "w": "pratividadhyāt",
+        "gloss": "should provide against",
+        "gram": "3 sg. opt. prati-vi-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु असन्धेय के साथ अवश्य सन्धि करनी हो, जहाँ से प्रभाव है वहाँ से प्रतिविधान करे।",
+  "english": "But when [a treaty] is necessarily to be made with one not to be allied with, from where [there is] might, from there [one] should provide against [him].",
+  "text_flags": [],
+  "notes": "sandhātavye is an impersonal locative absolute; asandheya (the one not fit to be allied with) takes the instrumental 'with'. prati-vi-√dhā literally 'counter-arrange', read 'provide against'; the object is not stated. prabhāva = might (glossary 9.1). Printed 'tv' is tu.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.33"
+  ],
+  "lines_deva": [
+   "असन्धेयेन त्व् अवश्यं सन्धातव्ये यतः प्रभावस् ततः प्रतिविदध्यात्"
+  ],
+  "lines_iast": [
+   "asandheyena tv avaśyaṃ sandhātavye yataḥ prabhāvas tataḥ pratividadhyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa.upakāraṃ",
+      "words": [
+       {
+        "w": "sa-upakāram",
+        "gloss": "with favour",
+        "gram": "bahuvrīhi, ind./adj. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyavahitaṃ",
+      "words": [
+       {
+        "w": "vyavahitam",
+        "gloss": "set apart",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "guptam",
+      "words": [
+       {
+        "w": "guptam",
+        "gloss": "guarded",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āyuḥ.kṣayād",
+      "words": [
+       {
+        "w": "āyuḥ-kṣayāt",
+        "gloss": "until the exhaustion of life",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāsayed",
+      "words": [
+       {
+        "w": "vāsayet",
+        "gloss": "should lodge",
+        "gram": "3 sg. opt. caus. √vas"
+       }
+      ]
+     },
+     {
+      "src": "ari.pakṣīyam",
+      "words": [
+       {
+        "w": "ari-pakṣīyam",
+        "gloss": "belonging to the enemy's side",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avaśīrṇa.kriyā.vidhau",
+      "words": [
+       {
+        "w": "avaśīrṇa-kriyā-vidhau",
+        "gloss": "in the rule for the action on the shattered",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रु के पक्ष वाले को उपकार सहित, अलग किए हुए, सुरक्षित, आयु के क्षय तक बसाए, अवशीर्ण-क्रिया की विधि में।",
+  "english": "[One] should lodge one belonging to the enemy's side, with favour, set apart, guarded, until the exhaustion of life, in the rule for the action on the shattered.",
+  "text_flags": [],
+  "notes": "Subject unstated, '[one]'. Closing iti not rendered. 'āyuḥ-kṣayāt' read 'until the exhaustion of life' (ablative of limit); the sense of guptam may be 'concealed'. vidhi 'rule, procedure'. The verse refers back to avaśīrṇa-kriyā of units 16 and 22.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.34a",
+   "07.06.34b"
+  ],
+  "lines_deva": [
+   "स.उपकारं व्यवहितं गुप्तम् आयुः.क्षयाद् इति",
+   "वासयेद् अरि.पक्षीयम् अवशीर्ण.क्रिया.विधौ"
+  ],
+  "lines_iast": [
+   "sa.upakāraṃ vyavahitaṃ guptam āyuḥ.kṣayād iti",
+   "vāsayed ari.pakṣīyam avaśīrṇa.kriyā.vidhau"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikramayed",
+      "words": [
+       {
+        "w": "vikramayet",
+        "gloss": "should make attack",
+        "gram": "3 sg. opt. caus. vi-√kram"
+       }
+      ]
+     },
+     {
+      "src": "bhartari",
+      "words": [
+       {
+        "w": "bhartari",
+        "gloss": "on the master",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddhaṃ",
+      "words": [
+       {
+        "w": "siddham",
+        "gloss": "the accomplished one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.cāriṇam",
+      "words": [
+       {
+        "w": "daṇḍa-cāriṇam",
+        "gloss": "one moving with the army",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kuryād",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should put",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "amitra.aṭavīṣu",
+      "words": [
+       {
+        "w": "amitra-aṭavīṣu",
+        "gloss": "in the enemy's forests",
+        "gram": "tat-puruṣa, f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratyante",
+      "words": [
+       {
+        "w": "pratyante",
+        "gloss": "on the frontier",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā-anyataḥ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "anyataḥ",
+        "gloss": "from elsewhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣipet",
+      "words": [
+       {
+        "w": "kṣipet",
+        "gloss": "should throw",
+        "gram": "3 sg. opt. √kṣip"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भर्ता पर या सिद्ध को या सेना के साथ चलने वाले को आक्रमण कराए, शत्रु के वनों में रखे, या सीमान्त पर दूसरी ओर से फेंके।",
+  "english": "[One] should make [him] attack — on the master, or the accomplished one, or one moving with the army; [one] should put [him] in the enemy's forests, or throw [him] on the frontier from elsewhere.",
+  "text_flags": [],
+  "notes": "Grammar and referents uncertain (low confidence): bhartari is locative, siddham and daṇḍa-cāriṇam accusative; siddha may also be 'holy man'. daṇḍa = army (glossary prakṛti line), daṇḍa-cārin 'one moving with the army'. kuryāt with a locative and anyataḥ are literal ('should put', 'from elsewhere'); the object is not stated. Printed 'vā-anyataḥ' is a '-' join of two words. aṭavī here = forests (place sense, as 9.6).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.35a",
+   "07.06.35b"
+  ],
+  "lines_deva": [
+   "विक्रमयेद् भर्तरि वा सिद्धं वा दण्ड.चारिणम्",
+   "कुर्याद् अमित्र.अटवीषु प्रत्यन्ते वा-अन्यतः क्षिपेत्"
+  ],
+  "lines_iast": [
+   "vikramayed bhartari vā siddhaṃ vā daṇḍa.cāriṇam",
+   "kuryād amitra.aṭavīṣu pratyante vā-anyataḥ kṣipet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paṇyaṃ",
+      "words": [
+       {
+        "w": "paṇyam",
+        "gloss": "wares",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuryād",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should make",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "asiddhaṃ",
+      "words": [
+       {
+        "w": "asiddham",
+        "gloss": "unaccomplished",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "siddhaṃ",
+      "words": [
+       {
+        "w": "siddham",
+        "gloss": "accomplished",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by him",
+        "gram": "pron. m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃvṛtam",
+      "words": [
+       {
+        "w": "saṃvṛtam",
+        "gloss": "enveloped",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tasya-eva",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of him",
+        "gram": "pron. m. gen. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "doṣeṇa.adūṣya",
+      "words": [
+       {
+        "w": "doṣeṇa",
+        "gloss": "through fault",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "adūṣya",
+        "gloss": "not to be tainted",
+        "gram": "gerundive a-√dūṣ"
+       }
+      ]
+     },
+     {
+      "src": "para.sandheya.kāraṇāt",
+      "words": [
+       {
+        "w": "para-sandheya-kāraṇāt",
+        "gloss": "because of the other's being one to be allied with",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पण्य बनाए, या असिद्ध या सिद्ध, उसके द्वारा आवृत; उसी के दोष से, अदूष्य, दूसरे के सन्धेय होने के कारण से।",
+  "english": "[One] should make [him] wares, either unaccomplished or accomplished, enveloped by him; through the fault of that very one, [himself] not to be tainted, because of the other's being one to be allied with.",
+  "text_flags": [
+   {
+    "src": "doṣeṇa.adūṣya",
+    "suggest": "doṣeṇa-adūṣya",
+    "why": "'.' marks a compound, but doṣeṇa is an inflected word; probably a '-' join of two words (possible)"
+   }
+  ],
+  "notes": "Obscure, low confidence throughout. The two vā are correlative (either ... or); English 'either ... or', Hindi 'या ... या'. 'tena' and 'tasya' refer to a person not named. adūṣya read as a-dūṣya 'not to be tainted' (with the glossary sense of dūṣya, 'the treasonable', it would be 'the non-treasonable'). saṃvṛta 'enveloped, covered' (also 'concealed'). para-sandheya-kāraṇāt: kāraṇa 'cause, reason'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.36a",
+   "07.06.36b"
+  ],
+  "lines_deva": [
+   "पण्यं कुर्याद् असिद्धं वा सिद्धं वा तेन संवृतम्",
+   "तस्य-एव दोषेण.अदूष्य पर.सन्धेय.कारणात्"
+  ],
+  "lines_iast": [
+   "paṇyaṃ kuryād asiddhaṃ vā siddhaṃ vā tena saṃvṛtam",
+   "tasya-eva doṣeṇa.adūṣya para.sandheya.kāraṇāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atha",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śamayed",
+      "words": [
+       {
+        "w": "śamayet",
+        "gloss": "should pacify",
+        "gram": "3 sg. opt. caus. √śam"
+       }
+      ]
+     },
+     {
+      "src": "enam",
+      "words": [
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "pron. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āyaty.artham",
+      "words": [
+       {
+        "w": "āyati-artham",
+        "gloss": "for the future",
+        "gram": "tat-puruṣa, ind. (acc.)"
+       }
+      ]
+     },
+     {
+      "src": "upāṃśunā",
+      "words": [
+       {
+        "w": "upāṃśunā",
+        "gloss": "secretly",
+        "gram": "ind. (inst.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āyatyāṃ",
+      "words": [
+       {
+        "w": "āyatyām",
+        "gloss": "in the future",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vadha.prepsuṃ",
+      "words": [
+       {
+        "w": "vadha-prepsum",
+        "gloss": "aiming at killing",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṣṭvā",
+      "words": [
+       {
+        "w": "dṛṣṭvā",
+        "gloss": "having seen",
+        "gram": "abs. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "hanyād",
+      "words": [
+       {
+        "w": "hanyāt",
+        "gloss": "should kill",
+        "gram": "3 sg. opt. √han"
+       }
+      ]
+     },
+     {
+      "src": "gata.āgatam",
+      "words": [
+       {
+        "w": "gata-āgatam",
+        "gloss": "the one who has gone and returned",
+        "gram": "dvandva, m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा इसे भविष्य के लिए गुप्त रूप से शान्त करे, और भविष्य में वध चाहने वाले को देखकर गया-आया को मार डाले।",
+  "english": "Or else [one] should pacify him secretly for the future, and in the future, having seen [him] aiming at killing, [one] should kill the one who has gone and returned.",
+  "text_flags": [],
+  "notes": "atha vā read 'or else'. śamayet (caus. √śam) 'pacify' (also 'appease, quell'). āyati-artham: artha 'for the sake of', so 'for the future'. vadha-prepsu: vadha 'killing', prepsu 'desirous of obtaining'; whose killing is not stated. Subject unstated, '[one]'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.37a",
+   "07.06.37b"
+  ],
+  "lines_deva": [
+   "अथ वा शमयेद् एनम् आयत्य्.अर्थम् उपांशुना",
+   "आयत्यां च वध.प्रेप्सुं दृष्ट्वा हन्याद् गत.आगतम्"
+  ],
+  "lines_iast": [
+   "atha vā śamayed enam āyaty.artham upāṃśunā",
+   "āyatyāṃ ca vadha.prepsuṃ dṛṣṭvā hanyād gata.āgatam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "arito",
+      "words": [
+       {
+        "w": "aritaḥ",
+        "gloss": "from the enemy",
+        "gram": "ind. (-tas)"
+       }
+      ]
+     },
+     {
+      "src": "'bhyāgato",
+      "words": [
+       {
+        "w": "abhyāgataḥ",
+        "gloss": "come",
+        "gram": "m. nom. sg. abhi-ā-√gam"
+       }
+      ]
+     },
+     {
+      "src": "doṣaḥ",
+      "words": [
+       {
+        "w": "doṣaḥ",
+        "gloss": "fault",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatru.saṃvāsa.kāritaḥ",
+      "words": [
+       {
+        "w": "śatru-saṃvāsa-kāritaḥ",
+        "gloss": "produced by living with the enemy",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sarpa.saṃvāsa.dharmitvān",
+      "words": [
+       {
+        "w": "sarpa-saṃvāsa-dharmitvāt",
+        "gloss": "from the nature of living with a snake",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "nitya.udvegena",
+      "words": [
+       {
+        "w": "nitya-udvegena",
+        "gloss": "by constant agitation",
+        "gram": "tat-puruṣa, m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dūṣitaḥ",
+      "words": [
+       {
+        "w": "dūṣitaḥ",
+        "gloss": "tainted",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शत्रु से आया हुआ दोष, शत्रु के साथ रहने से उत्पन्न किया हुआ, सर्प के साथ रहने के स्वभाव के कारण, नित्य उद्वेग से दूषित है।",
+  "english": "A fault come from the enemy, produced by living with the enemy, [is] tainted by constant agitation, because of the nature of living with a snake.",
+  "text_flags": [],
+  "notes": "doṣa 'fault' may stand for the man who carries it; rendered literally. dharmitva 'state of having the nature of' (dharmin). kārita (caus. participle) 'produced'. Printed \"'bhyāgato\" is abhyāgataḥ.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.38a",
+   "07.06.38b"
+  ],
+  "lines_deva": [
+   "अरितो ऽभ्यागतो दोषः शत्रु.संवास.कारितः",
+   "सर्प.संवास.धर्मित्वान् नित्य.उद्वेगेन दूषितः"
+  ],
+  "lines_iast": [
+   "arito 'bhyāgato doṣaḥ śatru.saṃvāsa.kāritaḥ",
+   "sarpa.saṃvāsa.dharmitvān nitya.udvegena dūṣitaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jāyate",
+      "words": [
+       {
+        "w": "jāyate",
+        "gloss": "is born",
+        "gram": "3 sg. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "plakṣa.bīja.āśāt",
+      "words": [
+       {
+        "w": "plakṣa-bīja-āśāt",
+        "gloss": "from the eating of plakṣa seeds",
+        "gram": "tat-puruṣa, m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "kapotād",
+      "words": [
+       {
+        "w": "kapotāt",
+        "gloss": "from a pigeon",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śālmaleḥ",
+      "words": [
+       {
+        "w": "śālmaleḥ",
+        "gloss": "of a śālmali",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "udvega.janano",
+      "words": [
+       {
+        "w": "udvega-jananaḥ",
+        "gloss": "causing agitation",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nityaṃ",
+      "words": [
+       {
+        "w": "nityam",
+        "gloss": "constantly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paścād",
+      "words": [
+       {
+        "w": "paścāt",
+        "gloss": "afterwards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhaya.āvahaḥ",
+      "words": [
+       {
+        "w": "bhaya-āvahaḥ",
+        "gloss": "bringing fear",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्लक्ष के बीज खाने से उत्पन्न होता है, जैसे कबूतर से शाल्मलि का; नित्य उद्वेग उत्पन्न करने वाला, बाद में भी भय लाने वाला।",
+  "english": "[It] is born from the eating of plakṣa seeds, like from a pigeon, of a śālmali; constantly causing agitation, bringing fear even afterwards.",
+  "text_flags": [],
+  "notes": "The simile is kept literal and is low confidence: plakṣa and śālmali are tree names (not identified); 'āśāt' read as 'from eating' (āśa); the case of śālmaleḥ (genitive) is unclear. The subject (the doṣa of unit 38) is not repeated.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.39a",
+   "07.06.39b"
+  ],
+  "lines_deva": [
+   "जायते प्लक्ष.बीज.आशात् कपोताद् इव शाल्मलेः",
+   "उद्वेग.जननो नित्यं पश्चाद् अपि भय.आवहः"
+  ],
+  "lines_iast": [
+   "jāyate plakṣa.bīja.āśāt kapotād iva śālmaleḥ",
+   "udvega.janano nityaṃ paścād api bhaya.āvahaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakāśa.yuddhaṃ",
+      "words": [
+       {
+        "w": "prakāśa-yuddham",
+        "gloss": "open battle",
+        "gram": "karmadhāraya, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nirdiṣṭe",
+      "words": [
+       {
+        "w": "nirdiṣṭe",
+        "gloss": "specified",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deśe",
+      "words": [
+       {
+        "w": "deśe",
+        "gloss": "in the place",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāle",
+      "words": [
+       {
+        "w": "kāle",
+        "gloss": "in the time",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikramaḥ",
+      "words": [
+       {
+        "w": "vikramaḥ",
+        "gloss": "attack",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vibhīṣaṇam",
+      "words": [
+       {
+        "w": "vibhīṣaṇam",
+        "gloss": "frightening",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "avaskandaḥ",
+      "words": [
+       {
+        "w": "avaskandaḥ",
+        "gloss": "assault",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pramāda.vyasana.ardanam",
+      "words": [
+       {
+        "w": "pramāda-vyasana-ardanam",
+        "gloss": "afflicting in negligence and calamity",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रकाश-युद्ध: निर्दिष्ट देश और समय में आक्रमण। डराना, धावा, प्रमाद और व्यसन में पीड़ित करना।",
+  "english": "Open battle: attack in a specified place and time. Frightening, assault, afflicting [him] in negligence and calamity.",
+  "text_flags": [],
+  "notes": "The second line is a list with no verb; it presumably names the parts of treacherous warfare (kūṭa-yuddha, unit 41), but the unit does not say so. Hindi: vikrama = आक्रमण (glossary 7.8) and avaskanda = धावा here, so the two stay apart (glossary 12.4 gives आक्रमण for avaskanda elsewhere). pramāda 'negligence'; vyasana 'calamity'; the person afflicted is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.06.40a",
+   "07.06.40b"
+  ],
+  "lines_deva": [
+   "प्रकाश.युद्धं निर्दिष्टे देशे काले च विक्रमः",
+   "विभीषणम् अवस्कन्दः प्रमाद.व्यसन.अर्दनम्"
+  ],
+  "lines_iast": [
+   "prakāśa.yuddhaṃ nirdiṣṭe deśe kāle ca vikramaḥ",
+   "vibhīṣaṇam avaskandaḥ pramāda.vyasana.ardanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ekatra",
+      "words": [
+       {
+        "w": "ekatra",
+        "gloss": "at one point",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tyāga.ghātau",
+      "words": [
+       {
+        "w": "tyāga-ghātau",
+        "gloss": "abandonment and killing",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kūṭa.yuddhasya",
+      "words": [
+       {
+        "w": "kūṭa-yuddhasya",
+        "gloss": "of treacherous warfare",
+        "gram": "karmadhāraya, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "mātṛkā",
+      "words": [
+       {
+        "w": "mātṛkā",
+        "gloss": "mātṛkā (literally 'mother')",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yoga.gūḍha.upajāpa.arthaṃ",
+      "words": [
+       {
+        "w": "yoga-gūḍha-upajāpa-artham",
+        "gloss": "for the purpose of secret contrivance, secret agents and secret instigation",
+        "gram": "dvandva + tat-puruṣa, ind. (acc.)"
+       }
+      ]
+     },
+     {
+      "src": "tūṣṇīṃ.yuddhasya",
+      "words": [
+       {
+        "w": "tūṣṇīm-yuddhasya",
+        "gloss": "of silent battle",
+        "gram": "karmadhāraya, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "lakṣaṇam",
+      "words": [
+       {
+        "w": "lakṣaṇam",
+        "gloss": "mark",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक स्थान पर त्याग और हत्या — कूटयुद्ध की मातृका; योग, गुप्तचर, उपजाप के प्रयोजन से — तूष्णीं-युद्ध का लक्षण।",
+  "english": "At one point abandonment and killing — the mātṛkā of treacherous warfare; for the purpose of secret contrivance, secret agents and secret instigation — the mark of silent battle.",
+  "text_flags": [],
+  "notes": "mātṛkā (literally 'mother'; matrix, outline) is obscure and kept untranslated. ekatra 'at one point / in one place' is literal. yoga = secret contrivance (glossary 12.4), gūḍha = secret agent, upajāpa = secret instigation; the compound may also be read 'secret contrivance and secret instigation'. ghāta = killing. The verse refers to the kinds of unit 17. The single 'and' of 'abandonment and killing' carries both the dvandva tyāga-ghātau and the following ca.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.06.41a",
+   "07.06.41b"
+  ],
+  "lines_deva": [
+   "एकत्र त्याग.घातौ च कूट.युद्धस्य मातृका",
+   "योग.गूढ.उपजाप.अर्थं तूष्णीं.युद्धस्य लक्षणम्"
+  ],
+  "lines_iast": [
+   "ekatra tyāga.ghātau ca kūṭa.yuddhasya mātṛkā",
+   "yoga.gūḍha.upajāpa.arthaṃ tūṣṇīṃ.yuddhasya lakṣaṇam"
+  ],
+  "uncertain": []
+ }
+]

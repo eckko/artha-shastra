@@ -2681,5 +2681,1103 @@
   "text_flags": [],
   "notes": "Formula \"tena X vyākhyātaḥ\" (glossary 4.1). vyasanin refers back to the buyer in unit 26.",
   "confidence": "high"
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daiva.pramāṇo",
+      "words": [
+       {
+        "w": "daiva-pramāṇaḥ",
+        "gloss": "taking the divine as authority",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "mānuṣa.hīno",
+      "words": [
+       {
+        "w": "mānuṣa-hīnaḥ",
+        "gloss": "deprived of mānuṣa",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "nirārambho",
+      "words": [
+       {
+        "w": "nirārambhaḥ",
+        "gloss": "without undertaking",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vipanna.karma.ārambho",
+      "words": [
+       {
+        "w": "vipanna-karma-ārambhaḥ",
+        "gloss": "one whose undertaking of works has failed",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vā-avasīdati",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "avasīdati",
+        "gloss": "sinks down",
+        "gram": "3 sg. pres. ava-√sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दैव को प्रमाण मानने वाला, मानुष से हीन, आरम्भ से रहित अथवा जिसके कर्मों का आरम्भ विफल हुआ, डूबता है।",
+  "english": "One taking the divine as authority, deprived of mānuṣa, without undertaking, or one whose undertaking of works has failed, sinks down.",
+  "text_flags": [],
+  "notes": "mānuṣa is kept untranslated (glossary 3.6: not the 6.2 \"the human\"); the sense \"human effort\" is the evident contrast with daiva, mentioned here only. vipanna = failed, gone wrong. The e-text joins vā-avasīdati with \"-\": two words.",
+  "confidence": "medium"
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yat.kiñcana.kārī",
+      "words": [
+       {
+        "w": "yat-kiñcana-kārī",
+        "gloss": "one doing anything whatever",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kiñcid",
+      "words": [
+       {
+        "w": "kiñcit",
+        "gloss": "anything",
+        "gram": "pron. n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āsādayati",
+      "words": [
+       {
+        "w": "āsādayati",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. caus. ā-√sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो कुछ भी करने वाला कुछ प्राप्त नहीं करता।",
+  "english": "One doing anything whatever obtains nothing.",
+  "text_flags": [],
+  "notes": "āsādayati (caus. of ā-√sad) = brings about, reaches, obtains; \"finds\" is possible.",
+  "confidence": "high"
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-eṣāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "pron. m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāpiṣṭhatamo",
+      "words": [
+       {
+        "w": "pāpiṣṭhatamaḥ",
+        "gloss": "the worst",
+        "gram": "m. nom. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वह इनमें सबसे बुरा होता है।",
+  "english": "And he becomes the worst of these.",
+  "text_flags": [],
+  "notes": "pāpiṣṭhatama: pāpa \"bad, evil\" with a double superlative; \"worst, most evil\". The e-text joins ca-eṣām with \"-\": two words. \"He\" is sa.",
+  "confidence": "high"
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"yat.kiñcid.ārabhamāṇo",
+      "words": [
+       {
+        "w": "yat-kiñcit-ārabhamāṇaḥ",
+        "gloss": "one undertaking anything whatever",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vijigīṣoḥ",
+      "words": [
+       {
+        "w": "vijigīṣoḥ",
+        "gloss": "of the conqueror",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kadācic",
+      "words": [
+       {
+        "w": "kadācit",
+        "gloss": "at some time",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "chidram",
+      "words": [
+       {
+        "w": "chidram",
+        "gloss": "weak point",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āsādayed\"",
+      "words": [
+       {
+        "w": "āsādayet",
+        "gloss": "may find",
+        "gram": "3 sg. opt. caus. ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“क्योंकि जो कुछ भी आरम्भ करने वाला विजिगीषु का कभी छिद्र पा सकता है” — ऐसा आचार्य कहते हैं।",
+  "english": "“For one undertaking anything whatever may at some time find a weak point of the conqueror,” say the teachers.",
+  "text_flags": [],
+  "notes": "vijigīṣu = the conqueror (glossary 6.2); chidra = weak point (glossary 13.4). The quotation opens at the start of the unit.",
+  "confidence": "high"
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "chidraṃ",
+      "words": [
+       {
+        "w": "chidram",
+        "gloss": "weak point",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vināśam",
+      "words": [
+       {
+        "w": "vināśam",
+        "gloss": "destruction",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "apy",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "āsādayed",
+      "words": [
+       {
+        "w": "āsādayet",
+        "gloss": "may find",
+        "gram": "3 sg. opt. caus. ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg. (name)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“जैसे छिद्र, वैसे विनाश भी पा सकता है” — ऐसा कौटिल्य कहते हैं।",
+  "english": "“As [he may find] a weak point, so he may find even destruction,” says Kautilya.",
+  "text_flags": [],
+  "notes": "Reply to unit 37; the subject (the undertaker of anything whatever) is unstated, \"[he]\" is bracketed. Formula \"... iti X\" (glossary 3.5).",
+  "confidence": "high"
+ },
+ {
+  "n": "39",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣām",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "pron. m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "alābhe",
+      "words": [
+       {
+        "w": "alābhe",
+        "gloss": "in the non-obtaining",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pārṣṇi.grāha.upagrahe",
+      "words": [
+       {
+        "w": "pārṣṇi-grāha-upagrahe",
+        "gloss": "in the support of the heel-seizer",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vakṣyāmas",
+      "words": [
+       {
+        "w": "vakṣyāmaḥ",
+        "gloss": "we shall state",
+        "gram": "1 pl. fut. √vac"
+       }
+      ]
+     },
+     {
+      "src": "tathā",
+      "words": [
+       {
+        "w": "tathā",
+        "gloss": "so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmim",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avasthāpayet",
+      "words": [
+       {
+        "w": "avasthāpayet",
+        "gloss": "should establish",
+        "gram": "3 sg. opt. caus. ava-√sthā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके अलाभ में, जैसे पार्ष्णिग्राह के सहारे के विषय में कहेंगे, वैसे भूमि को स्थापित करे।",
+  "english": "In the non-obtaining of them, as we shall state in the support (upagraha) of the heel-seizer, so he should establish the land.",
+  "text_flags": [],
+  "notes": "teṣām refers to the buyers of unit 26. pārṣṇi-grāha = the heel-seizer (glossary 6.2); upagraha = support (glossary 7.8). Whether the support is given to the heel-seizer or by him is not stated; it points to a later passage. alābha = non-obtaining (glossary 7.10). avasthāpayet: \"should establish/set up\", also \"should arrange\"; the object (the land) and the subject are as printed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "40",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "abhihita.sandhiḥ",
+      "words": [
+       {
+        "w": "abhihita-sandhiḥ",
+        "gloss": "abhihita treaty (literally \"declared\")",
+        "gram": "m. nom. sg. (karmadhāraya)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह अभिहित सन्धि है।",
+  "english": "Such is the abhihita treaty.",
+  "text_flags": [],
+  "notes": "Closing label (glossary 3.9/5.2). abhihita (\"stated, declared\") is kept as a term; sandhi = treaty as a named kind (glossary 7.3).",
+  "confidence": "high"
+ },
+ {
+  "n": "41",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "guṇavatīm",
+      "words": [
+       {
+        "w": "guṇavatīm",
+        "gloss": "possessing qualities",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādeyāṃ",
+      "words": [
+       {
+        "w": "ādeyām",
+        "gloss": "acceptable",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmiṃ",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavatā",
+      "words": [
+       {
+        "w": "balavatā",
+        "gloss": "by a strong one",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "krayeṇa",
+      "words": [
+       {
+        "w": "krayeṇa",
+        "gloss": "by purchase",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yācitaḥ",
+      "words": [
+       {
+        "w": "yācitaḥ",
+        "gloss": "asked",
+        "gram": "m. nom. sg. p.p.p. √yāc"
+       }
+      ]
+     },
+     {
+      "src": "sandhim",
+      "words": [
+       {
+        "w": "sandhim",
+        "gloss": "treaty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avasthāpya",
+      "words": [
+       {
+        "w": "avasthāpya",
+        "gloss": "having established",
+        "gram": "abs. ava-√sthā (caus.)"
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गुणवती अथवा आदेय भूमि के लिए बलवान् द्वारा क्रय के रूप में माँगा गया, सन्धि स्थापित करके दे।",
+  "english": "Asked by a strong one, by purchase, for land possessing qualities or acceptable, [he] should give [it], having established a treaty.",
+  "text_flags": [],
+  "notes": "Subject unstated (\"[he]\"), the owner of the land. ādeya = acceptable (glossary 9.4). krayeṇa: \"by purchase / as a purchase\". sandhi = treaty as in the chapter.",
+  "confidence": "medium"
+ },
+ {
+  "n": "42",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anibhṛta.sandhiḥ",
+      "words": [
+       {
+        "w": "anibhṛta-sandhiḥ",
+        "gloss": "anibhṛta treaty (literally \"not concealed\")",
+        "gram": "m. nom. sg. (karmadhāraya)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह अनिभृत सन्धि है।",
+  "english": "Such is the anibhṛta treaty.",
+  "text_flags": [],
+  "notes": "Closing label. anibhṛta is kept as a term; the literal sense \"not hidden / not steady / not modest\" is uncertain.",
+  "confidence": "medium"
+ },
+ {
+  "n": "43",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "samena",
+      "words": [
+       {
+        "w": "samena",
+        "gloss": "by an equal",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yācitaḥ",
+      "words": [
+       {
+        "w": "yācitaḥ",
+        "gloss": "asked",
+        "gram": "m. nom. sg. p.p.p. √yāc"
+       }
+      ]
+     },
+     {
+      "src": "kāraṇam",
+      "words": [
+       {
+        "w": "kāraṇam",
+        "gloss": "reason",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avekṣya",
+      "words": [
+       {
+        "w": "avekṣya",
+        "gloss": "having considered",
+        "gram": "abs. ava-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     },
+     {
+      "src": "\"pratyādeyā",
+      "words": [
+       {
+        "w": "pratyādeyā",
+        "gloss": "retakable",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "by me",
+        "gram": "pron. gen./inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmir",
+      "words": [
+       {
+        "w": "bhūmiḥ",
+        "gloss": "land",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaśyā",
+      "words": [
+       {
+        "w": "vaśyā",
+        "gloss": "under control",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā,",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anayā",
+      "words": [
+       {
+        "w": "anayā",
+        "gloss": "by this",
+        "gram": "pron. f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratibaddhaḥ",
+      "words": [
+       {
+        "w": "pratibaddhaḥ",
+        "gloss": "bound",
+        "gram": "m. nom. sg. p.p.p. prati-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "paro",
+      "words": [
+       {
+        "w": "paraḥ",
+        "gloss": "another",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "to me",
+        "gram": "pron. dat./gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaśyo",
+      "words": [
+       {
+        "w": "vaśyaḥ",
+        "gloss": "subject",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhaviṣyati-",
+      "words": [
+       {
+        "w": "bhaviṣyati",
+        "gloss": "will become",
+        "gram": "3 sg. fut. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.vikrayād",
+      "words": [
+       {
+        "w": "bhūmi-vikrayāt",
+        "gloss": "from the sale of land",
+        "gram": "m. abl. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitra.hiraṇya.lābhaḥ",
+      "words": [
+       {
+        "w": "mitra-hiraṇya-lābhaḥ",
+        "gloss": "gain of an ally and money",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "kārya.sāmarthya.karo",
+      "words": [
+       {
+        "w": "kārya-sāmarthya-karaḥ",
+        "gloss": "producing capability for the task",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "mine",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhaviṣyati\"",
+      "words": [
+       {
+        "w": "bhaviṣyati",
+        "gloss": "will be",
+        "gram": "3 sg. fut. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा बराबर वाले द्वारा माँगा गया, कारण पर विचार करके दे — “मेरे द्वारा भूमि वापस ली जा सकती है अथवा वश में है; इससे बँधा हुआ दूसरा मेरे वश में होगा; अथवा भूमि की बिक्री से मित्र और धन का लाभ मेरे कार्य की सामर्थ्य करने वाला होगा।”",
+  "english": "Or, asked by an equal, having considered the reason, [he] should give — “The land is retakable by me, or under control; another, bound by this, will become subject to me; or, from the sale of land, the gain of an ally and money, producing capability for the task, will be mine.”",
+  "text_flags": [
+   {
+    "src": "bhaviṣyati-",
+    "suggest": "bhaviṣyati",
+    "why": "possible: stray hyphen glued to the word; it marks a dash/clause break inside the quotation, not a join with the next word"
+   }
+  ],
+  "notes": "The thought of the giver is quoted; iti closes it and is carried by the quotation marks. \"[he]\" is the unstated subject (the owner). pratyādeya = retakable (glossary 9.4). kārya-sāmarthya-kara: \"making capability for the task\" (kārya = task, matter). The hyphen in \"bhaviṣyati-\" is read as a dash, punctuation only. me in pratyādeyā me bhūmiḥ may be genitive \"my land\" or instrumental \"by me\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "44",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "pron. m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hīnaḥ",
+      "words": [
+       {
+        "w": "hīnaḥ",
+        "gloss": "the inferior",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kretā",
+      "words": [
+       {
+        "w": "kretā",
+        "gloss": "buyer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātaḥ",
+      "words": [
+       {
+        "w": "vyākhyātaḥ",
+        "gloss": "is explained",
+        "gram": "m. nom. sg. p.p.p. vi-ā-√khyā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे हीन क्रेता की व्याख्या की गई।",
+  "english": "By that, the inferior buyer is explained.",
+  "text_flags": [],
+  "notes": "Formula \"tena X vyākhyātaḥ\" (glossary 4.1). hīna = the inferior (glossary 7.5), here taken with kretā; \"the buyer who is inferior\" is the sense: the unit extends units 41-43 to the case where the buyer is weaker.",
+  "confidence": "medium"
+ },
+ {
+  "n": "45",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ",
+      "words": [
+       {
+        "w": "evam",
+        "gloss": "in this way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitraṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hiraṇyaṃ",
+      "words": [
+       {
+        "w": "hiraṇyam",
+        "gloss": "money",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sajanām",
+      "words": [
+       {
+        "w": "sajanām",
+        "gloss": "with people",
+        "gram": "f. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "ajanāṃ",
+      "words": [
+       {
+        "w": "ajanām",
+        "gloss": "without people",
+        "gram": "f. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gām",
+      "words": [
+       {
+        "w": "gām",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "labhamāno",
+      "words": [
+       {
+        "w": "labhamānaḥ",
+        "gloss": "obtaining",
+        "gram": "pres. part. mid. √labh"
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-√sandhā"
+       }
+      ]
+     },
+     {
+      "src": "śāstravit",
+      "words": [
+       {
+        "w": "śāstra-vit",
+        "gloss": "knower of the treatise",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "sāmavāyikān",
+      "words": [
+       {
+        "w": "sāmavāyikān",
+        "gloss": "the associates",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार मित्र और धन को, और जन-सहित और जन-रहित भूमि को पाता हुआ शास्त्र का ज्ञाता सामवायिकों को छल लेता है।",
+  "english": "In this way, obtaining an ally and money, and land peopled and unpeopled, the knower of the treatise outwits the associates.",
+  "text_flags": [],
+  "notes": "gām = earth, land (acc. of go). sajanām ajanām ca: \"with people and without people\". hiraṇya = money (glossary 5.2). sāmavāyika = associate (glossary 7.5), kept as a term. śāstra-vit: one who knows the treatise (śāstra). Two lines of an anuṣṭubh verse.",
+  "confidence": "high"
  }
 ]
