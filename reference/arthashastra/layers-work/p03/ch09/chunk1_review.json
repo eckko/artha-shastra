@@ -1,0 +1,498 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "घर के सामने के स्थान पर",
+     "problem": "Unbracketed added noun \"स्थान\" (the Sanskrit has only gṛha-pratimukhe).",
+     "fix": "घर के सामने",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "घर के सामने के स्थान पर",
+      "new": "घर के सामने",
+      "n": "3"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सीमाओं के भीतर",
+     "problem": "\"भीतर\" added; maryādāsu is a plain locative.",
+     "fix": "सीमाओं में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "सीमाओं के भीतर",
+      "new": "सीमाओं में",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और / जो",
+     "problem": "Unmarked added \"और\" (no ca between āghuṣitam and avyāhatam) and added relative \"जो\".",
+     "fix": "खरीदार तीन बार घोषित, बाधा-रहित को खरीद पाए।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "खरीदार तीन बार घोषित, बाधा-रहित को खरीद पाए।",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विरोध में पुकारे जाने पर",
+     "problem": "\"विरोध में\" departs from the fixed \"crying out against\" (विरुद्ध पुकार).",
+     "fix": "विरुद्ध पुकारे जाने पर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "विरोध में पुकारे जाने पर",
+      "new": "विरुद्ध पुकारे जाने पर",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पड़ोसी, अर्थात् पाँच",
+     "problem": "Unmarked interpretive \"अर्थात्\" (apposition is only a possibility, see notes).",
+     "fix": "पड़ोसी, पाँच",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पड़ोसी, अर्थात् पाँच",
+      "new": "पड़ोसी, पाँच",
+      "n": "10"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[namely] a group",
+     "problem": "Bracketed \"namely\" decides an apposition the notes call uncertain; Sanskrit has no such word.",
+     "fix": "a group",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[namely] a group",
+      "new": "a group",
+      "n": "10"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बदले हुए वेश में",
+     "problem": "viparīta = contrary/reversed; \"changed\" is an interpretation.",
+     "fix": "विपरीत वेश में",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बदले हुए वेश में",
+      "new": "विपरीत वेश में",
+      "n": "11"
+     }
+    },
+    {
+     "field": "english",
+     "where": "in changed dress",
+     "problem": "Literal sense of viparīta; \"changed\" is interpretive.",
+     "fix": "in contrary dress",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in changed dress",
+      "new": "in contrary dress",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "viparīta-veṣāḥ",
+     "problem": "Gloss \"in changed dress\" is interpretive.",
+     "fix": "in contrary dress",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "viparīta-veṣāḥ",
+      "field": "gloss",
+      "value": "in contrary dress",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आजीविका",
+     "problem": "Glossary (4.2): ājīva = livelihood (जीविका).",
+     "fix": "जीविका",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आजीविका",
+      "new": "जीविका",
+      "n": "20"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "राजमार्ग",
+     "problem": "mahā-patha is literally \"great road\"; राजमार्ग (royal road) adds a sense.",
+     "fix": "महापथ",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "राजमार्ग",
+      "new": "महापथ",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आधार, परिवाह",
+     "problem": "ādhāra is reservoir (जलाशय) as in unit 3; Hindi आधार means \"support\".",
+     "fix": "जलाशय, परिवाह",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आधार, परिवाह",
+      "new": "जलाशय, परिवाह",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "those grown over",
+     "problem": "\"grown over\" is not literal for sam-upa-ā-√ruh; literal sense is risen upon.",
+     "fix": "those risen upon",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "those grown over",
+      "new": "those risen upon",
+      "n": "33"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "samupārūḍhānām",
+     "problem": "Gloss \"of those grown over\" is not literal.",
+     "fix": "of those risen upon",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "samupārūḍhānām",
+      "field": "gloss",
+      "value": "of those risen upon",
+      "n": "33"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note speaks of \"grown over\".",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Reviewer: samupārūḍha now read literally as \"risen upon\" (English and gloss); \"grown over\" in the note above is superseded.",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपने आत्म को ... बेचने में",
+     "problem": "Hindi \"आत्म\" is a bare stem and reads as soul (glossary 15.1: ātman in compounds = self, स्वयं); also \"बेचने\" for the noun vikraya.",
+     "fix": "अपने स्वयं के बन्धक रखे जाने और बिक्री में।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अपने स्वयं के बन्धक रखे जाने और बिक्री में।",
+      "n": "34"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "को तथा नदी-रहित",
+     "problem": "Unmarked added \"तथा\" (no ca in the Sanskrit).",
+     "fix": "को, नदी-रहित",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "को तथा नदी-रहित",
+      "new": "को, नदी-रहित",
+      "n": "35"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बोई भूमियों",
+     "problem": "\"sown lands\" is an invented sense; vāpa is sowing (as the English says).",
+     "fix": "बुवाइयों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बोई भूमियों",
+      "new": "बुवाइयों",
+      "n": "35"
+     }
+    },
+    {
+     "field": "english",
+     "where": "digging, and the further share",
+     "problem": "Unmarked added \"and\".",
+     "fix": "digging [and] the further share",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "digging, and the further share",
+      "new": "digging [and] the further share",
+      "n": "35"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भोग के लिए छोड़ी हुई वस्तु के उपभोक्ता",
+     "problem": "Hindi adds \"वस्तु\" and makes bhoga-niṣṛṣṭa a possession of the users; it is a separate list member as in the English and the w entries.",
+     "fix": "भोग के लिए छोड़े गए और उपभोक्ता",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "भोग के लिए छोड़ी हुई वस्तु के उपभोक्ता",
+      "new": "भोग के लिए छोड़े गए और उपभोक्ता",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बाँधों से बिना बारी के",
+     "problem": "Glossary: setu = सेतु; \"बाँध\" is not used elsewhere in the chapter.",
+     "fix": "सेतुओं से बिना बारी के",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बाँधों से बिना बारी के",
+      "new": "सेतुओं से बिना बारी के",
+      "n": "38"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "38 units reviewed. Issues: 6 error, 15 minor; all with machine patches. Main errors: unmarked added words (units 4, 10, 35), Hindi structure of 36, bare आत्म in 34. No regrouping suggested. Units 9, 14, 20, 23 keep 'Such is X' for the section-label iti (glossary 5.2, 9.3, 3.6, 3.7 convention, w gloss 'closing particle'); a person should confirm against glossary 9.6 (not rendered). Hand edits listed in the report."
+}

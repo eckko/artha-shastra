@@ -1,0 +1,3423 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jñāti.sāmanta.dhanikāḥ",
+      "words": [
+       {
+        "w": "jñāti-sāmanta-dhanikāḥ",
+        "gloss": "kinsmen, neighbours, wealthy men",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "krameṇa",
+      "words": [
+       {
+        "w": "krameṇa",
+        "gloss": "in order",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.parigrahān",
+      "words": [
+       {
+        "w": "bhūmi-parigrahān",
+        "gloss": "land-holdings",
+        "gram": "tat-puruṣa, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kretum",
+      "words": [
+       {
+        "w": "kretum",
+        "gloss": "to buy",
+        "gram": "inf. √krī"
+       }
+      ]
+     },
+     {
+      "src": "abhyābhaveyuḥ",
+      "words": [
+       {
+        "w": "abhyābhaveyuḥ",
+        "gloss": "should prevail",
+        "gram": "3 pl. opt. abhi-ā-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ज्ञातिजन, पड़ोसी तथा धनी लोग क्रम से भूमि-सम्पत्तियों को खरीदने में प्रबल हों।",
+  "english": "Kinsmen, neighbours and wealthy men should, in order, prevail to buy the land-holdings.",
+  "text_flags": [],
+  "notes": "abhi-ā-√bhū is rare; \"prevail\" is a literal-leaning rendering, \"take precedence\" is the likely sense. dhanika: wealthy man; \"creditor\" is another possible sense. sāmanta rendered \"neighbour\" (not \"neighbouring chief\"), as the context is landed property.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.1"
+  ],
+  "lines_deva": [
+   "ज्ञाति.सामन्त.धनिकाः क्रमेण भूमि.परिग्रहान् क्रेतुम् अभ्याभवेयुः"
+  ],
+  "lines_iast": [
+   "jñāti.sāmanta.dhanikāḥ krameṇa bhūmi.parigrahān kretum abhyābhaveyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "'nye",
+      "words": [
+       {
+        "w": "anye",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bāhyāḥ",
+      "words": [
+       {
+        "w": "bāhyāḥ",
+        "gloss": "outsiders",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके बाद दूसरे, बाहरी लोग।",
+  "english": "Then others, outsiders.",
+  "text_flags": [],
+  "notes": "Elliptical; continues the order of precedence of unit 1 (verb understood from there).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.2"
+  ],
+  "lines_deva": [
+   "ततो ऽन्ये बाह्याः"
+  ],
+  "lines_iast": [
+   "tato 'nye bāhyāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sāmanta.catvāriṃśat.kulyeṣu",
+      "words": [
+       {
+        "w": "sāmanta-catvāriṃśat-kulyeṣu",
+        "gloss": "among the neighbours' forty kinsmen",
+        "gram": "tat-puruṣa, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gṛha.pratimukhe",
+      "words": [
+       {
+        "w": "gṛha-pratimukhe",
+        "gloss": "facing the house",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "veśma",
+      "words": [
+       {
+        "w": "veśma",
+        "gloss": "dwelling",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrāvayeyuḥ,",
+      "words": [
+       {
+        "w": "śrāvayeyuḥ",
+        "gloss": "should have proclaimed",
+        "gram": "3 pl. opt. caus. √śru"
+       }
+      ]
+     },
+     {
+      "src": "sāmanta.grāma.vṛddheṣu",
+      "words": [
+       {
+        "w": "sāmanta-grāma-vṛddheṣu",
+        "gloss": "among elders of neighbouring villages",
+        "gram": "tat-puruṣa, m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣetram",
+      "words": [
+       {
+        "w": "kṣetram",
+        "gloss": "field",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ārāmaṃ",
+      "words": [
+       {
+        "w": "ārāmam",
+        "gloss": "garden",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "setu.bandhaṃ",
+      "words": [
+       {
+        "w": "setu-bandham",
+        "gloss": "embankment-dam",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "taṭākam",
+      "words": [
+       {
+        "w": "taṭākam",
+        "gloss": "tank",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ādhāraṃ",
+      "words": [
+       {
+        "w": "ādhāram",
+        "gloss": "reservoir",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maryādāsu",
+      "words": [
+       {
+        "w": "maryādāsu",
+        "gloss": "within the boundaries",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yathā.setu.bhogaṃ",
+      "words": [
+       {
+        "w": "yathā-setu-bhogam",
+        "gloss": "according to the use of the embankments",
+        "gram": "avyayībhāva, ind."
+       }
+      ]
+     },
+     {
+      "src": "\"anena-argheṇa",
+      "words": [
+       {
+        "w": "anena",
+        "gloss": "this",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "argheṇa",
+        "gloss": "price",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaḥ",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kretā\"",
+      "words": [
+       {
+        "w": "kretā",
+        "gloss": "buyer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पड़ोसियों के चालीस कुल्यों के बीच, घर के सामने, आवास की घोषणा सुनवाएँ; पड़ोसी गाँवों के वृद्धों के बीच, सीमाओं में, सेतुओं के उपभोग के अनुसार, खेत, उद्यान, सेतु-बन्ध, तालाब अथवा जलाशय की घोषणा सुनवाएँ: “इस मूल्य पर कौन खरीदार है?”",
+  "english": "Among the neighbours' forty kinsmen, [at a place] facing the house, they should have the dwelling proclaimed; among the elders of the neighbouring villages, within the boundaries, according to the use of the embankments, [they should have] the field, garden, embankment-dam, tank or reservoir [proclaimed]: \"At this price, who is the buyer?\"",
+  "text_flags": [],
+  "notes": "Doubtful: sāmanta-catvāriṃśat-kulyeṣu could be \"among the neighbours and forty kinsmen\" or \"among forty families of the neighbourhood\"; kulya rendered kinsman (glossary). gṛha-pratimukhe: \"facing / opposite the house\" (the exact place of proclamation is not stated). yathā-setu-bhogam: \"according to the use of the embankments\" is literal; the sense is not settled. The verb śrāvayeyuḥ is gapped in the second clause; the supplied words are bracketed in English only. setu-bandha taken as one item (embankment-dam), cf. units 28, 32, 33. The proclamation is a quotation closed by iti, carried by the quotation marks.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.3"
+  ],
+  "lines_deva": [
+   "सामन्त.चत्वारिंशत्.कुल्येषु गृह.प्रतिमुखे वेश्म श्रावयेयुः, सामन्त.ग्राम.वृद्धेषु क्षेत्रम् आरामं सेतु.बन्धं तटाकम् आधारं वा मर्यादासु यथा.सेतु.भोगं \"अनेन-अर्घेण कः क्रेता\" इति"
+  ],
+  "lines_iast": [
+   "sāmanta.catvāriṃśat.kulyeṣu gṛha.pratimukhe veśma śrāvayeyuḥ, sāmanta.grāma.vṛddheṣu kṣetram ārāmaṃ setu.bandhaṃ taṭākam ādhāraṃ vā maryādāsu yathā.setu.bhogaṃ \"anena-argheṇa kaḥ kretā\" iti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trir",
+      "words": [
+       {
+        "w": "triḥ",
+        "gloss": "three times",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "āghuṣitam",
+      "words": [
+       {
+        "w": "āghuṣitam",
+        "gloss": "proclaimed",
+        "gram": "n. acc. sg. p.p. ā-√ghuṣ"
+       }
+      ]
+     },
+     {
+      "src": "avyāhataṃ",
+      "words": [
+       {
+        "w": "avyāhatam",
+        "gloss": "unobstructed",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kretā",
+      "words": [
+       {
+        "w": "kretā",
+        "gloss": "buyer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kretuṃ",
+      "words": [
+       {
+        "w": "kretum",
+        "gloss": "to buy",
+        "gram": "inf. √krī"
+       }
+      ]
+     },
+     {
+      "src": "labheta",
+      "words": [
+       {
+        "w": "labheta",
+        "gloss": "may get",
+        "gram": "3 sg. opt. ātm. √labh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खरीदार तीन बार घोषित, बाधा-रहित को खरीद पाए।",
+  "english": "The buyer may get to buy [what is] proclaimed three times [and] unobstructed.",
+  "text_flags": [],
+  "notes": "The object of kretum is not named (understood from unit 3); āghuṣitam avyāhatam read as neuter accusatives agreeing with it.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.4"
+  ],
+  "lines_deva": [
+   "त्रिर् आघुषितम् अव्याहतं क्रेता क्रेतुं लभेत"
+  ],
+  "lines_iast": [
+   "trir āghuṣitam avyāhataṃ kretā kretuṃ labheta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "spardhayā",
+      "words": [
+       {
+        "w": "spardhayā",
+        "gloss": "through rivalry",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mūlya.vardhane",
+      "words": [
+       {
+        "w": "mūlya-vardhane",
+        "gloss": "in the raising of the price",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūlya.vṛddhiḥ",
+      "words": [
+       {
+        "w": "mūlya-vṛddhiḥ",
+        "gloss": "increase of price",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa-śulkā",
+      "words": [
+       {
+        "w": "sa-śulkā",
+        "gloss": "with duty",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kośaṃ",
+      "words": [
+       {
+        "w": "kośam",
+        "gloss": "treasury",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gacchet",
+      "words": [
+       {
+        "w": "gacchet",
+        "gloss": "should go",
+        "gram": "3 sg. opt. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा स्पर्धा से मूल्य बढ़ने पर, मूल्य की वृद्धि शुल्क सहित कोश में जाए।",
+  "english": "Or, when the price is raised through rivalry, the increase in price, together with the duty, should go to the treasury.",
+  "text_flags": [],
+  "notes": "śulka rendered \"duty\" (toll/duty elsewhere in the book).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.5"
+  ],
+  "lines_deva": [
+   "स्पर्धया वा मूल्य.वर्धने मूल्य.वृद्धिः स-शुल्का कोशं गच्छेत्"
+  ],
+  "lines_iast": [
+   "spardhayā vā mūlya.vardhane mūlya.vṛddhiḥ sa-śulkā kośaṃ gacchet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikraya.pratikroṣṭā",
+      "words": [
+       {
+        "w": "vikraya-pratikroṣṭā",
+        "gloss": "one who cries out against the sale",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śulkaṃ",
+      "words": [
+       {
+        "w": "śulkam",
+        "gloss": "duty",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should pay",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बिक्री के विरुद्ध पुकारने वाला शुल्क दे।",
+  "english": "The one who cries out against the sale should pay the duty.",
+  "text_flags": [],
+  "notes": "pratikroṣṭṛ / pratikrośa (units 6-9): \"crying out against\" is literal; it may mean a counter-bid or a protest. The sense is not settled.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.6"
+  ],
+  "lines_deva": [
+   "विक्रय.प्रतिक्रोष्टा शुल्कं दद्यात्"
+  ],
+  "lines_iast": [
+   "vikraya.pratikroṣṭā śulkaṃ dadyāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asvāmi.pratikrośe",
+      "words": [
+       {
+        "w": "asvāmi-pratikrośe",
+        "gloss": "in a crying out against by a non-owner",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "catur.viṃśati.paṇo",
+      "words": [
+       {
+        "w": "catur-viṃśati-paṇaḥ",
+        "gloss": "of twenty-four paṇas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो स्वामी नहीं है उसके द्वारा विरुद्ध पुकारे जाने पर चौबीस पण का दण्ड है।",
+  "english": "In a crying out against [it] by a non-owner, the penalty is one of twenty-four paṇas.",
+  "text_flags": [],
+  "notes": "asvāmi-pratikrośe could also be read \"when the one crying out is a non-owner\"; same sense.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.7"
+  ],
+  "lines_deva": [
+   "अस्वामि.प्रतिक्रोशे चतुर्.विंशति.पणो दण्डः"
+  ],
+  "lines_iast": [
+   "asvāmi.pratikrośe catur.viṃśati.paṇo daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sapta.rātrād",
+      "words": [
+       {
+        "w": "sapta-rātrāt",
+        "gloss": "than seven nights",
+        "gram": "dvigu, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ūrdhvam",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anabhisarataḥ",
+      "words": [
+       {
+        "w": "anabhisarataḥ",
+        "gloss": "of one not approaching",
+        "gram": "m. gen. sg. pres. part. an-abhi-√sṛ"
+       }
+      ]
+     },
+     {
+      "src": "pratikruṣṭo",
+      "words": [
+       {
+        "w": "pratikruṣṭaḥ",
+        "gloss": "the one cried against",
+        "gram": "m. nom. sg. p.p. prati-√kruś"
+       }
+      ]
+     },
+     {
+      "src": "vikrīṇīta",
+      "words": [
+       {
+        "w": "vikrīṇīta",
+        "gloss": "may sell",
+        "gram": "3 sg. opt. ātm. vi-√krī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सात रात के बाद, पास न आने वाले की स्थिति में, जिसके विरुद्ध पुकारा गया है वह बेच सकता है।",
+  "english": "After seven nights, [in the case] of one not approaching, the one cried against may sell.",
+  "text_flags": [],
+  "notes": "Unclear who is who: anabhisarataḥ (genitive, \"of one not approaching\") probably refers to the person who cried out; pratikruṣṭaḥ may be the seller or the thing cried against. The rendering is literal.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.09.8"
+  ],
+  "lines_deva": [
+   "सप्त.रात्राद् ऊर्ध्वम् अनभिसरतः प्रतिक्रुष्टो विक्रीणीत"
+  ],
+  "lines_iast": [
+   "sapta.rātrād ūrdhvam anabhisarataḥ pratikruṣṭo vikrīṇīta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratikruṣṭa.atikrame",
+      "words": [
+       {
+        "w": "pratikruṣṭa-atikrame",
+        "gloss": "in transgression of what was cried against",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāstuni",
+      "words": [
+       {
+        "w": "vāstuni",
+        "gloss": "in the case of a homestead",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dviśato",
+      "words": [
+       {
+        "w": "dvi-śataḥ",
+        "gloss": "of two hundred",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ,",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "elsewhere",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "catur.viṃśati.paṇo",
+      "words": [
+       {
+        "w": "catur-viṃśati-paṇaḥ",
+        "gloss": "of twenty-four paṇas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "9",
+      "words": [
+       {
+        "w": "9",
+        "gloss": "number nine",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāstu.vikrayaḥ",
+      "words": [
+       {
+        "w": "vāstu-vikrayaḥ",
+        "gloss": "sale of homesteads",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वास्तु के विषय में पुकारे गए का उल्लंघन होने पर दो सौ का दण्ड है; अन्यत्र चौबीस पण का दण्ड है। ९। यह वास्तु की बिक्री है।",
+  "english": "On transgression of what was cried against, in the case of a homestead the penalty is one of two hundred; elsewhere the penalty is one of twenty-four paṇas. 9. Such is the sale of homesteads.",
+  "text_flags": [],
+  "notes": "The unit contains the verse number \"| 9 |\" inside the line (kept as tokens). dviśataḥ: no unit stated for the two hundred. vāstu: \"homestead / dwelling site\". Closing iti on a section label: \"Such is ...\", as in the glossary for 5.3 and 9.3.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.9"
+  ],
+  "lines_deva": [
+   "प्रतिक्रुष्ट.अतिक्रमे वास्तुनि द्विशतो दण्डः, अन्यत्र चतुर्.विंशति.पणो दण्डः । ९ । इति वास्तु.विक्रयः"
+  ],
+  "lines_iast": [
+   "pratikruṣṭa.atikrame vāstuni dviśato daṇḍaḥ, anyatra catur.viṃśati.paṇo daṇḍaḥ | 9 | iti vāstu.vikrayaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sīma.vivādaṃ",
+      "words": [
+       {
+        "w": "sīma-vivādam",
+        "gloss": "boundary dispute",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "grāmayor",
+      "words": [
+       {
+        "w": "grāmayoḥ",
+        "gloss": "of the villages",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "ubhayoḥ",
+      "words": [
+       {
+        "w": "ubhayoḥ",
+        "gloss": "of both",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "sāmantā",
+      "words": [
+       {
+        "w": "sāmantāḥ",
+        "gloss": "neighbours",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pañca.grāmī",
+      "words": [
+       {
+        "w": "pañca-grāmī",
+        "gloss": "group of five villages",
+        "gram": "dvigu, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daśa.grāmī",
+      "words": [
+       {
+        "w": "daśa-grāmī",
+        "gloss": "group of ten villages",
+        "gram": "dvigu, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "setubhiḥ",
+      "words": [
+       {
+        "w": "setubhiḥ",
+        "gloss": "by embankments",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthāvaraiḥ",
+      "words": [
+       {
+        "w": "sthāvaraiḥ",
+        "gloss": "fixed",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛtrimair",
+      "words": [
+       {
+        "w": "kṛtrimaiḥ",
+        "gloss": "artificial",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should settle",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों गाँवों के सीमा-विवाद को पड़ोसी, पाँच गाँवों का समूह अथवा दस गाँवों का समूह, स्थिर या कृत्रिम सेतुओं से निपटाए।",
+  "english": "The neighbours of both villages, a group of five villages or of ten villages, should settle the boundary dispute by means of embankments, fixed or artificial.",
+  "text_flags": [
+   {
+    "src": "sāmantā",
+    "suggest": "sāmantāḥ",
+    "why": "possible: visarga missing; before the voiceless p of pañca the visarga would stay; the plural nominative sāmantāḥ is expected. (sāmantā as a feminine singular is less likely.)"
+   }
+  ],
+  "notes": "sīma-vivādaṃ kuryāt: literally \"should make the boundary dispute\"; rendered \"settle\" (idiom). setu = embankment (boundary embankment), as in the glossary. The relation of pañca-grāmī / daśa-grāmī to sāmantāḥ (apposition: a group of 5 or 10 villages) is uncertain. The singular kuryāt agrees with the singular group noun.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.10"
+  ],
+  "lines_deva": [
+   "सीम.विवादं ग्रामयोर् उभयोः सामन्ता पञ्च.ग्रामी दश.ग्रामी वा सेतुभिः स्थावरैः कृत्रिमैर् वा कुर्यात्"
+  ],
+  "lines_iast": [
+   "sīma.vivādaṃ grāmayor ubhayoḥ sāmantā pañca.grāmī daśa.grāmī vā setubhiḥ sthāvaraiḥ kṛtrimair vā kuryāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "karṣaka.go.pālaka.vṛddhāḥ",
+      "words": [
+       {
+        "w": "karṣaka-go-pālaka-vṛddhāḥ",
+        "gloss": "farmers, cowherds, elders",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pūrva.bhuktikā",
+      "words": [
+       {
+        "w": "pūrva-bhuktikāḥ",
+        "gloss": "former enjoyers",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāhyāḥ",
+      "words": [
+       {
+        "w": "bāhyāḥ",
+        "gloss": "outsiders",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "setūnām",
+      "words": [
+       {
+        "w": "setūnām",
+        "gloss": "of the embankments",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "abhijñā",
+      "words": [
+       {
+        "w": "abhijñāḥ",
+        "gloss": "knowing",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bahava",
+      "words": [
+       {
+        "w": "bahavaḥ",
+        "gloss": "many",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eko",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nirdiśya",
+      "words": [
+       {
+        "w": "nirdiśya",
+        "gloss": "having indicated",
+        "gram": "abs. nir-√diś"
+       }
+      ]
+     },
+     {
+      "src": "sīma.setūn",
+      "words": [
+       {
+        "w": "sīma-setūn",
+        "gloss": "boundary embankments",
+        "gram": "tat-puruṣa, m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "viparīta.veṣāḥ",
+      "words": [
+       {
+        "w": "viparīta-veṣāḥ",
+        "gloss": "in contrary dress",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sīmānaṃ",
+      "words": [
+       {
+        "w": "sīmānam",
+        "gloss": "boundary",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nayeyuḥ",
+      "words": [
+       {
+        "w": "nayeyuḥ",
+        "gloss": "should lead",
+        "gram": "3 pl. opt. √nī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किसान, गोपालक और वृद्ध, अथवा पहले उपभोग करने वाले, अथवा सेतुओं को जानने वाले बाहरी लोग, बहुत से या एक, सीमा के सेतुओं को बताकर, विपरीत वेश में, सीमा तक ले जाएँ।",
+  "english": "Farmers, cowherds and elders, or former enjoyers, or outsiders who know the embankments, many or one, having indicated the boundary embankments, in contrary dress, should lead [to] the boundary.",
+  "text_flags": [],
+  "notes": "karṣaka-go-pālaka-vṛddhāḥ may also be \"elders among farmers and cowherds\". pūrva-bhuktikāḥ: \"those who formerly had the enjoyment (of the land)\"; the sense of -bhuktika is not settled. viparīta-veṣāḥ literally \"with reversed / contrary dress\", probably \"in disguise\". sīmānaṃ nayeyuḥ: literally \"should lead the boundary\"; \"[to]\" is supplied. Printed pūrva.bhuktikā, abhijñā, bahava are regular sandhi (visarga lost before a voiced sound), no flag.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.11"
+  ],
+  "lines_deva": [
+   "कर्षक.गो.पालक.वृद्धाः पूर्व.भुक्तिका वा बाह्याः सेतूनाम् अभिज्ञा बहव एको वा निर्दिश्य सीम.सेतून् विपरीत.वेषाः सीमानं नयेयुः"
+  ],
+  "lines_iast": [
+   "karṣaka.go.pālaka.vṛddhāḥ pūrva.bhuktikā vā bāhyāḥ setūnām abhijñā bahava eko vā nirdiśya sīma.setūn viparīta.veṣāḥ sīmānaṃ nayeyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "uddiṣṭānāṃ",
+      "words": [
+       {
+        "w": "uddiṣṭānām",
+        "gloss": "of the indicated",
+        "gram": "m. gen. pl. p.p. ud-√diś"
+       }
+      ]
+     },
+     {
+      "src": "setūnām",
+      "words": [
+       {
+        "w": "setūnām",
+        "gloss": "of the embankments",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "adarśane",
+      "words": [
+       {
+        "w": "adarśane",
+        "gloss": "in non-seeing",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahasraṃ",
+      "words": [
+       {
+        "w": "sahasram",
+        "gloss": "a thousand",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बताए गए सेतुओं के न दिखने पर एक हज़ार का दण्ड है।",
+  "english": "When the indicated embankments are not seen, the penalty is a thousand.",
+  "text_flags": [],
+  "notes": "No unit given for the thousand. Whom the penalty falls on (the guides) is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.12"
+  ],
+  "lines_deva": [
+   "उद्दिष्टानां सेतूनाम् अदर्शने सहस्रं दण्डः"
+  ],
+  "lines_iast": [
+   "uddiṣṭānāṃ setūnām adarśane sahasraṃ daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tad",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "very",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nīte",
+      "words": [
+       {
+        "w": "nīte",
+        "gloss": "when led",
+        "gram": "n. loc. sg. p.p. √nī"
+       }
+      ]
+     },
+     {
+      "src": "sīma.apahāriṇāṃ",
+      "words": [
+       {
+        "w": "sīma-apahāriṇām",
+        "gloss": "of boundary-removers",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "setuc.chidāṃ",
+      "words": [
+       {
+        "w": "setu-chidām",
+        "gloss": "of embankment-cutters",
+        "gram": "tat-puruṣa, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kuryāt",
+      "words": [
+       {
+        "w": "kuryāt",
+        "gloss": "should do",
+        "gram": "3 sg. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी के ले जाए जाने पर सीमा हटाने वालों और सेतु काटने वालों के लिए किया जाए।",
+  "english": "When that very [thing] has been led, [it] should be done for the boundary-removers and the embankment-cutters.",
+  "text_flags": [],
+  "notes": "Obscure. tad eva probably points back to the penalty of unit 12 (the same penalty), and nīte may mean \"taken away / removed\"; the sentence has no stated object. Rendered literally. setuc.chidām: the c is the usual chidām gemination (setu-cchid), not a typo.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.09.13"
+  ],
+  "lines_deva": [
+   "तद् एव नीते सीम.अपहारिणां सेतुच्.छिदां च कुर्यात्"
+  ],
+  "lines_iast": [
+   "tad eva nīte sīma.apahāriṇāṃ setuc.chidāṃ ca kuryāt"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pranaṣṭa.setu.bhogaṃ",
+      "words": [
+       {
+        "w": "pranaṣṭa-setu-bhogam",
+        "gloss": "whose use of the embankments is lost",
+        "gram": "bahuvrīhi, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sīmānaṃ",
+      "words": [
+       {
+        "w": "sīmānam",
+        "gloss": "boundary",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā.upakāraṃ",
+      "words": [
+       {
+        "w": "yathā-upakāram",
+        "gloss": "according to benefit",
+        "gram": "avyayībhāva, ind."
+       }
+      ]
+     },
+     {
+      "src": "vibhajet",
+      "words": [
+       {
+        "w": "vibhajet",
+        "gloss": "should divide",
+        "gram": "3 sg. opt. vi-√bhaj"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "14",
+      "words": [
+       {
+        "w": "14",
+        "gloss": "number fourteen",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sīma.vivādaḥ",
+      "words": [
+       {
+        "w": "sīma-vivādaḥ",
+        "gloss": "boundary dispute",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा जिस सीमा में सेतुओं का उपभोग नष्ट हो गया हो, उस सीमा को राजा उपकार के अनुसार बाँट दे। १४। यह सीमा-विवाद है।",
+  "english": "Or the king should divide the boundary, [one] whose use of the embankments is lost, according to benefit. 14. Such is the boundary dispute.",
+  "text_flags": [],
+  "notes": "Contains the verse number \"| 14 |\" in the line. yathā-upakāram: \"according to benefit / usefulness\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.14"
+  ],
+  "lines_deva": [
+   "प्रनष्ट.सेतु.भोगं वा सीमानं राजा यथा.उपकारं विभजेत् । १४ । इति सीम.विवादः"
+  ],
+  "lines_iast": [
+   "pranaṣṭa.setu.bhogaṃ vā sīmānaṃ rājā yathā.upakāraṃ vibhajet | 14 | iti sīma.vivādaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣetra.vivādaṃ",
+      "words": [
+       {
+        "w": "kṣetra-vivādam",
+        "gloss": "field dispute",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāmanta.grāma.vṛddhāḥ",
+      "words": [
+       {
+        "w": "sāmanta-grāma-vṛddhāḥ",
+        "gloss": "elders of neighbouring villages",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kuryuḥ",
+      "words": [
+       {
+        "w": "kuryuḥ",
+        "gloss": "should settle",
+        "gram": "3 pl. opt. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खेत के विवाद को पड़ोसी गाँवों के वृद्ध निपटाएँ।",
+  "english": "The elders of the neighbouring villages should settle the field dispute.",
+  "text_flags": [],
+  "notes": "kuryuḥ literally \"should make\"; rendered \"settle\" as in unit 10.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.15"
+  ],
+  "lines_deva": [
+   "क्षेत्र.विवादं सामन्त.ग्राम.वृद्धाः कुर्युः"
+  ],
+  "lines_iast": [
+   "kṣetra.vivādaṃ sāmanta.grāma.vṛddhāḥ kuryuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teṣāṃ",
+      "words": [
+       {
+        "w": "teṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dvaidhī.bhāve",
+      "words": [
+       {
+        "w": "dvaidhī-bhāve",
+        "gloss": "in a division",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yato",
+      "words": [
+       {
+        "w": "yataḥ",
+        "gloss": "from where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bahavaḥ",
+      "words": [
+       {
+        "w": "bahavaḥ",
+        "gloss": "many",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śucayo",
+      "words": [
+       {
+        "w": "śucayaḥ",
+        "gloss": "pure",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'numatā",
+      "words": [
+       {
+        "w": "anumatāḥ",
+        "gloss": "approved",
+        "gram": "m. nom. pl. p.p. anu-√man"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tato",
+      "words": [
+       {
+        "w": "tataḥ",
+        "gloss": "from there",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "niyaccheyuḥ",
+      "words": [
+       {
+        "w": "niyaccheyuḥ",
+        "gloss": "should settle",
+        "gram": "3 pl. opt. ni-√yam"
+       }
+      ]
+     },
+     {
+      "src": "madhyaṃ",
+      "words": [
+       {
+        "w": "madhyam",
+        "gloss": "middle",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛhṇīyuḥ",
+      "words": [
+       {
+        "w": "gṛhṇīyuḥ",
+        "gloss": "should take",
+        "gram": "3 pl. opt. √grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनमें मतभेद होने पर, जिस ओर बहुत से शुद्ध अथवा अनुमत हों, उस ओर से निर्णय करें, अथवा मध्य को ग्रहण करें।",
+  "english": "If there is a division among them, from where many [are] pure or approved, from there they should settle [it]; or they should take the middle.",
+  "text_flags": [],
+  "notes": "dvaidhī-bhāva here \"a state of being divided\" (not the technical \"dual policy\"). niyaccheyuḥ: ni-√yam literally \"restrain / determine\"; \"settle\" is the sense chosen. \"From where ... from there\" probably means \"on the side where\"; the ellipsis is left. madhyam: \"the middle\" (a middle course / the middle view), not further specified.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.16"
+  ],
+  "lines_deva": [
+   "तेषां द्वैधी.भावे यतो बहवः शुचयो ऽनुमता वा ततो नियच्छेयुः मध्यं वा गृह्णीयुः"
+  ],
+  "lines_iast": [
+   "teṣāṃ dvaidhī.bhāve yato bahavaḥ śucayo 'numatā vā tato niyaccheyuḥ madhyaṃ vā gṛhṇīyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad.ubhaya.parā.uktaṃ",
+      "words": [
+       {
+        "w": "tad-ubhaya-para-uktam",
+        "gloss": "declared by both as another's",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāstu",
+      "words": [
+       {
+        "w": "vāstu",
+        "gloss": "homestead",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "haret,",
+      "words": [
+       {
+        "w": "haret",
+        "gloss": "should take",
+        "gram": "3 sg. opt. √hṛ"
+       }
+      ]
+     },
+     {
+      "src": "pranaṣṭa.svāmikaṃ",
+      "words": [
+       {
+        "w": "pranaṣṭa-svāmikam",
+        "gloss": "whose owner is lost",
+        "gram": "bahuvrīhi, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस वास्तु को दोनों ने दूसरे का कहा हो, उसे राजा ले ले, और जिसका स्वामी खो गया हो उसे।",
+  "english": "The king should take the homestead [that] both have declared [to be] another's, and [one] whose owner is lost.",
+  "text_flags": [
+   {
+    "src": "tad.ubhaya.parā.uktaṃ",
+    "suggest": "tad.ubhaya.para.uktaṃ",
+    "why": "possible: long ā in parā; para + ukta would normally give parokta, so the printed parā may be a stray vowel mark"
+   }
+  ],
+  "notes": "Obscure compound tad-ubhaya-para-uktam; literally \"that-both-other-said\". Rendered as \"declared by both as another's\" with the bracketed supply; an alternative reading is \"said by both of them to be the other's\". The text of this unit is doubtful.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.09.17"
+  ],
+  "lines_deva": [
+   "तद्.उभय.परा.उक्तं वास्तु राजा हरेत्, प्रनष्ट.स्वामिकं च"
+  ],
+  "lines_iast": [
+   "tad.ubhaya.parā.uktaṃ vāstu rājā haret, pranaṣṭa.svāmikaṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā.upakāraṃ",
+      "words": [
+       {
+        "w": "yathā-upakāram",
+        "gloss": "according to benefit",
+        "gram": "avyayībhāva, ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vibhajet",
+      "words": [
+       {
+        "w": "vibhajet",
+        "gloss": "should divide",
+        "gram": "3 sg. opt. vi-√bhaj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा उपकार के अनुसार बाँट दे।",
+  "english": "Or [he] should divide [it] according to benefit.",
+  "text_flags": [],
+  "notes": "Continues unit 17 (subject the king, object the homestead, both understood). Kept as a separate unit as printed.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.18"
+  ],
+  "lines_deva": [
+   "यथा.उपकारं वा विभजेत्"
+  ],
+  "lines_iast": [
+   "yathā.upakāraṃ vā vibhajet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prasahya.ādāne",
+      "words": [
+       {
+        "w": "prasahya-ādāne",
+        "gloss": "in taking by force",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāstuni",
+      "words": [
+       {
+        "w": "vāstuni",
+        "gloss": "in the case of a homestead",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "steya.daṇḍaḥ",
+      "words": [
+       {
+        "w": "steya-daṇḍaḥ",
+        "gloss": "penalty for theft",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बलपूर्वक वास्तु ले लेने पर चोरी का दण्ड है।",
+  "english": "In taking a homestead by force, [there is] the penalty for theft.",
+  "text_flags": [],
+  "notes": "prasahya is an absolutive used as a first member (\"having forced\").",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.19"
+  ],
+  "lines_deva": [
+   "प्रसह्य.आदाने वास्तुनि स्तेय.दण्डः"
+  ],
+  "lines_iast": [
+   "prasahya.ādāne vāstuni steya.daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kāraṇa.ādāne",
+      "words": [
+       {
+        "w": "kāraṇa-ādāne",
+        "gloss": "in taking for a reason",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prayāsam",
+      "words": [
+       {
+        "w": "prayāsam",
+        "gloss": "effort",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ājīvaṃ",
+      "words": [
+       {
+        "w": "ājīvam",
+        "gloss": "livelihood",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parisaṅkhyāya",
+      "words": [
+       {
+        "w": "parisaṅkhyāya",
+        "gloss": "having reckoned",
+        "gram": "abs. pari-saṃ-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "bandhaṃ",
+      "words": [
+       {
+        "w": "bandham",
+        "gloss": "bandha (binding)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "20",
+      "words": [
+       {
+        "w": "20",
+        "gloss": "number twenty",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣetra.vivādaḥ",
+      "words": [
+       {
+        "w": "kṣetra-vivādaḥ",
+        "gloss": "field dispute",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कारणवश लेने पर, प्रयास और जीविका की गणना करके बन्ध दे। २०। यह खेत का विवाद है।",
+  "english": "In taking for a reason, having reckoned the effort and the livelihood, [one] should give the bandha. 20. Such is the field dispute.",
+  "text_flags": [],
+  "notes": "bandha is obscure here (literally \"binding\"; possibly a pledge, security or confinement) and is kept as bandha. kāraṇa-ādāne \"taking for a reason / with a cause\" is also uncertain. ājīva = livelihood (possibly \"profit\"). Contains the verse number \"| 20 |\".",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.09.20"
+  ],
+  "lines_deva": [
+   "कारण.आदाने प्रयासम् आजीवं च परिसङ्ख्याय बन्धं दद्यात् । २० । इति क्षेत्र.विवादः"
+  ],
+  "lines_iast": [
+   "kāraṇa.ādāne prayāsam ājīvaṃ ca parisaṅkhyāya bandhaṃ dadyāt | 20 | iti kṣetra.vivādaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "maryādā.apaharaṇe",
+      "words": [
+       {
+        "w": "maryādā-apaharaṇe",
+        "gloss": "in the removal of a boundary",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaḥ",
+      "words": [
+       {
+        "w": "pūrvaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāhasa.daṇḍaḥ",
+      "words": [
+       {
+        "w": "sāhasa-daṇḍaḥ",
+        "gloss": "fine for rashness",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मर्यादा हटाने पर प्रथम साहस-दण्ड।",
+  "english": "For the removal of a boundary, the first fine for rashness.",
+  "text_flags": [],
+  "notes": "Nominal sentence, no copula.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.21"
+  ],
+  "lines_deva": [
+   "मर्यादा.अपहरणे पूर्वः साहस.दण्डः"
+  ],
+  "lines_iast": [
+   "maryādā.apaharaṇe pūrvaḥ sāhasa.daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "maryādā.bhede",
+      "words": [
+       {
+        "w": "maryādā-bhede",
+        "gloss": "in the breaking of a boundary",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "catur.viṃśati.paṇaḥ",
+      "words": [
+       {
+        "w": "catur-viṃśati-paṇaḥ",
+        "gloss": "of twenty-four paṇas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मर्यादा तोड़ने पर चौबीस पण।",
+  "english": "For the breaking of a boundary, twenty-four paṇas.",
+  "text_flags": [],
+  "notes": "daṇḍa understood from context (\"a penalty of twenty-four paṇas\").",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.22"
+  ],
+  "lines_deva": [
+   "मर्यादा.भेदे चतुर्.विंशति.पणः"
+  ],
+  "lines_iast": [
+   "maryādā.bhede catur.viṃśati.paṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tena",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "by that",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tapo.vana.vivīta.mahā.patha.śmaśāna.deva.kula.yajana.puṇya.sthāna.-",
+      "words": [
+       {
+        "w": "tapas-vana-vivīta-mahā-patha-śmaśāna-deva-kula-yajana-puṇya-sthāna",
+        "gloss": "penance-groves, pastures, highways, cremation grounds, temples, sacrificial places, holy places",
+        "gram": "dvandva, first part of compound"
+       }
+      ]
+     },
+     {
+      "src": "vivādā",
+      "words": [
+       {
+        "w": "vivādāḥ",
+        "gloss": "disputes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vyākhyātāḥ",
+      "words": [
+       {
+        "w": "vyākhyātāḥ",
+        "gloss": "explained",
+        "gram": "m. nom. pl. p.p. vi-ā-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "23",
+      "words": [
+       {
+        "w": "23",
+        "gloss": "number twenty-three",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "maryādā.sthāpanam",
+      "words": [
+       {
+        "w": "maryādā-sthāpanam",
+        "gloss": "establishing of boundaries",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इससे तपोवन, चरागाह, महापथ, श्मशान, देवालय, यज्ञ-स्थान और पुण्य-स्थानों के विवादों की व्याख्या की गई। २३। यह मर्यादाओं की स्थापना है।",
+  "english": "By that, the disputes about penance-groves, pastures, highways, cremation grounds, temples, sacrificial places and holy places are explained. 23. Such is the establishing of boundaries.",
+  "text_flags": [],
+  "notes": "One compound printed over two tokens (tapo.vana ... sthāna.- / vivādā). Because the text is split by a space the word entries are: first token = the members, second = vivādāḥ. deva-kula \"temple\" is literally \"god-house / family of the gods\"; the division of yajana and puṇya-sthāna is uncertain. Formula \"tena X vyākhyātāḥ\" = \"By that, X are explained\" (plural). Contains the verse number \"| 23 |\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.23"
+  ],
+  "lines_deva": [
+   "तेन तपो.वन.विवीत.महा.पथ.श्मशान.देव.कुल.यजन.पुण्य.स्थान.- विवादा व्याख्याताः । २३ । इति मर्यादा.स्थापनम्"
+  ],
+  "lines_iast": [
+   "tena tapo.vana.vivīta.mahā.patha.śmaśāna.deva.kula.yajana.puṇya.sthāna.- vivādā vyākhyātāḥ | 23 | iti maryādā.sthāpanam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarva",
+      "words": [
+       {
+        "w": "sarve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vivādāḥ",
+      "words": [
+       {
+        "w": "vivādāḥ",
+        "gloss": "disputes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāmanta.pratyayāḥ",
+      "words": [
+       {
+        "w": "sāmanta-pratyayāḥ",
+        "gloss": "having the neighbours as basis of credence",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सभी के सभी विवाद पड़ोसियों के विश्वास पर आधारित हैं।",
+  "english": "All disputes without exception have the neighbours as their basis of credence.",
+  "text_flags": [],
+  "notes": "pratyaya: \"belief, trust, credence\"; \"testimony / evidence\" is possible. The rendering is literal. sarva eva is regular sandhi for sarve eva.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.24"
+  ],
+  "lines_deva": [
+   "सर्व एव विवादाः सामन्त.प्रत्ययाः"
+  ],
+  "lines_iast": [
+   "sarva eva vivādāḥ sāmanta.pratyayāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vivīta.sthala.kedāra.ṣaṇḍa.khala.veśma.vāhana.koṣṭhānāṃ",
+      "words": [
+       {
+        "w": "vivīta-sthala-kedāra-ṣaṇḍa-khala-veśma-vāhana-koṣṭhānām",
+        "gloss": "of pastures, dry ground, fields, groves, threshing-floors, houses, vehicles, storehouses",
+        "gram": "dvandva, gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaṃ.pūrvam",
+      "words": [
+       {
+        "w": "pūrva-pūrvam",
+        "gloss": "each earlier one",
+        "gram": "repetition, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ābādhaṃ",
+      "words": [
+       {
+        "w": "ābādham",
+        "gloss": "harm",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saheta",
+      "words": [
+       {
+        "w": "saheta",
+        "gloss": "should bear",
+        "gram": "3 sg. opt. ātm. √sah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चरागाह, स्थल, खेत, वृक्ष-समूह, खलिहान, घर, वाहन और कोठार में से प्रत्येक पहला हानि सहे।",
+  "english": "Of pastures, dry ground, fields, groves, threshing-floors, houses, vehicles and storehouses, each earlier one should bear the harm.",
+  "text_flags": [],
+  "notes": "The relation is probably: the earlier item in the list bears the harm done by the later one; the text does not say so. ṣaṇḍa \"grove\" (literally a cluster, a clump of trees) and vāhana \"vehicle\" are literal. Ordering of the list is as printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.25"
+  ],
+  "lines_deva": [
+   "विवीत.स्थल.केदार.षण्ड.खल.वेश्म.वाहन.कोष्ठानां पूर्वं.पूर्वम् आबाधं सहेत"
+  ],
+  "lines_iast": [
+   "vivīta.sthala.kedāra.ṣaṇḍa.khala.veśma.vāhana.koṣṭhānāṃ pūrvaṃ.pūrvam ābādhaṃ saheta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brahma.soma.araṇya.deva.yajana.puṇya.sthāna.varjāḥ",
+      "words": [
+       {
+        "w": "brahma-soma-araṇya-deva-yajana-puṇya-sthāna-varjāḥ",
+        "gloss": "excluding brahma, soma, forest, god, sacrifice, holy places",
+        "gram": "bahuvrīhi, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sthala.pradeśāḥ",
+      "words": [
+       {
+        "w": "sthala-pradeśāḥ",
+        "gloss": "tracts of dry ground",
+        "gram": "tat-puruṣa, m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ब्रह्म, सोम, अरण्य, देव, यजन और पुण्य स्थानों को छोड़कर स्थल-प्रदेश।",
+  "english": "Tracts of dry ground, excluding the brahma, soma, forest, god, sacrifice and holy places.",
+  "text_flags": [],
+  "notes": "Obscure: brahma-sthāna / soma-sthāna are kept literal (\"brahma\", \"soma\" places); the division of the long compound (brahma-, soma-, araṇya-, deva-, yajana-, puṇya- before sthāna) is uncertain. The sentence is incomplete (it likely continues the rule of unit 25).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.09.26"
+  ],
+  "lines_deva": [
+   "ब्रह्म.सोम.अरण्य.देव.यजन.पुण्य.स्थान.वर्जाः स्थल.प्रदेशाः"
+  ],
+  "lines_iast": [
+   "brahma.soma.araṇya.deva.yajana.puṇya.sthāna.varjāḥ sthala.pradeśāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ādhāra.parivāha.kedāra.upabhogaiḥ",
+      "words": [
+       {
+        "w": "ādhāra-parivāha-kedāra-upabhogaiḥ",
+        "gloss": "through the use of reservoirs, overflow-channels, fields",
+        "gram": "dvandva, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "para.kṣetra.kṛṣṭa.bīja.hiṃsāyāṃ",
+      "words": [
+       {
+        "w": "para-kṣetra-kṛṣṭa-bīja-hiṃsāyām",
+        "gloss": "in injury to ploughed seed in another's field",
+        "gram": "tat-puruṣa, f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathā.upaghātaṃ",
+      "words": [
+       {
+        "w": "yathā-upaghātam",
+        "gloss": "according to the damage",
+        "gram": "avyayībhāva, ind."
+       }
+      ]
+     },
+     {
+      "src": "mūlyaṃ",
+      "words": [
+       {
+        "w": "mūlyam",
+        "gloss": "value",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadyuḥ",
+      "words": [
+       {
+        "w": "dadyuḥ",
+        "gloss": "should pay",
+        "gram": "3 pl. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जलाशय, परिवाह और खेतों के उपभोग से दूसरे के खेत में जुते हुए बीज की हानि होने पर, हानि के अनुसार मूल्य दें।",
+  "english": "In the injury to ploughed seed in another's field through the use of reservoirs, overflow-channels [and] fields, they should pay the value according to the damage.",
+  "text_flags": [],
+  "notes": "parivāha: \"overflow / drain\" (of a reservoir); kṛṣṭa-bīja: literally \"ploughed seed\". The subject of dadyuḥ (the users) is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.27"
+  ],
+  "lines_deva": [
+   "आधार.परिवाह.केदार.उपभोगैः पर.क्षेत्र.कृष्ट.बीज.हिंसायां यथा.उपघातं मूल्यं दद्युः"
+  ],
+  "lines_iast": [
+   "ādhāra.parivāha.kedāra.upabhogaiḥ para.kṣetra.kṛṣṭa.bīja.hiṃsāyāṃ yathā.upaghātaṃ mūlyaṃ dadyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kedāra.ārāma.setu.bandhānāṃ",
+      "words": [
+       {
+        "w": "kedāra-ārāma-setu-bandhānām",
+        "gloss": "of fields, gardens, embankment-dams",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "paraspara.hiṃsāyāṃ",
+      "words": [
+       {
+        "w": "paraspara-hiṃsāyām",
+        "gloss": "in mutual injury",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hiṃsā.dvi.guṇo",
+      "words": [
+       {
+        "w": "hiṃsā-dvi-guṇaḥ",
+        "gloss": "double the injury",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खेतों, उद्यानों और सेतु-बन्धों की परस्पर हानि होने पर हानि का दुगुना दण्ड है।",
+  "english": "In mutual injury of fields, gardens [and] embankment-dams, the penalty is double the injury.",
+  "text_flags": [],
+  "notes": "setu-bandha could also be read as two items, embankments and dams.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.28"
+  ],
+  "lines_deva": [
+   "केदार.आराम.सेतु.बन्धानां परस्पर.हिंसायां हिंसा.द्वि.गुणो दण्डः"
+  ],
+  "lines_iast": [
+   "kedāra.ārāma.setu.bandhānāṃ paraspara.hiṃsāyāṃ hiṃsā.dvi.guṇo daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "paścān.niviṣṭam",
+      "words": [
+       {
+        "w": "paścāt-niviṣṭam",
+        "gloss": "settled later",
+        "gram": "tat-puruṣa, n. nom. sg. p.p."
+       }
+      ]
+     },
+     {
+      "src": "adhara.taṭākaṃ",
+      "words": [
+       {
+        "w": "adhara-taṭākam",
+        "gloss": "lower tank",
+        "gram": "karmadhāraya, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na-upari.taṭākasya",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "upari-taṭākasya",
+        "gloss": "of the upper tank",
+        "gram": "karmadhāraya, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kedāram",
+      "words": [
+       {
+        "w": "kedāram",
+        "gloss": "field",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "udakena-āplāvayet",
+      "words": [
+       {
+        "w": "udakena",
+        "gloss": "with water",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "āplāvayet",
+        "gloss": "should flood",
+        "gram": "3 sg. opt. caus. ā-√plu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बाद में बना निचला तालाब ऊपरी तालाब के खेत को जल से न डुबोए।",
+  "english": "The lower tank, settled later, should not flood the field of the upper tank with water.",
+  "text_flags": [],
+  "notes": "paścāt-niviṣṭam read with adhara-taṭākam as \"the lower tank established later\".",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.29"
+  ],
+  "lines_deva": [
+   "पश्चान्.निविष्टम् अधर.तटाकं न-उपरि.तटाकस्य केदारम् उदकेन-आप्लावयेत्"
+  ],
+  "lines_iast": [
+   "paścān.niviṣṭam adhara.taṭākaṃ na-upari.taṭākasya kedāram udakena-āplāvayet"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "upari.niviṣṭaṃ",
+      "words": [
+       {
+        "w": "upari-niviṣṭam",
+        "gloss": "established above",
+        "gram": "tat-puruṣa, n. nom. sg. p.p."
+       }
+      ]
+     },
+     {
+      "src": "na-adhara.taṭākasya",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "adhara-taṭākasya",
+        "gloss": "of the lower tank",
+        "gram": "karmadhāraya, n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūra.āsrāvaṃ",
+      "words": [
+       {
+        "w": "pūra-āsrāvam",
+        "gloss": "filling and outflow",
+        "gram": "dvandva, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārayed,",
+      "words": [
+       {
+        "w": "vārayet",
+        "gloss": "should obstruct",
+        "gram": "3 sg. opt. caus. √vṛ"
+       }
+      ]
+     },
+     {
+      "src": "anyatra",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tri.varṣa.uparata.karmaṇaḥ",
+      "words": [
+       {
+        "w": "tri-varṣa-uparata-karmaṇaḥ",
+        "gloss": "of one whose work has ceased for three years",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऊपर बना तालाब निचले तालाब के भराव और बहाव को न रोके, तीन वर्ष से जिसका कार्य बन्द है उसके अतिरिक्त।",
+  "english": "A [tank] established above should not obstruct the filling and outflow of the lower tank, except [in the case] of one whose work has ceased for three years.",
+  "text_flags": [],
+  "notes": "taṭākam is understood with upari-niviṣṭam. Whose work has ceased (the owner of the lower tank, presumably) is not stated. pūra-āsrāva: \"filling (flood) and outflow\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.30"
+  ],
+  "lines_deva": [
+   "उपरि.निविष्टं न-अधर.तटाकस्य पूर.आस्रावं वारयेद्, अन्यत्र त्रि.वर्ष.उपरत.कर्मणः"
+  ],
+  "lines_iast": [
+   "upari.niviṣṭaṃ na-adhara.taṭākasya pūra.āsrāvaṃ vārayed, anyatra tri.varṣa.uparata.karmaṇaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya-atikrame",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "atikrame",
+        "gloss": "in transgression",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pūrvaḥ",
+      "words": [
+       {
+        "w": "pūrvaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāhasa.daṇḍaḥ,",
+      "words": [
+       {
+        "w": "sāhasa-daṇḍaḥ",
+        "gloss": "fine for rashness",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "taṭāka.vāmanaṃ",
+      "words": [
+       {
+        "w": "taṭāka-vāmanam",
+        "gloss": "causing the tank to vomit out",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका उल्लंघन होने पर प्रथम साहस-दण्ड है, और तालाब का वमन कराना।",
+  "english": "On transgression of that, the first fine for rashness, and the causing of the tank to vomit out.",
+  "text_flags": [],
+  "notes": "vāmana (from caus. √vam) is kept literal (\"causing to vomit out\"); the sense \"draining / emptying out of the tank\" is likely but not stated. tasya refers to the rule of unit 30.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.31"
+  ],
+  "lines_deva": [
+   "तस्य-अतिक्रमे पूर्वः साहस.दण्डः, तटाक.वामनं च"
+  ],
+  "lines_iast": [
+   "tasya-atikrame pūrvaḥ sāhasa.daṇḍaḥ, taṭāka.vāmanaṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pañca.varṣa.uparata.karmaṇaḥ",
+      "words": [
+       {
+        "w": "pañca-varṣa-uparata-karmaṇaḥ",
+        "gloss": "of one whose work has ceased for five years",
+        "gram": "bahuvrīhi, m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "setu.bandhasya",
+      "words": [
+       {
+        "w": "setu-bandhasya",
+        "gloss": "of the embankment-dam",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāmyaṃ",
+      "words": [
+       {
+        "w": "svāmyam",
+        "gloss": "ownership",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lupyeta,",
+      "words": [
+       {
+        "w": "lupyeta",
+        "gloss": "would be lost",
+        "gram": "3 sg. opt. pass. √lup"
+       }
+      ]
+     },
+     {
+      "src": "anyatra-āpadbhyaḥ",
+      "words": [
+       {
+        "w": "anyatra",
+        "gloss": "except",
+        "gram": "ind."
+       },
+       {
+        "w": "āpadbhyaḥ",
+        "gloss": "because of adversities",
+        "gram": "f. abl. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पाँच वर्ष से जिसका कार्य बन्द है, उस सेतु-बन्ध का स्वामित्व लुप्त हो जाए, आपत्तियों को छोड़कर।",
+  "english": "Of an embankment-dam whose work has ceased for five years, the ownership would be lost, except because of adversities.",
+  "text_flags": [],
+  "notes": "The bahuvrīhi pañca-varṣa-uparata-karmaṇaḥ agrees with setu-bandhasya (genitive). anyatra āpadbhyaḥ: \"except on account of adversities\" (āpad = adversity).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.32"
+  ],
+  "lines_deva": [
+   "पञ्च.वर्ष.उपरत.कर्मणः सेतु.बन्धस्य स्वाम्यं लुप्येत, अन्यत्र-आपद्भ्यः"
+  ],
+  "lines_iast": [
+   "pañca.varṣa.uparata.karmaṇaḥ setu.bandhasya svāmyaṃ lupyeta, anyatra-āpadbhyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṭāka.setu.bandhānāṃ",
+      "words": [
+       {
+        "w": "taṭāka-setu-bandhānām",
+        "gloss": "of tanks and embankment-dams",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "nava.pravartane",
+      "words": [
+       {
+        "w": "nava-pravartane",
+        "gloss": "in new starting",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāñcavarṣikaḥ",
+      "words": [
+       {
+        "w": "pāñcavarṣikaḥ",
+        "gloss": "of five years",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parihāraḥ,",
+      "words": [
+       {
+        "w": "parihāraḥ",
+        "gloss": "exemption",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhagna.utsṛṣṭānāṃ",
+      "words": [
+       {
+        "w": "bhagna-utsṛṣṭānām",
+        "gloss": "of the broken and abandoned",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "cāturvarṣikaḥ,",
+      "words": [
+       {
+        "w": "cāturvarṣikaḥ",
+        "gloss": "of four years",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samupārūḍhānāṃ",
+      "words": [
+       {
+        "w": "samupārūḍhānām",
+        "gloss": "of those risen upon",
+        "gram": "m. gen. pl. p.p. sam-upa-ā-√ruh"
+       }
+      ]
+     },
+     {
+      "src": "traivarṣikaḥ,",
+      "words": [
+       {
+        "w": "traivarṣikaḥ",
+        "gloss": "of three years",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthalasya",
+      "words": [
+       {
+        "w": "sthalasya",
+        "gloss": "of dry ground",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvaivarṣikaḥ",
+      "words": [
+       {
+        "w": "dvaivarṣikaḥ",
+        "gloss": "of two years",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तालाबों और सेतु-बन्धों के नए आरम्भ पर पाँच वर्ष की छूट है; टूटे और छोड़े हुए की चार वर्ष की, चढ़े हुए की तीन वर्ष की, स्थल की दो वर्ष की।",
+  "english": "For the new starting of tanks and embankment-dams, an exemption of five years; for the broken and abandoned, of four years; for those risen upon, of three years; for dry ground, of two years.",
+  "text_flags": [],
+  "notes": "samupārūḍha (sam-upa-ā-√ruh, \"risen up / grown over\") is obscure; the rendering \"grown over\" is literal and uncertain. nava-pravartana: \"new starting / setting going\". \"Dry ground\" = sthala. Reviewer: samupārūḍha now read literally as \"risen upon\" (English and gloss); \"grown over\" in the note above is superseded.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.33"
+  ],
+  "lines_deva": [
+   "तटाक.सेतु.बन्धानां नव.प्रवर्तने पाञ्चवर्षिकः परिहारः, भग्न.उत्सृष्टानां चातुर्वर्षिकः, समुपारूढानां त्रैवर्षिकः, स्थलस्य द्वैवर्षिकः"
+  ],
+  "lines_iast": [
+   "taṭāka.setu.bandhānāṃ nava.pravartane pāñcavarṣikaḥ parihāraḥ, bhagna.utsṛṣṭānāṃ cāturvarṣikaḥ, samupārūḍhānāṃ traivarṣikaḥ, sthalasya dvaivarṣikaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sva.ātma.ādhāne",
+      "words": [
+       {
+        "w": "sva-ātma-ādhāne",
+        "gloss": "in the pledging of one's own self",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vikraye",
+      "words": [
+       {
+        "w": "vikraye",
+        "gloss": "in sale",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने स्वयं के बन्धक रखे जाने और बिक्री में।",
+  "english": "In the pledging of one's own self, and in sale.",
+  "text_flags": [],
+  "notes": "Fragment with no stated predicate; it probably continues units 32-33 (loss of rights / exemption in case of pledge or sale), but this is not stated. sva-ātma may refer to the work-owner himself; the reading is uncertain.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.09.34"
+  ],
+  "lines_deva": [
+   "स्व.आत्म.आधाने विक्रये च"
+  ],
+  "lines_iast": [
+   "sva.ātma.ādhāne vikraye ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "khāta.prāvṛttim",
+      "words": [
+       {
+        "w": "khāta-prāvṛttim",
+        "gloss": "the work of digging",
+        "gram": "tat-puruṣa, f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anadī.nibandha.āyatana.taṭāka.kedāra.ārāma.ṣaṇḍa.vāpānāṃ",
+      "words": [
+       {
+        "w": "anadī-nibandha-āyatana-taṭāka-kedāra-ārāma-ṣaṇḍa-vāpānām",
+        "gloss": "of non-river bindings, abodes, tanks, fields, gardens, groves, sowings",
+        "gram": "dvandva, m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sasya.varṇa.bhāga.uttarikam",
+      "words": [
+       {
+        "w": "sasya-varṇa-bhāga-uttarikam",
+        "gloss": "further share of crop-kinds",
+        "gram": "tat-puruṣa, n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyebhyo",
+      "words": [
+       {
+        "w": "anyebhyaḥ",
+        "gloss": "to others",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yathā.upakāraṃ",
+      "words": [
+       {
+        "w": "yathā-upakāram",
+        "gloss": "according to benefit",
+        "gram": "avyayībhāva, ind."
+       }
+      ]
+     },
+     {
+      "src": "dadyuḥ",
+      "words": [
+       {
+        "w": "dadyuḥ",
+        "gloss": "should give",
+        "gram": "3 pl. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खुदाई के कार्य को, नदी-रहित बन्धों, आयतनों, तालाबों, खेतों, उद्यानों, वृक्ष-समूहों और बुवाइयों के फसल-प्रकार-भाग के आगे वाले अंश को वे दूसरों को अथवा उपकार के अनुसार दें।",
+  "english": "They should give the work of digging [and] the further share of crop-kinds, of the non-river bindings, abodes, tanks, fields, gardens, groves [and] sowings, to others or according to benefit.",
+  "text_flags": [],
+  "notes": "Very obscure; rendered literally with no guessed senses. Doubtful words: khāta-prāvṛtti (\"digging-undertaking\"), anadī-nibandha (binding / fastening not of a river), āyatana (abode), vāpa (sowing / tank), sasya-varṇa-bhāga-uttarika (a \"further / later share\" by kinds of crop). The attachment of the objects is uncertain.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.09.35"
+  ],
+  "lines_deva": [
+   "खात.प्रावृत्तिम् अनदी.निबन्ध.आयतन.तटाक.केदार.आराम.षण्ड.वापानां सस्य.वर्ण.भाग.उत्तरिकम् अन्येभ्यो वा यथा.उपकारं दद्युः"
+  ],
+  "lines_iast": [
+   "khāta.prāvṛttim anadī.nibandha.āyatana.taṭāka.kedāra.ārāma.ṣaṇḍa.vāpānāṃ sasya.varṇa.bhāga.uttarikam anyebhyo vā yathā.upakāraṃ dadyuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prakraya.avakraya.adhibhāga.bhoganiṣṛṣṭa.upabhoktāraś",
+      "words": [
+       {
+        "w": "prakraya-avakraya-adhibhāga-bhoga-niṣṛṣṭa-upabhoktāraḥ",
+        "gloss": "purchase, hire, additional share, released for enjoyment, users",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca-eṣāṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratikuryuḥ",
+      "words": [
+       {
+        "w": "pratikuryuḥ",
+        "gloss": "should remedy",
+        "gram": "3 pl. opt. prati-√kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्रय, अवक्रय, अधिभाग और भोग के लिए छोड़े गए और उपभोक्ता, इनका प्रतिकार करें।",
+  "english": "[Those by] purchase, hire, additional share, [and] release for enjoyment, and the users, should remedy these.",
+  "text_flags": [
+   {
+    "src": "bhoganiṣṛṣṭa",
+    "suggest": "bhoga.niṣṛṣṭa",
+    "why": "possible: compound dot missing between bhoga and niṣṛṣṭa"
+   }
+  ],
+  "notes": "Obscure; the compound is read as a list (prakraya \"purchase\", avakraya \"hire\", adhibhāga \"additional share\", bhoga-niṣṛṣṭa \"released for enjoyment\", upabhoktāraḥ \"users\"); whether these are persons holding by those titles is not stated. pratikṛ with the genitive \"to requite / make good\" is also possible; \"remedy\" follows the glossary (pratīkāra).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "03.09.36"
+  ],
+  "lines_deva": [
+   "प्रक्रय.अवक्रय.अधिभाग.भोगनिषृष्ट.उपभोक्तारश् च-एषां प्रतिकुर्युः"
+  ],
+  "lines_iast": [
+   "prakraya.avakraya.adhibhāga.bhoganiṣṛṣṭa.upabhoktāraś ca-eṣāṃ pratikuryuḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "arpatīkāre",
+      "words": [
+       {
+        "w": "apratīkāre",
+        "gloss": "in non-remedy",
+        "gram": "tat-puruṣa (nañ), m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hīna.dvi.guṇo",
+      "words": [
+       {
+        "w": "hīna-dvi-guṇaḥ",
+        "gloss": "double the shortfall",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रतिकार न करने पर कमी का दुगुना दण्ड है।",
+  "english": "When there is no remedy, the penalty is double the shortfall.",
+  "text_flags": [
+   {
+    "src": "arpatīkāre",
+    "suggest": "apratīkāre",
+    "why": "possible: stray r for a (apratīkāre, \"in non-remedy\"), in view of pratikuryuḥ in unit 36"
+   }
+  ],
+  "notes": "The reading apratīkāre is a suggested correction; \"arpatīkāra\" gives no known word. hīna: \"deficient / shortfall\" (as in the glossary for 4.1).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "03.09.37"
+  ],
+  "lines_deva": [
+   "अर्पतीकारे हीन.द्वि.गुणो दण्डः"
+  ],
+  "lines_iast": [
+   "arpatīkāre hīna.dvi.guṇo daṇḍaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "setubhyo",
+      "words": [
+       {
+        "w": "setubhyaḥ",
+        "gloss": "from the embankments",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "muñcatas",
+      "words": [
+       {
+        "w": "muñcataḥ",
+        "gloss": "of one releasing",
+        "gram": "m. gen. sg. pres. part. √muc"
+       }
+      ]
+     },
+     {
+      "src": "toyam",
+      "words": [
+       {
+        "w": "toyam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avāre",
+      "words": [
+       {
+        "w": "avāre",
+        "gloss": "out of turn",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṣaṭ.paṇo",
+      "words": [
+       {
+        "w": "ṣaṭ-paṇaḥ",
+        "gloss": "of six paṇas",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "damaḥ",
+      "words": [
+       {
+        "w": "damaḥ",
+        "gloss": "fine",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāre",
+      "words": [
+       {
+        "w": "vāre",
+        "gloss": "at the turn",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "toyam",
+      "words": [
+       {
+        "w": "toyam",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anyeṣāṃ",
+      "words": [
+       {
+        "w": "anyeṣām",
+        "gloss": "of others",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pramādena-uparundhataḥ",
+      "words": [
+       {
+        "w": "pramādena",
+        "gloss": "through negligence",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "uparundhataḥ",
+        "gloss": "of one obstructing",
+        "gram": "m. gen. sg. pres. part. upa-√rudh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सेतुओं से बिना बारी के जल छोड़ने वाले का दण्ड छह पण है; अथवा बारी पर दूसरों के जल को प्रमादवश रोकने वाले का।",
+  "english": "For one releasing water from the embankments out of turn, the fine is six paṇas; or [for one] who, at the turn, obstructs the water of others through negligence.",
+  "text_flags": [],
+  "notes": "avāre literally \"at a non-turn\". \"Or [the same fine]\" is understood for the second line, whose genitive uparundhataḥ parallels muñcataḥ. Whose turn it is in the second line is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "03.09.38a",
+   "03.09.38b"
+  ],
+  "lines_deva": [
+   "सेतुभ्यो मुञ्चतस् तोयम् अवारे षट्.पणो दमः",
+   "वारे वा तोयम् अन्येषां प्रमादेन-उपरुन्धतः"
+  ],
+  "lines_iast": [
+   "setubhyo muñcatas toyam avāre ṣaṭ.paṇo damaḥ",
+   "vāre vā toyam anyeṣāṃ pramādena-uparundhataḥ"
+  ],
+  "uncertain": []
+ }
+]

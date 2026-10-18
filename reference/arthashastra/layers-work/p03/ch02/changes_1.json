@@ -1,0 +1,66 @@
+[
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "क्योंकि वे दोनों कन्या के शुल्क को लेने वाले हैं, अथवा दोनों में से एक के अभाव में दूसरा।",
+  "new": "क्योंकि वे दोनों पुत्री के शुल्क को लेने वाले हैं, अथवा दोनों में से एक के अभाव में दूसरा।",
+  "why": "reviewer (minor): duhitṛ is 'daughter' (English says daughter; unit 36 uses पुत्रियाँ); कन्या is kanyā 'maiden' (units 2, 38)."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "अथवा पाकर विवाह करने वाली स्त्री से दोनों वृद्धि सहित दिलवाए जाएँ।",
+  "new": "अथवा पाकर विवाह करने वाली स्त्री से दोनों वृद्धि सहित दिलाए जाएँ।",
+  "why": "reviewer (minor): Inconsistent with unit 18 (दिलाए जाएँ) for the same dāpyeta."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "जाति-बन्धुओं के हाथ से पकड़ी गई स्त्री के लिए ज्ञाति-जन जैसा लिया हो वैसा दें।",
+  "new": "ज्ञाति-जनों के हाथ से पकड़ी गई स्त्री के लिए ज्ञाति-जन जैसा लिया हो वैसा दें।",
+  "why": "reviewer (error): जाति is a different word (caste); jñāti = relatives, and the same sentence renders jñātayaḥ as ज्ञाति-जन."
+ },
+ {
+  "n": "24",
+  "field": "notes",
+  "old": "Doubtful: abhimṛṣṭā (abhi-√mṛś, 'touched, laid hold of') is rendered literally; the situation (a woman taken from her relatives' hand, e.g. in marriage) and the thing given are not stated. The printed ablative inside the compound (hastād.) is unusual but kept. The final -yā is regular sandhi for -yāḥ before a voiced consonant.",
+  "new": "Doubtful: abhimṛṣṭā (abhi-√mṛś, 'touched, laid hold of') is rendered literally; the situation (a woman taken from her relatives' hand, e.g. in marriage) and the thing given are not stated. The printed ablative inside the compound (hastād.) is unusual but kept. The final -yā is regular sandhi for -yāḥ before a voiced consonant. REVIEW: the second '.' in the printed token is a suspected typo for a word break (hastād abhimṛṣṭāyā), so no ablative sits inside a compound; the sense is unchanged.",
+  "why": "reviewer (minor): Note says the ablative inside the compound is 'unusual but kept'; it should say suspected typo."
+ },
+ {
+  "n": "26",
+  "field": "hindi",
+  "old": "पति के दाय को विवाह करती हुई वह खो दे।",
+  "new": "पति के दाय को विवाह करती हुई खो दे।",
+  "why": "reviewer (minor): Added subject वह; the Sanskrit states none (glossary 4.12/4.9: unnamed subject left unstated in Hindi)."
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "अथवा पुत्रों के भरण-पोषण के लिए विवाह करती हुई वह पुत्रों के लिए उसे बढ़ाए।",
+  "new": "अथवा पुत्रों के भरण-पोषण के लिए विवाह करती हुई पुत्रों के लिए बढ़ाए।",
+  "why": "reviewer (minor): Added subject वह and object उसे, neither in the Sanskrit; English brackets them, Hindi has no bracket."
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "इच्छानुसार करने योग्य स्त्रीधन को भी विवाह करती हुई वह पुत्रों के पास स्थित करे।",
+  "new": "इच्छानुसार करने योग्य स्त्रीधन को भी विवाह करती हुई पुत्रों के पास स्थित करे।",
+  "why": "reviewer (minor): Added subject वह; not in the Sanskrit."
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "anvādheyam",
+  "old": "anvādheya (later-added gift)",
+  "new": "anvādheya (added afterwards)",
+  "why": "reviewer (minor): Gloss 'later-added gift' adds the sense 'gift'; literal is 'what is added afterwards'."
+ },
+ {
+  "n": "41",
+  "field": "hindi",
+  "old": "शुल्क-रहित और स्त्रीधन-रहित को शुल्क, स्त्रीधन, उसके माप का आधिवेदनिक और उपयुक्त वृत्ति देकर वह अनेक स्त्रियों से भी विवाह करे।",
+  "new": "शुल्क-रहित और स्त्रीधन-रहित को शुल्क, स्त्रीधन, उसके माप का आधिवेदनिक और उपयुक्त वृत्ति देकर अनेक स्त्रियों से भी विवाह करे।",
+  "why": "reviewer (minor): Added subject वह; not in the Sanskrit."
+ }
+]
