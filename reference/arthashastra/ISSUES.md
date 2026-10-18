@@ -143,3 +143,12 @@ Per-line items needing a person (senses, referents, possible typos):
 | 04.11.13, 14, 18 | other | `tad.aṅgān` (aṅgāt?) flagged; offender or manner of killing | a person reads |
 | 04.12.5, 13, 17, 27, 35 | other | `labbheta`, `prākāṃyam`, `dviśato`, `taj.jātebhyaḥ` flagged; `śulka-ābandhya-dānaṃ` has three word entries while the parallel in unit 28 has one | check print |
 | 04.13.14, 21, 28 | other | `ūrdha.stambhaṃ`, `daṃya.raśmi.haraṇe`, `smaghaṭṭane`, `prakośann` flagged; `adāne` (ādāne?); verse 28 `kāmam` | a person reads |
+
+## Layers, Part 03 (AI drafts, Sonnet 5.5 drafts and reviews; not read by a person)
+Open points for a person (reviews could not settle them; the glossary in layers-work/GLOSSARY.md records the choice made):
+- Closing section labels `iti X`: Book 3 renders "Such is X" (glossary 3.6 to 3.20, 5.x, 9.3); glossary 9.6 says not to render them. Needs one book-wide rule.
+- `vyavahāra`: "transaction" (3.1) against "dealings" (3.5, 3.12); `vṛddhi`: "interest" (3.11) against "increase" (3.9, 3.12); `prātibhāvya` Hindi ज़मानत (3.11) against प्रातिभाव्य (3.16); `jñāti`/`kulya` "kin"/"kinsman" in 3.2, 3.4, 3.13.
+- Added noun स्त्री beside bare feminine adjectives in the Hindi of 3.2 (about nine units); the glossary says not to supply it.
+- Obscure terms kept literal or untranslated, low confidence: tīrtha, śulka, ādhi, bandha (daśa-/pañca-), anuśaya, prakarman, upaliṅgana, pārañcika, ardha-sītika, saṃnidhāna-sannā, avara-ardhya.
+- Hindi "सीमा" added without brackets in 3.1.30 and 3.17.6 (lower/upper limit of a paṇa range).
+- Text typos only flagged as possible (not corrected): e.g. 3.1.13, 3.2.24, 3.4.8, 3.5.11, 3.5.33, 3.11.26, 3.12.11/21/34/50, 3.13.5/12/35/37, 3.14.28/34/37, 3.16.39, 3.17.5/6/10/12/13, 3.19.2/13/28, 3.20.5.

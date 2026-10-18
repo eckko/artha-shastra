@@ -1,0 +1,233 @@
+[
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "anyatra: glossary (5.2) gives 'except' for the case with a governed noun; here none is stated, so the plain 'elsewhere' (i.e. gambling outside the one-mouthed place of unit 1) is used; reviewer to align. gūḍha-ājīvin = 'living in concealment', literal; who they are (thieves, criminals) is not stated and not supplied. Hindi जुआ खेलने वाले renders dīvyataḥ.",
+  "new": "anyatra: glossary (5.2) gives 'except' for the case with a governed noun; here none is stated, so the plain 'elsewhere' (i.e. gambling outside the one-mouthed place of unit 1) is used; settled in glossary 3.20. gūḍha-ājīvin = 'living in concealment', literal; who they are (thieves, criminals) is not stated and not supplied. Hindi जुआ खेलने वाले renders dīvyataḥ.",
+  "why": "reviewer (minor): Stale drafter remark; the glossary now settles anyatra without a governed noun as 'elsewhere' (3.20)."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "closing marker",
+  "new": "closing particle",
+  "why": "reviewer (minor): Book 3 chapters gloss iti as 'closing particle'; 'closing marker' is the 9.6 wording."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "closing marker",
+  "new": "closing particle",
+  "why": "reviewer (minor): Same: Book 3 uses 'closing particle'."
+ },
+ {
+  "n": "6",
+  "field": "word.w",
+  "word": "ced",
+  "old": "ced",
+  "new": "cet",
+  "why": "reviewer (minor): w should be the dictionary form cet (sandhi undone), as in every earlier chapter (src ced -> w cet)."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "क्योंकि जुआरी प्रायः कपटी खिलाड़ी हैं।",
+  "new": "क्योंकि जुआरी प्रायः झूठे खिलाड़ी हैं।",
+  "why": "reviewer (minor): English says 'false players' but Hindi says deceitful (कपटी); false is झूठा/खोटा in the glossary (4.1, 4.9). Keeps the Hindi literal."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "काकणियों और पासों के अन्य को रखने पर दण्ड बारह पण का; कूट-कर्म में प्रथम साहस-दण्ड और जीते हुए को वापस लेना; और उपधि में चोरी का दण्ड।",
+  "new": "काकणियों और पासों के अन्य को रखने पर दण्ड बारह पण का; कूट-कर्म में प्रथम साहस-दण्ड, जीते हुए को वापस लेना; और उपधि में चोरी का दण्ड।",
+  "why": "reviewer (error): Added और: the Sanskrit has no ca between sāhasa-daṇḍaḥ and jita-pratyādānam (only the final ca after steya-daṇḍaḥ). Glossary 4.1: a conjunction absent from the Sanskrit is not added in Hindi."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "जीते हुए द्रव्य में से अध्यक्ष सैकड़े पाँच, काकणी, पासे, अराला और शलाका का किराया, तथा जल, भूमि और कर्म का क्रय ले।",
+  "new": "जीते हुए द्रव्य में से अध्यक्ष सैकड़े पाँच, काकणी, पासे, अराला, शलाका का किराया, तथा जल, भूमि, कर्म का क्रय ले।",
+  "why": "reviewer (minor): Dvandva of 4 and of 3 members: glossary 3.15 uses commas with no और for three or more members."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "[He] should make the pledge and the sale of the goods.",
+  "new": "[One] should make the pledge and the sale of the property.",
+  "why": "reviewer (minor): Glossary 3.10: a subjectless kuryāt keeps '[one]' in English; also dravya is 'property' in unit 10 but 'goods' here (same word, same chunk)."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "dravyāṇām",
+  "old": "of the goods",
+  "new": "of the property",
+  "why": "reviewer (minor): Align with unit 10 (dravya = property in 3.20)."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "और पासे, भूमि और हाथ के दोषों को न रोकने पर दण्ड दोगुना।",
+  "new": "और पासे, भूमि, हाथ के दोषों को न रोकने पर दण्ड दोगुना।",
+  "why": "reviewer (minor): Three-member dvandva: commas, no और (glossary 3.15). The first और is the real ca and stays."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "samāhvayaḥ",
+  "old": "samāhvaya (challenge)",
+  "new": "samāhvaya (literally 'calling together')",
+  "why": "reviewer (minor): 'challenge' is an interpretation; the term is kept untranslated, literal sense only in the gloss."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "daṇḍa (punctuation)",
+  "new": "verse-end mark",
+  "why": "reviewer (minor): Glossary and earlier chapters (ch02, ch03, ch09...) gloss the inline bar 'verse-end mark'."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "iti",
+  "old": "closing marker",
+  "new": "closing particle",
+  "why": "reviewer (minor): Book 3 wording is 'closing particle'; bare final iti stays unrendered (as ch07 unit 18)."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "Formula 'tena X vyākhyātaḥ' as in glossary 4.1. samāhvaya kept untranslated (literal 'calling together/challenge'), as the sense (wager contest) is not stated. anyatra + ablative = except (glossary 5.2). The final iti closes the section on gambling and is not rendered (no 'thus'); glossed 'closing marker'.",
+  "new": "Formula 'tena X vyākhyātaḥ' as in glossary 4.1. samāhvaya kept untranslated (literal 'calling together/challenge'), as the sense (wager contest) is not stated. anyatra + ablative = except (glossary 5.2). The final iti closes the section on gambling and is not rendered (no 'thus'); glossed 'closing particle'.",
+  "why": "reviewer (minor): Note must follow the gloss."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "By that the samāhvaya is explained, except the samāhvaya of knowledge and skill.",
+  "new": "By that, the samāhvaya is explained, except the samāhvaya of knowledge and skill.",
+  "why": "reviewer (minor): Formula (glossary 4.1): 'By that, X is explained'."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "किन्तु प्रकीर्णक—माँगे हुए, किराये पर लिए हुए, बन्धक रखे हुए और जमा रखे हुए के देश और काल के अनुसार न देने पर, अथवा पहर, छाया और साथ बैठने की व्यवस्थाओं के देश और काल का अतिक्रमण करने पर, ब्राह्मण से गुल्मतर-देय सिद्ध कराने वाले के लिए, और प्रतिवेश और अनुवेश के ऊपर निमन्त्रण करने पर बारह पण का दण्ड।",
+  "new": "किन्तु प्रकीर्णक—माँगे हुए, किराये पर लिए हुए, बन्धक रखे हुए, जमा रखे हुए के देश और काल के अनुसार न देने पर, अथवा पहर, छाया और साथ बैठने की व्यवस्थाओं के देश और काल का अतिक्रमण करने पर, ब्राह्मण से गुल्मतर-देय सिद्ध कराने वाले के लिए, और प्रतिवेश और अनुवेश के ऊपर निमन्त्रण करने पर बारह पण का दण्ड।",
+  "why": "reviewer (minor): Four-member dvandva: commas, no और (glossary 3.15)."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "किन्तु प्रकीर्णक—माँगे हुए, किराये पर लिए हुए, बन्धक रखे हुए, जमा रखे हुए के देश और काल के अनुसार न देने पर, अथवा पहर, छाया और साथ बैठने की व्यवस्थाओं के देश और काल का अतिक्रमण करने पर, ब्राह्मण से गुल्मतर-देय सिद्ध कराने वाले के लिए, और प्रतिवेश और अनुवेश के ऊपर निमन्त्रण करने पर बारह पण का दण्ड।",
+  "new": "किन्तु प्रकीर्णक—माँगे हुए, किराये पर लिए हुए, बन्धक रखे हुए, जमा रखे हुए के देश और काल के अनुसार न देने पर, अथवा पहर, छाया, साथ बैठने की व्यवस्थाओं के देश और काल का अतिक्रमण करने पर, ब्राह्मण से गुल्मतर-देय सिद्ध कराने वाले के लिए, और प्रतिवेश और अनुवेश के ऊपर निमन्त्रण करने पर बारह पण का दण्ड।",
+  "why": "reviewer (minor): Three-member dvandva: commas, no और."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "कुल-नीवी को ग्रहण करने वाले के अपव्यय में, स्वेच्छा से रहने वाली विधवा के पास बलपूर्वक जाने वाले के लिए, आर्य स्त्री को स्पर्श करने वाले चाण्डाल के लिए, विपत्ति में निकट वाले की ओर न दौड़ने वाले के लिए, बिना कारण दौड़कर जाने का कार्य करने वाले के लिए, शाक्य, आजीवक आदि वृषल प्रव्रजितों को देव और पितृ कार्यों में भोजन कराने वाले के लिए सौ का दण्ड।",
+  "new": "कुल-नीवी को ग्रहण करने वाले के अपव्यय में, स्वेच्छा से रहने वाली विधवा के पास बलपूर्वक जाने वाले के लिए, आर्य स्त्री को स्पर्श करने वाले चाण्डाल के लिए, विपत्ति में निकट वाले की ओर न दौड़ने वाले के लिए, बिना कारण दौड़ लगाने वाले के लिए, शाक्य, आजीवक आदि वृषल प्रव्रजितों को देव और पितृ कार्यों में भोजन कराने वाले के लिए सौ का दण्ड।",
+  "why": "reviewer (minor): Added noun कार्य (glossary 3.3: Hindi never adds a bare noun कार्य); 'doing a running toward' is the light verb kṛ + abhidhāvanam."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "शपथ-वाक्य का अनुमति रहित अनुयोग करने वाले के लिए, और अनियुक्त के द्वारा नियुक्त के कर्म के लिए, छोटे पशुओं और बैलों के पुंसत्व को नष्ट करने वाले के लिए, और दासी के गर्भ को औषधि से गिराने वाले के लिए प्रथम साहस-दण्ड।",
+  "new": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले के लिए, और अनियुक्त के द्वारा नियुक्त के कर्म के लिए, छोटे पशुओं और बैलों के पुंसत्व को नष्ट करने वाले के लिए, और दासी के गर्भ को औषधि से गिराने वाले के लिए प्रथम साहस-दण्ड।",
+  "why": "reviewer (minor): Glossary 4.8/4.7 (and the draft's own note): anuyoga of an inquiry = questioning (पूछताछ), not अनुयोग."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले के लिए, और अनियुक्त के द्वारा नियुक्त के कर्म के लिए, छोटे पशुओं और बैलों के पुंसत्व को नष्ट करने वाले के लिए, और दासी के गर्भ को औषधि से गिराने वाले के लिए प्रथम साहस-दण्ड।",
+  "new": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले के लिए, और नियुक्त का कर्म, अनियुक्त के लिए, छोटे पशुओं और बैलों के पुंसत्व को नष्ट करने वाले के लिए, और दासी के गर्भ को औषधि से गिराने वाले के लिए प्रथम साहस-दण्ड।",
+  "why": "reviewer (error): 'के द्वारा' makes the genitive ayuktasya an agent and invents a relation; the Sanskrit is verbless (English brackets [doing], Hindi must stay verbless)."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले के लिए, और नियुक्त का कर्म, अनियुक्त के लिए, छोटे पशुओं और बैलों के पुंसत्व को नष्ट करने वाले के लिए, और दासी के गर्भ को औषधि से गिराने वाले के लिए प्रथम साहस-दण्ड।",
+  "new": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले के लिए, और नियुक्त का कर्म, अनियुक्त के लिए, छोटे पशुओं और बैलों के पुंसत्व को क्षति पहुँचाने वाले के लिए, और दासी के गर्भ को औषधि से गिराने वाले के लिए प्रथम साहस-दण्ड।",
+  "why": "reviewer (minor): upaghātin = injuring, not destroying; Hindi stronger than the English 'injuring' (glossary 3.19 uses क्षति for damage)."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले के लिए, और नियुक्त का कर्म, अनियुक्त के लिए, छोटे पशुओं और बैलों के पुंसत्व को क्षति पहुँचाने वाले के लिए, और दासी के गर्भ को औषधि से गिराने वाले के लिए प्रथम साहस-दण्ड।",
+  "new": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले के लिए, और नियुक्त का कर्म, अनियुक्त के लिए, छोटे पशुओं और साँड़ों के पुंसत्व को क्षति पहुँचाने वाले के लिए, और दासी के गर्भ को औषधि से गिराने वाले के लिए प्रथम साहस-दण्ड।",
+  "why": "reviewer (minor): vṛṣa = bull; glossary 3.10 gives बैल for ukṣan (ox)."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "पिता-पुत्र, दम्पती, भाई-बहन, मामा-भानजे अथवा शिष्य-आचार्य के, परस्पर अपतित को त्यागने वाले के लिए; सार्थ के साथ निकले हुए को अथवा गाँव के बीच त्यागने वाले के लिए प्रथम साहस-दण्ड, बीहड़ वन में मध्यम, उसके निमित्त भ्रेष कराने वाले के लिए सर्वोच्च; साथ प्रस्थान करने वाले अन्य लोगों में आधे दण्ड।",
+  "new": "पिता-पुत्र, दम्पती, भाई-बहन, मामा-भानजे अथवा शिष्य-आचार्य के, परस्पर अपतित को त्यागने वाले के लिए; सार्थ के साथ निकले हुए को अथवा गाँव के बीच त्यागने वाले के लिए प्रथम साहस-दण्ड, बीहड़ वन में मध्यम, उसके निमित्त भ्रेष कराने वाले के लिए सर्वोच्च; साथ प्रस्थान करने वाले अन्यों में आधे दण्ड।",
+  "why": "reviewer (error): Added noun लोग (glossary 3.18: Hindi never adds लोग)."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "पिता-पुत्र, दम्पती, भाई-बहन, मामा-भानजे अथवा शिष्य-आचार्य के, परस्पर अपतित को त्यागने वाले के लिए; सार्थ के साथ निकले हुए को अथवा गाँव के बीच त्यागने वाले के लिए प्रथम साहस-दण्ड, बीहड़ वन में मध्यम, उसके निमित्त भ्रेष कराने वाले के लिए सर्वोच्च; साथ प्रस्थान करने वाले अन्यों में आधे दण्ड।",
+  "new": "पिता और पुत्र, दम्पती, भाई और बहन, मामा और भानजे अथवा शिष्य और आचार्य के, परस्पर अपतित को त्यागने वाले के लिए; सार्थ के साथ निकले हुए को अथवा गाँव के बीच त्यागने वाले के लिए प्रथम साहस-दण्ड, बीहड़ वन में मध्यम, उसके निमित्त भ्रेष कराने वाले के लिए सर्वोच्च; साथ प्रस्थान करने वाले अन्यों में आधे दण्ड।",
+  "why": "reviewer (minor): Two-member dvandvas take और in Hindi (glossary 3.15; ch19 review), not a hyphen."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "न बाँधने योग्य पुरुष को बाँधने वाले या बँधवाने वाले के लिए, अथवा बन्ध को छुड़वाने वाले के लिए, व्यवहार को प्राप्त न हुए बालक को बाँधने वाले या बँधवाने वाले के लिए एक हज़ार का दण्ड।",
+  "new": "न बाँधने योग्य पुरुष को बाँधने वाले, बँधवाने वाले के लिए, अथवा बन्ध को छुड़वाने वाले के लिए, व्यवहार को प्राप्त न हुए बालक को बाँधने वाले या बँधवाने वाले के लिए एक हज़ार का दण्ड।",
+  "why": "reviewer (error): Added या: in the first clause the Sanskrit has one vā only, after bandham (badhnato bandhayato bandhaṃ vā mokṣayato). The second clause has its own vā and keeps या."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "For one binding or causing to bind a man not to be bound, or causing release of a bond; for one binding or causing to bind a child who has not reached dealings — the penalty [is] a thousand.",
+  "new": "For one binding, causing to bind a man not to be bound, or causing release of a bond; for one binding or causing to bind a child who has not reached dealings — the penalty [is] a thousand.",
+  "why": "reviewer (error): Same: the first 'or' has no Sanskrit word."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "पुरुष और अपराध की विशेषता से दण्ड की विशेषता की जानी चाहिए।",
+  "new": "पुरुष और अपराध के अन्तर से दण्ड का अन्तर किया जाना चाहिए।",
+  "why": "reviewer (minor): विशेषता = special quality; the English is 'difference' and 'विशेषता की जानी चाहिए' is not Hindi usage."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "तीर्थ-कर, तपस्वी, रोगी, भूख, प्यास और मार्ग से थका हुआ, पार के जनपद का, दण्ड से पीड़ित और अकिंचन अनुग्रह के योग्य हैं।",
+  "new": "तीर्थ-कर, तपस्वी, रोगी, भूख, प्यास, मार्ग से थका हुआ, पार के जनपद का, दण्ड से पीड़ित और अकिंचन अनुग्रह के योग्य हैं।",
+  "why": "reviewer (minor): Three-member dvandva: commas, no और (glossary 3.15)."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "देव, ब्राह्मण, तपस्वी, स्त्री, बालक, वृद्ध, रोगी, अनाथों, पास न आने वालों के कार्य धर्मस्थ करें, और देश, काल और उपभोग के बहाने से टालें नहीं।",
+  "new": "देव, ब्राह्मण, तपस्वी, स्त्री, बालक, वृद्ध, रोगी, अनाथों, पास न आने वालों के कार्य धर्मस्थ करें, और देश, काल, उपभोग के बहाने से टालें नहीं।",
+  "why": "reviewer (minor): Three-member dvandva: commas, no और."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "देव, ब्राह्मण, तपस्वी, स्त्री, बालक, वृद्ध, रोगी, अनाथों, पास न आने वालों के कार्य धर्मस्थ करें, और देश, काल, उपभोग के बहाने से टालें नहीं।",
+  "new": "देव, ब्राह्मण, तपस्वी, स्त्री, बालक, वृद्ध, रोगी, अनाथों, पास न आने वालों के कार्य धर्मस्थ करें, और देश, काल, उपभोग के बहाने से लाँघें नहीं।",
+  "why": "reviewer (minor): टालना = put off/avoid, a sense the draft's own note says is not applied; English is the literal 'pass over'."
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "और विद्या, बुद्धि, पौरुष, कुल और कर्म की अधिकता के कारण पुरुष पूजनीय हैं।",
+  "new": "और विद्या, बुद्धि, पौरुष, कुल, कर्म की अधिकता के कारण पुरुष पूजनीय हैं।",
+  "why": "reviewer (minor): Five-member dvandva: commas, no और before the last member (the initial और is the real ca)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "ऐसे धर्मस्थ छल रहित दृष्टि वाले, सब भावों में सम, विश्वास के योग्य, लोक के प्रिय, कार्य करें।",
+  "new": "इस प्रकार धर्मस्थ छल रहित दृष्टि वाले, सब भावों में सम, विश्वास के योग्य, लोक के प्रिय, कार्य करें।",
+  "why": "reviewer (minor): evam is an adverb ('in this way'); ऐसे धर्मस्थ reads 'such dharmasthas'."
+ }
+]

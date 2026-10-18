@@ -1,0 +1,608 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "reviewer to align",
+     "problem": "Stale drafter remark; the glossary now settles anyatra without a governed noun as 'elsewhere' (3.20).",
+     "fix": "...is used; aligned with glossary 3.20.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "notes",
+      "old": "is used; reviewer to align.",
+      "new": "is used; settled in glossary 3.20."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "\"dyūta.abhiyoge",
+     "problem": "False flag: the opening quote is closed in unit 4 (kṣamate\" ity ācāryāḥ), and the raw e-text shows both marks. A quote spanning units is not a text_flag (glossary 3.17). Patch ops cannot delete a flag: hand edit.",
+     "fix": "Delete the whole text_flags entry of unit 3 (set text_flags to []). The GROUPING note stays.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "Book 3 chapters gloss iti as 'closing particle'; 'closing marker' is the 9.6 wording.",
+     "fix": "closing particle",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing particle"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "Same: Book 3 uses 'closing particle'.",
+     "fix": "closing particle",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing particle"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "ced",
+     "problem": "w should be the dictionary form cet (sandhi undone), as in every earlier chapter (src ced -> w cet).",
+     "fix": "cet",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "ced",
+      "field": "w",
+      "value": "cet"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कपटी खिलाड़ी",
+     "problem": "English says 'false players' but Hindi says deceitful (कपटी); false is झूठा/खोटा in the glossary (4.1, 4.9). Keeps the Hindi literal.",
+     "fix": "क्योंकि जुआरी प्रायः झूठे खिलाड़ी हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कपटी खिलाड़ी",
+      "new": "झूठे खिलाड़ी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रथम साहस-दण्ड और जीते हुए को वापस लेना",
+     "problem": "Added और: the Sanskrit has no ca between sāhasa-daṇḍaḥ and jita-pratyādānam (only the final ca after steya-daṇḍaḥ). Glossary 4.1: a conjunction absent from the Sanskrit is not added in Hindi.",
+     "fix": "कूट-कर्म में प्रथम साहस-दण्ड, जीते हुए को वापस लेना;",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रथम साहस-दण्ड और जीते हुए को वापस लेना",
+      "new": "प्रथम साहस-दण्ड, जीते हुए को वापस लेना"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अराला और शलाका ... जल, भूमि और कर्म",
+     "problem": "Dvandva of 4 and of 3 members: glossary 3.15 uses commas with no और for three or more members.",
+     "fix": "काकणी, पासे, अराला, शलाका का किराया, तथा जल, भूमि, कर्म का क्रय",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "काकणी, पासे, अराला और शलाका का किराया, तथा जल, भूमि और कर्म का क्रय",
+      "new": "काकणी, पासे, अराला, शलाका का किराया, तथा जल, भूमि, कर्म का क्रय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "[He] should make",
+     "problem": "Glossary 3.10: a subjectless kuryāt keeps '[one]' in English; also dravya is 'property' in unit 10 but 'goods' here (same word, same chunk).",
+     "fix": "[One] should make the pledge and the sale of the property.",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "[He] should make the pledge and the sale of the goods.",
+      "new": "[One] should make the pledge and the sale of the property."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dravyāṇām",
+     "problem": "Align with unit 10 (dravya = property in 3.20).",
+     "fix": "of the property",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "dravyāṇām",
+      "field": "gloss",
+      "value": "of the property"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पासे, भूमि और हाथ",
+     "problem": "Three-member dvandva: commas, no और (glossary 3.15). The first और is the real ca and stays.",
+     "fix": "और पासे, भूमि, हाथ के दोषों को न रोकने पर दण्ड दोगुना।",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पासे, भूमि और हाथ",
+      "new": "पासे, भूमि, हाथ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "samāhvaya (challenge)",
+     "problem": "'challenge' is an interpretation; the term is kept untranslated, literal sense only in the gloss.",
+     "fix": "samāhvaya (literally 'calling together')",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "samāhvayaḥ",
+      "field": "gloss",
+      "value": "samāhvaya (literally 'calling together')"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "| (daṇḍa (punctuation))",
+     "problem": "Glossary and earlier chapters (ch02, ch03, ch09...) gloss the inline bar 'verse-end mark'.",
+     "fix": "verse-end mark",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "|",
+      "field": "gloss",
+      "value": "verse-end mark"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "iti",
+     "problem": "Book 3 wording is 'closing particle'; bare final iti stays unrendered (as ch07 unit 18).",
+     "fix": "closing particle",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "iti",
+      "field": "gloss",
+      "value": "closing particle"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "glossed 'closing marker'",
+     "problem": "Note must follow the gloss.",
+     "fix": "glossed 'closing particle'",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "notes",
+      "old": "glossed 'closing marker'",
+      "new": "glossed 'closing particle'"
+     }
+    },
+    {
+     "field": "english",
+     "where": "By that the samāhvaya",
+     "problem": "Formula (glossary 4.1): 'By that, X is explained'.",
+     "fix": "By that, the samāhvaya is explained, except the samāhvaya of knowledge and skill.",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "By that the samāhvaya is explained",
+      "new": "By that, the samāhvaya is explained"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "|",
+     "problem": "Not a typo: the raw e-text writes the daṇḍa as ASCII '|' in every verse ('... | 13 |'), and ch07 unit 18 has the same 'krītaḥ | iti'. Patch ops cannot delete a flag: hand edit.",
+     "fix": "Delete the text_flags entry of unit 13 (set to []).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बन्धक रखे हुए और जमा रखे हुए",
+     "problem": "Four-member dvandva: commas, no और (glossary 3.15).",
+     "fix": "बन्धक रखे हुए, जमा रखे हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बन्धक रखे हुए और जमा रखे हुए",
+      "new": "बन्धक रखे हुए, जमा रखे हुए"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पहर, छाया और साथ बैठने",
+     "problem": "Three-member dvandva: commas, no और.",
+     "fix": "पहर, छाया, साथ बैठने",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पहर, छाया और साथ बैठने",
+      "new": "पहर, छाया, साथ बैठने"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दौड़कर जाने का कार्य करने वाले",
+     "problem": "Added noun कार्य (glossary 3.3: Hindi never adds a bare noun कार्य); 'doing a running toward' is the light verb kṛ + abhidhāvanam.",
+     "fix": "बिना कारण दौड़ लगाने वाले के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बिना कारण दौड़कर जाने का कार्य करने वाले के लिए",
+      "new": "बिना कारण दौड़ लगाने वाले के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अनुयोग",
+     "problem": "Glossary 4.8/4.7 (and the draft's own note): anuyoga of an inquiry = questioning (पूछताछ), not अनुयोग.",
+     "fix": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शपथ-वाक्य का अनुमति रहित अनुयोग करने वाले",
+      "new": "शपथ-वाक्य की अनुमति रहित पूछताछ करने वाले"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनियुक्त के द्वारा नियुक्त के कर्म के लिए",
+     "problem": "'के द्वारा' makes the genitive ayuktasya an agent and invents a relation; the Sanskrit is verbless (English brackets [doing], Hindi must stay verbless).",
+     "fix": "और नियुक्त का कर्म, अनियुक्त के लिए",
+     "severity": "error",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और अनियुक्त के द्वारा नियुक्त के कर्म के लिए",
+      "new": "और नियुक्त का कर्म, अनियुक्त के लिए"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पुंसत्व को नष्ट करने वाले",
+     "problem": "upaghātin = injuring, not destroying; Hindi stronger than the English 'injuring' (glossary 3.19 uses क्षति for damage).",
+     "fix": "पुंसत्व को क्षति पहुँचाने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुंसत्व को नष्ट करने वाले",
+      "new": "पुंसत्व को क्षति पहुँचाने वाले"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बैलों",
+     "problem": "vṛṣa = bull; glossary 3.10 gives बैल for ukṣan (ox).",
+     "fix": "छोटे पशुओं और साँड़ों",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "hindi",
+      "old": "छोटे पशुओं और बैलों",
+      "new": "छोटे पशुओं और साँड़ों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अन्य लोगों में",
+     "problem": "Added noun लोग (glossary 3.18: Hindi never adds लोग).",
+     "fix": "साथ प्रस्थान करने वाले अन्यों में आधे दण्ड।",
+     "severity": "error",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्य लोगों में",
+      "new": "अन्यों में"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पिता-पुत्र, ... भाई-बहन, मामा-भानजे ... शिष्य-आचार्य",
+     "problem": "Two-member dvandvas take और in Hindi (glossary 3.15; ch19 review), not a hyphen.",
+     "fix": "पिता और पुत्र, दम्पती, भाई और बहन, मामा और भानजे अथवा शिष्य और आचार्य के",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पिता-पुत्र, दम्पती, भाई-बहन, मामा-भानजे अथवा शिष्य-आचार्य के",
+      "new": "पिता और पुत्र, दम्पती, भाई और बहन, मामा और भानजे अथवा शिष्य और आचार्य के"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बाँधने वाले या बँधवाने वाले के लिए, अथवा बन्ध",
+     "problem": "Added या: in the first clause the Sanskrit has one vā only, after bandham (badhnato bandhayato bandhaṃ vā mokṣayato). The second clause has its own vā and keeps या.",
+     "fix": "न बाँधने योग्य पुरुष को बाँधने वाले, बँधवाने वाले के लिए, अथवा बन्ध को छुड़वाने वाले के लिए",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुरुष को बाँधने वाले या बँधवाने वाले के लिए, अथवा",
+      "new": "पुरुष को बाँधने वाले, बँधवाने वाले के लिए, अथवा"
+     }
+    },
+    {
+     "field": "english",
+     "where": "For one binding or causing to bind a man",
+     "problem": "Same: the first 'or' has no Sanskrit word.",
+     "fix": "For one binding, causing to bind a man not to be bound, or causing release of a bond;",
+     "severity": "error",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "english",
+      "old": "For one binding or causing to bind a man",
+      "new": "For one binding, causing to bind a man"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विशेषता",
+     "problem": "विशेषता = special quality; the English is 'difference' and 'विशेषता की जानी चाहिए' is not Hindi usage.",
+     "fix": "पुरुष और अपराध के अन्तर से दण्ड का अन्तर किया जाना चाहिए।",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुरुष और अपराध की विशेषता से दण्ड की विशेषता की जानी चाहिए।",
+      "new": "पुरुष और अपराध के अन्तर से दण्ड का अन्तर किया जाना चाहिए।"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "भूख, प्यास और मार्ग",
+     "problem": "Three-member dvandva: commas, no और (glossary 3.15).",
+     "fix": "भूख, प्यास, मार्ग से थका हुआ",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भूख, प्यास और मार्ग",
+      "new": "भूख, प्यास, मार्ग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "देश, काल और उपभोग",
+     "problem": "Three-member dvandva: commas, no और.",
+     "fix": "देश, काल, उपभोग के बहाने से",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "देश, काल और उपभोग",
+      "new": "देश, काल, उपभोग"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "टालें नहीं",
+     "problem": "टालना = put off/avoid, a sense the draft's own note says is not applied; English is the literal 'pass over'.",
+     "fix": "लाँघें नहीं",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "टालें नहीं",
+      "new": "लाँघें नहीं"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कुल और कर्म",
+     "problem": "Five-member dvandva: commas, no और before the last member (the initial और is the real ca).",
+     "fix": "और विद्या, बुद्धि, पौरुष, कुल, कर्म की अधिकता के कारण पुरुष पूजनीय हैं।",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पौरुष, कुल और कर्म",
+      "new": "पौरुष, कुल, कर्म"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ऐसे धर्मस्थ",
+     "problem": "evam is an adverb ('in this way'); ऐसे धर्मस्थ reads 'such dharmasthas'.",
+     "fix": "इस प्रकार धर्मस्थ छल रहित दृष्टि वाले, ...",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऐसे धर्मस्थ",
+      "new": "इस प्रकार धर्मस्थ"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Chunk 1 of 3.20 (24 units) reviewed against the Sanskrit, the raw e-text and GLOSSARY.md (to line 275). Splits, '.'/'-' entry convention, case labels and roots are sound; the draft is faithful and cautious on the obscure items (units 9, 10, 14-19 stay literal, confidence low is honest). 5 error, 29 minor in 21 units; 32 machine patches. Errors: added और/या/लोग or an invented relation in Hindi (units 9, 17, 18, 19; in 19 also the English). Recurring minors: Hindi dvandva punctuation per glossary 3.15 (comma without और for 3+ members, और for 2), iti gloss 'closing particle' (Book 3 wording), ced -> cet. Hand edits needed (patch ops cannot do them): delete text_flags of unit 3 (quote spans units 3-4) and of unit 13 (ASCII '|' is the e-text's own danda, in every verse of the raw); keep the unit 5 flag (na-ity occurs only here and at 8.3.42 against about 250 na-iti). No missing text_flag and no word-entry fix found. Open for a person: kulya left untranslated in unit 15 although the glossary says kinsman; atiśaya = 'excess' (15.1) reads oddly in unit 23; vṛṣāṇām reading in unit 17. No unit needs regrouping (3-4 already marked as one quoted view)."
+}
