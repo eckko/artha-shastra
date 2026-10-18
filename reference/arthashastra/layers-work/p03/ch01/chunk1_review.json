@@ -1,0 +1,626 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तीन अमात्य जनपद",
+     "problem": "Missing comma lets 'अमात्य जनपद' read as one phrase.",
+     "fix": "तीन अमात्य, जनपद, सन्धि",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीन अमात्य जनपद, सन्धि",
+      "new": "तीन अमात्य, जनपद, सन्धि",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ca",
+     "problem": "The Sanskrit ca is dropped in the Hindi (the note admits it); ca = 'and/also' must be rendered.",
+     "fix": "और छिपाकर, घर के भीतर",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "छिपाकर, घर के भीतर",
+      "new": "और छिपाकर, घर के भीतर",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अचेत न हुई चेतना",
+     "problem": "'अचेत' means unconscious, which is not amūḍha (unconfused); the phrase is also redundant.",
+     "fix": "भ्रमित न हुई चेतना वाले रोगियों",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अचेत न हुई चेतना वाले रोगियों",
+      "new": "भ्रमित न हुई चेतना वाले रोगियों",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "राजा के नियोग",
+     "problem": "Hindi नियोग means levirate, which misleads for rāja-niyoga (royal appointment/assignment).",
+     "fix": "राजा की नियुक्ति से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "राजा के नियोग से",
+      "new": "राजा की नियुक्ति से",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "samavāya",
+     "problem": "samavāya = association (same word rendered 'partnership' in unit 25); align on 'association'.",
+     "fix": "In a mutual association",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "In a mutual gathering",
+      "new": "In a mutual association",
+      "n": "11"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "align with English fix",
+     "fix": "in a mutual association",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mithaḥ-samavāye",
+      "field": "gloss",
+      "value": "in a mutual association",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्यवहार की अवस्था",
+     "problem": "Hindi adds 'अवस्था' (stage), which implies an age/capacity sense the notes say is not stated.",
+     "fix": "जिसने व्यवहार को प्राप्त नहीं किया",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसने व्यवहार की अवस्था प्राप्त नहीं की",
+      "new": "जिसने व्यवहार को प्राप्त नहीं किया",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "avagṛhītena",
+     "problem": "जकड़ना = bind tightly; the English/gloss is 'seized' (पकड़ा हुआ).",
+     "fix": "पकड़े हुए",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जकड़े हुए",
+      "new": "पकड़े हुए",
+      "n": "13"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "mattena.unmattena-avagṛhītena",
+     "problem": "Missing text_flag: first member of the '.'-compound is inflected (mattena), unlike a real compound; likely a slip for 'matta.unmatta-avagṛhītena' or '-' for '.'. The draft's w 'matta-unmattena' matches neither the print nor the stem pattern.",
+     "fix": "Add flag {src:'mattena.unmattena-avagṛhītena', suggest:'matta.unmatta-avagṛhītena', why:'possible: inflected first member inside a compound'}; set words to mattena (by the intoxicated), unmattena (by the mad), avagṛhītena, or keep dvandva matta-unmatta + avagṛhītena",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "instigators",
+     "problem": "kārayitṛ is 'one who has it done' (unit 3); 'instigator' is an interpretation, and the note wrongly says it appears only in the gloss.",
+     "fix": "For doers, those who have it done [and] hearers",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "For doers, instigators [and] hearers",
+      "new": "For doers, those who have it done [and] hearers",
+      "n": "14"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "align with unit 3",
+     "fix": "of doers, those who have it done, hearers",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kartṛ-kārayitṛ-śrotṝṇām",
+      "field": "gloss",
+      "value": "of doers, those who have it done, hearers",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ādhi",
+     "problem": "Hindi आधि means mental distress; English says 'pledge' and unit 36 Hindi uses बन्धक.",
+     "fix": "आदेश और बन्धक",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आदेश और आधि",
+      "new": "आदेश और बन्धक",
+      "n": "16"
+     }
+    },
+    {
+     "field": "split",
+     "where": "| and 16 tokens",
+     "problem": "Embedded '| 16 |' is given three ordinary word entries ('separator bar', 'verse number 16'). These are not words; they should not appear as lexical items.",
+     "fix": "Keep the three tokens (src must match) but set w to '|' / '16' / '|' with gloss 'verse-number marker (not a word)' and gram 'punct.' (or empty words if the checker accepts), and keep the text_flag. The closing 'iti vyavahāra-sthāpanā' is handled correctly as 'Such is the laying down of vyavahāra' (3.7 rule).",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "kṛta-samartha-avasthayoḥ",
+     "problem": "Ungrammatical Hindi, and 'तथा' joins two members that the Sanskrit compounds without ca.",
+     "fix": "जिनकी अवस्था कृत-समर्थ है",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिनकी अवस्था किया हुआ तथा समर्थ है",
+      "new": "जिनकी अवस्था कृत-समर्थ है",
+      "n": "17"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "gram",
+     "problem": "The first two members are a dvandva (plaintiff and defendant), then tat-puruṣa with praśna.",
+     "fix": "dvandva + tat-puruṣa, m. acc. pl.",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vādi-prativādi-praśnān",
+      "field": "gram",
+      "value": "dvandva + tat-puruṣa, m. acc. pl.",
+      "n": "17"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "paścimena arthena",
+     "problem": "artha is 'matter' (English 'the later matter', Hindi elsewhere विषय); कथन = statement is a different word.",
+     "fix": "बाद के विषय से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बाद के कथन से",
+      "new": "बाद के विषय से",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "wages",
+     "problem": "puruṣa-bhṛti 'wages' (Hindi मज़दूरी): glossary 4.1 avoids 'wage' for vetana; bhṛti is a different word but 'hire' would be safer.",
+     "fix": "Optional: 'hire of men' / भृति; not patched.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "pathi",
+     "problem": "pathi is locative ('on the road'), Hindi का is genitive.",
+     "fix": "मार्ग में भोजन",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मार्ग का भोजन",
+      "new": "मार्ग में भोजन",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "samavāya",
+     "problem": "'partnership' is an interpretation; samavāya = association (see unit 11).",
+     "fix": "caravan-association",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "caravan-partnership",
+      "new": "caravan-association",
+      "n": "25"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "align with English fix",
+     "fix": "quarrel, rashness, caravan-association",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kalaha-sāhasa-sārtha-samavāyebhyaḥ",
+      "field": "gloss",
+      "value": "quarrel, rashness, caravan-association",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "tad-ahar eva",
+     "problem": "eva is already carried by 'उसी'; the extra ही doubles it (an unmarked added word).",
+     "fix": "उसी दिन",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसी दिन ही",
+      "new": "उसी दिन",
+      "n": "27"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सीमा",
+     "problem": "Hindi inserts 'सीमा' (limit) without bracket where English brackets [limit]; avara-ardhya is not understood.",
+     "fix": "A person should decide: either Hindi 'तीन पण से निम्न, बारह पण से अधिक' kept literal or leave as is.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "karma",
+     "problem": "Settled: karma = work in 3.1.35 and 37 (labour-service in repayment, as 5.3); the general default 'action' stays for 3.1.17 karmāṇi. Hindi stays कर्म. No change needed in the draft.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "kāmam",
+     "problem": "'अपनी' (his own) is added; the Sanskrit says only 'at will'.",
+     "fix": "वह इच्छानुसार",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह अपनी इच्छा से",
+      "new": "वह इच्छानुसार",
+      "n": "36"
+     }
+    }
+   ]
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "dhṛtaḥ",
+     "problem": "English 'imposed' vs Hindi 'धारण किया गया' (held): dhṛta = held/borne; 'imposed' is an interpretation.",
+     "fix": "[when] held equally",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "[when] imposed equally",
+      "new": "[when] held equally",
+      "n": "42"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "align",
+     "fix": "held",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dhṛtaḥ",
+      "field": "gloss",
+      "value": "held",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "vā",
+     "problem": "The particle vā in 'catur-antāṃ vā mahīm' is dropped from both translations (note says emphatic).",
+     "fix": "Person to decide: add 'even' or 'or' or leave as is.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "Gloss 'in some [respect]' contradicts the translation and the m. inst. label, which take kenacit as 'some' qualifying nyāyena.",
+     "fix": "some (with nyāyena)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kenacit",
+      "field": "gloss",
+      "value": "some (with nyāyena)",
+      "n": "45"
+     }
+    }
+   ]
+  },
+  {
+   "n": "46",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "47",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "cāra",
+     "problem": "English keeps cāra untranslated and the note says spy/guard/prison are all possible; Hindi चर ('moving/spy') fixes a sense.",
+     "fix": "चार के हाथ से",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "चर के हाथ से",
+      "new": "चार के हाथ से",
+      "n": "47"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 47 units (3.1.1-47). Sandhi, case labels and roots are largely sound; '.'/'-' convention is respected in every token (checked by script). 29 issues (1 error, 28 minor), 23 with machine patches. Main fixes: dropped ca in unit 2 Hindi; Hindi false friends (नियोग, आधि, चर, अचेत, जकड़े); added words (ही in 27, अवस्था in 12, अपनी in 36); 'instigator' for kārayitṛ; samavāya and dhṛta aligned. karma in 35/37 settled as 'work'. No regrouping suggested (unit 16 carries an embedded '| 16 |' and a section label, handled in notes). Hand edits: unit 13 words+text_flag, unit 16 punctuation word entries. All AI draft until a person reads it."
+}
