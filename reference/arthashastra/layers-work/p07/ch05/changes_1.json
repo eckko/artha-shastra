@@ -1,0 +1,322 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "पड़ोसी सामन्तों के समान व्यसन में “जिस पर चढ़ाई करनी हो, या अमित्र?” — अमित्र पर चढ़ाई करे; उसकी सिद्धि होने पर जिस पर चढ़ाई करनी हो उसे।",
+  "new": "पड़ोसी सामन्तों के समान व्यसन में “जिस पर चढ़ाई करनी हो, या अमित्र?” — अमित्र पर चढ़ाई करे; उसकी सिद्धि होने पर जिस पर चढ़ाई करनी हो।",
+  "why": "reviewer (minor): 'उसे' is an added pronoun with no Sanskrit word (the clause is verbless)"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "For, on the success regarding the enemy, the one to be marched against may give assistance; not the enemy, on the success regarding the one to be marched against.",
+  "new": "For, on the success of the enemy, the one to be marched against may give assistance; not the enemy, on the success regarding the one to be marched against.",
+  "why": "reviewer (minor): 'success regarding' is an interpretive word; the compound is a genitive tat-puruṣa, Hindi already reads 'की सिद्धि'"
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "For, on the success of the enemy, the one to be marched against may give assistance; not the enemy, on the success regarding the one to be marched against.",
+  "new": "For, on the success of the enemy, the one to be marched against may give assistance; not the enemy, on the success of the one to be marched against.",
+  "why": "reviewer (minor): 'success regarding' is an interpretive word; the compound is a genitive tat-puruṣa, Hindi already reads 'की सिद्धि'"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "amitra-siddhau",
+  "old": "on the success regarding the enemy",
+  "new": "on the success of the enemy",
+  "why": "reviewer (minor): 'success regarding' is an interpretive word; the compound is a genitive tat-puruṣa, Hindi already reads 'की सिद्धि'"
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "yātavya-siddhau",
+  "old": "on the success regarding the one to be marched against",
+  "new": "on the success of the one to be marched against",
+  "why": "reviewer (minor): 'success regarding' is an interpretive word; the compound is a genitive tat-puruṣa, Hindi already reads 'की सिद्धि'"
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "amitra-siddhau / yātavya-siddhau: literally 'in the success of the enemy / of the one to be marched against'; the sense is probably success of the operation against him, the alternative being the success of that party itself. Gloss 'success regarding' keeps both open. The verb 'give assistance' is not repeated in the last clause (elided).",
+  "new": "amitra-siddhau / yātavya-siddhau: literally 'in the success of the enemy / of the one to be marched against'; the sense is probably success of the operation against him, the alternative being the success of that party itself. Gloss 'success regarding' keeps both open. The verb 'give assistance' is not repeated in the last clause (elided). Review: gloss and English now read literally 'success of'; the reading 'success of the operation against him' stays in this note only.",
+  "why": "reviewer (minor): 'success regarding' is an interpretive word; the compound is a genitive tat-puruṣa, Hindi already reads 'की सिद्धि'"
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "When there are several to be marched against at once: ‘the one with a heavy calamity [and] of just conduct, the one with a light calamity [and] of unjust conduct, or the one with disaffected constituent elements?’ — [one] should march against the one with disaffected constituent elements.",
+  "new": "In the simultaneity of those to be marched against: ‘the one with a heavy calamity [and] of just conduct, the one with a light calamity [and] of unjust conduct, or the one with disaffected constituent elements?’ — [one] should march against the one with disaffected constituent elements.",
+  "why": "reviewer (minor): 'there are' and 'several' are unmarked additions (yātavya is singular in the compound; yaugapadye = in the simultaneity)"
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "The constituent elements support the one with a heavy calamity [and] of just conduct who is attacked; they neglect the one with a light calamity [and] of unjust conduct; [when] disaffected, they cut off even the strong one.",
+  "new": "The constituent elements support the one with a heavy calamity [and] of just conduct who is attacked; they neglect the one with a light calamity [and] of unjust conduct; the disaffected [ones] cut off even the strong one.",
+  "why": "reviewer (minor): 'viraktā' is the subject (f. nom. pl.), not a temporal clause; Hindi has it as subject"
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "“‘क्षीण और लुब्ध प्रकृतियों वाला, या अपचरित प्रकृतियों वाला?’ — क्षीण और लुब्ध प्रकृतियों वाले पर चढ़ाई करे, क्योंकि क्षीण और लुब्ध प्रकृतियाँ सरलता से उपजाप या पीड़ा को प्राप्त होती हैं; अपचरित नहीं, प्रधान को रोकने से साध्य।” ऐसा आचार्य कहते हैं।",
+  "new": "“‘क्षीण और लुब्ध प्रकृतियों वाला, या अपचरित प्रकृतियों वाला?’ — क्षीण और लुब्ध प्रकृतियों वाले पर चढ़ाई करे, क्योंकि क्षीण और लुब्ध प्रकृतियाँ सरलता से उपजाप या पीड़ा को प्राप्त होती हैं; अपचरित नहीं, प्रधानों को रोकने से साध्य।” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (minor): English has 'the chiefs' (plural) but Hindi singular; pradhāna-avagraha is the same compound as in unit 35 and number is open"
+ },
+ {
+  "n": "12",
+  "field": "notes",
+  "old": "apacarita (ppp. apa-√car) is rendered 'wronged'; the alternative is 'gone wrong / misbehaving', and the sense is doubtful. kṣīṇa = diminished (impoverished in the sense of the commentators, in notes only). Construction of 'na apacaritāḥ pradhāna-avagraha-sādhyāḥ' is uncertain: na may negate the preceding verb ('the wronged ones do not easily come to instigation or affliction; they are to be accomplished by restraining the chiefs'). Kept literal. Hindi has the outer quotation closing only because the e-text does (no opening printed).",
+  "new": "apacarita (ppp. apa-√car) is rendered 'wronged'; the alternative is 'gone wrong / misbehaving', and the sense is doubtful. kṣīṇa = diminished (impoverished in the sense of the commentators, in notes only). Construction of 'na apacaritāḥ pradhāna-avagraha-sādhyāḥ' is uncertain: na may negate the preceding verb ('the wronged ones do not easily come to instigation or affliction; they are to be accomplished by restraining the chiefs'). Kept literal. Hindi has the outer quotation closing only because the e-text does (no opening printed). Review: English 'wronged' and Hindi अपचरित (kept as the term) differ; the sense (wronged / gone wrong, glossary 4.12 'go wrong') is a person's decision. The closing quote has no opening mark in the e-text; the flag stands (opening before kṣīṇa, since units 9-11 are Kautilya's own statement).",
+  "why": "reviewer (minor): English translates apacarita 'wronged' while Hindi leaves अपचरित untranslated; glossary 4.12 has apa-√car = go wrong, so 'wronged' is a chosen sense. Left for a person; recorded in GLOSSARY (7.5). Same in units 12 and 15."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "क्योंकि सज्जनों के अपमान और असज्जनों के प्रग्रह से, और अभूत, अधर्म्य हिंसाओं के प्रवर्तन से,",
+  "new": "क्योंकि सज्जनों के अपमान और असज्जनों के प्रग्रह से, और अभूतपूर्व, धर्म-विरुद्ध हिंसाओं के प्रवर्तन से,",
+  "why": "reviewer (minor): Hindi leaves abhūta and adharmya as bare Sanskrit while English translates them (unprecedented, unlawful); अभूत is not standard Hindi"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "For through contempt of the good and favouring of the bad, and through the practices of unprecedented, unlawful acts of violence,",
+  "new": "For through contempt of the good and favouring of the bad, and through the setting in motion of unprecedented, unlawful acts of violence,",
+  "why": "reviewer (minor): pravartana is 'setting in motion / initiating'; 'practices' is a loose sense"
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "pravartanaiḥ",
+  "old": "by practices",
+  "new": "by setting in motion",
+  "why": "reviewer (minor): pravartana is 'setting in motion / initiating'; 'practices' is a loose sense"
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "by stopping the customary, most righteous practices, by indulgence in unrighteousness, and by obstruction of dharma,",
+  "new": "by stopping the customary, most righteous practices, by indulgence in unrighteousness, and by restraint of dharma,",
+  "why": "reviewer (minor): avagraha is 'restraining' in units 12 and 35 (glossary 5.6 avagrāhayet = have restrained); same word, two renderings"
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "उचित, अत्यन्त धर्मिष्ठ आचरणों को रोकने से, अधर्म की आसक्ति से और धर्म के अवरोध से,",
+  "new": "उचित, अत्यन्त धर्मिष्ठ आचरणों को रोकने से, अधर्म की आसक्ति से और धर्म को रोकने से,",
+  "why": "reviewer (minor): avagraha is 'restraining' in units 12 and 35 (glossary 5.6 avagrāhayet = have restrained); same word, two renderings"
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "avagraheṇa",
+  "old": "by obstruction",
+  "new": "by restraint",
+  "why": "reviewer (minor): avagraha is 'restraining' in units 12 and 35 (glossary 5.6 avagrāhayet = have restrained); same word, two renderings"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "and by antagonizing the elders, by partiality and falsehood, by non-requital of what has been done, and by not doing what is established,",
+  "new": "and by antagonizing the elders, by unevenness and falsehood, by non-requital of what has been done, and by not doing what is established,",
+  "why": "reviewer (minor): vaiṣamya literally 'unevenness' (no invented sense); sthita is 'settled' in unit 39 (yathā-sthita-kārin, Hindi जैसा तय हुआ) so unit 25 should match; Hindi स्थित ('situated') does not match English 'established'"
+ },
+ {
+  "n": "25",
+  "field": "english",
+  "old": "and by antagonizing the elders, by unevenness and falsehood, by non-requital of what has been done, and by not doing what is established,",
+  "new": "and by antagonizing the elders, by unevenness and falsehood, by non-requital of what has been done, and by not doing what is settled,",
+  "why": "reviewer (minor): vaiṣamya literally 'unevenness' (no invented sense); sthita is 'settled' in unit 39 (yathā-sthita-kārin, Hindi जैसा तय हुआ) so unit 25 should match; Hindi स्थित ('situated') does not match English 'established'"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "और वृद्धों के विरोध से, वैषम्य और असत्य से, किए हुए का प्रतिकार न करने से और स्थित को न करने से,",
+  "new": "और वृद्धों के विरोध से, वैषम्य और असत्य से, किए हुए का प्रतिकार न करने से और तय हुए को न करने से,",
+  "why": "reviewer (minor): vaiṣamya literally 'unevenness' (no invented sense); sthita is 'settled' in unit 39 (yathā-sthita-kārin, Hindi जैसा तय हुआ) so unit 25 should match; Hindi स्थित ('situated') does not match English 'established'"
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "vaiṣamyeṇa",
+  "old": "by partiality",
+  "new": "by unevenness",
+  "why": "reviewer (minor): vaiṣamya literally 'unevenness' (no invented sense); sthita is 'settled' in unit 39 (yathā-sthita-kārin, Hindi जैसा तय हुआ) so unit 25 should match; Hindi स्थित ('situated') does not match English 'established'"
+ },
+ {
+  "n": "25",
+  "field": "word.gloss",
+  "word": "sthitasya",
+  "old": "of what is established",
+  "new": "of what is settled",
+  "why": "reviewer (minor): vaiṣamya literally 'unevenness' (no invented sense); sthita is 'settled' in unit 39 (yathā-sthita-kārin, Hindi जैसा तय हुआ) so unit 25 should match; Hindi स्थित ('situated') does not match English 'established'"
+ },
+ {
+  "n": "26",
+  "field": "word.gram",
+  "word": "pramāda-ālasyābhyām",
+  "old": "m. inst. du., dvandva",
+  "new": "n. inst. du., dvandva",
+  "why": "reviewer (minor): a dvandva takes the gender of its last member; ālasya is neuter"
+ },
+ {
+  "n": "27",
+  "field": "english",
+  "old": "The diminished constituent elements go to greed, the greedy go to disaffection; the disaffected go to the enemy, or themselves kill the master.",
+  "new": "The diminished constituent elements go to greed, the greedy go to disaffection; the disaffected either go to the enemy or themselves kill the master.",
+  "why": "reviewer (error): the second-level rule 'vā always rendered': two vā stand in 'amitraṃ vā ... ghnanti vā' (either ... or) but only one 'or' is rendered in English and Hindi, although the note says both are rendered"
+ },
+ {
+  "n": "27",
+  "field": "hindi",
+  "old": "क्षीण प्रकृतियाँ लोभ को पहुँचती हैं, लुब्ध विरक्ति को; विरक्त अमित्र के पास जाती हैं, या स्वयं भर्ता को मार डालती हैं।",
+  "new": "क्षीण प्रकृतियाँ लोभ को पहुँचती हैं, लुब्ध विरक्ति को; विरक्त — या अमित्र के पास जाती हैं, या स्वयं भर्ता को मार डालती हैं।",
+  "why": "reviewer (error): the second-level rule 'vā always rendered': two vā stand in 'amitraṃ vā ... ghnanti vā' (either ... or) but only one 'or' is rendered in English and Hindi, although the note says both are rendered"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "क्षीण पीड़न और उच्छेदन के भय से तुरन्त सन्धि, युद्ध या निष्पतन को पसन्द करते हैं।",
+  "new": "क्षीण, पीड़न और उच्छेदन के भय से तुरन्त सन्धि, युद्ध या निष्पतन को पसन्द करते हैं।",
+  "why": "reviewer (minor): 'क्षीण पीड़न और उच्छेदन' reads as one noun phrase (weak affliction); the subject needs a comma. निष्पतन is not a Hindi word and English translates it 'going out'"
+ },
+ {
+  "n": "30",
+  "field": "hindi",
+  "old": "क्षीण, पीड़न और उच्छेदन के भय से तुरन्त सन्धि, युद्ध या निष्पतन को पसन्द करते हैं।",
+  "new": "क्षीण, पीड़न और उच्छेदन के भय से तुरन्त सन्धि, युद्ध या बाहर निकल जाने को पसन्द करते हैं।",
+  "why": "reviewer (minor): 'क्षीण पीड़न और उच्छेदन' reads as one noun phrase (weak affliction); the subject needs a comma. निष्पतन is not a Hindi word and English translates it 'going out'"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "लुब्ध लोभ से असन्तुष्ट दूसरे के उपजाप को पाना चाहते हैं।",
+  "new": "लुब्ध, लोभ से असन्तुष्ट, दूसरे के उपजाप को पाना चाहते हैं।",
+  "why": "reviewer (minor): no commas: the subject and the participle phrase run together"
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "Of them, the loss of money and grain injures all and is hard to remedy; the loss of yoke-animals and men is to be accomplished by money and grain.",
+  "new": "Of them, the loss of money and grain injures all and is hard to remedy; the loss of yugya (those fit for the yoke) and men is to be accomplished by money and grain.",
+  "why": "reviewer (minor): 'animals' is an interpretive sense for yugya (animals or vehicles); Hindi keeps युग्य"
+ },
+ {
+  "n": "33",
+  "field": "word.gloss",
+  "word": "yugya-puruṣa-kṣayaḥ",
+  "old": "loss of yoke-animals and men",
+  "new": "loss of yugya (those fit for the yoke) and men",
+  "why": "reviewer (minor): 'animals' is an interpretive sense for yugya (animals or vehicles); Hindi keeps युग्य"
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "Greed is partial [and] dependent on the chiefs; in the aims of the other it is possible to counter [it] or to take [it] up.",
+  "new": "Greed is partial [and] dependent on the chiefs; in the interests of the other it is possible to counter [it] or to take [it] up.",
+  "why": "reviewer (minor): glossary 5.4: artha in para-artha = interest (प्रयोजन); Hindi pratihantum 'रोकना' does not match English 'counter'"
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "para-artheṣu",
+  "old": "in the aims of the other",
+  "new": "in the interests of the other",
+  "why": "reviewer (minor): glossary 5.4: artha in para-artha = interest (प्रयोजन); Hindi pratihantum 'रोकना' does not match English 'counter'"
+ },
+ {
+  "n": "34",
+  "field": "hindi",
+  "old": "लोभ एकदेशीय है, मुख्यों पर निर्भर है; दूसरे के प्रयोजनों में रोकना या ग्रहण करना सम्भव है।",
+  "new": "लोभ एकदेशीय है, मुख्यों पर निर्भर है; दूसरे के प्रयोजनों में प्रतिहत करना या ग्रहण करना सम्भव है।",
+  "why": "reviewer (minor): glossary 5.4: artha in para-artha = interest (प्रयोजन); Hindi pratihantum 'रोकना' does not match English 'counter'"
+ },
+ {
+  "n": "35",
+  "field": "hindi",
+  "old": "विराग प्रधान को रोकने से साध्य है।",
+  "new": "विरक्ति प्रधान को रोकने से साध्य है।",
+  "why": "reviewer (minor): virāga is विरक्ति in units 26-28 and 30; keep one Hindi word"
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "For constituent elements without a chief become exploitable and not open to the secret instigation of others, but [they are] not bearing adversity.",
+  "new": "For constituent elements without a chief become fit to be used and not open to the secret instigation of others, but [they are] not bearing adversity.",
+  "why": "reviewer (minor): 'exploitable' is an interpretive sense; glossary 3.8 bhoga = use"
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "bhogyāḥ",
+  "old": "exploitable",
+  "new": "fit to be used",
+  "why": "reviewer (minor): 'exploitable' is an interpretive sense; glossary 3.8 bhoga = use"
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "But through the favouring of the chiefs of the constituent elements, [they] become split in many ways, protected, and bearing adversity.",
+  "new": "But through the favouring of the chiefs of the constituent elements, [they] become broken in many ways, protected, and bearing adversity.",
+  "why": "reviewer (minor): bhinna (√bhid) = broken (glossary 10.4); Hindi भिन्न means 'different', a wrong sense"
+ },
+ {
+  "n": "37",
+  "field": "hindi",
+  "old": "किन्तु प्रकृतियों के मुख्यों के प्रग्रह से अनेक प्रकार से भिन्न, सुरक्षित और आपत्ति सहने वाली होती हैं।",
+  "new": "किन्तु प्रकृतियों के मुख्यों के प्रग्रह से अनेक प्रकार से टूटी हुई, सुरक्षित और आपत्ति सहने वाली होती हैं।",
+  "why": "reviewer (minor): bhinna (√bhid) = broken (glossary 10.4); Hindi भिन्न means 'different', a wrong sense"
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "bhinnāḥ",
+  "old": "split",
+  "new": "broken",
+  "why": "reviewer (minor): bhinna (√bhid) = broken (glossary 10.4); Hindi भिन्न means 'different', a wrong sense"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "सामवायिकों के भी सन्धि और विग्रह के कारणों पर विचार करके शक्ति और शौच से युक्तों के साथ मिलकर चढ़ाई करे।",
+  "new": "सामवायिकों के भी सन्धि और विग्रह के कारणों पर विचार करके शक्ति और शुचिता से युक्तों के साथ मिलकर चढ़ाई करे।",
+  "why": "reviewer (minor): Hindi शौच usually means the toilet; use शुचिता (unit 39 has शुचि)"
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "क्योंकि वे दोनों भेद कराने में सरल हैं; और दुष्ट एक का दो के द्वारा नियन्त्रण, और भेद-उपग्रह का आश्रय लेना।",
+  "new": "क्योंकि वे दोनों भेद कराने में सरल हैं; और दुष्ट एक का दो के द्वारा नियन्त्रण, और भेद और सहारे का आश्रय लेना।",
+  "why": "reviewer (minor): Hindi उपग्रह means 'satellite' (glossary 4.3); English reads the dvandva 'dissension and support' (glossary 13.3 upagraha = सहारा)"
+ },
+ {
+  "n": "46",
+  "field": "notes",
+  "old": "sattra is left untranslated: glossary has both 'hiding-place, ambush position' (8.5) and 'sacrificial session' (5.6); sense here uncertain. kalatram: the glossary has 'royal household' (10.2); whose household is not stated. yattaḥ: 'on guard, careful'.",
+  "new": "sattra is left untranslated: glossary has both 'hiding-place, ambush position' (8.5) and 'sacrificial session' (5.6); sense here uncertain. kalatram: the glossary has 'royal household' (10.2); whose household is not stated. yattaḥ: 'on guard, careful'. Review: sattra kept untranslated in both languages; the 5.6 'sacrificial session' sense does not fit a withdrawal from allies, the 8.5 'hiding-place' sense is possible, a person decides. kalatra = the household as in 10.2, 'royal' not added because the owner is not stated.",
+  "why": "reviewer (minor): sattra: glossary 8.5 'hiding-place' and 5.6 'session'; context (withdrawing from allies, fear of a trusted equal) does not give a sacrificial session, but a hiding-place is not stated either. Keep untranslated, as drafted; Hindi सत्त्र matches the printed Devanagari"
+ },
+ {
+  "n": "47",
+  "field": "english",
+  "old": "And also in superiority, one who has obtained his object, even an equal, is reckoned; and the one risen high is not to be trusted; prosperity alters the mind.",
+  "new": "And also in superiority, one who has obtained his object, even an equal, is reckoned; and the one risen high is not to be trusted; growth alters the mind.",
+  "why": "reviewer (minor): glossary 9.7: vṛddhi = growth (वृद्धि)"
+ },
+ {
+  "n": "47",
+  "field": "word.gloss",
+  "word": "vṛddhiḥ",
+  "old": "prosperity",
+  "new": "growth",
+  "why": "reviewer (minor): glossary 9.7: vṛddhi = growth (वृद्धि)"
+ },
+ {
+  "n": "48",
+  "field": "english",
+  "old": "Having obtained even a small share from the superior, [one] should depart with a satisfied face; or, without a share, then, having struck in his aṅka, [one] should take twice as much.",
+  "new": "Having obtained even a small share from the superior, [one] should depart with a satisfied face; or, without a share, then, having struck in his aṅka, [one] should take double.",
+  "why": "reviewer (minor): 'as much' is an added supply; dvi-guṇa = twofold / double"
+ }
+]
