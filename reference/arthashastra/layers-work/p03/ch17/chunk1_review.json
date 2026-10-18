@@ -1,0 +1,878 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sāhasa",
+     "problem": "w 'sāhasa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "sāhasam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sāhasa",
+      "field": "w",
+      "value": "sāhasam",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "niranvaya",
+     "problem": "w 'niranvaya' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "niranvaye",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "niranvaya",
+      "field": "w",
+      "value": "niranvaye",
+      "n": "2"
+     }
+    },
+    {
+     "field": "split",
+     "where": "steya",
+     "problem": "w 'steya' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "steyam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "steya",
+      "field": "w",
+      "value": "steyam",
+      "n": "2"
+     }
+    },
+    {
+     "field": "split",
+     "where": "apavyayana",
+     "problem": "w 'apavyayana' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "apavyayane",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "apavyayana",
+      "field": "w",
+      "value": "apavyayane",
+      "n": "2"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sāhasa",
+     "problem": "w 'sāhasa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "sāhase",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sāhasa",
+      "field": "w",
+      "value": "sāhase",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "worthless goods",
+     "problem": "'worthless' adds a sense; phalgu is 'insignificant, weak' (the Hindi तुच्छ already says insignificant); English and Hindi disagree",
+     "fix": "insignificant goods",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "worthless goods",
+      "new": "insignificant goods",
+      "n": "3"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ratna-sāra-phalgu-kupyānām",
+     "problem": "same: 'worthless goods'",
+     "fix": "of gems, valuables, insignificant goods, raw materials",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ratna-sāra-phalgu-kupyānām",
+      "field": "gloss",
+      "value": "of gems, valuables, insignificant goods, raw materials",
+      "n": "3"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "phalgu 'worthless'",
+     "problem": "align with the English fix",
+     "fix": "phalgu 'insignificant' (also 'weak')",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "phalgu 'worthless' (literally 'insignificant, weak')",
+      "new": "phalgu 'insignificant' (also 'weak')",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "mūlya-dviguṇaḥ",
+     "problem": "w merges 'dvi.guṇaḥ' into 'dviguṇaḥ'; the printed text has the compound dot, and unit 11 splits dvi-guṇam; use the same member split",
+     "fix": "mūlya-dvi-guṇaḥ",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mūlya-dviguṇaḥ",
+      "field": "w",
+      "value": "mūlya-dvi-guṇaḥ",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "yathā.aparādha -> yathā.aparādham; unquoted closing iti",
+     "problem": "First flag sound (avyayībhāva needs -m). Second flag (and the same in unit 14) is not a typo but follows the 3.8.6 precedent; keep, severity low.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'or lower ... or higher'",
+     "problem": "'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)",
+     "fix": "the penalty [has] twelve paṇas as the lower [limit] and twenty-four paṇas as the upper.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the penalty [is] of twelve paṇas or lower, of twenty-four paṇas or higher.",
+      "new": "the penalty [has] twelve paṇas as the lower [limit] and twenty-four paṇas as the upper.",
+      "n": "6"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'या उससे कम ... या उससे अधिक'",
+     "problem": "same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)",
+     "fix": "बारह पण निम्न सीमा वाला, चौबीस पण उच्च सीमा वाला दण्ड है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बारह पण या उससे कम, चौबीस पण या उससे अधिक दण्ड है",
+      "new": "बारह पण निम्न सीमा वाला, चौबीस पण उच्च सीमा वाला दण्ड है",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dvādaśa-paṇa-avaraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "twelve paṇas as the lower [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dvādaśa-paṇa-avaraḥ",
+      "field": "gloss",
+      "value": "twelve paṇas as the lower [limit]",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "caturviṃśati-paṇa-paraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "twenty-four paṇas as the upper [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "caturviṃśati-paṇa-paraḥ",
+      "field": "gloss",
+      "value": "twenty-four paṇas as the upper [limit]",
+      "n": "6"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "glossary (4.10) sentence",
+     "problem": "note must state the settled wording",
+     "fix": "As a range, avara/para are rendered 'lower/upper [limit]' as in ch01 unit 30 (not the 4.10 single-figure 'or lower'); the sense is from twelve to twenty-four paṇas.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "The glossary (4.10) renders X-paṇa-avara as 'of X paṇas or lower'; read as a range the sense is plainly 'from twelve paṇas up to twenty-four paṇas' (avara 'lower', para 'higher' limit; see unit 30 of ch01).",
+      "new": "As a range, avara/para are rendered 'lower/upper [limit]' as in ch01 unit 30 (not the 4.10 single-figure 'or lower'); the sense is from twelve to twenty-four paṇas.",
+      "n": "6"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "3rd flag (unclosed opening quote)",
+     "problem": "Not a typo: the quotation legitimately spans units 6-10 (closes at 'ity ācāryāḥ'). The 'suggest' is prose, not text, and would corrupt the text if applied mechanically; the notes already say it. Hand edit.",
+     "fix": "delete this flag (keep the '.-' and dvādśa flags)",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "निम्न सीमा वाला / उच्च सीमा वाला (units 6-10)",
+     "problem": "'सीमा' is a supplied noun with no bracket possible in Hindi; this follows ch01 unit 30 (already open for a person). Align both chapters when a person decides.",
+     "fix": "a person to decide with ch01",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'or lower ... or higher'",
+     "problem": "'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)",
+     "fix": "the penalty [has] twenty-four paṇas as the lower [limit] and forty-eight paṇas as the upper.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the penalty [is] of twenty-four paṇas or lower, of forty-eight paṇas or higher.",
+      "new": "the penalty [has] twenty-four paṇas as the lower [limit] and forty-eight paṇas as the upper.",
+      "n": "7"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'या उससे कम ... या उससे अधिक'",
+     "problem": "same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)",
+     "fix": "चौबीस पण निम्न सीमा वाला, अड़तालीस पण उच्च सीमा वाला दण्ड है",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "चौबीस पण या उससे कम, अड़तालीस पण या उससे अधिक दण्ड है",
+      "new": "चौबीस पण निम्न सीमा वाला, अड़तालीस पण उच्च सीमा वाला दण्ड है",
+      "n": "7"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "caturviṃśati-paṇa-avaraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "twenty-four paṇas as the lower [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "caturviṃśati-paṇa-avaraḥ",
+      "field": "gloss",
+      "value": "twenty-four paṇas as the lower [limit]",
+      "n": "7"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aṣṭa-catvāriṃśat-paṇa-paraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "forty-eight paṇas as the upper [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "aṣṭa-catvāriṃśat-paṇa-paraḥ",
+      "field": "gloss",
+      "value": "forty-eight paṇas as the upper [limit]",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'or lower ... or higher'",
+     "problem": "'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)",
+     "fix": ", with forty-eight paṇas as the lower [limit] and ninety-six as the upper.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": ", of forty-eight paṇas or lower, of ninety-six or higher.",
+      "new": ", with forty-eight paṇas as the lower [limit] and ninety-six as the upper.",
+      "n": "8"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'या उससे कम ... या उससे अधिक'",
+     "problem": "same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)",
+     "fix": "अड़तालीस पण निम्न सीमा वाला, छियानवे उच्च सीमा वाला प्रथम",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "अड़तालीस पण या उससे कम, छियानवे या उससे अधिक प्रथम",
+      "new": "अड़तालीस पण निम्न सीमा वाला, छियानवे उच्च सीमा वाला प्रथम",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aṣṭa-catvāriṃśat-paṇa-avaraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "forty-eight paṇas as the lower [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "aṣṭa-catvāriṃśat-paṇa-avaraḥ",
+      "field": "gloss",
+      "value": "forty-eight paṇas as the lower [limit]",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ṣaṭ-navati-paraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "ninety-six as the upper [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ṣaṭ-navati-paraḥ",
+      "field": "gloss",
+      "value": "ninety-six as the upper [limit]",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'or lower ... or higher'",
+     "problem": "'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)",
+     "fix": ", with two hundred as the lower [limit] and five hundred as the upper.",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": ", of two hundred or lower, of five hundred or higher.",
+      "new": ", with two hundred as the lower [limit] and five hundred as the upper.",
+      "n": "9"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'या उससे कम ... या उससे अधिक'",
+     "problem": "same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)",
+     "fix": "दो सौ निम्न सीमा वाला, पाँच सौ उच्च सीमा वाला मध्यम",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "दो सौ या उससे कम, पाँच सौ या उससे अधिक मध्यम",
+      "new": "दो सौ निम्न सीमा वाला, पाँच सौ उच्च सीमा वाला मध्यम",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dvi-śata-avaraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "two hundred as the lower [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dvi-śata-avaraḥ",
+      "field": "gloss",
+      "value": "two hundred as the lower [limit]",
+      "n": "9"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pañca-śata-paraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "five hundred as the upper [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pañca-śata-paraḥ",
+      "field": "gloss",
+      "value": "five hundred as the upper [limit]",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "puruṣa",
+     "problem": "w 'puruṣa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "puruṣam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "puruṣa",
+      "field": "w",
+      "value": "puruṣam",
+      "n": "10"
+     }
+    },
+    {
+     "field": "split",
+     "where": "bandha",
+     "problem": "w 'bandha' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "bandham",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bandha",
+      "field": "w",
+      "value": "bandham",
+      "n": "10"
+     }
+    },
+    {
+     "field": "english",
+     "where": "'or lower ... or higher'",
+     "problem": "'of X paṇas or lower, of Y paṇas or higher' (glossary 4.10 single-figure form) contradicts itself for a range; avara/para are the lower and upper limit of the penalty (as ch01 unit 30)",
+     "fix": ", with five hundred as the lower [limit] and a thousand as the upper,”",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": ", of five hundred or lower, of a thousand or higher,”",
+      "new": ", with five hundred as the lower [limit] and a thousand as the upper,”",
+      "n": "10"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "'या उससे कम ... या उससे अधिक'",
+     "problem": "same; Hindi must read as a range, no और between the two bahuvrīhis (none in the Sanskrit)",
+     "fix": "पाँच सौ निम्न सीमा वाला, हज़ार उच्च सीमा वाला सर्वोच्च",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाँच सौ या उससे कम, हज़ार या उससे अधिक सर्वोच्च",
+      "new": "पाँच सौ निम्न सीमा वाला, हज़ार उच्च सीमा वाला सर्वोच्च",
+      "n": "10"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pañca-śata-avaraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "five hundred as the lower [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pañca-śata-avaraḥ",
+      "field": "gloss",
+      "value": "five hundred as the lower [limit]",
+      "n": "10"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sahasra-paraḥ",
+     "problem": "gloss 'or lower/or higher' is wrong for a range",
+     "fix": "a thousand as the upper [limit]",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sahasra-paraḥ",
+      "field": "gloss",
+      "value": "a thousand as the upper [limit]",
+      "n": "10"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "stray '|' before closing quote",
+     "problem": "Sound: a danda inside the quoted text before the closing mark; the quote opened in unit 6 closes here. Keep (its 'why' is accurate).",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sāhasa",
+     "problem": "w 'sāhasa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "sāhasam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "sāhasa",
+      "field": "w",
+      "value": "sāhasam",
+      "n": "11"
+     }
+    },
+    {
+     "field": "split",
+     "where": "pratipattṛ",
+     "problem": "w 'pratipattṛ' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "pratipattā",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "pratipattṛ",
+      "field": "w",
+      "value": "pratipattā",
+      "n": "11"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "only flag (unclosed opening quote)",
+     "problem": "Same: not a typo, quote spans units 11-13; suggest is prose. Hand edit.",
+     "fix": "delete this flag",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "hiraṇya",
+     "problem": "w 'hiraṇya' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "hiraṇyam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "hiraṇya",
+      "field": "w",
+      "value": "hiraṇyam",
+      "n": "12"
+     }
+    },
+    {
+     "field": "split",
+     "where": "daṇḍa",
+     "problem": "w 'daṇḍa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "daṇḍam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍa",
+      "field": "w",
+      "value": "daṇḍam",
+      "n": "12"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "upayokṣyate 'fut. pass.'",
+     "problem": "The form is a middle future; passive sense (or 'he will use') is a reading, not certain. Notes already mention it.",
+     "fix": "none",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "daṇḍa",
+     "problem": "w 'daṇḍa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "daṇḍam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍa",
+      "field": "w",
+      "value": "daṇḍam",
+      "n": "13"
+     }
+    },
+    {
+     "field": "split",
+     "where": "hiraṇya (both entries, 'etāvadd hiraṇyaṃ' and 'hiraṇyaṃ daṇḍaṃ')",
+     "problem": "two identical bare-stem w entries; a word patch cannot address them separately (hand edit)",
+     "fix": "set both w to hiraṇyam",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "2nd flag (dadyāt\" closing quote)",
+     "problem": "Same: not a typo. Hand edit.",
+     "fix": "delete this flag (keep the etāvadd flag)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "kopa",
+     "problem": "w 'kopa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "kopam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kopa",
+      "field": "w",
+      "value": "kopam",
+      "n": "14"
+     }
+    },
+    {
+     "field": "split",
+     "where": "mada",
+     "problem": "w 'mada' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "madam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "mada",
+      "field": "w",
+      "value": "madam",
+      "n": "14"
+     }
+    },
+    {
+     "field": "split",
+     "where": "moha",
+     "problem": "w 'moha' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "moham",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "moha",
+      "field": "w",
+      "value": "moham",
+      "n": "14"
+     }
+    },
+    {
+     "field": "split",
+     "where": "ena",
+     "problem": "w 'ena' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "enam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ena",
+      "field": "w",
+      "value": "enam",
+      "n": "14"
+     }
+    },
+    {
+     "field": "split",
+     "where": "daṇḍa",
+     "problem": "w 'daṇḍa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "daṇḍam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "daṇḍa",
+      "field": "w",
+      "value": "daṇḍam",
+      "n": "14"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बताए, तो इस पर",
+     "problem": "'तो' is an added correlative; the Sanskrit has cet only, no tarhi",
+     "fix": "बताए, इस पर",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बताए, तो इस पर",
+      "new": "बताए, इस पर",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "rūpa",
+     "problem": "w 'rūpa' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "rūpam",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rūpa",
+      "field": "w",
+      "value": "rūpam",
+      "n": "15"
+     }
+    },
+    {
+     "field": "split",
+     "where": "para",
+     "problem": "w 'para' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "pareṣu",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "para",
+      "field": "w",
+      "value": "pareṣu",
+      "n": "15"
+     }
+    },
+    {
+     "field": "split",
+     "where": "vyājī",
+     "problem": "w 'vyājī' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "vyājīm",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyājī",
+      "field": "w",
+      "value": "vyājīm",
+      "n": "15"
+     }
+    },
+    {
+     "field": "english",
+     "where": "; among [those] beyond",
+     "problem": "ca (vyājīṃ ca) is dropped in English although the note says it is rendered 'and'",
+     "fix": "; and among [those] beyond",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "; among [those] beyond",
+      "new": "; and among [those] beyond",
+      "n": "15"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "; सौ से परे",
+     "problem": "ca is dropped in Hindi",
+     "fix": "; और सौ से परे",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "; सौ से परे",
+      "new": "; और सौ से परे",
+      "n": "15"
+     }
+    },
+    {
+     "field": "split",
+     "where": "śata (both entries, 'aṣṭa.paṇaṃ śatam' and 'pañca.paṇaṃ śatam')",
+     "problem": "two identical bare-stem w entries (hand edit)",
+     "fix": "set both w to śatam",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "prajā",
+     "problem": "w 'prajā' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "prajānām",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "prajā",
+      "field": "w",
+      "value": "prajānām",
+      "n": "16"
+     }
+    },
+    {
+     "field": "split",
+     "where": "prakṛti",
+     "problem": "w 'prakṛti' is a bare stem; the brief wants the dictionary-style inflected form as printed (sandhi undone)",
+     "fix": "prakṛtiḥ",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "prakṛti",
+      "field": "w",
+      "value": "prakṛtiḥ",
+      "n": "16"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rājñām",
+     "problem": "gen. pl. glossed 'king'",
+     "fix": "kings",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "rājñām",
+      "field": "gloss",
+      "value": "kings",
+      "n": "16"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Issues: {'minor': 48, 'error': 12}. 16 units, no regrouping. Main errors: units 6-10 range wording ('or lower ... or higher' is self-contradictory; patched to 'lower/upper [limit]' as ch01 unit 30, Hindi 'निम्न/उच्च सीमा वाला' without और) and unit 15 dropped ca. Most minor patches restore case endings in w (draft mixed bare stems with inflected forms). Draft has 11 text_flags, not 12 (u5 2, u6 3, u10 1, u11 1, u12 1, u13 2, u14 1); the three pure quote-span flags (u6 3rd, u11, u13 2nd) are not typos and should be deleted by hand. Drafts remain unreviewed AI drafts until a person reads them."
+}

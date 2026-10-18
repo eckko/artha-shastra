@@ -552,5 +552,880 @@
   "text_flags": [],
   "notes": "Verbless; the genitives are taken as 'for the one who accepts' and 'for the one who gives'. 'and for one who gives' repeats steya-daṇḍaḥ by ellipsis. anartha = loss (अनर्थ), as in the glossary; ākrośa = abuse, reviling.",
   "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "roṣa.dānaṃ",
+      "words": [
+       {
+        "w": "roṣa-dānam",
+        "gloss": "gift of anger",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "para.hiṃsāyāṃ,",
+      "words": [
+       {
+        "w": "para-hiṃsāyām",
+        "gloss": "in injury of others",
+        "gram": "f. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rājñām",
+      "words": [
+       {
+        "w": "rājñām",
+        "gloss": "of kings",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "upari",
+      "words": [
+       {
+        "w": "upari",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "darpa.dānaṃ",
+      "words": [
+       {
+        "w": "darpa-dānam",
+        "gloss": "gift of pride",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रोष का दान दूसरों की हिंसा में, और राजाओं के ऊपर दर्प का दान।",
+  "english": "A gift of anger [made] in injuring others, and a gift of pride [made] over kings.",
+  "text_flags": [],
+  "notes": "Verbless, continuing the list of units 4 and 6. roṣa = anger (not kopa). upari rājñām could be 'against kings' or 'above kings'; rendered 'over'. Low-medium sense; confidence medium.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tatra-uttamo",
+      "words": [
+       {
+        "w": "tatra",
+        "gloss": "there",
+        "gram": "ind."
+       },
+       {
+        "w": "uttamaḥ",
+        "gloss": "highest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍaḥ",
+      "words": [
+       {
+        "w": "daṇḍaḥ",
+        "gloss": "penalty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वहाँ सर्वोच्च दण्ड।",
+  "english": "There, the highest penalty [is due].",
+  "text_flags": [],
+  "notes": "tatra 'there' is taken as 'in that matter' (the gifts of fear, anger and pride in units 6-7); the exact reference is not fixed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prātibhāvyaṃ",
+      "words": [
+       {
+        "w": "prātibhāvyam",
+        "gloss": "suretyship",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.śulka.śeṣam",
+      "words": [
+       {
+        "w": "daṇḍa-śulka-śeṣam",
+        "gloss": "remainder of fine and toll",
+        "gram": "n. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ākṣikaṃ",
+      "words": [
+       {
+        "w": "ākṣikam",
+        "gloss": "pertaining to dice",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saurikaṃ",
+      "words": [
+       {
+        "w": "saurikam",
+        "gloss": "saurika",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na-akāmaḥ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "akāmaḥ",
+        "gloss": "unwilling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "putro",
+      "words": [
+       {
+        "w": "putraḥ",
+        "gloss": "son",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāyādo",
+      "words": [
+       {
+        "w": "dāyādaḥ",
+        "gloss": "heir",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "riktha.haro",
+      "words": [
+       {
+        "w": "riktha-haraḥ",
+        "gloss": "taker of the inheritance",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "9",
+      "words": [
+       {
+        "w": "9",
+        "gloss": "verse number",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-end mark",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dattasya-anapākarma",
+      "words": [
+       {
+        "w": "dattasya",
+        "gloss": "of the given",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "anapākarma",
+        "gloss": "non-withdrawal",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रातिभाव्य, दण्ड और शुल्क का शेष, पासों से सम्बन्धित और सौरिक, अनिच्छुक नहीं, पुत्र या दायाद या रिक्थ लेने वाला दे। यह दिए हुए का अनपाकर्म है।",
+  "english": "Suretyship, the remainder of a fine and toll, what pertains to dice, and the saurika: a son, or an heir, or the taker of the inheritance, not unwilling, should give [them]. Such is the non-withdrawal of what was given.",
+  "text_flags": [],
+  "notes": "na-akāmaḥ is rendered literally 'not unwilling'; the sense may be 'should not give if unwilling', i.e. he pays only willingly. saurika is obscure (kept untranslated, as in the glossary); ākṣika taken as 'pertaining to dice', the object (debt) is not stated. anapākarma = non-withdrawal (of a gift), the label closing the section; its iti is glossed 'closing particle'.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asvāmi.vikrayas",
+      "words": [
+       {
+        "w": "asvāmi-vikrayaḥ",
+        "gloss": "sale by a non-owner",
+        "gram": "m. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "-",
+      "words": [
+       {
+        "w": "-",
+        "gloss": "dash",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "naṣṭa.apahṛtam",
+      "words": [
+       {
+        "w": "naṣṭa-apahṛtam",
+        "gloss": "lost and stolen",
+        "gram": "n. acc. sg., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "āsādya",
+      "words": [
+       {
+        "w": "āsādya",
+        "gloss": "having found",
+        "gram": "abs. ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "svāmī",
+      "words": [
+       {
+        "w": "svāmī",
+        "gloss": "owner",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dharmasthena",
+      "words": [
+       {
+        "w": "dharmasthena",
+        "gloss": "by the dharmastha",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "grāhayet",
+      "words": [
+       {
+        "w": "grāhayet",
+        "gloss": "should cause to be seized",
+        "gram": "3 sg. opt. caus. √grah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु अस्वामी का विक्रय: खोए और चुराए हुए को पाकर स्वामी धर्मस्थ के द्वारा पकड़वाए।",
+  "english": "But as to sale by a non-owner: the owner, having found what is lost and stolen, should cause [it] to be seized through the dharmastha.",
+  "text_flags": [],
+  "notes": "grāhayet is rendered literally 'cause to be seized' (glossary); the sense (have it held, arrested or claimed) is not decided. dharmastha kept as a title. naṣṭa-apahṛta could be 'lost or stolen'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "deśa.kāla.atipattau",
+      "words": [
+       {
+        "w": "deśa-kāla-atipattau",
+        "gloss": "in the lapse of place and time",
+        "gram": "f. loc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svayaṃ",
+      "words": [
+       {
+        "w": "svayam",
+        "gloss": "himself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛhītvā-upaharet",
+      "words": [
+       {
+        "w": "gṛhītvā",
+        "gloss": "having taken",
+        "gram": "abs. √grah"
+       },
+       {
+        "w": "upaharet",
+        "gloss": "should present",
+        "gram": "3 sg. opt. upa-√hṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा देश और काल का अतिक्रमण होने पर स्वयं लेकर प्रस्तुत करे।",
+  "english": "Or, when place and time have been exceeded, having taken [it] himself, [he] should present [it].",
+  "text_flags": [],
+  "notes": "Obscure. The subject of upaharet (owner or dharmastha) and the object are not stated. atipatti = passing beyond, lapse; 'place and time' may refer to limits of locality and period for the claim. Low-medium confidence.",
+  "confidence": "low"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dharmasthaś",
+      "words": [
+       {
+        "w": "dharmasthaḥ",
+        "gloss": "the dharmastha",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svāminam",
+      "words": [
+       {
+        "w": "svāminam",
+        "gloss": "the owner",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anuyuñjīta",
+      "words": [
+       {
+        "w": "anuyuñjīta",
+        "gloss": "should question",
+        "gram": "3 sg. opt. ātm. anu-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "\"kutas",
+      "words": [
+       {
+        "w": "kutaḥ",
+        "gloss": "from where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "by you",
+        "gram": "2 sg. inst./gen."
+       }
+      ]
+     },
+     {
+      "src": "labdham\"",
+      "words": [
+       {
+        "w": "labdham",
+        "gloss": "obtained",
+        "gram": "n. nom. sg., pp. √labh"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और धर्मस्थ स्वामी से पूछताछ करे: “तुम्हारे द्वारा कहाँ से प्राप्त किया गया?”",
+  "english": "And the dharmastha should question the owner: “From where [was it] obtained by you?”",
+  "text_flags": [],
+  "notes": "te may be instrumental (by you) or genitive (your). The closing iti is carried by the quotation marks only (glossary).",
+  "confidence": "high"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ced",
+      "words": [
+       {
+        "w": "cet",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāra.kramaṃ",
+      "words": [
+       {
+        "w": "ācāra-kramam",
+        "gloss": "sequence of practice",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "darśayeta,",
+      "words": [
+       {
+        "w": "darśayeta",
+        "gloss": "should show",
+        "gram": "3 sg. opt. ātm. caus. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vikretāraṃ,",
+      "words": [
+       {
+        "w": "vikretāram",
+        "gloss": "the seller",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tasya",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravyasya-atisargeṇa",
+      "words": [
+       {
+        "w": "dravyasya",
+        "gloss": "of the property",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "atisargeṇa",
+        "gloss": "by giving over",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mucyeta",
+      "words": [
+       {
+        "w": "mucyeta",
+        "gloss": "would be released",
+        "gram": "3 sg. opt. pass. √muc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यदि वह आचार का क्रम दिखाए, विक्रेता को नहीं, तो उस द्रव्य के समर्पण से छूट जाए।",
+  "english": "If he should show the sequence of practice, but not the seller, he would be released by the giving over of that property.",
+  "text_flags": [],
+  "notes": "ācāra-krama is rendered literally; it is commonly understood as the sequence of transfers by which he obtained the thing (not decided here). atisarga = giving over, handing over. The sentence is elliptical (darśayeta understood with na vikretāram).",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vikretā",
+      "words": [
+       {
+        "w": "vikretā",
+        "gloss": "seller",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ced",
+      "words": [
+       {
+        "w": "cet",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṛśyeta,",
+      "words": [
+       {
+        "w": "dṛśyeta",
+        "gloss": "is seen",
+        "gram": "3 sg. opt. pass. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "mūlyaṃ",
+      "words": [
+       {
+        "w": "mūlyam",
+        "gloss": "price",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "steya.daṇḍaṃ",
+      "words": [
+       {
+        "w": "steya-daṇḍam",
+        "gloss": "penalty for theft",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यदि विक्रेता दिखाई दे, मूल्य और चोरी का दण्ड दे।",
+  "english": "If the seller is seen, [he] should give the price and the penalty for theft.",
+  "text_flags": [],
+  "notes": "The subject of dadyāt is taken to be the seller. dṛśyeta 'is seen' = is found.",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ced",
+      "words": [
+       {
+        "w": "cet",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "apasāram",
+      "words": [
+       {
+        "w": "apasāram",
+        "gloss": "the apasāra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhigacched",
+      "words": [
+       {
+        "w": "adhigacchet",
+        "gloss": "should reach",
+        "gram": "3 sg. opt. adhi-√gam"
+       }
+      ]
+     },
+     {
+      "src": "apasared",
+      "words": [
+       {
+        "w": "apasaret",
+        "gloss": "should move away",
+        "gram": "3 sg. opt. apa-√sṛ"
+       }
+      ]
+     },
+     {
+      "src": "ā.apasāra.kṣayāt",
+      "words": [
+       {
+        "w": "ā-apasāra-kṣayāt",
+        "gloss": "up to the loss of the apasāra",
+        "gram": "m. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यदि वह अपसार को प्राप्त करे, तो अपसार के क्षय तक हट जाए।",
+  "english": "If he should reach the apasāra, [he] should move away up to the loss of the apasāra.",
+  "text_flags": [],
+  "notes": "apasāra is kept untranslated (glossary 4.6/4.8: the person or thing pointed to as source; sense not settled); the sentence is obscure and the subject of apasaret is not stated. The sandhi d in adhigacched / apasared is regular. ā with the ablative = 'up to'.",
+  "confidence": "low"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣaye",
+      "words": [
+       {
+        "w": "kṣaye",
+        "gloss": "on loss",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mūlyaṃ",
+      "words": [
+       {
+        "w": "mūlyam",
+        "gloss": "price",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "steya.daṇḍaṃ",
+      "words": [
+       {
+        "w": "steya-daṇḍam",
+        "gloss": "penalty for theft",
+        "gram": "m. acc. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadyāt",
+      "words": [
+       {
+        "w": "dadyāt",
+        "gloss": "should give",
+        "gram": "3 sg. opt. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षय होने पर मूल्य और चोरी का दण्ड दे।",
+  "english": "On loss, [he] should give the price and the penalty for theft.",
+  "text_flags": [],
+  "notes": "Continues unit 15; 'loss' (kṣaya) is of the apasāra, if that reading holds. Subject not stated.",
+  "confidence": "medium"
  }
 ]
