@@ -1,0 +1,752 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "march, seeking refuge",
+     "problem": "glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter; English must follow it.",
+     "fix": "marching, seeking shelter",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "march, seeking refuge",
+      "new": "marching, seeking shelter"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "संश्रय और द्वैधीभाव",
+     "problem": "Six-member list: glossary 3.15/3.20 gives commas only in Hindi, no और (no ca in the Sanskrit).",
+     "fix": "संश्रय, द्वैधीभाव",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "संश्रय और द्वैधीभाव",
+      "new": "संश्रय, द्वैधीभाव"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sandhi-vigraha-āsana-yāna-saṃśraya-dvaidhī-bhāvāḥ",
+     "problem": "Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "peace, war, staying quiet, marching, seeking shelter, the dual policy",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "sandhi-vigraha-āsana-yāna-saṃśraya-dvaidhī-bhāvāḥ",
+      "field": "gloss",
+      "value": "peace, war, staying quiet, marching, seeking shelter, the dual policy"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "yāna = march; saṃśraya = seeking refuge (taking shelter)",
+     "problem": "Notes follow the aligned renderings.",
+     "fix": "yāna = marching; saṃśraya = seeking shelter (glossary 7.2)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "notes",
+      "old": "yāna = march; saṃśraya = seeking refuge (taking shelter)",
+      "new": "yāna = marching; saṃśraya = seeking shelter (glossary 7.2)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": ",” [says he].",
+     "problem": "Added \"[says he]\" is an unsupported speaker supply; the iti closes a quotation continued from unit 3 and is carried by the quotation marks (glossary 3.15/3.8: no rendering of a bare closing iti; do not flag quotes continued in neighbouring units).",
+     "fix": ".”",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": ",” [says he].",
+      "new": ".”"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Note must no longer say 'says he' is supplied.",
+     "fix": "The quotation continues the view of unit 3 (the speaker is named there, not here); the closing iti is carried by the quotation marks. sampadyate = comes about / is accomplished.",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "notes",
+      "value": "The quotation continues the view of unit 3 (the speaker is named there, not here); the closing iti is carried by the quotation marks. sampadyate = comes about / is accomplished."
+     }
+    },
+    {
+     "field": "gram",
+     "where": "sampadyate",
+     "problem": "sam-√pad (class 4) is a regular middle verb, not a passive; \"pres. pass.\" is a wrong label.",
+     "fix": "3 sg. pres. mid. sam-√pad",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "sampadyate",
+      "field": "gram",
+      "value": "3 sg. pres. mid. sam-√pad"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "etad",
+     "problem": "w must be the dictionary form with final-consonant sandhi undone (etat, nom./acc. sg. n.), as done for parasmāt, avasthā-bhedāt (glossary 5.4: brūyāt not brūyād).",
+     "fix": "etat",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "etad",
+      "field": "w",
+      "value": "etat"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "is march",
+     "problem": "glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "is marching",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "is march",
+      "new": "is marching"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yānam",
+     "problem": "Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "marching",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "yānam",
+      "field": "gloss",
+      "value": "marching"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "seeking refuge",
+     "problem": "glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "seeking shelter",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "seeking refuge",
+      "new": "seeking shelter"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃśrayaḥ",
+     "problem": "Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "seeking shelter",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "saṃśrayaḥ",
+      "field": "gloss",
+      "value": "seeking shelter"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "(oneself understood by tradition); not supplied",
+     "problem": "\"understood by tradition\" imports commentary; the object is simply not stated.",
+     "fix": "; not supplied",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "notes",
+      "old": "(oneself understood by tradition); not supplied",
+      "new": "; not supplied"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "hīyamānaḥ",
+     "problem": "Case/number/gender missing from the participle label.",
+     "fix": "m. nom. sg. pres. pass. part. √hā",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "hīyamānaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. pres. pass. part. √hā"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "abhyuccīyamānaḥ",
+     "problem": "Case/number/gender missing from the participle label.",
+     "fix": "m. nom. sg. pres. pass. part. abhi-ud-√ci",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "abhyuccīyamānaḥ",
+      "field": "gram",
+      "value": "m. nom. sg. pres. pass. part. abhi-ud-√ci"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": ",” — आसन में रहे",
+     "problem": "Stray dash before the verb; no dash in the Sanskrit or English (iti is carried by the quotation marks).",
+     "fix": ",” आसन में रहे",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": ",” — आसन में रहे",
+      "new": ",” आसन में रहे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "seek refuge",
+     "problem": "glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter (saṃśraya).",
+     "fix": "seek shelter",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "seek refuge",
+      "new": "seek shelter"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "saṃśrayeta",
+     "problem": "Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "should seek shelter",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "word",
+      "match_w": "saṃśrayeta",
+      "field": "gloss",
+      "value": "should seek shelter"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सहायक से साध्य",
+     "problem": "sahāya is rendered \"help\" in English and gloss; सहायक (helper) is a different word.",
+     "fix": "सहायता से साध्य",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सहायक से साध्य",
+      "new": "सहायता से साध्य"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यहाँ स्थित रहकर मैं",
+     "problem": "iha-sthaḥ is \"standing here\"; \"रहकर\" adds a gerund not in the Sanskrit.",
+     "fix": "यहाँ स्थित मैं",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यहाँ स्थित रहकर मैं",
+      "new": "यहाँ स्थित मैं"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्रव्य-वन और हस्ति-वन के",
+     "problem": "Six-member list inside the compound: commas only in Hindi (glossary 3.15/3.20); the only ca of the unit is the later \"parasya ca\".",
+     "fix": "द्रव्य-वन, हस्ति-वन के",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्रव्य-वन और हस्ति-वन के",
+      "new": "द्रव्य-वन, हस्ति-वन के"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "durga-setu-karma-vaṇik-patha-śūnya-niveśa-khani-dravya-hasti-vana-karmāṇi",
+     "problem": "Gloss lists \"produce, elephants, forests\" separately, contradicting the English, Hindi and the drafter's own note (produce-forest and elephant-forest).",
+     "fix": "works of forts and embankments, trade routes, settlements on empty land, mines, produce forests and elephant forests",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "word",
+      "match_w": "durga-setu-karma-vaṇik-patha-śūnya-niveśa-khani-dravya-hasti-vana-karmāṇi",
+      "field": "gloss",
+      "value": "works of forts and embankments, trade routes, settlements on empty land, mines, produce forests and elephant forests"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "काल, फल और उदय",
+     "problem": "Three members, no ca: commas only in Hindi (glossary 3.15/3.20).",
+     "fix": "काल, फल, उदय",
+     "severity": "minor",
+     "patch": {
+      "n": "23",
+      "op": "replace",
+      "field": "hindi",
+      "old": "काल, फल और उदय",
+      "new": "काल, फल, उदय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "काल, फल और उदय",
+     "problem": "Three members, no ca: commas only in Hindi.",
+     "fix": "काल, फल, उदय",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "काल, फल और उदय",
+      "new": "काल, फल, उदय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "काल, फल और उदय",
+     "problem": "Three members, no ca: commas only in Hindi.",
+     "fix": "काल, फल, उदय",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "काल, फल और उदय",
+      "new": "काल, फल, उदय"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यह स्पष्ट रूप से कहा नहीं गया",
+     "problem": "\"स्पष्ट रूप से\" (clearly) is an invented sense; Hindi must match the English/gloss \"explained\" (vibhāṣita is obscure here, doubt already in notes).",
+     "fix": "यह समझाया नहीं गया",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह स्पष्ट रूप से कहा नहीं गया",
+      "new": "यह समझाया नहीं गया"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "; or by trust in peace, or by contrivance",
+     "problem": "The line has five vā after yadi vā (mahā-phalāni vā, para-karmāṇi vā, sandhi-viśvāsena vā, sukhaṃ vā ...), but this passage has two English \"or\" for the single vā after sandhi-viśvāsena: one \"or\" is invented.",
+     "fix": "; by trust in peace or by contrivance",
+     "severity": "error",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "; or by trust in peace, or by contrivance",
+      "new": "; by trust in peace or by contrivance"
+     }
+    },
+    {
+     "field": "english",
+     "where": "of my hater, of the allied [one]",
+     "problem": "The word mayā (by/with me) is dropped from the English although the Hindi and the word list have it; saṃhitasya is also not \"of the allied [one]\" without mayā.",
+     "fix": "of my hater, allied with me",
+     "severity": "error",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "of my hater, of the allied [one]",
+      "new": "of my hater, allied with me"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": ", वह सन्धि करता है",
+     "problem": "Unmarked added pronoun वह (no subject pronoun in the Sanskrit).",
+     "fix": ", सन्धि करता है",
+     "severity": "error",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": ", वह सन्धि करता है",
+      "new": ", सन्धि करता है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "योग, उपनिषद् और प्रणिधियों से",
+     "problem": "Three members: commas only in Hindi.",
+     "fix": "योग, उपनिषद्, प्रणिधियों से",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "योग, उपनिषद् और प्रणिधियों से",
+      "new": "योग, उपनिषद्, प्रणिधियों से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनुग्रह, परिहार और सुगमता से",
+     "problem": "Three members: commas only in Hindi.",
+     "fix": "अनुग्रह, परिहार, सुगमता से",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अनुग्रह, परिहार और सुगमता से",
+      "new": "अनुग्रह, परिहार, सुगमता से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पीड़ित उसका जनपद मेरे पास",
+     "problem": "upahata is rendered आहत in unit 33 and upahan as हानि पहुँचाना; पीड़ित belongs to pīḍayiṣyati one line earlier. Keep the roots apart.",
+     "fix": "आहत उसका जनपद मेरे पास",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पीड़ित उसका जनपद मेरे पास",
+      "new": "आहत उसका जनपद मेरे पास"
+     }
+    },
+    {
+     "field": "english",
+     "where": "yena vā vigṛhīto mayā.sandhatte tena-asya vigrahaṃ dīrghaṃ kariṣyāmi",
+     "problem": "Probable misreading. As rendered ('him with whom, attacked by me, he makes peace ... I shall make long his war with that one') the sense is self-contradictory (he makes peace with X, yet I prolong his war with X). sandhatte takes the instrumental of the party peace is made with, and mayā.sandhatte is joined by the e-text itself: read 'yena vigṛhītaḥ' = attacked by whom, 'mayā sandhatte' = makes peace with me, 'tena asya vigraham' = his war with that one. Not patched because the line is low confidence and needs a person.",
+     "fix": "or I shall make long his war with that one by whom [he], attacked, makes peace with me (Hindi: अथवा जिससे आक्रान्त [वह] मुझसे सन्धि करता है, उसके साथ उसका विग्रह लम्बा करूँगा, without वह); gloss of mayā then 'with me'",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पर्वत, वन, नदी, दुर्ग और एक द्वार की रक्षा",
+     "problem": "Five-member list: commas only in Hindi.",
+     "fix": "पर्वत, वन, नदी, दुर्ग, एक द्वार की रक्षा",
+     "severity": "minor",
+     "patch": {
+      "n": "33",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पर्वत, वन, नदी, दुर्ग और एक द्वार की रक्षा",
+      "new": "पर्वत, वन, नदी, दुर्ग, एक द्वार की रक्षा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "accomplished by march, and",
+     "problem": "glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "accomplished by marching, and",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "accomplished by march, and",
+      "new": "accomplished by marching, and"
+     }
+    },
+    {
+     "field": "english",
+     "where": "growth by march.",
+     "problem": "glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "growth by marching.",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "replace",
+      "field": "english",
+      "old": "growth by march.",
+      "new": "growth by marching."
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yāna-sādhyaḥ",
+     "problem": "Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "to be accomplished by marching",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "yāna-sādhyaḥ",
+      "field": "gloss",
+      "value": "to be accomplished by marching"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yānena",
+     "problem": "Gloss follows glossary 7.2 (settled earlier): yāna = marching, saṃśraya = seeking shelter.",
+     "fix": "by marching",
+     "severity": "minor",
+     "patch": {
+      "n": "35",
+      "op": "word",
+      "match_w": "yānena",
+      "field": "gloss",
+      "value": "by marching"
+     }
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "में स्थित कर्मों में",
+     "problem": "Without a comma, \"स्थित कर्मों में\" reads as works situated in the circle; sthitaḥ qualifies the subject and karmasu is the locative of the seeking.",
+     "fix": "में स्थित, कर्मों में",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "में स्थित कर्मों में",
+      "new": "में स्थित, कर्मों में"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "5 errors, 34 minor issues (38 machine patches). Main points: unit 32 (low confidence) has an invented extra 'or', a dropped 'mayā', an added वह and a probably wrong reading of 'yena vā vigṛhīto mayā sandhatte' (needs a person); unit 4 adds '[says he]'; yāna/saṃśraya must follow glossary 7.2 (marching, seeking shelter) in units 2, 9, 10, 17, 35; Hindi lists of three or more members take commas, not और (units 2, 20, 23, 27, 30, 32, 33); unit 5 w 'etad' should be 'etat'; unit 31 Hindi 'स्पष्ट रूप से' invented. Text flags are sound (13, 28, 32 mayā.sandhatte); the flag saṃhitasya→asaṃhitasya in 32 is a speculative conjecture, keep only with 'possible'. Lone '-' tokens (units 32 x4, 33 x1) are named 'continuation mark (not a word)' while other chapters use 'dash (punctuation)'; harmless, optional rename. No regrouping suggested. Units 1-38 otherwise ok; confidence values honest (32, 33 low)."
+}
