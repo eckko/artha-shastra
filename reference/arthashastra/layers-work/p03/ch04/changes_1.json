@@ -1,0 +1,165 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "पति के कुल से निकल गई स्त्री पर छह पण का दण्ड है, दुर्व्यवहार के कारण को छोड़कर।",
+  "new": "पति के कुल से निकल गई स्त्री पर छह पण का दण्ड है, दुर्व्यवहार को छोड़कर।",
+  "why": "reviewer (minor): 'के कारण' (on account of) is added; anyatra + ablative is 'except for' (glossary 5.2: no added words)"
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "For a woman who has gone out from her husband's family, the penalty is six paṇas, except on account of ill-treatment.",
+  "new": "For a woman who has gone out from her husband's family, the penalty is six paṇas, except for ill-treatment.",
+  "why": "reviewer (minor): 'on account of' is added"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "For giving room to another's wife, the penalty is of a hundred, except in adversities.",
+  "new": "For giving room to another's wife, [there is] a penalty of a hundred, except in adversities.",
+  "why": "reviewer (minor): glossary 4.10: bare number = 'a penalty of N' in running English"
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "In [cases of] prevention and ignorance, [she is] blameless.",
+  "new": "In [cases of] prevention and ignorance, [the person is] blameless.",
+  "why": "reviewer (error): nirdoṣaḥ is masculine and the subject is not stated; 'she' is an unsupported addition (units 4 and 7 concern the giver of room)"
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "vāraṇa (prevention, being held back) and ajñāna (ignorance) as printed. The intended sense may be 'when there was no prohibition and no knowledge' (a-vāraṇa) or 'when prevented (by force) or unaware'; not decided, nothing changed in the text. Subject not stated.",
+  "new": "vāraṇa (prevention, being held back) and ajñāna (ignorance) as printed. The intended sense may be 'when there was no prohibition and no knowledge' (a-vāraṇa) or 'when prevented (by force) or unaware'; not decided, nothing changed in the text. Subject not stated. Reviewer: vāraṇa-ajñānayoḥ is a regular dual locative of a dvandva as printed; no typo found, so no text_flag. nirdoṣaḥ is masculine, so the subject is not necessarily the woman.",
+  "why": "reviewer (minor): record of check"
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "For whence, indeed, [could there be] deceit of virtuous women?",
+  "new": "Whence, indeed, [could there be] deceit of virtuous women?",
+  "why": "reviewer (minor): 'For' and 'indeed' both render hi"
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "The verb jīyeta (passive of √jyā 'deprive', with the object kept in the accusative) is singular and goes with the woman; for the kinsmen it is understood. It is not certain what is concealed or who loses what; the second clause could also mean the kinsmen conceal the remaining śulka. śulka read as bride-price (glossary 4.12). '| 15 |' is the edition's verse number inside the text; 'iti niṣpatanam' closes the section, rendered 'Such is ...' (closing particle).",
+  "new": "The verb jīyeta (passive of √jyā 'deprive', with the object kept in the accusative) is singular and goes with the woman; for the kinsmen it is understood. It is not certain what is concealed or who loses what; the second clause could also mean the kinsmen conceal the remaining śulka. śulka read as bride-price (glossary 4.12). '| 15 |' is the edition's verse number inside the text; 'iti niṣpatanam' closes the section, rendered 'Such is ...' (closing particle). Reviewer: śulka elsewhere means toll/duty; the translation keeps śulka untranslated and the bride-price reading (as 4.12) rests on context only, not verified.",
+  "why": "reviewer (minor): sense should stay literal"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "A kinsman is not to be punished.",
+  "new": "A relative is not to be punished.",
+  "why": "reviewer (minor): glossary 3.7: bandhu = relative (jñāti/kulya carry 'kin/kinsman')"
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "bandhuḥ",
+  "old": "kinsman",
+  "new": "relative",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "On the road, in an interval, in going to a hidden place, for the purpose of sexual union, or in following on the road [a woman] who is suspected or forbidden, one should know [it to be] saṅgrahaṇa (literally 'seizing').",
+  "new": "On the road, in an interval, in going to a hidden place, for the purpose of sexual union, or in following on the road [a woman] who is suspected [and] forbidden, one should know [it to be] saṅgrahaṇa (literally 'seizing').",
+  "why": "reviewer (minor): the compound śaṅkita-pratiṣiddhāyām has no vā inside; 'or' is an unmarked addition"
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "मार्ग में, अन्तर में, छिपे स्थान पर जाने में, मैथुन के प्रयोजन से, अथवा शंकित या निषिद्ध के पीछे मार्ग में चलने में, संग्रहण जानना चाहिए।",
+  "new": "मार्ग में, अन्तर में, छिपे स्थान पर जाने में, मैथुन के प्रयोजन से, अथवा शंकित और निषिद्ध के पीछे मार्ग में चलने में, संग्रहण जानना चाहिए।",
+  "why": "reviewer (minor): unmarked 'या'; a dvandva is 'and'"
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "śaṅkita-pratiṣiddhāyām",
+  "old": "[woman] suspected or forbidden",
+  "new": "[woman] suspected and forbidden",
+  "why": "reviewer (minor): same"
+ },
+ {
+  "n": "21",
+  "field": "notes",
+  "old": "vyantare (vi-antara) is obscure: literally 'in an interval, in between'; 'in a remote place' is possible but not stated. The feminine locative śaṅkita-pratiṣiddhāyām implies a woman; the object of following is not stated. saṅgrahaṇa is a technical term kept with its literal sense.",
+  "new": "vyantare (vi-antara) is obscure: literally 'in an interval, in between'; 'in a remote place' is possible but not stated. The feminine locative śaṅkita-pratiṣiddhāyām implies a woman; the object of following is not stated. saṅgrahaṇa is a technical term kept with its literal sense. Reviewer: the dvandva is read literally 'suspected and forbidden'; 'suspected or forbidden' is possible but is not in the compound.",
+  "why": "reviewer (minor): alternative"
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "थोड़े समय के प्रवासी शूद्रों, वैश्यों, क्षत्रियों और ब्राह्मणों की पत्नियाँ, जिन्होंने सन्तान नहीं जनी, एक वर्ष और आगे का समय प्रतीक्षा करें; जिन्होंने सन्तान जनी, एक वर्ष से अधिक।",
+  "new": "थोड़े समय के प्रवासी शूद्रों, वैश्यों, क्षत्रियों और ब्राह्मणों की पत्नियाँ, जिन्होंने सन्तान नहीं जनी, एक वर्ष आगे का समय प्रतीक्षा करें; जिन्होंने सन्तान जनी, एक वर्ष से अधिक।",
+  "why": "reviewer (minor): unmarked 'और' (saṃvatsara-uttaram is one compound)"
+ },
+ {
+  "n": "28",
+  "field": "hindi",
+  "old": "अध्ययन करते हुए ब्राह्मण की सन्तान न जनी हुई दस वर्ष, सन्तान जनी हुई बारह वर्ष प्रतीक्षा करे; राजपुरुष की आयु के क्षय तक।",
+  "new": "सन्तान न जनी हुई अध्ययन करते हुए ब्राह्मण की दस वर्ष, सन्तान जनी हुई बारह वर्ष प्रतीक्षा करे; राजपुरुष की प्रतीक्षा आयु के क्षय तक करे।",
+  "why": "reviewer (error): reads as 'the brāhmaṇa's child'; and 'राजपुरुष की आयु' fixes 'his' without marking"
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "[A woman] who has not borne children should await a brāhmaṇa who is studying for ten years, one who has borne children for twelve [years]; [she should await] a royal servant until the end of [his] life.",
+  "new": "[A woman] who has not borne children should, for ten years, await a brāhmaṇa who is studying; [one] who has borne children, for twelve [years]; [she should await] a royal servant until the end of [his] life.",
+  "why": "reviewer (minor): 'studying for ten years' attaches the ten years to the studying"
+ },
+ {
+  "n": "31",
+  "field": "hindi",
+  "old": "धर्म-विवाह के बाद कुमारी, बिना बताए प्रवास पर गए और सुने न जाते हुए पति की सात तीर्थ प्रतीक्षा करे; सुने जाते हुए की एक वर्ष।",
+  "new": "धर्म-विवाह के बाद कुमारी, बिना बताए प्रवास पर गए, सुने न जाते हुए पति की सात तीर्थ प्रतीक्षा करे; सुने जाते हुए की एक वर्ष।",
+  "why": "reviewer (minor): unmarked 'और' (no ca in the Sanskrit; glossary 14.3)"
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "After a dharma marriage, a maiden should await for seven tīrthas the husband who has gone away without telling [her] and is not heard of; [one who is] heard of, for a year.",
+  "new": "After a dharma marriage, a maiden should await for seven tīrthas the husband who has gone away without telling [her], not being heard of; [one who is] heard of, for a year.",
+  "why": "reviewer (minor): unmarked 'and'"
+ },
+ {
+  "n": "32",
+  "field": "hindi",
+  "old": "बताकर प्रवास पर गए और सुने न जाते हुए की पाँच तीर्थ प्रतीक्षा करे; सुने जाते हुए की दस।",
+  "new": "बताकर प्रवास पर गए, सुने न जाते हुए की पाँच तीर्थ प्रतीक्षा करे; सुने जाते हुए की दस।",
+  "why": "reviewer (minor): unmarked 'और'"
+ },
+ {
+  "n": "32",
+  "field": "english",
+  "old": "[She] should await for five tīrthas one who has gone away after telling [her] and is not heard of; [one who is] heard of, for ten.",
+  "new": "[She] should await for five tīrthas one who has gone away after telling [her], not being heard of; [one who is] heard of, for ten.",
+  "why": "reviewer (minor): unmarked 'and'"
+ },
+ {
+  "n": "39",
+  "field": "english",
+  "old": "Among many, [to] the nearest, righteous [one], able to maintain, or [to] the youngest, or one without a wife.",
+  "new": "Among many, [to] the nearest, righteous [one], able to maintain, [to] the youngest, or one without a wife.",
+  "why": "reviewer (minor): one vā in the Sanskrit; the first 'or' is added"
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "इन दायादों को लाँघकर, प्राप्त करने में, जार के कर्म में, जार, स्त्री, देने वाला और प्राप्त करने वाला संग्रह के अत्यय को प्राप्त हुए हैं।",
+  "new": "इन दायादों को लाँघकर, पाने में, जार के कर्म में, जार, स्त्री, देने वाला और प्राप्त करने वाला संग्रह के अत्यय को प्राप्त हुए हैं।",
+  "why": "reviewer (minor): vedana/vettṛ (√vid) rendered with the same verb as samprāptāḥ (प्राप्त हुए)"
+ },
+ {
+  "n": "42",
+  "field": "hindi",
+  "old": "इन दायादों को लाँघकर, पाने में, जार के कर्म में, जार, स्त्री, देने वाला और प्राप्त करने वाला संग्रह के अत्यय को प्राप्त हुए हैं।",
+  "new": "इन दायादों को लाँघकर, पाने में, जार के कर्म में, जार, स्त्री, देने वाला और पाने वाला संग्रह के अत्यय को प्राप्त हुए हैं।",
+  "why": "reviewer (minor): vedana/vettṛ (√vid) rendered with the same verb as samprāptāḥ (प्राप्त हुए)"
+ }
+]
