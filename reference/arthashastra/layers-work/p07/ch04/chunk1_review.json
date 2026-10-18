@@ -1,0 +1,459 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "sthānam",
+     "problem": "'halting' is an added sense; unit 3 glosses the same word 'staying (sthāna)'",
+     "fix": "staying",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "sthānam",
+      "field": "gloss",
+      "value": "staying"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "'and non-use of the means'",
+     "problem": "'and' added; the Sanskrit has no ca between the three definitions (asyndeton); the copula is also placed unevenly",
+     "fix": "But the difference: staying (sthāna) [is] in a part of the qualities; staying quiet (āsana) [is] for the sake of obtaining one's own growth; non-use of the means [is] neglect (upekṣaṇa).",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "english",
+      "value": "But the difference: staying (sthāna) [is] in a part of the qualities; staying quiet (āsana) [is] for the sake of obtaining one's own growth; non-use of the means [is] neglect (upekṣaṇa)."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भेद यह है",
+     "problem": "'यह' is an unmarked addition (viśeṣaḥ stands alone before the dash)",
+     "fix": "किन्तु भेद —",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "किन्तु भेद यह है —",
+      "new": "किन्तु भेद —"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इच्छा वाले और नष्ट",
+     "problem": "'और' added between two adjectives with no ca (atisandhāna-kāmayoḥ ... aśaktayoḥ are asyndetic)",
+     "fix": "छल लेने की इच्छा वाले, नष्ट करने में असमर्थ",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "छल लेने की इच्छा वाले और नष्ट करने में",
+      "new": "छल लेने की इच्छा वाले, नष्ट करने में"
+     }
+    },
+    {
+     "field": "english",
+     "where": "desire to outwit [each other] and are unable",
+     "problem": "'and' added between two adjectives with no ca",
+     "fix": "who desire to outwit [each other], unable to destroy [each other]",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "who desire to outwit [each other] and are unable to destroy [each other]",
+      "new": "who desire to outwit [each other], unable to destroy [each other]"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "united and greatly grown",
+     "problem": "'and' added between two participles with no ca (glossary: asyndetic participles are not joined; the note itself says 'left asyndetic')",
+     "fix": "united, greatly grown",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "united and greatly grown",
+      "new": "united, greatly grown"
+     }
+    },
+    {
+     "field": "english",
+     "where": "their own works / works of the other",
+     "problem": "glossary: karma = action (works only for lists of public undertakings 5.1 or service 5.3); here a general sense",
+     "fix": "their own actions / the actions of the other",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "carry out their own works unobstructed",
+      "new": "carry out their own actions unobstructed"
+     }
+    },
+    {
+     "field": "english",
+     "where": "destroy the works of the other",
+     "problem": "same karma = action rule",
+     "fix": "destroy the actions of the other",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "destroy the works of the other",
+      "new": "destroy the actions of the other"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sva-karmāṇi",
+     "problem": "karma = action",
+     "fix": "their own actions",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "sva-karmāṇi",
+      "field": "gloss",
+      "value": "their own actions"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "karmāṇi",
+     "problem": "karma = action",
+     "fix": "actions",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "karmāṇi",
+      "field": "gloss",
+      "value": "actions"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sampannā (2 words)",
+     "problem": "w 'sampannāḥ' has a visarga but the printed form and gram (f. nom. sg.) are sampannā; w keeps the printed case ending.; first of the two (me vārttā), the second is already sampannā",
+     "fix": "sampannā",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "sampannāḥ",
+      "field": "w",
+      "value": "sampannā"
+     }
+    },
+    {
+     "field": "gloss/english",
+     "where": "pratāpa",
+     "problem": "'might' collides with glossary prabhāva = might (9.1); pratāpa is literally heat, so use 'splendour'",
+     "fix": "for the sake of splendour (pratāpa)",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "for the sake of might (pratāpa)",
+      "new": "for the sake of splendour (pratāpa)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "pratāpa-artham",
+     "problem": "as above",
+     "fix": "for the sake of splendour",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "pratāpa-artham",
+      "field": "gloss",
+      "value": "for the sake of splendour"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सारे जमावड़े",
+     "problem": "same term sarva-sandoha is सर्व-समूह in units 12 and 14; colloquial and inconsistent",
+     "fix": "सर्व-समूह के साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सारे जमावड़े के साथ",
+      "new": "सर्व-समूह के साथ"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ग्रहण करने योग्य",
+     "problem": "glossary 9.4: ādeya = acceptable (आदेय)",
+     "fix": "आदेय",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ग्रहण करने योग्य",
+      "new": "आदेय"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "para-paṇyāni",
+     "problem": "para in this chapter is the other king; English text already says 'the other's wares'",
+     "fix": "the other's wares",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "para-paṇyāni",
+      "field": "gloss",
+      "value": "the other's wares"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दूसरों के पण्य को लौटा दूँगा",
+     "problem": "'दूसरों' plural against 'the other's wares'; 'लौटा दूँगा' reads as handing back (nivartayiṣyāmi caus. = turn back)",
+     "fix": "दूसरे के पण्य को वापस मोड़ दूँगा",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दूसरों के पण्य को लौटा दूँगा",
+      "new": "दूसरे के पण्य को वापस मोड़ दूँगा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "confidence",
+     "where": "abhyuccita",
+     "problem": "'exalted' for abhi-ud-√ci is itself a guess (the note admits 'probably strengthened'); obscure word, so low",
+     "fix": "low",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "set",
+      "field": "confidence",
+      "value": "low"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जुते पशु",
+     "problem": "yugya = fit to be yoked (draught-animal); 'जुते' says already yoked",
+     "fix": "जोतने योग्य पशु",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जुते पशु",
+      "new": "जोतने योग्य पशु"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "lobhayitum",
+     "problem": "causative infinitive is active 'to tempt'; the passive sense belongs to śakya",
+     "fix": "to tempt",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "lobhayitum",
+      "field": "gloss",
+      "value": "to tempt"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śakyāḥ",
+     "problem": "'can' is not a gloss of the adjective śakya",
+     "fix": "possible",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "śakyāḥ",
+      "field": "gloss",
+      "value": "possible"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शूर, वृद्ध और अनुरक्त",
+     "problem": "Hindi वृद्ध means 'old', English says 'grown' (unit 6 uses बढ़ी हुई for vivṛddha)",
+     "fix": "शूर, बढ़ी हुई और अनुरक्त",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शूर, वृद्ध और अनुरक्त",
+      "new": "शूर, बढ़ी हुई और अनुरक्त"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उनके साथ न मिलने पर",
+     "problem": "reads 'on not joining with them'; teṣām asamavāye = in their not coming together",
+     "fix": "उनके न मिलने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "20",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उनके साथ न मिलने पर",
+      "new": "उनके न मिलने पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जैसा लाभ हुआ वैसी",
+     "problem": "'वैसी' supplies a feminine noun/pronoun (the share) not in the Sanskrit",
+     "fix": "अथवा लूट जैसा लाभ हुआ,",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जैसा लाभ हुआ वैसी",
+      "new": "जैसा लाभ हुआ"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "22 units checked. 4 errors, 20 minor (24 with machine patches). No regrouping suggested (unit 7 one quotation over lines a-e is right). Settled in the draft's favour: sandhi = peace (matches 8.5/12.5/9.7), artha = wealth in unit 7 (set against land, Hindi धन per glossary 9.7 plain-wealth rule), sarva-sandoha = whole gathering kept literal, yātavya: unit 11 noun 'the one to be marched against' agrees with p07 ch05; unit 19 yātavyam is an impersonal gerundive with avaśyam (unit 15 has no yātavya), so the two renderings are consistent. text_flags saravanti→sāravanti and śeeṣa→śeṣa accepted (suggest non-empty). Unit 14 confidence lowered (abhyuccita). Hand edits: see report."
+}
