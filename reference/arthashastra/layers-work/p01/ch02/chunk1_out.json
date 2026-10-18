@@ -1,0 +1,1026 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ānvīkṣikī",
+      "words": [
+       {
+        "w": "ānvīkṣikī",
+        "gloss": "ānvīkṣikī (inquiry)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "trayī",
+      "words": [
+       {
+        "w": "trayī",
+        "gloss": "triple Veda",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārttā",
+      "words": [
+       {
+        "w": "vārttā",
+        "gloss": "economic activity",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.nītiś",
+      "words": [
+       {
+        "w": "daṇḍa-nītiḥ",
+        "gloss": "policy of punishment",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca-iti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidyāḥ",
+      "words": [
+       {
+        "w": "vidyāḥ",
+        "gloss": "sciences",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“आन्वीक्षिकी, त्रयी, वार्ता और दण्डनीति” — विद्याएँ।",
+  "english": "“Ānvīkṣikī, the triple Veda, economic activity and the policy of punishment”: [these are] the sciences.",
+  "text_flags": [],
+  "notes": "Verbless clause; English supplies the copula in brackets. trayī is rendered 'triple Veda' (literally the triad); vārttā = economic activity and daṇḍa-nīti = policy of punishment follow the glossary (daṇḍa as punishment, not army). ānvīkṣikī is kept as a name with the literal 'inquiry' in the gloss only. The iti closes the list of four named sciences.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trayī",
+      "words": [
+       {
+        "w": "trayī",
+        "gloss": "triple Veda",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārttā",
+      "words": [
+       {
+        "w": "vārttā",
+        "gloss": "economic activity",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa",
+      "words": [
+       {
+        "w": "daṇḍa",
+        "gloss": "punishment",
+        "gram": "first member of compound daṇḍa-nīti (see text_flags)"
+       }
+      ]
+     },
+     {
+      "src": "nītiś",
+      "words": [
+       {
+        "w": "nītiḥ",
+        "gloss": "policy",
+        "gram": "f. nom. sg., second member of daṇḍa-nīti"
+       }
+      ]
+     },
+     {
+      "src": "ca-iti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mānavāḥ",
+      "words": [
+       {
+        "w": "mānavāḥ",
+        "gloss": "name (the Manavas)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“त्रयी, वार्ता और दण्डनीति,” ऐसा मानव कहते हैं।",
+  "english": "“The triple Veda, economic activity and the policy of punishment,” say the Manavas.",
+  "text_flags": [
+   {
+    "src": "daṇḍa",
+    "suggest": "daṇḍa.nītiś",
+    "why": "Space printed instead of the compound dot (daṇḍa nītiś); the same compound is daṇḍa.nītiś in units 1, 4, 6."
+   }
+  ],
+  "notes": "The sciences are not named again in the Sanskrit of this unit; the Manavas' list is given as printed. Because the compound is split by a space in the e-text, daṇḍa and nītiḥ are listed in their two tokens as members of one compound.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trayī",
+      "words": [
+       {
+        "w": "trayī",
+        "gloss": "triple Veda",
+        "gram": "f. stem, first member of tat-puruṣa trayī-viśeṣaḥ (see text_flags)"
+       }
+      ]
+     },
+     {
+      "src": "viśeṣo",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "special variety",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hy",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ānvīkṣikī-iti",
+      "words": [
+       {
+        "w": "ānvīkṣikī",
+        "gloss": "ānvīkṣikī (inquiry)",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“क्योंकि आन्वीक्षिकी त्रयी का विशेष”",
+  "english": "“For Ānvīkṣikī [is] a special variety of the triple Veda.”",
+  "text_flags": [
+   {
+    "src": "trayī",
+    "suggest": "trayī.viśeṣo",
+    "why": "Possible missing compound dot: trayī viśeṣaḥ is read as a tat-puruṣa 'special variety of the trayī'; as printed it is two words."
+   }
+  ],
+  "notes": "Read as the compound trayī-viśeṣaḥ ('a distinction/special variety of the triple Veda'); viśeṣa could also be 'distinction', 'particular part'. hi is the causal 'for', giving the reason for the Manavas' view in unit 2. The speakers are not repeated; the iti closes the view. If trayī and viśeṣaḥ were two separate words the sentence would not be well formed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vārttā",
+      "words": [
+       {
+        "w": "vārttā",
+        "gloss": "economic activity",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.nītiś",
+      "words": [
+       {
+        "w": "daṇḍa-nītiḥ",
+        "gloss": "policy of punishment",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca-iti",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bārhaspatyāḥ",
+      "words": [
+       {
+        "w": "bārhaspatyāḥ",
+        "gloss": "name (the Barhaspatyas)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“वार्ता और दण्डनीति,” ऐसा बार्हस्पत्य कहते हैं।",
+  "english": "“Economic activity and the policy of punishment,” say the Barhaspatyas.",
+  "text_flags": [],
+  "notes": "",
+  "confidence": "high"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃvaraṇa.mātraṃ",
+      "words": [
+       {
+        "w": "saṃvaraṇa-mātram",
+        "gloss": "mere covering",
+        "gram": "n. nom. sg., karmadhāraya"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trayī",
+      "words": [
+       {
+        "w": "trayī",
+        "gloss": "triple Veda",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "loka.yātrā.vida",
+      "words": [
+       {
+        "w": "loka-yātrā-vidaḥ",
+        "gloss": "those knowing the world's ways",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“क्योंकि त्रयी आवरण मात्र,” ऐसा लोकयात्रा को जानने वाले कहते हैं।",
+  "english": "“For the triple Veda [is] mere covering,” say those who know the ways of the world.",
+  "text_flags": [],
+  "notes": "Verbless clause. saṃvaraṇa = covering; 'concealment' or 'veil' are possible; Hindi आवरण used for it. loka-yātrā-vidaḥ (nominative plural, the visarga lost before iti) is taken as the speakers, parallel to 'iti mānavāḥ' in unit 2; 'ways of the world' follows the glossary (loka-yātrā). The view continues that of the Barhaspatyas of unit 4.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "daṇḍa.nītir",
+      "words": [
+       {
+        "w": "daṇḍa-nītiḥ",
+        "gloss": "policy of punishment",
+        "gram": "f. nom. sg., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ekā",
+      "words": [
+       {
+        "w": "ekā",
+        "gloss": "one",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyā-ity",
+      "words": [
+       {
+        "w": "vidyā",
+        "gloss": "science",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "auśanasāḥ",
+      "words": [
+       {
+        "w": "auśanasāḥ",
+        "gloss": "name (the Aushanasas)",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“दण्डनीति एक विद्या,” ऐसा औशनस कहते हैं।",
+  "english": "“The policy of punishment [is] the one science,” say the Aushanasas.",
+  "text_flags": [],
+  "notes": "Verbless clause. ekā is rendered 'one' (not 'only'), since the Sanskrit has no eva here.",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasyāṃ",
+      "words": [
+       {
+        "w": "tasyām",
+        "gloss": "in it",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarva.vidyā.ārambhāḥ",
+      "words": [
+       {
+        "w": "sarva-vidyā-ārambhāḥ",
+        "gloss": "undertakings of all sciences",
+        "gram": "m. nom. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pratibaddhā",
+      "words": [
+       {
+        "w": "pratibaddhāḥ",
+        "gloss": "bound up",
+        "gram": "m. nom. pl. pp. prati-√bandh"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“क्योंकि उसमें सभी विद्याओं के आरम्भ बँधे हुए हैं।”",
+  "english": "“For in it the undertakings of all the sciences are bound up.”",
+  "text_flags": [],
+  "notes": "The view of the Aushanasas continues from unit 6; no speaker is repeated, the quotation marks carry the iti. 'In it' = in the policy of punishment (feminine, daṇḍa-nīti). pratibaddha could also be 'dependent, connected'; rendered literally 'bound up'.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "catasra",
+      "words": [
+       {
+        "w": "catasraḥ",
+        "gloss": "four",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidyā",
+      "words": [
+       {
+        "w": "vidyāḥ",
+        "gloss": "sciences",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "name (Kautilya)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“विद्याएँ चार ही,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“[There are] just four sciences,” says Kautilya.",
+  "text_flags": [],
+  "notes": "Verbless clause; 'There are' is a bracketed supply. The four are named in unit 1.",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tābhir",
+      "words": [
+       {
+        "w": "tābhiḥ",
+        "gloss": "through them",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "dharma.arthau",
+      "words": [
+       {
+        "w": "dharma-arthau",
+        "gloss": "dharma and wealth",
+        "gram": "m. acc. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "that",
+        "gram": "ind. (relative)"
+       }
+      ]
+     },
+     {
+      "src": "vidyāt",
+      "words": [
+       {
+        "w": "vidyāt",
+        "gloss": "[one] would know",
+        "gram": "3 sg. opt. √vid"
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidyānāṃ",
+      "words": [
+       {
+        "w": "vidyānām",
+        "gloss": "of the sciences",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vidyātvam",
+      "words": [
+       {
+        "w": "vidyātvam",
+        "gloss": "science-hood",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके द्वारा धर्म और अर्थ को जाने, वह विद्याओं का विद्यात्व।",
+  "english": "That through them [one] would know dharma and wealth, that [is] the science-hood of the sciences.",
+  "text_flags": [],
+  "notes": "Subjectless optative vidyāt: '[one]'. artha = wealth here (dharma-artha, as in the glossary); other readings such as 'material welfare' are not applied. yat can also be read as a relative 'that by which'. vidyātva = the state of being a science. Verbless second clause.",
+  "confidence": "medium"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sāṅkhyaṃ",
+      "words": [
+       {
+        "w": "sāṅkhyam",
+        "gloss": "Sāṅkhya",
+        "gram": "n. nom. sg., name"
+       }
+      ]
+     },
+     {
+      "src": "yogo",
+      "words": [
+       {
+        "w": "yogaḥ",
+        "gloss": "Yoga",
+        "gram": "m. nom. sg., name"
+       }
+      ]
+     },
+     {
+      "src": "lokāyataṃ",
+      "words": [
+       {
+        "w": "lokāyatam",
+        "gloss": "Lokāyata",
+        "gram": "n. nom. sg., name"
+       }
+      ]
+     },
+     {
+      "src": "ca-ity",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ānvīkṣikī",
+      "words": [
+       {
+        "w": "ānvīkṣikī",
+        "gloss": "ānvīkṣikī (inquiry)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“साङ्ख्य, योग और लोकायत” — आन्वीक्षिकी।",
+  "english": "“Sāṅkhya, Yoga and Lokāyata”: [this is] Ānvīkṣikī.",
+  "text_flags": [],
+  "notes": "The three are kept as names of systems; nothing about their doctrines is imported. Verbless clause; the iti closes the list, as in unit 1.",
+  "confidence": "high"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dharma.adharmau",
+      "words": [
+       {
+        "w": "dharma-adharmau",
+        "gloss": "dharma and unrighteousness",
+        "gram": "m. acc. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "trayyām",
+      "words": [
+       {
+        "w": "trayyām",
+        "gloss": "in the triple Veda",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "artha.anarthau",
+      "words": [
+       {
+        "w": "artha-anarthau",
+        "gloss": "gain and loss",
+        "gram": "m. acc. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "vārttāyāṃ",
+      "words": [
+       {
+        "w": "vārttāyām",
+        "gloss": "in economic activity",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "naya.anayau",
+      "words": [
+       {
+        "w": "naya-anayau",
+        "gloss": "good policy and bad policy",
+        "gram": "m. acc. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.nītyāṃ",
+      "words": [
+       {
+        "w": "daṇḍa-nītyām",
+        "gloss": "in the policy of punishment",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bala.abale",
+      "words": [
+       {
+        "w": "bala-abale",
+        "gloss": "strength and weakness",
+        "gram": "n. acc. du., dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "etāsāṃ",
+      "words": [
+       {
+        "w": "etāsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hetubhir",
+      "words": [
+       {
+        "w": "hetubhiḥ",
+        "gloss": "by reasons",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "anvīkṣamāṇā",
+      "words": [
+       {
+        "w": "anvīkṣamāṇā",
+        "gloss": "examining",
+        "gram": "f. nom. sg. pres. part. anu-√īkṣ"
+       }
+      ]
+     },
+     {
+      "src": "lokasya",
+      "words": [
+       {
+        "w": "lokasya",
+        "gloss": "of the world",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "upakaroti",
+      "words": [
+       {
+        "w": "upakaroti",
+        "gloss": "benefits",
+        "gram": "3 sg. pres. upa-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "vyasane",
+      "words": [
+       {
+        "w": "vyasane",
+        "gloss": "in calamity",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "'bhyudaye",
+      "words": [
+       {
+        "w": "abhyudaye",
+        "gloss": "in prosperity",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "buddhim",
+      "words": [
+       {
+        "w": "buddhim",
+        "gloss": "mind",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avasthāpayati",
+      "words": [
+       {
+        "w": "avasthāpayati",
+        "gloss": "establishes",
+        "gram": "3 sg. pres. caus. ava-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "prajñā.vākya.kriyā.vaiśāradyaṃ",
+      "words": [
+       {
+        "w": "prajñā-vākya-kriyā-vaiśāradyam",
+        "gloss": "proficiency in insight, speech, action",
+        "gram": "n. acc. sg., dvandva + tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "brings about",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्रयी में धर्म और अधर्म, वार्ता में अर्थ और अनर्थ, दण्डनीति में नय और अनय, और इनके बल और दुर्बलता को हेतुओं से जाँचती हुई लोक का उपकार करती है, व्यसन और अभ्युदय में बुद्धि को स्थापित करती है, और प्रज्ञा, वाक्य, क्रिया की निपुणता करती है।",
+  "english": "Examining by reasons dharma and unrighteousness in the triple Veda, gain and loss in economic activity, good policy and bad policy in the policy of punishment, and the strength and weakness of these, [it] benefits the world, establishes the mind in calamity and in prosperity, and brings about proficiency in insight, speech and action.",
+  "text_flags": [],
+  "notes": "The subject (feminine, Ānvīkṣikī of unit 10) is not named; English supplies '[it]', Hindi leaves it to the feminine verb forms. etāsām hetubhiḥ may be read 'by the reasons of these' with bala-abale as a separate object; the rendering takes 'strength and weakness of these (the sciences)' as the last object, with ca joining it to the three pairs. artha-anartha = gain and loss (glossary 9.7 reading; 'wealth' for artha belongs to dharma-artha). naya-anaya follows naya = policy; anaya could be read as 'misfortune' (aya/anaya of 6.2) but is paired here with naya. vyasana = calamity, the opposite of abhyudaya. avasthāpayati is literally 'causes to stand', often rendered 'keeps steady'. vākya = speech/utterance; prajñā = insight; vaiśāradya = proficiency. Long unit; medium confidence on the construction.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pradīpaḥ",
+      "words": [
+       {
+        "w": "pradīpaḥ",
+        "gloss": "lamp",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarva.vidyānām",
+      "words": [
+       {
+        "w": "sarva-vidyānām",
+        "gloss": "of all sciences",
+        "gram": "f. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "upāyaḥ",
+      "words": [
+       {
+        "w": "upāyaḥ",
+        "gloss": "means",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarva.karmaṇām",
+      "words": [
+       {
+        "w": "sarva-karmaṇām",
+        "gloss": "of all actions",
+        "gram": "n. gen. pl., tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āśrayaḥ",
+      "words": [
+       {
+        "w": "āśrayaḥ",
+        "gloss": "resort",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sarva.dharmāṇāṃ",
+      "words": [
+       {
+        "w": "sarva-dharmāṇām",
+        "gloss": "of all dharmas",
+        "gram": "m. gen. pl., tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śaśvad",
+      "words": [
+       {
+        "w": "śaśvat",
+        "gloss": "always",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ānvīkṣikī",
+      "words": [
+       {
+        "w": "ānvīkṣikī",
+        "gloss": "ānvīkṣikī (inquiry)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "matā",
+      "words": [
+       {
+        "w": "matā",
+        "gloss": "regarded",
+        "gram": "f. nom. sg. pp. √man"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आन्वीक्षिकी सदा सभी विद्याओं का दीपक, सभी कर्मों का उपाय, सभी धर्मों का आश्रय मानी गई है।",
+  "english": "Ānvīkṣikī is always regarded [as] the lamp of all the sciences, the means of all actions, the resort of all dharmas.",
+  "text_flags": [],
+  "notes": "One verse (anuṣṭubh). 'as' is bracketed because matā takes the three nominatives as predicates. upāyaḥ = means (general, not the four upāyas); karman = action (glossary general entry); āśraya = resort (glossary 7.2).",
+  "confidence": "high"
+ }
+]
