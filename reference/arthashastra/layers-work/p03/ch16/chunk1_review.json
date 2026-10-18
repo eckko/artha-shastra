@@ -1,0 +1,1142 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "समझाया गया",
+     "problem": "glossary 3.10: vyākhyātam in Hindi is always व्याख्या की गई",
+     "fix": "व्याख्या की गई",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "समझाया गया",
+      "new": "व्याख्या की गई"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": " (as a legal matter)",
+     "problem": "bracketless added gloss '(as a legal matter)' is interpretation, not in the Sanskrit",
+     "fix": "",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": " (as a legal matter)",
+      "new": ""
+     }
+    },
+    {
+     "field": "english",
+     "where": "it would stand in one case of regret.",
+     "problem": "glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss; also ekatra is glossed 'in one place' but English said 'in one case'",
+     "fix": "it would stand in one place, in anuśaya.",
+     "severity": "error",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "it would stand in one case of regret.",
+      "new": "it would stand in one place, in anuśaya."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पश्चात्ताप होने पर",
+     "problem": "glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss",
+     "fix": "अनुशय होने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पश्चात्ताप होने पर",
+      "new": "अनुशय होने पर"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anuśaye",
+     "problem": "glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss",
+     "fix": "in anuśaya (literally 'regret')",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "anuśaye",
+      "field": "gloss",
+      "value": "in anuśaya (literally 'regret')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the regretful one",
+     "problem": "glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss",
+     "fix": "the one with anuśaya",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "the regretful one",
+      "new": "the one with anuśaya"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पश्चात्ताप करने वाले को",
+     "problem": "glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss",
+     "fix": "अनुशय वाले को",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पश्चात्ताप करने वाले को",
+      "new": "अनुशय वाले को"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anuśayinaḥ",
+     "problem": "glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss",
+     "fix": "to the one with anuśaya (literally 'regretful')",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "anuśayinaḥ",
+      "field": "gloss",
+      "value": "to the one with anuśaya (literally 'regretful')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ca / apakāriṣu",
+     "problem": "the first ca (asādhuṣu karmasu ca aupaghātikeṣu vā) is not rendered in English or Hindi; ca is always rendered; 'wrongdoers' for apakārin is an interpretation (one who does injury)",
+     "fix": "A gift for dharma [made] in improper actions and, or, in injurious ones, a gift for wealth [made] to non-benefactors or to injurers, and a gift for desire [made] to the unworthy.",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "english",
+      "value": "A gift for dharma [made] in improper actions and, or, in injurious ones, a gift for wealth [made] to non-benefactors or to injurers, and a gift for desire [made] to the unworthy."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "असाधु कर्मों में या हानिकारक कर्मों में",
+     "problem": "ca dropped in Hindi; 'कर्मों' added a second time as a noun beside the adjective aupaghātikeṣu (Hindi never adds a noun)",
+     "fix": "धर्म के लिए दान असाधु कर्मों में और, या, हानिकारकों में, अर्थ के लिए दान उपकार न करने वालों को या अपकार करने वालों को, और काम के लिए दान अयोग्यों को।",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "set",
+      "field": "hindi",
+      "value": "धर्म के लिए दान असाधु कर्मों में और, या, हानिकारकों में, अर्थ के लिए दान उपकार न करने वालों को या अपकार करने वालों को, और काम के लिए दान अयोग्यों को।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "apakāriṣu",
+     "problem": "'wrongdoers' is an interpretation",
+     "fix": "to those who injure",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "apakāriṣu",
+      "field": "gloss",
+      "value": "to those who injure"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "word 'ca' in ca-aupaghātikeṣu (first of two entries with w 'ca')",
+     "problem": "gloss 'also' is wrong: the glossary renders ca as 'and'; two entries share the w 'ca' in this unit so a match_w patch cannot target it",
+     "fix": "change gloss of the FIRST word entry 'ca' (token ca-aupaghātikeṣu) from 'also' to 'and'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "whole sentence",
+     "problem": "'so that' for yathā...tathā is a changed construction; 'neither...nor' does not render ca; glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss",
+     "fix": "And in the way that the giver and the receiver would not be harmed, in that way the skilled should arrange the anuśaya.",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "set",
+      "field": "english",
+      "value": "And in the way that the giver and the receiver would not be harmed, in that way the skilled should arrange the anuśaya."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पश्चात्ताप का",
+     "problem": "glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss",
+     "fix": "अनुशय का",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पश्चात्ताप का",
+      "new": "अनुशय का"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anuśayam",
+     "problem": "glossary 3.13/3.15: anuśaya stays anuśaya in the text, 'regret' only in the gloss",
+     "fix": "anuśaya (literally 'regret')",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "anuśayam",
+      "field": "gloss",
+      "value": "anuśaya (literally 'regret')"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "yathā",
+     "problem": "yathā...tathā are correlatives, not 'so that'",
+     "fix": "in which way",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "yathā",
+      "field": "gloss",
+      "value": "in which way"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "tathā",
+     "problem": "correlative of yathā",
+     "fix": "in that way",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "tathā",
+      "field": "gloss",
+      "value": "in that way"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "from fear of punishment",
+     "problem": "glossary: daṇḍa = penalty",
+     "fix": "from fear of penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "from fear of punishment",
+      "new": "from fear of penalty"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍa-bhayāt",
+     "problem": "glossary: daṇḍa = penalty",
+     "fix": "from fear of penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "daṇḍa-bhayāt",
+      "field": "gloss",
+      "value": "from fear of penalty"
+     }
+    },
+    {
+     "field": "english",
+     "where": "[it] as well.",
+     "problem": "'as well' is an unmarked addition; ca is already rendered by 'and'",
+     "fix": "[it].",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "[it] as well.",
+      "new": "[it]."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दिए गए भय-दान को",
+     "problem": "'दिए गए' (given) is an unmarked added participle; bhaya-dāna is the compound itself",
+     "fix": "भय-दान को",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दिए गए भय-दान को",
+      "new": "भय-दान को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in injuring others",
+     "problem": "hiṃsāyām is a noun (f. loc.), not a gerund; matches the gloss",
+     "fix": "in injury of others",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "in injuring others",
+      "new": "in injury of others"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the remainder of a fine and toll",
+     "problem": "glossary: plain daṇḍa = penalty, not 'fine'; śulka stays śulka in Book 3 (3.3, 3.4, 3.13) and 'toll' is an interpretation",
+     "fix": "the remainder of the penalty and śulka",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "the remainder of a fine and toll",
+      "new": "the remainder of the penalty and śulka"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍa-śulka-śeṣam",
+     "problem": "as above",
+     "fix": "remainder of penalty and śulka",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "daṇḍa-śulka-śeṣam",
+      "field": "gloss",
+      "value": "remainder of penalty and śulka"
+     }
+    },
+    {
+     "field": "english",
+     "where": "a son, or an heir, or the taker",
+     "problem": "the Sanskrit has one vā (putro dāyādo vā rikthaharo); the first 'or' is added",
+     "fix": "a son, an heir or the taker",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "a son, or an heir, or the taker",
+      "new": "a son, an heir or the taker"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पुत्र या दायाद या रिक्थ लेने वाला",
+     "problem": "added second 'या'; glossary 3.7: dāyāda = heir (उत्तराधिकारी)",
+     "fix": "पुत्र, उत्तराधिकारी या रिक्थ लेने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुत्र या दायाद या रिक्थ लेने वाला",
+      "new": "पुत्र, उत्तराधिकारी या रिक्थ लेने वाला"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अनपाकर्म vs English \"non-withdrawal\"",
+     "problem": "the closing label is translated in English but kept in Hindi (and unit 1 renders apradāna literally); a person should decide whether the obscure label stays untranslated in both",
+     "fix": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "But as to sale by a non-owner:",
+     "problem": "'as to' is an unmarked addition",
+     "fix": "But the sale by a non-owner:",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "But as to sale by a non-owner:",
+      "new": "But the sale by a non-owner:"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "but not the seller",
+     "problem": "'but' is an unmarked addition (na = not); Hindi has none",
+     "fix": "not the seller",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "but not the seller",
+      "new": "not the seller"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "kṛtvā → \"having furnished\" / प्रस्तुत करके",
+     "problem": "'furnished/प्रस्तुत' renders an idiom not in the Sanskrit (kṛtvā = having made); acceptable only as flagged in notes",
+     "fix": "if a person prefers strict literal: 'having made his own means of proof' / 'अपना प्रमाण बनाकर'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pañca-bandhaḥ",
+     "problem": "glossary 3.11/3.13: pañca-bandha is kept untranslated with the literal sense only in the gloss",
+     "fix": "pañca-bandha (literally 'five-bond')",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "word",
+      "match_w": "pañca-bandhaḥ",
+      "field": "gloss",
+      "value": "pañca-bandha (literally 'five-bond')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "toll-station",
+     "problem": "śulka stays śulka (glossary 3.3/3.4/3.13); 3.9 says 'duty', a person should align",
+     "fix": "śulka-station",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "toll-station",
+      "new": "śulka-station"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "śulka-sthāne",
+     "problem": "as above",
+     "fix": "at the śulka-station",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "word",
+      "match_w": "śulka-sthāne",
+      "field": "gloss",
+      "value": "at the śulka-station"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चुराया और उत्पन्न",
+     "problem": "glossary 3.15: in a dvandva of three or more members Hindi uses commas with no और (no ca in the Sanskrit)",
+     "fix": "चुराया, उत्पन्न",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चुराया और उत्पन्न",
+      "new": "चुराया, उत्पन्न"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तीन पक्ष के बाद",
+     "problem": "glossary 3.15: pakṣa in tri-pakṣa = fortnight (पखवाड़ा)",
+     "fix": "तीन पखवाड़े के बाद",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तीन पक्ष के बाद",
+      "new": "तीन पखवाड़े के बाद"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the unclaimed [thing]",
+     "problem": "Hindi keeps अनभिसार but English translates 'unclaimed' (an interpretation of 'not approached'); keep the term in both",
+     "fix": "the anabhisāra",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "replace",
+      "field": "english",
+      "old": "the unclaimed [thing]",
+      "new": "the anabhisāra"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anabhisāram",
+     "problem": "as above",
+     "fix": "anabhisāra (literally 'not approached')",
+     "severity": "minor",
+     "patch": {
+      "n": "22",
+      "op": "word",
+      "match_w": "anabhisāram",
+      "field": "gloss",
+      "value": "anabhisāra (literally 'not approached')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "niṣkraya = \"redemption price\"",
+     "problem": "glossary 4.12/3.13 give niṣkraya = ransom/for a ransom; here a price for animals; 'price' is an added noun",
+     "fix": "a person should decide: 'redemption' (as is) or 'ransom'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "trifling [things]",
+     "problem": "glossary 3.17: phalgu (of goods) = insignificant",
+     "fix": "insignificant [things]",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "english",
+      "old": "trifling [things]",
+      "new": "insignificant [things]"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ratna-sāra-phalgu-kupyānām",
+     "problem": "glossary 3.17",
+     "fix": "of gems, valuables, insignificant things and raw materials",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "word",
+      "match_w": "ratna-sāra-phalgu-kupyānām",
+      "field": "gloss",
+      "value": "of gems, valuables, insignificant things and raw materials"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "रत्न, बहुमूल्य, तुच्छ और कुप्य",
+     "problem": "glossary 3.15: no और in a dvandva of three or more members without ca",
+     "fix": "रत्न, बहुमूल्य, तुच्छ, कुप्य",
+     "severity": "minor",
+     "patch": {
+      "n": "24",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रत्न, बहुमूल्य, तुच्छ और कुप्य",
+      "new": "रत्न, बहुमूल्य, तुच्छ, कुप्य"
+     }
+    }
+   ]
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्वयं-ग्रह",
+     "problem": "grāha (seizure) is written ग्राह; ग्रह is a different word (planet)",
+     "fix": "स्वयं-ग्राह",
+     "severity": "minor",
+     "patch": {
+      "n": "27",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्वयं-ग्रह",
+      "new": "स्वयं-ग्राह"
+     }
+    }
+   ]
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "ārya-prāṇebhyaḥ",
+     "problem": "glossary 3.13: ārya-prāṇa = one of ārya life (bahuvrīhi), not 'ārya lives'",
+     "fix": "from those of ārya life",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "ārya-prāṇebhyaḥ",
+      "field": "gloss",
+      "value": "from those of ārya life"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "ārya-prāṇebhyaḥ",
+     "problem": "as above",
+     "fix": "m. abl. pl., bahuvrīhi",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "word",
+      "match_w": "ārya-prāṇebhyaḥ",
+      "field": "gram",
+      "value": "m. abl. pl., bahuvrīhi"
+     }
+    },
+    {
+     "field": "english",
+     "where": "except for ārya lives",
+     "problem": "glossary 3.13",
+     "fix": "except for those of ārya life",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "english",
+      "old": "except for ārya lives",
+      "new": "except for those of ārya life"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आर्य-प्राणों और",
+     "problem": "glossary 3.13 (bahuvrīhi, 'one of ārya life')",
+     "fix": "आर्य-प्राण वालों और",
+     "severity": "minor",
+     "patch": {
+      "n": "28",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आर्य-प्राणों और",
+      "new": "आर्य-प्राण वालों और"
+     }
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिनके देश नष्ट",
+     "problem": "glossary 4.3: deśa (region) = Hindi प्रदेश; देश is kept for viṣaya/territory",
+     "fix": "जिनके प्रदेश नष्ट",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिनके देश नष्ट",
+      "new": "जिनके प्रदेश नष्ट"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "देश-त्याग और राज्य-विप्लव",
+     "problem": "deśa = प्रदेश (glossary 4.3); no और in a dvandva of three or more members (glossary 3.15)",
+     "fix": "प्रदेश-त्याग, राज्य-विप्लव",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "देश-त्याग और राज्य-विप्लव",
+      "new": "प्रदेश-त्याग, राज्य-विप्लव"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "neglected for twenty years and unsettled",
+     "problem": "'and' added (two participles with no ca, glossary 3.4); anavasita is obscure (the note says so) and Hindi keeps अनवसित, so keep the term in English too",
+     "fix": "neglected for twenty years, anavasita",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "english",
+      "old": "neglected for twenty years and unsettled",
+      "new": "neglected for twenty years, anavasita"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उपेक्षित और अनवसित",
+     "problem": "'और' added (no ca in the Sanskrit; glossary 3.4)",
+     "fix": "उपेक्षित, अनवसित",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उपेक्षित और अनवसित",
+      "new": "उपेक्षित, अनवसित"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anavasitam",
+     "problem": "obscure term kept, literal sense in the gloss only",
+     "fix": "anavasita (literally 'not settled')",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "word",
+      "match_w": "anavasitam",
+      "field": "gloss",
+      "value": "anavasita (literally 'not settled')"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Kinsmen,",
+     "problem": "glossary 3.4/3.13: jñāti = kin; 'kinsman' is kulya",
+     "fix": "Kin,",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "english",
+      "old": "Kinsmen,",
+      "new": "Kin,"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "jñātayaḥ",
+     "problem": "as above",
+     "fix": "kin",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "word",
+      "match_w": "jñātayaḥ",
+      "field": "gloss",
+      "value": "kin"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ज्ञाति, श्रोत्रिय",
+     "problem": "glossary 3.2/3.13: jñāti = ज्ञाति-जन",
+     "fix": "ज्ञाति-जन, श्रोत्रिय",
+     "severity": "minor",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ज्ञाति, श्रोत्रिय",
+      "new": "ज्ञाति-जन, श्रोत्रिय"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आधि,",
+     "problem": "glossary 3.1: ādhi = pledge, Hindi बन्धक, never आधि (distress)",
+     "fix": "बन्धक,",
+     "severity": "error",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आधि,",
+      "new": "बन्धक,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वानप्रस्थों, यतियों और ब्रह्मचारियों",
+     "problem": "glossary 3.15: no और in a dvandva of three or more members (no ca in the Sanskrit)",
+     "fix": "वानप्रस्थों, यतियों, ब्रह्मचारियों",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वानप्रस्थों, यतियों और ब्रह्मचारियों",
+      "new": "वानप्रस्थों, यतियों, ब्रह्मचारियों"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धर्मभ्राता और समान",
+     "problem": "as above",
+     "fix": "धर्मभ्राता, समान",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धर्मभ्राता और समान",
+      "new": "धर्मभ्राता, समान"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अग्निकार्य और महाकच्छ-वर्धन",
+     "problem": "as above (four-member dvandva)",
+     "fix": "अग्निकार्य, महाकच्छ-वर्धन",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अग्निकार्य और महाकच्छ-वर्धन",
+      "new": "अग्निकार्य, महाकच्छ-वर्धन"
+     }
+    },
+    {
+     "field": "english",
+     "where": "they should perform",
+     "problem": "the subject of careyuḥ is not stated; supplied pronouns are bracketed (cf. unit 34)",
+     "fix": "[they] should perform",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "replace",
+      "field": "english",
+      "old": "they should perform",
+      "new": "[they] should perform"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "kṣapaṇa-abhiṣeka-agni-kārya-mahā-kaccha-vardhanāni",
+     "problem": "gram '' omits the tat-puruṣa inside the dvandva",
+     "fix": "n. acc. pl., dvandva (the last member a tat-puruṣa)",
+     "severity": "minor",
+     "patch": {
+      "n": "38",
+      "op": "word",
+      "match_w": "kṣapaṇa-abhiṣeka-agni-kārya-mahā-kaccha-vardhanāni",
+      "field": "gram",
+      "value": "n. acc. pl., dvandva (the last member a tat-puruṣa)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "long compound",
+     "problem": "checked: the e-text dots give kṣapaṇa . abhiṣeka . agni . kārya . mahā . kaccha . vardhanāni; the draft's grouping (kṣapaṇa, abhiṣeka, agni-kārya, mahā-kaccha-vardhana) as one ONE-entry dvandva is consistent with the dots and with Mahakaccha in 4.3; alternatives (kaccha-vardhana as 'beard/loincloth growing') cannot be decided from the text",
+     "fix": "no change; Mahakaccha kept per glossary 4.3",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पाषण्ड साधु",
+     "problem": "Hindi साधु means a holy man/ascetic; sādhavaḥ here is 'good ones'",
+     "fix": "पाषण्ड अच्छे",
+     "severity": "minor",
+     "patch": {
+      "n": "39",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पाषण्ड साधु",
+      "new": "पाषण्ड अच्छे"
+     }
+    }
+   ]
+  },
+  {
+   "n": "40",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पारुष्य, चोरी, साहस और संग्रहण",
+     "problem": "glossary 3.15: no और in a dvandva of three or more members without ca",
+     "fix": "पारुष्य, चोरी, साहस, संग्रहण",
+     "severity": "minor",
+     "patch": {
+      "n": "40",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पारुष्य, चोरी, साहस और संग्रहण",
+      "new": "पारुष्य, चोरी, साहस, संग्रहण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by punishment",
+     "problem": "glossary: daṇḍa = penalty",
+     "fix": "by penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "by punishment",
+      "new": "by penalty"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daṇḍena",
+     "problem": "as above",
+     "fix": "by penalty",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "word",
+      "match_w": "daṇḍena",
+      "field": "gloss",
+      "value": "by penalty"
+     }
+    },
+    {
+     "field": "english",
+     "where": "struck by adharma and neglected",
+     "problem": "'and' added: the two participles have no ca (glossary 3.4/3.15)",
+     "fix": "struck by adharma, neglected",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "english",
+      "old": "struck by adharma and neglected",
+      "new": "struck by adharma, neglected"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आहत और उपेक्षित",
+     "problem": "'और' added (no ca)",
+     "fix": "आहत, उपेक्षित",
+     "severity": "minor",
+     "patch": {
+      "n": "42",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आहत और उपेक्षित",
+      "new": "आहत, उपेक्षित"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 42 units. Issues: 5 error, 62 minor (of which 62 machine patches). Main problems: anuśaya rendered 'regret' (glossary 3.13/3.15 keep anuśaya); Hindi आधि for ādhi (must be बन्धक); first ca of unit 4 dropped; added 'and/or/और/या' where the Sanskrit has none (units 9, 31, 42); daṇḍa 'punishment/fine' instead of penalty; ārya-prāṇa not aligned with 3.13; comma-only Hindi dvandvas (3.15 rule); tri-pakṣa Hindi पखवाड़ा; jñāti = kin; Hindi साधु in unit 39. The one text_flag (unit 39 pāṣaḍhāḥ -> pāṣaṇḍāḥ) is correct. No missing text_flags found; the only quotation (unit 12) is balanced. Unit 38 long compound division accepted. No regrouping suggested."
+}
