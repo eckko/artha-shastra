@@ -1,6 +1,6 @@
 # Status: arthashastra
 
-Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1.
+Updated: 2026-10-18 on branch docs/2026-10-17/version-3. Base source: S1.
 
 | Part | Chapter | Sanskrit lines | Source | Hindi | English | Check | Notes |
 |---|---|---|---|---|---|---|---|
@@ -61,26 +61,26 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1.
 | 02 | 34 | 13 | S1 | -- | -- | pass |  |
 | 02 | 35 | 16 | S1 | -- | -- | pass |  |
 | 02 | 36 | 49 | S1 | -- | -- | pass |  |
-| 03 | 01 | 57 | S1 | -- | -- | pass |  |
-| 03 | 02 | 49 | S1 | -- | -- | pass |  |
-| 03 | 03 | 33 | S1 | -- | -- | pass |  |
-| 03 | 04 | 43 | S1 | -- | -- | pass |  |
-| 03 | 05 | 34 | S1 | -- | -- | pass |  |
-| 03 | 06 | 25 | S1 | -- | -- | pass |  |
-| 03 | 07 | 41 | S1 | -- | -- | pass |  |
-| 03 | 08 | 29 | S1 | -- | -- | pass |  |
-| 03 | 09 | 39 | S1 | -- | -- | pass |  |
-| 03 | 10 | 47 | S1 | -- | -- | pass |  |
-| 03 | 11 | 51 | S1 | -- | -- | pass |  |
-| 03 | 12 | 54 | S1 | -- | -- | pass |  |
-| 03 | 13 | 38 | S1 | -- | -- | pass |  |
-| 03 | 14 | 40 | S1 | -- | -- | pass |  |
-| 03 | 15 | 20 | S1 | -- | -- | pass |  |
-| 03 | 16 | 43 | S1 | -- | -- | pass |  |
-| 03 | 17 | 18 | S1 | -- | -- | pass |  |
-| 03 | 18 | 13 | S1 | -- | -- | pass |  |
-| 03 | 19 | 31 | S1 | -- | -- | pass |  |
-| 03 | 20 | 25 | S1 | -- | -- | pass |  |
+| 03 | 01 | 57 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 02 | 49 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 03 | 33 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 04 | 43 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 05 | 34 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 06 | 25 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 07 | 41 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 08 | 29 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 09 | 39 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 10 | 47 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 11 | 51 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 12 | 54 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 13 | 38 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 14 | 40 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 15 | 20 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 16 | 43 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 17 | 18 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 18 | 13 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 19 | 31 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
+| 03 | 20 | 25 | S1 | AI draft, reviewed (p03-hindi.md) | AI draft, reviewed (p03-english.md) | pass | word split in p03-sandhi.md |
 | 04 | 01 | 66 | S1 | AI draft, reviewed (p04-hindi.md) | AI draft, reviewed (p04-english.md) | pass | word split in p04-sandhi.md |
 | 04 | 02 | 37 | S1 | AI draft, reviewed (p04-hindi.md) | AI draft, reviewed (p04-english.md) | pass | word split in p04-sandhi.md |
 | 04 | 03 | 45 | S1 | AI draft, reviewed (p04-hindi.md) | AI draft, reviewed (p04-english.md) | pass | word split in p04-sandhi.md |
