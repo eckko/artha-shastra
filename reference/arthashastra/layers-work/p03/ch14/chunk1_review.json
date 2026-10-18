@@ -1,0 +1,784 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "anuśaya (regret)",
+     "problem": "Glossary 3.13/3.15: anuśaya stays anuśaya; 'regret' only in the gloss, not in the English text.",
+     "fix": "may obtain anuśaya, or [may obtain]",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": " (regret)",
+      "new": ""
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "व्यय-कर्म",
+     "problem": "English and gloss read the compound as a dvandva ('expenditure and work'); the Hindi drops the 'और'.",
+     "fix": "उसके व्यय और कर्म द्वारा",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके व्यय-कर्म द्वारा",
+      "new": "उसके व्यय और कर्म द्वारा"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "tasya.vyaya.karmaṇā",
+     "problem": "Missing text_flag: 'tasya' is an inflected pronoun, not a compound member; the e-text joins such words with '-' (cf. unit 16 'tasya-atikrame'). The '.' is probably a slip for a space/'-'. The word entry must then be split by hand (see report).",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "tasya.vyaya.karmaṇā",
+        "suggest": "tasya-vyaya.karmaṇā",
+        "why": "possible: 'tasya' is an inflected pronoun, not a compound member (cf. unit 16 'tasya-atikrame'); '.' after it is probably a slip for '-' or a space, so 'tasya' + 'vyaya-karmaṇā'"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और मेरे द्वारा",
+     "problem": "Sanskrit has vā (or), not ca; Hindi 'और' and English 'nor' change the particle.",
+     "fix": "या मेरे द्वारा दूसरे के लिए",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और मेरे द्वारा",
+      "new": "या मेरे द्वारा"
+     }
+    },
+    {
+     "field": "english",
+     "where": "nor is [it] to be done",
+     "problem": "vā rendered 'nor'; keep 'or'.",
+     "fix": "or [it] is not to be done by me for another",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "by you, nor is [it] to be done",
+      "new": "by you, or [it] is not to be done"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "elsewhere than [for] the employer",
+     "problem": "Glossary (3.4, 5.2): anyatra X = except for X.",
+     "fix": "except [for] the employer",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "elsewhere than [for] the employer",
+      "new": "except [for] the employer"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "भर्ता से अन्यत्र",
+     "problem": "Glossary: anyatra X = X को छोड़कर.",
+     "fix": "भर्ता को छोड़कर",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "भर्ता से अन्यत्र",
+      "new": "भर्ता को छोड़कर"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "anyatra",
+     "problem": "align with glossary",
+     "fix": "except",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "anyatra",
+      "field": "gloss",
+      "value": "except"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "he should know [it] as done",
+     "problem": "eva dropped from the English (Hindi has ही); 'he' is not in the Sanskrit and the notes say the subject is not stated.",
+     "fix": "[one] should know [it] indeed as done",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "he should know [it] as done",
+      "new": "[one] should know [it] indeed as done"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "as done of his",
+     "problem": "eva dropped from the English (Hindi has ही).",
+     "fix": "[one] should know [it] indeed as done of his",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "[one] should know [it] as done of his",
+      "new": "[one] should know [it] indeed as done of his"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तो",
+     "problem": "'तो' is an unmarked added word (no Sanskrit counterpart).",
+     "fix": "न करवाए, इसका",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "न करवाए, तो इसका",
+      "new": "न करवाए, इसका"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तय की गई बात",
+     "problem": "'बात' is an added noun; sambhāṣita is a participle only.",
+     "fix": "बातचीत में तय किए गए से अधिक",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बातचीत में तय की गई बात से",
+      "new": "बातचीत में तय किए गए से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संघ के भृतकों",
+     "problem": "English/gloss read saṅgha-bhṛta as 'hired in a group' (cf. 4.5, not the political saṅgha); Hindi 'संघ के' gives a different relation and invites the political sense. Keep the compound.",
+     "fix": "इससे संघ-भृतों की व्याख्या की गई।",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "संघ के भृतकों",
+      "new": "संघ-भृतों"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "For transgression of that",
+     "problem": "Glossary 3.8: 'tasya-atikrame' = in transgression of that.",
+     "fix": "In transgression of that, the penalty is twenty-four paṇas.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "english",
+      "old": "For transgression of that",
+      "new": "In transgression of that"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसके अतिक्रमण में",
+     "problem": "Glossary 3.8: उसका अतिक्रमण होने पर.",
+     "fix": "उसका अतिक्रमण होने पर चौबीस पण का दण्ड है।",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसके अतिक्रमण में",
+      "new": "उसका अतिक्रमण होने पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "| 17 |",
+     "problem": "Marker words must be glossed as in ch01 unit 16: 'verse-number marker (not a word)'.",
+     "fix": "verse-number marker (not a word)",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "17",
+       "op": "word",
+       "match_w": "|",
+       "field": "gloss",
+       "value": "verse-number marker (not a word)",
+       "occurrence": "all"
+      },
+      {
+       "n": "17",
+       "op": "word",
+       "match_w": "17",
+       "field": "gloss",
+       "value": "verse-number marker (not a word)"
+      },
+      {
+       "n": "17",
+       "op": "word",
+       "match_w": "17",
+       "field": "gram",
+       "value": "number"
+      }
+     ]
+    },
+    {
+     "field": "text_flags",
+     "where": "| 17 |",
+     "problem": "Missing text_flag for the embedded '| 17 |' (as ch01 unit 16).",
+     "fix": "add flag",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "set",
+      "field": "text_flags",
+      "value": [
+       {
+        "src": "| 17 |",
+        "suggest": "remove '| 17 |' from the text line",
+        "why": "embedded verse number and bars inside the text; not Sanskrit words"
+       }
+      ]
+     }
+    },
+    {
+     "field": "notes",
+     "where": "GROUPING",
+     "problem": "Add the GROUPING note as in ch01 unit 16.",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "append_note",
+      "text": "GROUPING: the printed '| 17 |' is an embedded verse number plus separators inside the unit; the closing label 'iti bhṛtaka-adhikāraḥ' (section title) follows it and belongs to the section, not to the sentence. The three marker words are not Sanskrit words."
+     }
+    },
+    {
+     "field": "english",
+     "where": "Such [is]",
+     "problem": "Closing label 'iti X' = 'Such is X' (ch01 unit 16, glossary 3.4/3.9); no bracketed copula.",
+     "fix": "Such is the section on hired workers.",
+     "severity": "minor",
+     "patch": {
+      "n": "17",
+      "op": "replace",
+      "field": "english",
+      "old": "Such [is]",
+      "new": "Such is"
+     }
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संघ के भृतक",
+     "problem": "As unit 12: keep the compound; 'in a group' (English) vs 'of the group' (Hindi) disagree.",
+     "fix": "संघ-भृत",
+     "severity": "minor",
+     "patch": {
+      "n": "18",
+      "op": "replace",
+      "field": "hindi",
+      "old": "संघ के भृतक,",
+      "new": "संघ-भृत,"
+     }
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो डूब गया, उसके",
+     "problem": "Relative+correlative adds a pronoun 'उसके' not in the Sanskrit (glossary 4.12: no added वह); also inconsistent with unit 21 'डूबे हुए'.",
+     "fix": "डूबे हुए के जैसे किए गए कर्म के अनुरूप अंश",
+     "severity": "minor",
+     "patch": {
+      "n": "19",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो डूब गया, उसके जैसे किए गए कर्म का अनुरूप अंश",
+      "new": "डूबे हुए के जैसे किए गए कर्म के अनुरूप अंश"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "और माल निकाल लिए जाने पर",
+     "problem": "No ca in the Sanskrit between the two locatives; 'और' is added (glossary 3.17/3.4: no और for an unmarked series).",
+     "fix": "सिद्ध हो जाने पर, माल निकाल लिए जाने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सिद्ध हो जाने पर और माल निकाल लिए जाने पर",
+      "new": "सिद्ध हो जाने पर, माल निकाल लिए जाने पर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "accomplished and the wares",
+     "problem": "same: 'and' added without ca",
+     "fix": "accomplished, the wares [being] taken out",
+     "severity": "minor",
+     "patch": {
+      "n": "21",
+      "op": "replace",
+      "field": "english",
+      "old": "accomplished and the wares are taken out",
+      "new": "accomplished, the wares [being] taken out"
+     }
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "svā-pracāra-dravya-varjam",
+     "problem": "Flag is sound (the e-text undoes sandhi, so a fused 'svā' inside a '.' compound is not sva+a), but the corrected form must be used in `w`, gloss, Hindi and English (project convention, cf. glossary 4.6).",
+     "fix": "sva-pracāra-dravya-varjam",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "28",
+       "op": "word",
+       "match_w": "svā-pracāra-dravya-varjam",
+       "field": "gloss",
+       "value": "excluding the things of sva-pracāra"
+      },
+      {
+       "n": "28",
+       "op": "word",
+       "match_w": "svā-pracāra-dravya-varjam",
+       "field": "w",
+       "value": "sva-pracāra-dravya-varjam"
+      },
+      {
+       "n": "28",
+       "op": "replace",
+       "field": "hindi",
+       "old": "स्वा-प्रचार",
+       "new": "स्व-प्रचार"
+      },
+      {
+       "n": "28",
+       "op": "replace",
+       "field": "english",
+       "old": "svā-pracāra things",
+       "new": "sva-pracāra things"
+      },
+      {
+       "n": "28",
+       "op": "append_note",
+       "text": "Reviewer: w, Hindi and English use the corrected sva-pracāra (see text_flags); the printed form is svā-pracāra."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "ca",
+     "problem": "ca dropped in the Hindi (English has 'And').",
+     "fix": "और अग्निष्टोम आदि यज्ञों में",
+     "severity": "error",
+     "patch": {
+      "n": "29",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अग्निष्टोम आदि यज्ञों में",
+      "new": "और अग्निष्टोम आदि यज्ञों में"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "madhyama-upasadaḥ",
+     "problem": "gram says ablative (with ūrdhvam 'after'); the gloss 'of' is a genitive.",
+     "fix": "from the middle upasad",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "madhyama-upasadaḥ",
+      "field": "gloss",
+      "value": "from the middle upasad"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "pāda-ūnam",
+     "problem": "modifies aṃśam (m.), not n.; the compound is a tat-puruṣa (ūna by a quarter).",
+     "fix": "tat-puruṣa, m. acc. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "29",
+      "op": "word",
+      "match_w": "pāda-ūnam",
+      "field": "gram",
+      "value": "tat-puruṣa, m. acc. sg."
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "nītāḥ",
+     "problem": "'forward' is not in the Sanskrit (no pra-); keep the root sense literal (glossary: no invented senses).",
+     "fix": "brought",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "31",
+       "op": "word",
+       "match_w": "nītāḥ",
+       "field": "gloss",
+       "value": "brought"
+      },
+      {
+       "n": "31",
+       "op": "replace",
+       "field": "english",
+       "old": "become brought forward",
+       "new": "become brought"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hi",
+     "problem": "hi dropped in the Hindi (English has 'For').",
+     "fix": "क्योंकि बृहस्पतिसव को छोड़कर ...",
+     "severity": "error",
+     "patch": {
+      "n": "32",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बृहस्पतिसव को छोड़कर",
+      "new": "क्योंकि बृहस्पतिसव को छोड़कर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "33",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "34",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सत्रों में",
+     "problem": "w and English are genitive ('of the sessions'); Hindi 'में' is a locative.",
+     "fix": "सत्रों के",
+     "severity": "minor",
+     "patch": {
+      "n": "34",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सत्रों में",
+      "new": "सत्रों के"
+     }
+    }
+   ]
+  },
+  {
+   "n": "35",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "śata.gur.ayajvā",
+     "problem": "Flag is sound (śataguḥ ayajvā ca sahasraguḥ pairs the two cow-owners, and 'guru' cannot be right beside 'sahasraguḥ'), but a join of two real words is written with '-', not '.', in this e-text's convention.",
+     "fix": "śata.gur-ayajvā",
+     "severity": "minor",
+     "patch": {
+      "n": "37",
+      "op": "set",
+      "field": "text_flags.0.suggest",
+      "value": "śata.gur-ayajvā"
+     }
+    },
+    {
+     "field": "english",
+     "where": "owner of a hundred/thousand cows",
+     "problem": "'owner' is not in the bahuvrīhi śata-gu / sahasra-gu ('having a hundred / thousand cows'); Hindi 'स्वामी' likewise.",
+     "fix": "one having a hundred cows ... one having a thousand cows",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "english",
+       "old": "the owner of a hundred cows",
+       "new": "one having a hundred cows"
+      },
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "english",
+       "old": "the owner of a thousand cows",
+       "new": "one having a thousand cows"
+      },
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "hindi",
+       "old": "सौ गायों का स्वामी",
+       "new": "सौ गायों वाला"
+      },
+      {
+       "n": "37",
+       "op": "replace",
+       "field": "hindi",
+       "old": "हज़ार गायों का स्वामी",
+       "new": "हज़ार गायों वाला"
+      },
+      {
+       "n": "37",
+       "op": "word",
+       "match_w": "śata-guḥ",
+       "field": "gloss",
+       "value": "having a hundred cows"
+      },
+      {
+       "n": "37",
+       "op": "word",
+       "match_w": "sahasra-guḥ",
+       "field": "gloss",
+       "value": "having a thousand cows"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "improper acceptance",
+     "problem": "'improper' is interpretation; asat = bad (notes say literal 'bad acceptance'; Hindi has बुरे).",
+     "fix": "One engaged in bad acceptance",
+     "severity": "minor",
+     "patch": [
+      {
+       "n": "38",
+       "op": "replace",
+       "field": "english",
+       "old": "improper acceptance",
+       "new": "bad acceptance"
+      },
+      {
+       "n": "38",
+       "op": "word",
+       "match_w": "asat-pratigrahe",
+       "field": "gloss",
+       "value": "in bad acceptance"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "summary": "38 units reviewed. Issues: 6 error, 27 minor. Main problems: particles dropped in one language (ca in 29 Hindi, hi in 32 Hindi, eva in 6/9 English), vā rendered 'और/nor' in 4, glossary non-conformities (anuśaya bracket in 2, anyatra in 5, 'tasya-atikrame' in 16, closing label in 17), added words in Hindi (तो, बात, उसके, और, स्वामी), unit 17 marker glossing/flag/GROUPING as ch01 unit 16, unit 28 corrected form not used in w. Drafter's three text_flags are sound (28 svā; 34 sanānām->satr(a)ṇām; 37 śata.guru.yajvā, with suggest respelled to use '-'). One missing flag: unit 3 'tasya.vyaya.karmaṇā' (added by patch). No unmatched quote in the e-text. No regrouping suggested. Hand edits (word entries) are listed in the report: unit 3 split of tasya."
+}

@@ -1,0 +1,343 @@
+[
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "deśa-kāla-anurūpam",
+  "old": "m. acc. sg. (tat-puruṣa)",
+  "new": "n. acc. sg. (tat-puruṣa)",
+  "why": "reviewer (minor): agrees with neuter bhoga-vetanam (or is adverbial); 'm.' is wrong"
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "He should make good [the thing] lost or destroyed on account of use, and the penalty is twenty-four paṇas; or otherwise, in the niṣpatana (falling out).",
+  "new": "He should make good [the thing] lost or destroyed on account of use, and the penalty is twenty-four paṇas; or otherwise, in niṣpatana.",
+  "why": "reviewer (minor): niṣpatana is kept untranslated (glossary 3.12); the literal sense belongs in the gloss only"
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "इसके बन्धक रखने, विक्रय और अपव्यय में चार गुना पञ्च-बन्ध दण्ड है।",
+  "new": "और इसके बन्धक रखने, विक्रय और हटा ले जाने में चार गुना पञ्च-बन्ध दण्ड है।",
+  "why": "reviewer (error): ca (ca-asya) is not rendered in the Hindi; apavyayana = 'carrying off' (glossary 3.17), अपव्यय is a different sense (wasteful spending)"
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "And for pledging, selling and spending away of this, the penalty is four times the pañca-bandha.",
+  "new": "And for pledging, selling and carrying off of this, the penalty is four times the pañca-bandha.",
+  "why": "reviewer (minor): apavyayana = carrying off (glossary 3.17), not 'spending away'"
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "ādhāna-vikraya-apavyayaneṣu",
+  "old": "in pledging, selling and spending away",
+  "new": "in pledging, selling and carrying off",
+  "why": "reviewer (minor): apavyayana = carrying off (glossary 3.17)"
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "pañca-bandha is kept untranslated (obscure; literally 'five-binding'); catur-guṇa-pañca-bandha could also be read 'fourfold, five-bandha'. apavyayana = literally 'spending away'. asya is read as 'of this' (the thing in question, i.e. the upanidhi); ādhāna here is the act of pledging.",
+  "new": "pañca-bandha is kept untranslated (obscure; literally 'five-binding'); catur-guṇa-pañca-bandha could also be read 'fourfold, five-bandha'. apavyayana = literally 'spending away'. asya is read as 'of this' (the thing in question, i.e. the upanidhi); ādhāna here is the act of pledging. Review: apavyayana is rendered 'carrying off' as in 3.17 (the draft's 'spending away' is withdrawn); 3.13 still has 'spending away' for apavyayamāna, a person should align.",
+  "why": "reviewer (minor): notes out of line with the fixed rendering"
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "In exchange or in niṣpātana (causing to fall out) [the penalty is] equal to the value.",
+  "new": "In exchange or in niṣpātana [the penalty is] equal to the value.",
+  "why": "reviewer (minor): niṣpātana is kept untranslated; the literal sense only in the gloss"
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "वृद्धि से निवृत्त हुआ बन्धक, उस समय निश्चित मूल्य वाला, वहीं रहे, अथवा अनाश-विनाश-करण से अधिष्ठित।",
+  "new": "अथवा वृद्धि से निवृत्त हुआ बन्धक, उस समय निश्चित मूल्य वाला, वहीं रहे, अथवा अनाश-विनाश-करण से अधिष्ठित।",
+  "why": "reviewer (error): vā after nivṛtta-vṛddhiko (English 'Or') is not rendered in the Hindi; only the second vā is"
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "अथवा धारणिक की अनुपस्थिति में विनाश के भय से, मूल्य बढ़ जाने पर, धर्मस्थ की अनुमति से बेच दे, अथवा आधि-पाल के विश्वास से।",
+  "new": "अथवा धारणिक की अनुपस्थिति में विनाश के भय से, मूल्य बढ़ जाने पर, धर्मस्थ की अनुमति से बेच दे, अथवा बन्धक-पाल के विश्वास से।",
+  "why": "reviewer (error): ādhi is never आधि (distress) but बन्धक (glossary 3.1, 3.12)"
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "Or, in the absence of the debtor, from fear of loss, [the holder], permitted by the dharmastha, should sell it when its price has risen; or [he may do so] with the trust of the pledge-keeper.",
+  "new": "Or, in the absence of the debtor, from fear of loss, [the holder], permitted by the dharmastha, should sell [it] when its price has risen; or [he may do so] with the trust of the pledge-keeper.",
+  "why": "reviewer (minor): 'it' is supplied but not bracketed (the draft's own note says it is bracketed)"
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "But the immovable [pledge], to be enjoyed by labour or to be enjoyed by its fruit, he should bring in the livelihood cleared of investment, increase and value, without loss of value.",
+  "new": "But the immovable [pledge], to be enjoyed by labour or to be enjoyed by its fruit, he should bring in the livelihood cleared of putting-in, increase and value, without loss of value.",
+  "why": "reviewer (minor): prakṣepa = putting-in (glossary 3.13), 'investment' is an imported sense"
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "prakṣepa-vṛddhi-mūlya-śuddham",
+  "old": "cleared of investment, increase and value",
+  "new": "cleared of putting-in, increase and value",
+  "why": "reviewer (minor): prakṣepa = putting-in (glossary 3.13)"
+ },
+ {
+  "n": "15",
+  "field": "notes",
+  "old": "Compressed text. ājīva = livelihood (the sense 'profit/income' only in notes). upanayet 'should bring in' (also 'credit, apply'). amūlya-kṣayeṇa read 'without loss of value'; the a- could be read as a privative of mūlya-kṣaya. prakṣepa rendered 'investment' (literally 'throwing in'). The object-pledge 'sthāvaraḥ' is masculine and supplied noun 'pledge' is in brackets.",
+  "new": "Compressed text. ājīva = livelihood (the sense 'profit/income' only in notes). upanayet 'should bring in' (also 'credit, apply'). amūlya-kṣayeṇa read 'without loss of value'; the a- could be read as a privative of mūlya-kṣaya. prakṣepa rendered 'investment' (literally 'throwing in'). The object-pledge 'sthāvaraḥ' is masculine and supplied noun 'pledge' is in brackets. Review: prakṣepa is rendered 'putting-in' (glossary 3.13); the draft's 'investment' is withdrawn.",
+  "why": "reviewer (minor): notes out of line with the fixed rendering"
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "One with the anvādhi in hand [travelling] with a caravan, or one who has not reached the assigned ground, or one broken and abandoned by robbers, should not make good the anvādhi.",
+  "new": "One with the anvādhi in hand [travelling] with a caravan, or one who has not reached the assigned ground, or one broken and abandoned by thieves, should not make good the anvādhi.",
+  "why": "reviewer (minor): cora = thief; 'robber' is the fixed rendering of pratirodhaka (unit 2)"
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "coraiḥ",
+  "old": "by robbers",
+  "new": "by thieves",
+  "why": "reviewer (minor): cora = thief; 'robber' is pratirodhaka"
+ },
+ {
+  "n": "23",
+  "field": "hindi",
+  "old": "भ्रेष और उपनिपात से, देश और काल को रोकने वाला, दिया हुआ, नष्ट अथवा विनष्ट की वे भरपाई न करें।",
+  "new": "भ्रेष और उपनिपात से, देश और काल को रोकने वाला, दिया हुआ, नष्ट अथवा विनष्ट की भरपाई न करें।",
+  "why": "reviewer (minor): pronoun वे added for an unstated subject (glossary 3.2, 3.10)"
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "[What is] given, lost or destroyed by bhreṣa and upanipāta, obstructing place and time, they should not make good.",
+  "new": "[What is] given, lost or destroyed by bhreṣa and mishap, obstructing place and time, they should not make good.",
+  "why": "reviewer (minor): upanipāta = mishap (glossary 3.15)"
+ },
+ {
+  "n": "23",
+  "field": "word.gloss",
+  "word": "bhreṣa-upanipātābhyām",
+  "old": "by bhreṣa and upanipāta",
+  "new": "by bhreṣa and mishap",
+  "why": "reviewer (minor): upanipāta = mishap (glossary 3.15)"
+ },
+ {
+  "n": "23",
+  "field": "notes",
+  "old": "bhreṣa is kept untranslated; upanipāta rendered by the sense 'befalling' only in the gloss. deśa-kāla-uparodhi is obscure (literally 'obstructing place and time'): possibly 'conflicting with the stipulated place and time'; low confidence. The 'what is' is bracketed in English only.",
+  "new": "bhreṣa is kept untranslated; upanipāta rendered by the sense 'befalling' only in the gloss. deśa-kāla-uparodhi is obscure (literally 'obstructing place and time'): possibly 'conflicting with the stipulated place and time'; low confidence. The 'what is' is bracketed in English only. Review: upanipāta = mishap in English (Hindi उपनिपात), as 3.15; bhreṣa stays untranslated.",
+  "why": "reviewer (minor): notes out of line with the fixed rendering"
+ },
+ {
+  "n": "25",
+  "field": "hindi",
+  "old": "वैयावृत्य द्वारा विक्रय तो — वैयावृत्य करने वाले देश और काल के अनुसार बेचते हुए, पण्य को जैसा हुआ वैसा, मूल्य और उदय दें।",
+  "new": "वैयावृत्य द्वारा विक्रय तो — वैयावृत्य करने वाले देश और काल के अनुसार बेचते हुए, पण्य को जैसा हुआ, मूल्य और उदय दें।",
+  "why": "reviewer (minor): correlative वैसा is an unmarked added word (yathā-jātam only)"
+ },
+ {
+  "n": "29",
+  "field": "english",
+  "old": "Or, in those pertaining to dealings, in the trusted ones, [and] in those not to be spoken of to the king, [what is] lost or destroyed by bhreṣa and upanipāta, they should not give even the value.",
+  "new": "Or, in those pertaining to dealings, in the trusted ones, [and] in those not to be spoken of to the king, [what is] lost or destroyed by bhreṣa and mishap, they should not give even the value.",
+  "why": "reviewer (minor): upanipāta = mishap (glossary 3.15)"
+ },
+ {
+  "n": "29",
+  "field": "word.gloss",
+  "word": "bhreṣa-upanipātābhyām",
+  "old": "by bhreṣa and upanipāta",
+  "new": "by bhreṣa and mishap",
+  "why": "reviewer (minor): upanipāta = mishap (glossary 3.15)"
+ },
+ {
+  "n": "33",
+  "field": "english",
+  "old": "And the nikṣepa [is explained] by the upanidhi.",
+  "new": "And the deposit [is explained] by the upanidhi.",
+  "why": "reviewer (minor): nikṣepa = deposit (glossary 4.6); the gloss already says 'deposit'"
+ },
+ {
+  "n": "37",
+  "field": "english",
+  "old": "For these, the rule of deposit is not preceded by a means of proof (karaṇa).",
+  "new": "For these, the dharma of deposit is not preceded by a means of proof (karaṇa).",
+  "why": "reviewer (minor): dharma is fixed as dharma (glossary head, 3.7 'dharma of inheritance'); 'rule' is not allowed"
+ },
+ {
+  "n": "37",
+  "field": "word.gloss",
+  "word": "nikṣepa-dharmaḥ",
+  "old": "rule of deposit",
+  "new": "dharma of deposit",
+  "why": "reviewer (minor): dharma is fixed as dharma"
+ },
+ {
+  "n": "37",
+  "field": "notes",
+  "old": "karaṇa rendered 'means of proof' (as in 4.1); an alternative is 'document'. dharma here is 'rule', not dharma in the abstract sense.",
+  "new": "karaṇa rendered 'means of proof' (as in 4.1); an alternative is 'document'. dharma here is 'rule', not dharma in the abstract sense. Review: dharma stays 'dharma' (glossary); the draft's note 'dharma here is rule' is withdrawn.",
+  "why": "reviewer (minor): notes out of line with the fixed rendering"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "निक्षेप करने वाला, करण से रहित निक्षेप को छिपाने वाले को, गुप्त दीवार में रखे गए साक्षियों को, एकान्त में प्रणिपात से ज्ञान कराए, अथवा वन के किनारे मद्य और प्रहवण से उत्पन्न विश्वास से।",
+  "new": "निक्षेप करने वाला, प्रमाण से रहित निक्षेप को छिपाने वाले को, गुप्त दीवार में रखे गए साक्षियों को, एकान्त में प्रणिपात से ज्ञान कराए, अथवा वन के किनारे मद्य और प्रहवण से उत्पन्न विश्वास से।",
+  "why": "reviewer (error): English says 'means of proof' and unit 37 Hindi has प्रमाण for karaṇa, but here the Hindi has करण (glossary 3.1: sva-karaṇa = means of proof, प्रमाण)"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "निक्षेप करने वाला, प्रमाण से रहित निक्षेप को छिपाने वाले को, गुप्त दीवार में रखे गए साक्षियों को, एकान्त में प्रणिपात से ज्ञान कराए, अथवा वन के किनारे मद्य और प्रहवण से उत्पन्न विश्वास से।",
+  "new": "निक्षेप करने वाला, प्रमाण से रहित निक्षेप को हटा ले जाने वाले को, गुप्त दीवार में रखे गए साक्षियों को, एकान्त में प्रणिपात से ज्ञान कराए, अथवा वन के किनारे मद्य और प्रहवण से उत्पन्न विश्वास से।",
+  "why": "reviewer (minor): apavyayamāna: English 'denying', Hindi 'concealing', glossary 3.17 'carrying off': three different senses; use the glossary literal sense"
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "The depositor should make aware, in private and with prostration, the one denying a deposit lacking a means of proof, [and] the witnesses placed in a hidden wall; or at the edge of the forest, by trust through the prahavaṇa with liquor.",
+  "new": "The depositor should make aware, in private and with prostration, the one carrying off a deposit lacking a means of proof, [and] the witnesses placed in a hidden wall; or at the edge of the forest, by trust through the prahavaṇa with liquor.",
+  "why": "reviewer (minor): apavyayamāna = carrying off (glossary 3.17); 'denying' is an imported sense"
+ },
+ {
+  "n": "38",
+  "field": "word.gloss",
+  "word": "apavyayamānam",
+  "old": "one denying",
+  "new": "one carrying off",
+  "why": "reviewer (minor): apavyayana = carrying off (glossary 3.17)"
+ },
+ {
+  "n": "38",
+  "field": "hindi",
+  "old": "निक्षेप करने वाला, प्रमाण से रहित निक्षेप को हटा ले जाने वाले को, गुप्त दीवार में रखे गए साक्षियों को, एकान्त में प्रणिपात से ज्ञान कराए, अथवा वन के किनारे मद्य और प्रहवण से उत्पन्न विश्वास से।",
+  "new": "निक्षेप करने वाला, प्रमाण से रहित निक्षेप को हटा ले जाने वाले को, गुप्त दीवार में रखे गए साक्षियों को, एकान्त में प्रणिपात से ज्ञान कराए, अथवा वन के किनारे मद्य-प्रहवण के विश्वास से।",
+  "why": "reviewer (error): unmarked added words और and उत्पन्न; madya-prahavaṇa-viśvāsa has no ca and no 'arising from'"
+ },
+ {
+  "n": "38",
+  "field": "english",
+  "old": "The depositor should make aware, in private and with prostration, the one carrying off a deposit lacking a means of proof, [and] the witnesses placed in a hidden wall; or at the edge of the forest, by trust through the prahavaṇa with liquor.",
+  "new": "The depositor should make aware, in private and with prostration, the one carrying off a deposit lacking a means of proof, [and] the witnesses placed in a hidden wall; or at the edge of the forest, by the trust of the liquor-prahavaṇa.",
+  "why": "reviewer (minor): 'through ... with' adds relations not in the compound"
+ },
+ {
+  "n": "38",
+  "field": "word.gloss",
+  "word": "madya-prahavaṇa-viśvāsena",
+  "old": "by trust through the prahavaṇa with liquor",
+  "new": "by the trust of the liquor-prahavaṇa",
+  "why": "reviewer (minor): adds relations not in the compound"
+ },
+ {
+  "n": "38",
+  "field": "notes",
+  "old": "Very compressed and doubtful: the syntax of the accusatives (the denier, the witnesses placed in a hidden wall) with prajñāpayet is unclear; the witnesses are placed 'in a wall' (bhitti) and may be those who overhear. apavyayamāna read as 'denying' (literally 'spending away, denying'). prahavaṇa is kept untranslated (obscure). madya = liquor. Low confidence.",
+  "new": "Very compressed and doubtful: the syntax of the accusatives (the denier, the witnesses placed in a hidden wall) with prajñāpayet is unclear; the witnesses are placed 'in a wall' (bhitti) and may be those who overhear. apavyayamāna read as 'denying' (literally 'spending away, denying'). prahavaṇa is kept untranslated (obscure). madya = liquor. Low confidence. Review: apavyayamāna kept to the literal 'carrying off' (glossary 3.17); 'denying' (the usual sense) is only a possibility, a person should decide.",
+  "why": "reviewer (minor): notes out of line with the fixed rendering"
+ },
+ {
+  "n": "42",
+  "field": "english",
+  "old": "Or some trustworthy man, intent on pravrajyā (going forth), having deposited goods that are marked in his hand, might depart.",
+  "new": "Or some trustworthy [man], intent on pravrajyā (going forth), having deposited goods that are marked in his hand, might depart.",
+  "why": "reviewer (minor): noun 'man' is supplied without brackets"
+ },
+ {
+  "n": "46",
+  "field": "hindi",
+  "old": "अथवा बालिश जाति का, रात में राजा के दायिका के क्षण से डरा हुआ, बहुमूल्य वस्तुएँ इसके हाथ में रखकर चला जाए।",
+  "new": "अथवा बालिश प्रकार का, रात में राजा के दायिका के क्षण से डरा हुआ, बहुमूल्य वस्तुएँ इसके हाथ में रखकर चला जाए।",
+  "why": "reviewer (minor): जाति means caste in Hindi; -jātīya is 'of the kind' (cf. glossary 3.2 never जाति)"
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "And he should question [him] on his acquisition of the enjoyments of goods, [and take] the inference of the dealings in that matter, and the claimant's capacity in the matter.",
+  "new": "And he should question [him] on his acquisition of the uses of goods, [and take] the inference of the dealings in that matter, and the claimant's capacity in the matter.",
+  "why": "reviewer (minor): bhoga = use (glossary 3.8; unit 3 of this chapter already uses 'use')"
+ },
+ {
+  "n": "51",
+  "field": "hindi",
+  "old": "और इसके द्रव्यों के भोगों की प्राप्ति के विषय में पूछताछ करे, और उस अर्थ के व्यवहार का उपलिङ्गन, और अभियोक्ता के अर्थ की सामर्थ्य।",
+  "new": "और इसके द्रव्यों के उपभोगों की प्राप्ति के विषय में पूछताछ करे, और उस अर्थ के व्यवहार का उपलिङ्गन, और अभियोक्ता के अर्थ की सामर्थ्य।",
+  "why": "reviewer (minor): bhoga = use (उपभोग), as unit 3 and glossary 3.8"
+ },
+ {
+  "n": "51",
+  "field": "word.gloss",
+  "word": "dravya-bhogānām",
+  "old": "of the enjoyments of goods",
+  "new": "of the uses of goods",
+  "why": "reviewer (minor): bhoga = use"
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "And he should question [him] on his acquisition of the uses of goods, [and take] the inference of the dealings in that matter, and the claimant's capacity in the matter.",
+  "new": "And he should question [him] on his acquisition of the uses of goods, [and take] the upaliṅgana of the dealings in that matter, and the claimant's capacity in the matter.",
+  "why": "reviewer (minor): upaliṅgana is kept untranslated (glossary 3.13); 'inference' is an invented sense"
+ },
+ {
+  "n": "51",
+  "field": "word.gloss",
+  "word": "vyavahāra-upaliṅganam",
+  "old": "inference of the dealings",
+  "new": "upaliṅgana (marking by signs) of the dealings",
+  "why": "reviewer (minor): upaliṅgana kept untranslated, literal sense in the gloss only"
+ },
+ {
+  "n": "51",
+  "field": "english",
+  "old": "And he should question [him] on his acquisition of the uses of goods, [and take] the upaliṅgana of the dealings in that matter, and the claimant's capacity in the matter.",
+  "new": "And he should question [him] on his acquisition of the uses of goods, [and take] the upaliṅgana of the dealings in that matter, and the charger's capacity in the matter.",
+  "why": "reviewer (minor): abhiyoktṛ = the charger (glossary 3.1)"
+ },
+ {
+  "n": "51",
+  "field": "word.gloss",
+  "word": "abhiyoktuḥ",
+  "old": "of the claimant",
+  "new": "of the charger",
+  "why": "reviewer (minor): abhiyoktṛ = the charger (glossary 3.1)"
+ },
+ {
+  "n": "51",
+  "field": "notes",
+  "old": "Compressed; the second and third items are verbless (the verb is carried over, bracketed). upaliṅgana 'inference' (literally 'marking by signs'), doubtful. anuyuñjīta = question (as in 4.7). The anusvāra-less printed 'dravya.bhogānām' is fine.",
+  "new": "Compressed; the second and third items are verbless (the verb is carried over, bracketed). upaliṅgana 'inference' (literally 'marking by signs'), doubtful. anuyuñjīta = question (as in 4.7). The anusvāra-less printed 'dravya.bhogānām' is fine. Review: upaliṅgana kept untranslated (glossary 3.13), 'inference' is withdrawn; abhiyoktṛ = the charger; bhoga = use.",
+  "why": "reviewer (minor): notes out of line with the fixed rendering"
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "Therefore one should make it witnessed, unconcealed and well declared; the matter is to be done with one's own or another person, by place, time, agra and varṇa.",
+  "new": "Therefore one should make [it] witnessed, unconcealed and well declared; the matter is to be done with one's own or another person, by place, time, agra and varṇa.",
+  "why": "reviewer (minor): object 'it' is supplied without brackets"
+ },
+ {
+  "n": "53",
+  "field": "english",
+  "old": "Therefore one should make [it] witnessed, unconcealed and well declared; the matter is to be done with one's own or another person, by place, time, agra and varṇa.",
+  "new": "Therefore one should make [it] witnessed, unconcealed and well declared; [it] is to be done with one's own or another person, by place, time, agra and varṇa.",
+  "why": "reviewer (minor): kāryam is a gerundive here (as the draft's own gram says); 'the matter' is an added noun"
+ },
+ {
+  "n": "53",
+  "field": "hindi",
+  "old": "इसलिए साक्षी सहित, अगुप्त, भली-भाँति कहा हुआ करे; अपने या दूसरे जन के साथ कार्य देश, काल, अग्र और वर्ण के अनुसार करना चाहिए।",
+  "new": "इसलिए साक्षी सहित, अगुप्त, भली-भाँति कहा हुआ करे; अपने या दूसरे जन के साथ देश, काल, अग्र और वर्ण के अनुसार करना चाहिए।",
+  "why": "reviewer (minor): bare noun कार्य doubles the gerundive (करना चाहिए); glossary 3.3 forbids adding it"
+ }
+]

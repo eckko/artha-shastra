@@ -1,0 +1,980 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अभिभूत",
+     "problem": "uparūḍhaḥ is 'overtaken' in English but अभिभूत (overpowered) in Hindi; the senses differ",
+     "fix": "a person should align (the draft's own alternative: 'come upon')",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "deśa-kāla-anurūpam",
+     "problem": "agrees with neuter bhoga-vetanam (or is adverbial); 'm.' is wrong",
+     "fix": "n. acc. sg. (tat-puruṣa)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "deśa-kāla-anurūpam",
+      "field": "gram",
+      "value": "n. acc. sg. (tat-puruṣa)",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in the niṣpatana (falling out)",
+     "problem": "niṣpatana is kept untranslated (glossary 3.12); the literal sense belongs in the gloss only",
+     "fix": "in niṣpatana",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in the niṣpatana (falling out)",
+      "new": "in niṣpatana",
+      "n": "4"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "niṣpatane (unit 4) vs niṣpātane (unit 7)",
+     "problem": "two spellings of one word in the same chapter; the draft treats them as two words. Not flagged because it may be genuine, but a person should compare the printed edition",
+     "fix": "if the same word, add a text_flag niṣpatane -> niṣpātane",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pretaṃ vyasana.gataṃ",
+     "problem": "accusative case vs. the translation, which takes the two words as the subject (nominative); if the e-text is right the case is unexplained, if not it may be a typo (pretaḥ vyasanagato)",
+     "fix": "check the printed edition; if it reads nominative add a text_flag pretaṃ -> pretaḥ, vyasana-gatam -> vyasana-gataḥ",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इसके बन्धक रखने, विक्रय और अपव्यय में चार गुना",
+     "problem": "ca (ca-asya) is not rendered in the Hindi; apavyayana = 'carrying off' (glossary 3.17), अपव्यय is a different sense (wasteful spending)",
+     "fix": "और इसके बन्धक रखने, विक्रय और हटा ले जाने में चार गुना",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "इसके बन्धक रखने, विक्रय और अपव्यय में चार गुना",
+      "new": "और इसके बन्धक रखने, विक्रय और हटा ले जाने में चार गुना",
+      "n": "6"
+     }
+    },
+    {
+     "field": "english",
+     "where": "pledging, selling and spending away of this",
+     "problem": "apavyayana = carrying off (glossary 3.17), not 'spending away'",
+     "fix": "pledging, selling and carrying off of this",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "pledging, selling and spending away of this",
+      "new": "pledging, selling and carrying off of this",
+      "n": "6"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ādhāna-vikraya-apavyayaneṣu",
+     "problem": "apavyayana = carrying off (glossary 3.17)",
+     "fix": "in pledging, selling and carrying off",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "ādhāna-vikraya-apavyayaneṣu",
+      "field": "gloss",
+      "value": "in pledging, selling and carrying off",
+      "n": "6"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "notes out of line with the fixed rendering",
+     "fix": "Review: apavyayana is rendered 'carrying off' as in 3.17 (the draft's 'spending away' is withdrawn); 3.13 still has 'spending away' for apavyayamāna, a person should align.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: apavyayana is rendered 'carrying off' as in 3.17 (the draft's 'spending away' is withdrawn); 3.13 still has 'spending away' for apavyayamāna, a person should align.",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in niṣpātana (causing to fall out)",
+     "problem": "niṣpātana is kept untranslated; the literal sense only in the gloss",
+     "fix": "in niṣpātana",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "in niṣpātana (causing to fall out)",
+      "new": "in niṣpātana",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "sentence start",
+     "problem": "vā after nivṛtta-vṛddhiko (English 'Or') is not rendered in the Hindi; only the second vā is",
+     "fix": "अथवा वृद्धि से निवृत्त हुआ बन्धक, उस समय निश्चित मूल्य वाला, वहीं रहे, अथवा अनाश-विनाश-करण से अधिष्ठित।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "अथवा वृद्धि से निवृत्त हुआ बन्धक, उस समय निश्चित मूल्य वाला, वहीं रहे, अथवा अनाश-विनाश-करण से अधिष्ठित।",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आधि-पाल",
+     "problem": "ādhi is never आधि (distress) but बन्धक (glossary 3.1, 3.12)",
+     "fix": "बन्धक-पाल",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "आधि-पाल",
+      "new": "बन्धक-पाल",
+      "n": "14"
+     }
+    },
+    {
+     "field": "english",
+     "where": "should sell it when",
+     "problem": "'it' is supplied but not bracketed (the draft's own note says it is bracketed)",
+     "fix": "should sell [it] when",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "should sell it when",
+      "new": "should sell [it] when",
+      "n": "14"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "investment",
+     "problem": "prakṣepa = putting-in (glossary 3.13), 'investment' is an imported sense",
+     "fix": "putting-in",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "investment",
+      "new": "putting-in",
+      "n": "15"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "prakṣepa-vṛddhi-mūlya-śuddham",
+     "problem": "prakṣepa = putting-in (glossary 3.13)",
+     "fix": "cleared of putting-in, increase and value",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "prakṣepa-vṛddhi-mūlya-śuddham",
+      "field": "gloss",
+      "value": "cleared of putting-in, increase and value",
+      "n": "15"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "notes out of line with the fixed rendering",
+     "fix": "Review: prakṣepa is rendered 'putting-in' (glossary 3.13); the draft's 'investment' is withdrawn.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: prakṣepa is rendered 'putting-in' (glossary 3.13); the draft's 'investment' is withdrawn.",
+      "n": "15"
+     }
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "anisṛṣṭa",
+     "problem": "English 'without permission' but the Hindi keeps अनिसृष्ट: the two languages differ",
+     "fix": "a person should decide: keep 'not released (अनिसृष्ट)' in both or 'without permission (बिना अनुमति)' in both",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "19",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "by robbers",
+     "problem": "cora = thief; 'robber' is the fixed rendering of pratirodhaka (unit 2)",
+     "fix": "by thieves",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by robbers",
+      "new": "by thieves",
+      "n": "19"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "coraiḥ",
+     "problem": "cora = thief; 'robber' is pratirodhaka",
+     "fix": "by thieves",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "coraiḥ",
+      "field": "gloss",
+      "value": "by thieves",
+      "n": "19"
+     }
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विनष्ट की वे भरपाई",
+     "problem": "pronoun वे added for an unstated subject (glossary 3.2, 3.10)",
+     "fix": "विनष्ट की भरपाई",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "विनष्ट की वे भरपाई",
+      "new": "विनष्ट की भरपाई",
+      "n": "23"
+     }
+    },
+    {
+     "field": "english",
+     "where": "bhreṣa and upanipāta",
+     "problem": "upanipāta = mishap (glossary 3.15)",
+     "fix": "bhreṣa and mishap",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "bhreṣa and upanipāta",
+      "new": "bhreṣa and mishap",
+      "n": "23"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhreṣa-upanipātābhyām",
+     "problem": "upanipāta = mishap (glossary 3.15)",
+     "fix": "by bhreṣa and mishap",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhreṣa-upanipātābhyām",
+      "field": "gloss",
+      "value": "by bhreṣa and mishap",
+      "n": "23"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "notes out of line with the fixed rendering",
+     "fix": "Review: upanipāta = mishap in English (Hindi उपनिपात), as 3.15; bhreṣa stays untranslated.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: upanipāta = mishap in English (Hindi उपनिपात), as 3.15; bhreṣa stays untranslated.",
+      "n": "23"
+     }
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जैसा हुआ वैसा,",
+     "problem": "correlative वैसा is an unmarked added word (yathā-jātam only)",
+     "fix": "जैसा हुआ,",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "जैसा हुआ वैसा,",
+      "new": "जैसा हुआ,",
+      "n": "25"
+     }
+    }
+   ]
+  },
+  {
+   "n": "26",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "parihīṇam",
+     "problem": "gram says acc. sg. but English and Hindi render it as a locative '[in the case of what is] diminished' (also unit 28)",
+     "fix": "a person should decide whether parihīṇam is the object (acc.) or a locative sense",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "29",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "bhreṣa and upanipāta",
+     "problem": "upanipāta = mishap (glossary 3.15)",
+     "fix": "bhreṣa and mishap",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "bhreṣa and upanipāta",
+      "new": "bhreṣa and mishap",
+      "n": "29"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhreṣa-upanipātābhyām",
+     "problem": "upanipāta = mishap (glossary 3.15)",
+     "fix": "by bhreṣa and mishap",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "bhreṣa-upanipātābhyām",
+      "field": "gloss",
+      "value": "by bhreṣa and mishap",
+      "n": "29"
+     }
+    }
+   ]
+  },
+  {
+   "n": "30",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "31",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "32",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "33",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the nikṣepa",
+     "problem": "nikṣepa = deposit (glossary 4.6); the gloss already says 'deposit'",
+     "fix": "the deposit",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the nikṣepa",
+      "new": "the deposit",
+      "n": "33"
+     }
+    }
+   ]
+  },
+  {
+   "n": "34",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "35",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "pūrva-apadānam",
+     "problem": "'record' is an interpretation of apadāna ('deed, conduct')",
+     "fix": "consider 'earlier deeds' (पूर्व अपदान kept in Hindi)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "36",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "37",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the rule of deposit",
+     "problem": "dharma is fixed as dharma (glossary head, 3.7 'dharma of inheritance'); 'rule' is not allowed",
+     "fix": "the dharma of deposit",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the rule of deposit",
+      "new": "the dharma of deposit",
+      "n": "37"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "nikṣepa-dharmaḥ",
+     "problem": "dharma is fixed as dharma",
+     "fix": "dharma of deposit",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "nikṣepa-dharmaḥ",
+      "field": "gloss",
+      "value": "dharma of deposit",
+      "n": "37"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "notes out of line with the fixed rendering",
+     "fix": "Review: dharma stays 'dharma' (glossary); the draft's note 'dharma here is rule' is withdrawn.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: dharma stays 'dharma' (glossary); the draft's note 'dharma here is rule' is withdrawn.",
+      "n": "37"
+     }
+    }
+   ]
+  },
+  {
+   "n": "38",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "करण से रहित",
+     "problem": "English says 'means of proof' and unit 37 Hindi has प्रमाण for karaṇa, but here the Hindi has करण (glossary 3.1: sva-karaṇa = means of proof, प्रमाण)",
+     "fix": "प्रमाण से रहित",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "करण से रहित",
+      "new": "प्रमाण से रहित",
+      "n": "38"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "छिपाने वाले को",
+     "problem": "apavyayamāna: English 'denying', Hindi 'concealing', glossary 3.17 'carrying off': three different senses; use the glossary literal sense",
+     "fix": "हटा ले जाने वाले को",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "छिपाने वाले को",
+      "new": "हटा ले जाने वाले को",
+      "n": "38"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the one denying a deposit",
+     "problem": "apavyayamāna = carrying off (glossary 3.17); 'denying' is an imported sense",
+     "fix": "the one carrying off a deposit",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the one denying a deposit",
+      "new": "the one carrying off a deposit",
+      "n": "38"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "apavyayamānam",
+     "problem": "apavyayana = carrying off (glossary 3.17)",
+     "fix": "one carrying off",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "apavyayamānam",
+      "field": "gloss",
+      "value": "one carrying off",
+      "n": "38"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "मद्य और प्रहवण से उत्पन्न विश्वास से",
+     "problem": "unmarked added words और and उत्पन्न; madya-prahavaṇa-viśvāsa has no ca and no 'arising from'",
+     "fix": "मद्य-प्रहवण के विश्वास से",
+     "severity": "error",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "मद्य और प्रहवण से उत्पन्न विश्वास से",
+      "new": "मद्य-प्रहवण के विश्वास से",
+      "n": "38"
+     }
+    },
+    {
+     "field": "english",
+     "where": "by trust through the prahavaṇa with liquor",
+     "problem": "'through ... with' adds relations not in the compound",
+     "fix": "by the trust of the liquor-prahavaṇa",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "by trust through the prahavaṇa with liquor",
+      "new": "by the trust of the liquor-prahavaṇa",
+      "n": "38"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "madya-prahavaṇa-viśvāsena",
+     "problem": "adds relations not in the compound",
+     "fix": "by the trust of the liquor-prahavaṇa",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "madya-prahavaṇa-viśvāsena",
+      "field": "gloss",
+      "value": "by the trust of the liquor-prahavaṇa",
+      "n": "38"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "notes out of line with the fixed rendering",
+     "fix": "Review: apavyayamāna kept to the literal 'carrying off' (glossary 3.17); 'denying' (the usual sense) is only a possibility, a person should decide.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: apavyayamāna kept to the literal 'carrying off' (glossary 3.17); 'denying' (the usual sense) is only a possibility, a person should decide.",
+      "n": "38"
+     }
+    }
+   ]
+  },
+  {
+   "n": "39",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "40",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "41",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "42",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "some trustworthy man",
+     "problem": "noun 'man' is supplied without brackets",
+     "fix": "some trustworthy [man]",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "some trustworthy man",
+      "new": "some trustworthy [man]",
+      "n": "42"
+     }
+    }
+   ]
+  },
+  {
+   "n": "43",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "44",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "45",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "46",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बालिश जाति का",
+     "problem": "जाति means caste in Hindi; -jātīya is 'of the kind' (cf. glossary 3.2 never जाति)",
+     "fix": "बालिश प्रकार का",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "बालिश जाति का",
+      "new": "बालिश प्रकार का",
+      "n": "46"
+     }
+    }
+   ]
+  },
+  {
+   "n": "47",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "48",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "49",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "50",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "51",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the enjoyments of goods",
+     "problem": "bhoga = use (glossary 3.8; unit 3 of this chapter already uses 'use')",
+     "fix": "the uses of goods",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the enjoyments of goods",
+      "new": "the uses of goods",
+      "n": "51"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "द्रव्यों के भोगों की",
+     "problem": "bhoga = use (उपभोग), as unit 3 and glossary 3.8",
+     "fix": "द्रव्यों के उपभोगों की",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "द्रव्यों के भोगों की",
+      "new": "द्रव्यों के उपभोगों की",
+      "n": "51"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dravya-bhogānām",
+     "problem": "bhoga = use",
+     "fix": "of the uses of goods",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "dravya-bhogānām",
+      "field": "gloss",
+      "value": "of the uses of goods",
+      "n": "51"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the inference of the dealings",
+     "problem": "upaliṅgana is kept untranslated (glossary 3.13); 'inference' is an invented sense",
+     "fix": "the upaliṅgana of the dealings",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the inference of the dealings",
+      "new": "the upaliṅgana of the dealings",
+      "n": "51"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vyavahāra-upaliṅganam",
+     "problem": "upaliṅgana kept untranslated, literal sense in the gloss only",
+     "fix": "upaliṅgana (marking by signs) of the dealings",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "vyavahāra-upaliṅganam",
+      "field": "gloss",
+      "value": "upaliṅgana (marking by signs) of the dealings",
+      "n": "51"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the claimant's",
+     "problem": "abhiyoktṛ = the charger (glossary 3.1)",
+     "fix": "the charger's",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the claimant's",
+      "new": "the charger's",
+      "n": "51"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "abhiyoktuḥ",
+     "problem": "abhiyoktṛ = the charger (glossary 3.1)",
+     "fix": "of the charger",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "abhiyoktuḥ",
+      "field": "gloss",
+      "value": "of the charger",
+      "n": "51"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "notes out of line with the fixed rendering",
+     "fix": "Review: upaliṅgana kept untranslated (glossary 3.13), 'inference' is withdrawn; abhiyoktṛ = the charger; bhoga = use.",
+     "severity": "minor",
+     "patch": {
+      "op": "append_note",
+      "text": "Review: upaliṅgana kept untranslated (glossary 3.13), 'inference' is withdrawn; abhiyoktṛ = the charger; bhoga = use.",
+      "n": "51"
+     }
+    }
+   ]
+  },
+  {
+   "n": "52",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "53",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "make it witnessed",
+     "problem": "object 'it' is supplied without brackets",
+     "fix": "make [it] witnessed",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "make it witnessed",
+      "new": "make [it] witnessed",
+      "n": "53"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the matter is to be done",
+     "problem": "kāryam is a gerundive here (as the draft's own gram says); 'the matter' is an added noun",
+     "fix": "[it] is to be done",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the matter is to be done",
+      "new": "[it] is to be done",
+      "n": "53"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "के साथ कार्य देश",
+     "problem": "bare noun कार्य doubles the gerundive (करना चाहिए); glossary 3.3 forbids adding it",
+     "fix": "के साथ देश",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "hindi",
+      "old": "के साथ कार्य देश",
+      "new": "के साथ देश",
+      "n": "53"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Draft is largely sound; the four text_flags (units 11, 21, 34, 50) are all correct and no further flag is clearly needed (candidates for a person: units 4/7 niṣpatane/niṣpātane, unit 5 accusative pretaṃ). Main problems: glossary violations (apavyayana, prakṣepa, upanipāta, nikṣepa, dharma, upaliṅgana, abhiyoktṛ, bhoga, ādhi in Hindi आधि), unrendered ca (unit 6) and vā (unit 13) in Hindi, unmarked added Hindi words (वे, वैसा, और/उत्पन्न in unit 38, कार्य), unbracketed supplied English words, one wrong gram (unit 3). Issues: 5 error, 48 minor. No regrouping suggested. Word-entry convention ('.' = one entry, '-' = two entries) is followed everywhere; no hand edits to words or flags are needed."
+}
