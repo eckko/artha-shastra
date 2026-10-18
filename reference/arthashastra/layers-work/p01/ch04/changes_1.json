@@ -1,0 +1,39 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "कृषि और पशुपालन, वाणिज्य और वार्ता; अनाज, पशु, धन, कुप्य, विष्टि के प्रदान से उपकारिणी।",
+  "new": "कृषि और पशुपालन, और वाणिज्य — वार्ता; अनाज, पशु, धन, कुप्य, विष्टि के प्रदान से उपकारिणी।",
+  "why": "reviewer (error): Hindi pairs trade with vārtā by और ('trade and vārtā'), while the Sanskrit ca joins vaṇijyā to kṛṣi-pāśupālye and vārtā is the predicate (English '... and trade [are] economic activity')."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "आन्वीक्षिकी, त्रयी, वार्ता का योग और क्षेम का साधन दण्ड; उसकी नीति दण्डनीति; अप्राप्त के लाभ के प्रयोजन वाली, प्राप्त की रक्षा करने वाली, रक्षित को बढ़ाने वाली और बढ़े हुए का तीर्थ में प्रतिपादन करने वाली।",
+  "new": "आन्वीक्षिकी, त्रयी, वार्ता का योग और क्षेम का साधन दण्ड; उसकी नीति दण्डनीति; अप्राप्त के लाभ के प्रयोजन वाली, प्राप्त की रक्षा करने वाली, रक्षित को बढ़ाने वाली और बढ़े हुए को तीर्थ में सौंपने वाली।",
+  "why": "reviewer (minor): Hindi प्रतिपादन means 'exposition'; glossary fixes pratipādayet = hand over (सौंपे). The English says 'handing over'."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "trayī",
+  "old": "Trayī (the triple [science])",
+  "new": "Trayī (the triple Veda)",
+  "why": "reviewer (minor): Glossary (1.2) fixes trayī = the triple Veda; draft gloss says 'the triple [science]'."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "kiṃ-aṅga",
+  "old": "how much",
+  "new": "how much more (idiom)",
+  "why": "reviewer (minor): Gloss 'how much' does not match the translations, which both carry 'more' (how much more / कितना अधिक); the idiom should be marked as such."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "क्योंकि दण्ड धारण करने वाले के अभाव में बलवान् निर्बल को निगलता है।",
+  "new": "क्योंकि दण्ड धारण करने वाले के अभाव में अधिक बलवान् निर्बल को निगलता है।",
+  "why": "reviewer (minor): balīyān is a comparative; glossary renders comparatives with अधिक (garīyas = अधिक गम्भीर) and the English says 'the stronger'."
+ }
+]
