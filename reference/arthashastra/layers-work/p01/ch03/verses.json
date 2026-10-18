@@ -1,0 +1,1752 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sāma.ṛg.yajur.vedās",
+      "words": [
+       {
+        "w": "sāma-ṛg-yajur-vedāḥ",
+        "gloss": "the Sāma, Ṛg and Yajur Vedas",
+        "gram": "dvandva, m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "trayas",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "trayī",
+      "words": [
+       {
+        "w": "trayī",
+        "gloss": "the triple Veda (trayī)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "साम, ऋग्, यजुर् वेद तीन, त्रयी।",
+  "english": "The Sāma, Ṛg and Yajur Vedas [are] three, the triple Veda (trayī).",
+  "text_flags": [],
+  "notes": "Verbless; the copula is supplied in brackets in English only. trayī 'the triple Veda' is the name of the group of the three Vedas; the text does not say more here.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.1"
+  ],
+  "lines_deva": [
+   "साम.ऋग्.यजुर्.वेदास् त्रयस् त्रयी"
+  ],
+  "lines_iast": [
+   "sāma.ṛg.yajur.vedās trayas trayī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atharva.veda.itihāsa.vedau",
+      "words": [
+       {
+        "w": "atharva-veda-itihāsa-vedau",
+        "gloss": "the Atharvaveda and the Itihāsaveda",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vedāḥ",
+      "words": [
+       {
+        "w": "vedāḥ",
+        "gloss": "Vedas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और अथर्ववेद और इतिहासवेद वेद।",
+  "english": "And the Atharvaveda and the Itihāsaveda [are] the Vedas.",
+  "text_flags": [],
+  "notes": "ca joins this sentence to the preceding one (the three Vedas); the dual dvandva has two members, Atharvaveda and Itihāsaveda. Itihāsaveda is kept as printed; the line does not say what it is. Verbless, copula bracketed in English only.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.2"
+  ],
+  "lines_deva": [
+   "अथर्व.वेद.इतिहास.वेदौ च वेदाः"
+  ],
+  "lines_iast": [
+   "atharva.veda.itihāsa.vedau ca vedāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śikṣā",
+      "words": [
+       {
+        "w": "śikṣā",
+        "gloss": "phonetics (śikṣā)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kalpo",
+      "words": [
+       {
+        "w": "kalpaḥ",
+        "gloss": "ritual (kalpa)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyākaraṇaṃ",
+      "words": [
+       {
+        "w": "vyākaraṇam",
+        "gloss": "grammar",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "niruktaṃ",
+      "words": [
+       {
+        "w": "niruktam",
+        "gloss": "etymology (nirukta)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "chando.vicitir",
+      "words": [
+       {
+        "w": "chandas-vicitiḥ",
+        "gloss": "investigation of metres",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyotiṣam",
+      "words": [
+       {
+        "w": "jyotiṣam",
+        "gloss": "astronomy (jyotiṣa)",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca-aṅgāni",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aṅgāni",
+        "gloss": "limbs",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शिक्षा, कल्प, व्याकरण, निरुक्त, छन्दोविचिति, ज्योतिष — और ये अंग हैं।",
+  "english": "Śikṣā (phonetics), kalpa (ritual), grammar, nirukta (etymology), the investigation of metres, jyotiṣa (astronomy) — and such are the limbs.",
+  "text_flags": [],
+  "notes": "iti closes the list of six names and is rendered as the closing label 'such are' (glossary: closing 'iti X' = Such are X), with ca 'and' joining it to the preceding sentence; the construction is loose, so the translation stays literal. The six names are kept with short literal glosses; the precise sense of each (e.g. chandas-viciti, kalpa) is not argued here. aṅga is 'limb' (of the Vedas is understood, not stated).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.3"
+  ],
+  "lines_deva": [
+   "शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो.विचितिर् ज्योतिषम् इति च-अङ्गानि"
+  ],
+  "lines_iast": [
+   "śikṣā kalpo vyākaraṇaṃ niruktaṃ chando.vicitir jyotiṣam iti ca-aṅgāni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "eṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "trayī.dharmaś",
+      "words": [
+       {
+        "w": "trayī-dharmaḥ",
+        "gloss": "dharma of the triple Veda",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "caturṇāṃ",
+      "words": [
+       {
+        "w": "caturṇām",
+        "gloss": "of four",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "varṇānām",
+      "words": [
+       {
+        "w": "varṇānām",
+        "gloss": "of the varṇas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "āśramāṇāṃ",
+      "words": [
+       {
+        "w": "āśramāṇām",
+        "gloss": "of the āśramas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva.dharma.sthāpanād",
+      "words": [
+       {
+        "w": "sva-dharma-sthāpanāt",
+        "gloss": "from the establishing of own dharma",
+        "gram": "tat-puruṣa, n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "aupakārikaḥ",
+      "words": [
+       {
+        "w": "aupakārikaḥ",
+        "gloss": "beneficial",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह त्रयी-धर्म चार वर्णों के और आश्रमों के अपने धर्म की स्थापना से उपकारी।",
+  "english": "This dharma of the triple Veda (trayī-dharma) [is] beneficial, through the establishing of [their] own dharma of the four varṇas and of the āśramas.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. 'caturṇām' agrees with varṇānām; whether it also covers āśramāṇām is not stated (the āśramas are commonly four, but the line does not say). sva-dharma is taken as 'own dharma' of each, '[their]' is supplied in brackets. aupakārika = 'helpful, beneficial' (from upakāra).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.4"
+  ],
+  "lines_deva": [
+   "एष त्रयी.धर्मश् चतुर्णां वर्णानाम् आश्रमाणां च स्व.धर्म.स्थापनाद् औपकारिकः"
+  ],
+  "lines_iast": [
+   "eṣa trayī.dharmaś caturṇāṃ varṇānām āśramāṇāṃ ca sva.dharma.sthāpanād aupakārikaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svadharmo",
+      "words": [
+       {
+        "w": "sva-dharmaḥ",
+        "gloss": "own dharma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "brāhmaṇasya",
+      "words": [
+       {
+        "w": "brāhmaṇasya",
+        "gloss": "of the brāhmaṇa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhyayanam",
+      "words": [
+       {
+        "w": "adhyayanam",
+        "gloss": "study",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhyāpanaṃ",
+      "words": [
+       {
+        "w": "adhyāpanam",
+        "gloss": "teaching",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yajanaṃ",
+      "words": [
+       {
+        "w": "yajanam",
+        "gloss": "sacrificing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yājanaṃ",
+      "words": [
+       {
+        "w": "yājanam",
+        "gloss": "causing [others] to sacrifice",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dānaṃ",
+      "words": [
+       {
+        "w": "dānam",
+        "gloss": "giving",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratigrahaś",
+      "words": [
+       {
+        "w": "pratigrahaḥ",
+        "gloss": "receiving",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ब्राह्मण का अपना धर्म अध्ययन, अध्यापन, यजन, याजन, दान, प्रतिग्रह।",
+  "english": "The own dharma of the brāhmaṇa [is] study, teaching, sacrificing, causing [others] to sacrifice, giving and receiving.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. yājana is the causative-derived noun beside yajana; 'causing [others] to sacrifice' is the literal rendering, 'officiating' is the usual sense. pratigraha = receiving (what is received is not stated). sva-dharma is printed without a compound dot (svadharmo) here and in units 14 and 16 but with dots in unit 4; read as a plain compound, no flag.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.5"
+  ],
+  "lines_deva": [
+   "स्वधर्मो ब्राह्मणस्य अध्ययनम् अध्यापनं यजनं याजनं दानं प्रतिग्रहश् च"
+  ],
+  "lines_iast": [
+   "svadharmo brāhmaṇasya adhyayanam adhyāpanaṃ yajanaṃ yājanaṃ dānaṃ pratigrahaś ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣatriyasya-adhyayanaṃ",
+      "words": [
+       {
+        "w": "kṣatriyasya",
+        "gloss": "of the kṣatriya",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "adhyayanam",
+        "gloss": "study",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yajanaṃ",
+      "words": [
+       {
+        "w": "yajanam",
+        "gloss": "sacrificing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dānaṃ",
+      "words": [
+       {
+        "w": "dānam",
+        "gloss": "giving",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastra.ājīvo",
+      "words": [
+       {
+        "w": "śastra-ājīvaḥ",
+        "gloss": "livelihood by weapons",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūta.rakṣaṇaṃ",
+      "words": [
+       {
+        "w": "bhūta-rakṣaṇam",
+        "gloss": "protection of beings",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षत्रिय का अध्ययन, यजन, दान, शस्त्र से जीविका, प्राणियों की रक्षा।",
+  "english": "Of the kṣatriya [are] study, sacrificing, giving, livelihood by weapons and protection of beings.",
+  "text_flags": [],
+  "notes": "Verbless; 'own dharma' (svadharma) is understood from unit 5 but not supplied. The '-' join 'kṣatriyasya-adhyayanaṃ' is two words. bhūta = being(s), creatures.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.6"
+  ],
+  "lines_deva": [
+   "क्षत्रियस्य-अध्ययनं यजनं दानं शस्त्र.आजीवो भूत.रक्षणं च"
+  ],
+  "lines_iast": [
+   "kṣatriyasya-adhyayanaṃ yajanaṃ dānaṃ śastra.ājīvo bhūta.rakṣaṇaṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaiśyasya-adhyayanaṃ",
+      "words": [
+       {
+        "w": "vaiśyasya",
+        "gloss": "of the vaiśya",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "adhyayanam",
+        "gloss": "study",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yajanaṃ",
+      "words": [
+       {
+        "w": "yajanam",
+        "gloss": "sacrificing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dānaṃ",
+      "words": [
+       {
+        "w": "dānam",
+        "gloss": "giving",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṣi.pāśupālye",
+      "words": [
+       {
+        "w": "kṛṣi-pāśupālye",
+        "gloss": "agriculture and cattle-keeping",
+        "gram": "dvandva, n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vaṇijyā",
+      "words": [
+       {
+        "w": "vaṇijyā",
+        "gloss": "trade",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैश्य का अध्ययन, यजन, दान, कृषि और पशुपालन, वाणिज्य।",
+  "english": "Of the vaiśya [are] study, sacrificing, giving, agriculture and cattle-keeping, and trade.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. kṛṣi-pāśupālye is a dual dvandva (two members, 'and'); the final ca adds vaṇijyā.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.7"
+  ],
+  "lines_deva": [
+   "वैश्यस्य-अध्ययनं यजनं दानं कृषि.पाशुपाल्ये वणिज्या च"
+  ],
+  "lines_iast": [
+   "vaiśyasya-adhyayanaṃ yajanaṃ dānaṃ kṛṣi.pāśupālye vaṇijyā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śūdrasya",
+      "words": [
+       {
+        "w": "śūdrasya",
+        "gloss": "of the śūdra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvijāti.śuśrūṣā",
+      "words": [
+       {
+        "w": "dvijāti-śuśrūṣā",
+        "gloss": "service of the twice-born",
+        "gram": "tat-puruṣa, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārttā",
+      "words": [
+       {
+        "w": "vārttā",
+        "gloss": "economic activity (vārttā)",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāru.kuśīlava.karma",
+      "words": [
+       {
+        "w": "kāru-kuśīlava-karma",
+        "gloss": "works of artisans and kuśīlavas",
+        "gram": "tat-puruṣa (dvandva + karma), n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शूद्र का द्विजातियों की शुश्रूषा, वार्ता, कारु और कुशीलव का कर्म।",
+  "english": "Of the śūdra [are] service of the twice-born, economic activity (vārttā), and the works of artisans and kuśīlavas.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. śuśrūṣā: glossary 3.3 has 'obedience' for the wife's duty; here, for the śūdra's duty toward the twice-born, 'service' is kept (Book 1 decision, glossary line 1.3); Hindi keeps शुश्रूषा. kuśīlava kept untranslated (glossary); karma = works (the works of artisans and kuśīlavas). kāru = artisan (glossary).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.8"
+  ],
+  "lines_deva": [
+   "शूद्रस्य द्विजाति.शुश्रूषा वार्त्ता कारु.कुशीलव.कर्म च"
+  ],
+  "lines_iast": [
+   "śūdrasya dvijāti.śuśrūṣā vārttā kāru.kuśīlava.karma ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "gṛhasthasya",
+      "words": [
+       {
+        "w": "gṛhasthasya",
+        "gloss": "of the householder",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "svadharma.ājīvas",
+      "words": [
+       {
+        "w": "sva-dharma-ājīvaḥ",
+        "gloss": "livelihood by own dharma",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tulyair",
+      "words": [
+       {
+        "w": "tulyaiḥ",
+        "gloss": "with equals",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "asamāna.ṛṣibhir",
+      "words": [
+       {
+        "w": "asamāna-ṛṣibhiḥ",
+        "gloss": "with [those] having different sages",
+        "gram": "bahuvrīhi, m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "vaivāhyam",
+      "words": [
+       {
+        "w": "vaivāhyam",
+        "gloss": "marriage",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛtu.gāmitvaṃ",
+      "words": [
+       {
+        "w": "ṛtu-gāmitvam",
+        "gloss": "going in the season",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "deva.pitr.atithi.pūjā",
+      "words": [
+       {
+        "w": "deva-pitṛ-atithi-pūjā",
+        "gloss": "worship of gods, fathers and guests",
+        "gram": "tat-puruṣa (dvandva + pūjā), f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhṛtyeṣu",
+      "words": [
+       {
+        "w": "bhṛtyeṣu",
+        "gloss": "to servants",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tyāgaḥ",
+      "words": [
+       {
+        "w": "tyāgaḥ",
+        "gloss": "giving (tyāga)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śeṣa.bhojanaṃ",
+      "words": [
+       {
+        "w": "śeṣa-bhojanam",
+        "gloss": "eating of the remainder",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गृहस्थ का अपने धर्म से जीविका, तुल्यों के साथ, असमान ऋषियों वालों के साथ विवाह, ऋतु में गमन, देव, पितृ, अतिथि की पूजा, भृत्यों के प्रति त्याग, शेष भोजन।",
+  "english": "Of the householder [are] livelihood by own dharma; marriage with equals, with [those] of different sages; going in the season; worship of gods, fathers and guests; giving to servants; and eating the remainder.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. tulyaiḥ and asamāna-ṛṣibhiḥ are two instrumentals with no ca between them, so they are not joined (the sense 'with equals who have different sages' is possible but not stated). asamāna-ṛṣi = not having the same sage(s), literal; the lineage sense (gotra/pravara) is not imported. ṛtu-gāmitva = 'going in the season' (literal); what season and whom is not stated. tyāga with locative bhṛtyeṣu: literal 'giving up / giving among servants'; 'liberality' is a possible sense; bhṛtya = servant/dependant. pitṛ = fathers (ancestors possible). Hindi list takes commas only (glossary 1.2), the final ca is carried by the comma.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.9"
+  ],
+  "lines_deva": [
+   "गृहस्थस्य स्वधर्म.आजीवस् तुल्यैर् असमान.ऋषिभिर् वैवाह्यम् ऋतु.गामित्वं देव.पित्र्.अतिथि.पूजा भृत्येषु त्यागः शेष.भोजनं च"
+  ],
+  "lines_iast": [
+   "gṛhasthasya svadharma.ājīvas tulyair asamāna.ṛṣibhir vaivāhyam ṛtu.gāmitvaṃ deva.pitr.atithi.pūjā bhṛtyeṣu tyāgaḥ śeṣa.bhojanaṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brahma.cāriṇaḥ",
+      "words": [
+       {
+        "w": "brahma-cāriṇaḥ",
+        "gloss": "of the brahmacārin",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "svādhyāyo",
+      "words": [
+       {
+        "w": "svādhyāyaḥ",
+        "gloss": "self-study (svādhyāya)",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "agni.kārya.abhiṣekau",
+      "words": [
+       {
+        "w": "agni-kārya-abhiṣekau",
+        "gloss": "fire-rite and ablution",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "bhaikṣa.vratitvam",
+      "words": [
+       {
+        "w": "bhaikṣa-vratitvam",
+        "gloss": "state of keeping the alms-vow",
+        "gram": "bahuvrīhi + abstract, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ācārye",
+      "words": [
+       {
+        "w": "ācārye",
+        "gloss": "with the teacher",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāṇa.antikī",
+      "words": [
+       {
+        "w": "prāṇa-antikī",
+        "gloss": "lasting to the end of life",
+        "gram": "bahuvrīhi, f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛttis",
+      "words": [
+       {
+        "w": "vṛttiḥ",
+        "gloss": "way of life",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tad.abhāve",
+      "words": [
+       {
+        "w": "tad-abhāve",
+        "gloss": "in the absence of that",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "guru.putre",
+      "words": [
+       {
+        "w": "guru-putre",
+        "gloss": "with the preceptor's son",
+        "gram": "tat-puruṣa, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa-brahma.cāriṇi",
+      "words": [
+       {
+        "w": "sa-brahma-cāriṇi",
+        "gloss": "with a fellow-brahmacārin",
+        "gram": "bahuvrīhi, m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ब्रह्मचारी का स्वाध्याय, अग्निकार्य और अभिषेक, भिक्षा-व्रतित्व, आचार्य के पास प्राणान्त तक की वृत्ति, उसके अभाव में गुरु-पुत्र के पास या सहब्रह्मचारी के पास।",
+  "english": "Of the brahmacārin [are] self-study (svādhyāya), fire-rite and ablution, the state of keeping the alms-vow, a way of life lasting to the end of life with the teacher, in the absence of that [teacher] with the preceptor's son, or with a fellow-brahmacārin.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. agni-kārya is literally 'the task of fire' (fire-rite); abhiṣeka = ablution/sprinkling. bhaikṣa-vratitva = state of having begging (alms) as vow. vṛtti: way of life / livelihood / conduct, medium confidence; prāṇa-antikī is a feminine bahuvrīhi 'having the end of life as its end'. The locatives ācārye, guru-putre, sa-brahmacāriṇi are rendered 'with'; 'in' (the case of) is the bare sense. The edition prints 'sa-brahma.cāriṇi' with a hyphen and a dot; taken as one compound (sa- 'together with'), no flag. guru = preceptor, ācārya = teacher.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.10"
+  ],
+  "lines_deva": [
+   "ब्रह्म.चारिणः स्वाध्यायो अग्नि.कार्य.अभिषेकौ भैक्ष.व्रतित्वम् आचार्ये प्राण.अन्तिकी वृत्तिस् तद्.अभावे गुरु.पुत्रे स-ब्रह्म.चारिणि वा"
+  ],
+  "lines_iast": [
+   "brahma.cāriṇaḥ svādhyāyo agni.kārya.abhiṣekau bhaikṣa.vratitvam ācārye prāṇa.antikī vṛttis tad.abhāve guru.putre sa-brahma.cāriṇi vā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vānaprasthasya",
+      "words": [
+       {
+        "w": "vānaprasthasya",
+        "gloss": "of the vānaprastha (forest-dweller)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahmacaryaṃ",
+      "words": [
+       {
+        "w": "brahmacaryam",
+        "gloss": "brahmacarya",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmau",
+      "words": [
+       {
+        "w": "bhūmau",
+        "gloss": "on the ground",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śayyā",
+      "words": [
+       {
+        "w": "śayyā",
+        "gloss": "bed",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaṭā.ajina.dhāraṇam",
+      "words": [
+       {
+        "w": "jaṭā-ajina-dhāraṇam",
+        "gloss": "wearing of matted hair and hide",
+        "gram": "tat-puruṣa (dvandva + dhāraṇa), n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "agni.hotra.abhiṣekau",
+      "words": [
+       {
+        "w": "agni-hotra-abhiṣekau",
+        "gloss": "agni-hotra and ablution",
+        "gram": "dvandva, m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "devatā.pitr.atithi.pūjā",
+      "words": [
+       {
+        "w": "devatā-pitṛ-atithi-pūjā",
+        "gloss": "worship of deities, fathers and guests",
+        "gram": "tat-puruṣa (dvandva + pūjā), f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vanyaś",
+      "words": [
+       {
+        "w": "vanyaḥ",
+        "gloss": "of the forest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-āhāraḥ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "āhāraḥ",
+        "gloss": "food",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वानप्रस्थ का ब्रह्मचर्य, भूमि पर शय्या, जटा और अजिन का धारण, अग्निहोत्र और अभिषेक, देवता, पितृ, अतिथि की पूजा, वन्य आहार।",
+  "english": "Of the vānaprastha [are] brahmacarya, a bed on the ground, wearing of matted hair and hide, agni-hotra and ablution, worship of deities, fathers and guests, and forest food.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. brahmacarya is kept as a term (celibacy / the student's way of life are possible senses). bhūmau śayyā literally 'a bed on the ground'. jaṭā = matted locks; ajina = (animal) hide. agni-hotra kept as a term. vanya = belonging to the forest; the sense 'wild food' is not stated.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.11"
+  ],
+  "lines_deva": [
+   "वानप्रस्थस्य ब्रह्मचर्यं भूमौ शय्या जटा.अजिन.धारणम् अग्नि.होत्र.अभिषेकौ देवता.पित्र्.अतिथि.पूजा वन्यश् च-आहारः"
+  ],
+  "lines_iast": [
+   "vānaprasthasya brahmacaryaṃ bhūmau śayyā jaṭā.ajina.dhāraṇam agni.hotra.abhiṣekau devatā.pitr.atithi.pūjā vanyaś ca-āhāraḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "parivrājakasya",
+      "words": [
+       {
+        "w": "parivrājakasya",
+        "gloss": "of the parivrājaka (wandering ascetic)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jita.indriyatvam",
+      "words": [
+       {
+        "w": "jita-indriyatvam",
+        "gloss": "state of having conquered the senses",
+        "gram": "bahuvrīhi + abstract, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anārambho",
+      "words": [
+       {
+        "w": "anārambhaḥ",
+        "gloss": "non-undertaking",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "niṣkiñcanatvaṃ",
+      "words": [
+       {
+        "w": "niṣkiñcanatvam",
+        "gloss": "state of possessing nothing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṅga.tyāgo",
+      "words": [
+       {
+        "w": "saṅga-tyāgaḥ",
+        "gloss": "giving up of attachment",
+        "gram": "tat-puruṣa, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhaikṣavratam",
+      "words": [
+       {
+        "w": "bhaikṣa-vratam",
+        "gloss": "alms-vow",
+        "gram": "tat-puruṣa, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anekatra-araṇye",
+      "words": [
+       {
+        "w": "anekatra",
+        "gloss": "in many places",
+        "gram": "ind."
+       },
+       {
+        "w": "araṇye",
+        "gloss": "in the forest",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāso",
+      "words": [
+       {
+        "w": "vāsaḥ",
+        "gloss": "dwelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bāhya.ābhyantaraṃ",
+      "words": [
+       {
+        "w": "bāhya-ābhyantaram",
+        "gloss": "external and internal",
+        "gram": "dvandva, n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaucam",
+      "words": [
+       {
+        "w": "śaucam",
+        "gloss": "purity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "परिव्राजक की जितेन्द्रियता, अनारम्भ, निष्किंचनता, संग का त्याग, भिक्षा-व्रत, अनेक स्थानों पर और वन में निवास, बाह्य और आभ्यन्तर शुचिता।",
+  "english": "Of the parivrājaka [are] mastery of the senses, non-undertaking, possessing nothing, giving up of attachment, the alms-vow, dwelling in many places and in the forest, and external and internal purity.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. anārambha = non-undertaking (of works), literal. anekatra = in more than one place (many places). The final ca joins the whole last item; bāhya-ābhyantara is a two-member dvandva ('external and internal'). The word 'bhaikṣavrata' is printed without a dot; 'bhaikṣa-vratitva' of unit 10 is similar. śauca = purity (Hindi शुचिता) per the glossary.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.12"
+  ],
+  "lines_deva": [
+   "परिव्राजकस्य जित.इन्द्रियत्वम् अनारम्भो निष्किञ्चनत्वं सङ्ग.त्यागो भैक्षव्रतम् अनेकत्र-अरण्ये च वासो बाह्य.आभ्यन्तरं च शौचम्"
+  ],
+  "lines_iast": [
+   "parivrājakasya jita.indriyatvam anārambho niṣkiñcanatvaṃ saṅga.tyāgo bhaikṣavratam anekatra-araṇye ca vāso bāhya.ābhyantaraṃ ca śaucam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sarveṣām",
+      "words": [
+       {
+        "w": "sarveṣām",
+        "gloss": "of all",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ahiṃsā",
+      "words": [
+       {
+        "w": "ahiṃsā",
+        "gloss": "non-injury",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "satyaṃ",
+      "words": [
+       {
+        "w": "satyam",
+        "gloss": "truth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaucam",
+      "words": [
+       {
+        "w": "śaucam",
+        "gloss": "purity",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anasūya",
+      "words": [
+       {
+        "w": "anasūyā",
+        "gloss": "absence of envy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ānṛśaṃsyaṃ",
+      "words": [
+       {
+        "w": "ānṛśaṃsyam",
+        "gloss": "compassion",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣamā",
+      "words": [
+       {
+        "w": "kṣamā",
+        "gloss": "forbearance",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सभी के अहिंसा, सत्य, शुचिता, असूया का अभाव, करुणा, क्षमा।",
+  "english": "Of all [are] non-injury, truth, purity, absence of envy, compassion and forbearance.",
+  "text_flags": [
+   {
+    "src": "anasūya",
+    "suggest": "anasūyā",
+    "why": "possible: final ā shortened (anasūyā + ānṛśaṃsyam); the stem anasūya is not an attested noun here"
+   }
+  ],
+  "notes": "Verbless; copula bracketed in English, none in Hindi. The printed 'anasūya' (Devanagari अनसूय) before ānṛśaṃsyam is read anasūyā (f., 'absence of envy / fault-finding'); the short final -a is a possible slip for -ā (anasūyā + ānṛśaṃsyam, which would sandhi to anasūyānṛśaṃsyam), so flagged as possible. anṛśaṃsya = compassion (glossary). 'sarveṣām' presumably refers to all the classes just listed; not supplied.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.13"
+  ],
+  "lines_deva": [
+   "सर्वेषाम् अहिंसा सत्यं शौचम् अनसूय आनृशंस्यं क्षमा च"
+  ],
+  "lines_iast": [
+   "sarveṣām ahiṃsā satyaṃ śaucam anasūya ānṛśaṃsyaṃ kṣamā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svadharmaḥ",
+      "words": [
+       {
+        "w": "sva-dharmaḥ",
+        "gloss": "own dharma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svargāya-ānantyāya",
+      "words": [
+       {
+        "w": "svargāya",
+        "gloss": "for heaven",
+        "gram": "m. dat. sg."
+       },
+       {
+        "w": "ānantyāya",
+        "gloss": "for endlessness",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपना धर्म स्वर्ग के लिए और अनन्तता के लिए।",
+  "english": "Own dharma [is] for heaven and for endlessness.",
+  "text_flags": [],
+  "notes": "Verbless; copula bracketed in English. ānantya = endlessness / infinity (some read 'eternal bliss'; the line does not say). The text gives dative purpose; the verb is not supplied beyond the bracketed copula.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.14"
+  ],
+  "lines_deva": [
+   "स्वधर्मः स्वर्गाय-आनन्त्याय च"
+  ],
+  "lines_iast": [
+   "svadharmaḥ svargāya-ānantyāya ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasya-atikrame",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "of that",
+        "gram": "m./n. gen. sg."
+       },
+       {
+        "w": "atikrame",
+        "gloss": "in transgression",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "lokaḥ",
+      "words": [
+       {
+        "w": "lokaḥ",
+        "gloss": "world",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṅkarād",
+      "words": [
+       {
+        "w": "saṅkarāt",
+        "gloss": "from confusion",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ucchidyeta",
+      "words": [
+       {
+        "w": "ucchidyeta",
+        "gloss": "would be uprooted",
+        "gram": "3 sg. opt. pass. ud-√chid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसका अतिक्रमण होने पर लोक संकर से उच्छिन्न हो जाए।",
+  "english": "In transgression of that, the world would be uprooted through confusion (saṅkara).",
+  "text_flags": [],
+  "notes": "tasya refers to the svadharma of unit 14. saṅkara = confusion, mixing (of the classes is the usual sense but is not stated here). ucchidyeta is the optative passive of ud-√chid; 'uprooted' follows the glossary for the ucch- forms, 'cut off / destroyed' is possible.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.15"
+  ],
+  "lines_deva": [
+   "तस्य-अतिक्रमे लोकः सङ्कराद् उच्छिद्येत"
+  ],
+  "lines_iast": [
+   "tasya-atikrame lokaḥ saṅkarād ucchidyeta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmāt",
+      "words": [
+       {
+        "w": "tasmāt",
+        "gloss": "therefore",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svadharmaṃ",
+      "words": [
+       {
+        "w": "sva-dharmam",
+        "gloss": "own dharma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūtānāṃ",
+      "words": [
+       {
+        "w": "bhūtānām",
+        "gloss": "of beings",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "rājā",
+      "words": [
+       {
+        "w": "rājā",
+        "gloss": "king",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vyabhicārayet",
+      "words": [
+       {
+        "w": "vyabhicārayet",
+        "gloss": "should cause to swerve",
+        "gram": "3 sg. opt. caus. vi-abhi-√car"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "svadharmaṃ",
+      "words": [
+       {
+        "w": "sva-dharmam",
+        "gloss": "own dharma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sandadhāno",
+      "words": [
+       {
+        "w": "sandadhānaḥ",
+        "gloss": "joining",
+        "gram": "pres. part. mid. sam-√dhā, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pretya",
+      "words": [
+       {
+        "w": "pretya",
+        "gloss": "after death",
+        "gram": "abs. pra-√i"
+       }
+      ]
+     },
+     {
+      "src": "ca-iha",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nandati",
+      "words": [
+       {
+        "w": "nandati",
+        "gloss": "rejoices",
+        "gram": "3 sg. pres. √nand"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसलिए राजा प्राणियों के अपने धर्म को विचलित न कराए। क्योंकि अपने धर्म का संधान करता हुआ मरने के बाद और यहाँ आनन्दित होता है।",
+  "english": "Therefore the king should not cause the own dharma of beings to swerve. For, joining [his] own dharma, [he] rejoices both after death and here.",
+  "text_flags": [],
+  "notes": "vyabhicārayet is a causative of vi-abhi-√car ('go astray'); 'cause to swerve' is literal, 'let [beings] deviate from' is the sense of the construction. sandadhāna (sam-√dhā, middle participle): 'joining, putting together'; 'holding to / adhering to' is a possible sense, medium confidence. The subject of nandati is not stated; '[he]' is bracketed. pretya = having departed, 'after death'. 'ca … ca' is 'both … and'; Hindi has one और. bhūtānām: of beings (creatures), as in unit 6.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "01.03.16a",
+   "01.03.16b"
+  ],
+  "lines_deva": [
+   "तस्मात् स्वधर्मं भूतानां राजा न व्यभिचारयेत्",
+   "स्वधर्मं सन्दधानो हि प्रेत्य च-इह च नन्दति"
+  ],
+  "lines_iast": [
+   "tasmāt svadharmaṃ bhūtānāṃ rājā na vyabhicārayet",
+   "svadharmaṃ sandadhāno hi pretya ca-iha ca nandati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyavasthita.ārya.maryādaḥ",
+      "words": [
+       {
+        "w": "vyavasthita-ārya-maryādaḥ",
+        "gloss": "with the ārya boundary established",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛta.varṇa.āśrama.sthitiḥ",
+      "words": [
+       {
+        "w": "kṛta-varṇa-āśrama-sthitiḥ",
+        "gloss": "with the position of varṇas and āśramas made",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "trayyā-abhirakṣito",
+      "words": [
+       {
+        "w": "trayyā",
+        "gloss": "by the triple Veda",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "abhirakṣitaḥ",
+        "gloss": "protected",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "lokaḥ",
+      "words": [
+       {
+        "w": "lokaḥ",
+        "gloss": "world",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasīdati",
+      "words": [
+       {
+        "w": "prasīdati",
+        "gloss": "becomes serene",
+        "gram": "3 sg. pres. pra-√sad"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sīdati",
+      "words": [
+       {
+        "w": "sīdati",
+        "gloss": "sinks",
+        "gram": "3 sg. pres. √sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "व्यवस्थित आर्य-मर्यादा वाला, की गई वर्ण-आश्रम-स्थिति वाला, त्रयी से रक्षित लोक प्रसन्न होता है, डूबता नहीं।",
+  "english": "The world, with the ārya boundary established, with the position of varṇas and āśramas made, protected by the triple Veda, becomes serene, does not sink.",
+  "text_flags": [],
+  "notes": "Both first-line compounds are bahuvrīhi adjectives of lokaḥ. maryādā = boundary, limit; sthiti = standing, position (order). prasīdati: 'becomes clear/serene/gracious'; sīdati: 'sinks, languishes'; medium-high confidence. trayī = the triple Veda as in unit 1. The two clauses have no connecting word and are kept asyndetic.",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "01.03.17a",
+   "01.03.17b"
+  ],
+  "lines_deva": [
+   "व्यवस्थित.आर्य.मर्यादः कृत.वर्ण.आश्रम.स्थितिः",
+   "त्रय्या-अभिरक्षितो लोकः प्रसीदति न सीदति"
+  ],
+  "lines_iast": [
+   "vyavasthita.ārya.maryādaḥ kṛta.varṇa.āśrama.sthitiḥ",
+   "trayyā-abhirakṣito lokaḥ prasīdati na sīdati"
+  ],
+  "uncertain": []
+ }
+]

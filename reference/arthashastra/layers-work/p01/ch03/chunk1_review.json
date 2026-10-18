@@ -1,0 +1,480 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "trayī",
+     "problem": "Glossary (1.2): trayī = the triple Veda, not 'the triad'",
+     "fix": "the triple Veda (trayī)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the triad (trayī)",
+      "new": "the triple Veda (trayī)",
+      "n": "1"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "trayī",
+     "problem": "Glossary (1.2): trayī = the triple Veda, not 'the triad'",
+     "fix": "the triple Veda (trayī)",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trayī",
+      "field": "gloss",
+      "value": "the triple Veda (trayī)",
+      "n": "1"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Glossary (1.2): trayī = the triple Veda, not 'the triad'",
+     "fix": "trayī 'the triple Veda' is the name",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "trayī 'the triad' is the name",
+      "new": "trayī 'the triple Veda' is the name",
+      "n": "1"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "iti ca-aṅgāni",
+     "problem": "Closing 'iti X' label is rendered 'such are X' per glossary (3.7, 7.4: ये X हैं), not dropped; ca kept",
+     "fix": "शिक्षा, कल्प, व्याकरण, निरुक्त, छन्दोविचिति, ज्योतिष — और ये अंग हैं।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "शिक्षा, कल्प, व्याकरण, निरुक्त, छन्दोविचिति, ज्योतिष — और ये अंग हैं।",
+      "n": "3"
+     }
+    },
+    {
+     "field": "english",
+     "where": "iti ca-aṅgāni",
+     "problem": "iti was dropped and a bracketed '[these are]' invented; glossary: closing 'iti X' = Such are X",
+     "fix": "Śikṣā (phonetics), kalpa (ritual), grammar, nirukta (etymology), the investigation of metres, jyotiṣa (astronomy) — and such are the limbs.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "Śikṣā (phonetics), kalpa (ritual), grammar, nirukta (etymology), the investigation of metres, jyotiṣa (astronomy) — and such are the limbs.",
+      "n": "3"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes said iti is not rendered; now rendered",
+     "fix": "iti closes the list of six names and is rendered as the closing label 'such are' (glossary: closing 'iti X' = Such are X), with ca 'and' joining it to the preceding sentence; the construction is loose, so the translation stays literal. The six names are kept with short literal glosses; the precise sense of each (e.g. chandas-viciti, kalpa) is not argued here. aṅga is 'limb' (of the Vedas is understood, not stated).",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "notes",
+      "value": "iti closes the list of six names and is rendered as the closing label 'such are' (glossary: closing 'iti X' = Such are X), with ca 'and' joining it to the preceding sentence; the construction is loose, so the translation stays literal. The six names are kept with short literal glosses; the precise sense of each (e.g. chandas-viciti, kalpa) is not argued here. aṅga is 'limb' (of the Vedas is understood, not stated).",
+      "n": "3"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "english",
+     "problem": "trayī = triple Veda (1.2); aupakārika = beneficial (1.4 aupakārikī)",
+     "fix": "This dharma of the triple Veda (trayī-dharma) [is] beneficial, through the establishing of [their] own dharma of the four varṇas and of the āśramas.",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "english",
+      "value": "This dharma of the triple Veda (trayī-dharma) [is] beneficial, through the establishing of [their] own dharma of the four varṇas and of the āśramas.",
+      "n": "4"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Align with 1.4 aupakārika = beneficial (उपकारी)",
+     "fix": "यह त्रयी-धर्म चार वर्णों के और आश्रमों के अपने धर्म की स्थापना से उपकारी।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "यह त्रयी-धर्म चार वर्णों के और आश्रमों के अपने धर्म की स्थापना से उपकारी।",
+      "n": "4"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "trayī-dharmaḥ",
+     "problem": "Glossary (1.2): trayī = the triple Veda, not 'the triad'",
+     "fix": "dharma of the triple Veda",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trayī-dharmaḥ",
+      "field": "gloss",
+      "value": "dharma of the triple Veda",
+      "n": "4"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "aupakārikaḥ",
+     "problem": "Glossary (1.4): aupakārikī = beneficial",
+     "fix": "beneficial",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "aupakārikaḥ",
+      "field": "gloss",
+      "value": "beneficial",
+      "n": "4"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Glossary (1.2): Hindi lists of 3+ take commas only, including a list closed by ca (no और before प्रतिग्रह)",
+     "fix": "ब्राह्मण का अपना धर्म अध्ययन, अध्यापन, यजन, याजन, दान, प्रतिग्रह।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "ब्राह्मण का अपना धर्म अध्ययन, अध्यापन, यजन, याजन, दान, प्रतिग्रह।",
+      "n": "5"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi list of 3+: commas only (1.2); ājīva = जीविका per glossary 4.2",
+     "fix": "क्षत्रिय का अध्ययन, यजन, दान, शस्त्र से जीविका, प्राणियों की रक्षा।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "क्षत्रिय का अध्ययन, यजन, दान, शस्त्र से जीविका, प्राणियों की रक्षा।",
+      "n": "6"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi list of 3+: commas only (1.2); the two-member dvandva keeps और",
+     "fix": "वैश्य का अध्ययन, यजन, दान, कृषि और पशुपालन, वाणिज्य।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "वैश्य का अध्ययन, यजन, दान, कृषि और पशुपालन, वाणिज्य।",
+      "n": "7"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi list of 3+: commas only (1.2); stray comma-और removed",
+     "fix": "शूद्र का द्विजातियों की शुश्रूषा, वार्ता, कारु और कुशीलव का कर्म।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "शूद्र का द्विजातियों की शुश्रूषा, वार्ता, कारु और कुशीलव का कर्म।",
+      "n": "8"
+     }
+    },
+    {
+     "field": "english",
+     "where": "karma",
+     "problem": "karma = works in Book 1 (task convention)",
+     "fix": "the works of artisans and kuśīlavas",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "the work of artisans and kuśīlavas",
+      "new": "the works of artisans and kuśīlavas",
+      "n": "8"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gloss",
+     "problem": "karma = works",
+     "fix": "works of artisans and kuśīlavas",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "kāru-kuśīlava-karma",
+      "field": "gloss",
+      "value": "works of artisans and kuśīlavas",
+      "n": "8"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "karma = works",
+     "fix": "karma = works (the works of artisans and kuśīlavas)",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "karma = work (works of artisans and kuśīlavas)",
+      "new": "karma = works (the works of artisans and kuśīlavas)",
+      "n": "8"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Decide the śuśrūṣā doubt",
+     "fix": "here, for the śūdra's duty toward the twice-born, 'service' is kept (Book 1 decision, glossary line 1.3); Hindi keeps शुश्रूषा.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "here 'service' of the twice-born is the natural rendering, Hindi keeps शुश्रूषा, a person may align.",
+      "new": "here, for the śūdra's duty toward the twice-born, 'service' is kept (Book 1 decision, glossary line 1.3); Hindi keeps शुश्रूषा.",
+      "n": "8"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi list: commas only, no final और (1.2); ājīva = जीविका (4.2)",
+     "fix": "गृहस्थ का अपने धर्म से जीविका, तुल्यों के साथ, असमान ऋषियों वालों के साथ विवाह, ऋतु में गमन, देव, पितृ, अतिथि की पूजा, भृत्यों के प्रति त्याग, शेष भोजन।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "गृहस्थ का अपने धर्म से जीविका, तुल्यों के साथ, असमान ऋषियों वालों के साथ विवाह, ऋतु में गमन, देव, पितृ, अतिथि की पूजा, भृत्यों के प्रति त्याग, शेष भोजन।",
+      "n": "9"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Notes contradict the 1.2 list rule",
+     "fix": "Hindi list takes commas only (glossary 1.2), the final ca is carried by the comma.",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi has commas for the dvandva of three, with ca = और before the last item.",
+      "new": "Hindi list takes commas only (glossary 1.2), the final ca is carried by the comma.",
+      "n": "9"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi list: commas only (1.2), final और removed",
+     "fix": "वानप्रस्थ का ब्रह्मचर्य, भूमि पर शय्या, जटा और अजिन का धारण, अग्निहोत्र और अभिषेक, देवता, पितृ, अतिथि की पूजा, वन्य आहार।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "वानप्रस्थ का ब्रह्मचर्य, भूमि पर शय्या, जटा और अजिन का धारण, अग्निहोत्र और अभिषेक, देवता, पितृ, अतिथि की पूजा, वन्य आहार।",
+      "n": "11"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi list: commas only (1.2), final और before बाह्य removed; the two-member pairs keep और",
+     "fix": "परिव्राजक की जितेन्द्रियता, अनारम्भ, निष्किंचनता, संग का त्याग, भिक्षा-व्रत, अनेक स्थानों पर और वन में निवास, बाह्य और आभ्यन्तर शुचिता।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "परिव्राजक की जितेन्द्रियता, अनारम्भ, निष्किंचनता, संग का त्याग, भिक्षा-व्रत, अनेक स्थानों पर और वन में निवास, बाह्य और आभ्यन्तर शुचिता।",
+      "n": "12"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi list: commas only (1.2), final और removed",
+     "fix": "सभी के अहिंसा, सत्य, शुचिता, असूया का अभाव, करुणा, क्षमा।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "सभी के अहिंसा, सत्य, शुचिता, असूया का अभाव, करुणा, क्षमा।",
+      "n": "13"
+     }
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi must not use the compound स्वधर्म for sva-dharma; 1.4 renders sva-dharma 'अपना धर्म'; consistent with units 5, 9, 14",
+     "fix": "इसलिए राजा प्राणियों के अपने धर्म को विचलित न कराए। क्योंकि अपने धर्म का संधान करता हुआ मरने के बाद और यहाँ आनन्दित होता है।",
+     "severity": "minor",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "इसलिए राजा प्राणियों के अपने धर्म को विचलित न कराए। क्योंकि अपने धर्म का संधान करता हुआ मरने के बाद और यहाँ आनन्दित होता है।",
+      "n": "16"
+     }
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "hindi",
+     "problem": "Hindi copula है and relative जिसकी added for bahuvrīhi adjectives; glossary renders bahuvrīhi with वाला and no copula",
+     "fix": "व्यवस्थित आर्य-मर्यादा वाला, की गई वर्ण-आश्रम-स्थिति वाला, त्रयी से रक्षित लोक प्रसन्न होता है, डूबता नहीं।",
+     "severity": "error",
+     "patch": {
+      "op": "set",
+      "field": "hindi",
+      "value": "व्यवस्थित आर्य-मर्यादा वाला, की गई वर्ण-आश्रम-स्थिति वाला, त्रयी से रक्षित लोक प्रसन्न होता है, डूबता नहीं।",
+      "n": "17"
+     }
+    },
+    {
+     "field": "english",
+     "where": "trayyā",
+     "problem": "Glossary (1.2): trayī = the triple Veda, not 'the triad'",
+     "fix": "protected by the triple Veda",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "english",
+      "old": "protected by the triad",
+      "new": "protected by the triple Veda",
+      "n": "17"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "trayyā",
+     "problem": "Glossary (1.2): trayī = the triple Veda, not 'the triad'",
+     "fix": "by the triple Veda",
+     "severity": "minor",
+     "patch": {
+      "op": "word",
+      "match_w": "trayyā",
+      "field": "gloss",
+      "value": "by the triple Veda",
+      "n": "17"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "notes",
+     "problem": "Glossary (1.2): trayī = the triple Veda, not 'the triad'",
+     "fix": "trayī = the triple Veda as in unit 1",
+     "severity": "minor",
+     "patch": {
+      "op": "replace",
+      "field": "notes",
+      "old": "trayī = the triad of Vedas as in unit 1",
+      "new": "trayī = the triple Veda as in unit 1",
+      "n": "17"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "17 units checked against the Sanskrit; 28 machine patches (1 error, 27 minor). No regrouping suggested. Main fixes: trayī = the triple Veda (glossary 1.2); Hindi lists of 3+ commas only with no final और (1.2); unit 3 closing 'iti ... aṅgāni' rendered 'such are the limbs'; unit 16 sva-dharma = अपना धर्म in Hindi; unit 17 Hindi copula removed; karma = works; ājīva = जीविका; aupakārika = beneficial. Doubts resolved: unit 8 śuśrūṣā kept 'service'; unit 9 tulyaiḥ/asamāna-ṛṣibhiḥ kept as unconnected instrumentals; unit 10 locatives with 'with' accepted; unit 13 text_flag anasūya->anasūyā kept (both scripts print short a); unit 16 'joining' kept literal, medium. No hand edits (no word or text_flag to add or delete)."
+}
