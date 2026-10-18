@@ -1,0 +1,173 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kṛta-śilpaḥ",
+     "problem": "'acquired' is an interpretive sense for kṛta ('made, done'); keep literal",
+     "fix": "with skill made",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "kṛta-śilpaḥ",
+      "field": "gloss",
+      "value": "with skill made"
+     }
+    },
+    {
+     "field": "english",
+     "where": "with skill acquired",
+     "problem": "same: 'acquired' is not in the Sanskrit",
+     "fix": "with skill made",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "with skill acquired",
+      "new": "with skill made"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "शिल्प अर्जित किया हुआ",
+     "problem": "अर्जित (acquired) is an added sense; literal bahuvrīhi 'किए हुए शिल्प वाला'",
+     "fix": "किए हुए शिल्प वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शिल्प अर्जित किया हुआ",
+      "new": "किए हुए शिल्प वाला"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "kṛta-śilpa",
+     "problem": "note must match the literal rendering",
+     "fix": "append",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "append_note",
+      "text": "Reviewer: kṛta-śilpa rendered literally 'with skill made'; the sense 'trained, skilled' (acquired) is the likely meaning but is not stated in the word."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वाग्मिता",
+     "problem": "glossary (1.7): -tva abstracts keep the suffix in Hindi; vāgmitvam",
+     "fix": "वाग्मित्व",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वाग्मिता",
+      "new": "वाग्मित्व"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सम्प्रियता और वैर का अभाव",
+     "problem": "sampriyatvam, avairatvam are -tva abstracts: keep the suffix in Hindi (1.7), as pratibhānavattva already is",
+     "fix": "सम्प्रियत्व और अवैरत्व",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सम्प्रियता और वैर का अभाव",
+      "new": "सम्प्रियत्व और अवैरत्व"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "ever-risen",
+     "problem": "'ever' is added; udita-udita is literally 'risen-risen' (the notes say so)",
+     "fix": "of risen-risen family and character",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "of ever-risen family and character",
+      "new": "of risen-risen family and character"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "udita-udita-kula-śīlam",
+     "problem": "same",
+     "fix": "of risen-risen family and character",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "udita-udita-kula-śīlam",
+      "field": "gloss",
+      "value": "of risen-risen family and character"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Draft is sound: tokens, sandhi splits, cases, closing-label and '| 8 |' handling match earlier chunks and the glossary; the four drafter text_flags are real (argha/ardha, janapad./janapada, drṣṭaṃ/dṛṣṭaṃ, embedded '| 8 |'). 8 minor machine patches (kṛta-śilpa literal; -tva abstracts in Hindi per 1.7; udita-udita literal), 0 errors. No regrouping. Judgement calls accepted with medium confidence: kathā-yoga 'occasions', daive nimitte as one phrase, atharvabhiḥ 'by the Atharvans', akṛta-avekṣaṇam, atyaya 'lapse', amātya number (sg. in the sampat label, pl. in the karma label)."
+}
