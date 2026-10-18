@@ -1,0 +1,710 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-ahaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmiṃ",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhāvahe\"",
+      "words": [
+       {
+        "w": "labhāvahe",
+        "gloss": "we two obtain",
+        "gram": "1 du. pres. mid. √labh"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.sandhiḥ",
+      "words": [
+       {
+        "w": "bhūmi-sandhiḥ",
+        "gloss": "treaty of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“तुम और मैं भूमि पाते हैं” — यह भूमि-सन्धि है।",
+  "english": "“You and I obtain land” — such is the treaty of land.",
+  "text_flags": [],
+  "notes": "labhāvahe is 1st dual present middle, \"we two obtain\"; a hortative sense (\"let us two obtain\") is possible. The quotation is closed by iti, which also opens the label bhūmi-sandhi (glossary: closing particle, label rendered \"Such is X\").",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tayor",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "of the two",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyupasthita.arthaḥ",
+      "words": [
+       {
+        "w": "pratyupasthita-arthaḥ",
+        "gloss": "one whose matter is at hand",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sampannāṃ",
+      "words": [
+       {
+        "w": "sampannām",
+        "gloss": "excellent",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmim",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avāpnoti",
+      "words": [
+       {
+        "w": "avāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ava-√āp"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन दोनों में से जिसका प्रयोजन सामने उपस्थित है, जो सम्पन्न भूमि प्राप्त करता है, वह छल लेता है।",
+  "english": "Of the two, he whose purpose is at hand, who obtains excellent land, outwits [the other].",
+  "text_flags": [],
+  "notes": "pratyupasthita-artha taken literally as \"having the matter/purpose come to hand\"; the exact sense (ready, present) is open. Object of atisandhatte is not stated. Token \"so 'tisandhatte\" splits into saḥ + atisandhatte (avagraha for a-).",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulye",
+      "words": [
+       {
+        "w": "tulye",
+        "gloss": "equal",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sampanna.alābhe",
+      "words": [
+       {
+        "w": "sampanna-alābhe",
+        "gloss": "in the non-obtaining of excellent [land]",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavantam",
+      "words": [
+       {
+        "w": "balavantam",
+        "gloss": "strong [one]",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ākramya",
+      "words": [
+       {
+        "w": "ākramya",
+        "gloss": "having attacked",
+        "gram": "abs. ā-√kram"
+       }
+      ]
+     },
+     {
+      "src": "bhūmim",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avāpnoti",
+      "words": [
+       {
+        "w": "avāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ava-√āp"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सम्पन्न की अप्राप्ति समान होने पर, जो बलवान् पर आक्रमण करके भूमि प्राप्त करता है, वह छल लेता है।",
+  "english": "When the non-obtaining of excellent [land] is equal, he who, having attacked a strong [king], obtains land outwits [the other].",
+  "text_flags": [],
+  "notes": "sampanna.alābhe is read literally as sampanna + alābha (non-obtaining of the excellent); the alternative reading sampanna-lābhe (\"when the gain of excellent land is equal\") is possible if alābhe is a sandhi/typing variant. The noun with tulye and the object of atisandhatte are not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūmi.lābhaṃ",
+      "words": [
+       {
+        "w": "bhūmi-lābham",
+        "gloss": "acquisition of land",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śatru.karśanaṃ",
+      "words": [
+       {
+        "w": "śatru-karśanam",
+        "gloss": "weakening of the enemy",
+        "gram": "n. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "pratāpaṃ",
+      "words": [
+       {
+        "w": "pratāpam",
+        "gloss": "prowess",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāpnoti",
+      "words": [
+       {
+        "w": "prāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. pra-√āp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि भूमि-लाभ, शत्रु का क्षीण करना और प्रताप प्राप्त करता है।",
+  "english": "For [he] obtains the acquisition of land, the weakening of the enemy, and prowess.",
+  "text_flags": [],
+  "notes": "Subject not stated (continues from the one who outwits). pratāpa taken as prowess (literally \"heat\").",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbalād.bhūmi.lābhe",
+      "words": [
+       {
+        "w": "durbalāt",
+        "gloss": "from the weak [one]",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "bhūmi-lābhe",
+        "gloss": "in the acquisition of land",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "satyaṃ",
+      "words": [
+       {
+        "w": "satyam",
+        "gloss": "truly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saukaryaṃ",
+      "words": [
+       {
+        "w": "saukaryam",
+        "gloss": "ease",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्बल से भूमि-लाभ होने पर सचमुच सरलता होती है।",
+  "english": "When land is acquired from a weak [king], there is truly ease.",
+  "text_flags": [
+   {
+    "src": "durbalād.bhūmi.lābhe",
+    "suggest": "durbalād bhūmi.lābhe",
+    "why": "possible stray dot: the ablative durbalāt is a separate word (as in unit 9 cala.amitrād.bhūmi.lābhe, same pattern in units 23, 26)"
+   }
+  ],
+  "notes": "The dot after durbalād joins an ablative to a compound; read as two words. satyam taken as \"truly\" (adverb); alternative \"indeed\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbala",
+      "words": [
+       {
+        "w": "durbalaḥ",
+        "gloss": "weak",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.lābhaḥ,",
+      "words": [
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "acquisition of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "tat.sāmantaś",
+      "words": [
+       {
+        "w": "tat-sāmantaḥ",
+        "gloss": "his neighbouring chief",
+        "gram": "m. nom. sg. (bahuvrīhi/tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitra.bhāvaṃ",
+      "words": [
+       {
+        "w": "amitra-bhāvam",
+        "gloss": "state of an enemy",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "gacchati",
+      "words": [
+       {
+        "w": "gacchati",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भूमि-लाभ दुर्बल ही है, और उसका सामन्त, मित्र, शत्रु-भाव को जाता है।",
+  "english": "And the acquisition of land is weak indeed, and his neighbouring chief, an ally, goes to the state of an enemy.",
+  "text_flags": [],
+  "notes": "The first clause is elliptical and rendered literally; the likely sense is that the land acquired from a weak king is itself weak (or that the gain is only of the weak), but the text does not say. tat-sāmanta: tat refers to the one acquiring or the one from whom land is taken, not stated. mitram taken as in apposition to the neighbouring chief.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulye",
+      "words": [
+       {
+        "w": "tulye",
+        "gloss": "equal",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "balīyastve",
+      "words": [
+       {
+        "w": "balīyastve",
+        "gloss": "in superior strength",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthita.śatrum",
+      "words": [
+       {
+        "w": "sthita-śatrum",
+        "gloss": "established enemy",
+        "gram": "m. acc. sg. (karmadhāraya)"
+       }
+      ]
+     },
+     {
+      "src": "utpāṭya",
+      "words": [
+       {
+        "w": "utpāṭya",
+        "gloss": "having uprooted",
+        "gram": "abs. ud-√paṭ caus."
+       }
+      ]
+     },
+     {
+      "src": "bhūmim",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avāpnoti",
+      "words": [
+       {
+        "w": "avāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ava-√āp"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "बलवत्ता समान होने पर जो स्थित शत्रु को उखाड़कर भूमि प्राप्त करता है, वह छल लेता है।",
+  "english": "When superior strength is equal, he who, having uprooted an established enemy, obtains land outwits [the other].",
+  "text_flags": [],
+  "notes": "sthita-śatru (\"standing/established enemy\") is rendered literally; the contrast intended is not stated here. The object of atisandhatte is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durga.avāptir",
+      "words": [
+       {
+        "w": "durga-avāptiḥ",
+        "gloss": "obtaining of a fort",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva.bhūmi.rakṣaṇam",
+      "words": [
+       {
+        "w": "sva-bhūmi-rakṣaṇam",
+        "gloss": "protection of one's own ground",
+        "gram": "n. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "amitra.aṭavī.pratiṣedhaṃ",
+      "words": [
+       {
+        "w": "amitra-aṭavī-pratiṣedham",
+        "gloss": "barring of enemies and forest tribes",
+        "gram": "m. acc. sg. (dvandva + tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "makes",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि दुर्ग की प्राप्ति अपनी भूमि की रक्षा और शत्रु और वन-जातियों का प्रतिषेध करती है।",
+  "english": "For the obtaining of a fort makes the protection of one's own ground and the barring of enemies and forest tribes.",
+  "text_flags": [],
+  "notes": "amitra.aṭavī is taken as a dvandva (enemies and forest tribes, aṭavī as in glossary 8.1) governed by pratiṣedha; \"karoti\" is rendered \"makes\" (effects).",
+  "confidence": "medium"
+ }
+]
