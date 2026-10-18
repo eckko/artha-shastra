@@ -1,0 +1,402 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आज्ञा का पालन न करने पर",
+     "problem": "'आज्ञा' (command) is an added noun; the closing label uses शुश्रूषा, so the word is not traceable. Use the glossary pair.",
+     "fix": "शुश्रूषा न करने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आज्ञा का पालन न करने पर",
+      "new": "शुश्रूषा न करने पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "पुरुष के परिवाप",
+     "problem": "English and notes say neutral 'person', Hindi says 'man'.",
+     "fix": "व्यक्ति के परिवाप",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुरुष के परिवाप",
+      "new": "व्यक्ति के परिवाप"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अथवा उससे अधिक",
+     "problem": "'उससे' is an unmarked added word (vā adhikam only).",
+     "fix": "अथवा अधिक",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अथवा उससे अधिक",
+      "new": "अथवा अधिक"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कुछ अधिक सहित",
+     "problem": "saviśeṣam = with something extra; 'अधिक' duplicates vā-adhikam and blurs the two.",
+     "fix": "कुछ अतिरिक्त के साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुछ अधिक सहित",
+      "new": "कुछ अतिरिक्त के साथ"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "न लिए जाने पर",
+     "problem": "Passive adds an agent-less 'being taken'; anādāna is plain non-taking (English says non-taking).",
+     "fix": "न लेने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "के न लिए जाने पर",
+      "new": "के न लेने पर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उसका उल्लंघन होने पर",
+     "problem": "Glossary 3.8: 'tasya-atikrame' = उसका अतिक्रमण होने पर.",
+     "fix": "उसका अतिक्रमण होने पर",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसका उल्लंघन होने पर",
+      "new": "उसका अतिक्रमण होने पर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इन दोनों के दण्डों से",
+     "problem": "'इन' is an added demonstrative.",
+     "fix": "दोनों के दण्डों से",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन दोनों के दण्डों से",
+      "new": "दोनों के दण्डों से"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वही दण्ड स्त्री के लिए",
+     "problem": "'दण्ड' is an unbracketed supplied noun (tad eva only; English brackets it). Hindi may supply a bare copula only.",
+     "fix": "वही स्त्री के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वही दण्ड स्त्री के लिए",
+      "new": "वही स्त्री के लिए"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "striyā",
+     "problem": "Optional: case clash striyā (inst.) vs prasiddha-doṣāyāḥ (gen.); notes mention striyāḥ but no text_flag. Add a 'possible' flag if a person agrees.",
+     "fix": "optional",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "विहारों में तथा द्वारों पर",
+     "problem": "'तथा' is an unmarked added 'and'; notes themselves say no 'and' is printed (English brackets it).",
+     "fix": "विहारों में, द्वारों पर",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "विहारों में तथा द्वारों पर",
+      "new": "विहारों में, द्वारों पर"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "bāhya-vihāreṣu",
+     "problem": "bāhya (adj.) + vihāra is a karmadhāraya, not a tat-puruṣa.",
+     "fix": "karmadhāraya, m. loc. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "bāhya-vihāreṣu",
+      "field": "gram",
+      "value": "karmadhāraya, m. loc. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दूसरी स्त्री के साथ",
+     "problem": "'स्त्री' is an unbracketed supplied noun (anyayā only; English brackets [woman]).",
+     "fix": "दूसरी के साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दूसरी स्त्री के साथ",
+      "new": "दूसरी के साथ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "anuśayīta",
+     "problem": "Sense 'proceed against' is not literal for anu-√śī and is rendered identically to abhiyojya (unit 6) and in units 12-13 in Hindi as कार्यवाही करे; a person should decide one rendering (glossary line added as doubtful).",
+     "fix": "(no patch)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "apasarpa",
+     "problem": "Glossary 'apasarpa = spy' comes from Books 12-13; in a marriage/adultery rule the sense is unproven. Rendering 'spy' (गुप्तचर) is a guess; keep literal 'one who goes away/spy' with doubt. Needs a person.",
+     "fix": "person to decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "16",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "17",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "18",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "na-asyai",
+     "problem": "MISSING text_flag. The woman is the subject of icchet/dadyāt yet asyai (her) is dative f.; unit 17 has asyai for the man's giving to her. Possible na-asmai (to him). Notes already say 'check the edition'; a flag should record it as 'possible'. Needs hand edit.",
+     "fix": "add {src:'na-asyai', suggest:'na-asmai', why:'possible: ...'}",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "20",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "21",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "22",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "23",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "24",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "25",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "26",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "27",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "28",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्त्रियों को",
+     "problem": "Genitive strīṇām rendered as dative 'to women' (English too); disclosed in notes but it is an interpretation. Needs a person.",
+     "fix": "person to decide",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "29",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "30",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यह स्त्री का दण्ड है",
+     "problem": "'यह' is an added demonstrative; Sanskrit has only 'striyā daṇḍaḥ'.",
+     "fix": "स्त्री का दण्ड है",
+     "severity": "minor",
+     "patch": {
+      "n": "30",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यह स्त्री का दण्ड है",
+      "new": "स्त्री का दण्ड है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "31",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वे ही दण्ड, जो पहुँचने के अयोग्य हैं उन दोनों के लिए",
+     "problem": "'दण्ड' is an unbracketed supplied noun for ta(h), and the 'जो ... उन' relative clause is added; English has [penalties] bracketed.",
+     "fix": "वे ही, पहुँचने के अयोग्य उन दोनों के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "31",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वे ही दण्ड, जो पहुँचने के अयोग्य हैं उन दोनों के लिए",
+      "new": "वे ही, पहुँचने के अयोग्य उन दोनों के लिए"
+     }
+    }
+   ]
+  },
+  {
+   "n": "32",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "द्वेष किए गए कार्य से",
+     "problem": "'कार्य' is an unbracketed supplied noun (English brackets [acts]); Hindi has no bracket convention. Needs a person: no clean Hindi wording without the noun.",
+     "fix": "person to decide",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 32 units of 3.3 chunk 1. 1 error, 18 minor issues. Draft is sound: sandhi/splits, case labels, numerals (catuṣ-pañcāśat = 54) correct; no Latin or brackets in Hindi; closing iti never 'thus'. Main faults: unmarked added words in Hindi (तथा, दण्ड, स्त्री, उससे, इन, यह, आज्ञा), one compound label, Hindi अतिक्रमण per glossary 3.8. No regrouping suggested (units 5-6 form one sentence but follow the edition's numbering). Hand edits needed: missing text_flag in unit 18 (and optional unit 10); person decisions: units 12-13 anuśayīta, 14 apasarpa, 28 strīṇām, 32 supplied noun, śulka sense."
+}
