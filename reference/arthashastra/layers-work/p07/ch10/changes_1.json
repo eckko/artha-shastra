@@ -1,0 +1,317 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "“You and I obtain land” — such is the treaty of land.",
+  "new": "“Both you and I obtain land” — such is the treaty of land.",
+  "why": "reviewer (minor): Glossary 7.5: correlative ca … ca = 'both … and' in English (Hindi keeps one और)."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "pratyupasthita-arthaḥ",
+  "old": "one whose matter is at hand",
+  "new": "one whose purpose is at hand",
+  "why": "reviewer (minor): Gloss says 'matter' but English and Hindi say 'purpose'/प्रयोजन (glossary: artha in such compounds = purpose); align."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "tulye",
+  "old": "n. loc. sg.",
+  "new": "m./n. loc. sg.",
+  "why": "reviewer (minor): tulye agrees with alābhe, which is masculine (glossary 3.5: label m./n.); 'n.' is wrong."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "For [he] obtains the acquisition of land, the weakening of the enemy, and prowess.",
+  "new": "For [he] obtains the acquisition of land, the weakening of the enemy, and splendour.",
+  "why": "reviewer (error): Glossary 7.4: pratāpa = splendour (प्रताप), not 'might'; 'prowess' is a different word."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "pratāpam",
+  "old": "prowess",
+  "new": "splendour",
+  "why": "reviewer (error): Align gloss with glossary 7.4."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "For [he] obtains the acquisition of land, the weakening of the enemy, and splendour.",
+  "new": "For [he] obtains the gain of land, the weakening of the enemy, and splendour.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "bhūmi-lābham",
+  "old": "acquisition of land",
+  "new": "gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Subject not stated (continues from the one who outwits). pratāpa taken as prowess (literally \"heat\").",
+  "new": "Subject not stated (continues from the one who outwits). pratāpa taken as splendour (glossary 7.4) (literally \"heat\").",
+  "why": "reviewer (minor): Notes still say 'prowess'."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "When land is acquired from a weak [king], there is truly ease.",
+  "new": "In the gain of land from a weak [king], there is truly ease.",
+  "why": "reviewer (minor): Glossary lābha = gain; also the passive 'is acquired' turns the locative noun bhūmi-lābhe into a verb clause."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhe",
+  "old": "in the acquisition of land",
+  "new": "in the gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "And the acquisition of land is weak indeed, and his neighbouring chief, an ally, goes to the state of an enemy.",
+  "new": "And the gain of land is weak indeed, and his neighbouring chief, an ally, goes to the state of an enemy.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhaḥ",
+  "old": "acquisition of land",
+  "new": "gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "बलवत्ता समान होने पर जो स्थित शत्रु को उखाड़कर भूमि प्राप्त करता है, वह छल लेता है।",
+  "new": "अधिक बल समान होने पर जो स्थित शत्रु को उखाड़कर भूमि प्राप्त करता है, वह छल लेता है।",
+  "why": "reviewer (minor): balīyas- is comparative ('greater strength', English 'superior strength'); बलवत्ता loses the comparative."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "In the acquisition of land from a fickle enemy, there is a distinction as against [that with] possible neighbouring chiefs.",
+  "new": "In the gain of land from a fickle enemy, there is a distinction as against [that with] possible neighbouring chiefs.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhe",
+  "old": "in the acquisition of land",
+  "new": "in the gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "“सम्पन्न, नित्य शत्रु वाली अथवा मन्द गुण वाली, अनित्य शत्रु वाली भूमि” — “सम्पन्न, नित्य शत्रु वाली भूमि श्रेष्ठ है, क्योंकि सम्पन्न भूमि कोश और सेना को सिद्ध करती है, और वे दोनों शत्रु का प्रतिघात करने वाले हैं,” ऐसा आचार्य कहते हैं।",
+  "new": "“सम्पन्न, नित्य शत्रु वाली अथवा मन्द गुण वाली, अनित्य शत्रु वाली भूमि” — “सम्पन्न, नित्य शत्रु वाली भूमि श्रेष्ठ है, क्योंकि सम्पन्न, कोश और सेना को जुटाती है, और वे दोनों शत्रु का प्रतिघात करने वाले हैं,” ऐसा आचार्य कहते हैं।",
+  "why": "reviewer (error): Hindi adds the bare noun भूमि (no Sanskrit word; English correctly brackets [land]); also सिद्ध करना reads as 'prove'; sampādayati = provides/procures. Comma keeps सम्पन्न from being read with कोश."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "In the non-obtaining of a permanent enemy, the acquisition of enemies is greater.",
+  "new": "In the non-obtaining of a permanent enemy, the gain of enemies is greater.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "śatru-lābhaḥ",
+  "old": "acquisition of enemies",
+  "new": "gain of enemies",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "And a permanent enemy, when benefited and when harmed, is an enemy indeed; but a temporary enemy is pacified by a favour or by non-injury.",
+  "new": "And a permanent enemy, both when benefited and when harmed, is an enemy indeed; but a temporary enemy is pacified by a favour or by non-injury.",
+  "why": "reviewer (minor): Glossary 7.5: ca … ca = 'both … and' in English."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "और नित्य शत्रु उपकार किए जाने पर और अपकार किए जाने पर शत्रु ही होता है, किन्तु अनित्य शत्रु उपकार से अथवा अपकार न करने से शान्त होता है।",
+  "new": "और नित्य शत्रु उपकार किए जाने पर और अपकार किए जाने पर शत्रु ही होता है, किन्तु अनित्य शत्रु उपकार से अथवा अनपकार से शान्त होता है।",
+  "why": "reviewer (minor): Hindi adds a verb (करने) to the noun anapakāra; keep it a noun."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "yasyā ... bhūmeḥ gives two genitives for one idea; taken as \"whose, of the land\". pratyantāḥ rendered \"frontier [regions]\" (could be frontier peoples). aṭavī = forest tribes as in glossary 8.1; mleccha kept as a name.",
+  "new": "yasyā is yasyāḥ with the visarga regularly dropped before the voiced hi (not a typo); yasyāḥ agrees with bhūmeḥ ('of which land'), it is not a double genitive. pratyantāḥ rendered 'frontier [regions]' (could be frontier peoples). aṭavī = forest tribes as in glossary 8.1; mleccha kept as a name.",
+  "why": "reviewer (minor): The note treats yasyā…bhūmeḥ as a doubtful double genitive; it is the normal relative adjective agreeing with bhūmeḥ."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "क्योंकि जिस भूमि के बहुत दुर्गों वाले सीमान्त चोरों के दलों से अथवा म्लेच्छों और वन-जातियों से सदा रहित नहीं हैं, वह नित्य शत्रु वाली है, किन्तु विपरीत स्थिति में अनित्य शत्रु वाली।",
+  "new": "क्योंकि जिस भूमि के बहुत दुर्गों वाले सीमान्त चोरों के दलों से अथवा म्लेच्छों और वन-जातियों से सदा अविरहित हैं, वह नित्य शत्रु वाली है, किन्तु विपरीत स्थिति में अनित्य शत्रु वाली।",
+  "why": "reviewer (minor): 'सदा … नहीं' can be read 'not always devoid' (wrong scope); avirahita = not devoid, nitya = always."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "क्योंकि जिस भूमि के बहुत दुर्गों वाले सीमान्त चोरों के दलों से अथवा म्लेच्छों और वन-जातियों से सदा अविरहित हैं, वह नित्य शत्रु वाली है, किन्तु विपरीत स्थिति में अनित्य शत्रु वाली।",
+  "new": "क्योंकि जिस भूमि के बहुत दुर्गों वाले सीमान्त चोरों के दलों से अथवा म्लेच्छों और वन-जातियों से सदा अविरहित हैं, वह नित्य शत्रु वाली है, किन्तु विपर्यय में अनित्य शत्रु वाली।",
+  "why": "reviewer (minor): Hindi adds the noun स्थिति (no Sanskrit word)."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "For that land whose frontier [regions], with many forts, are never free from bands of thieves or from mlecchas and forest tribes, is one with permanent enemies; but in the opposite case, one with temporary enemies.",
+  "new": "For that land whose frontier [regions], with many forts, are never free from bands of thieves or from mlecchas and forest tribes, is one with permanent enemies; but in the reverse, one with temporary enemies.",
+  "why": "reviewer (minor): 'case' is added; viparyaya = reversal."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "viparyaye",
+  "old": "in the opposite case",
+  "new": "in the reverse",
+  "why": "reviewer (minor): Align gloss."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "“Land that is small and near, or large and separated” — “The small, near [land] is better.”",
+  "new": "“Land that is small, near, or large, separated” — “The small, near [land] is better.”",
+  "why": "reviewer (minor): English adds 'and' between adjectives with no ca in the Sanskrit (glossary 3.4: series without ca are not joined by 'and')."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "“Acquisition of land from a fool or from a wise [man]” — “Acquisition of land from a fool is better.”",
+  "new": "“Gain of land from a fool or from a wise [man]” — “Acquisition of land from a fool is better.”",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "23",
+  "field": "english",
+  "old": "“Gain of land from a fool or from a wise [man]” — “Acquisition of land from a fool is better.”",
+  "new": "“Gain of land from a fool or from a wise [man]” — “Gain of land from a fool is better.”",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "24",
+  "field": "hindi",
+  "old": "क्योंकि सरलता से प्राप्त होने वाली, पालन किए जाने योग्य होती है और वापस न लिए जाने योग्य।",
+  "new": "क्योंकि सरलता से प्राप्त होने वाली, पालन किए जाने योग्य होती है और अप्रत्यादेय।",
+  "why": "reviewer (minor): Glossary 9.4 fixes pratyādeya = retakable (प्रत्यादेय); the Hindi paraphrase adds 'वापस'."
+ },
+ {
+  "n": "26",
+  "field": "english",
+  "old": "Of the one to be afflicted and the one to be uprooted, the acquisition of land from the one to be uprooted is better.",
+  "new": "Of the one to be afflicted and the one to be uprooted, the gain of land from the one to be uprooted is better.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "26",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhaḥ",
+  "old": "acquisition of land",
+  "new": "gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "28",
+  "field": "english",
+  "old": "Even of two propped by a fort—[the one] with a land fort and [the one] with a river fort—the acquisition of land from [the one] with a land fort is better.",
+  "new": "Even of two propped by a fort—[the one] with a land fort and [the one] with a river fort—the gain of land from [the one] with a land fort is better.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "28",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhaḥ",
+  "old": "acquisition of land",
+  "new": "gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "29",
+  "field": "notes",
+  "old": "\"Fort\" (durga) is not stated; sthāleya is neuter, agreeing with durga understood. Whether su- governs avamarda and avaskanda as well as rodha is uncertain. aniḥśrāvi is obscure (literally perhaps \"not flowing out\"; cf. niḥ-√sru or niḥ-√śru) and is left untranslated in the English and Hindi; no sense is guessed. avamarda = crushing, avaskanda = assault (glossary).",
+  "new": "\"Fort\" (durga) is not stated; sthāleya is neuter, agreeing with durga understood. Whether su- governs avamarda and avaskanda as well as rodha is uncertain. aniḥśrāvi is obscure (literally perhaps \"not flowing out\"; cf. niḥ-√sru or niḥ-√śru) and is left untranslated in the English and Hindi; no sense is guessed. avamarda = crushing, avaskanda = assault (glossary). The h in anihśrāvi is the e-text's usual spelling of visarga before a sibilant (cf. nihśalyaḥ), so no text_flag.",
+  "why": "reviewer (minor): Record the convention."
+ },
+ {
+  "n": "31",
+  "field": "english",
+  "old": "Of [the one] with a river fort and [the one] with a mountain fort, the acquisition of land from [the one] with a river fort is better.",
+  "new": "Of [the one] with a river fort and [the one] with a mountain fort, the gain of land from [the one] with a river fort is better.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "31",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhaḥ",
+  "old": "acquisition of land",
+  "new": "gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "31",
+  "field": "notes",
+  "old": "Same pattern as unit 28; the stray b (ब्भूमि) is not repeated in the Devanagari reading either.",
+  "new": "Same pattern as unit 28; the Devanagari line has the same ब्भूमि (the e-text also has लब्भेत, यथा.लाब्भम्, उत्साह.अब्भावे), so it is an e-text slip, not a transcription of the Sanskrit.",
+  "why": "reviewer (minor): Note is ambiguous and could be read as saying the Devanagari lacks the stray b."
+ },
+ {
+  "n": "33",
+  "field": "hindi",
+  "old": "किन्तु पार्वत सुरक्षा योग्य, कठिनाई से अवरोध करने योग्य, कठिन चढ़ाई वाला है, और एक के टूटने पर सबका वध नहीं, और शिला-वृक्षों का छोड़ना बड़ा अपकार करने वालों का।",
+  "new": "किन्तु पार्वत सुरक्षा में सरल, कठिनाई से अवरोध करने योग्य, कठिन चढ़ाई वाला है, और एक के टूटने पर सबका वध नहीं, और शिला-वृक्षों का छोड़ना बड़ा अपकार करने वालों का।",
+  "why": "reviewer (minor): सुरक्षा योग्य means 'fit for protection'; English and gloss say 'easy to guard'."
+ },
+ {
+  "n": "34",
+  "field": "english",
+  "old": "Of those who fight in low ground and those who fight on dry ground, the acquisition of land from those who fight in low ground is better.",
+  "new": "Of those who fight in low ground and those who fight on dry ground, the gain of land from those who fight in low ground is better.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "34",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhaḥ",
+  "old": "acquisition of land",
+  "new": "gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "35",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): 'high' is not earned: nimna-yodhin = 'fighting in low ground' and deśa-kāla = 'place and time' are interpretive renderings."
+ },
+ {
+  "n": "36",
+  "field": "english",
+  "old": "Of diggers and those who fight in the sky, the acquisition of land from the diggers is better.",
+  "new": "Of diggers and those who fight in the sky, the gain of land from the diggers is better.",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ },
+ {
+  "n": "36",
+  "field": "word.gloss",
+  "word": "bhūmi-lābhaḥ",
+  "old": "acquisition of land",
+  "new": "gain of land",
+  "why": "reviewer (minor): Glossary 7.7/9.4: bare lābha with no artha beside it = gain (not 'acquisition', which is for 9.7/13.5 beside artha)."
+ }
+]

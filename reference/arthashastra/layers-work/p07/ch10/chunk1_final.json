@@ -1,0 +1,3736 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "\"tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-ahaṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmiṃ",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhāvahe\"",
+      "words": [
+       {
+        "w": "labhāvahe",
+        "gloss": "we two obtain",
+        "gram": "1 du. pres. mid. √labh"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.sandhiḥ",
+      "words": [
+       {
+        "w": "bhūmi-sandhiḥ",
+        "gloss": "treaty of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“तुम और मैं भूमि पाते हैं” — यह भूमि-सन्धि है।",
+  "english": "“Both you and I obtain land” — such is the treaty of land.",
+  "text_flags": [],
+  "notes": "labhāvahe is 1st dual present middle, \"we two obtain\"; a hortative sense (\"let us two obtain\") is possible. The quotation is closed by iti, which also opens the label bhūmi-sandhi (glossary: closing particle, label rendered \"Such is X\").",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "07.10.1"
+  ],
+  "lines_deva": [
+   "\"त्वं च-अहं च भूमिं लभावहे\" इति भूमि.सन्धिः"
+  ],
+  "lines_iast": [
+   "\"tvaṃ ca-ahaṃ ca bhūmiṃ labhāvahe\" iti bhūmi.sandhiḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tayor",
+      "words": [
+       {
+        "w": "tayoḥ",
+        "gloss": "of the two",
+        "gram": "m. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyupasthita.arthaḥ",
+      "words": [
+       {
+        "w": "pratyupasthita-arthaḥ",
+        "gloss": "one whose purpose is at hand",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sampannāṃ",
+      "words": [
+       {
+        "w": "sampannām",
+        "gloss": "excellent",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmim",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avāpnoti",
+      "words": [
+       {
+        "w": "avāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ava-√āp"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उन दोनों में से जिसका प्रयोजन सामने उपस्थित है, जो सम्पन्न भूमि प्राप्त करता है, वह छल लेता है।",
+  "english": "Of the two, he whose purpose is at hand, who obtains excellent land, outwits [the other].",
+  "text_flags": [],
+  "notes": "pratyupasthita-artha taken literally as \"having the matter/purpose come to hand\"; the exact sense (ready, present) is open. Object of atisandhatte is not stated. Token \"so 'tisandhatte\" splits into saḥ + atisandhatte (avagraha for a-).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.2"
+  ],
+  "lines_deva": [
+   "तयोर् यः प्रत्युपस्थित.अर्थः सम्पन्नां भूमिम् अवाप्नोति सो ऽतिसन्धत्ते"
+  ],
+  "lines_iast": [
+   "tayor yaḥ pratyupasthita.arthaḥ sampannāṃ bhūmim avāpnoti so 'tisandhatte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulye",
+      "words": [
+       {
+        "w": "tulye",
+        "gloss": "equal",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sampanna.alābhe",
+      "words": [
+       {
+        "w": "sampanna-alābhe",
+        "gloss": "in the non-obtaining of excellent [land]",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavantam",
+      "words": [
+       {
+        "w": "balavantam",
+        "gloss": "strong [one]",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ākramya",
+      "words": [
+       {
+        "w": "ākramya",
+        "gloss": "having attacked",
+        "gram": "abs. ā-√kram"
+       }
+      ]
+     },
+     {
+      "src": "bhūmim",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avāpnoti",
+      "words": [
+       {
+        "w": "avāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ava-√āp"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सम्पन्न की अप्राप्ति समान होने पर, जो बलवान् पर आक्रमण करके भूमि प्राप्त करता है, वह छल लेता है।",
+  "english": "When the non-obtaining of excellent [land] is equal, he who, having attacked a strong [king], obtains land outwits [the other].",
+  "text_flags": [],
+  "notes": "sampanna.alābhe is read literally as sampanna + alābha (non-obtaining of the excellent); the alternative reading sampanna-lābhe (\"when the gain of excellent land is equal\") is possible if alābhe is a sandhi/typing variant. The noun with tulye and the object of atisandhatte are not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.3"
+  ],
+  "lines_deva": [
+   "तुल्ये सम्पन्न.अलाभे यो बलवन्तम् आक्रम्य भूमिम् अवाप्नोति सो ऽतिसन्धत्ते"
+  ],
+  "lines_iast": [
+   "tulye sampanna.alābhe yo balavantam ākramya bhūmim avāpnoti so 'tisandhatte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhūmi.lābhaṃ",
+      "words": [
+       {
+        "w": "bhūmi-lābham",
+        "gloss": "gain of land",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śatru.karśanaṃ",
+      "words": [
+       {
+        "w": "śatru-karśanam",
+        "gloss": "weakening of the enemy",
+        "gram": "n. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "pratāpaṃ",
+      "words": [
+       {
+        "w": "pratāpam",
+        "gloss": "splendour",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāpnoti",
+      "words": [
+       {
+        "w": "prāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. pra-√āp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि भूमि-लाभ, शत्रु का क्षीण करना और प्रताप प्राप्त करता है।",
+  "english": "For [he] obtains the gain of land, the weakening of the enemy, and splendour.",
+  "text_flags": [],
+  "notes": "Subject not stated (continues from the one who outwits). pratāpa taken as splendour (glossary 7.4) (literally \"heat\").",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.4"
+  ],
+  "lines_deva": [
+   "भूमि.लाभं शत्रु.कर्शनं प्रतापं च हि प्राप्नोति"
+  ],
+  "lines_iast": [
+   "bhūmi.lābhaṃ śatru.karśanaṃ pratāpaṃ ca hi prāpnoti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbalād.bhūmi.lābhe",
+      "words": [
+       {
+        "w": "durbalāt",
+        "gloss": "from the weak [one]",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "bhūmi-lābhe",
+        "gloss": "in the gain of land",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "satyaṃ",
+      "words": [
+       {
+        "w": "satyam",
+        "gloss": "truly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saukaryaṃ",
+      "words": [
+       {
+        "w": "saukaryam",
+        "gloss": "ease",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "there is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्बल से भूमि-लाभ होने पर सचमुच सरलता होती है।",
+  "english": "In the gain of land from a weak [king], there is truly ease.",
+  "text_flags": [
+   {
+    "src": "durbalād.bhūmi.lābhe",
+    "suggest": "durbalād bhūmi.lābhe",
+    "why": "possible stray dot: the ablative durbalāt is a separate word (as in unit 9 cala.amitrād.bhūmi.lābhe, same pattern in units 23, 26)"
+   }
+  ],
+  "notes": "The dot after durbalād joins an ablative to a compound; read as two words. satyam taken as \"truly\" (adverb); alternative \"indeed\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.5"
+  ],
+  "lines_deva": [
+   "दुर्बलाद्.भूमि.लाभे सत्यं सौकर्यं भवति"
+  ],
+  "lines_iast": [
+   "durbalād.bhūmi.lābhe satyaṃ saukaryaṃ bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbala",
+      "words": [
+       {
+        "w": "durbalaḥ",
+        "gloss": "weak",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.lābhaḥ,",
+      "words": [
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "gain of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "tat.sāmantaś",
+      "words": [
+       {
+        "w": "tat-sāmantaḥ",
+        "gloss": "his neighbouring chief",
+        "gram": "m. nom. sg. (bahuvrīhi/tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "ally",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "amitra.bhāvaṃ",
+      "words": [
+       {
+        "w": "amitra-bhāvam",
+        "gloss": "state of an enemy",
+        "gram": "m. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "gacchati",
+      "words": [
+       {
+        "w": "gacchati",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और भूमि-लाभ दुर्बल ही है, और उसका सामन्त, मित्र, शत्रु-भाव को जाता है।",
+  "english": "And the gain of land is weak indeed, and his neighbouring chief, an ally, goes to the state of an enemy.",
+  "text_flags": [],
+  "notes": "The first clause is elliptical and rendered literally; the likely sense is that the land acquired from a weak king is itself weak (or that the gain is only of the weak), but the text does not say. tat-sāmanta: tat refers to the one acquiring or the one from whom land is taken, not stated. mitram taken as in apposition to the neighbouring chief.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.10.6"
+  ],
+  "lines_deva": [
+   "दुर्बल एव च भूमि.लाभः, तत्.सामन्तश् च मित्रम् अमित्र.भावं गच्छति"
+  ],
+  "lines_iast": [
+   "durbala eva ca bhūmi.lābhaḥ, tat.sāmantaś ca mitram amitra.bhāvaṃ gacchati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tulye",
+      "words": [
+       {
+        "w": "tulye",
+        "gloss": "equal",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "balīyastve",
+      "words": [
+       {
+        "w": "balīyastve",
+        "gloss": "in superior strength",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthita.śatrum",
+      "words": [
+       {
+        "w": "sthita-śatrum",
+        "gloss": "established enemy",
+        "gram": "m. acc. sg. (karmadhāraya)"
+       }
+      ]
+     },
+     {
+      "src": "utpāṭya",
+      "words": [
+       {
+        "w": "utpāṭya",
+        "gloss": "having uprooted",
+        "gram": "abs. ud-√paṭ caus."
+       }
+      ]
+     },
+     {
+      "src": "bhūmim",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "land",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "avāpnoti",
+      "words": [
+       {
+        "w": "avāpnoti",
+        "gloss": "obtains",
+        "gram": "3 sg. pres. ava-√āp"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "'tisandhatte",
+      "words": [
+       {
+        "w": "atisandhatte",
+        "gloss": "outwits",
+        "gram": "3 sg. pres. mid. ati-sam-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अधिक बल समान होने पर जो स्थित शत्रु को उखाड़कर भूमि प्राप्त करता है, वह छल लेता है।",
+  "english": "When superior strength is equal, he who, having uprooted an established enemy, obtains land outwits [the other].",
+  "text_flags": [],
+  "notes": "sthita-śatru (\"standing/established enemy\") is rendered literally; the contrast intended is not stated here. The object of atisandhatte is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.7"
+  ],
+  "lines_deva": [
+   "तुल्ये बलीयस्त्वे यः स्थित.शत्रुम् उत्पाट्य भूमिम् अवाप्नोति सो ऽतिसन्धत्ते"
+  ],
+  "lines_iast": [
+   "tulye balīyastve yaḥ sthita.śatrum utpāṭya bhūmim avāpnoti so 'tisandhatte"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durga.avāptir",
+      "words": [
+       {
+        "w": "durga-avāptiḥ",
+        "gloss": "obtaining of a fort",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva.bhūmi.rakṣaṇam",
+      "words": [
+       {
+        "w": "sva-bhūmi-rakṣaṇam",
+        "gloss": "protection of one's own ground",
+        "gram": "n. acc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "amitra.aṭavī.pratiṣedhaṃ",
+      "words": [
+       {
+        "w": "amitra-aṭavī-pratiṣedham",
+        "gloss": "barring of enemies and forest tribes",
+        "gram": "m. acc. sg. (dvandva + tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "karoti",
+      "words": [
+       {
+        "w": "karoti",
+        "gloss": "makes",
+        "gram": "3 sg. pres. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि दुर्ग की प्राप्ति अपनी भूमि की रक्षा और शत्रु और वन-जातियों का प्रतिषेध करती है।",
+  "english": "For the obtaining of a fort makes the protection of one's own ground and the barring of enemies and forest tribes.",
+  "text_flags": [],
+  "notes": "amitra.aṭavī is taken as a dvandva (enemies and forest tribes, aṭavī as in glossary 8.1) governed by pratiṣedha; \"karoti\" is rendered \"makes\" (effects).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.8"
+  ],
+  "lines_deva": [
+   "दुर्ग.अवाप्तिर् हि स्व.भूमि.रक्षणम् अमित्र.अटवी.प्रतिषेधं च करोति"
+  ],
+  "lines_iast": [
+   "durga.avāptir hi sva.bhūmi.rakṣaṇam amitra.aṭavī.pratiṣedhaṃ ca karoti"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "cala.amitrād.bhūmi.lābhe",
+      "words": [
+       {
+        "w": "cala-amitrāt",
+        "gloss": "from a fickle enemy",
+        "gram": "m. abl. sg. (karmadhāraya)"
+       },
+       {
+        "w": "bhūmi-lābhe",
+        "gloss": "in the gain of land",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śakya.sāmantato",
+      "words": [
+       {
+        "w": "śakya-sāmantataḥ",
+        "gloss": "than [land with] possible neighbouring chiefs",
+        "gram": "ind. (-tas suffix) (karmadhāraya)"
+       }
+      ]
+     },
+     {
+      "src": "viśeṣaḥ",
+      "words": [
+       {
+        "w": "viśeṣaḥ",
+        "gloss": "distinction",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चल शत्रु से भूमि-लाभ में शक्य सामन्त वाले की अपेक्षा विशेषता है।",
+  "english": "In the gain of land from a fickle enemy, there is a distinction as against [that with] possible neighbouring chiefs.",
+  "text_flags": [
+   {
+    "src": "cala.amitrād.bhūmi.lābhe",
+    "suggest": "cala.amitrād bhūmi.lābhe",
+    "why": "possible stray dot after the ablative cala.amitrād (same pattern as units 5, 23, 26)"
+   }
+  ],
+  "notes": "Very elliptical. cala = unsteady/fickle; śakya = possible/practicable (not elaborated); śakya-sāmantataḥ with the -tas suffix is read as ablative of comparison (\"than/as against\"). Which of the two is superior is not stated in the unit; unit 10 gives the reason for the weak/manageable neighbours.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.10.9"
+  ],
+  "lines_deva": [
+   "चल.अमित्राद्.भूमि.लाभे शक्य.सामन्ततो विशेषः"
+  ],
+  "lines_iast": [
+   "cala.amitrād.bhūmi.lābhe śakya.sāmantato viśeṣaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durbala.sāmantā",
+      "words": [
+       {
+        "w": "durbala-sāmantā",
+        "gloss": "[land] having weak neighbouring chiefs",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣipra.āpyāyana.yoga.kṣemā",
+      "words": [
+       {
+        "w": "kṣipra-āpyāyana-yoga-kṣemā",
+        "gloss": "[land] of quick strengthening, acquisition and security",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि दुर्बल सामन्तों वाली शीघ्र पुष्टि, योग और क्षेम वाली होती है।",
+  "english": "For [land] having weak neighbouring chiefs becomes one of quick strengthening, acquisition and security.",
+  "text_flags": [],
+  "notes": "The feminine forms imply bhūmiḥ (land), not stated. yoga-kṣema = acquisition and security (glossary); āpyāyana = swelling, strengthening, replenishing.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.10"
+  ],
+  "lines_deva": [
+   "दुर्बल.सामन्ता हि क्षिप्र.आप्यायन.योग.क्षेमा भवति"
+  ],
+  "lines_iast": [
+   "durbala.sāmantā hi kṣipra.āpyāyana.yoga.kṣemā bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparītā",
+      "words": [
+       {
+        "w": "viparītā",
+        "gloss": "opposite",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "balavat",
+      "words": [
+       {
+        "w": "balavat",
+        "gloss": "strong",
+        "gram": "adj. stem (first member of compound)"
+       }
+      ]
+     },
+     {
+      "src": "sāmantā",
+      "words": [
+       {
+        "w": "sāmantā",
+        "gloss": "[land] having neighbouring chiefs",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "kośa.daṇḍa.avacchedanī",
+      "words": [
+       {
+        "w": "kośa-daṇḍa-avacchedanī",
+        "gloss": "cutting off treasury and army",
+        "gram": "f. nom. sg. (dvandva + tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmir",
+      "words": [
+       {
+        "w": "bhūmiḥ",
+        "gloss": "land",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "comes to be",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विपरीत भूमि बलवान् सामन्तों वाली और कोश और सेना को काट देने वाली होती है।",
+  "english": "The land that is the opposite, having strong neighbouring chiefs and cutting off treasury and army, comes to be.",
+  "text_flags": [
+   {
+    "src": "balavat sāmantā",
+    "suggest": "balavat.sāmantā",
+    "why": "possible missing compound dot: balavat is the first member of the bahuvrīhi balavat-sāmantā (cf. unit 10 durbala.sāmantā)"
+   }
+  ],
+  "notes": "daṇḍa = army (glossary prakṛti list). The unit reads as the opposite of unit 10.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.11"
+  ],
+  "lines_deva": [
+   "विपरीता बलवत् सामन्ता कोश.दण्ड.अवच्छेदनी च भूमिर् भवति"
+  ],
+  "lines_iast": [
+   "viparītā balavat sāmantā kośa.daṇḍa.avacchedanī ca bhūmir bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sampannā",
+      "words": [
+       {
+        "w": "sampannā",
+        "gloss": "excellent",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nitya.amitrā",
+      "words": [
+       {
+        "w": "nitya-amitrā",
+        "gloss": "having permanent enemies",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "manda.guṇā",
+      "words": [
+       {
+        "w": "manda-guṇā",
+        "gloss": "of weak qualities",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmir",
+      "words": [
+       {
+        "w": "bhūmiḥ",
+        "gloss": "land",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anitya.amitrā-iti",
+      "words": [
+       {
+        "w": "anitya-amitrā",
+        "gloss": "having temporary enemies",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "\"sampannā",
+      "words": [
+       {
+        "w": "sampannā",
+        "gloss": "excellent",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nitya.amitrā",
+      "words": [
+       {
+        "w": "nitya-amitrā",
+        "gloss": "having permanent enemies",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "śreyasī",
+      "words": [
+       {
+        "w": "śreyasī",
+        "gloss": "better",
+        "gram": "f. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "bhūmiḥ",
+      "words": [
+       {
+        "w": "bhūmiḥ",
+        "gloss": "land",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sampannā",
+      "words": [
+       {
+        "w": "sampannā",
+        "gloss": "excellent [land]",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kośa.daṇḍau",
+      "words": [
+       {
+        "w": "kośa-daṇḍau",
+        "gloss": "treasury and army",
+        "gram": "m. acc. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "sampādayati,",
+      "words": [
+       {
+        "w": "sampādayati",
+        "gloss": "provides",
+        "gram": "3 sg. pres. caus. sam-√pad"
+       }
+      ]
+     },
+     {
+      "src": "tau",
+      "words": [
+       {
+        "w": "tau",
+        "gloss": "those two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ca-amitra.pratighātakau",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "amitra-pratighātakau",
+        "gloss": "repellers of the enemy",
+        "gram": "m. nom. du. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ity",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ācāryāḥ",
+      "words": [
+       {
+        "w": "ācāryāḥ",
+        "gloss": "the teachers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“सम्पन्न, नित्य शत्रु वाली अथवा मन्द गुण वाली, अनित्य शत्रु वाली भूमि” — “सम्पन्न, नित्य शत्रु वाली भूमि श्रेष्ठ है, क्योंकि सम्पन्न, कोश और सेना को जुटाती है, और वे दोनों शत्रु का प्रतिघात करने वाले हैं,” ऐसा आचार्य कहते हैं।",
+  "english": "“Excellent land with permanent enemies, or land of weak qualities with temporary enemies” — “Excellent land with permanent enemies is better, for excellent [land] provides treasury and army, and those two are repellers of the enemy,” say the teachers.",
+  "text_flags": [],
+  "notes": "The first iti closes the alternatives (no opening quotation mark is printed); the second quotation is the teachers' view, closed by ity ācāryāḥ (glossary: \"..., say the teachers\"). The quotation is continued by the next unit (na iti kauṭilyaḥ), so it is not flagged. śreyasī = better (comparative of śreyas). sampādayati (caus.) = brings about/provides. amitra-pratighātaka: pratighāta = repulse, warding off.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.12"
+  ],
+  "lines_deva": [
+   "सम्पन्ना नित्य.अमित्रा मन्द.गुणा वा भूमिर् अनित्य.अमित्रा-इति \"सम्पन्ना नित्य.अमित्रा श्रेयसी भूमिः सम्पन्ना हि कोश.दण्डौ सम्पादयति, तौ च-अमित्र.प्रतिघातकौ इत्य् आचार्याः"
+  ],
+  "lines_iast": [
+   "sampannā nitya.amitrā manda.guṇā vā bhūmir anitya.amitrā-iti \"sampannā nitya.amitrā śreyasī bhūmiḥ sampannā hi kośa.daṇḍau sampādayati, tau ca-amitra.pratighātakau ity ācāryāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na-iti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "no",
+        "gram": "ind."
+       },
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kauṭilyaḥ",
+      "words": [
+       {
+        "w": "kauṭilyaḥ",
+        "gloss": "Kautilya",
+        "gram": "m. nom. sg. (name)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“नहीं,” ऐसा कौटिल्य कहते हैं।",
+  "english": "“No,” says Kautilya.",
+  "text_flags": [],
+  "notes": "Formula \"na iti X\" as in glossary (12.1).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "07.10.13"
+  ],
+  "lines_deva": [
+   "न-इति कौटिल्यः"
+  ],
+  "lines_iast": [
+   "na-iti kauṭilyaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nitya.amitra.alābhe",
+      "words": [
+       {
+        "w": "nitya-amitra-alābhe",
+        "gloss": "in the non-obtaining of a permanent enemy",
+        "gram": "m. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "bhūyān",
+      "words": [
+       {
+        "w": "bhūyān",
+        "gloss": "greater",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "śatru.lābho",
+      "words": [
+       {
+        "w": "śatru-lābhaḥ",
+        "gloss": "gain of enemies",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नित्य शत्रु की अप्राप्ति में शत्रु-लाभ अधिक होता है।",
+  "english": "In the non-obtaining of a permanent enemy, the gain of enemies is greater.",
+  "text_flags": [
+   {
+    "src": "nitya.amitra.alābhe",
+    "suggest": "nitya.amitrā.lābhe",
+    "why": "possible: literal 'non-obtaining' makes the sentence contradict itself; lābhe would suit the sense, but the printed text could not be checked"
+   }
+  ],
+  "notes": "Read literally with alābha (non-obtaining). The sense looks contradictory, so another reading is possible: nitya-amitra-lābhe, \"in obtaining [land with] permanent enemies, the acquisition of enemies is greater\" (a typed-text or sandhi question: nityāmitra-alābhe vs. -ālābhe). Not changed in the text. Compare unit 3 sampanna.alābhe.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.10.14"
+  ],
+  "lines_deva": [
+   "नित्य.अमित्र.अलाभे भूयान् शत्रु.लाभो भवति"
+  ],
+  "lines_iast": [
+   "nitya.amitra.alābhe bhūyān śatru.lābho bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nityaś",
+      "words": [
+       {
+        "w": "nityaḥ",
+        "gloss": "permanent",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śatrur",
+      "words": [
+       {
+        "w": "śatruḥ",
+        "gloss": "enemy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upakṛte",
+      "words": [
+       {
+        "w": "upakṛte",
+        "gloss": "when benefited",
+        "gram": "n. loc. sg. ppp. upa-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ca-apakṛte",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "apakṛte",
+        "gloss": "when harmed",
+        "gram": "n. loc. sg. ppp. apa-√kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śatrur",
+      "words": [
+       {
+        "w": "śatruḥ",
+        "gloss": "enemy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "eva",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati,",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "anityas",
+      "words": [
+       {
+        "w": "anityaḥ",
+        "gloss": "temporary",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śatrur",
+      "words": [
+       {
+        "w": "śatruḥ",
+        "gloss": "enemy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "upakārād",
+      "words": [
+       {
+        "w": "upakārāt",
+        "gloss": "by a favour",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "anapakārād",
+      "words": [
+       {
+        "w": "anapakārāt",
+        "gloss": "by non-injury",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śāmyati",
+      "words": [
+       {
+        "w": "śāmyati",
+        "gloss": "is pacified",
+        "gram": "3 sg. pres. √śam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और नित्य शत्रु उपकार किए जाने पर और अपकार किए जाने पर शत्रु ही होता है, किन्तु अनित्य शत्रु उपकार से अथवा अनपकार से शान्त होता है।",
+  "english": "And a permanent enemy, both when benefited and when harmed, is an enemy indeed; but a temporary enemy is pacified by a favour or by non-injury.",
+  "text_flags": [],
+  "notes": "upakṛte and apakṛte are locative absolutes (the person is not named).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "07.10.15"
+  ],
+  "lines_deva": [
+   "नित्यश् च शत्रुर् उपकृते च-अपकृते च शत्रुर् एव भवति, अनित्यस् तु शत्रुर् उपकाराद् अनपकाराद् वा शाम्यति"
+  ],
+  "lines_iast": [
+   "nityaś ca śatrur upakṛte ca-apakṛte ca śatrur eva bhavati, anityas tu śatrur upakārād anapakārād vā śāmyati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyā",
+      "words": [
+       {
+        "w": "yasyāḥ",
+        "gloss": "whose",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmer",
+      "words": [
+       {
+        "w": "bhūmeḥ",
+        "gloss": "of the land",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bahu.durgāś",
+      "words": [
+       {
+        "w": "bahu-durgāḥ",
+        "gloss": "having many forts",
+        "gram": "m. nom. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "cora.gaṇair",
+      "words": [
+       {
+        "w": "cora-gaṇaiḥ",
+        "gloss": "by bands of thieves",
+        "gram": "m. inst. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "mleccha.aṭavībhir",
+      "words": [
+       {
+        "w": "mleccha-aṭavībhiḥ",
+        "gloss": "by mlecchas and forest tribes",
+        "gram": "f. inst. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nitya.avirahitāḥ",
+      "words": [
+       {
+        "w": "nitya-avirahitāḥ",
+        "gloss": "never free",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "pratyantāḥ",
+      "words": [
+       {
+        "w": "pratyantāḥ",
+        "gloss": "frontier [regions]",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "that",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nitya.amitrā,",
+      "words": [
+       {
+        "w": "nitya-amitrā",
+        "gloss": "having permanent enemies",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "viparyaye",
+      "words": [
+       {
+        "w": "viparyaye",
+        "gloss": "in the reverse",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tv",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anitya.amitrā",
+      "words": [
+       {
+        "w": "anitya-amitrā",
+        "gloss": "having temporary enemies",
+        "gram": "f. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि जिस भूमि के बहुत दुर्गों वाले सीमान्त चोरों के दलों से अथवा म्लेच्छों और वन-जातियों से सदा अविरहित हैं, वह नित्य शत्रु वाली है, किन्तु विपर्यय में अनित्य शत्रु वाली।",
+  "english": "For that land whose frontier [regions], with many forts, are never free from bands of thieves or from mlecchas and forest tribes, is one with permanent enemies; but in the reverse, one with temporary enemies.",
+  "text_flags": [],
+  "notes": "yasyā is yasyāḥ with the visarga regularly dropped before the voiced hi (not a typo); yasyāḥ agrees with bhūmeḥ ('of which land'), it is not a double genitive. pratyantāḥ rendered 'frontier [regions]' (could be frontier peoples). aṭavī = forest tribes as in glossary 8.1; mleccha kept as a name.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.16"
+  ],
+  "lines_deva": [
+   "यस्या हि भूमेर् बहु.दुर्गाश् चोर.गणैर् म्लेच्छ.अटवीभिर् वा नित्य.अविरहिताः प्रत्यन्ताः सा नित्य.अमित्रा, विपर्यये त्व् अनित्य.अमित्रा"
+  ],
+  "lines_iast": [
+   "yasyā hi bhūmer bahu.durgāś cora.gaṇair mleccha.aṭavībhir vā nitya.avirahitāḥ pratyantāḥ sā nitya.amitrā, viparyaye tv anitya.amitrā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "alpā",
+      "words": [
+       {
+        "w": "alpā",
+        "gloss": "small",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyāsannā",
+      "words": [
+       {
+        "w": "pratyāsannā",
+        "gloss": "near",
+        "gram": "f. nom. sg. ppp. prati-ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "mahatī",
+      "words": [
+       {
+        "w": "mahatī",
+        "gloss": "large",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyavahitā",
+      "words": [
+       {
+        "w": "vyavahitā",
+        "gloss": "separated",
+        "gram": "f. nom. sg. ppp. vi-ava-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmir",
+      "words": [
+       {
+        "w": "bhūmiḥ",
+        "gloss": "land",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "alpā",
+      "words": [
+       {
+        "w": "alpā",
+        "gloss": "small",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratyāsannā",
+      "words": [
+       {
+        "w": "pratyāsannā",
+        "gloss": "near",
+        "gram": "f. nom. sg. ppp. prati-ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "śreyasī",
+      "words": [
+       {
+        "w": "śreyasī",
+        "gloss": "better",
+        "gram": "f. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“छोटी निकट वाली अथवा बड़ी व्यवहित भूमि” — “छोटी निकट वाली श्रेष्ठ है।”",
+  "english": "“Land that is small, near, or large, separated” — “The small, near [land] is better.”",
+  "text_flags": [],
+  "notes": "The first iti closes the alternatives (a question put by an unnamed view); the second part is the answer. No opening quotation mark is printed. vyavahita = separated/intervened (by other territory), taken literally.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.17"
+  ],
+  "lines_deva": [
+   "अल्पा प्रत्यासन्ना महती व्यवहिता वा भूमिर् इति अल्पा प्रत्यासन्ना श्रेयसी"
+  ],
+  "lines_iast": [
+   "alpā pratyāsannā mahatī vyavahitā vā bhūmir iti alpā pratyāsannā śreyasī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sukhā",
+      "words": [
+       {
+        "w": "sukhā",
+        "gloss": "easy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāptuṃ",
+      "words": [
+       {
+        "w": "prāptum",
+        "gloss": "to obtain",
+        "gram": "inf. pra-√āp"
+       }
+      ]
+     },
+     {
+      "src": "pālayitum",
+      "words": [
+       {
+        "w": "pālayitum",
+        "gloss": "to protect",
+        "gram": "inf. caus. √pāl"
+       }
+      ]
+     },
+     {
+      "src": "abhisārayituṃ",
+      "words": [
+       {
+        "w": "abhisārayitum",
+        "gloss": "to reinforce",
+        "gram": "inf. caus. abhi-√sṛ"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि प्राप्त करने, रक्षा करने और सहायता पहुँचाने में सुगम होती है।",
+  "english": "For [it] is easy to obtain, to protect and to reinforce.",
+  "text_flags": [],
+  "notes": "The feminine sukhā refers to the small, near land of unit 17 (bhūmiḥ). abhisārayitum is the causative of abhi-√sṛ; \"reinforce\" follows the glossary abhisāra = reinforcement.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.18"
+  ],
+  "lines_deva": [
+   "सुखा हि प्राप्तुं पालयितुम् अभिसारयितुं च भवति"
+  ],
+  "lines_iast": [
+   "sukhā hi prāptuṃ pālayitum abhisārayituṃ ca bhavati"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparītā",
+      "words": [
+       {
+        "w": "viparītā",
+        "gloss": "opposite",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyavahitā",
+      "words": [
+       {
+        "w": "vyavahitā",
+        "gloss": "separated",
+        "gram": "f. nom. sg. ppp. vi-ava-√dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विपरीत व्यवहित है।",
+  "english": "The opposite is the separated [land].",
+  "text_flags": [],
+  "notes": "Elliptical: the separated land is the opposite of what unit 18 says (hard to obtain, protect and reinforce). Not stated in the Sanskrit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.19"
+  ],
+  "lines_deva": [
+   "विपरीता व्यवहिता"
+  ],
+  "lines_iast": [
+   "viparītā vyavahitā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "20",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vyavahitayor",
+      "words": [
+       {
+        "w": "vyavahitayoḥ",
+        "gloss": "of the two separated [lands]",
+        "gram": "f. gen. du. ppp."
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.dhāraṇā-ātma.dhāraṇā",
+      "words": [
+       {
+        "w": "daṇḍa-dhāraṇā",
+        "gloss": "holding by the army",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       },
+       {
+        "w": "ātma-dhāraṇā",
+        "gloss": "holding by itself",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmir",
+      "words": [
+       {
+        "w": "bhūmiḥ",
+        "gloss": "land",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ātma.dhāraṇā",
+      "words": [
+       {
+        "w": "ātma-dhāraṇā",
+        "gloss": "holding by itself",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śreyasī",
+      "words": [
+       {
+        "w": "śreyasī",
+        "gloss": "better",
+        "gram": "f. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“दोनों व्यवहित भूमियों में भी सेना द्वारा धारण की जाने वाली अथवा स्वयं धारण की जाने वाली भूमि” — “स्वयं धारण की जाने वाली श्रेष्ठ है।”",
+  "english": "“Even of two separated [lands], land held by the army or land held by itself” — “The one held by itself is better.”",
+  "text_flags": [],
+  "notes": "daṇḍa-dhāraṇā / ātma-dhāraṇā are abstract nouns (\"holding by army / by itself\"); the reading \"held by an army\" vs \"needing an army to hold it\" is open (unit 21 explains: held by its own treasury and army). daṇḍa = army here. The hyphen joins two real words (two entries). No opening quotation mark is printed.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.20"
+  ],
+  "lines_deva": [
+   "व्यवहितयोर् अपि दण्ड.धारणा-आत्म.धारणा वा भूमिर् इति आत्म.धारणा श्रेयसी"
+  ],
+  "lines_iast": [
+   "vyavahitayor api daṇḍa.dhāraṇā-ātma.dhāraṇā vā bhūmir iti ātma.dhāraṇā śreyasī"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "21",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "that",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva.samutthābhyāṃ",
+      "words": [
+       {
+        "w": "sva-samutthābhyām",
+        "gloss": "arisen from itself",
+        "gram": "m. inst. du. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "kośa.daṇḍābhyāṃ",
+      "words": [
+       {
+        "w": "kośa-daṇḍābhyām",
+        "gloss": "by treasury and army",
+        "gram": "m. inst. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "dhāryate",
+      "words": [
+       {
+        "w": "dhāryate",
+        "gloss": "is held",
+        "gram": "3 sg. pres. pass. √dhṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि वह अपने से उत्पन्न कोश और सेना द्वारा धारण की जाती है।",
+  "english": "For it is held by the treasury and army arisen from itself.",
+  "text_flags": [],
+  "notes": "sā refers to the land held by itself (ātma-dhāraṇā).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "07.10.21"
+  ],
+  "lines_deva": [
+   "सा हि स्व.समुत्थाभ्यां कोश.दण्डाभ्यां धार्यते"
+  ],
+  "lines_iast": [
+   "sā hi sva.samutthābhyāṃ kośa.daṇḍābhyāṃ dhāryate"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "22",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparītā",
+      "words": [
+       {
+        "w": "viparītā",
+        "gloss": "opposite",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.dhāraṇā",
+      "words": [
+       {
+        "w": "daṇḍa-dhāraṇā",
+        "gloss": "holding by the army",
+        "gram": "f. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "daṇḍa.sthānam",
+      "words": [
+       {
+        "w": "daṇḍa-sthānam",
+        "gloss": "station of the army",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विपरीत सेना द्वारा धारण करना है, सेना का स्थान।",
+  "english": "The opposite is holding by the army, a station of the army.",
+  "text_flags": [],
+  "notes": "Elliptical; daṇḍa-sthāna read literally as \"station/place of the army\" (daṇḍa = army). The unit may also be read \"the opposite is holding by the army, [which is] a standing-place of the army\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.22"
+  ],
+  "lines_deva": [
+   "विपरीता दण्ड.धारणा दण्ड.स्थानम्"
+  ],
+  "lines_iast": [
+   "viparītā daṇḍa.dhāraṇā daṇḍa.sthānam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "23",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bāliśāt",
+      "words": [
+       {
+        "w": "bāliśāt",
+        "gloss": "from a fool",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "prājñād",
+      "words": [
+       {
+        "w": "prājñāt",
+        "gloss": "from a wise [man]",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.lābha",
+      "words": [
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "gain of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "iti",
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bāliśād.bhūmi.lābhaḥ",
+      "words": [
+       {
+        "w": "bāliśāt",
+        "gloss": "from a fool",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "gain of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śreyān",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "“मूर्ख से अथवा बुद्धिमान् से भूमि-लाभ” — “मूर्ख से भूमि-लाभ श्रेष्ठ है।”",
+  "english": "“Gain of land from a fool or from a wise [man]” — “Gain of land from a fool is better.”",
+  "text_flags": [
+   {
+    "src": "bāliśād.bhūmi.lābhaḥ",
+    "suggest": "bāliśād bhūmi.lābhaḥ",
+    "why": "possible stray dot after the ablative bāliśād (same pattern as units 5, 9, 26); also in the same line bhūmi.lābha iti is sandhi for bhūmi.lābhaḥ iti"
+   }
+  ],
+  "notes": "bāliśa = childish, foolish. The quotation has no opening mark; the second quotation is the answer.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.23"
+  ],
+  "lines_deva": [
+   "बालिशात् प्राज्ञाद् वा भूमि.लाभ इति बालिशाद्.भूमि.लाभः श्रेयान्"
+  ],
+  "lines_iast": [
+   "bāliśāt prājñād vā bhūmi.lābha iti bāliśād.bhūmi.lābhaḥ śreyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "24",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "suprāpyā-anupālyā",
+      "words": [
+       {
+        "w": "suprāpyā",
+        "gloss": "easily obtained",
+        "gram": "f. nom. sg. gerundive su-pra-√āp"
+       },
+       {
+        "w": "anupālyā",
+        "gloss": "to be maintained",
+        "gram": "f. nom. sg. gerundive anu-√pāl"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati,",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "is",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "apratyādeyā",
+      "words": [
+       {
+        "w": "apratyādeyā",
+        "gloss": "not retakable",
+        "gram": "f. nom. sg. gerundive"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि सरलता से प्राप्त होने वाली, पालन किए जाने योग्य होती है और अप्रत्यादेय।",
+  "english": "For [it] is easily obtained, [easily] maintained, and not retakable.",
+  "text_flags": [],
+  "notes": "The su- of suprāpyā is carried over to anupālyā in brackets only for sense (the Sanskrit does not repeat it). apratyādeya = not retakable (glossary 9.4: ādeya/pratyādeya).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.24"
+  ],
+  "lines_deva": [
+   "सुप्राप्या-अनुपाल्या हि भवति, अप्रत्यादेया च"
+  ],
+  "lines_iast": [
+   "suprāpyā-anupālyā hi bhavati, apratyādeyā ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "25",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viparītā",
+      "words": [
+       {
+        "w": "viparītā",
+        "gloss": "opposite",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prājñād",
+      "words": [
+       {
+        "w": "prājñāt",
+        "gloss": "from a wise [man]",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "anuraktā",
+      "words": [
+       {
+        "w": "anuraktā",
+        "gloss": "attached",
+        "gram": "f. nom. sg. ppp. anu-√rañj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "विपरीत बुद्धिमान् से अनुरक्त है।",
+  "english": "The opposite [land], from a wise [man], is attached.",
+  "text_flags": [],
+  "notes": "Elliptical. anurakta = attached/devoted; to whom (the former ruler, or the people to the land) is not stated. Another reading: \"the opposite, from a wise [man], [is] attached\" as a separate remark on the wise man's land.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.10.25"
+  ],
+  "lines_deva": [
+   "विपरीता प्राज्ञाद् अनुरक्ता"
+  ],
+  "lines_iast": [
+   "viparītā prājñād anuraktā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "26",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pīḍanīya.ucchedanīyayor",
+      "words": [
+       {
+        "w": "pīḍanīya-ucchedanīyayoḥ",
+        "gloss": "of the one to be afflicted and the one to be uprooted",
+        "gram": "m. gen. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "ucchedanīyād",
+      "words": [
+       {
+        "w": "ucchedanīyāt",
+        "gloss": "from the one to be uprooted",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.lābhaḥ",
+      "words": [
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "gain of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śreyān",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पीड़न किए जाने योग्य और उच्छेद किए जाने योग्य में से उच्छेद किए जाने योग्य से भूमि-लाभ श्रेष्ठ है।",
+  "english": "Of the one to be afflicted and the one to be uprooted, the gain of land from the one to be uprooted is better.",
+  "text_flags": [],
+  "notes": "The two gerundives (pīḍanīya, ucchedanīya) name persons (enemies); the genitive dual is read as partitive. pīḍana = affliction (glossary 8.4).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.26"
+  ],
+  "lines_deva": [
+   "पीडनीय.उच्छेदनीययोर् उच्छेदनीयाद् भूमि.लाभः श्रेयान्"
+  ],
+  "lines_iast": [
+   "pīḍanīya.ucchedanīyayor ucchedanīyād bhūmi.lābhaḥ śreyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "27",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ucchedanīyo",
+      "words": [
+       {
+        "w": "ucchedanīyaḥ",
+        "gloss": "one to be uprooted",
+        "gram": "m. nom. sg. gerundive ud-√chid"
+       }
+      ]
+     },
+     {
+      "src": "hy",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "anapāśrayo",
+      "words": [
+       {
+        "w": "anapāśrayaḥ",
+        "gloss": "without support",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "durbala.apāśrayo",
+      "words": [
+       {
+        "w": "durbala-apāśrayaḥ",
+        "gloss": "having a weak support",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "vā-abhiyuktaḥ",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       },
+       {
+        "w": "abhiyuktaḥ",
+        "gloss": "attacked",
+        "gram": "m. nom. sg. ppp. abhi-√yuj"
+       }
+      ]
+     },
+     {
+      "src": "kośa.daṇḍāv",
+      "words": [
+       {
+        "w": "kośa-daṇḍau",
+        "gloss": "treasury and army",
+        "gram": "m. acc. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "ādāya-apasartu.kāmaḥ",
+      "words": [
+       {
+        "w": "ādāya",
+        "gloss": "having taken",
+        "gram": "abs. ā-√dā"
+       },
+       {
+        "w": "apasartu-kāmaḥ",
+        "gloss": "desirous of retreating",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "prakṛtibhis",
+      "words": [
+       {
+        "w": "prakṛtibhiḥ",
+        "gloss": "by the constituent elements",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "tyajyate,",
+      "words": [
+       {
+        "w": "tyajyate",
+        "gloss": "is abandoned",
+        "gram": "3 sg. pres. pass. √tyaj"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pīḍanīyo",
+      "words": [
+       {
+        "w": "pīḍanīyaḥ",
+        "gloss": "one to be afflicted",
+        "gram": "m. nom. sg. gerundive √pīḍ"
+       }
+      ]
+     },
+     {
+      "src": "durga.mitra.pratiṣṭabdhaḥ",
+      "words": [
+       {
+        "w": "durga-mitra-pratiṣṭabdhaḥ",
+        "gloss": "propped by fort and ally",
+        "gram": "m. nom. sg. ppp. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि उच्छेद किए जाने योग्य, आश्रयहीन अथवा दुर्बल आश्रय वाला, आक्रमण किए जाने पर कोश और सेना को लेकर हट जाने की इच्छा रखने वाला, प्रकृतियों द्वारा त्याग दिया जाता है; दुर्ग और मित्र के सहारे टिका हुआ पीड़न किए जाने योग्य नहीं।",
+  "english": "For the one to be uprooted—without support or with a weak support—when attacked, desirous of retreating with treasury and army taken, is abandoned by his constituent elements; not [so] the one to be afflicted, propped by fort and ally.",
+  "text_flags": [],
+  "notes": "The verb of the last clause is not stated (\"is abandoned\" understood). pratiṣṭabdha is taken as \"propped, firmly supported\" (literally also \"obstructed/stiffened\"). apasartu-kāma is apasartum + kāma (the m of the infinitive dropped in the compound). prakṛti = constituent element (glossary).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.27"
+  ],
+  "lines_deva": [
+   "उच्छेदनीयो ह्य् अनपाश्रयो दुर्बल.अपाश्रयो वा-अभियुक्तः कोश.दण्डाव् आदाय-अपसर्तु.कामः प्रकृतिभिस् त्यज्यते, न पीडनीयो दुर्ग.मित्र.प्रतिष्टब्धः"
+  ],
+  "lines_iast": [
+   "ucchedanīyo hy anapāśrayo durbala.apāśrayo vā-abhiyuktaḥ kośa.daṇḍāv ādāya-apasartu.kāmaḥ prakṛtibhis tyajyate, na pīḍanīyo durga.mitra.pratiṣṭabdhaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "28",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "durga.pratiṣṭabdhayor",
+      "words": [
+       {
+        "w": "durga-pratiṣṭabdhayoḥ",
+        "gloss": "of the two propped by a fort",
+        "gram": "m. gen. du. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "api",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthala.nadī.durgīyābhyāṃ",
+      "words": [
+       {
+        "w": "sthala-nadī-durgīyābhyām",
+        "gloss": "of the one with a land fort and the one with a river fort",
+        "gram": "m. abl. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "sthala.durgīyād",
+      "words": [
+       {
+        "w": "sthala-durgīyāt",
+        "gloss": "from the one with a land fort",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.lābhaḥ",
+      "words": [
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "gain of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śreyān",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दुर्ग के सहारे टिके दोनों में भी स्थल-दुर्ग वाले और नदी-दुर्ग वाले में से स्थल-दुर्ग वाले से भूमि-लाभ श्रेष्ठ है।",
+  "english": "Even of two propped by a fort—[the one] with a land fort and [the one] with a river fort—the gain of land from [the one] with a land fort is better.",
+  "text_flags": [],
+  "notes": "durgīya = \"belonging to a fort\" (of the stated kind); the ablative dual is read as partitive, as in unit 26. sthala = dry land (as against river).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.28"
+  ],
+  "lines_deva": [
+   "दुर्ग.प्रतिष्टब्धयोर् अपि स्थल.नदी.दुर्गीयाभ्यां स्थल.दुर्गीयाद् भूमि.लाभः श्रेयान्"
+  ],
+  "lines_iast": [
+   "durga.pratiṣṭabdhayor api sthala.nadī.durgīyābhyāṃ sthala.durgīyād bhūmi.lābhaḥ śreyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "29",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sthāleyaṃ",
+      "words": [
+       {
+        "w": "sthāleyam",
+        "gloss": "of the dry land",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "surodha.avamarda.avaskandam",
+      "words": [
+       {
+        "w": "surodha-avamarda-avaskandam",
+        "gloss": "with blockade, crushing and assault easy",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "anihśrāvi.śatru",
+      "words": [
+       {
+        "w": "aniḥśrāvi-śatru",
+        "gloss": "with an aniḥśrāvi enemy",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि स्थलीय सुगम अवरोध, मर्दन और आक्रमण वाला है, और अनिःश्रावि शत्रु वाला।",
+  "english": "For the [fort] of the dry land is one with easy blockade, crushing and assault, and with an aniḥśrāvi enemy.",
+  "text_flags": [],
+  "notes": "\"Fort\" (durga) is not stated; sthāleya is neuter, agreeing with durga understood. Whether su- governs avamarda and avaskanda as well as rodha is uncertain. aniḥśrāvi is obscure (literally perhaps \"not flowing out\"; cf. niḥ-√sru or niḥ-√śru) and is left untranslated in the English and Hindi; no sense is guessed. avamarda = crushing, avaskanda = assault (glossary). The h in anihśrāvi is the e-text's usual spelling of visarga before a sibilant (cf. nihśalyaḥ), so no text_flag.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.10.29"
+  ],
+  "lines_deva": [
+   "स्थालेयं हि सुरोध.अवमर्द.अवस्कन्दम् अनिह्श्रावि.शत्रु च"
+  ],
+  "lines_iast": [
+   "sthāleyaṃ hi surodha.avamarda.avaskandam anihśrāvi.śatru ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "30",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nadī.durgaṃ",
+      "words": [
+       {
+        "w": "nadī-durgam",
+        "gloss": "river fort",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvi.guṇa.kleśa.karam,",
+      "words": [
+       {
+        "w": "dvi-guṇa-kleśa-karam",
+        "gloss": "making twofold hardship",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "udakaṃ",
+      "words": [
+       {
+        "w": "udakam",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pātavyaṃ",
+      "words": [
+       {
+        "w": "pātavyam",
+        "gloss": "to be guarded",
+        "gram": "n. nom. sg. gerundive √pā"
+       }
+      ]
+     },
+     {
+      "src": "vṛtti.karaṃ",
+      "words": [
+       {
+        "w": "vṛtti-karam",
+        "gloss": "providing livelihood",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca-amitrasya",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "amitrasya",
+        "gloss": "to the enemy",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु नदी-दुर्ग दुगुना क्लेश करने वाला है, और जल रक्षणीय है और शत्रु की जीविका करने वाला।",
+  "english": "But a river fort causes twofold hardship, and the water is to be guarded and provides livelihood to the enemy.",
+  "text_flags": [],
+  "notes": "pātavya is from √pā: \"to be guarded\" (√pā protect) or \"to be drunk\" (√pā drink); \"guarded\" is chosen, the alternative is possible. amitrasya is a genitive (of/for the enemy) taken with vṛtti-kara. The grouping of the two ca is uncertain.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.10.30"
+  ],
+  "lines_deva": [
+   "नदी.दुर्गं तु द्वि.गुण.क्लेश.करम्, उदकं च पातव्यं वृत्ति.करं च-अमित्रस्य"
+  ],
+  "lines_iast": [
+   "nadī.durgaṃ tu dvi.guṇa.kleśa.karam, udakaṃ ca pātavyaṃ vṛtti.karaṃ ca-amitrasya"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "31",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nadī.parvata.durgīyābhyāṃ",
+      "words": [
+       {
+        "w": "nadī-parvata-durgīyābhyām",
+        "gloss": "of the one with a river fort and the one with a mountain fort",
+        "gram": "m. abl. du. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "nadī.durgīyād",
+      "words": [
+       {
+        "w": "nadī-durgīyāt",
+        "gloss": "from the one with a river fort",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "bbhūmi.lābhaḥ",
+      "words": [
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "gain of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śreyān",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नदी-दुर्ग वाले और पर्वत-दुर्ग वाले में से नदी-दुर्ग वाले से भूमि-लाभ श्रेष्ठ है।",
+  "english": "Of [the one] with a river fort and [the one] with a mountain fort, the gain of land from [the one] with a river fort is better.",
+  "text_flags": [
+   {
+    "src": "bbhūmi.lābhaḥ",
+    "suggest": "bhūmi.lābhaḥ",
+    "why": "doubled b: stray letter (the previous word nadī.durgīyād already ends in d)"
+   }
+  ],
+  "notes": "Same pattern as unit 28; the Devanagari line has the same ब्भूमि (the e-text also has लब्भेत, यथा.लाब्भम्, उत्साह.अब्भावे), so it is an e-text slip, not a transcription of the Sanskrit.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.31"
+  ],
+  "lines_deva": [
+   "नदी.पर्वत.दुर्गीयाभ्यां नदी.दुर्गीयाद् ब्भूमि.लाभः श्रेयान्"
+  ],
+  "lines_iast": [
+   "nadī.parvata.durgīyābhyāṃ nadī.durgīyād bbhūmi.lābhaḥ śreyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "32",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nadī.durgaṃ",
+      "words": [
+       {
+        "w": "nadī-durgam",
+        "gloss": "river fort",
+        "gram": "n. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hasti.stambha.saṅkrama.setu.bandha.naubhiḥ",
+      "words": [
+       {
+        "w": "hasti-stambha-saṅkrama-setu-bandha-naubhiḥ",
+        "gloss": "by elephants, posts, crossings, embankment-dams and boats",
+        "gram": "f. inst. pl. (dvandva)"
+       }
+      ]
+     },
+     {
+      "src": "sādhyam",
+      "words": [
+       {
+        "w": "sādhyam",
+        "gloss": "to be accomplished",
+        "gram": "n. nom. sg. gerundive √sādh"
+       }
+      ]
+     },
+     {
+      "src": "anitya.gāmbhīryam",
+      "words": [
+       {
+        "w": "anitya-gāmbhīryam",
+        "gloss": "of non-permanent depth",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "avasrāvy",
+      "words": [
+       {
+        "w": "avasrāvi",
+        "gloss": "flowing off",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "udakaṃ",
+      "words": [
+       {
+        "w": "udakam",
+        "gloss": "water",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि नदी-दुर्ग हाथियों, खम्भों, संक्रमों, सेतु-बन्धों, नावों से साध्य है, और जल अस्थायी गहराई वाला, बह जाने वाला है।",
+  "english": "For a river fort is to be accomplished by elephants, posts, crossings, embankment-dams and boats, and the water, of non-permanent depth, is flowing off.",
+  "text_flags": [],
+  "notes": "The items of the dvandva are taken as five (hasti, stambha, saṅkrama, setu-bandha, nau); hasti-stambha as one item (\"elephant-posts\") is also possible. sādhya = to be accomplished/overcome (the object not stated). anitya-gāmbhīrya and avasrāvi are taken as adjectives of udakam; \"avasrāvi\" is literally \"flowing off/down\".",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.32"
+  ],
+  "lines_deva": [
+   "नदी.दुर्गं हि हस्ति.स्तम्भ.सङ्क्रम.सेतु.बन्ध.नौभिः साध्यम् अनित्य.गाम्भीर्यम् अवस्राव्य् उदकं च"
+  ],
+  "lines_iast": [
+   "nadī.durgaṃ hi hasti.stambha.saṅkrama.setu.bandha.naubhiḥ sādhyam anitya.gāmbhīryam avasrāvy udakaṃ ca"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "33",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pārvataṃ",
+      "words": [
+       {
+        "w": "pārvatam",
+        "gloss": "of the mountain",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sv.ārakṣaṃ",
+      "words": [
+       {
+        "w": "su-ārakṣam",
+        "gloss": "easy to guard",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "duruparodhi",
+      "words": [
+       {
+        "w": "duruparodhi",
+        "gloss": "hard to blockade",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛcchra.ārohaṇam,",
+      "words": [
+       {
+        "w": "kṛcchra-ārohaṇam",
+        "gloss": "with difficult ascent",
+        "gram": "n. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "bhagne",
+      "words": [
+       {
+        "w": "bhagne",
+        "gloss": "when broken",
+        "gram": "n. loc. sg. ppp. √bhañj"
+       }
+      ]
+     },
+     {
+      "src": "ca-ekasmin",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ekasmin",
+        "gloss": "in one",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarva.vadhaḥ,",
+      "words": [
+       {
+        "w": "sarva-vadhaḥ",
+        "gloss": "destruction of all",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śilā.vṛkṣa.pramokṣaś",
+      "words": [
+       {
+        "w": "śilā-vṛkṣa-pramokṣaḥ",
+        "gloss": "release of rocks and trees",
+        "gram": "m. nom. sg. (dvandva + tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mahā.apakāriṇām",
+      "words": [
+       {
+        "w": "mahā-apakāriṇām",
+        "gloss": "of those doing great harm",
+        "gram": "m. gen. pl. (karmadhāraya)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किन्तु पार्वत सुरक्षा में सरल, कठिनाई से अवरोध करने योग्य, कठिन चढ़ाई वाला है, और एक के टूटने पर सबका वध नहीं, और शिला-वृक्षों का छोड़ना बड़ा अपकार करने वालों का।",
+  "english": "But the [fort] of the mountain is easy to guard, hard to blockade, with a difficult ascent; and when one is broken, [there is] not the destruction of all; and the release of rocks and trees [is that] of those who do great harm.",
+  "text_flags": [],
+  "notes": "\"Fort\" (durga) is understood. The printed sv.ārakṣam is su-ārakṣam (sv. = su before ā, the dot marking the compound boundary), not a typo. bhagne ca ekasmin: \"one\" (part/fort/post) is not named. The last clause is elliptical: the genitive mahā-apakāriṇām may mean the rocks and trees are a means of (or are hurled upon) those doing great harm; the text does not say, so it is rendered literally.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "07.10.33"
+  ],
+  "lines_deva": [
+   "पार्वतं तु स्व्.आरक्षं दुरुपरोधि कृच्छ्र.आरोहणम्, भग्ने च-एकस्मिन् न सर्व.वधः, शिला.वृक्ष.प्रमोक्षश् च महा.अपकारिणाम्"
+  ],
+  "lines_iast": [
+   "pārvataṃ tu sv.ārakṣaṃ duruparodhi kṛcchra.ārohaṇam, bhagne ca-ekasmin na sarva.vadhaḥ, śilā.vṛkṣa.pramokṣaś ca mahā.apakāriṇām"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "34",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nimna.sthala.yodhibhyo",
+      "words": [
+       {
+        "w": "nimna-sthala-yodhibhyaḥ",
+        "gloss": "from fighters in low ground and on dry ground",
+        "gram": "m. abl. pl. (dvandva + tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "nimna.yodhibhyo",
+      "words": [
+       {
+        "w": "nimna-yodhibhyaḥ",
+        "gloss": "from fighters in low ground",
+        "gram": "m. abl. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.lābhaḥ",
+      "words": [
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "gain of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śreyān",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निम्न भूमि और स्थल में लड़ने वालों में से निम्न भूमि में लड़ने वालों से भूमि-लाभ श्रेष्ठ है।",
+  "english": "Of those who fight in low ground and those who fight on dry ground, the gain of land from those who fight in low ground is better.",
+  "text_flags": [],
+  "notes": "nimna = low ground; sthala = dry ground. The ablative plural is read as partitive, as in unit 26.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.34"
+  ],
+  "lines_deva": [
+   "निम्न.स्थल.योधिभ्यो निम्न.योधिभ्यो भूमि.लाभः श्रेयान्"
+  ],
+  "lines_iast": [
+   "nimna.sthala.yodhibhyo nimna.yodhibhyo bhūmi.lābhaḥ śreyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "35",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nimna.yodhino",
+      "words": [
+       {
+        "w": "nimna-yodhinaḥ",
+        "gloss": "those who fight in low ground",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "hy",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "uparuddha.deśa.kālāḥ,",
+      "words": [
+       {
+        "w": "uparuddha-deśa-kālāḥ",
+        "gloss": "having place and time restricted",
+        "gram": "m. nom. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "sthala.yodhinas",
+      "words": [
+       {
+        "w": "sthala-yodhinaḥ",
+        "gloss": "those who fight on dry ground",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "tu",
+      "words": [
+       {
+        "w": "tu",
+        "gloss": "but",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sarva.deśa.kāla.yodhinaḥ",
+      "words": [
+       {
+        "w": "sarva-deśa-kāla-yodhinaḥ",
+        "gloss": "fighting in every place and time",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि निम्न भूमि में लड़ने वालों के देश और काल अवरुद्ध हैं, किन्तु स्थल में लड़ने वाले सब देश और काल में लड़ने वाले हैं।",
+  "english": "For those who fight in low ground have place and time restricted, but those who fight on dry ground fight in every place and time.",
+  "text_flags": [],
+  "notes": "uparuddha = obstructed, restricted. deśa = place.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.35"
+  ],
+  "lines_deva": [
+   "निम्न.योधिनो ह्य् उपरुद्ध.देश.कालाः, स्थल.योधिनस् तु सर्व.देश.काल.योधिनः"
+  ],
+  "lines_iast": [
+   "nimna.yodhino hy uparuddha.deśa.kālāḥ, sthala.yodhinas tu sarva.deśa.kāla.yodhinaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "36",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "khanaka.ākāśa.yodhibhyaḥ",
+      "words": [
+       {
+        "w": "khanaka-ākāśa-yodhibhyaḥ",
+        "gloss": "from diggers and fighters in the sky",
+        "gram": "m. abl. pl. (dvandva + tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "khanakebhyo",
+      "words": [
+       {
+        "w": "khanakebhyaḥ",
+        "gloss": "from diggers",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhūmi.lābhaḥ",
+      "words": [
+       {
+        "w": "bhūmi-lābhaḥ",
+        "gloss": "gain of land",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     },
+     {
+      "src": "śreyān",
+      "words": [
+       {
+        "w": "śreyān",
+        "gloss": "better",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "खोदने वालों और आकाश में लड़ने वालों में से खोदने वालों से भूमि-लाभ श्रेष्ठ है।",
+  "english": "Of diggers and those who fight in the sky, the gain of land from the diggers is better.",
+  "text_flags": [],
+  "notes": "khanaka = digger (miner); ākāśa-yodhin literally \"sky-fighter\" (fighting in the open air); unit 37 says they fight with a weapon only. The ablative plural is read as partitive.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.36"
+  ],
+  "lines_deva": [
+   "खनक.आकाश.योधिभ्यः खनकेभ्यो भूमि.लाभः श्रेयान्"
+  ],
+  "lines_iast": [
+   "khanaka.ākāśa.yodhibhyaḥ khanakebhyo bhūmi.lābhaḥ śreyān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "37",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "khanakā",
+      "words": [
+       {
+        "w": "khanakāḥ",
+        "gloss": "diggers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khātena",
+      "words": [
+       {
+        "w": "khātena",
+        "gloss": "with excavation",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śastreṇa",
+      "words": [
+       {
+        "w": "śastreṇa",
+        "gloss": "with a weapon",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca-ubhayathā",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ubhayathā",
+        "gloss": "in both ways",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yudhyante,",
+      "words": [
+       {
+        "w": "yudhyante",
+        "gloss": "fight",
+        "gram": "3 pl. pres. mid. √yudh"
+       }
+      ]
+     },
+     {
+      "src": "śastreṇa-eva-ākāśa.yodhinaḥ",
+      "words": [
+       {
+        "w": "śastreṇa",
+        "gloss": "with a weapon",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "eva",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "ākāśa-yodhinaḥ",
+        "gloss": "those who fight in the sky",
+        "gram": "m. nom. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि खोदने वाले खात से और शस्त्र से दोनों प्रकार से लड़ते हैं, आकाश में लड़ने वाले शस्त्र से ही।",
+  "english": "For diggers fight in both ways, with excavation and with a weapon; those who fight in the sky, with a weapon only.",
+  "text_flags": [],
+  "notes": "khāta = excavation (trench, pit); the verb of the last clause is not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.37"
+  ],
+  "lines_deva": [
+   "खनका हि खातेन शस्त्रेण च-उभयथा युध्यन्ते, शस्त्रेण-एव-आकाश.योधिनः"
+  ],
+  "lines_iast": [
+   "khanakā hi khātena śastreṇa ca-ubhayathā yudhyante, śastreṇa-eva-ākāśa.yodhinaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "38",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "evaṃ.vidhyebhyaḥ",
+      "words": [
+       {
+        "w": "evam-vidhebhyaḥ",
+        "gloss": "from those of this kind",
+        "gram": "m. abl. pl. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "pṛthivīṃ",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "labhamāno",
+      "words": [
+       {
+        "w": "labhamānaḥ",
+        "gloss": "obtaining",
+        "gram": "m. nom. sg. pres. part. mid. √labh"
+       }
+      ]
+     },
+     {
+      "src": "'rtha.śāstravit",
+      "words": [
+       {
+        "w": "artha-śāstra-vit",
+        "gloss": "knower of the science of wealth",
+        "gram": "m. nom. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃhitebhyaḥ",
+      "words": [
+       {
+        "w": "saṃhitebhyaḥ",
+        "gloss": "from the allied",
+        "gram": "m. abl. pl. ppp. sam-√dhā"
+       }
+      ]
+     },
+     {
+      "src": "parebhyaś",
+      "words": [
+       {
+        "w": "parebhyaḥ",
+        "gloss": "from the others",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśeṣam",
+      "words": [
+       {
+        "w": "viśeṣam",
+        "gloss": "superiority",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhigacchati",
+      "words": [
+       {
+        "w": "adhigacchati",
+        "gloss": "attains",
+        "gram": "3 sg. pres. adhi-√gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार वालों से पृथ्वी प्राप्त करता हुआ अर्थशास्त्र को जानने वाला, मिले हुए और दूसरों की अपेक्षा विशेषता प्राप्त करता है।",
+  "english": "The knower of the science of wealth, obtaining the earth from those of this kind, attains superiority over the allied and over the others.",
+  "text_flags": [
+   {
+    "src": "evaṃ.vidhyebhyaḥ",
+    "suggest": "evaṃ.vidhebhyaḥ",
+    "why": "possible stray y: evaṃvidha, \"of this kind\", not a form of vidhya"
+   }
+  ],
+  "notes": "\"The science of wealth\" is the title word artha-śāstra, taken literally. The ablatives saṃhitebhyaḥ parebhyaḥ are read as ablatives of comparison (\"than/over\"); \"the others\" = pare, not necessarily \"enemies\" (glossary 9.2). Verse (two half-lines).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "07.10.38a",
+   "07.10.38b"
+  ],
+  "lines_deva": [
+   "एवं.विध्येभ्यः पृथिवीं लभमानो ऽर्थ.शास्त्रवित्",
+   "संहितेभ्यः परेभ्यश् च विशेषम् अधिगच्छति"
+  ],
+  "lines_iast": [
+   "evaṃ.vidhyebhyaḥ pṛthivīṃ labhamāno 'rtha.śāstravit",
+   "saṃhitebhyaḥ parebhyaś ca viśeṣam adhigacchati"
+  ],
+  "uncertain": []
+ }
+]
