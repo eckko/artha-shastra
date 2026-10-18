@@ -634,11 +634,13 @@
      },
      {
       "src": "iti",
-      "words": {
-       "w": "iti",
-       "gloss": "closing particle",
-       "gram": "ind."
-      }
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
      },
      {
       "src": "vivāha.dharmaḥ",
@@ -2388,11 +2390,13 @@
      },
      {
       "src": "iti",
-      "words": {
-       "w": "iti",
-       "gloss": "closing particle",
-       "gram": "ind."
-      }
+      "words": [
+       {
+        "w": "iti",
+        "gloss": "closing particle",
+        "gram": "ind."
+       }
+      ]
      },
      {
       "src": "strī.dhana.kalpaḥ",
@@ -2529,7 +2533,7 @@
   "hindi": "आठ वर्ष तक प्रसव न करने वाली, पुत्रहीन और बाँझ की प्रतीक्षा करे; दस वर्ष निन्दु की; बारह वर्ष कन्याओं को जन्म देने वाली की।",
   "english": "[He] should wait eight years for a [woman] not giving birth, sonless and barren; [ten years] for a nindu; [twelve years] for one bearing daughters.",
   "text_flags": [],
-  "notes": "nindu is obscure and kept as printed (the dictionary sense is a woman whose children die; low confidence). 'ca' here joins the three descriptions, though the Sanskrit lists them without further 'ca'; the join '-' links ca and ākāṅkṣeta. The subject is not stated. 'Years' is carried over to 'ten' and 'twelve' (bracketed in English).",
+  "notes": "nindu is obscure and kept as printed (the dictionary sense is a woman whose children die; low confidence). The printed 'ca-ākāṅkṣeta' is a '-' join of ca and ākāṅkṣeta; ca is read as joining the three descriptions. The subject is not stated. 'Years' is carried over to 'ten' and 'twelve' (bracketed in English).",
   "confidence": "low"
  },
  {
@@ -2971,7 +2975,7 @@
     ]
    }
   ],
-  "hindi": "और इनके तीर्थ एक साथ आने पर विवाह के अनुसार पहले विवाहित अथवा जीवित पुत्र वाली के पास पहले जाए।",
+  "hindi": "और इनके तीर्थ एक साथ आने पर विवाह के अनुसार, पूर्व में विवाहित अथवा जीवित पुत्र वाली के पास पहले जाए।",
   "english": "And when the tīrtha of these [women] coincide, [he] should go first, according to marriage, to the one married earlier or to one having a living son.",
   "text_flags": [],
   "notes": "tīrtha is obscure here (literally 'ford, access'; commentators may take it as a fertile time) and is kept as printed. 'According to marriage' presumably means in the order of the marriages. The subject is not stated. Hindi तीर्थ here does not mean a place of pilgrimage.",
